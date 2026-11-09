@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Cómo pagar</title>
+<link rel="stylesheet" href="base.css">
+<style>
+/* Propio de esta pantalla. Si otra pantalla lo necesita, pasarlo a base.css (tarjeta #17). */
+.ic-celular { --i: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'><rect x='7' y='3' width='10' height='18' rx='2.5'/><path d='M11 18h2'/></svg>"); }
+
+.opciones { display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; }
+.opcion {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+  min-height: 92px;
+  padding: 12px 6px;
+  border-radius: var(--radio);
+  background: var(--papel);
+  border: 2px solid var(--linea);
+  font-weight: 650;
+  font-size: .875rem;
+  line-height: 1.2;
+  text-align: center;
+}
+.opcion .ic { color: var(--suave); }
+.opcion[aria-selected="true"] { border-color: var(--mar); background: var(--mar-suave); }
+.opcion[aria-selected="true"] .ic { color: var(--mar); }
+
+.panel { display: flex; flex-direction: column; gap: var(--margen); }
+.panel[hidden] { display: none; }
+
+.sirve { display: flex; flex-wrap: wrap; gap: 6px; }
+.sirve span {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 4px 10px 4px 6px;
+  border-radius: 99px;
+  background: var(--ok-suave);
+  color: var(--tinta);
+  font-size: .8125rem;
+  font-weight: 600;
+}
+.sirve span .ic { color: var(--ok); }
+.sirve span.duda { background: var(--sol-suave); padding-left: 10px; }
+
+.tabla { width: 100%; border-collapse: collapse; font-size: .875rem; }
+.tabla th, .tabla td { padding: 10px 6px; text-align: center; border-top: 1px solid var(--linea); }
+.tabla thead th { border-top: 0; color: var(--suave); font-weight: 600; font-size: .8125rem; }
+.tabla tbody th { text-align: left; font-weight: 650; padding-left: 0; }
+.tabla .ic { color: var(--ok); vertical-align: middle; }
+.tabla .duda { color: var(--suave); font-weight: 700; }
+</style>
+</head>
+<body>
+<div class="pantalla">
+
+  <header class="barra-arriba">
+    <a class="boton-icono" href="moverse.html" aria-label="Volver"><i class="ic ic-atras"></i></a>
+    <span class="nombre">Cómo pagar</span>
+  </header>
+
+  <main class="contenido">
+    <h1 class="titulo">Cómo pagar el transporte</h1>
+
+    <!-- La respuesta corta, antes que nada -->
+    <div class="heroe">
+      <p class="subtitulo">No hace falta comprar nada para empezar</p>
+      <p class="suave" style="margin-top:4px">Si tu tarjeta es Visa o Mastercard sin contacto, ya podés pagar el colectivo. También sirven las de otros países.</p>
+    </div>
+
+    <section aria-labelledby="t-elegi">
+      <h2 class="subtitulo" id="t-elegi" style="margin-bottom:10px">Elegí cómo querés pagar</h2>
+      <div class="opciones" role="tablist" aria-label="Formas de pago">
+        <button class="opcion" type="button" role="tab" id="tab-tarjeta" aria-controls="panel-tarjeta" aria-selected="true"><i class="ic ic-tarjeta"></i>Mi tarjeta</button>
+        <button class="opcion" type="button" role="tab" id="tab-celular" aria-controls="panel-celular" aria-selected="false" tabindex="-1"><i class="ic ic-celular"></i>Celular o reloj</button>
+        <button class="opcion" type="button" role="tab" id="tab-sube" aria-controls="panel-sube" aria-selected="false" tabindex="-1"><i class="ic ic-guardar"></i>Tarjeta SUBE</button>
+      </div>
+    </section>
+
+    <section class="panel" id="panel-tarjeta" role="tabpanel" aria-labelledby="tab-tarjeta">
+      <div class="sirve" aria-label="Dónde sirve">
+        <span><i class="ic chico ic-listo"></i>Colectivo</span>
+        <span class="duda">Subte: falta confirmar</span>
+      </div>
+      <ol class="pasos">
+        <li><div><b>Mirá que tenga el símbolo de ondas</b><span>Es el de pago sin contacto. Crédito, débito o prepaga.</span></div></li>
+        <li><div><b>Acercala al lector al subir</b><span>Está al lado del chofer.</span></div></li>
+        <li><div><b>Esperá la confirmación</b><span>Tarda un segundo.</span></div></li>
+      </ol>
+    </section>
+
+    <section class="panel" id="panel-celular" role="tabpanel" aria-labelledby="tab-celular" hidden>
+      <div class="sirve" aria-label="Dónde sirve">
+        <span><i class="ic chico ic-listo"></i>Colectivo</span>
+        <span class="duda">Subte: falta confirmar</span>
+      </div>
+      <ol class="pasos">
+        <li><div><b>Cargá tu tarjeta en el celular o el reloj</b><span>En la billetera que ya usás para pagar sin contacto.</span></div></li>
+        <li><div><b>Acercalo al lector al subir</b><span>Igual que con la tarjeta.</span></div></li>
+        <li><div><b>Esperá la confirmación</b><span>Tarda un segundo.</span></div></li>
+      </ol>
+      <div class="aviso"><i class="ic ic-esencial"></i><div><b>También con código QR</b>Desde la app SUBE, sin necesidad de internet en el momento.</div></div>
+    </section>
+
+    <section class="panel" id="panel-sube" role="tabpanel" aria-labelledby="tab-sube" hidden>
+      <div class="sirve" aria-label="Dónde sirve">
+        <span><i class="ic chico ic-listo"></i>Colectivo</span>
+        <span><i class="ic chico ic-listo"></i>Subte</span>
+        <span><i class="ic chico ic-listo"></i>Tren</span>
+      </div>
+      <p>Es la tarjeta del transporte. Se compra una vez y se le carga plata.</p>
+      <div class="tarjeta">
+        <p class="subtitulo" style="margin-bottom:8px">Te conviene si…</p>
+        <ul class="suave" style="display:flex;flex-direction:column;gap:6px;font-size:.9375rem">
+          <li>Te quedás varios días y combinás viajes: tiene descuento.</li>
+          <li>Tu tarjeta no es Visa o Mastercard sin contacto.</li>
+          <li>Vas a usar mucho el tren.</li>
+        </ul>
+      </div>
+      <a class="boton secundario" href="ficha-info.html">Dónde comprarla y cargarla</a>
+    </section>
+
+    <div class="aviso">
+      <i class="ic ic-esencial"></i>
+      <div><b>Con tarjeta o celular pagás la tarifa común</b>Los descuentos por combinar viajes son solo con la SUBE.</div>
+    </div>
+
+    <section class="tarjeta" aria-labelledby="t-tabla">
+      <h2 class="subtitulo" id="t-tabla" style="margin-bottom:6px">Qué sirve en cada transporte</h2>
+      <table class="tabla">
+        <thead>
+          <tr><th scope="col"><span class="oculto-visual">Transporte</span></th><th scope="col">Tarjeta</th><th scope="col">Celular</th><th scope="col">SUBE</th></tr>
+        </thead>
+        <tbody>
+          <tr><th scope="row">Colectivo</th><td><i class="ic ic-listo" role="img" aria-label="Sí"></i></td><td><i class="ic ic-listo" role="img" aria-label="Sí"></i></td><td><i class="ic ic-listo" role="img" aria-label="Sí"></i></td></tr>
+          <tr><th scope="row">Subte</th><td class="duda" aria-label="Falta confirmar">?</td><td class="duda" aria-label="Falta confirmar">?</td><td><i class="ic ic-listo" role="img" aria-label="Sí"></i></td></tr>
+          <tr><th scope="row">Tren</th><td class="duda" aria-label="Falta confirmar">?</td><td class="duda" aria-label="Falta confirmar">?</td><td><i class="ic ic-listo" role="img" aria-label="Sí"></i></td></tr>
+        </tbody>
+      </table>
+      <p class="suave" style="margin-top:8px"><b>?</b> Falta confirmar con la fuente oficial antes de publicar.</p>
+    </section>
+
+    <p class="revisado"><i class="ic chico ic-reloj"></i>Revisado el 9 de noviembre de 2026 · Fuente: sitio oficial de SUBE</p>
+  </main>
+
+  <nav class="nav-abajo" aria-label="Secciones">
+    <a href="inicio.html"><i class="ic ic-casa"></i>Inicio</a>
+    <a href="moverse.html" aria-current="page"><i class="ic ic-moverse"></i>Moverse</a>
+    <a href="lugares.html"><i class="ic ic-lugar"></i>Lugares</a>
+    <a href="esencial.html"><i class="ic ic-esencial"></i>Lo esencial</a>
+  </nav>
+
+</div>
+<script>
+// Cambia entre las tres formas de pago.
+(function () {
+  var tabs = Array.prototype.slice.call(document.querySelectorAll('[role="tab"]'));
+  function elegir(tab, foco) {
+    tabs.forEach(function (t) {
+      var activo = t === tab;
+      t.setAttribute('aria-selected', activo ? 'true' : 'false');
+      t.tabIndex = activo ? 0 : -1;
+      document.getElementById(t.getAttribute('aria-controls')).hidden = !activo;
+    });
+    if (foco) tab.focus();
+  }
+  tabs.forEach(function (t, i) {
+    t.addEventListener('click', function () { elegir(t, false); });
+    t.addEventListener('keydown', function (e) {
+      if (e.key === 'ArrowRight') elegir(tabs[(i + 1) % tabs.length], true);
+      if (e.key === 'ArrowLeft') elegir(tabs[(i + tabs.length - 1) % tabs.length], true);
+    });
+  });
+})();
+</script>
+</body>
+</html>

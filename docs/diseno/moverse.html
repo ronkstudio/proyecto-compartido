@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Moverse</title>
+<link rel="stylesheet" href="base.css">
+<style>
+/* Propio de esta pantalla */
+.pago {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  padding: 16px;
+  border-radius: var(--radio);
+  background: linear-gradient(135deg, var(--mar), var(--mar-fuerte));
+  color: var(--sobre-mar);
+}
+.pago .medalla { width: 48px; height: 48px; background: rgba(255, 255, 255, .18); color: inherit; }
+.pago .cuerpo { flex: 1; min-width: 0; }
+.pago b { display: block; font-size: 1.125rem; line-height: 1.2; }
+.pago span { display: block; opacity: .88; font-size: .9375rem; margin-top: 2px; }
+</style>
+</head>
+<body>
+<div class="pantalla">
+
+  <header class="barra-arriba">
+    <span class="nombre">Moverse</span>
+    <a class="boton-icono" href="buscar.html" aria-label="Buscar"><i class="ic ic-buscar"></i></a>
+  </header>
+
+  <main class="contenido">
+    <div>
+      <h1 class="titulo">Cómo moverte por Buenos Aires</h1>
+      <p class="suave" style="margin-top:6px">Lo que necesitás saber antes de subir.</p>
+    </div>
+
+    <!-- Lo primero que pregunta un turista: va arriba y más grande -->
+    <a class="pago" href="moverse-pagar.html">
+      <span class="medalla"><i class="ic ic-tarjeta"></i></span>
+      <span class="cuerpo">
+        <b>Cómo pagar</b>
+        <span>Con tu tarjeta, el celular o la SUBE</span>
+      </span>
+      <i class="ic ic-ir"></i>
+    </a>
+
+    <section aria-labelledby="t-transportes">
+      <h2 class="subtitulo" id="t-transportes" style="margin-bottom:10px">Transportes</h2>
+      <div class="lista">
+        <a class="fila" href="moverse-subte.html">
+          <span class="medalla"><i class="ic ic-subte"></i></span>
+          <span class="cuerpo"><b>Subte</b><span>Líneas, estaciones y horarios</span></span>
+          <i class="ic ic-ir"></i>
+        </a>
+        <a class="fila" href="ficha-info.html">
+          <span class="medalla"><i class="ic ic-moverse"></i></span>
+          <span class="cuerpo"><b>Colectivo</b><span>Cómo se toma y cómo se paga</span></span>
+          <i class="ic ic-ir"></i>
+        </a>
+        <a class="fila" href="ficha-info.html">
+          <span class="medalla"><i class="ic ic-auto"></i></span>
+          <span class="cuerpo"><b>Taxi y apps</b><span>Cuándo conviene cada uno</span></span>
+          <i class="ic ic-ir"></i>
+        </a>
+      </div>
+    </section>
+
+    <section aria-labelledby="t-llegada">
+      <h2 class="subtitulo" id="t-llegada" style="margin-bottom:10px">Al llegar</h2>
+      <div class="lista">
+        <a class="fila" href="moverse-aeropuerto.html">
+          <span class="medalla sol"><i class="ic ic-avion"></i></span>
+          <span class="cuerpo"><b>Del aeropuerto al centro</b><span>Desde Ezeiza y Aeroparque</span></span>
+          <i class="ic ic-ir"></i>
+        </a>
+      </div>
+    </section>
+
+    <!-- La acción principal de la pantalla -->
+    <a class="boton" href="#" data-abre="mapas"><i class="ic ic-mapa"></i>Cómo llego a un lugar</a>
+    <p class="suave" style="text-align:center;margin-top:-8px">Abre la app de mapas de tu celular.</p>
+
+    <div class="aviso sol">
+      <i class="ic ic-sin-internet"></i>
+      <div><b>Funciona sin internet</b>Todo lo de esta sección está guardado en tu celular.</div>
+    </div>
+  </main>
+
+  <nav class="nav-abajo" aria-label="Secciones">
+    <a href="inicio.html"><i class="ic ic-casa"></i>Inicio</a>
+    <a href="moverse.html" aria-current="page"><i class="ic ic-moverse"></i>Moverse</a>
+    <a href="lugares.html"><i class="ic ic-lugar"></i>Lugares</a>
+    <a href="esencial.html"><i class="ic ic-esencial"></i>Lo esencial</a>
+  </nav>
+
+</div>
+</body>
+</html>

@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Ficha de información</title>
+<link rel="stylesheet" href="base.css">
+<style>
+/* Propio de este molde. Si otra pantalla lo necesita, pasarlo a base.css (tarjeta #17). */
+.resumen { font-size: 1.125rem; line-height: 1.4; }
+.puntos { display: flex; flex-direction: column; gap: 10px; }
+.puntos li { display: flex; gap: 10px; }
+.puntos li .ic { color: var(--mar); margin-top: 1px; }
+.bloque-titulo { margin-bottom: 10px; }
+.molde {
+  border: 1px dashed var(--sol);
+  background: var(--sol-suave);
+  border-radius: var(--radio-chico);
+  padding: 10px 12px;
+  font-size: .8125rem;
+}
+</style>
+</head>
+<body>
+<div class="pantalla">
+
+  <header class="barra-arriba">
+    <a class="boton-icono" href="moverse.html" aria-label="Volver"><i class="ic ic-atras"></i></a>
+    <span class="nombre">Colectivo</span>
+  </header>
+
+  <main class="contenido">
+
+    <!-- Nota para quien diseña. No va en la app. -->
+    <p class="molde"><b>Molde.</b> Esta pantalla se reutiliza para cada tema de texto: colectivo, taxi, plata, seguridad, internet. El texto de abajo es de ejemplo; el contenido real se escribe y se verifica aparte.</p>
+
+    <div>
+      <p class="etiqueta">Moverse</p>
+      <h1 class="titulo" style="margin-top:4px">Colectivo</h1>
+    </div>
+
+    <!-- 1. Una frase que responde lo principal -->
+    <p class="resumen">Llega a casi todos lados y funciona las 24 horas. Se paga al subir, con tarjeta, celular o SUBE.</p>
+
+    <!-- 2. Lo básico, en puntos cortos -->
+    <section aria-labelledby="t-basico">
+      <h2 class="subtitulo bloque-titulo" id="t-basico">Lo básico</h2>
+      <ul class="puntos">
+        <li><i class="ic ic-listo"></i><span>Cada línea tiene un número. El recorrido está en la parada.</span></li>
+        <li><i class="ic ic-listo"></i><span>Hacele una seña al chofer para que pare.</span></li>
+        <li><i class="ic ic-listo"></i><span>Se sube por adelante y se baja por el medio o por atrás.</span></li>
+      </ul>
+    </section>
+
+    <!-- 3. Paso a paso, cuando el tema lo necesita -->
+    <section aria-labelledby="t-pasos">
+      <h2 class="subtitulo bloque-titulo" id="t-pasos">Cómo se toma</h2>
+      <ol class="pasos">
+        <li><div><b>Buscá la parada</b><span>Tiene un cartel con los números de las líneas.</span></div></li>
+        <li><div><b>Subí y pagá</b><span>Acercá tu tarjeta, celular o SUBE al lector.</span></div></li>
+        <li><div><b>Tocá el timbre antes de bajar</b><span>Está en los caños, cerca de las puertas.</span></div></li>
+      </ol>
+    </section>
+
+    <!-- 4. Un aviso, si hace falta. Como mucho uno o dos por ficha -->
+    <div class="aviso">
+      <i class="ic ic-esencial"></i>
+      <div><b>No hace falta efectivo</b>En el colectivo no se paga con billetes ni monedas.</div>
+    </div>
+
+    <!-- 5. A dónde seguir -->
+    <section aria-labelledby="t-relacionado">
+      <h2 class="subtitulo bloque-titulo" id="t-relacionado">Relacionado</h2>
+      <div class="lista">
+        <a class="fila" href="moverse-pagar.html">
+          <span class="medalla"><i class="ic ic-tarjeta"></i></span>
+          <span class="cuerpo"><b>Cómo pagar</b><span>Con tu tarjeta, el celular o la SUBE</span></span>
+          <i class="ic ic-ir"></i>
+        </a>
+        <a class="fila" href="moverse-subte.html">
+          <span class="medalla"><i class="ic ic-subte"></i></span>
+          <span class="cuerpo"><b>Subte</b><span>Líneas, estaciones y horarios</span></span>
+          <i class="ic ic-ir"></i>
+        </a>
+      </div>
+    </section>
+
+    <!-- 6. La acción principal, si el tema tiene una -->
+    <a class="boton" href="#" data-abre="mapas"><i class="ic ic-mapa"></i>Cómo llego a un lugar</a>
+
+    <!-- 7. Siempre al final: fecha y fuente -->
+    <p class="revisado"><i class="ic chico ic-reloj"></i>Texto de ejemplo · Falta escribir y verificar</p>
+  </main>
+
+  <nav class="nav-abajo" aria-label="Secciones">
+    <a href="inicio.html"><i class="ic ic-casa"></i>Inicio</a>
+    <a href="moverse.html" aria-current="page"><i class="ic ic-moverse"></i>Moverse</a>
+    <a href="lugares.html"><i class="ic ic-lugar"></i>Lugares</a>
+    <a href="esencial.html"><i class="ic ic-esencial"></i>Lo esencial</a>
+  </nav>
+
+</div>
+</body>
+</html>
