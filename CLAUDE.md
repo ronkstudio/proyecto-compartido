@@ -45,7 +45,8 @@ Nada de contraseñas, claves, tokens ni datos personales de clientes, ni en arch
 
 ## Áreas de cada uno
 
-Se definen en la primera tarjeta del tablero. Cuando estén decididas, anotalas acá:
+Acordadas en la tarjeta #2.
 
-- `ronkstudio`: a definir
-- `ezebesserr`: a definir
+- `ronkstudio`: diseño y pantallas. Cómo se ve y cómo se usa la app. Hoy es `docs/boceto.html`; cuando exista la app, las pantallas.
+- `ezebesserr`: contenido e información. Fuentes, textos, lista de lugares e idiomas. Hoy es `docs/fuentes-de-informacion.md`; cuando exista la app, el contenido y las traducciones.
+- Compartido: `README.md`, `CLAUDE.md` y la base técnica de la app. Avisá en la tarjeta antes de tocarlos.
