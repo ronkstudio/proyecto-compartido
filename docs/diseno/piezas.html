@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Piezas · Diseño de la app</title>
+<link rel="stylesheet" href="base.css">
+<style>
+/* Solo para esta página de muestra. Las pantallas no copian esto. */
+.muestra { max-width: 430px; margin: 0 auto; padding: 24px 16px 48px; display: flex; flex-direction: column; gap: 28px; }
+.muestra > header p { margin-top: 8px; }
+.bloque { display: flex; flex-direction: column; gap: 12px; }
+.bloque > h2 { font-size: .8125rem; letter-spacing: .08em; text-transform: uppercase; color: var(--suave); }
+.colores { display: grid; grid-template-columns: repeat(4, 1fr); gap: 8px; }
+.color { height: 56px; border-radius: 12px; border: 1px solid var(--linea); display: flex; align-items: flex-end; padding: 6px; font-size: .6875rem; font-weight: 700; }
+.iconos { display: grid; grid-template-columns: repeat(auto-fill, minmax(72px, 1fr)); gap: 8px; }
+.iconos div { display: flex; flex-direction: column; align-items: center; gap: 6px; padding: 10px 4px; border-radius: 12px; background: var(--papel); border: 1px solid var(--linea); font-size: .6875rem; color: var(--suave); text-align: center; }
+.iconos .ic { color: var(--tinta); }
+.marco { border: 1px solid var(--linea); border-radius: 16px; overflow: hidden; }
+.tema { display: flex; gap: 8px; }
+</style>
+</head>
+<body>
+<main class="muestra">
+
+  <header>
+    <p class="etiqueta">Diseño · tarjeta #17</p>
+    <h1 class="titulo">Piezas de la app</h1>
+    <p class="suave">Todo lo que comparten las pantallas. Cada pantalla enlaza <code>base.css</code> y usa estas piezas tal cual. Los textos y datos de esta página son de ejemplo.</p>
+  </header>
+
+  <section class="bloque">
+    <h2>Modo claro y oscuro</h2>
+    <p class="suave">Sigue al celular. Estos botones son solo para probar.</p>
+    <div class="tema">
+      <button class="boton secundario" type="button" data-tema="claro">Claro</button>
+      <button class="boton secundario" type="button" data-tema="oscuro">Oscuro</button>
+      <button class="boton texto" type="button" data-tema="">Automático</button>
+    </div>
+  </section>
+
+  <section class="bloque">
+    <h2>Colores</h2>
+    <div class="colores">
+      <div class="color" style="background:var(--fondo)">fondo</div>
+      <div class="color" style="background:var(--papel)">papel</div>
+      <div class="color" style="background:var(--papel-2)">papel-2</div>
+      <div class="color" style="background:var(--linea)">linea</div>
+      <div class="color" style="background:var(--mar);color:var(--sobre-mar)">mar</div>
+      <div class="color" style="background:var(--mar-suave)">mar-suave</div>
+      <div class="color" style="background:var(--sol);color:#17262b">sol</div>
+      <div class="color" style="background:var(--sol-suave)">sol-suave</div>
+      <div class="color" style="background:var(--alerta);color:var(--papel)">alerta</div>
+      <div class="color" style="background:var(--alerta-suave)">alerta-suave</div>
+      <div class="color" style="background:var(--ok);color:var(--papel)">ok</div>
+      <div class="color" style="background:var(--ok-suave)">ok-suave</div>
+    </div>
+    <p class="suave"><b>mar</b> es el color principal: botones y lo que está activo. <b>sol</b> es para destacar, con poca frecuencia. <b>alerta</b> solo para avisos importantes.</p>
+  </section>
+
+  <section class="bloque">
+    <h2>Textos</h2>
+    <p class="etiqueta">Etiqueta</p>
+    <h3 class="titulo">Título de pantalla</h3>
+    <h4 class="subtitulo">Subtítulo de sección</h4>
+    <p>Texto común. Frases cortas, pensadas para traducir.</p>
+    <p class="suave">Texto suave, para datos secundarios.</p>
+  </section>
+
+  <section class="bloque">
+    <h2>Botones</h2>
+    <a class="boton" href="#"><i class="ic ic-mapa"></i>Cómo llego</a>
+    <a class="boton secundario" href="#"><i class="ic ic-guardar"></i>Guardar</a>
+    <a class="boton texto" href="#">Ver todos</a>
+    <p class="suave">Un solo botón lleno por pantalla: la acción principal.</p>
+  </section>
+
+  <section class="bloque">
+    <h2>Buscador</h2>
+    <label class="buscador">
+      <i class="ic ic-buscar"></i>
+      <span class="oculto-visual">Buscar</span>
+      <input type="search" placeholder="Buscá un lugar o un tema">
+    </label>
+  </section>
+
+  <section class="bloque">
+    <h2>Accesos grandes</h2>
+    <div class="accesos">
+      <a class="acceso fuerte" href="#"><span class="medalla"><i class="ic ic-tarjeta"></i></span>Cómo pago</a>
+      <a class="acceso" href="#"><span class="medalla"><i class="ic ic-mapa"></i></span>Cómo llego</a>
+      <a class="acceso" href="#"><span class="medalla alerta"><i class="ic ic-telefono"></i></span>Emergencias</a>
+    </div>
+  </section>
+
+  <section class="bloque">
+    <h2>Destacado</h2>
+    <div class="heroe">
+      <p class="subtitulo">¿Recién llegás?</p>
+      <p class="suave">Tres cosas para resolver en la primera hora.</p>
+    </div>
+  </section>
+
+  <section class="bloque">
+    <h2>Lista de filas</h2>
+    <div class="lista">
+      <a class="fila" href="#"><span class="medalla"><i class="ic ic-tarjeta"></i></span><span class="cuerpo"><b>Cómo pagar</b><span>SUBE, tarjeta o celular</span></span><i class="ic ic-ir"></i></a>
+      <a class="fila" href="#"><span class="medalla"><i class="ic ic-subte"></i></span><span class="cuerpo"><b>Subte</b><span>Líneas y estaciones</span></span><i class="ic ic-ir"></i></a>
+      <a class="fila" href="#"><span class="medalla"><i class="ic ic-avion"></i></span><span class="cuerpo"><b>Del aeropuerto al centro</b><span>Ezeiza y Aeroparque</span></span><i class="ic ic-ir"></i></a>
+    </div>
+  </section>
+
+  <section class="bloque">
+    <h2>Tarjeta de lugar</h2>
+    <a class="tarjeta fila-simple" href="#">
+      <span class="foto"></span>
+      <span class="cuerpo" style="flex:1;min-width:0"><b>Teatro Colón</b><br><span class="suave">Centro · Visita guiada</span><br><span class="ejemplo">Ejemplo</span></span>
+      <i class="ic ic-ir" style="color:var(--suave)"></i>
+    </a>
+    <div class="fila-simple"><span class="foto"></span><span class="foto b"></span><span class="foto c"></span></div>
+    <p class="suave">Las fotos son de relleno hasta tener fotos reales.</p>
+  </section>
+
+  <section class="bloque">
+    <h2>Filtros</h2>
+    <div class="chips">
+      <button class="chip" type="button" aria-pressed="true">Todo</button>
+      <button class="chip" type="button" aria-pressed="false">Museos</button>
+      <button class="chip" type="button" aria-pressed="false">Comida</button>
+      <button class="chip" type="button" aria-pressed="false">Parques</button>
+      <button class="chip" type="button" aria-pressed="false">Barrios</button>
+    </div>
+  </section>
+
+  <section class="bloque">
+    <h2>Avisos</h2>
+    <div class="aviso"><i class="ic ic-esencial"></i><div><b>Dato útil</b>Con tarjeta no hay descuento por combinar viajes.</div></div>
+    <div class="aviso sol"><i class="ic ic-sin-internet"></i><div><b>Funciona sin internet</b>Esta información ya está guardada en tu celular.</div></div>
+    <div class="aviso alerta"><i class="ic ic-aviso"></i><div><b>Atención</b>Solo para avisos importantes.</div></div>
+    <p class="revisado"><i class="ic chico ic-reloj"></i>Revisado el 9 de noviembre de 2026</p>
+    <p class="suave">La fecha de revisión va en todo dato que vence: precios, medios de pago, horarios.</p>
+  </section>
+
+  <section class="bloque">
+    <h2>Pasos</h2>
+    <ol class="pasos">
+      <li><div><b>Acercá la tarjeta al lector</b><span>Está al lado del chofer.</span></div></li>
+      <li><div><b>Esperá la luz verde</b><span>Tarda un segundo.</span></div></li>
+      <li><div><b>Listo</b><span>No hace falta decir a dónde vas.</span></div></li>
+    </ol>
+  </section>
+
+  <section class="bloque">
+    <h2>Líneas de subte</h2>
+    <div class="fila-simple">
+      <span class="linea" data-linea="A">A</span><span class="linea" data-linea="B">B</span><span class="linea" data-linea="C">C</span><span class="linea" data-linea="D">D</span><span class="linea" data-linea="E">E</span><span class="linea" data-linea="H">H</span>
+    </div>
+    <p class="suave">Colores aproximados. Confirmar con los oficiales en la tarjeta del subte (#21).</p>
+  </section>
+
+  <section class="bloque">
+    <h2>Íconos</h2>
+    <div class="iconos">
+      <div><i class="ic ic-casa"></i>casa</div>
+      <div><i class="ic ic-moverse"></i>moverse</div>
+      <div><i class="ic ic-lugar"></i>lugar</div>
+      <div><i class="ic ic-esencial"></i>esencial</div>
+      <div><i class="ic ic-buscar"></i>buscar</div>
+      <div><i class="ic ic-ajustes"></i>ajustes</div>
+      <div><i class="ic ic-atras"></i>atras</div>
+      <div><i class="ic ic-ir"></i>ir</div>
+      <div><i class="ic ic-guardar"></i>guardar</div>
+      <div><i class="ic ic-telefono"></i>telefono</div>
+      <div><i class="ic ic-tarjeta"></i>tarjeta</div>
+      <div><i class="ic ic-subte"></i>subte</div>
+      <div><i class="ic ic-avion"></i>avion</div>
+      <div><i class="ic ic-auto"></i>auto</div>
+      <div><i class="ic ic-reloj"></i>reloj</div>
+      <div><i class="ic ic-aviso"></i>aviso</div>
+      <div><i class="ic ic-idioma"></i>idioma</div>
+      <div><i class="ic ic-listo"></i>listo</div>
+      <div><i class="ic ic-sin-internet"></i>sin-internet</div>
+      <div><i class="ic ic-plata"></i>plata</div>
+      <div><i class="ic ic-mapa"></i>mapa</div>
+      <div><i class="ic ic-escudo"></i>escudo</div>
+    </div>
+    <p class="suave">Se usan así: <code>&lt;i class="ic ic-casa"&gt;&lt;/i&gt;</code>. Toman el color del texto.</p>
+  </section>
+
+  <section class="bloque">
+    <h2>Una pantalla armada</h2>
+    <p class="suave">Barra de arriba, contenido y barra de abajo. Así empieza cada archivo de pantalla.</p>
+    <div class="marco">
+      <div class="pantalla" style="min-height:0">
+        <header class="barra-arriba">
+          <a class="boton-icono" href="#" aria-label="Volver"><i class="ic ic-atras"></i></a>
+          <span class="nombre">Moverse</span>
+          <a class="boton-icono" href="#" aria-label="Buscar"><i class="ic ic-buscar"></i></a>
+        </header>
+        <div class="contenido">
+          <h3 class="titulo">Cómo moverte</h3>
+          <div class="lista">
+            <a class="fila" href="#"><span class="medalla"><i class="ic ic-tarjeta"></i></span><span class="cuerpo"><b>Cómo pagar</b><span>SUBE, tarjeta o celular</span></span><i class="ic ic-ir"></i></a>
+            <a class="fila" href="#"><span class="medalla"><i class="ic ic-subte"></i></span><span class="cuerpo"><b>Subte</b><span>Líneas y estaciones</span></span><i class="ic ic-ir"></i></a>
+          </div>
+        </div>
+        <nav class="nav-abajo" aria-label="Secciones">
+          <a href="#"><i class="ic ic-casa"></i>Inicio</a>
+          <a href="#" aria-current="page"><i class="ic ic-moverse"></i>Moverse</a>
+          <a href="#"><i class="ic ic-lugar"></i>Lugares</a>
+          <a href="#"><i class="ic ic-esencial"></i>Lo esencial</a>
+        </nav>
+      </div>
+    </div>
+  </section>
+
+</main>
+<script>
+// Solo para probar el modo claro y oscuro en esta página.
+document.querySelectorAll('[data-tema]').forEach(function (b) {
+  if (b.tagName !== 'BUTTON') return;
+  b.addEventListener('click', function () {
+    var t = b.getAttribute('data-tema');
+    if (t) document.documentElement.setAttribute('data-tema', t);
+    else document.documentElement.removeAttribute('data-tema');
+  });
+});
+</script>
+</body>
+</html>
