@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Boceto · App de turismo</title>
+<style>
+:root{--fondo:#f3f1ec;--papel:#fff;--tinta:#17262b;--suave:#5f6f73;--linea:#e2ddd2;--mar:#0e6e78;--mar2:#0a5159;--sol:#f2a33a;--alerta:#c2412d;--ok:#2d8056;--sombra:0 18px 40px rgba(20,40,45,.14)}
+*{box-sizing:border-box;margin:0}
+body{background:var(--fondo);color:var(--tinta);font:16px/1.5 system-ui,-apple-system,"Segoe UI",sans-serif}
+h1,h2,h3{line-height:1.15;letter-spacing:-.01em}
+.wrap{max-width:1240px;margin:0 auto;padding:44px 20px 60px}
+.cab{max-width:680px;margin-bottom:36px}
+.cab small{color:var(--mar);font-weight:700;letter-spacing:.08em;text-transform:uppercase;font-size:.8rem}
+.cab h1{font-size:clamp(2rem,5vw,3rem);margin:6px 0 10px}
+.cab p{color:var(--suave);font-size:1.08rem}
+.pantallas{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:34px 26px;justify-items:center}
+figure{width:300px;max-width:100%}
+figcaption{margin-top:14px}
+figcaption b{display:block}
+figcaption span{color:var(--suave);font-size:.92rem}
+.tel{height:680px;background:var(--papel);border:9px solid #152024;border-radius:38px;overflow:hidden;box-shadow:var(--sombra);display:flex;flex-direction:column;font-size:14px}
+.cuerpo{flex:1;overflow:hidden;padding:18px 16px 8px;display:flex;flex-direction:column;gap:12px}
+.nav{display:grid;grid-template-columns:repeat(5,1fr);border-top:1px solid var(--linea);padding:8px 2px 12px;font-size:10.5px;text-align:center;color:var(--suave)}
+.nav i{display:block;font-style:normal;font-size:17px;line-height:1.3}
+.nav .on{color:var(--mar);font-weight:700}
+.tel h3{font-size:21px}
+.gris{color:var(--suave);font-size:12.5px}
+.tarj{border:1px solid var(--linea);border-radius:14px;padding:11px 12px;background:var(--papel)}
+.tarj b{display:block;font-size:14px}
+.fila{display:flex;align-items:center;gap:10px}
+.fila>div{flex:1;min-width:0}
+.fila>.ic,.fila>.foto{flex:none}
+.chips{display:flex;gap:6px;flex-wrap:wrap}
+.chip{border:1px solid var(--linea);border-radius:99px;padding:4px 10px;font-size:12px;font-weight:600;white-space:nowrap}
+.chip.on{background:var(--mar);border-color:var(--mar);color:#fff}
+.busca{background:#f2f0ea;border-radius:12px;padding:10px 12px;color:var(--suave);font-size:13.5px}
+.hero{background:linear-gradient(135deg,var(--mar),var(--mar2));color:#fff;border-radius:16px;padding:14px}
+.hero b{font-size:17px;display:block}
+.hero span{opacity:.86;font-size:12.5px}
+.ic{width:34px;height:34px;border-radius:10px;background:#e4f1f1;color:var(--mar);display:grid;place-items:center;flex:none;font-size:16px}
+.mapa{border-radius:14px;height:228px;overflow:hidden;flex:none}
+.mapa svg{display:block;width:100%;height:100%}
+.alerta{border-radius:12px;padding:10px 11px;background:#fbebe7;color:#7d2a1c;font-size:12.5px}
+.alerta b{display:block;font-size:13px}
+.btn{background:var(--mar);color:#fff;text-align:center;border-radius:12px;padding:11px;font-weight:700}
+.precio{font-weight:800;font-size:15px;white-space:nowrap}
+.foto{width:58px;height:58px;border-radius:11px;flex:none;background:linear-gradient(135deg,#f6c98a,#d97f5a)}
+.foto.b{background:linear-gradient(135deg,#a9d4d0,#3f8e96)}
+.foto.c{background:linear-gradient(135deg,#d5cdf0,#7d6fc0)}
+.check{display:flex;gap:9px;align-items:flex-start;font-size:13px}
+.check i{font-style:normal;width:18px;height:18px;border-radius:5px;background:var(--ok);color:#fff;display:grid;place-items:center;font-size:11px;flex:none;margin-top:1px}
+.check i.no{background:#fff;border:1.5px solid #bdb7aa}
+.dia{border-left:3px solid var(--sol);padding:1px 0 1px 11px}
+.dia b{display:block;font-size:13.5px}
+.notas{display:grid;grid-template-columns:repeat(auto-fit,minmax(270px,1fr));gap:16px;margin-top:52px}
+.nota{background:var(--papel);border:1px solid var(--linea);border-radius:18px;padding:20px}
+.nota h2{font-size:1.15rem;margin-bottom:8px}
+.nota ul{padding-left:18px;color:var(--suave);font-size:.95rem;display:grid;gap:5px}
+.pie{margin-top:30px;color:var(--suave);font-size:.88rem}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header class="cab">
+    <small>Boceto para charlar</small>
+    <h1>Todo tu viaje en una sola app</h1>
+    <p>Qué visitar, cómo moverte, por dónde conviene no pasar, dónde dormir y lo que tenés que saber antes de salir. Los lugares, precios y avisos son de ejemplo.</p>
+  </header>
+
+  <main class="pantallas">
+    <figure><div class="tel"><div class="cuerpo">
+      <div><span class="gris">Tu destino</span><h3>Buenos Aires</h3></div>
+      <div class="busca">Buscá lugares, barrios o comidas</div>
+      <div class="hero"><b>Hoy: 3 paradas</b><span>Empezás a las 10:00 · 4,2 km en total · 22° soleado</span></div>
+      <div class="fila tarj"><div class="ic">!</div><div><b>Antes de salir</b><span class="gris">1 aviso nuevo para tu ruta</span></div></div>
+      <b style="font-size:14px">Cerca tuyo</b>
+      <div class="fila tarj"><div class="foto"></div><div><b>Teatro Colón</b><span class="gris">Visita guiada · a 8 min caminando</span></div></div>
+      <div class="fila tarj"><div class="foto b"></div><div><b>Café de barrio</b><span class="gris">Abierto ahora · $ $</span></div></div>
+    </div><nav class="nav"><span class="on"><i>⌂</i>Inicio</span><span><i>◎</i>Mapa</span><span><i>↝</i>Rutas</span><span><i>▣</i>Dormir</span><span><i>☰</i>Viaje</span></nav></div>
+    <figcaption><b>1. Inicio</b><span>Lo que importa hoy, sin buscar.</span></figcaption></figure>
+
+    <figure><div class="tel"><div class="cuerpo">
+      <h3>Qué visitar</h3>
+      <div class="chips"><span class="chip on">Todo</span><span class="chip">Museos</span><span class="chip">Comida</span><span class="chip">Parques</span></div>
+      <div class="mapa"><svg viewBox="0 0 268 228" role="img" aria-label="Mapa de ejemplo con lugares marcados"><rect width="268" height="228" fill="#e7efe9"/><path d="M0 170Q90 130 268 188V228H0Z" fill="#bfdfe6"/><path d="M0 62H268M0 118H268M70 0V228M152 0V228M220 0V228" stroke="#fff" stroke-width="7"/><path d="M0 12 268 96" stroke="#fff" stroke-width="10"/><rect x="82" y="72" width="58" height="36" rx="5" fill="#cfe4c6"/><g fill="#0e6e78"><circle cx="110" cy="52" r="10"/><circle cx="186" cy="88" r="10"/><circle cx="44" cy="96" r="10"/></g><circle cx="130" cy="140" r="11" fill="#f2a33a" stroke="#fff" stroke-width="3"/></svg></div>
+      <div class="fila tarj"><div class="foto c"></div><div><b>Museo de ejemplo</b><span class="gris">Abre 12 a 20 h · entrada paga</span></div></div>
+      <div class="btn">Agregar a mi viaje</div>
+    </div><nav class="nav"><span><i>⌂</i>Inicio</span><span class="on"><i>◎</i>Mapa</span><span><i>↝</i>Rutas</span><span><i>▣</i>Dormir</span><span><i>☰</i>Viaje</span></nav></div>
+    <figcaption><b>2. Lugares y mapa</b><span>Con horarios, precios y cuánto queda de camino.</span></figcaption></figure>
+
+    <figure><div class="tel"><div class="cuerpo">
+      <h3>Tu ruta</h3>
+      <div class="mapa"><svg viewBox="0 0 268 228" role="img" aria-label="Mapa de ejemplo con ruta que rodea una zona a evitar"><rect width="268" height="228" fill="#e7efe9"/><path d="M0 62H268M0 118H268M70 0V228M152 0V228M220 0V228" stroke="#fff" stroke-width="7"/><circle cx="136" cy="118" r="50" fill="#c2412d" opacity=".2"/><path d="M34 196H70V62H220V28" fill="none" stroke="#0e6e78" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/><circle cx="34" cy="196" r="9" fill="#f2a33a" stroke="#fff" stroke-width="3"/><circle cx="220" cy="28" r="9" fill="#0e6e78" stroke="#fff" stroke-width="3"/></svg></div>
+      <div class="alerta"><b>Te desviamos 6 minutos</b>Corte por obra en esta zona, hasta las 18 h. Fuente y fecha del aviso a la vista.</div>
+      <div class="chips"><span class="chip on">A pie</span><span class="chip">Transporte</span><span class="chip">Auto</span></div>
+      <div class="fila tarj"><div><b>28 min · 2,1 km</b><span class="gris">La ruta evita 1 zona con aviso</span></div></div>
+      <div class="btn">Empezar</div>
+    </div><nav class="nav"><span><i>⌂</i>Inicio</span><span><i>◎</i>Mapa</span><span class="on"><i>↝</i>Rutas</span><span><i>▣</i>Dormir</span><span><i>☰</i>Viaje</span></nav></div>
+    <figcaption><b>3. Rutas y por dónde no pasar</b><span>Cada aviso dice por qué, de dónde sale y hasta cuándo.</span></figcaption></figure>
+
+    <figure><div class="tel"><div class="cuerpo">
+      <h3>Dónde dormir</h3>
+      <div class="busca">14 al 18 de marzo · 2 personas</div>
+      <div class="chips"><span class="chip on">Mejor ubicados</span><span class="chip">Precio</span><span class="chip">Hostels</span></div>
+      <div class="fila tarj"><div class="foto b"></div><div><b>Hotel de ejemplo</b><span class="gris">A 6 min de tu primera parada</span></div><span class="precio">$ 000</span></div>
+      <div class="fila tarj"><div class="foto"></div><div><b>Hostel de ejemplo</b><span class="gris">Desayuno incluido</span></div><span class="precio">$ 000</span></div>
+      <div class="fila tarj"><div class="foto c"></div><div><b>Departamento de ejemplo</b><span class="gris">Entrada con código</span></div><span class="precio">$ 000</span></div>
+      <div class="btn">Ver disponibilidad</div>
+    </div><nav class="nav"><span><i>⌂</i>Inicio</span><span><i>◎</i>Mapa</span><span><i>↝</i>Rutas</span><span class="on"><i>▣</i>Dormir</span><span><i>☰</i>Viaje</span></nav></div>
+    <figcaption><b>4. Hospedajes</b><span>Ordenados según lo que vas a hacer en tu viaje.</span></figcaption></figure>
+
+    <figure><div class="tel"><div class="cuerpo">
+      <h3>Antes de viajar</h3>
+      <div class="check"><i>✓</i><span>Documento y permisos de entrada</span></div>
+      <div class="check"><i>✓</i><span>Seguro de viaje</span></div>
+      <div class="check"><i class="no"></i><span>Cambiar plata y medios de pago</span></div>
+      <div class="check"><i class="no"></i><span>Vacunas recomendadas</span></div>
+      <div class="tarj"><b>Emergencias</b><span class="gris">Policía, ambulancia y consulado, a un toque</span></div>
+      <div class="tarj"><b>Transporte</b><span class="gris">Qué tarjeta sacar y dónde cargarla</span></div>
+      <div class="tarj"><b>Sin internet</b><span class="gris">Mapas y datos guardados en tu celular</span></div>
+    </div><nav class="nav"><span><i>⌂</i>Inicio</span><span><i>◎</i>Mapa</span><span><i>↝</i>Rutas</span><span><i>▣</i>Dormir</span><span class="on"><i>☰</i>Viaje</span></nav></div>
+    <figcaption><b>5. Información necesaria</b><span>Una lista por destino, que funciona sin internet.</span></figcaption></figure>
+
+    <figure><div class="tel"><div class="cuerpo">
+      <span class="gris">Mi viaje</span><h3>4 días en Buenos Aires</h3>
+      <div class="dia"><b>Viernes · Centro</b><span class="gris">Teatro Colón, almuerzo, Plaza de Mayo</span></div>
+      <div class="dia"><b>Sábado · San Telmo</b><span class="gris">Feria, museo, cena en la zona</span></div>
+      <div class="dia"><b>Domingo · Palermo</b><span class="gris">Parques, café y paseo</span></div>
+      <div class="dia"><b>Lunes · La Boca</b><span class="gris">Mañana, y vuelta al alojamiento</span></div>
+      <div class="tarj"><b>Armá el viaje solo</b><span class="gris">Decí cuántos días y qué te gusta, y la app lo ordena</span></div>
+      <div class="btn">Compartir con quien viaja conmigo</div>
+    </div><nav class="nav"><span><i>⌂</i>Inicio</span><span><i>◎</i>Mapa</span><span><i>↝</i>Rutas</span><span><i>▣</i>Dormir</span><span class="on"><i>☰</i>Viaje</span></nav></div>
+    <figcaption><b>6. Mi viaje</b><span>El plan día por día, para no pensar en el momento.</span></figcaption></figure>
+  </main>
+
+  <section class="notas" aria-label="Notas para decidir">
+    <div class="nota"><h2>Primera versión</h2><ul><li>Una sola ciudad, muy bien hecha.</li><li>Lugares, mapa, rutas, información y plan del viaje.</li><li>Hospedajes con enlace a sitios de reservas, sin vender nosotros.</li></ul></div>
+    <div class="nota"><h2>Lo que hay que decidir</h2><ul><li>Con qué ciudad arrancamos.</li><li>De dónde sale la información y quién la mantiene al día.</li><li>Si es una app de las tiendas o una página que se instala.</li></ul></div>
+    <div class="nota"><h2>"Por dónde no pasar"</h2><ul><li>Es lo más delicado: marcar un barrio como peligroso puede ser injusto y traer reclamos.</li><li>Avisos concretos, con motivo, fuente, fecha y vencimiento.</li><li>Sirve para cortes, obras, marchas y alertas oficiales.</li></ul></div>
+    <div class="nota"><h2>Cómo podría ganar plata</h2><ul><li>Comisión por reservas de hospedajes y actividades.</li><li>Lugares destacados, siempre marcados como publicidad.</li><li>Versión paga con guías sin internet.</li></ul></div>
+  </section>
+  <p class="pie">Boceto de trabajo. Todavía no hay datos reales ni app funcionando.</p>
+</div>
+</body>
+</html>
