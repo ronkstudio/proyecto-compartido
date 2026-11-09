@@ -21,7 +21,7 @@ Hacé esto sin esperar a que te lo pidan:
 **Tomar una tarea**
 - Toda tarea es una tarjeta (Issue). Si aparece trabajo nuevo, primero abrí una tarjeta.
 - Antes de empezar, asignatela (`gh issue edit NUMERO --add-assignee @me`) y comentá que empezás.
-- Nunca tomes una tarjeta que ya tiene dueño ni una que sea del área del otro.
+- Nunca tomes una tarjeta que ya tiene dueño.
 - Mantené las tareas chicas: una o dos horas. Si es más grande, dividila en varias tarjetas.
 
 **Hacer el trabajo**
@@ -45,8 +45,6 @@ Nada de contraseñas, claves, tokens ni datos personales de clientes, ni en arch
 
 ## Áreas de cada uno
 
-Acordadas en la tarjeta #2.
+No hay áreas fijas: `ronkstudio` y `ezebesserr` hacen de todo (diseño, pantallas, contenido, información, idiomas y la parte técnica). Se decidió en la tarjeta #2.
 
-- `ronkstudio`: diseño y pantallas. Cómo se ve y cómo se usa la app. Hoy es `docs/boceto.html`; cuando exista la app, las pantallas.
-- `ezebesserr`: contenido e información. Fuentes, textos, lista de lugares e idiomas. Hoy es `docs/fuentes-de-informacion.md`; cuando exista la app, el contenido y las traducciones.
-- Compartido: `README.md`, `CLAUDE.md` y la base técnica de la app. Avisá en la tarjeta antes de tocarlos.
+Para no pisarse alcanza con las reglas de arriba: cada tarjeta tiene un solo dueño, y no se toca un archivo que esté en un pedido de cambios abierto del otro.
