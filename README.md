@@ -19,3 +19,4 @@ El boceto de pantallas está en [docs/boceto.html](docs/boceto.html). Es una pro
 ## Equipo
 
 - Bautista (`ronkstudio`)
+- Besser (`ezebesserr`)
