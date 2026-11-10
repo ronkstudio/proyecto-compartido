@@ -18,12 +18,12 @@ window.CITY_EXTRA.caba = {
       "alvear-palace-hotel", "palacio-duhau-park-hyatt", "four-seasons-buenos-aires", "faena-hotel", "home-hotel", "america-del-sur-hostel",
       "feria-de-mataderos", "palermo-soho",
       "campo-argentino-de-polo", "hipodromo-de-palermo", "kayak-y-remo-en-el-delta", "sintaxis", "trescha", "crizia", "mengano", "la-alacena-trattoria",
-      "catedral-metropolitana", "palacio-de-aguas-corrientes", "teatro-ciego", "espacio-memoria-ex-esma", "abasto-shopping", "teatro-gran-rex"],
+      "catedral-metropolitana", "palacio-de-aguas-corrientes", "teatro-ciego", "espacio-memoria-y-derechos-humanos-ex-esma", "abasto-shopping", "teatro-gran-rex"],
     1: ["lucciano-s", "desnivel", "banchero", "ibis-buenos-aires-obelisco", "calle-florida", "montevideo-uruguay", "lujan", "capilla-del-senor", "chascomus",
       "alquiler-temporario", "patio-bullrich", "avenida-santa-fe", "circus-hostel-hotel", "play-hostel", "bus-turistico", "guias-de-turismo-habilitados",
       "havanna", "autodromo-oscar-y-juan-galvez", "mcdonald-s-kosher-del-abasto", "plaza-liniers-shopping", "caballito-shopping", "devoto-shopping", "portal-palermo",
-      "plaza-de-villa-pueyrredon", "plaza-villa-real", "plaza-monte-castro", "plaza-de-villa-luro", "plaza-de-velez-sarsfield", "plaza-de-villa-santa-rita",
-      "lago-lugano", "parque-olimpico", "museo-manoblanca", "santa-casa-de-ejercicios-espirituales"]
+      "plaza-de-los-ninos", "plaza-villa-real", "plaza-monte-castro", "plaza-derechos-del-hombre", "plaza-velez-sarsfield", "plaza-villa-santa-rita", "plaza-martin-fierro",
+      "lago-lugano", "museo-manoblanca", "barrio-de-once", "salas-de-escape"]
   },
 
   /* Comer con una condición. "diet": para qué dietas sirve cada lugar. "dietFull": lugares 100 % dedicados
@@ -50,7 +50,7 @@ window.CITY_EXTRA.caba = {
     "la-alacena-trattoria": ["Bib Gourmand Michelin 2026"],
     "mn-santa-ines": ["Bib Gourmand Michelin 2026"],
     "ajo-negro": ["Bib Gourmand Michelin 2026"],
-    "espacio-memoria-ex-esma": ["Patrimonio Mundial UNESCO"],
+    "espacio-memoria-y-derechos-humanos-ex-esma": ["Patrimonio Mundial UNESCO"],
     "aramburu": ["Guía Michelin 2026 · 2 estrellas"],
     "don-julio": ["Guía Michelin 2026 · 1 estrella"],
     "tres-monos": ["N.º 21 en The World's 50 Best Bars 2026"],
@@ -64,6 +64,9 @@ window.CITY_EXTRA.caba = {
     "confiteria-la-ideal": ["Bar Notable de la Ciudad"],
     "cafe-de-los-angelitos": ["Bar Notable de la Ciudad"],
     "miramar": ["Bar Notable de la Ciudad"],
+    "cafe-de-garcia": ["Bar Notable de la Ciudad"],
+    "cafe-margot": ["Bar Notable de la Ciudad"],
+    "la-flor-de-barracas": ["Bar Notable de la Ciudad"],
     "colonia-del-sacramento-uruguay": ["Patrimonio Mundial UNESCO"],
     "la-plata": ["Casa Curutchet: Patrimonio Mundial UNESCO"],
     "teatro-colon": ["Monumento Histórico Nacional"],
@@ -79,6 +82,7 @@ window.CITY_EXTRA.caba = {
     "feria-de-plaza-francia": [6, 0],
     "feria-de-plaza-serrano": [6, 0],
     "la-bomba-de-tiempo": [1],
+    "museo-criollo-de-los-corrales": [0],
     "colon-fabrica": [5, 6, 0]
   },
   closed: {
