@@ -834,11 +834,15 @@ window.CITY_DATA.caba = {
     { line: "H", color: "#f6c500", route: "Facultad de Derecho ↔ Hospitales", useful: "Recoleta (Las Heras), Once, Parque Patricios" }
   ],
   transport: [
-    { icon: "💳", title: "Tarjeta SUBE: lo primero", items: [
-      { t: "Qué es", d: "La tarjeta recargable para pagar subte, colectivos y trenes. Una sola sirve para varias personas si se pasa una vez por cada una." },
-      { t: "Dónde conseguirla", d: "Kioscos, estaciones de subte, locales de lotería y Centros de Atención al Turista. Se carga en los mismos lugares, en estaciones o desde la app." },
-      { t: "Otras formas de pago", d: "En el subte y en cada vez más colectivos se puede pagar con tarjeta de crédito o débito sin contacto, o con el celular (NFC). Igual conviene tener SUBE: el efectivo no se acepta arriba del colectivo." },
-      { t: "Combinaciones", d: "Al combinar varios medios dentro de un lapso de dos horas hay descuentos automáticos con SUBE registrada." }
+    /* Revisado el 9/11/2026 contra el sitio oficial de SUBE (tarjeta #38). Fuentes y lo que falta confirmar: docs/fuentes-de-informacion.md */
+    { icon: "💳", title: "Cómo pagar: lo primero", items: [
+      { t: "No hace falta comprar nada para empezar", d: "En los colectivos podés pagar con una tarjeta Visa o Mastercard sin contacto (crédito, débito o prepaga), también si es de otro país. Se acerca al lector al subir." },
+      { t: "Con el celular o el reloj", d: "Si tenés la tarjeta cargada en el celular o el reloj, se acerca igual que la tarjeta. También se puede pagar con un código QR desde la app SUBE." },
+      { t: "Tarjeta SUBE", d: "Es la tarjeta recargable del transporte: sirve en colectivos, subte y trenes. Conviene si te quedás varios días, porque solo con SUBE hay descuento al combinar viajes." },
+      { t: "Dónde conseguir la SUBE", d: "Kioscos, estaciones de subte, locales de lotería y Centros de Atención al Turista. Se carga en los mismos lugares, en estaciones o desde la app." },
+      { t: "Subte y trenes", d: "Con SUBE funciona seguro. Con tarjeta o celular puede no estar disponible en todas las estaciones: si vas a usar mucho el subte o el tren, llevá SUBE." },
+      { t: "Efectivo", d: "Arriba del colectivo no se acepta efectivo." },
+      { t: "Última revisión", d: "9 de noviembre de 2026, con el sitio oficial de SUBE. Los medios de pago cambian seguido: si algo no coincide, valen los carteles del transporte." }
     ] },
     { icon: "🚇", title: "Subte", items: [
       { t: "Cómo funciona", d: "Seis líneas (A, B, C, D, E, H) más el Premetro. Es la forma más rápida de moverse entre el Centro, Recoleta, Palermo y Belgrano." },
@@ -846,7 +850,7 @@ window.CITY_DATA.caba = {
       { t: "Consejos", d: "Evitá las horas pico (8 a 10 y 17 a 19:30) si podés. Llevá la mochila adelante y el celular guardado cerca de las puertas." }
     ] },
     { icon: "🚌", title: "Colectivos", items: [
-      { t: "Cómo funcionan", d: "Más de 150 líneas que llegan a todos lados y circulan las 24 horas (de noche, con menos frecuencia). Se sube por adelante, se le dice el destino al chofer y se apoya la SUBE." },
+      { t: "Cómo funcionan", d: "Más de 150 líneas que llegan a todos lados y circulan las 24 horas (de noche, con menos frecuencia). Se sube por adelante, se le dice el destino al chofer y se paga con tarjeta sin contacto, celular o SUBE." },
       { t: "Metrobus", d: "Carriles exclusivos en avenidas como 9 de Julio y Juan B. Justo que hacen el viaje mucho más rápido." },
       { t: "Cómo saber cuál tomar", d: "Usá Google Maps o Moovit: indican línea, parada y cuánto falta para que llegue." },
       { t: "Para bajar", d: "Tocá el timbre una cuadra antes y bajá por la puerta del medio o de atrás." }
