@@ -447,3 +447,12 @@ a.event:hover { border-color: var(--accent); }
 /* ── Dietas (tarjeta #32) ── */
 .diet { background: var(--ok-bg); color: var(--ok-ink); border-radius: 12px; padding: 12px 14px; font-size: 13.5px; }
 .diet b { display: block; font-size: 14.5px; margin-bottom: 2px; }
+
+/* ── Mi cuenta (tarjeta #35) ── */
+.account { flex: none; width: 36px; height: 36px; border-radius: 50%; background: rgba(255, 255, 255, .14); display: grid; place-items: center; font-size: 17px; }
+.account:hover { background: rgba(255, 255, 255, .24); }
+.account.in { background: var(--sun); }
+.account-box { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: 16px; box-shadow: var(--shadow); max-width: 560px; }
+.account-box .search { background: var(--surface-2); margin-top: 12px; }
+.account-box .search input { color: var(--ink); }
+@media (min-width: 900px) { .account { margin-left: 8px; } .topbar .nav { margin-left: auto; } }

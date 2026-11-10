@@ -88,18 +88,97 @@
   let plan = store.get(K.plan, null);
   if (!plan) plan = store.get("guia.favs." + CITY_ID, []).map(id => ({ id, day: 0 }));
   plan = plan.filter(x => x && byId[x.id]);
-  const prefs = Object.assign({ days: 1, names: {}, cur: "USD", start: "", checks: {} }, store.get(K.prefs, {}));
-  const savePrefs = () => store.set(K.prefs, prefs);
+  const prefs = Object.assign({ days: 1, names: {}, cur: "USD", start: "", checks: {}, updated: 0 }, store.get(K.prefs, {}));
+  prefs.profile = Object.assign({ diets: [], budget: 0, kids: false }, prefs.profile || {});
+  const savePrefs = () => { prefs.updated = Date.now(); store.set(K.prefs, prefs); queueSync(); };
   /* Fecha de cada día del viaje (si el usuario cargó cuándo llega). */
   const dayDate = d => { if (!prefs.start) return null; const dt = new Date(prefs.start + "T12:00:00"); if (isNaN(dt)) return null; dt.setDate(dt.getDate() + d - 1); return dt; };
   const dayDow = d => { const dt = dayDate(d); return dt ? dt.getDay() : null; };
   const planOf = id => plan.find(x => x.id === id);
   const nDays = () => Math.max(1, prefs.days || 1, ...plan.map(x => x.day));
-  const savePlan = () => {
-    store.set(K.plan, plan);
+  const paintBadge = () => {
     const badge = $("#fav-count");
     badge.hidden = plan.length === 0;
     badge.textContent = plan.length;
+  };
+  const savePlan = () => {
+    store.set(K.plan, plan);
+    prefs.updated = Date.now(); store.set(K.prefs, prefs);
+    paintBadge();
+    queueSync();
+  };
+
+  /* ── Perfil de viaje (tarjeta #35): la guía se acomoda a cómo viaja cada persona. Funciona sin cuenta. ── */
+  const profile = prefs.profile;
+  const fitsMe = p => p.cat !== "comer" || profile.diets.every(d => p.diet.indexOf(d) > -1);
+  const mine = p => (profile.diets.length && p.cat === "comer" && fitsMe(p)) ? 1 : 0;
+
+  /* ── Cuentas (tarjeta #35). Opcionales, con Supabase. Quedan APAGADAS mientras config.js esté vacío. ──
+     Lo único que se guarda de la persona es su mail (lo maneja Supabase) y su viaje.
+     Pasos para encenderlas: CUENTAS.md.
+     OJO: esta parte NO se pudo probar contra un servidor real. Hay que probarla al encenderla. */
+  const CFG = window.GUIA_CONFIG || {};
+  const accountsOn = !!(CFG.supabaseUrl && CFG.supabaseAnonKey);
+  let sb = null, user = null, syncTimer = null, authMsg = "";
+  const paintAccountBtn = () => { const b = $("#account-btn"); if (b) { b.classList.toggle("in", !!user); b.setAttribute("aria-label", user ? "Mi cuenta (sesión iniciada)" : "Mi cuenta"); } };
+  const applyCloud = d => {
+    if (!d || !Array.isArray(d.plan)) return;
+    plan = d.plan.filter(x => x && byId[x.id]);
+    const remote = d.prefs || {};
+    Object.keys(remote).forEach(k => { if (k !== "profile") prefs[k] = remote[k]; });
+    if (remote.profile) Object.assign(profile, remote.profile);
+    store.set(K.plan, plan); store.set(K.prefs, prefs);
+    paintBadge();
+  };
+  const pushCloud = () => {
+    if (!sb || !user) return;
+    sb.from("viajes").upsert({ user_id: user.id, datos: { plan, prefs }, actualizado: new Date().toISOString() })
+      .then(r => { if (r.error) console.warn("No se pudo guardar el viaje en la cuenta:", r.error.message); });
+  };
+  const queueSync = () => { if (!sb || !user) return; clearTimeout(syncTimer); syncTimer = setTimeout(pushCloud, 2000); };
+  /* Al entrar: gana lo más nuevo entre lo guardado en la cuenta y lo de este dispositivo. */
+  const pullCloud = () => sb.from("viajes").select("datos").eq("user_id", user.id).maybeSingle().then(r => {
+    const d = r.data && r.data.datos;
+    if (d && d.prefs && (d.prefs.updated || 0) > (prefs.updated || 0)) { applyCloud(d); toast("Recuperamos tu viaje guardado"); }
+    else if (plan.length || prefs.updated) pushCloud();
+    if (sheetId === null) rerender();
+  });
+  const startAccounts = () => {
+    if (!accountsOn) return;
+    const s = document.createElement("script");
+    s.src = "https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.45.4/dist/umd/supabase.min.js";
+    s.onload = () => {
+      sb = window.supabase.createClient(CFG.supabaseUrl, CFG.supabaseAnonKey, { auth: { flowType: "pkce", detectSessionInUrl: true, persistSession: true } });
+      sb.auth.onAuthStateChange((event, session) => {
+        const was = user;
+        user = session ? session.user : null;
+        paintAccountBtn();
+        if (user && !was) pullCloud();
+        else if (route().name === "cuenta") rerender();
+      });
+    };
+    s.onerror = () => { authMsg = "No pudimos conectar con el servicio de cuentas. Probá más tarde."; };
+    document.head.appendChild(s);
+  };
+  const viewAccount = () => {
+    const chip = (data, on, label) => '<button class="chip' + (on ? " on" : "") + '" ' + data + ' aria-pressed="' + on + '">' + label + "</button>";
+    let cuenta;
+    if (!accountsOn) {
+      cuenta = '<div class="account-box"><b>Las cuentas todavía no están encendidas</b><p class="hint" style="margin:4px 0 0">Por ahora tu viaje y tu perfil se guardan solo en este dispositivo. Cuando se activen vas a poder entrar con tu mail y tener todo en cualquier celular o compu.</p></div>';
+    } else if (user) {
+      cuenta = '<div class="account-box"><p>Entraste como <b>' + esc(user.email || "tu cuenta") + '</b></p><p class="hint" style="margin:4px 0 0">Tu viaje se guarda en tu cuenta. Lo único que sabemos de vos es tu mail.</p>' +
+        '<p class="plan-actions" style="margin:12px 0 0"><button class="btn" data-signout>Cerrar sesión</button><button class="btn danger" data-wipe>Borrar lo guardado en mi cuenta</button></p></div>';
+    } else {
+      cuenta = '<form class="account-box" id="login-form"><label for="login-mail"><b>Entrá con tu mail</b></label><p class="hint" style="margin:4px 0 0">Te mandamos un enlace para entrar, sin contraseñas. Lo único que guardamos es tu mail y tu viaje.</p>' +
+        '<div class="search"><input id="login-mail" name="mail" type="email" required placeholder="tu@mail.com" autocomplete="email"><button>Enviar enlace</button></div>' +
+        (authMsg ? '<p class="status ok" style="margin-top:10px">' + esc(authMsg) + "</p>" : "") + "</form>";
+    }
+    return '<h1 class="page-title">Mi cuenta</h1><p class="page-sub">Tu cuenta y tu perfil de viaje.</p>' + cuenta +
+      '<section class="section">' + head("Mi perfil de viaje") + '<p class="hint">Contanos cómo viajás y la guía se acomoda: marca lo que es apto para vos y arma el viaje con eso.</p><div class="wiz">' +
+      '<h2>¿Comés con alguna condición?</h2><div class="chips wrap">' + DIETS.map(d => chip('data-pdiet="' + d[0] + '"', profile.diets.indexOf(d[0]) > -1, d[1])).join("") + "</div>" +
+      '<h2>¿Hasta cuánto querés gastar en cada comida?</h2><div class="chips wrap">' + [[0, "Me da igual"], [1, "$ Económico"], [2, "$$ Medio"], [3, "$$$ Caro"]].map(o => chip('data-pbudget="' + o[0] + '"', profile.budget === o[0], o[1])).join("") + "</div>" +
+      '<h2>¿Viajás con chicos?</h2><div class="chips wrap">' + chip('data-pkids="1"', profile.kids, "Sí") + chip('data-pkids="0"', !profile.kids, "No") + "</div></div></section>" +
+      '<p class="plan-actions" style="margin-top:22px"><a class="btn" href="#/viaje">🧳 Ir a Mi viaje</a></p>';
   };
   const favLabel = id => planOf(id) ? "♥ En mi viaje" : "♡ Guardar";
   const toggleSave = id => {
@@ -215,7 +294,7 @@
     else if (f.sort === "barato") out.sort((a, b) => pr(a) - pr(b) || b.q - a.q);
     else if (f.sort === "caro") out.sort((a, b) => (b.price || -1) - (a.price || -1) || b.q - a.q);
     else if (f.sort === "az") out.sort(byName);
-    else out.sort((a, b) => b.q - a.q || b.awards.length - a.awards.length || byName(a, b));
+    else out.sort((a, b) => mine(b) - mine(a) || b.q - a.q || b.awards.length - a.awards.length || byName(a, b));
     return out;
   };
   const activeFilters = () => (f.cat !== "todos" && f.cat !== "ninguno") + !!f.sub + !!f.barrio + f.prices.length + f.diets.length + f.today + !!f.q + (f.planDay !== null);
@@ -235,7 +314,7 @@
       (s && s.ok && X.only && X.only[p.id] ? '<span class="bdg yes">Hoy funciona</span>' : "");
   };
   const card = p => {
-    const c = cats[p.cat], d = distTxt(p), b = badges(p);
+    const c = cats[p.cat], d = distTxt(p), b = badges(p) + (mine(p) ? '<span class="bdg yes">✓ Apto para vos</span>' : "");
     return '<article class="card" style="--c:' + c.color + '" data-open="' + p.id + '" tabindex="0" role="button" aria-label="Ver ' + esc(p.name) + '">' +
       media(p, 250, "thumb") +
       '<div class="card-body"><div class="card-top"><h3>' + esc(p.name) + "</h3>" +
@@ -271,7 +350,8 @@
     else if (h >= 15 && h < 19) { title = "Para esta tarde"; test = p => p.cat === "ver" || /Café|Helad/.test(p.sub); }
     else if (h >= 19) { title = "Para esta noche"; test = p => (meal(p) && p.sub !== "Al paso") || p.cat === "noche"; }
     else { title = "Trasnoche porteña"; test = p => p.cat === "noche" || p.sub === "Pizzería"; }
-    let items = places.filter(p => p.inCity && test(p) && openToday(p) && (!rain || p.cat !== "ver" || (p.tags || []).indexOf("lluvia") > -1));
+    let items = places.filter(p => p.inCity && test(p) && openToday(p) && (!rain || p.cat !== "ver" || (p.tags || []).indexOf("lluvia") > -1) &&
+      fitsMe(p) && (!profile.budget || p.cat !== "comer" || p.price == null || p.price <= profile.budget));
     const seed = t.getDate() + t.getMonth() * 31;
     if (userLL) items.sort((a, b) => (a.ll ? km(userLL, a.ll) : 1e9) - (b.ll ? km(userLL, b.ll) : 1e9));
     else items.sort((a, b) => b.q - a.q || seeded(a.id, seed) - seeded(b.id, seed));
@@ -532,7 +612,8 @@
   };
 
   /* ── Armado automático del viaje ── */
-  const wiz = { days: 3, interests: ["historia", "gastro"], budget: 2, pace: 4 };
+  const wiz = { days: 3, interests: ["historia", "gastro"], budget: profile.budget || 2, pace: 4 };
+  if (profile.kids) wiz.interests.push("chicos");
   const INTERESTS = [["historia", "🏛️ Historia y arquitectura"], ["arte", "🎨 Arte y museos"], ["naturaleza", "🌳 Parques y aire libre"], ["gastro", "🥩 Gastronomía"], ["noche", "🍸 Tango y noche"], ["compras", "🛍️ Compras y ferias"], ["futbol", "⚽ Fútbol"], ["deporte", "🏇 Deportes"], ["chicos", "🧒 Viajo con chicos"]];
   const likes = {
     historia: p => /Histórico|Ícono|Paseo|Barrio|Mirador|Mercado/.test(p.sub) || /historia|arquitectura/.test((p.tags || []).join(" ")),
@@ -570,7 +651,7 @@
       const sights = nearestOrder(pick(places.filter(p => p.cat === "ver" && inZ(p) && openOn(p)).sort((a, b) => (b.q * 10 + interest(b) * 7) - (a.q * 10 + interest(a) * 7)), wiz.pace));
       const anchor = sights[Math.floor(sights.length / 2)] || sights[0];
       const near = (a, b) => anchor && a.ll && b.ll ? km(anchor.ll, a.ll) - km(anchor.ll, b.ll) : 0;
-      const food = places.filter(p => p.cat === "comer" && p.ll && p.inCity);
+      const food = places.filter(p => p.cat === "comer" && p.ll && p.inCity && fitsMe(p));   // respeta la dieta del perfil
       const meals = food.filter(p => !/Café|Helad/.test(p.sub));
       const fit = (list, max) => { const ok = list.filter(p => p.price <= max); return (ok.length ? ok : list.slice().sort((a, b) => a.price - b.price)); };
       // Lo que funciona solo ciertos días (ferias, shows) entra únicamente si coincide con la fecha.
@@ -815,7 +896,7 @@
       : r.name === "info" ? viewInfo(r.arg) : r.name === "moverse" ? viewInfo("moverse")
       : r.name === "consejos" ? viewInfo(r.arg === "practica" || r.arg === "calendario" ? r.arg : "seguridad")
       : r.name === "viaje" || r.name === "guardados" ? viewTrip() : r.name === "itinerario" ? viewItinerary(r.arg)
-      : r.name === "armar" ? viewWizard() : viewHome();
+      : r.name === "armar" ? viewWizard() : r.name === "cuenta" ? viewAccount() : viewHome();
     paintResults();
     paintConv();
     const key = NAV[r.name] || r.name;
@@ -929,6 +1010,21 @@
       return;
     }
     if (t.closest("[data-print]")) { window.print(); return; }
+    if ((el = t.closest("[data-pdiet]"))) { const d = el.getAttribute("data-pdiet"), i = profile.diets.indexOf(d); if (i > -1) profile.diets.splice(i, 1); else profile.diets.push(d); savePrefs(); rerender(); return; }
+    if ((el = t.closest("[data-pbudget]"))) { profile.budget = +el.getAttribute("data-pbudget"); wiz.budget = profile.budget || 2; savePrefs(); rerender(); return; }
+    if ((el = t.closest("[data-pkids]"))) {
+      profile.kids = el.getAttribute("data-pkids") === "1";
+      const i = wiz.interests.indexOf("chicos");
+      if (profile.kids && i < 0) wiz.interests.push("chicos"); else if (!profile.kids && i > -1) wiz.interests.splice(i, 1);
+      savePrefs(); rerender(); return;
+    }
+    if (t.closest("[data-signout]")) { if (sb) sb.auth.signOut(); return; }
+    if (t.closest("[data-wipe]")) {
+      if (sb && user && window.confirm("¿Borrar lo que está guardado en tu cuenta? En este dispositivo no se borra nada.")) {
+        sb.from("viajes").delete().eq("user_id", user.id).then(r => toast(r.error ? "No se pudo borrar. Probá de nuevo." : "Listo: borramos lo guardado en tu cuenta"));
+      }
+      return;
+    }
     if ((el = t.closest("[data-showmap]"))) { focusId = el.getAttribute("data-showmap"); goExplore({ mode: "mapa" }); return; }
     if (t.closest("[data-clear]")) { resetFilters({ sort: f.sort }); if ($("#q")) $("#q").value = ""; paintFilters(); return; }
     if ((el = t.closest("[data-go]"))) { goExplore(JSON.parse(el.getAttribute("data-go"))); return; }
@@ -945,6 +1041,14 @@
   });
   document.addEventListener("submit", e => {
     if (e.target.id === "home-search") { e.preventDefault(); goExplore({ q: e.target.q.value.trim() }); }
+    if (e.target.id === "login-form") {
+      e.preventDefault();
+      if (!sb) { authMsg = "Todavía estamos conectando con el servicio de cuentas. Probá en unos segundos."; rerender(); return; }
+      sb.auth.signInWithOtp({ email: e.target.mail.value.trim(), options: { emailRedirectTo: location.href.split("#")[0] } }).then(r => {
+        authMsg = r.error ? "No pudimos enviar el enlace: " + r.error.message : "Listo: revisá tu mail y tocá el enlace para entrar.";
+        rerender();
+      });
+    }
     if (e.target.id === "route-form") {
       e.preventDefault();
       const to = e.target.to.value.trim();
@@ -982,9 +1086,10 @@
   /* ── Inicio ── */
   $("#brand-city").textContent = city.name;
   document.title = "Guía de " + city.name;
-  savePlan();
+  paintBadge();
   sync();
   loadWeather();
   loadFx();
+  startAccounts();
   if ("serviceWorker" in navigator && /^https?:$/.test(location.protocol)) navigator.serviceWorker.register("sw.js").catch(() => {});
 })();
