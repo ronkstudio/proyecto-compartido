@@ -26,7 +26,10 @@ Preguntas abiertas:
 
 ## Qué está hecho
 
-- **Explorar:** 165 lugares en 7 categorías, buscador que entiende sinónimos, filtros por tipo, barrio, precio y "abre hoy", y orden por recomendación, cercanía o precio.
+- **Explorar:** 297 lugares en 9 categorías (se sumaron Deportes y Entretenimiento), buscador que entiende sinónimos, filtros por tipo, barrio, precio y "abre hoy", y orden por recomendación, cercanía o precio.
+- **Comer con una condición:** filtros por vegetariano, vegano, sin TACC y kosher. La ficha avisa siempre que hay que confirmar en el local. Los lugares "100 %" están en `dietFull` de `data/caba-extra.js`.
+- **Todos los barrios:** 46 de los 48 barrios tienen al menos un lugar. Faltan Vélez Sarsfield y Villa Lugano: no encontramos nada que valga la pena sin inventar.
+- **Shoppings:** Abasto, DOT, Unicenter, Alto Palermo, Alcorta, Distrito Arcos y seis más.
 - **Ficha de lugar:** foto, consejo, precio, subte más cercano, cómo llegar, opiniones en Google Maps, Uber, disponibilidad en Booking para hoteles y qué hay cerca.
 - **Mapa:** todos los lugares con ubicación, más 7 capas de zonas y 22 puntos de ayuda.
 - **Mi viaje:** guardar lugares, asignarlos a un día, ordenar por cercanía, ver el día en el mapa, abrir la ruta en Google Maps, compartir e imprimir. Con fecha de llegada avisa si algo cierra ese día.
@@ -56,7 +59,10 @@ Preguntas abiertas:
 - **Sin horarios reales ni puntajes de reseñas.** Harían falta servicios pagos.
 - **Pocas fotos** de restaurantes, bares y hoteles.
 - **No está publicado** en internet: se abre solo en la compu.
-- **Unas 30 ubicaciones son aproximadas.** Están marcadas con "aprox." en `data/caba-coords.js` y `data/caba-zones.js`.
+- **Sin TACC y kosher son temas de salud y de fe.** Solo hay 3 lugares sin TACC y 2 kosher, los que una búsqueda describió como dedicados. Hay que confirmarlos uno por uno antes de publicar. No hay opciones halal ni sin lactosa.
+- **Las plazas de barrio** (etiqueta "vida de barrio") tienen descripciones genéricas: se sumaron para que cada barrio tenga algo, con el nombre y la ubicación reales de OpenStreetMap, pero sin conocer cada una.
+- **Los 130 lugares nuevos de la tarjeta #32** salen de lo que sabe Claude. Muchos aparecen en OpenStreetMap en esa dirección, pero no se verificó que sigan abiertos.
+- **Unas 45 ubicaciones son aproximadas.** Están marcadas con "aprox." en `data/caba-coords.js` y `data/caba-zones.js`.
 - En "Mi viaje" no se puede cambiar el orden a mano, solo por cercanía.
 
 ## Reglas para tocar esta carpeta
