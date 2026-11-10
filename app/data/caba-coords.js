@@ -167,5 +167,74 @@ window.CITY_COORDS.caba = {
   "mercado-de-belgrano": [-34.56262, -58.45828],
   "strange-brewing": [-34.57967, -58.45119],
   "trade-sky-bar": [-34.60328, -58.37054],
-  "salon-1923": [-34.60966, -58.38573]
+  "salon-1923": [-34.60966, -58.38573],
+
+  /* Deportes (tarjeta #32) */
+  "campo-argentino-de-polo": [-34.57146, -58.42702],
+  "hipodromo-de-palermo": [-34.5664, -58.42573],
+  "buenos-aires-lawn-tennis-club": [-34.56212, -58.43199],
+  "movistar-arena": [-34.59426, -58.44814],
+  "estadio-obras-sanitarias": [-34.54551, -58.45801],
+  "estadio-diego-armando-maradona": [-34.60611, -58.47263],
+  "estadio-tomas-adolfo-duco": [-34.64345, -58.3965],
+  "estadio-jose-amalfitani": [-34.63534, -58.52068],
+  "autodromo-oscar-y-juan-galvez": [-34.69025, -58.45303],
+  "correr-en-los-bosques-de-palermo": [-34.569, -58.416], // aprox.
+  "vuelta-en-bici-por-puerto-madero-y-la-reserva": [-34.6125, -58.361], // aprox.
+  "circuito-kdt": [-34.5728, -58.4012], // aprox.
+  "campo-de-golf-de-la-ciudad": [-34.5575, -58.4265], // aprox.
+  "kayak-y-remo-en-el-delta": [-34.419, -58.579], // aprox.
+  "peru-beach": [-34.477, -58.4945], // aprox.
+
+  /* Comer con una condición y más cocinas (tarjeta #32) */
+  "sintaxis": [-34.58629, -58.42745],
+  "buenos-aires-verde": [-34.58439, -58.43775],
+  "la-reverde-parrillita-vegana": [-34.60822, -58.3893],
+  "mcdonald-s-kosher-del-abasto": [-34.60295, -58.41069],
+  "al-galope": [-34.60185, -58.404],
+  "fukuro-noodle-bar": [-34.58332, -58.43399],
+  "osaka": [-34.58082, -58.43281],
+  "la-mar-cebicheria": [-34.57827, -58.43757],
+  "chan-chan": [-34.61001, -58.38589],
+  "una-cancion-coreana": [-34.64174, -58.44584],
+  "trescha": [-34.60026, -58.44403],
+  "crizia": [-34.58325, -58.43518],
+  "mengano": [-34.58897, -58.43376],
+  "anafe": [-34.5738, -58.45883],
+  "caseros": [-34.62684, -58.37225],
+  "la-alacena-trattoria": [-34.59397, -58.42276],
+  "mn-santa-ines": [-34.59273, -58.46777],
+  "ajo-negro": [-34.58317, -58.44807],
+  "lo-de-charly": [-34.57819, -58.47087],
+  "el-ferroviario": [-34.63688, -58.52102],
+  "nuestra-parrilla": [-34.61907, -58.37291],
+  "cafe-paulin": [-34.60453, -58.3756],
+  "salvaje-bakery": [-34.5822, -58.4412], // aprox.
+  "mercado-de-los-carruajes": [-34.59793, -58.37199],
+
+  /* Más noche (tarjeta #32) */
+  "vico-wine-bar": [-34.5926, -58.43415],
+  "pain-et-vin": [-34.58852, -58.43264],
+  "uptown": [-34.57802, -58.43728],
+  "maricafe": [-34.59422, -58.421],
+  "peuteo": [-34.5878, -58.42656],
+  "teatro-ciego": [-34.60203, -58.40837],
+
+  /* Más para ver (tarjeta #32) */
+  "catedral-metropolitana": [-34.60747, -58.37328],
+  "cabildo-de-buenos-aires": [-34.60888, -58.37367],
+  "centro-cultural-recoleta-y-basilica-del-pilar": [-34.5863, -58.39251],
+  "palacio-de-aguas-corrientes": [-34.60031, -58.39468],
+  "confiteria-del-molino": [-34.6094, -58.3924], // aprox.
+  "galeria-guemes-y-su-mirador": [-34.60626, -58.375],
+  "museo-xul-solar": [-34.595, -58.4068], // aprox.
+  "museo-fernandez-blanco": [-34.5908, -58.38012],
+  "casa-museo-carlos-gardel": [-34.60167, -58.40781],
+  "paseo-de-la-historieta-y-mafalda": [-34.6161, -58.3717], // aprox.
+  "parque-lezama-y-museo-historico-nacional": [-34.62701, -58.37058],
+  "plaza-san-martin-y-palacio-paz": [-34.5953, -58.3757], // aprox.
+  "centro-cultural-islamico-rey-fahd": [-34.57283, -58.42541],
+  "templo-libertad-y-museo-judio": [-34.59959, -58.38389],
+  "museo-de-los-ninos": [-34.60295, -58.41069],
+  "circuito-papal": [-34.6287, -58.4633] // aprox.
 };

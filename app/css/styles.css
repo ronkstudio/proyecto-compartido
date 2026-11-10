@@ -443,3 +443,7 @@ a.event:hover { border-color: var(--accent); }
   .toast { bottom: 24px; }
   #view { padding-top: 24px; }
 }
+
+/* ── Dietas (tarjeta #32) ── */
+.diet { background: var(--ok-bg); color: var(--ok-ink); border-radius: 12px; padding: 12px 14px; font-size: 13.5px; }
+.diet b { display: block; font-size: 14.5px; margin-bottom: 2px; }

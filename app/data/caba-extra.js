@@ -16,13 +16,41 @@ window.CITY_EXTRA.caba = {
       "free-walking-tours-a-la-gorra", "visita-guiada-al-teatro-colon", "visita-al-palacio-barolo",
       "tigre-y-delta-del-parana", "colonia-del-sacramento-uruguay", "san-antonio-de-areco",
       "alvear-palace-hotel", "palacio-duhau-park-hyatt", "four-seasons-buenos-aires", "faena-hotel", "home-hotel", "america-del-sur-hostel",
-      "feria-de-mataderos", "palermo-soho"],
+      "feria-de-mataderos", "palermo-soho",
+      "campo-argentino-de-polo", "hipodromo-de-palermo", "kayak-y-remo-en-el-delta", "sintaxis", "trescha", "crizia", "mengano", "la-alacena-trattoria",
+      "catedral-metropolitana", "palacio-de-aguas-corrientes", "teatro-ciego", "espacio-memoria-ex-esma", "abasto-shopping", "teatro-gran-rex"],
     1: ["lucciano-s", "desnivel", "banchero", "ibis-buenos-aires-obelisco", "calle-florida", "montevideo-uruguay", "lujan", "capilla-del-senor", "chascomus",
-      "alquiler-temporario", "patio-bullrich", "avenida-santa-fe", "circus-hostel-hotel", "play-hostel", "bus-turistico", "guias-de-turismo-habilitados"]
+      "alquiler-temporario", "patio-bullrich", "avenida-santa-fe", "circus-hostel-hotel", "play-hostel", "bus-turistico", "guias-de-turismo-habilitados",
+      "havanna", "autodromo-oscar-y-juan-galvez", "mcdonald-s-kosher-del-abasto", "plaza-liniers-shopping", "caballito-shopping", "devoto-shopping", "portal-palermo",
+      "plaza-de-villa-pueyrredon", "plaza-villa-real", "plaza-monte-castro", "plaza-de-villa-luro", "plaza-de-velez-sarsfield", "plaza-de-villa-santa-rita",
+      "lago-lugano", "parque-olimpico", "museo-manoblanca", "santa-casa-de-ejercicios-espirituales"]
   },
+
+  /* Comer con una condición. "diet": para qué dietas sirve cada lugar. "dietFull": lugares 100 % dedicados
+     (todo el local es vegano, sin TACC o kosher). Los demás tienen buenas opciones, pero no son exclusivos.
+     Sin TACC y kosher: solo lugares que una fuente describe como dedicados. La app avisa siempre que hay que confirmar en el local. */
+  diet: {
+    "sacro": ["vegano", "vegetariano"], "donnet": ["vegano", "vegetariano"], "la-reverde-parrillita-vegana": ["vegano", "vegetariano"],
+    "buenos-aires-verde": ["vegano", "vegetariano", "sin TACC"],
+    "sintaxis": ["sin TACC"], "la-union-gluten-free": ["sin TACC"],
+    "mcdonald-s-kosher-del-abasto": ["kosher"], "al-galope": ["kosher"],
+    "narda-comedor": ["vegetariano"], "gran-dabbang": ["vegetariano"], "sarkis": ["vegetariano"], "proper": ["vegetariano"], "la-alacena-trattoria": ["vegetariano"],
+    "mercat-villa-crespo": ["vegetariano"], "mercado-de-belgrano": ["vegetariano"], "mercado-de-los-carruajes": ["vegetariano"],
+    "siamo-nel-forno": ["vegetariano"], "pizzeria-guerrin": ["vegetariano"], "el-cuartito": ["vegetariano"], "las-cuartetas": ["vegetariano"], "la-mezzetta": ["vegetariano"], "banchero": ["vegetariano"]
+  },
+  dietFull: ["sacro", "donnet", "la-reverde-parrillita-vegana", "sintaxis", "la-union-gluten-free", "mcdonald-s-kosher-del-abasto", "al-galope"],
 
   /* Reconocimientos verificables. Michelin y 50 Best Bars: ediciones 2026. */
   awards: {
+    "trescha": ["Guía Michelin 2026 · 1 estrella"],
+    "crizia": ["Guía Michelin 2026 · 1 estrella"],
+    "mengano": ["Bib Gourmand Michelin 2026"],
+    "anafe": ["Bib Gourmand Michelin 2026"],
+    "caseros": ["Bib Gourmand Michelin 2026"],
+    "la-alacena-trattoria": ["Bib Gourmand Michelin 2026"],
+    "mn-santa-ines": ["Bib Gourmand Michelin 2026"],
+    "ajo-negro": ["Bib Gourmand Michelin 2026"],
+    "espacio-memoria-ex-esma": ["Patrimonio Mundial UNESCO"],
     "aramburu": ["Guía Michelin 2026 · 2 estrellas"],
     "don-julio": ["Guía Michelin 2026 · 1 estrella"],
     "tres-monos": ["N.º 21 en The World's 50 Best Bars 2026"],
@@ -78,7 +106,13 @@ window.CITY_EXTRA.caba = {
     { name: "Pizza porteña", icon: "🍕", filter: { cat: "comer", sub: "Pizzería" }, cover: "obelisco-y-avenida-corrientes" },
     { name: "Para futboleros", icon: "⚽", filter: { q: "fútbol" }, cover: "la-bombonera-y-museo-de-la-pasion-boquense" },
     { name: "Con chicos", icon: "🧒", filter: { q: "chicos" }, cover: "planetario-galileo-galilei" },
-    { name: "Vegetariano y vegano", icon: "🥬", filter: { q: "vegetariano" }, cover: "" },
+    { name: "Vegetariano y vegano", icon: "🥬", filter: { diets: ["vegetariano"] }, cover: "" },
+    { name: "Sin TACC", icon: "🌾", filter: { diets: ["sin TACC"] }, cover: "" },
+    { name: "Deportes", icon: "⚽", filter: { cat: "deporte" }, cover: "" },
+    { name: "Shoppings", icon: "🛍️", filter: { cat: "compras", sub: "Shopping" }, cover: "galerias-pacifico" },
+    { name: "Cine y teatro", icon: "🎭", filter: { cat: "ocio" }, cover: "teatros-de-la-avenida-corrientes" },
+    { name: "Barrios fuera del circuito", icon: "🏘️", filter: { q: "vida de barrio" }, cover: "" },
+    { name: "Noche LGBT+", icon: "🏳️‍🌈", filter: { q: "lgbt+" }, cover: "" },
     { name: "Aire libre", icon: "🌳", filter: { q: "naturaleza" }, cover: "bosques-de-palermo-y-rosedal" },
     { name: "Días de lluvia", icon: "🌧️", filter: { q: "lluvia" }, cover: "el-ateneo-grand-splendid" },
     { name: "Alta cocina", icon: "🍷", filter: { cat: "comer", sub: "De autor" }, cover: "don-julio" }

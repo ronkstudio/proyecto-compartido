@@ -61,7 +61,9 @@
     p.awards = (X.awards && X.awards[p.id]) || [];
     p.photo = (X.photos && X.photos[p.id]) || "";
     p.inCity = p.barrio !== "Fuera de CABA";
-    p._search = norm([p.name, p.sub, p.barrio, p.address, p.desc, p.tip, (p.tags || []).join(" "), cats[p.cat].name, p.awards.join(" "), p.price === 0 ? "gratis gratuito" : ""].join(" "));
+    p.diet = (X.diet && X.diet[p.id]) || [];                       // dietas para las que sirve (tarjeta #32)
+    p.dietFull = (X.dietFull || []).indexOf(p.id) > -1;             // true = todo el local es apto
+    p._search = norm([p.name, p.sub, p.barrio, p.address, p.desc, p.tip, (p.tags || []).join(" "), cats[p.cat].name, p.awards.join(" "), p.diet.join(" "), p.price === 0 ? "gratis gratuito" : ""].join(" "));
     byId[p.id] = p;
   });
   const places = city.places;
@@ -186,7 +188,8 @@
 
   /* ── Filtros de Explorar ── */
   let f, zoneId = "", showHelp = false, focusHelp = null;
-  const resetFilters = next => { f = Object.assign({ cat: "todos", sub: "", barrio: "", prices: [], today: false, q: "", sort: "rec", planDay: null }, next || {}); };
+  const DIETS = [["vegetariano", "🥬 Vegetariano"], ["vegano", "🌱 Vegano"], ["sin TACC", "🌾 Sin TACC"], ["kosher", "✡️ Kosher"]];
+  const resetFilters = next => { f = Object.assign({ cat: "todos", sub: "", barrio: "", prices: [], diets: [], today: false, q: "", sort: "rec", planDay: null }, next || {}); };
   resetFilters();
   const SYN = X.synonyms || {};
   const matchQ = (p, tokens) => tokens.every(t => {
@@ -204,6 +207,7 @@
       (!f.barrio || p.barrio === f.barrio) &&
       (!f.prices.length || f.prices.indexOf(p.price) > -1) &&
       (!f.today || openToday(p)) &&
+      f.diets.every(d => p.diet.indexOf(d) > -1) &&
       matchQ(p, tokens));
     const byName = (a, b) => a.name.localeCompare(b.name, "es");
     const pr = p => p.price == null ? 99 : p.price;
@@ -214,7 +218,7 @@
     else out.sort((a, b) => b.q - a.q || b.awards.length - a.awards.length || byName(a, b));
     return out;
   };
-  const activeFilters = () => (f.cat !== "todos" && f.cat !== "ninguno") + !!f.sub + !!f.barrio + f.prices.length + f.today + !!f.q + (f.planDay !== null);
+  const activeFilters = () => (f.cat !== "todos" && f.cat !== "ninguno") + !!f.sub + !!f.barrio + f.prices.length + f.diets.length + f.today + !!f.q + (f.planDay !== null);
 
   /* ── Piezas de interfaz ── */
   const priceHtml = p => p.price === 0 ? '<span class="free">Gratis</span>' : p.price ? '<span class="price" title="' + PRICE_WORD[p.price] + '">' + "$$$$".slice(0, p.price) + "</span>" : "";
@@ -354,7 +358,8 @@
     return '<select class="chip sel" id="f-sort" aria-label="Ordenar">' + sorts.map(o => '<option value="' + o[0] + '"' + (f.sort === o[0] ? " selected" : "") + ">" + o[1] + "</option>").join("") + "</select>" +
       '<select class="chip sel' + (f.barrio ? " on" : "") + '" id="f-barrio" aria-label="Barrio"><option value="">Todos los barrios</option>' + barrios.map(b => "<option" + (f.barrio === b ? " selected" : "") + ">" + esc(b) + "</option>").join("") + "</select>" +
       [0, 1, 2, 3, 4].map(n => '<button class="chip sm' + (f.prices.indexOf(n) > -1 ? " on" : "") + '" data-price="' + n + '" aria-pressed="' + (f.prices.indexOf(n) > -1) + '" title="' + PRICE_WORD[n] + '">' + (n ? "$$$$".slice(0, n) : "Gratis") + "</button>").join("") +
-      '<button class="chip sm' + (f.today ? " on" : "") + '" data-today aria-pressed="' + f.today + '">Abre hoy</button>';
+      '<button class="chip sm' + (f.today ? " on" : "") + '" data-today aria-pressed="' + f.today + '">Abre hoy</button>' +
+      (f.cat === "todos" || f.cat === "comer" ? DIETS.map(d => '<button class="chip sm' + (f.diets.indexOf(d[0]) > -1 ? " on" : "") + '" data-diet="' + d[0] + '" aria-pressed="' + (f.diets.indexOf(d[0]) > -1) + '">' + d[1] + "</button>").join("") : "");
   };
   /* Lista y Mapa comparten los mismos filtros: el selector solo cambia de vista. */
   const seg = on => '<div class="mode" role="group" aria-label="Vista"><a href="#/explorar" class="' + (on === "lista" ? "on" : "") + '">☰ Lista</a><a href="#/mapa" class="' + (on === "mapa" ? "on" : "") + '">🗺️ Mapa</a></div>';
@@ -528,7 +533,7 @@
 
   /* ── Armado automático del viaje ── */
   const wiz = { days: 3, interests: ["historia", "gastro"], budget: 2, pace: 4 };
-  const INTERESTS = [["historia", "🏛️ Historia y arquitectura"], ["arte", "🎨 Arte y museos"], ["naturaleza", "🌳 Parques y aire libre"], ["gastro", "🥩 Gastronomía"], ["noche", "🍸 Tango y noche"], ["compras", "🛍️ Compras y ferias"], ["futbol", "⚽ Fútbol"], ["chicos", "🧒 Viajo con chicos"]];
+  const INTERESTS = [["historia", "🏛️ Historia y arquitectura"], ["arte", "🎨 Arte y museos"], ["naturaleza", "🌳 Parques y aire libre"], ["gastro", "🥩 Gastronomía"], ["noche", "🍸 Tango y noche"], ["compras", "🛍️ Compras y ferias"], ["futbol", "⚽ Fútbol"], ["deporte", "🏇 Deportes"], ["chicos", "🧒 Viajo con chicos"]];
   const likes = {
     historia: p => /Histórico|Ícono|Paseo|Barrio|Mirador|Mercado/.test(p.sub) || /historia|arquitectura/.test((p.tags || []).join(" ")),
     arte: p => /Museo|Cultura/.test(p.sub) || (p.tags || []).indexOf("arte") > -1,
@@ -583,8 +588,9 @@
       const treat = wiz.interests.indexOf("gastro") > -1 || wiz.pace >= 4 ? pick(zoneFirst(food.filter(p => /Café|Helad/.test(p.sub))).sort((a, b) => b.q - a.q || near(a, b)), 1) : [];
       const shop = wiz.interests.indexOf("compras") > -1 ? pick(places.filter(p => p.cat === "compras" && inZ(p) && anyDay(p)).sort((a, b) => b.q - a.q), 1) : [];
       const night = wiz.interests.indexOf("noche") > -1 ? pick(zoneFirst(places.filter(p => p.cat === "noche" && p.ll && anyDay(p) && p.sub !== "Teatro" && p.price <= wiz.budget + 1)).sort((a, b) => b.q - a.q || near(a, b)), 1) : [];
+      const sport = wiz.interests.indexOf("deporte") > -1 ? pick(places.filter(p => p.cat === "deporte" && inZ(p) && anyDay(p)).sort((a, b) => b.q - a.q), 1) : [];
       const half = Math.ceil(sights.length / 2);
-      sights.slice(0, half).concat(lunch, sights.slice(half), shop, treat, dinner, night).forEach(p => out.push({ id: p.id, day: d }));
+      sights.slice(0, half).concat(lunch, sights.slice(half), sport, shop, treat, dinner, night).forEach(p => out.push({ id: p.id, day: d }));
     }
     plan = out;
     prefs.days = wiz.days; prefs.names = names;
@@ -749,6 +755,7 @@
       '<div class="sheet-body">' +
         '<p class="bdgs"><span class="bdg ' + (p.q === 3 ? "q" : "q2") + '">' + (p.q === 3 ? "★ " : "") + QL[p.q] + "</span>" + p.awards.map(a => '<span class="bdg aw">🏅 ' + esc(a) + "</span>").join("") + "</p>" +
         "<p>" + esc(p.desc) + "</p>" +
+        (p.diet.length ? '<div class="diet"><b>' + (p.dietFull ? "Local 100 % " : "Con opciones para: ") + esc(p.diet.join(", ")) + "</b>Confirmá siempre en el local antes de pedir, sobre todo si tenés celiaquía o alergias: las cocinas y las cartas cambian.</div>" : "") +
         (p.tip ? '<div class="tip"><b>Consejo</b>' + esc(p.tip) + "</div>" : "") +
         (st ? '<p class="status ' + (st.ok ? "ok" : "no") + '">' + (st.ok ? "🟢 " + esc(st.text) : "🔴 Hoy (" + DOW[cityNow().getDay()] + ") no: " + esc(st.text.toLowerCase())) + ".</p>" : "") +
         '<div class="actions">' +
@@ -929,6 +936,7 @@
     if ((el = t.closest("[data-sub]"))) { const s = el.getAttribute("data-sub"); f.sub = f.sub === s ? "" : s; paintFilters(); return; }
     if ((el = t.closest("[data-price]"))) { const n = +el.getAttribute("data-price"), i = f.prices.indexOf(n); if (i > -1) f.prices.splice(i, 1); else f.prices.push(n); paintFilters(); return; }
     if (t.closest("[data-today]")) { f.today = !f.today; paintFilters(); return; }
+    if ((el = t.closest("[data-diet]"))) { const d = el.getAttribute("data-diet"), i = f.diets.indexOf(d); if (i > -1) f.diets.splice(i, 1); else f.diets.push(d); paintFilters(); return; }
     if ((el = t.closest("[data-open]"))) { openPlace(el.getAttribute("data-open")); return; }
   });
   document.addEventListener("keydown", e => {
