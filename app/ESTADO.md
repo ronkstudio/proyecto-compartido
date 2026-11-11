@@ -24,6 +24,8 @@ Preguntas abiertas:
 2. Si es la base, ¿se le aplica el estilo de `docs/diseno/base.css`?
 3. ¿Qué partes del prototipo entran en la primera versión y cuáles esperan?
 
+**Decidido el 10/11 (pregunta 1):** `ezebesserr` eligió usar el prototipo como base de la app. Las preguntas 2 y 3 siguen abiertas.
+
 ## Qué está hecho
 
 - **Explorar:** 297 lugares en 9 categorías (se sumaron Deportes y Entretenimiento), buscador que entiende sinónimos, filtros por tipo, barrio, precio y "abre hoy", y orden por recomendación, cercanía o precio.
@@ -36,6 +38,7 @@ Preguntas abiertas:
 - **Armado automático:** con días, intereses, presupuesto y ritmo arma el recorrido por zonas.
 - **Inicio:** sugerencias según la hora, el día y el clima; colecciones; itinerarios; eventos del mes; conversor de moneda.
 - **Info:** moverse, seguridad, ayuda, info práctica con checklist, y calendario.
+- **Cómo pagar el transporte:** el primer bloque de Moverse está revisado contra el sitio oficial de SUBE (9/11, tarjeta #38, Claude de `ezebesserr`). Falta confirmar el pago con tarjeta o celular en subte y trenes; el detalle está en `docs/fuentes-de-informacion.md`.
 - **Sin internet:** la lista y los textos funcionan; el mapa y las fotos necesitan conexión.
 
 ## Qué se probó
