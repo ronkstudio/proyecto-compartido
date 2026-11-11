@@ -14,27 +14,27 @@
   <link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
-  <a class="skip" href="#view">Ir al contenido</a>
+  <a class="skip" href="#view" data-i18n="saltar">Ir al contenido</a>
   <header class="topbar">
     <a class="brand" href="#/" aria-label="Inicio">
       <span class="brand-mark" aria-hidden="true">☀</span>
       <span class="brand-text">Guía <b id="brand-city">Buenos Aires</b></span>
     </a>
     <nav class="nav" aria-label="Secciones">
-      <a href="#/" data-nav="inicio"><span class="nav-ico" aria-hidden="true">🏠</span><span>Inicio</span></a>
-      <a href="#/explorar" data-nav="explorar"><span class="nav-ico" aria-hidden="true">🔎</span><span>Explorar</span></a>
-      <a href="#/mapa" data-nav="mapa"><span class="nav-ico" aria-hidden="true">🗺️</span><span>Mapa</span></a>
-      <a href="#/viaje" data-nav="viaje"><span class="nav-ico" aria-hidden="true">🧳</span><span>Mi viaje</span><i class="badge" id="fav-count" hidden></i></a>
-      <a href="#/info" data-nav="info"><span class="nav-ico" aria-hidden="true">🛟</span><span>Info</span></a>
+      <a href="#/" data-nav="inicio"><span class="nav-ico" aria-hidden="true">🏠</span><span data-i18n="nav.inicio">Inicio</span></a>
+      <a href="#/explorar" data-nav="explorar"><span class="nav-ico" aria-hidden="true">🔎</span><span data-i18n="nav.explorar">Explorar</span></a>
+      <a href="#/mapa" data-nav="mapa"><span class="nav-ico" aria-hidden="true">🗺️</span><span data-i18n="nav.mapa">Mapa</span></a>
+      <a href="#/viaje" data-nav="viaje"><span class="nav-ico" aria-hidden="true">🧳</span><span data-i18n="nav.viaje">Mi viaje</span><i class="badge" id="fav-count" hidden></i></a>
+      <a href="#/info" data-nav="info"><span class="nav-ico" aria-hidden="true">🛟</span><span data-i18n="nav.info">Info</span></a>
     </nav>
-    <a class="account" id="account-btn" href="#/cuenta" aria-label="Mi cuenta">👤</a>
+    <a class="account" id="account-btn" href="#/cuenta" aria-label="Mi cuenta" data-i18n-aria="cuenta">👤</a>
   </header>
 
   <main id="view" tabindex="-1"></main>
 
   <footer class="foot">
-    <p>Información orientativa: precios, horarios y días de apertura cambian. Verificá antes de ir.</p>
-    <p>Fotos: Wikimedia Commons · Mapas y subte: © OpenStreetMap · Clima: Open-Meteo · Cotización: open.er-api.com</p>
+    <p data-i18n="pie.aviso">Información orientativa: precios, horarios y días de apertura cambian. Verificá antes de ir.</p>
+    <p data-i18n="pie.creditos">Fotos: Wikimedia Commons · Mapas y subte: © OpenStreetMap · Clima: Open-Meteo · Cotización: open.er-api.com</p>
   </footer>
 
   <div class="sheet-wrap" id="sheet-wrap" hidden>
@@ -49,6 +49,15 @@
   <script src="data/caba-extra.js"></script>
   <script src="data/caba-zones.js"></script>
   <script src="config.js"></script>
+  <script src="i18n/es.js"></script>
+  <script src="i18n/en.js"></script>
+  <script src="i18n/pt.js"></script>
+  <script src="i18n/fr.js"></script>
+  <script src="i18n/it.js"></script>
+  <script src="i18n/de.js"></script>
+  <script src="i18n/zh.js"></script>
+  <script src="i18n/ja.js"></script>
+  <script src="i18n/i18n.js"></script>
   <script src="js/app.js"></script>
 </body>
 </html>

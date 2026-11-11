@@ -36,6 +36,7 @@ Las decisiones del proyecto y las que faltan están en el `README.md` de la carp
 - **Inicio:** sugerencias según la hora, el día y el clima; "Hoy en tu viaje"; colecciones; itinerarios; eventos del mes; conversor de moneda.
 - **Info:** moverse, seguridad, ayuda, info práctica (con checklist y calculadora de propina) y calendario.
 - **Cómo pagar el transporte:** el primer bloque de Moverse está revisado contra el sitio oficial de SUBE (9/11, tarjeta #38, Claude de `ezebesserr`). Falta confirmar el pago con tarjeta o celular en subte y trenes; el detalle está en `docs/fuentes-de-informacion.md`.
+- **Idiomas (primer paso, tarjeta #39):** selector 🌐 en la barra de arriba con 8 idiomas (español, inglés, portugués, francés, italiano, alemán, chino, japonés). Por ahora solo están traducidos el menú de abajo, el pie y el título; todo lo demás sigue en español. Cómo sumar textos o idiomas: comentario al principio de `i18n/i18n.js`. Las traducciones las hizo Claude y no las revisó nadie que hable cada idioma.
 - **Sin internet:** la lista y los textos funcionan; el mapa y las fotos necesitan conexión.
 
 ## Qué se probó
