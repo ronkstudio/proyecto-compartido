@@ -55,11 +55,20 @@ Todo en el navegador de la compu, en tamaño celular (375 de ancho) y en pantall
 
 Estas pruebas las hizo el Claude de `ronkstudio` antes de que se sacara el mapa de colores. Lo que probó el Claude de `ezebesserr` después está en los pedidos #40 y #44.
 
+**Prueba de todos los botones (11/11, tarjeta #52, Claude de `ronkstudio`)**, en 375 de ancho y en 1366, con la consola abierta: Inicio, Explorar (cada filtro, orden, barrio, buscador, borrar filtros), Mapa (capas de zonas, puntos de ayuda, ocultar lugares, carteles y "Ver ficha", Mi ubicación con una ubicación simulada), Mi viaje (cambiar día, sumar día, fecha de llegada, ordenar, ver en el mapa, ruta, imprimir, compartir, quitar, vaciar), armado automático, Info (las cinco pestañas, conversor, propina, lista), Mi cuenta, Pasaporte, Barrios, los 5 itinerarios, la ficha de un café, un hotel, una excursión y un tour (cerrar con la cruz, el fondo, Esc y "atrás"), y el selector de idiomas (abrir, cerrar, pasar a inglés y volver). **No apareció ningún error en la consola** y nada se sale de la pantalla. Se arregló:
+
+- El conversor y la calculadora tomaban "10.50" como 1050. Ahora entienden el punto decimal de los turistas y también "1.500,50".
+- La calculadora de propina dejaba el resultado viejo al borrar el total.
+- "Compartir" en la compu no avisaba nada si no se podía copiar. Ahora lo dice.
+- "Cómo llegar" (Info → Moverse) con el casillero vacío no hacía nada. Ahora pide que escribas el destino.
+- Los lugares sin foto muestran un ícono según el tipo (🍕 pizzería, ☕ café, 🍦 heladería, 🎭 teatro…) en vez del de la categoría (todas las pizzerías tenían el ícono de carne).
+- El guardado para usar sin internet pasa a `guia-v7` para que los celulares tomen los arreglos.
+
 ## Qué NO se probó
 
 - **Las cuentas de usuario.** Nada: sin un proyecto de Supabase no hay cómo. Es lo primero que hay que probar al encenderlas.
-- "Cerca mío" y "Mi ubicación" (necesitan permiso de ubicación en un celular real).
-- Compartir, imprimir y el enlace de Uber.
+- "Cerca mío" y "Mi ubicación" con el permiso real de un celular (en la compu se probaron con una ubicación simulada).
+- Compartir con el menú del celular, la ventana de impresión de verdad, y que los enlaces de Uber, Google Maps, Booking, WhatsApp y teléfonos abran bien (se revisó que estén bien armados, no se abrieron).
 - Cortar internet de verdad y usar la app, y la instalación en el celular.
 - Nada en un iPhone ni en un Android de verdad.
 
