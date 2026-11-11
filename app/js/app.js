@@ -108,6 +108,81 @@
     queueSync();
   };
 
+  /* ── Pasaporte porteño (tarjeta #37): lugares visitados y sellos. Las reglas de cada sello están en caba-extra.js. ── */
+  prefs.visited = prefs.visited || {};
+  const visitedPlaces = () => places.filter(p => prefs.visited[p.id]);
+  const stampCount = s => {
+    const v = visitedPlaces();
+    if (s.barrios) return new Set(v.filter(p => p.inCity && p.barrio !== "Varios").map(p => p.barrio)).size;
+    return v.filter(p => (!s.cat || p.cat === s.cat) && (!s.sub || p.sub === s.sub) && (!s.q || p.q >= s.q) && (!s.tag || (p.tags || []).some(t => s.tag.indexOf(t) > -1))).length;
+  };
+  const earnedStamps = () => (X.stamps || []).filter(s => stampCount(s) >= s.n);
+  const visitLabel = id => prefs.visited[id] ? "✓ Ya fui" : "☐ Marcar que fui";
+  const toggleVisit = id => {
+    const before = earnedStamps().map(s => s.id);
+    if (prefs.visited[id]) delete prefs.visited[id]; else prefs.visited[id] = Date.now();
+    savePrefs();
+    const fresh = earnedStamps().filter(s => before.indexOf(s.id) === -1);
+    toast(fresh.length ? "🎉 Nuevo sello: " + fresh[0].icon + " " + fresh[0].name : prefs.visited[id] ? "Sumado a tu pasaporte" : "Quitado de tu pasaporte");
+    $$('[data-visit="' + id + '"]').forEach(b => { b.setAttribute("aria-pressed", String(!!prefs.visited[id])); b.textContent = visitLabel(id); });
+    if (route().name === "pasaporte" || route().name === "viaje") rerender();
+  };
+  const viewPassport = () => {
+    const v = visitedPlaces(), stamps = X.stamps || [], got = earnedStamps();
+    const barrios = new Set(v.filter(p => p.inCity && p.barrio !== "Varios").map(p => p.barrio)).size;
+    return '<p><a class="link" href="#/viaje">← Mi viaje</a></p><h1 class="page-title">🛂 Pasaporte porteño</h1>' +
+      '<p class="page-sub">Marcá "Ya fui" en cada lugar que conozcas y ganá sellos. Queda guardado en este dispositivo.</p>' +
+      '<div class="pass-top"><div><b>' + v.length + "</b><span>" + (v.length === 1 ? "lugar visitado" : "lugares visitados") + "</span></div><div><b>" + barrios + "</b><span>" + (barrios === 1 ? "barrio" : "barrios") + "</span></div><div><b>" + got.length + "/" + stamps.length + "</b><span>sellos</span></div></div>" +
+      '<div class="stamps">' + stamps.map(s => {
+        const c = Math.min(stampCount(s), s.n), done = c >= s.n;
+        return '<div class="stamp' + (done ? " done" : "") + '"><em aria-hidden="true">' + s.icon + "</em><b>" + esc(s.name) + "</b><span>" + esc(s.desc) + '</span><i>' + (done ? "¡Conseguido!" : c + " de " + s.n) + "</i></div>";
+      }).join("") + "</div>" +
+      (v.length ? '<section class="section">' + head("Dónde estuviste") + listHtml(v.sort((a, b) => prefs.visited[b.id] - prefs.visited[a.id])) + "</section>"
+        : '<div class="empty" style="margin-top:20px"><em>🛂</em><b>Tu pasaporte está en blanco</b><p>Abrí cualquier lugar y tocá "Marcar que fui" cuando lo visites.</p><p class="plan-actions"><button class="btn primary" data-go="' + attr({}) + '">Explorar lugares</button></p></div>');
+  };
+
+  /* ── Pronóstico por día del viaje (tarjeta #37). Open-Meteo da hasta 16 días. ── */
+  let fc = store.get("guia.fc." + CITY_ID, null);
+  const loadForecast = () => {
+    if (fc && Date.now() - fc.t < 3 * 3600e3) return;
+    const c = city.center || [-34.6037, -58.3816];
+    fetch("https://api.open-meteo.com/v1/forecast?latitude=" + c[0] + "&longitude=" + c[1] + "&daily=weather_code,temperature_2m_max,temperature_2m_min,precipitation_probability_max&forecast_days=16&timezone=" + encodeURIComponent(X.tz || "America/Argentina/Buenos_Aires"))
+      .then(r => r.json()).then(j => {
+        const days = {};
+        j.daily.time.forEach((d, i) => { days[d] = [j.daily.weather_code[i], Math.round(j.daily.temperature_2m_max[i]), Math.round(j.daily.temperature_2m_min[i]), j.daily.precipitation_probability_max[i] || 0]; });
+        fc = { t: Date.now(), days };
+        store.set("guia.fc." + CITY_ID, fc);
+        if (route().name === "viaje" && sheetId === null) rerender();
+      }).catch(() => { /* sin conexión: se usa la última copia */ });
+  };
+  const isoDay = dt => dt.getFullYear() + "-" + String(dt.getMonth() + 1).padStart(2, "0") + "-" + String(dt.getDate()).padStart(2, "0");
+  const forecastFor = dt => (fc && dt && fc.days[isoDay(dt)]) || null;
+  const outdoors = p => /Naturaleza|Paseo|Barrio|Feria|Correr y pedalear|Plaza de barrio/.test(p.sub);
+  /* Qué día del viaje es hoy: número de día, o cuántos días faltan (negativo), o null si no hay fecha. */
+  const tripToday = () => {
+    if (!prefs.start) return null;
+    const start = new Date(prefs.start + "T12:00:00"), now = cityNow();
+    if (isNaN(start)) return null;
+    const today = new Date(now.getFullYear(), now.getMonth(), now.getDate(), 12);
+    return Math.round((today - start) / 864e5) + 1;
+  };
+
+  /* ── Calculadora de propina y cuenta dividida (tarjeta #37) ── */
+  let tipPct = 10;
+  const tipHtml = () => '<div class="conv" id="tip"><div class="conv-row"><label><span>Cuenta</span><input id="tp-total" inputmode="decimal" placeholder="Total en pesos" aria-label="Total de la cuenta en pesos"></label>' +
+    '<label style="flex:0 0 36%"><span>Somos</span><input id="tp-n" inputmode="numeric" value="2" aria-label="Cantidad de personas"></label></div>' +
+    '<div class="chips wrap" style="margin-top:10px">' + [0, 10, 15].map(n => '<button class="chip sm' + (tipPct === n ? " on" : "") + '" data-tip="' + n + '">' + (n ? "Propina " + n + " %" : "Sin propina") + "</button>").join("") + "</div>" +
+    '<p class="conv-note" id="tp-out">Escribí el total y te decimos cuánto pone cada uno. En la Argentina se suele dejar un 10 %, en efectivo.</p></div>';
+  const paintTip = () => {
+    const out = $("#tp-out");
+    if (!out) return;
+    const total = parseNum($("#tp-total").value), n = Math.max(1, Math.round(parseNum($("#tp-n").value)) || 1);
+    if (!total) return;
+    const tip = total * tipPct / 100, each = (total + tip) / n, r = rate();
+    const cur = CURS.find(c => c[0] === prefs.cur);
+    out.innerHTML = "Propina: <b>$ " + money(tip, 0) + "</b> · Total: <b>$ " + money(total + tip, 0) + "</b><br>Cada uno pone <b>$ " + money(each, 0) + "</b>" + (r ? " (unos " + cur[1] + " " + money(each / r, 2) + ")" : "");
+  };
+
   /* ── Perfil de viaje (tarjeta #35): la guía se acomoda a cómo viaja cada persona. Funciona sin cuenta. ── */
   const profile = prefs.profile;
   const fitsMe = p => p.cat !== "comer" || profile.diets.every(d => p.diet.indexOf(d) > -1);
@@ -314,7 +389,7 @@
       (s && s.ok && X.only && X.only[p.id] ? '<span class="bdg yes">Hoy funciona</span>' : "");
   };
   const card = p => {
-    const c = cats[p.cat], d = distTxt(p), b = badges(p) + (mine(p) ? '<span class="bdg yes">✓ Apto para vos</span>' : "");
+    const c = cats[p.cat], d = distTxt(p), b = badges(p) + (mine(p) ? '<span class="bdg yes">✓ Apto para vos</span>' : "") + (prefs.visited[p.id] ? '<span class="bdg q2">✓ Ya fuiste</span>' : "");
     return '<article class="card" style="--c:' + c.color + '" data-open="' + p.id + '" tabindex="0" role="button" aria-label="Ver ' + esc(p.name) + '">' +
       media(p, 250, "thumb") +
       '<div class="card-body"><div class="card-top"><h3>' + esc(p.name) + "</h3>" +
@@ -378,6 +453,14 @@
           '<button data-go="' + attr({ q: "tango" }) + '">Tango</button>' +
         "</div></section>" +
 
+      (() => {   // hoy en tu viaje: lo agendado para hoy, o cuántos días faltan (tarjeta #37)
+        const td = tripToday();
+        if (td === null) return "";
+        if (td < 1) return '<div class="today"><b>Faltan ' + (1 - td) + (1 - td === 1 ? " día" : " días") + ' para tu viaje.</b> <a class="link" href="#/info/practica">Repasá la lista para no olvidarte de nada</a></div>';
+        const mineToday = plan.filter(x => x.day === td).map(x => byId[x.id]);
+        if (!mineToday.length) return "";
+        return '<section class="section" style="margin-top:18px">' + head("Hoy en tu viaje · Día " + td, '<a class="link" href="#/viaje">Ver todo</a>') + '<div class="rail">' + mineToday.map(tile).join("") + "</div></section>";
+      })() +
       (special.length ? '<div class="today"><b>Hoy es ' + DOW[dow] + ":</b> " + special.map(p => '<button class="link" data-open="' + p.id + '">' + esc(p.name) + "</button>").join(" · ") + "</div>" : "") +
 
       (now.items.length ? '<section class="section">' + head(now.title, '<button class="link" data-near>📍 Más cerca</button>') + (now.sub ? '<p class="hint">' + now.sub + "</p>" : "") + '<div class="rail">' + now.items.map(tile).join("") + "</div></section>" : "") +
@@ -388,7 +471,8 @@
         linkCard("#/barrios", "#5b6b7c", "🏘️", "Barrios", "Qué tiene cada zona") +
       "</div></section>" +
 
-      '<section class="section"><a class="cta" href="#/armar"><span><b>✨ Armá tu viaje en 10 segundos</b><span>Decinos cuántos días venís y qué te gusta: te dejamos el recorrido listo, día por día.</span></span><i aria-hidden="true">→</i></a></section>' +
+      '<section class="section"><a class="cta" href="#/armar"><span><b>✨ Armá tu viaje en 10 segundos</b><span>Decinos cuántos días venís y qué te gusta: te dejamos el recorrido listo, día por día.</span></span><i aria-hidden="true">→</i></a>' +
+      '<a class="cta pass" href="#/pasaporte"><span><b>🛂 Pasaporte porteño</b><span>' + (earnedStamps().length ? "Tenés " + earnedStamps().length + " de " + (X.stamps || []).length + " sellos. ¡Seguí sumando!" : "Marcá los lugares que conocés y ganá sellos: parrillero, tanguero, explorador de barrios…") + '</span></span><i aria-hidden="true">→</i></a></section>' +
 
       '<section class="section">' + head("No te lo podés perder", '<button class="link" data-go="' + attr({ cat: "ver" }) + '">Ver todo</button>') + '<div class="rail">' + tops.map(tile).join("") + "</div></section>" +
 
@@ -519,6 +603,7 @@
       body = helpHtml();
     } else if (tab === "practica") {
       body = '<section class="section" style="margin-top:0">' + head("¿Cuánto es en mi moneda?") + convHtml() + "</section>" +
+        '<section class="section">' + head("Propina y cuenta dividida") + tipHtml() + "</section>" +
         '<section class="section">' + head("Lista para no olvidarte de nada") + checklistHtml() + "</section>" +
         '<div class="blocks" style="margin-top:24px">' + city.practical.concat(X.practicalMore || []).map((b, i) => blockHtml(b, i === 0)).join("") + "</div>";
     } else if (tab === "calendario") {
@@ -556,7 +641,7 @@
   const planRow = (p, i, days, dow) => {
     const item = planOf(p.id), s = dow == null ? null : dayStatus(p, dow);
     return '<div class="row" data-open="' + p.id + '" tabindex="0" role="button" aria-label="Ver ' + esc(p.name) + '">' +
-      '<span class="num" style="--c:' + cats[p.cat].color + '">' + (i + 1) + "</span>" +
+      '<span class="num' + (prefs.visited[p.id] ? " done" : "") + '" style="--c:' + cats[p.cat].color + '"' + (prefs.visited[p.id] ? ' title="Ya fuiste"' : "") + ">" + (prefs.visited[p.id] ? "✓" : i + 1) + "</span>" +
       '<span class="row-body"><b>' + esc(p.name) + "</b><span>" + [cats[p.cat].icon + " " + esc(p.sub), esc(p.barrio), priceHtml(p)].filter(Boolean).join(" · ") + (s && !s.ok ? ' · <span class="no-t">' + esc(s.text) + "</span>" : "") + "</span></span>" +
       '<select data-day="' + p.id + '" aria-label="Día para ' + esc(p.name) + '"><option value="0"' + (item.day === 0 ? " selected" : "") + ">Sin día</option>" +
       Array.from({ length: days }, (_, d) => '<option value="' + (d + 1) + '"' + (item.day === d + 1 ? " selected" : "") + ">Día " + (d + 1) + "</option>").join("") + "</select>" +
@@ -569,7 +654,7 @@
         '<p class="plan-actions"><a class="btn primary" href="#/armar">✨ Armar mi viaje automático</a><button class="btn" data-go="' + attr({}) + '">Explorar lugares</button></p></div>';
     }
     const days = nDays();
-    html += '<p class="plan-actions"><a class="btn" href="#/armar">✨ Armar automático</a><button class="btn" data-shareplan>Compartir</button><button class="btn" data-print>Imprimir / PDF</button><button class="btn" data-addday>＋ Día</button><button class="btn danger" data-clearplan>Vaciar</button></p>' +
+    html += '<p class="plan-actions"><a class="btn" href="#/armar">✨ Armar automático</a><a class="btn" href="#/pasaporte">🛂 Pasaporte</a><button class="btn" data-shareplan>Compartir</button><button class="btn" data-print>Imprimir / PDF</button><button class="btn" data-addday>＋ Día</button><button class="btn danger" data-clearplan>Vaciar</button></p>' +
       '<label class="trip-date"><span>¿Qué día llegás?</span><input type="date" id="trip-start" value="' + esc(prefs.start) + '"></label>' +
       '<p class="hint" style="margin-top:6px">' + (prefs.start ? "Te avisamos en rojo si un lugar suele cerrar el día que lo agendaste." : "Con la fecha te avisamos si algún lugar cierra el día que lo agendaste.") + "</p>";
     for (let d = 1; d <= days; d++) {
@@ -581,6 +666,13 @@
           (items.length > 2 ? '<button class="link" data-optimize="' + d + '">Ordenar recorrido</button>' : "") +
           (hasMap ? '<button class="link" data-planmap="' + d + '">Ver en mapa</button>' : "") +
           '<a class="link" href="' + routeUrl(items) + '" target="_blank" rel="noopener">Ruta en Google Maps ↗</a></span>' : "") + "</div>" +
+        (() => {   // pronóstico de ese día, si la fecha entra en los próximos 16 días
+          const w = forecastFor(dt);
+          if (!w) return "";
+          const rainy = w[3] >= 60 && items.filter(outdoors).length >= 2;
+          return '<p class="day-fc">' + WX(w[0])[0] + " " + WX(w[0])[1] + " · máx " + w[1] + "° / mín " + w[2] + "°" + (w[3] >= 30 ? " · lluvia " + w[3] + " %" : "") + "</p>" +
+            (rainy ? '<p class="status no" style="margin-bottom:8px">Ese día puede llover y tenés varios planes al aire libre. <button class="link" data-go="' + attr({ q: "lluvia" }) + '">Ver planes bajo techo</button></p>' : "");
+        })() +
         (items.length ? items.map((p, i) => planRow(p, i, days, dow)).join("") : '<p class="hint">Sin lugares todavía. Asignales este día desde la lista de abajo.</p>') + "</section>";
     }
     const loose = plan.filter(x => x.day === 0).map(x => byId[x.id]);
@@ -842,6 +934,7 @@
         '<div class="actions">' +
           '<a class="btn primary" href="' + (fixed ? dirUrl : mapsUrl) + '" target="_blank" rel="noopener">📍 ' + (fixed ? "Cómo llegar" : "Buscar en Maps") + "</a>" +
           '<button class="btn" data-fav="' + p.id + '" aria-pressed="' + !!planOf(p.id) + '">' + favLabel(p.id) + "</button>" +
+          '<button class="btn visit" data-visit="' + p.id + '" aria-pressed="' + !!prefs.visited[p.id] + '">' + visitLabel(p.id) + "</button>" +
           '<a class="btn" href="' + mapsUrl + '" target="_blank" rel="noopener">⭐ Opiniones y horarios</a>' +
           (p.ll && hasMap ? '<button class="btn" data-showmap="' + p.id + '">🗺️ Ver en el mapa</button>' : "") +
           (p.ll && p.inCity ? '<a class="btn" href="https://m.uber.com/ul/?action=setPickup&pickup=my_location&dropoff%5Blatitude%5D=' + p.ll[0] + "&dropoff%5Blongitude%5D=" + p.ll[1] + "&dropoff%5Bnickname%5D=" + encodeURIComponent(p.name) + '" target="_blank" rel="noopener">🚕 Ir en Uber</a>' : "") +
@@ -888,7 +981,7 @@
   const scrolls = {};
   const parse = h => { const p = (h || "").replace(/^#\/?/, "").split("/").map(decodeURIComponent); return { name: p[0] || "inicio", arg: p[1] }; };
   const route = () => parse(rendered);
-  const NAV = { barrios: "explorar", itinerario: "inicio", armar: "viaje", guardados: "viaje", moverse: "info", consejos: "info" };
+  const NAV = { barrios: "explorar", itinerario: "inicio", armar: "viaje", guardados: "viaje", pasaporte: "viaje", moverse: "info", consejos: "info" };
   const renderView = h => {
     const r = parse(h);
     destroyMap();
@@ -896,7 +989,7 @@
       : r.name === "info" ? viewInfo(r.arg) : r.name === "moverse" ? viewInfo("moverse")
       : r.name === "consejos" ? viewInfo(r.arg === "practica" || r.arg === "calendario" ? r.arg : "seguridad")
       : r.name === "viaje" || r.name === "guardados" ? viewTrip() : r.name === "itinerario" ? viewItinerary(r.arg)
-      : r.name === "armar" ? viewWizard() : r.name === "cuenta" ? viewAccount() : viewHome();
+      : r.name === "armar" ? viewWizard() : r.name === "cuenta" ? viewAccount() : r.name === "pasaporte" ? viewPassport() : viewHome();
     paintResults();
     paintConv();
     const key = NAV[r.name] || r.name;
@@ -1010,6 +1103,8 @@
       return;
     }
     if (t.closest("[data-print]")) { window.print(); return; }
+    if ((el = t.closest("[data-visit]"))) { toggleVisit(el.getAttribute("data-visit")); return; }
+    if ((el = t.closest("[data-tip]"))) { tipPct = +el.getAttribute("data-tip"); $$("[data-tip]").forEach(b => b.classList.toggle("on", +b.getAttribute("data-tip") === tipPct)); paintTip(); return; }
     if ((el = t.closest("[data-pdiet]"))) { const d = el.getAttribute("data-pdiet"), i = profile.diets.indexOf(d); if (i > -1) profile.diets.splice(i, 1); else profile.diets.push(d); savePrefs(); rerender(); return; }
     if ((el = t.closest("[data-pbudget]"))) { profile.budget = +el.getAttribute("data-pbudget"); wiz.budget = profile.budget || 2; savePrefs(); rerender(); return; }
     if ((el = t.closest("[data-pkids]"))) {
@@ -1059,6 +1154,7 @@
     if (e.target.id === "q") { f.q = e.target.value; f.planDay = null; paintResults(); }
     if (e.target.id === "cv-a") paintConv("a");
     if (e.target.id === "cv-b") paintConv("b");
+    if (e.target.id === "tp-total" || e.target.id === "tp-n") paintTip();
   });
   document.addEventListener("change", e => {
     const t = e.target;
@@ -1090,6 +1186,7 @@
   sync();
   loadWeather();
   loadFx();
+  loadForecast();
   startAccounts();
   if ("serviceWorker" in navigator && /^https?:$/.test(location.protocol)) navigator.serviceWorker.register("sw.js").catch(() => {});
 })();

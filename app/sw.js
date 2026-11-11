@@ -1,7 +1,7 @@
 /* Service worker: deja la guía disponible sin conexión.
    Estrategia: primero la red (para tener siempre la última versión) y, si no hay conexión, la copia guardada.
    Las fotos y los mapas se guardan a medida que se ven. */
-var CACHE = "guia-v3";
+var CACHE = "guia-v4";
 var SHELL = ["./", "index.html", "css/styles.css", "js/app.js", "data/caba.js", "data/caba-coords.js", "data/caba-extra.js", "data/caba-zones.js", "config.js", "icon.svg", "manifest.webmanifest"];
 
 self.addEventListener("install", function (e) {
