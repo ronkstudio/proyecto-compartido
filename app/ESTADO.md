@@ -2,7 +2,7 @@
 
 Para los dos Claude: acá está escrito qué se hizo, qué se probó y qué falta. **Actualizalo cada vez que cambies algo de `app/`.**
 
-Última actualización: 11 de noviembre de 2026, Claude de `ronkstudio`.
+Última actualización: 11 de noviembre de 2026, Claude de `ronkstudio` (tarjeta #54).
 
 Todo lo que se describe acá está en `main`.
 
@@ -26,8 +26,9 @@ Las decisiones del proyecto y las que faltan están en el `README.md` de la carp
 
 ## Qué está hecho
 
-- **Explorar:** 297 lugares en 9 categorías (qué ver, comer, noche, tours, excursiones, hospedaje, compras, deportes, entretenimiento), buscador que entiende sinónimos, filtros por tipo, barrio, precio y "abre hoy", y orden por recomendación, cercanía o precio.
+- **Explorar:** 459 lugares en 9 categorías (qué ver, comer, noche, tours, excursiones, hospedaje, compras, deportes, entretenimiento), buscador que entiende sinónimos, filtros por tipo, barrio, precio y "abre hoy", y orden por recomendación, cercanía o precio.
 - **Comer con una condición:** filtros por vegetariano, vegano, sin TACC y kosher. La ficha avisa siempre que hay que confirmar en el local. Los lugares "100 %" están en `dietFull` de `data/caba-extra.js`.
+- **Tanda nueva de lugares (tarjeta #54):** 162 lugares en `data/caba-mas.js`: 26 iglesias y templos, 19 museos y paseos, 40 lugares para comer, 19 de noche, 17 hoteles, 11 de entretenimiento, 3 estadios y 27 excursiones (Tigre y el Delta abiertos en 12, paracaidismo, globo, cabalgatas, estancias y pueblos de campo). Las ubicaciones salen de buscar cada dirección en OpenStreetMap; 16 están puestas a mano ("aprox."). Unos 70 figuran en OpenStreetMap con ese mismo nombre; del resto solo se confirmó que la dirección existe. Falta confirmar uno por uno que sigan abiertos.
 - **Barrios:** 46 de los 48 tienen al menos un lugar. Faltan Vélez Sarsfield y Villa Lugano: no encontramos nada que valga la pena sin inventar.
 - **Shoppings:** Abasto, DOT, Unicenter, Alto Palermo, Alcorta, Distrito Arcos y seis más.
 - **Ficha de lugar:** foto, consejo, precio, subte más cercano, cómo llegar, opiniones en Google Maps, Uber, disponibilidad en Booking para hoteles, qué hay cerca, y "Marcar que fui".
@@ -77,8 +78,8 @@ Estas pruebas las hizo el Claude de `ronkstudio` antes de que se sacara el mapa 
 - **Datos sin verificar.** Direcciones, días de cierre y si los lugares siguen abiertos salen de lo que sabe Claude. Muchos aparecen en OpenStreetMap en esa dirección, pero no se confirmó uno por uno. Hay que revisarlos antes de publicar.
 - **Sin TACC y kosher son temas de salud y de fe.** Solo hay 3 lugares sin TACC y 2 kosher, los que una búsqueda describió como dedicados. Hay que confirmarlos. No hay opciones halal ni sin lactosa.
 - **Las plazas de barrio** (etiqueta "vida de barrio") tienen descripciones genéricas. Se sumaron para que cada barrio tenga algo, con nombre y ubicación reales, pero sin conocer cada una.
-- **No está todo lo que se puede hacer en la ciudad.** Son 297 lugares elegidos. La tarjeta #45 propone un mínimo de locales por tipo en cada zona turística.
-- **Solo en español.**
+- **No está todo lo que se puede hacer en la ciudad.** Son 459 lugares. Bautista pidió (11/11) llegar a 5 por categoría en cada barrio, sin inventar: hoy solo Centro, Palermo, Recoleta y San Telmo se acercan. En los barrios residenciales no hay 5 hoteles ni 5 excursiones reales, así que esa meta ahí no se va a cumplir. La tarjeta #45 propone un mínimo de locales por tipo en cada zona turística.
+- **Casi todo en español.** Solo el menú y el pie están en 8 idiomas (tarjeta #39).
 - **Sin horarios reales ni puntajes de reseñas.** Harían falta servicios pagos.
 - **Pocas fotos** de restaurantes, bares, shoppings y hoteles.
 - **No está publicado** en internet: se abre solo en la compu.
