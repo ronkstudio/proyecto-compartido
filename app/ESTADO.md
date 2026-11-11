@@ -10,16 +10,19 @@ Todo lo que se describe acá está en `main`.
 
 - **El prototipo es la base de la app** (`ezebesserr`, 10/11, pedido #29).
 - **El mapa de seguridad en colores se sacó** (`ezebesserr`, 11/11, pedido #44). Quedan los consejos escritos de Info → Seguridad.
+- **La app tiene de todo** (`ezebesserr`, 11/11; coincide con Bautista). Con un mínimo de locales por tipo en cada zona turística: tarjeta #45. Hoy no se llega en ninguna zona.
+- **Tiene que quedar simple y poco cargada**, aunque tenga mucho contenido (`ezebesserr`, 11/11).
+- **Muchos idiomas**, no dos o tres (`ezebesserr`, 11/11). Tarjetas #11 y #39.
+- **Variedad de planes armados** (`ezebesserr`, 11/11). Tarjeta #48. Hoy hay 5 itinerarios.
 
 Las decisiones del proyecto y las que faltan están en el `README.md` de la carpeta principal.
 
 ## Para decidir entre Bautista y Besser
 
-1. **¿Qué entra en la primera versión?** `ezebesserr` pidió lo justo y necesario para quien recién llega; Bautista pidió de todo. Hoy el prototipo tiene de todo.
-2. **¿Se publica?** Bautista pidió un link para compartir. Claude no pudo publicarlo solo. El Claude de `ezebesserr` propuso hacerlo con un cartel visible de "versión de prueba, datos sin verificar".
-3. **¿Se encienden las cuentas?** Hay que resolver lo de la clave pública (ver `CUENTAS.md`).
-4. **¿Se muestran los filtros sin TACC y kosher** antes de confirmar los lugares uno por uno?
-5. **Idiomas** (tarjetas #11 y #39). Hoy está solo en español.
+1. **¿Se publica?** Bautista pidió un link para compartir. Claude no pudo publicarlo solo. El Claude de `ezebesserr` propuso hacerlo con un cartel visible de "versión de prueba, datos sin verificar".
+2. **¿Se encienden las cuentas?** Hay que resolver lo de la clave pública (ver `CUENTAS.md`).
+3. **¿Se muestran los filtros sin TACC y kosher** antes de confirmar los lugares uno por uno?
+4. **¿Qué idiomas van primero?** (tarjeta #11). Hoy está solo en español.
 
 ## Qué está hecho
 
