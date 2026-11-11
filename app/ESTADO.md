@@ -13,7 +13,7 @@ El prototipo se subió en cuatro pedidos de cambios, **apoyados uno sobre otro**
 | 1 | #29 | #28 | El prototipo base |
 | 2 | #34 | #32 | Deportes, dietas, shoppings y lugares en casi todos los barrios |
 | 3 | #36 | #35 | Cuentas de usuario (apagadas) y perfil de viaje |
-| 4 | la rama `tarea-37-pasaporte-y-pronostico` | #37 | Pasaporte de sellos, pronóstico por día y calculadora |
+| 4 | #41 | #37 | Pasaporte de sellos, pronóstico por día y calculadora |
 
 Aparte, sin relación con los anteriores: pedido #31 (tarjeta #30), la comparación con la competencia en `docs/competencia.md`.
 
