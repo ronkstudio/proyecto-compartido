@@ -177,7 +177,7 @@
     const out = $("#tp-out");
     if (!out) return;
     const total = parseNum($("#tp-total").value), n = Math.max(1, Math.round(parseNum($("#tp-n").value)) || 1);
-    if (!total) return;
+    if (!total) { out.textContent = "Escribí el total y te decimos cuánto pone cada uno. En la Argentina se suele dejar un 10 %, en efectivo."; return; }
     const tip = total * tipPct / 100, each = (total + tip) / n, r = rate();
     const cur = CURS.find(c => c[0] === prefs.cur);
     out.innerHTML = "Propina: <b>$ " + money(tip, 0) + "</b> · Total: <b>$ " + money(total + tip, 0) + "</b><br>Cada uno pone <b>$ " + money(each, 0) + "</b>" + (r ? " (unos " + cur[1] + " " + money(each / r, 2) + ")" : "");
@@ -329,7 +329,15 @@
     '<div class="conv-eq" aria-hidden="true">⇅</div>' +
     '<div class="conv-row"><label><span>Son</span><input id="cv-b" inputmode="decimal" aria-label="Monto en pesos argentinos"></label><span class="conv-cur">ARS · Peso argentino</span></div>' +
     '<p class="conv-note" id="cv-note"></p></div>';
-  const parseNum = s => parseFloat(String(s).replace(/\./g, "").replace(",", ".")) || 0;
+  /* Acepta "1.500,50" (como en la Argentina) y también "10.50" (como escribe un turista): un solo punto
+     seguido de 1, 2 o más de 3 cifras es decimal; si no, los puntos separan miles (tarjeta #52). */
+  const parseNum = s => {
+    let v = String(s).trim().replace(/\s/g, "");
+    if (v.indexOf(",") > -1) v = v.replace(/\./g, "").replace(",", ".");
+    else if (!/^\d+\.\d{3}$/.test(v) && (v.match(/\./g) || []).length === 1) { /* "10.50": queda como está */ }
+    else v = v.replace(/\./g, "");
+    return parseFloat(v) || 0;
+  };
   const paintConv = from => {
     const a = $("#cv-a"), b = $("#cv-b"), note = $("#cv-note");
     if (!a) return;
@@ -376,9 +384,14 @@
 
   /* ── Piezas de interfaz ── */
   const priceHtml = p => p.price === 0 ? '<span class="free">Gratis</span>' : p.price ? '<span class="price" title="' + PRICE_WORD[p.price] + '">' + "$$$$".slice(0, p.price) + "</span>" : "";
+  /* Ícono según el tipo de lugar, para que una pizzería sin foto no muestre el de la parrilla (tarjeta #52). */
+  const SUB_ICON = { "Pizzería": "🍕", "Café notable": "☕", "Café de especialidad": "☕", "Heladería": "🍦", "Dulces": "🧁", "Vegetariano": "🥗", "Sin TACC": "🌾", "Kosher": "✡️",
+    "Cocinas del mundo": "🍜", "Mercado gastronómico": "🧺", "Polo gastronómico": "🧺", "Al paso": "🥪", "Bar": "🍸", "Cervecería": "🍺", "Bar de vinos": "🍷", "Teatro": "🎭",
+    "Cine": "🎬", "Museo": "🖼️", "Naturaleza": "🌳", "Shopping": "🏬", "Feria": "🧺", "Hostel": "🎒", "Fútbol": "⚽", "Polo": "🏇", "Turf": "🏇", "Tenis": "🎾", "Golf": "⛳", "Náutico": "⛵" };
+  const iconOf = p => SUB_ICON[p.sub] || cats[p.cat].icon;
   const media = (p, w, cls) => {
     const c = cats[p.cat];
-    return '<span class="media ' + cls + '" style="--c:' + c.color + '"><i aria-hidden="true">' + c.icon + "</i>" +
+    return '<span class="media ' + cls + '" style="--c:' + c.color + '"><i aria-hidden="true">' + iconOf(p) + "</i>" +
       (p.photo ? '<img src="' + esc(photo(p.photo, w)) + '" alt="" loading="lazy" decoding="async">' : "") + "</span>";
   };
   const badges = (p, full) => {
@@ -596,7 +609,7 @@
     let body;
     if (tab === "moverse") {
       const lines = '<div class="lines">' + city.subte.map(l => '<div class="line"><span class="line-dot" style="--c:' + l.color + '">' + l.line + "</span><span><b>" + esc(l.route) + "</b><span>" + esc(l.useful) + "</span></span></div>").join("") + "</div>";
-      body = '<form class="route" id="route-form"><label for="route-to">¿A dónde querés ir?</label><div class="search"><input id="route-to" name="to" placeholder="Ej.: Teatro Colón, Caminito, Aeroparque…" autocomplete="off"><button>Cómo llegar</button></div><p class="hint">Abre Google Maps con el recorrido en transporte público desde donde estás.</p></form>' +
+      body = '<form class="route" id="route-form"><label for="route-to">¿A dónde querés ir?</label><div class="search"><input id="route-to" name="to" required placeholder="Ej.: Teatro Colón, Caminito, Aeroparque…" autocomplete="off"><button>Cómo llegar</button></div><p class="hint">Abre Google Maps con el recorrido en transporte público desde donde estás.</p></form>' +
         '<div class="blocks">' + city.transport.map((b, i) => blockHtml({ icon: b.icon, title: b.title, items: b.items, extra: b.title === "Subte" ? lines : "" }, i < 2)).join("") + "</div>";
     } else if (tab === "ayuda") {
       body = helpHtml();
@@ -923,7 +936,7 @@
       '<div class="sheet-head' + (p.photo ? " has-photo" : "") + '">' +
         (p.photo ? '<img src="' + esc(photo(p.photo, 960)) + '" data-fb="' + esc(photo(p.photo, 500)) + '" alt="">' : "") +
         '<button class="x" data-close aria-label="Cerrar">✕</button>' +
-        '<div class="sheet-title"><em aria-hidden="true">' + c.icon + '</em><h2 id="sheet-title">' + esc(p.name) + "</h2><p>" + esc(c.name) + " · " + esc(p.sub) + " · " + esc(p.barrio) + "</p></div></div>" +
+        '<div class="sheet-title"><em aria-hidden="true">' + iconOf(p) + '</em><h2 id="sheet-title">' + esc(p.name) + "</h2><p>" + esc(c.name) + " · " + esc(p.sub) + " · " + esc(p.barrio) + "</p></div></div>" +
       '<div class="sheet-body">' +
         '<p class="bdgs"><span class="bdg ' + (p.q === 3 ? "q" : "q2") + '">' + (p.q === 3 ? "★ " : "") + QL[p.q] + "</span>" + p.awards.map(a => '<span class="bdg aw">🏅 ' + esc(a) + "</span>").join("") + "</p>" +
         "<p>" + esc(p.desc) + "</p>" +
@@ -1032,6 +1045,13 @@
   };
   window.addEventListener("hashchange", sync);
 
+  /* Copiar al portapapeles con aviso. Si el navegador no deja (sin permiso, o abierto como archivo), lo dice (tarjeta #52). */
+  const copyText = (text, okMsg) => {
+    const fail = () => toast("No se pudo copiar: este navegador no lo permite");
+    if (!navigator.clipboard || !navigator.clipboard.writeText) { fail(); return; }
+    navigator.clipboard.writeText(text).then(() => toast(okMsg), fail);
+  };
+
   /* ── Eventos ── */
   document.addEventListener("click", e => {
     const t = e.target;
@@ -1049,13 +1069,13 @@
       const p = byId[el.getAttribute("data-share")];
       const url = location.href.split("#")[0] + "#/lugar/" + p.id;
       if (navigator.share) navigator.share({ title: p.name, text: p.name + " — " + p.desc, url }).catch(() => {});
-      else if (navigator.clipboard) navigator.clipboard.writeText(p.name + " — " + url).then(() => toast("Enlace copiado"));
+      else copyText(p.name + " — " + url, "Enlace copiado");
       return;
     }
     if (t.closest("[data-shareplan]")) {
       const text = planText();
       if (navigator.share) navigator.share({ title: "Mi viaje a " + city.name, text }).catch(() => {});
-      else if (navigator.clipboard) navigator.clipboard.writeText(text).then(() => toast("Viaje copiado: pegalo donde quieras"));
+      else copyText(text, "Viaje copiado: pegalo donde quieras");
       return;
     }
     if (t.closest("[data-addday]")) { prefs.days = nDays() + 1; savePrefs(); rerender(); return; }
