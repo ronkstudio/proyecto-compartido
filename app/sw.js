@@ -1,11 +1,15 @@
 /* Service worker: deja la guía disponible sin conexión.
    Estrategia: primero la red (para tener siempre la última versión) y, si no hay conexión, la copia guardada.
    Las fotos y los mapas se guardan a medida que se ven. */
-var CACHE = "guia-v3";
-var SHELL = ["./", "index.html", "css/styles.css", "js/app.js", "data/caba.js", "data/caba-coords.js", "data/caba-extra.js", "data/caba-zones.js", "config.js", "icon.svg", "manifest.webmanifest"];
+var CACHE = "guia-v5";
+var SHELL = ["index.html", "css/styles.css", "js/app.js", "data/caba.js", "data/caba-coords.js", "data/caba-extra.js", "data/caba-zones.js", "config.js", "icon.svg", "manifest.webmanifest"];
 
+/* Se guarda archivo por archivo: si uno falla, los demás igual quedan guardados.
+   (Antes se pedía también la carpeta "./", que en algunos servidores daba error 404 y frenaba todo.) */
 self.addEventListener("install", function (e) {
-  e.waitUntil(caches.open(CACHE).then(function (c) { return c.addAll(SHELL); }).then(function () { return self.skipWaiting(); }));
+  e.waitUntil(caches.open(CACHE).then(function (c) {
+    return Promise.all(SHELL.map(function (f) { return c.add(f).catch(function () { /* se guardará cuando se abra */ }); }));
+  }).then(function () { return self.skipWaiting(); }));
 });
 self.addEventListener("activate", function (e) {
   e.waitUntil(caches.keys().then(function (keys) {

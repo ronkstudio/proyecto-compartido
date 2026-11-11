@@ -12,7 +12,7 @@ while ($listener.IsListening) {
   $ctx = $listener.GetContext()
   try {
     $rel = [Uri]::UnescapeDataString($ctx.Request.Url.AbsolutePath).TrimStart("/")
-    if ($rel -eq "") { $rel = "index.html" }
+    if ($rel -eq "" -or $rel.EndsWith("/")) { $rel = $rel + "index.html" }   # una carpeta abre su index.html
     $path = [IO.Path]::GetFullPath((Join-Path $root $rel))
     if ($path.StartsWith($root) -and (Test-Path $path -PathType Leaf)) {
       $bytes = [IO.File]::ReadAllBytes($path)

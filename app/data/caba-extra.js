@@ -5,6 +5,28 @@ window.CITY_EXTRA = window.CITY_EXTRA || {};
 window.CITY_EXTRA.caba = {
   tz: "America/Argentina/Buenos_Aires",
 
+  /* Pasaporte porteño (tarjeta #37): sellos que se ganan marcando "Ya fui" en los lugares.
+     n = cuántos lugares hacen falta. Se puede filtrar por cat (categoría), sub (tipo), tag (alguna de esas etiquetas)
+     o q (nivel mínimo de recomendación). "barrios: true" cuenta barrios distintos en vez de lugares. */
+  stamps: [
+    { id: "primer-paso", icon: "👣", name: "Primer paso", desc: "Visitá tu primer lugar", n: 1 },
+    { id: "imperdibles", icon: "🏛️", name: "Lo esencial", desc: "5 imperdibles destacados", n: 5, cat: "ver", q: 3 },
+    { id: "parrillero", icon: "🥩", name: "Parrillero", desc: "2 parrillas", n: 2, sub: "Parrilla" },
+    { id: "pizza", icon: "🍕", name: "Muzza y fainá", desc: "2 pizzerías", n: 2, sub: "Pizzería" },
+    { id: "cafetero", icon: "☕", name: "Habitué", desc: "3 cafés notables", n: 3, sub: "Café notable" },
+    { id: "dulce", icon: "🍦", name: "Dulce de leche", desc: "Una heladería", n: 1, sub: "Heladería" },
+    { id: "tanguero", icon: "💃", name: "Tanguero", desc: "Un lugar de tango", n: 1, tag: ["tango"] },
+    { id: "museos", icon: "🎨", name: "Ojo de museo", desc: "3 museos", n: 3, sub: "Museo" },
+    { id: "verde", icon: "🌳", name: "Aire libre", desc: "3 parques o reservas", n: 3, sub: "Naturaleza" },
+    { id: "hincha", icon: "⚽", name: "Hincha", desc: "Una cancha de fútbol", n: 1, sub: "Fútbol" },
+    { id: "noche", icon: "🍸", name: "Trasnochador", desc: "2 salidas de noche", n: 2, cat: "noche" },
+    { id: "feriante", icon: "🛍️", name: "Feriante", desc: "Una feria", n: 1, sub: "Feria" },
+    { id: "escapada", icon: "🚤", name: "Escapada", desc: "Una excursión fuera de la ciudad", n: 1, cat: "escapadas" },
+    { id: "curioso", icon: "💎", name: "Fuera del circuito", desc: "Una joya oculta o un lugar de barrio", n: 1, tag: ["joya oculta", "vida de barrio"] },
+    { id: "barrios", icon: "🏘️", name: "Explorador de barrios", desc: "Lugares en 5 barrios distintos", n: 5, barrios: true },
+    { id: "porteno", icon: "🧉", name: "Porteño honorario", desc: "20 lugares visitados", n: 20 }
+  ],
+
   /* Nivel de recomendación de la guía. Lo que no figura acá es 2 ("Muy recomendado").
      Criterio: reputación sostenida, premios y consenso de reseñas públicas. No es un puntaje en vivo. */
   quality: {

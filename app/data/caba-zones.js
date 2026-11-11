@@ -11,49 +11,6 @@ window.CITY_ZONES.caba = {
   guide: { "San Nicolás": "Centro", "Monserrat": "Centro", "Balvanera": "Centro" },
 
   layers: [
-    { id: "seguridad", name: "Seguridad", icon: "🚦",
-      title: "Nivel de precaución para turistas",
-      note: "Valoración orientativa basada en recomendaciones habituales para visitantes; no es una estadística oficial. En cualquier barrio, cuidá el celular en la calle.",
-      legend: { 1: ["#2f9e44", "Tranquilo: precauciones normales"], 2: ["#f2b705", "Atención: sobre todo de noche"], 3: ["#e03131", "Mucho cuidado: evitá caminar"] },
-      levels: {
-        1: ["Palermo", "Recoleta", "Belgrano", "Núñez", "Puerto Madero", "Colegiales", "Villa Urquiza", "Coghlan", "Saavedra", "Villa Devoto", "Villa del Parque", "Villa Pueyrredón", "Agronomía", "Parque Chas", "Villa Ortúzar", "Chacarita", "Villa Crespo", "Caballito", "Almagro", "Villa Real", "Versalles", "Monte Castro", "Villa Santa Rita", "Villa General Mitre", "Villa Luro", "Vélez Sarsfield"],
-        2: ["San Nicolás", "Monserrat", "San Telmo", "Retiro", "Balvanera", "San Cristóbal", "Boedo", "Parque Patricios", "Barracas", "Flores", "Floresta", "Liniers", "Mataderos", "Parque Chacabuco", "Parque Avellaneda", "Paternal"],
-        3: ["Constitución", "La Boca", "Nueva Pompeya", "Villa Soldati", "Villa Lugano", "Villa Riachuelo"]
-      },
-      notes: {
-        "Palermo": "De los barrios más cómodos para caminar, también de noche en las zonas de bares. Ojo con el celular en la vereda y con los parques cuando oscurece.",
-        "Recoleta": "Tranquilo y bien iluminado. Precauciones normales de gran ciudad.",
-        "Puerto Madero": "La zona más vigilada de la ciudad. Se camina tranquilo a toda hora.",
-        "Belgrano": "Residencial y tranquilo. El Barrio Chino se llena los fines de semana: cuidá tus cosas.",
-        "Núñez": "Tranquilo. Los días de partido en el Monumental hay mucho movimiento y cortes de calles.",
-        "San Nicolás": "De día hay muchísimo movimiento y carteristas en Florida, Lavalle y el Obelisco. De noche y los domingos el Microcentro queda vacío.",
-        "Monserrat": "Sin problema de día en Plaza de Mayo y Av. de Mayo. De noche las calles quedan vacías: mejor taxi o app.",
-        "San Telmo": "Muy turístico de día. Cuidá el celular en la feria; de noche movete por calles con gente o en taxi.",
-        "Retiro": "La parte alta (Plaza San Martín, Arroyo) es elegante y tranquila. Cuidado alrededor de las terminales de tren y de micros, y no entres al Barrio 31.",
-        "Balvanera": "Once y Plaza Miserere son zona de arrebatos, sobre todo de noche. El Abasto y Congreso, con atención.",
-        "La Boca": "Caminito, Proa, la Usina y la Bombonera se visitan de día sin problema. Fuera de esas cuadras y de noche, no camines: llegá y volvé en taxi o app.",
-        "Constitución": "Zona de estación con arrebatos frecuentes. Evitá caminarla, sobre todo de noche.",
-        "Barracas": "El Pasaje Lanín y la zona de Av. Montes de Oca se visitan de día. Evitá el sur del barrio y los alrededores de las vías.",
-        "Flores": "El centro comercial de Av. Avellaneda es muy concurrido de día. Evitá el Bajo Flores.",
-        "Mataderos": "La feria de los domingos se disfruta de día. Andá y volvé en taxi, app o colectivo directo.",
-        "Parque Patricios": "Tranquilo de día; de noche, mejor en taxi.",
-        "Boedo": "Barrio de tango y bares notables. De noche, movete en taxi o app.",
-        "Nueva Pompeya": "Sin atractivos turísticos y con zonas complicadas. No es un barrio para recorrer.",
-        "Villa Soldati": "Sin atractivos turísticos y con zonas complicadas. No es un barrio para recorrer.",
-        "Villa Lugano": "Sin atractivos turísticos y con zonas complicadas. No es un barrio para recorrer.",
-        "Villa Riachuelo": "Sin atractivos turísticos. No es un barrio para recorrer."
-      },
-      defaults: { 1: "Barrio residencial tranquilo. Precauciones normales.", 2: "Sin problema de día. De noche, mejor moverse en taxi o app.", 3: "Evitá recorrerlo a pie." },
-      /* Puntos concretos dentro de los barrios: [latitud, longitud], radio en metros. */
-      spots: [
-        { ll: [-34.6378, -58.3632], r: 380, level: 1, name: "Zona turística de La Boca", note: "Caminito, Proa y la Bombonera: de día, con mucha gente y presencia policial. No te alejes de estas cuadras." },
-        { ll: [-34.5838, -58.3768], r: 520, level: 3, name: "Terminales de Retiro y Barrio 31", note: "Arrebatos frecuentes alrededor de las terminales. Llegá y salí en taxi o app, con el equipaje siempre a la vista." },
-        { ll: [-34.6277, -58.3811], r: 420, level: 3, name: "Estación Constitución", note: "Una de las zonas con más arrebatos. Si tomás el tren a La Plata, llegá en subte o taxi y no camines los alrededores." },
-        { ll: [-34.6098, -58.4063], r: 320, level: 3, name: "Plaza Miserere (Once)", note: "Mucho movimiento y carteristas de día; de noche, evitar." },
-        { ll: [-34.6485, -58.4410], r: 650, level: 3, name: "Bajo Flores", note: "Zona a evitar." },
-        { ll: [-34.6535, -58.3985], r: 600, level: 3, name: "Sur de Barracas", note: "Zona a evitar." }
-      ]
-    },
     { id: "turismo", name: "Turísticas", icon: "⭐",
       title: "Qué tan turístico es cada barrio",
       legend: { 3: ["#1c5fb0", "Imprescindible"], 2: ["#5c9be0", "Vale la visita"], 1: ["#b3d1f3", "Para curiosos"] },
