@@ -2,75 +2,87 @@
 
 Para los dos Claude: acá está escrito qué se hizo, qué se probó y qué falta. **Actualizalo cada vez que cambies algo de `app/`.**
 
-Última actualización: 10 de noviembre de 2026, Claude de `ronkstudio`.
+Última actualización: 11 de noviembre de 2026, Claude de `ronkstudio`.
+
+Todo lo que se describe acá está en `main`.
+
+## Decidido
+
+- **El prototipo es la base de la app** (`ezebesserr`, 10/11, pedido #29).
+- **El mapa de seguridad en colores se sacó** (`ezebesserr`, 11/11, pedido #44). Quedan los consejos escritos de Info → Seguridad.
+
+Las decisiones del proyecto y las que faltan están en el `README.md` de la carpeta principal.
 
 ## Para decidir entre Bautista y Besser
 
-El prototipo y el diseño acordado van por caminos distintos. Esto no lo resuelve Claude.
-
-| Tema | Diseño acordado (`docs/diseno/pantallas.md`) | Prototipo (`app/`) |
-|---|---|---|
-| Idea general | Lo justo y necesario para quien recién llega | De todo: planear, recorrer y resolver |
-| Menú de abajo | Inicio, Moverse, Lugares, Lo esencial | Inicio, Explorar, Mapa, Mi viaje, Info |
-| Mapa propio | Por decidir | Sí, con capas de zonas |
-| Zonas de seguridad | Solo consejos escritos | Mapa en verde, amarillo y rojo |
-| Hospedaje | Fuera de la primera versión | Incluido |
-| "Mi viaje" | Lista simple de guardados | Por día, con armado automático |
-| Idiomas | Bienvenida con idioma | Solo español |
-| Estilo visual | `docs/diseno/base.css` | Estilo propio en `app/css/styles.css` |
-
-Preguntas abiertas:
-1. ¿El prototipo pasa a ser la base de la app, o queda como banco de pruebas de ideas?
-2. Si es la base, ¿se le aplica el estilo de `docs/diseno/base.css`?
-3. ¿Qué partes del prototipo entran en la primera versión y cuáles esperan?
-
-**Decidido el 10/11 (pregunta 1):** `ezebesserr` eligió usar el prototipo como base de la app. Las preguntas 2 y 3 siguen abiertas.
+1. **¿Qué entra en la primera versión?** `ezebesserr` pidió lo justo y necesario para quien recién llega; Bautista pidió de todo. Hoy el prototipo tiene de todo.
+2. **¿Se publica?** Bautista pidió un link para compartir. Claude no pudo publicarlo solo. El Claude de `ezebesserr` propuso hacerlo con un cartel visible de "versión de prueba, datos sin verificar".
+3. **¿Se encienden las cuentas?** Hay que resolver lo de la clave pública (ver `CUENTAS.md`).
+4. **¿Se muestran los filtros sin TACC y kosher** antes de confirmar los lugares uno por uno?
+5. **Idiomas** (tarjetas #11 y #39). Hoy está solo en español.
 
 ## Qué está hecho
 
-- **Explorar:** 297 lugares en 9 categorías (se sumaron Deportes y Entretenimiento), buscador que entiende sinónimos, filtros por tipo, barrio, precio y "abre hoy", y orden por recomendación, cercanía o precio.
+- **Explorar:** 297 lugares en 9 categorías (qué ver, comer, noche, tours, excursiones, hospedaje, compras, deportes, entretenimiento), buscador que entiende sinónimos, filtros por tipo, barrio, precio y "abre hoy", y orden por recomendación, cercanía o precio.
 - **Comer con una condición:** filtros por vegetariano, vegano, sin TACC y kosher. La ficha avisa siempre que hay que confirmar en el local. Los lugares "100 %" están en `dietFull` de `data/caba-extra.js`.
-- **Todos los barrios:** 46 de los 48 barrios tienen al menos un lugar. Faltan Vélez Sarsfield y Villa Lugano: no encontramos nada que valga la pena sin inventar.
+- **Barrios:** 46 de los 48 tienen al menos un lugar. Faltan Vélez Sarsfield y Villa Lugano: no encontramos nada que valga la pena sin inventar.
 - **Shoppings:** Abasto, DOT, Unicenter, Alto Palermo, Alcorta, Distrito Arcos y seis más.
-- **Ficha de lugar:** foto, consejo, precio, subte más cercano, cómo llegar, opiniones en Google Maps, Uber, disponibilidad en Booking para hoteles y qué hay cerca.
-- **Mapa:** todos los lugares con ubicación, más 7 capas de zonas y 22 puntos de ayuda.
-- **Mi viaje:** guardar lugares, asignarlos a un día, ordenar por cercanía, ver el día en el mapa, abrir la ruta en Google Maps, compartir e imprimir. Con fecha de llegada avisa si algo cierra ese día.
-- **Armado automático:** con días, intereses, presupuesto y ritmo arma el recorrido por zonas.
-- **Inicio:** sugerencias según la hora, el día y el clima; colecciones; itinerarios; eventos del mes; conversor de moneda.
-- **Info:** moverse, seguridad, ayuda, info práctica con checklist, y calendario.
+- **Ficha de lugar:** foto, consejo, precio, subte más cercano, cómo llegar, opiniones en Google Maps, Uber, disponibilidad en Booking para hoteles, qué hay cerca, y "Marcar que fui".
+- **Mapa:** todos los lugares con ubicación, 6 capas de zonas (turísticas, dónde alojarse, noche, gastronomía, compras, parques) y 22 puntos de ayuda.
+- **Mi viaje:** guardar lugares por día, ordenar por cercanía, ver el día en el mapa, ruta en Google Maps, compartir e imprimir. Con fecha de llegada avisa si algo cierra ese día y muestra el pronóstico de cada día.
+- **Armado automático:** con días, intereses, presupuesto y ritmo arma el recorrido por zonas. Respeta la dieta del perfil.
+- **Mi cuenta y perfil de viaje:** dieta, presupuesto y si viaja con chicos. La guía marca "Apto para vos". Las cuentas con mail están preparadas pero apagadas (`CUENTAS.md`).
+- **Pasaporte porteño:** marcar "Ya fui" y ganar 16 sellos. Las reglas de cada sello están en `data/caba-extra.js`.
+- **Inicio:** sugerencias según la hora, el día y el clima; "Hoy en tu viaje"; colecciones; itinerarios; eventos del mes; conversor de moneda.
+- **Info:** moverse, seguridad, ayuda, info práctica (con checklist y calculadora de propina) y calendario.
 - **Cómo pagar el transporte:** el primer bloque de Moverse está revisado contra el sitio oficial de SUBE (9/11, tarjeta #38, Claude de `ezebesserr`). Falta confirmar el pago con tarjeta o celular en subte y trenes; el detalle está en `docs/fuentes-de-informacion.md`.
 - **Sin internet:** la lista y los textos funcionan; el mapa y las fotos necesitan conexión.
 
 ## Qué se probó
 
-- Navegación completa en tamaño celular (375 de ancho) y en pantalla grande, sin errores.
-- Filtros, buscador, fichas, guardar, armado automático, mapa de zonas y puntos de ayuda.
-- Que carguen las 69 fotos y que los límites de los 48 barrios coincidan con el archivo oficial.
+Todo en el navegador de la compu, en tamaño celular (375 de ancho) y en pantalla grande:
+
+- Navegación completa, filtros, buscador, fichas, guardar, armado automático, mapa de zonas y puntos de ayuda.
+- Filtros de dieta, categorías nuevas y buscar "DOT", "Unicenter" y "Saavedra".
+- Perfil de viaje: con perfil vegano, Explorar pone primero lo apto y el viaje se arma solo con lugares veganos.
+- Pasaporte, pronóstico por día, "Hoy en tu viaje" y calculadora de propina.
+- Que el guardado para usar sin internet junte sus 10 archivos.
+- Que no haya lugares repetidos ni datos sueltos, que carguen las fotos y que los límites de los 48 barrios coincidan con el archivo oficial.
+
+Estas pruebas las hizo el Claude de `ronkstudio` antes de que se sacara el mapa de colores. Lo que probó el Claude de `ezebesserr` después está en los pedidos #40 y #44.
 
 ## Qué NO se probó
 
+- **Las cuentas de usuario.** Nada: sin un proyecto de Supabase no hay cómo. Es lo primero que hay que probar al encenderlas.
 - "Cerca mío" y "Mi ubicación" (necesitan permiso de ubicación en un celular real).
 - Compartir, imprimir y el enlace de Uber.
-- El uso sin internet de punta a punta, y la instalación en el celular.
-- Nada en un iPhone ni en un Android de verdad: solo en el navegador de la compu.
+- Cortar internet de verdad y usar la app, y la instalación en el celular.
+- Nada en un iPhone ni en un Android de verdad.
 
 ## Qué falta o está flojo
 
-- **Datos sin verificar.** Direcciones, días de cierre y si los lugares siguen abiertos salen de lo que sabe Claude. Hay que revisarlos antes de publicar.
-- **Niveles de seguridad.** Son una valoración, no datos oficiales. Conviene que los revise alguien que conozca la ciudad.
+- **Datos sin verificar.** Direcciones, días de cierre y si los lugares siguen abiertos salen de lo que sabe Claude. Muchos aparecen en OpenStreetMap en esa dirección, pero no se confirmó uno por uno. Hay que revisarlos antes de publicar.
+- **Sin TACC y kosher son temas de salud y de fe.** Solo hay 3 lugares sin TACC y 2 kosher, los que una búsqueda describió como dedicados. Hay que confirmarlos. No hay opciones halal ni sin lactosa.
+- **Las plazas de barrio** (etiqueta "vida de barrio") tienen descripciones genéricas. Se sumaron para que cada barrio tenga algo, con nombre y ubicación reales, pero sin conocer cada una.
+- **No está todo lo que se puede hacer en la ciudad.** Son 297 lugares elegidos. La tarjeta #45 propone un mínimo de locales por tipo en cada zona turística.
 - **Solo en español.**
 - **Sin horarios reales ni puntajes de reseñas.** Harían falta servicios pagos.
-- **Pocas fotos** de restaurantes, bares y hoteles.
+- **Pocas fotos** de restaurantes, bares, shoppings y hoteles.
 - **No está publicado** en internet: se abre solo en la compu.
-- **Sin TACC y kosher son temas de salud y de fe.** Solo hay 3 lugares sin TACC y 2 kosher, los que una búsqueda describió como dedicados. Hay que confirmarlos uno por uno antes de publicar. No hay opciones halal ni sin lactosa.
-- **Las plazas de barrio** (etiqueta "vida de barrio") tienen descripciones genéricas: se sumaron para que cada barrio tenga algo, con el nombre y la ubicación reales de OpenStreetMap, pero sin conocer cada una.
-- **Los 130 lugares nuevos de la tarjeta #32** salen de lo que sabe Claude. Muchos aparecen en OpenStreetMap en esa dirección, pero no se verificó que sigan abiertos.
 - **Unas 45 ubicaciones son aproximadas.** Están marcadas con "aprox." en `data/caba-coords.js` y `data/caba-zones.js`.
 - En "Mi viaje" no se puede cambiar el orden a mano, solo por cercanía.
+
+## Publicar
+
+Como este repositorio es privado, la forma más simple es publicar una copia de la carpeta `app/` (sin `ESTADO.md`, `LEEME.md`, `CUENTAS.md` ni `servir.ps1`) en un repositorio público aparte, con GitHub Pages. Con una dirección `https` también funcionan la instalación en el celular y el uso sin internet.
+
+Publicar lo decide una persona.
 
 ## Reglas para tocar esta carpeta
 
 - El contenido va en `data/`; el funcionamiento, en `js/app.js`; el diseño, en `css/styles.css`.
+- En `js/app.js`, cada parte tiene arriba un comentario que dice qué hace y, si es nueva, de qué tarjeta salió.
 - No escribir precios ni horarios exactos: cambian seguido. Se usan niveles ($ a $$$$) y "suele cerrar los lunes".
 - Si sumás un premio o un dato oficial, anotá de dónde salió.
-- Nada de claves ni contraseñas en los archivos.
+- Lo de salud (sin TACC, kosher, alergias) solo con una fuente, y siempre con el aviso de confirmar en el local.
+- Nada de claves ni contraseñas en los archivos. `config.js` va vacío.

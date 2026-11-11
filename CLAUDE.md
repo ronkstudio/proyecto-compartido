@@ -48,3 +48,12 @@ Nada de contraseñas, claves, tokens ni datos personales de clientes, ni en arch
 No hay áreas fijas: `ronkstudio` y `ezebesserr` hacen de todo (diseño, pantallas, contenido, información, idiomas y la parte técnica). Se decidió en la tarjeta #2.
 
 Para no pisarse alcanza con las reglas de arriba: cada tarjeta tiene un solo dueño, y no se toca un archivo que esté en un pedido de cambios abierto del otro.
+
+## La app está en `app/`
+
+El prototipo de la carpeta `app/` es la base de la app (se decidió en el pedido #29).
+
+- **Antes de tocar algo de `app/`, leé `app/ESTADO.md`:** dice qué está hecho, qué se probó y qué falta. Cómo está armado y cómo abrirlo: `app/LEEME.md`.
+- **Al terminar una tarea que cambie `app/`, actualizá `app/ESTADO.md`** en el mismo pedido de cambios.
+- El contenido va en `app/data/`. No se escriben precios ni horarios exactos, y los datos de salud (sin TACC, kosher, alergias) solo con una fuente.
+- Las decisiones ya tomadas y las que faltan están en el `README.md`. Si se toma una decisión nueva, anotala ahí.
