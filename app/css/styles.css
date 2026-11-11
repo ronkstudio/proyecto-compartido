@@ -476,3 +476,22 @@ a.event:hover { border-color: var(--accent); }
 .btn.visit[aria-pressed="true"] { color: var(--ok-ink); border-color: var(--ok-ink); }
 .day-fc { font-size: 13.5px; color: var(--ink-2); margin: -2px 0 8px; }
 @media (min-width: 720px) { .stamps { grid-template-columns: repeat(4, 1fr); } }
+
+/* ── Idiomas (tarjeta #39) ── */
+.lang-btn { flex: none; height: 36px; padding: 0 10px; margin-left: auto; margin-right: 8px; border: 0; border-radius: 18px; background: rgba(255, 255, 255, .14); color: #fff; font: inherit; font-size: 12.5px; font-weight: 700; letter-spacing: .04em; display: inline-flex; align-items: center; gap: 5px; cursor: pointer; }
+.lang-btn:hover { background: rgba(255, 255, 255, .24); }
+.lang-btn span { font-size: 15px; }
+.lang-dialog { width: min(92vw, 360px); max-height: 86dvh; padding: 0; border: 1px solid var(--line); border-radius: 22px; background: var(--surface); color: var(--ink); box-shadow: 0 20px 60px rgba(0, 0, 0, .3); }
+.lang-dialog::backdrop { background: rgba(10, 20, 30, .5); }
+.lang-head { display: flex; align-items: center; justify-content: space-between; padding: 16px 12px 8px 20px; }
+.lang-head h2 { margin: 0; font-size: 19px; }
+.lang-close { width: 40px; height: 40px; border: 0; border-radius: 50%; background: transparent; color: var(--ink-2); font-size: 16px; cursor: pointer; }
+.lang-close:hover { background: var(--surface-2); }
+.lang-list { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; padding: 4px 16px 16px; }
+.lang-opt { display: flex; align-items: center; justify-content: space-between; gap: 8px; min-height: 48px; padding: 0 14px; border: 1.5px solid var(--line); border-radius: 14px; background: var(--surface); color: var(--ink); font: inherit; font-size: 15.5px; font-weight: 600; text-align: left; cursor: pointer; }
+.lang-opt:hover { background: var(--surface-2); }
+.lang-opt.on { border-color: var(--accent); color: var(--accent); }
+.lang-opt i { font-style: normal; }
+.lang-note { margin: 0; padding: 12px 20px 18px; border-top: 1px solid var(--line); color: var(--ink-2); font-size: 13px; line-height: 1.45; }
+@media (min-width: 900px) { .lang-btn { margin-left: 8px; margin-right: 0; } }
+@media print { .lang-btn, .lang-dialog { display: none !important; } }
