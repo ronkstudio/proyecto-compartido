@@ -888,7 +888,7 @@ window.CITY_DATA.caba = {
     { n: "911", t: "Policía y emergencias" },
     { n: "107", t: "SAME · ambulancias" },
     { n: "100", t: "Bomberos" },
-    { n: "11 5050-9260", t: "Comisaría del Turista" },
+    { n: "+54 11 5050-9260", t: "Comisaría del Turista" },
     { n: "144", t: "Violencia de género" },
     { n: "147", t: "Atención ciudadana" }
   ],

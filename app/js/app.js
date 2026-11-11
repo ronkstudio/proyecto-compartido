@@ -410,7 +410,7 @@
       : "<dl>" + b.items.map(i => "<div><dt>" + esc(i.t) + "</dt><dd>" + esc(i.d) + "</dd></div>").join("") + "</dl>";
     return '<details class="block ' + (b.tone || "") + '"' + (open ? " open" : "") + "><summary><em>" + b.icon + "</em>" + esc(b.title) + '</summary><div class="block-body">' + body + (b.extra || "") + "</div></details>";
   };
-  const sosHtml = () => '<div class="sos">' + city.emergencies.map(e => '<a href="tel:' + e.n.replace(/[^0-9]/g, "") + '"><b>' + esc(e.n) + "</b><span>" + esc(e.t) + "</span></a>").join("") + "</div>";
+  const sosHtml = () => '<div class="sos">' + city.emergencies.map(e => '<a href="tel:' + e.n.replace(/[^0-9+]/g, "") + '"><b>' + esc(e.n) + "</b><span>" + esc(e.t) + "</span></a>").join("") + "</div>";
   const head = (title, right) => '<div class="section-head"><h2>' + title + "</h2>" + (right || "") + "</div>";
   const linkCard = (href, color, icon, title, sub) => '<a class="cat" style="--c:' + color + '" href="' + href + '"><span class="ico" aria-hidden="true">' + icon + "</span><span><b>" + title + "</b><span>" + sub + "</span></span></a>";
 
@@ -494,7 +494,6 @@
       '<section class="section">' + head("¿Cuánto es en mi moneda?") + convHtml() + "</section>" +
 
       '<section class="section">' + head("Antes de salir") + '<div class="cats">' +
-        (hasMap && Z ? '<button class="cat" style="--c:#2f9e44" data-go="' + attr({ cat: "ninguno", zone: "seguridad", mode: "mapa" }) + '"><span class="ico" aria-hidden="true">🚦</span><span><b>Zonas seguras</b><span>Mapa en verde, amarillo y rojo</span></span></button>' : "") +
         linkCard("#/info/ayuda", "#e03131", "🆘", "Dónde pedir ayuda", "Turismo, policía, hospitales") +
         linkCard("#/info/moverse", "#1c7ed6", "🚇", "Cómo moverte", "SUBE, subte, aeropuertos") +
         linkCard("#/info/seguridad", "#e8590c", "⚠️", "Qué evitar", "Estafas y cuidados") +
@@ -535,7 +534,7 @@
     const l = Z.layers.find(x => x.id === zoneId);
     if (!l) return "";
     const keys = Object.keys(l.legend);
-    if (l.id !== "seguridad") keys.reverse();
+    keys.reverse();
     return "<b>" + l.icon + " " + esc(l.name) + "</b>" + keys.map(k => '<span><i style="background:' + l.legend[k][0] + '"></i>' + esc(l.legend[k][1].split(":")[0]) + "</span>").join("");
   };
   const zoneNoteHtml = () => {
@@ -610,7 +609,7 @@
       body = '<p class="hint">Fechas habituales: confirmá cada año antes de planificar.</p><div class="events">' + (X.events || []).map(e =>
         '<div class="event' + (e.m.indexOf(month) > -1 ? " now" : "") + '"><em aria-hidden="true">' + e.icon + "</em><span><small>" + esc(e.when) + (e.m.indexOf(month) > -1 ? " · este mes" : "") + "</small><b>" + esc(e.name) + "</b><span>" + esc(e.desc) + "</span></span></div>").join("") + "</div>";
     } else {
-      body = (hasMap && Z ? '<button class="cta safe" data-go="' + attr({ cat: "ninguno", zone: "seguridad", mode: "mapa" }) + '"><span><b>🚦 Mapa de zonas: verde, amarillo y rojo</b><span>Mirá barrio por barrio dónde caminar tranquilo y dónde conviene ir en taxi.</span></span><i aria-hidden="true">→</i></button>' : "") +
+      body =
         '<div class="blocks" style="margin-top:14px">' + city.safety.map((b, i) => blockHtml(b, i < 2)).join("") + "</div>" +
         '<section class="section">' + head("Teléfonos de emergencia", '<a class="link" href="#/info/ayuda">Más ayuda</a>') + sosHtml() + "</section>";
     }
