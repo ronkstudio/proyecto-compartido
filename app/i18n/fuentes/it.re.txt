@@ -1,0 +1,43 @@
+max $1° / min $2°
+$1 luoghi
+1 luogo
+$1 luoghi sulla mappa
+$1 senza posizione fissa
+$1 visite al giorno
+Mancia $1 %
+$1 di $2
+Vedi $1 luoghi
+Giorno $1
+1 stella
+$1 stelle
+A $1 km
+Fatto: $1 luoghi in 1 giorno
+Fatto: $1 luoghi in $2 giorni
+pioggia $1 %
+Manca 1 giorno al tuo viaggio.
+Mancano $1 giorni al tuo viaggio.
+1 $1 ≈ $2 pesos
+cambio ufficiale di riferimento del $1. Quello che ti addebitano può variare a seconda di come paghi.
+Salva $1 in Il mio viaggio
+Togli $1
+Giorno per $1
+In programma per il giorno $1
+$1 luoghi salvati in Il mio viaggio
+Svuotare Il mio viaggio? Verranno tolti i $1 luoghi salvati.
+Di solito chiude il {1}
+Funziona solo il {1}
+Solo il {1}
+Oggi ({1}) no: solo il {2}.
+a $1 $2
+(circa $1)
+Nuovo timbro: {1}
+Il mio viaggio a $1
+Vedi $1
+Hai $1 timbri su $2. Continua così!
+$1 h $2 min in treno
+$1 min in treno
+A $1 h $2 min in traghetto
+$1 h $2 min in traghetto diretto
+$1 ore in barca da Tigre
+$1 h $2 min in barca da Tigre
+$1 min in barca

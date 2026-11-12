@@ -1,0 +1,143 @@
+1|Crea il tuo viaggio in 10 secondi
+2|Buenos Aires in 1 giorno
+3|3 giorni classici
+4|Guida Michelin 2026
+5|Top 5 di The World's 50 Best Bars (2019 e 2021)
+6|Bib Gourmand Michelin 2026
+7|N. 21 in The World's 50 Best Bars 2026
+8|9 novembre 2026, secondo il sito ufficiale della SUBE. I metodi di pagamento cambiano spesso: se qualcosa non coincide, valgono i cartelli dei trasporti.
+9|Circa dalle 5:30 alle 23:30 dal lunedì al sabato, e dalle 8 alle 22:30 domenica e festivi. Non funziona di notte.
+10|Se puoi, evita le ore di punta (8–10 e 17–19:30). Porta lo zaino davanti e il telefono in tasca vicino alle porte.
+11|Più di 150 linee che arrivano ovunque e circolano 24 ore su 24 (di notte con meno frequenza). Si sale davanti, si dice la destinazione all'autista e si paga con carta contactless, telefono o SUBE.
+12|Corsie riservate su viali come 9 de Julio e Juan B. Justo che rendono il viaggio molto più veloce.
+13|Linea Mitre per Tigre (circa 1 ora), San Isidro e Belgrano C (Chinatown).
+14|Linea Roca per La Plata (circa 1 h 15 min).
+15|Più di 250 km di corsie protette. La città è completamente pianeggiante.
+16|L'aeroporto internazionale, a circa 30 km. Tra 45 e 90 minuti dal centro a seconda del traffico. Opzioni: taxi o remís ufficiale prenotato ai banchi dentro il terminal, app di trasporto, pullman Tienda León, o autobus 8 (molto economico, ma può metterci 2 ore).
+17|Voli nazionali e regionali. È in città, a 15–25 minuti da Palermo e dal Centro. Taxi, app o autobus 33, 37, 45 e 160.
+18|Buquebus e Colonia Express attraversano verso Colonia (circa 1 h 15 min) e Montevideo. I terminal sono a Puerto Madero e vicino a La Boca. Presentati con un'ora di anticipo per l'immigrazione.
+19|Retiro: i dintorni del terminal dei pullman e dei treni, e il Barrio 31. Arriva e parti in taxi o con un'app.
+20|Informazioni, mappe e assistenza di persona. Dal lunedì al venerdì dalle 10 alle 17.
+21|Dal lunedì al venerdì dalle 8 alle 15; sabato, domenica e festivi dalle 8 alle 17.
+22|Assistenza in varie lingue per denunce, furti o perdita del passaporto. Aperto 24 ore su 24.
+23|Ospedali con pronto soccorso 24 h
+24|Pubblico. Pronto soccorso 24 h; le urgenze sono gratuite.
+25|Universitario. Pronto soccorso 24 h.
+26|Pubblico. Pronto soccorso 24 h; il più vicino a La Boca e San Telmo.
+27|Pubblico. Pronto soccorso 24 h.
+28|Pubblico. Pronto soccorso 24 h; il più vicino a Belgrano.
+29|Pubblico, pediatrico. Pronto soccorso 24 h.
+30|Privato. Pronto soccorso 24 h, a pagamento o con assicurazione di viaggio.
+31|Voli nazionali e regionali. A 15–25 minuti dal centro.
+32|Voli internazionali. Tra 45 e 90 minuti dal centro.
+33|Scrivi il totale e ti diciamo quanto paga ciascuno. In Argentina di solito si lascia il 10 %, in contanti.
+34|Adattatore per presa tipo I (220 V)
+35|Al ristorante si lascia circa il 10 %, di solito in contanti. In taxi non è obbligatoria; spesso si arrotonda.
+36|Pranzo dalle 12:30 alle 15. Merenda alle 17. Cena dalle 20:30; di solito alle 21:30 o 22.
+37|I bar si riempiono dopo le 23 e le discoteche dopo le 2.
+38|In genere dalle 10 alle 20. I centri commerciali, tutti i giorni fino alle 22.
+39|Caldo e umido, da 28 a 35 °C. A gennaio la città si svuota.
+40|Fresco, da 8 a 16 °C. Non nevica. Alta stagione di teatro e cultura.
+41|220 V. Presa tipo I (tre spinotti piatti ad angolo). Porta un adattatore.
+42|Farmacie di turno 24 ore su 24. Emergenze mediche: SAME, 107.
+43|La distanza tra due incroci: circa 100 metri. 'È a cinque cuadras' = 500 m.
+44|Chiama il 107 (SAME). I pronto soccorso degli ospedali pubblici sono aperti 24 ore su 24.
+45|Ci sono farmacie di turno tutta la notte; le grandi catene hanno negozi aperti 24 ore su 24 nei quartieri centrali.
+46|I turisti stranieri di solito sono esenti dall'IVA (21 %) negli hotel pagando con una carta emessa all'estero. Chiedi al momento della prenotazione.
+47|42 km tra i luoghi più emblematici; strade chiuse quella domenica.
+48|Il 24, 25 e 31 molti ristoranti chiudono o lavorano solo su prenotazione: pianifica per tempo.
+49|5 imperdibili in evidenza
+50|2 parrillas
+51|2 pizzerie
+52|3 caffè storici
+53|3 musei
+54|3 parchi o riserve
+55|2 uscite serali
+56|Luoghi in 5 quartieri diversi
+57|20 luoghi visitati
+58|1 ora di treno
+59|Locale 100 % senza glutine
+60|Locale 100 % kosher
+61|ospedali con pronto soccorso 24 h
+62|Aggiunto al tuo passaporto
+63|Tolto dal tuo passaporto
+64|Abbiamo recuperato il tuo viaggio salvato
+65|Tolto da Il mio viaggio
+66|Salvato in Il mio viaggio
+67|Questo dispositivo non permette di ottenere la posizione
+68|Cerco la tua posizione
+69|Non siamo riusciti a ottenere la tua posizione. Controlla il permesso.
+70|Impossibile copiare: questo browser non lo permette
+71|Senza giorno assegnato
+72|Li avevi già salvati
+73|Impossibile cancellare. Riprova.
+74|Fatto: abbiamo cancellato quello che era salvato nel tuo account
+75|Questo sostituisce il tuo viaggio attuale. Continuiamo?
+76|Cancellare quello che è salvato nel tuo account? Su questo dispositivo non si cancella niente.
+77|Stai per sostituire il tuo viaggio attuale.
+78|giorno
+79|interesse
+80|tappa
+81|luogo
+82|lunedì
+83|martedì
+84|mercoledì
+85|giovedì
+86|venerdì
+87|sabato
+88|domenica
+89|sabato
+90|domenica
+91|Buona opzione
+92|Poco nuvoloso
+93|Rovesci
+94|Nebbia
+95|Neve
+96|Giornata fresca: porta una giacca.
+97|Sedi a Recoleta, Palermo e Belgrano
+98|Sedi in tutta la città
+99|Ente del Turismo di Buenos Aires
+100|Prima fermata nel Centro; più di 20 fermate
+101|Partenze da San Telmo e Palermo
+102|La Catedral, La Viruta e scuole di tango
+103|Dipende dalla partita
+104|Registro ufficiale della Città
+105|Zone di Areco, Cañuelas e Lobos
+106|Palermo, Recoleta, San Telmo e Belgrano
+107|Zona di Pilar e Open Door
+108|Sedi a Recoleta e Palermo
+109|Negozi in tutta la città
+110|Palermo, Centro e Belgrano
+111|lungofiume del Luján
+112|Stazione fluviale
+113|Delta del Tigre
+114|fiume Sarmiento
+115|Da Maipú (Olivos) a Delta (Tigre)
+116|Zona di Lobos
+117|Zona di Capilla del Señor e Luján
+118|Zone di Areco, Lobos e Cañuelas
+119|Tigre e Nordelta
+120|Partenze dalla zona nord
+121|Per iniziare la mattina
+122|Per pranzare adesso
+123|Per questo pomeriggio
+124|Per stasera
+125|Per iniziare la mattina vicino a te
+126|Per pranzare adesso vicino a te
+127|Per questo pomeriggio vicino a te
+128|Per stasera vicino a te
+129|Notte porteña vicino a te
+130|Piove: diamo priorità ai programmi al coperto.
+131|Per ballare
+132|Discoteche
+133|Aperto oggi
+134|Oggi a Buenos Aires
+135|Di giorno
+136|Stasera
+137|Vedi altro
+138|Gli eventi con 📅 sono dell'agenda ufficiale della Città. Controlla sulla loro pagina prima di andare.
+139|Lo spettacolo di percussioni del lunedì
+140|La festa internazionale del martedì
+141|L'after office del mercoledì
+142|La peña folcloristica del giovedì
+143|La serata di festa del giovedì

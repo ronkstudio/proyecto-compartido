@@ -1,0 +1,532 @@
+1|Vai di mattina in un giorno feriale per vederla animata. La Cattedrale custodisce il mausoleo di San Martín e l'ingresso è libero.
+2|Di sera un tratto di Corrientes è pedonale: ideale per pizza e teatro.
+3|Le visite guidate partono più volte al giorno. Per gli spettacoli, i posti in piedi e quelli più alti sono molto accessibili.
+4|I visitatori non residenti pagano l'ingresso. Accanto ci sono la Basilica del Pilar e il Centro Cultural Recoleta.
+5|Ingresso libero. Sali sui palchi per la foto migliore.
+6|Vai di giorno e resta nella zona turistica (Caminito, Proa, Usina, Bombonera). Arriva e riparti in taxi, app o autobus; non camminare verso i quartieri vicini.
+7|Il mercatino è la domenica, circa dalle 10 alle 17. C'è tanta gente: tieni telefono e portafoglio ben custoditi.
+8|Al tramonto la luce è la migliore. Abbinala alla Riserva Ecologica.
+9|Chiude il lunedì e nei giorni di pioggia. All'ingresso ci sono i carretti di choripán e bondiola.
+10|Il Rosedal chiude il lunedì. La fioritura migliore è a ottobre e novembre.
+11|Vai presto nel fine settimana; si riempie.
+12|Chiude il martedì. Il mercoledì l'ingresso di solito è scontato.
+13|Chiude il lunedì. È a poche cuadras dal Cimitero della Recoleta e dalla Floralis.
+14|Buona tappa tra il Museo di Belle Arti e la Facoltà di Giurisprudenza.
+15|Le visite al tramonto e notturne sono le più belle; prenota in anticipo.
+16|Si percorre in 30 minuti; sotto corre la linea A, la più antica della metro.
+17|Ci sono visite guidate gratuite nei giorni feriali; controlla gli orari e porta un documento.
+18|Le attività di solito sono gratuite con prenotazione online.
+19|Si arriva con il treno Mitre (stazione Belgrano C) o con la metro D (Juramento). Il lunedì vari locali chiudono.
+20|Trovare biglietti per le partite è difficile: il museo è il modo più semplice per entrare.
+21|Prenota il tour online; nei giorni di partita non ci sono visite.
+22|Chiude il lunedì. Perfetto per una pausa all'ombra.
+23|Ingresso gratuito; aperto circa da mercoledì a domenica. Ideale con bambini.
+24|Di notte si illumina; i biglietti si comprano online.
+25|Chiude lunedì e martedì. Abbinalo a Caminito.
+26|Controlla il programma del fine settimana.
+27|Ha un ristorante con un patio molto piacevole.
+28|Chiude il martedì; alcuni giorni l'ingresso è gratuito.
+29|Il caffè del giardino è un classico.
+30|Solo con visita guidata; controlla giorni e orari.
+31|Buona idea per pranzo qualsiasi giorno; la domenica è strapieno.
+32|Meno turistico della Recoleta. La tomba di Gardel ha sempre una sigaretta accesa.
+33|Prenota con settimane di anticipo. Senza prenotazione, c'è una lista d'attesa alla porta.
+34|Le porzioni sono da condividere.
+35|Ordina il bife de chorizo o l'ojo de bife con patatine fritte.
+36|Ideale dopo il mercatino della domenica (prenota).
+37|Il servizio è veloce: buona opzione senza prenotazione.
+38|Pochi tavoli: prenota.
+39|Vicino alla Chinatown.
+40|Fai come la gente del posto: trancio di muzza con fainá, in piedi al bancone.
+41|Ordina la fugazzeta e un dolce della casa.
+42|Buona tappa prima o dopo il teatro.
+43|Un trancio sazia; non ordinare troppo.
+44|C'è una sede su Corrientes se non vai a La Boca.
+45|Per quando vuoi la pasta sottile invece che al tegamino.
+46|La milanesa è tra le migliori della città. Prenota.
+47|Vai e torna in taxi o con un'app; la zona non è adatta a camminare di notte.
+48|Una milanesa basta per due.
+49|Cucina porteña-spagnola di una volta.
+50|Molto frequentato nel fine settimana.
+51|Le empanadas di carne piccante sono le più richieste.
+52|C'è sempre la fila, ma scorre veloce.
+53|Per mangiare al volo.
+54|Per evitare la fila, vai presto la mattina. Cioccolata con churros.
+55|Il tè María Cala basta per tre persone.
+56|La terrazza costa più della sala.
+57|Prova il vermut con il seltz.
+58|Buona pausa durante la passeggiata a San Telmo.
+59|Porta a casa spezie o tè sfuso come ricordo.
+60|Vale la pena entrare anche solo per guardare.
+61|Dulce de leche granizado, senza dubbio.
+62|Prova il gelato al cioccolato con lamponi.
+63|Gusti classici fatti bene.
+64|Facile da trovare in qualsiasi quartiere turistico.
+65|Solo su prenotazione, per un'occasione speciale.
+66|Il venerdì c'è musica dal vivo.
+67|Tra le prenotazioni più difficili della città: si aprono con molto anticipo.
+68|Pochi tavoli; prenota.
+69|Non accetta prenotazioni: vai presto.
+70|Ordina vari piatti da condividere e il flan con dulce de leche.
+71|Buona opzione per vegetariani. Apre dalla colazione.
+72|Prenota; il bancone davanti alla griglia è il posto migliore.
+73|Non accetta prenotazioni: vai presto o armati di pazienza.
+74|Pranzo veloce e buono a Palermo Soho.
+75|Scegli quello con più gente.
+76|Prenota o arriva presto.
+77|Si riempie: meglio nei giorni feriali.
+78|Si mangia anche molto bene.
+79|Abbigliamento un po' più elegante.
+80|Prenota per cena e resta per i cocktail.
+81|L'opzione migliore se non hai mai ballato: arriva per la lezione prima.
+82|Per vedere ballare a buon livello, vai dopo mezzanotte.
+83|Va avanti fino all'alba, con medialunas alla fine.
+84|Di solito include il trasferimento dall'hotel.
+85|Di giorno funziona come pasticceria-caffè.
+86|Per una serata speciale.
+87|Il lunedì nel tardo pomeriggio; compra il biglietto online.
+88|Guarda il programma e prenota un tavolo.
+89|La notte porteña inizia tardi: le discoteche si riempiono dopo le 2.
+90|Ci sono biglietterie last minute con sconti sullo stesso viale.
+91|I biglietti si vendono per stagione; quelli del loggione sono molto economici.
+92|Fallo il primo giorno per orientarti. Ci sono percorsi Centro, Recoleta, San Telmo e La Boca.
+93|Cerca il programma sul sito ufficiale del turismo della Città.
+94|Conviene se hai poco tempo o viaggi con bambini o persone anziane.
+95|Partenze frequenti tutti i giorni; ce ne sono in inglese.
+96|La visita notturna include l'accensione del faro.
+97|All'ingresso ci sono visite ufficiali e guide private.
+98|Con iscrizione online e documento. Verifica che siano attive.
+99|Graffitimundo è l'organizzazione pioniera.
+100|Aziende note: Biking Buenos Aires e La Bicicleta Naranja.
+101|Vai affamato; sostituisce il pranzo o la cena.
+102|Buona occasione per conoscere altri viaggiatori.
+103|Porta scarpe comode con suola liscia.
+104|Diffida dei bagarini in strada. Rivolgiti ad agenzie con buone referenze.
+105|L'orario del tramonto è il migliore.
+106|Chiedi sempre la credenziale. Ideale per gruppi, famiglie o interessi specifici.
+107|Treno Mitre da Retiro a Tigre (si paga con la SUBE). Per un viaggio più bello, il Tren de la Costa.
+108|Porta passaporto o documento. I traghetti partono da Puerto Madero; compra in anticipo, costa meno.
+109|A novembre si celebra la Festa della Tradizione. Pullman da Retiro.
+110|Prenota il pacchetto completo con trasferimento dal tuo hotel.
+111|Treno Roca da Constitución.
+112|Pullman diretti da Plaza Italia e Once.
+113|Abbinala a Tigre usando il Tren de la Costa.
+114|Escursione di un giorno intero, di solito nel fine settimana.
+115|Ci sono pullman diretti da Plaza Italia.
+116|Meglio con una notte; in giornata è tirato.
+117|Lungo la strada, tutti si fermano a mangiare medialunas ad Atalaya.
+118|Ideale per pranzare in un ristorante di campagna.
+119|Il suo tè del pomeriggio è aperto anche ai non ospiti.
+120|Il giardino è uno degli angoli più belli per bere qualcosa.
+121|Il suo bar Pony Line è un punto d'incontro.
+122|Qui si tiene lo spettacolo Rojo Tango.
+123|Zona ideale per uscire a cena a piedi.
+124|Chiedi una camera sul giardino, più silenziosa.
+125|Buona colazione inclusa.
+126|Biblioteca e patio molto accoglienti.
+127|La domenica hai il mercatino davanti alla porta.
+128|Il rooftop apre in stagione.
+129|Vicino alla Riserva Ecologica per correre la mattina.
+130|Pratico per i viaggi di lavoro.
+131|Posizione imbattibile per muoversi in metro.
+132|Se vuoi dormire, non è il posto giusto: è per socializzare.
+133|Buon equilibrio tra atmosfera e riposo.
+134|Buon punto di partenza per chi viaggia da solo.
+135|Zona ideale per uscire la sera.
+136|Ha camere private a buon prezzo.
+137|Scegli vicino a una stazione della metro e leggi bene le recensioni.
+138|Domenica e festivi, circa da marzo a dicembre (in estate cambia orario). È lontano: vai in autobus, taxi o app.
+139|Buon posto per i regali: pelle, mate e argenteria.
+140|Sabato e domenica pomeriggio.
+141|Si può contrattare. Chiude il lunedì.
+142|Vale la visita anche se non compri niente.
+143|Marchi internazionali e di lusso.
+144|Le vie Gurruchaga, Armenia ed El Salvador concentrano il meglio.
+145|A poche cuadras, calle Murillo concentra i negozi di pelle.
+146|Sentirai offerte di cambio in strada: meglio cambiare nei cambiavalute ufficiali. Di notte si svuota.
+147|Abbinala a El Ateneo Grand Splendid.
+148|Ideale per curiosare dopo il teatro.
+149|Sali alla sala di lettura del quinto piano per la vista. Accanto c'è la piazza con il monumento a Evita.
+150|Abbinalo a una passeggiata sulla Costanera Norte. Arriva in taxi, app o autobus.
+151|Visitalo di giorno e arriva in taxi o con un'app; il quartiere non è adatto a camminare senza meta.
+152|Nel fine settimana il parco ha un mercatino dei libri e tanta vita di quartiere.
+153|Chiude lunedì e martedì. Piccolo e senza folla.
+154|A due passi da Caminito. Aperto da venerdì a domenica e nei festivi; verifica prima di andare.
+155|Di fronte, Plaza San Martín e i suoi palazzi meritano un giro. Attenzione alle tue cose vicino ai terminal.
+156|Buon posto per fare colazione prima di girare Palermo Hollywood.
+157|Si riempie nel fine settimana: meglio nei feriali o presto.
+158|I gusti cambiano spesso: chiedi quelli del giorno.
+159|Prenota. Convince anche chi mangia carne.
+160|Non accetta prenotazioni e ha pochi tavoli: vai presto.
+161|Ideale per gruppi dove ognuno vuole mangiare qualcosa di diverso.
+162|A poche cuadras dalla Chinatown: si abbinano bene.
+163|Buona idea per il tardo pomeriggio; ci va gente del quartiere.
+164|Prenota per il tramonto.
+165|Apre a seconda del meteo; prenota e conferma il giorno stesso.
+166|L'Open si gioca tra novembre e dicembre. Le tribune più alte sono le più economiche e si vede benissimo.
+167|Guarda il calendario delle riunioni: di solito ce ne sono varie a settimana. Il Gran Premio Nacional è a novembre.
+168|L'Argentina Open si gioca a febbraio. I biglietti dei primi giorni costano meno.
+169|Metro B fino a Dorrego o Malabia. I biglietti si comprano solo sul sito ufficiale.
+170|Guarda il programma: alterna partite e concerti.
+171|È più facile trovare biglietti qui che al Boca o al River. Vai e torna in taxi o con un'app.
+172|Per vedere calcio di quartiere con il tifo locale. Vai e torna in taxi o con un'app.
+173|Arriva con il treno Sarmiento (stazione Liniers) o in taxi.
+174|Vale la pena solo nei giorni di gara. È lontano, in una zona da raggiungere in auto, taxi o app.
+175|La mattina presto o al tramonto. Di notte, no.
+176|Puoi usare una Ecobici. La Riserva chiude il lunedì e nei giorni di pioggia.
+177|Si paga un ingresso basso. Molto usato dai ciclisti su strada.
+178|Si può giocare senza essere soci; prenota l'orario di partenza.
+179|Porta vestiti che possono bagnarsi, crema solare e repellente. Prenota con un'azienda autorizzata.
+180|Si arriva con il Tren de la Costa (stazione Barrancas). Meglio con vento e sole.
+181|Prenota in anticipo; l'alta stagione va da settembre ad aprile.
+182|Ha un'altra sede alla Recoleta (Av. Pueyrredón 1850). Prenota nel fine settimana.
+183|Buona tappa per portarti qualcosa per la giornata.
+184|Buon pranzo leggero a Palermo Hollywood.
+185|Ideale per provare i classici argentini senza carne.
+186|Chiude durante lo shabbat. Nello stesso centro commerciale c'è il Museo dei Bambini.
+187|Chiude il venerdì sera e il sabato. La zona di Once, meglio di giorno.
+188|Prenota. Il bancone è una buona opzione con meno attesa.
+189|A mezzogiorno con il sole, nel patio.
+190|Porzioni grandi: il ceviche e il lomo saltado bastano da condividere.
+191|Vai di giorno o in taxi: il quartiere non è adatto a camminare di notte.
+192|Solo su prenotazione, con molto anticipo.
+193|Prenota. Buona opzione se hai già mangiato molta carne.
+194|Ordina vari piattini da condividere. Prenota.
+195|Prenota per tempo.
+196|Ideale per pranzare dopo il Parque Lezama.
+197|A pranzo non accetta prenotazioni: vai presto.
+198|Apre pochi giorni: verifica prima di andare. Vai in taxi o con un'app.
+199|Siediti al bancone per vedere cucinare.
+200|Per quando ti viene fame a qualsiasi ora.
+201|Bisogna prenotare o fare la fila. È lontano: vai e torna in taxi o con un'app.
+202|Si mangia in piedi, con chimichurri fatto in casa.
+203|Solo di giorno e dal lunedì al venerdì.
+204|Le medialunas finiscono presto.
+205|Il classico è quello al dulce de leche ricoperto di cioccolato. Buon regalo da portare.
+206|Ideale per conoscere molte cantine in una sera.
+207|Chiedi: ti consigliano in base ai tuoi gusti.
+208|Prenota. L'ingresso da solo vale la visita.
+209|Buon punto di partenza per la notte variegata di Palermo.
+210|Si riempie dopo mezzanotte.
+211|Prenota. La cena al buio è la più richiesta.
+212|Ingresso libero. Il cambio della guardia dei Granatieri si può vedere più volte al giorno.
+213|Sali sul balcone per la foto della piazza.
+214|Accanto al cimitero: si visitano insieme. Molte attività nel fine settimana.
+215|Dentro c'è un museo curioso e gratuito, dal lunedì al venerdì.
+216|Si visita con percorsi guidati gratuiti con iscrizione.
+217|Apre nei giorni feriali; si paga un ingresso basso.
+218|Si visita in un'ora.
+219|Il giardino è un'oasi a pochi metri dalla 9 de Julio.
+220|Abbinala all'Abasto Shopping, a tre cuadras.
+221|C'è la fila per la foto: vai presto.
+222|Di giorno. Di fronte c'è la Chiesa Ortodossa Russa dalle cupole blu.
+223|Il Palacio Paz ha visite guidate a pagamento.
+224|Alcuni giorni ci sono visite guidate gratuite. Abbigliamento rispettoso.
+225|Porta un documento: c'è un controllo di sicurezza all'ingresso.
+226|Programma perfetto per un giorno di pioggia. Il centro commerciale è nel vecchio mercato dove crebbe Gardel.
+227|Molte si fanno in inglese e in spagnolo. Prenota.
+228|Si può fare da soli. Resta sul viale e vai di giorno.
+229|La metro B (stazione Carlos Gardel) ti lascia dentro. Attenzione alle tue cose nelle strade intorno.
+230|È lontano dal centro: conviene andare in auto, taxi o app. A poche cuadras c'è il Parque Sarmiento.
+231|È fuori città. In auto, taxi o app sono circa 30-40 minuti senza traffico.
+232|La metro D (stazione Bulnes) ti lascia alla porta.
+233|A poche cuadras dal MALBA: si abbinano bene.
+234|Sconti tutto l'anno. Metro D, stazione Palermo.
+235|Buona sosta per il bagno e un caffè durante la passeggiata alla Recoleta.
+236|Intorno ci sono i ristoranti e i bar di Las Cañitas.
+237|Utile per fare la spesa se alloggi a Palermo.
+238|Metro A, stazione Acoyte.
+239|Abbinalo a un pasto nella zona di Plaza Arenales.
+240|La zona della stazione è molto affollata: attenzione alle tue cose.
+241|Solo di giorno e con lo stretto necessario addosso. Ci sono molti borseggiatori.
+242|Di giorno e dal lunedì al sabato. Molti negozi vendono solo più capi alla volta.
+243|Metro D, stazione Juramento. A cinque cuadras dalla Chinatown.
+244|Per vedere un quartiere residenziale porteño con una vita propria.
+245|Sabato e domenica sono i giorni con più bancarelle.
+246|La domenica si riuniscono i collezionisti di francobolli e monete.
+247|Ideale per preparare un picnic o comprare prodotti argentini da portare a casa.
+248|Molto animato la sera, soprattutto da giovedì a sabato.
+249|Ci va gente del quartiere; quasi non ci sono turisti.
+250|Bella uscita per il pranzo della domenica.
+251|Il tagliere completo basta per più persone. Si riempie nel fine settimana.
+252|Ordina quello di tacchino, ovviamente.
+253|Di giorno. Abbinalo al Pasaje Lanín, e vai in taxi o con un'app.
+254|Il modo migliore per vedere cinema argentino sul grande schermo.
+255|Programma classico: film e pizza di fronte.
+256|Il mercoledì di solito c'è lo sconto.
+257|Biglietti accessibili e, a volte, visite guidate.
+258|Di fronte c'è il Teatro Ópera, un altro gigante del viale.
+259|Buenos Aires è una capitale mondiale del teatro indipendente: vale la pena provare.
+260|Arriva prima e bevi qualcosa al bar.
+261|Guarda il programma: molte attività sono gratuite.
+262|Prenota il biglietto online: è gratis, ma i posti sono limitati.
+263|Ideale per bambini dai 4 ai 12 anni.
+264|Solo in estate. Nei giorni feriali c'è meno gente.
+265|Apre a stagioni: verifica le date prima di andare.
+266|Si abbina a un giro in barca nel Delta.
+267|Programma di un giorno intero, insieme a La Plata.
+268|Buona idea per la pioggia per i gruppi. Si prenota online.
+269|Il Museo Luogo della Memoria ha visite guidate. Calcola mezza giornata.
+270|A pochi metri da Caminito. Sali sulla terrazza.
+271|Nel fine settimana, nel tardo pomeriggio, c'è una milonga gratuita nel gazebo.
+272|Bello al tramonto. Il Club de Pescadores, su un pontile, è la cartolina.
+273|Da abbinare al Parque Sarmiento o al DOT.
+274|Si paga un ingresso basso.
+275|Cammina in cerchio dalla piazza centrale e prova a tornare senza guardare la mappa.
+276|Si arriva con il treno Mitre, che fa già parte della gita.
+277|Bello per camminare o andare in bici nel fine settimana.
+278|È una casa privata: si guarda dal marciapiede. A due cuadras c'è Plaza Ciudad de Banff.
+279|Biglietti economici e facili da trovare.
+280|Il 7 agosto la fila è lunga molte cuadras.
+281|Apre la domenica, insieme alla Fiera di Mataderos.
+282|Di giorno e nel fine settimana, quando c'è più gente.
+283|Metro E, stazione Emilio Mitre.
+284|Metro H, stazione Parque Patricios. Di giorno.
+285|Solo con visita guidata, pochi giorni al mese. Vai e torna in taxi o con un'app: la zona non è adatta a camminare.
+286|Si visita accordandosi prima. Vai di giorno e in taxi o con un'app: non è una zona per camminare.
+287|Solo di giorno, in auto o taxi, e meglio in gruppo: la zona è complicata.
+288|Ricca di storia, ma è una piazza di quartiere: di giorno.
+289|Vicino alla zona dell'abbigliamento di avenida Avellaneda.
+290|Per chi conosce già i classici e vuole vedere un'altra Buenos Aires.
+291|Non è un'attrazione turistica: è vita di quartiere.
+292|A due cuadras da Plaza de Mayo. La Manzana de las Luces di solito ha visite guidate.
+293|Abbinala a Santo Domingo e San Ignacio: sono a poche cuadras.
+294|Su una delle torri si vedono ancora i segni dell'artiglieria del 1807.
+295|Il cortile del convento ha un ristorante tranquillo a pranzo.
+296|Apre poche ore: affacciati se passi dalla zona delle banche.
+297|Accanto c'è il Pasaje de la Piedad, uno dei più belli della città.
+298|Sei a Once: tieni bene il telefono.
+299|È a tre cuadras dal Congresso.
+300|È dietro l'angolo di Plaza San Martín e dell'edificio Kavanagh.
+301|Abbinala a una passeggiata di shopping su Santa Fe.
+302|La domenica si trova in mezzo al mercatino.
+303|Per entrare chiedono un abbigliamento sobrio. La foto migliore è dal parco.
+304|Si vede bene dal marciapiede; apre per funzioni ed eventi.
+305|Il complesso storico di solito offre visite guidate con i tunnel.
+306|Vai di giorno e arriva in taxi o autobus.
+307|Sali al livello superiore: l'interno dipinto sorprende.
+308|Intorno alla piazza ci sono buoni caffè.
+309|Apre soprattutto per le celebrazioni.
+310|Dopo prova la cucina armena dietro l'angolo.
+311|Nel fine settimana c'è un mercatino artigiano in piazza.
+312|Si può aggiungere alla visita della Chinatown.
+313|È una tappa centrale del Circuito Papale.
+314|Devoto si gode a piedi: ville, piazza e caffè.
+315|Guarda le vetrate con il sole del pomeriggio.
+316|Vai di giorno. Si abbina al Museo Manoblanca.
+317|Il 27 di ogni mese riceve molti fedeli.
+318|È piccolo: basta un'ora.
+319|Buona tappa al coperto nel Microcentro.
+320|L'ingresso è libero. Di solito chiude lunedì e martedì.
+321|Porta un documento per entrare.
+322|Un giorno a settimana l'ingresso è gratuito.
+323|Ci sta benissimo dopo una passeggiata nei Boschi.
+324|Si possono vedere i due musei nello stesso pomeriggio.
+325|È davanti alla piazza di Belgrano e a La Redonda.
+326|È una visita breve e tranquilla.
+327|Piccolo e poco conosciuto: lo visiterai quasi da solo.
+328|Puoi cercare i tuoi antenati nella banca dati degli arrivi.
+329|Interessante anche solo per l'edificio.
+330|Ai bambini piace tantissimo. È vicino al Puente de la Mujer.
+331|Si abbina alla Fragata Sarmiento.
+332|È a due passi dalla Riserva Ecologica.
+333|Si vede dalla Vuelta de Rocha. Vai di giorno.
+334|Apre alcuni giorni a settimana; verifica prima di andare.
+335|Circola nel fine settimana e nei festivi, ed è gratis.
+336|Il pontile è per i soci, ma la vista dalla Costanera è da cartolina.
+337|Ordina paella o puchero da condividere.
+338|Un piatto di solito basta per due.
+339|Ideale per un lungo pranzo invernale.
+340|Classico prima o dopo il teatro.
+341|Molto scelto per mangiare dopo il teatro.
+342|Si mangia in piedi al bancone, come vuole la tradizione.
+343|Pizza alla pietra, più sottile di quella delle vicine.
+344|Perfetto per un pomeriggio freddo.
+345|A una cuadra da Plaza de Mayo.
+346|Scendi a vedere i tavoli anche se non giochi.
+347|Un'opzione onesta in una zona cara.
+348|Prenota per la sera.
+349|È piccolo: conviene prenotare.
+350|Siediti fuori di domenica per vedere ballare il tango.
+351|Ordina un tagliere da condividere.
+352|Buona pausa dopo il Museo Storico Nazionale.
+353|Prova il panino con crudo e formaggio.
+354|Prenota nel fine settimana.
+355|Buono ed economico per continuare a camminare.
+356|Il patio è un'oasi nei giorni di mercatino.
+357|Pranzo ideale per la visita a La Boca. Solo di giorno.
+358|Vai e torna in taxi o con un'app.
+359|È cara. Chiedi un tavolo in terrazza.
+360|Vai affamato. C'è la fila nel fine settimana.
+361|L'agnello allo spiedo è la specialità.
+362|Si mangia in piedi, con moscato.
+363|Condividi: un piatto basta per due o tre.
+364|Tappa classica prima di un concerto in zona.
+365|Vai la sera a giocare a ping-pong con una birra.
+366|Nel fine settimana c'è attesa per il brunch.
+367|Tagliere e vermut al tramonto.
+368|Ordina pasta fatta in casa.
+369|Molto di quartiere: semplice ed economica.
+370|La domenica a pranzo si riempie di famiglie.
+371|La domenica abbinalo al mercatino dei libri del parco.
+372|Di solito c'è la fila. Alcune cose finiscono presto.
+373|Abbinalo alla Fiera di Mataderos della domenica.
+374|Ordina un tagliere con sidro alla spina.
+375|Si può andare solo per lo spettacolo, senza cena.
+376|Molto intimo: prenota.
+377|Di solito offrono il trasferimento dall'hotel.
+378|Prima dello spettacolo di solito c'è una lezione.
+379|A due passi dalla Casa Museo Carlos Gardel.
+380|Osserva i codici: si invita a ballare con lo sguardo.
+381|Funziona il sabato sera. Prenota un tavolo.
+382|I giorni cambiano: verifica prima di andare.
+383|Compra il biglietto prima; alcune date vanno esaurite.
+384|Puoi cenare durante lo spettacolo.
+385|Guarda il programma della settimana.
+386|Metro B fino a Federico Lacroze.
+387|Il lunedì suona La Bomba de Tiempo.
+388|Inizia tardi. Entra poca gente.
+389|Non ha insegna: suona il campanello.
+390|Siediti al bancone.
+391|Non servono birra: è un cocktail bar.
+392|Vai presto per sederti in giardino.
+393|Punto d'incontro di viaggiatori.
+394|Buona base per girare il centro storico a piedi.
+395|La terrazza guarda le cupole del viale.
+396|A due passi dalla metro e da calle Florida.
+397|Chiedi una camera con vista sulla 9 de Julio.
+398|Ben posizionato per andare a teatro a piedi.
+399|Vicino a Puerto Madero e al Palacio Libertad.
+400|Le camere ai piani alti hanno vista sul fiume.
+401|Pratico se arrivi o parti in treno o pullman.
+402|A due passi da Plaza San Martín.
+403|Buon punto per girare la Recoleta a piedi.
+404|Ha piscina e spa.
+405|Atmosfera tranquilla e classica.
+406|Le camere sono poche: prenota per tempo.
+407|Il bar della terrazza ha una vista a 360°.
+408|In piena Palermo Soho, ma silenzioso.
+409|Ha una piccola piscina sulla terrazza.
+410|Ben posizionato tra i parchi e Palermo Soho.
+411|Alcuni giorni ci sono spettacoli a prezzo popolare.
+412|Guarda il cartellone della settimana.
+413|Concerti e grandi musical.
+414|Buon posto per decidere all'ultimo momento cosa vedere.
+415|Biglietti più economici che nelle catene.
+416|La programmazione cambia ogni settimana.
+417|Molte attività sono gratuite.
+418|Si entra dal centro commerciale o da Viamonte.
+419|Gli spettacoli di solito sono di giorno nel fine settimana.
+420|Apre soprattutto nel fine settimana e nei festivi.
+421|Porta mate e crema solare: c'è poca ombra.
+422|La zona è complicata: vai con un tour o in taxi, mai a piedi.
+423|Una partita delle serie minori è calcio di quartiere allo stato puro.
+424|Se c'è partita, tutto il quartiere è in strada.
+425|Nel fine settimana si riempie. Dal lunedì al venerdì ci sono meno negozi aperti, ma si passeggia meglio.
+426|Arriva a piedi dal Paseo Victorica. Di solito chiude lunedì e martedì.
+427|Bello al tramonto. Finisce al Museo d'Arte.
+428|Ai bambini piacciono gli aerei del cortile.
+429|Chiedi alla Stazione fluviale quale percorso conviene e a che ora parte l'ultima barca di ritorno.
+430|È la cosa più semplice se hai poco tempo. Ci sono varie partenze al giorno.
+431|Scendi al pontile Tres Bocas, cammina e pranza sull'isola. Porta il repellente.
+432|Si arriva con il battello di linea. Verifica in che giorni apre.
+433|Prenota prima: quasi tutte includono il trasferimento in barca.
+434|Scendi a Barrancas (mercatino dell'antiquariato) o a San Isidro.
+435|Prendi il tè nella galleria che dà sul giardino.
+436|Porta il documento con cui sei entrato nel paese.
+437|Scegli una scuola autorizzata e prenota. Dipende dal meteo: lascia un giorno di margine.
+438|Si vola molto presto e solo con il bel tempo. Prenota con un'azienda autorizzata.
+439|Indica il tuo livello quando prenoti. Porta pantaloni lunghi e scarpe chiuse.
+440|La stagione va dalla primavera all'autunno.
+441|È caro e dura poco. Prenota con un'azienda autorizzata.
+442|Si abbina a un'estancia o a un lancio con il paracadute.
+443|Vai a pranzo di sabato o domenica. Nei giorni feriali c'è poco aperto.
+444|I ristoranti lavorano con un menù fisso di più portate. Prenota nel fine settimana.
+445|Abbinalo alla Basilica di Luján, che è vicina.
+446|Offrono una giornata in campagna con pranzo, cavalli e visita al castello.
+447|Molte escursioni includono il trasferimento dall'hotel.
+448|Abbinalo a un giro nel paese di Areco.
+449|L'ingresso è libero. Porta acqua, cappello e repellente.
+450|Si abbina alla passeggiata sul lungofiume di Vicente López.
+451|Chiedi un tavolo vicino alla finestra.
+452|È tra le più care della zona: guarda il menù prima.
+453|A pranzo di solito c'è il menù del giorno.
+454|Conviene se hai molta fame o sei in gruppo.
+455|Buona opzione per una cena formale.
+456|Il menù del pranzo ha un buon rapporto qualità-prezzo.
+457|Ordina il pescato del giorno.
+458|Una delle opzioni meno care della zona.
+459|Si riempie dopo l'ufficio.
+460|Lontano dal rumore delle darsene.
+461|Buona e senza prezzi da turisti.
+462|Abbinala al Museo Storico Nazionale.
+463|Un piatto di solito basta da condividere.
+464|Ha pochi tavoli: vai presto.
+465|Bello per fare colazione prima del mercatino.
+466|I tavoli sul marciapiede sono i più richiesti.
+467|Vale la visita per il posto.
+468|I pintxos si pagano a stecchino.
+469|È sulla via del mercatino della domenica.
+470|Veloce e gustoso per continuare a camminare.
+471|Chiedi quanto è piccante.
+472|Il patio è ideale di giorno o al tramonto.
+473|Ordina il tagliere degustazione.
+474|Prova il caffè della casa con medialunas.
+475|Tappa logica prima o dopo il Colón.
+476|In fondo ci sono i tavoli da gioco.
+477|Empanadas al volo, in piedi.
+478|Apre soprattutto dal lunedì al venerdì.
+479|Buon pranzo nei giorni feriali.
+480|La pasta è ciò che si ordina di più.
+481|L'asador in vetrina è la foto.
+482|Prova la griglia coreana al tavolo. La zona, meglio di giorno.
+483|Si riempie: vai presto.
+484|Classico per i turisti che alloggiano in centro.
+485|Ha pochi tavoli; conviene prenotare.
+486|Buono per andare in gruppo.
+487|Buona pausa nel mezzo dello shopping.
+488|Buono per la colazione.
+489|Zona con vari ristoranti uno accanto all'altro.
+490|Porzioni grandi: si può condividere.
+491|La domenica a pranzo di solito c'è l'asado.
+492|Per un pasto lungo e tranquillo.
+493|Di' quanto piccante vuoi.
+494|La sera di solito c'è attesa.
+495|È a due passi dal Cimitero della Recoleta.
+496|Il gelato si può mangiare seduti in sala.
+497|Chiedi di assaggiare prima di scegliere.
+498|Prenota e avvisa se non mangi qualcosa. Vai e torna in taxi o con un'app.
+499|Buon caffè per fare una pausa durante la visita. Solo di giorno.
+500|Apre a pranzo. Arriva e riparti in taxi o con un'app.
+501|Stufati e pesce da condividere.
+502|Prenota nel fine settimana.
+503|Si paga un prezzo fisso e ti servi quello che vuoi.
+504|Bello per leggere o lavorare un po'.
+505|Classico per il dopo teatro indipendente.
+506|Prenota: la gente del quartiere la riempie.
+507|Le porzioni sono enormi.
+508|Ideale per ordinare vari piattini.
+509|Ha tavoli sul marciapiede.
+510|Di solito non accetta prenotazioni: c'è attesa.
+511|Ordina un caffellatte e guarda il disegno.
+512|Prova pistacchio o nocciola.
+513|È a poche cuadras da Plaza Armenia.
+514|Si ordina al bancone.
+515|Ordina gli involtini da condividere.
+516|Le caraffe di margarita sono da condividere.
+517|Vendono anche pasta e sughi da portare via.
+518|Bel patio per pranzare.
+519|Prenota: ha pochi tavoli.
+520|Bella per un pranzo o una merenda in giardino.
+521|Non accetta prenotazioni; mettiti in lista quando arrivi.
+522|La notte inizia molto tardi: prima delle 2 c'è poca gente. Vai e torna in taxi o con un'app.
+523|Il martedì c'è una festa internazionale con tanti viaggiatori; il giovedì è un classico.
+524|Apre anche alcune domeniche. Vai e torna in taxi o con un'app.
+525|Solo maggiorenni; alcuni sabati chiedono un'età maggiore. Porta un documento.
+526|Le feste cambiano ogni settimana: guarda sui loro social quale c'è prima di andare.
+527|L'after office del mercoledì è il modo più tranquillo per conoscerlo.
+528|Solo maggiorenni; alcuni sabati chiedono un'età maggiore. Il venerdì di solito ci sono promozioni migliori sull'ingresso.
+529|Solo maggiorenni. Vai e torna in taxi o con un'app: la Costanera non è adatta a camminare di notte.
+530|Di notte, arriva e riparti in taxi o con un'app.
+531|Il giovedì c'è una peña folcloristica.
+532|È lontano dal centro: vai e torna in taxi o con un'app. Controlla sui social in quali sere apre.
