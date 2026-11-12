@@ -115,3 +115,5 @@ Vive en la carpeta `guia-buenos-aires/` del repositorio público `ronkstudio/men
 - Nada de claves ni contraseñas en los archivos. `config.js` va vacío.
 
 - **Se actualiza sola (#71):** al abrir o volver a la guía busca si hay versión nueva y, si la hay, recarga una vez. Ya no hace falta cerrarla y abrirla.
+
+- **Check-in del vuelo (#73):** pestaña "✈️ Tu vuelo" en Info útil y botón en el inicio. Hay un botón por aerolínea, un buscador para las demás y consejos. El check-in en sí se hace en la web de cada aerolínea: la guía no puede hacerlo.
