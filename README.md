@@ -30,7 +30,7 @@ Qué está hecho, qué se probó y qué falta: [app/ESTADO.md](app/ESTADO.md).
 
 ## Lo que falta decidir
 
-- **Qué idiomas van primero** (tarjeta #11). Hoy está solo en español.
+- **Qué idiomas siguen** (tarjeta #11). Hoy están completos español, inglés y portugués; francés, italiano, alemán, chino y japonés tienen solo el menú.
 - **Zonas turísticas y mínimos por tipo de local** (tarjeta #45), y cómo se verifica cada local antes de cargarlo.
 - **Cartel de "versión de prueba"** en la copia publicada: sí o no. Hoy no lo tiene.
 - **Cuentas de usuario:** están preparadas pero apagadas. Ver [app/CUENTAS.md](app/CUENTAS.md).
