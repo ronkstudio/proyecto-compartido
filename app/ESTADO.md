@@ -88,7 +88,7 @@ Estas pruebas las hizo el Claude de `ronkstudio` antes de que se sacara el mapa 
 - **No está todo lo que se puede hacer en la ciudad.** Son 534 lugares. Bautista pidió (11/11) llegar a 5 por categoría en cada barrio, sin inventar: hoy solo Centro, Palermo, Recoleta y San Telmo se acercan. En los barrios residenciales no hay 5 hoteles ni 5 excursiones reales, así que esa meta ahí no se va a cumplir. La tarjeta #45 propone un mínimo de locales por tipo en cada zona turística.
 - **Idiomas a medias.** Inglés, portugués, francés e italiano están completos; alemán, chino y japonés siguen con solo el menú. Ninguna traducción la revisó una persona que hable el idioma.
 - **Sin horarios reales ni puntajes de reseñas.** Harían falta servicios pagos.
-- **Pocas fotos** de restaurantes, bares, shoppings y hoteles.
+- **Fotos de restaurantes, bares y hoteles:** 50 de 297 tienen foto (antes 15). Se buscaron todas en Wikimedia Commons; los demás no tienen fotos libres ahí. Para sumar más haría falta pedirles fotos a los locales o sacarlas.
 - **La copia publicada no se actualiza sola.** Hay que volver a subirla después de cada cambio (ver "Publicar").
 - **Unas 45 ubicaciones son aproximadas.** Están marcadas con "aprox." en `data/caba-coords.js` y `data/caba-zones.js`.
 - En "Mi viaje" el orden se cambia con flechas, no arrastrando.
@@ -130,3 +130,4 @@ Vive en la carpeta `guia-buenos-aires/` del repositorio público `ronkstudio/men
 - **Lista para sumar ciudades (#87):** lo propio de Buenos Aires que estaba escrito en el código (aeropuertos, apps de viaje, chips, SUBE, aerolíneas del check-in, frases, moneda, centro y límites del mapa, agendas de Hoy) pasó a `data/caba-local.js`. Cómo sumar una ciudad: `NUEVA-CIUDAD.md`. El selector de ciudades se arma cuando empiece la expansión.
 - **Más opciones para dietas (#89):** 2 lugares sin TACC (TACCOFF, Dulce Seminare), 5 kosher (Agus Kitchen, Forno Fettuccine, Yum, L'harmonie, Bambina Pizza) y un filtro Halal con Al Rawshe, que las reseñas describen como halal (sin certificado confirmado: la ficha lo aclara).
 - **Lugares verificados (#91):** se cruzaron los 553 lugares con OpenStreetMap; los 18 que no coincidían y los 11 locales que estaban marcados como dudosos se confirmaron en la web. Osaka se mudó (ahora Concepción Arenal 2913, Colegiales) y BNN pasó a llamarse "BNN Costanera" (lo de "ex Banana" no se pudo confirmar).
+- **Más fotos (#93):** 35 restaurantes, bares, salas y hoteles más tienen foto (de 15 a 50), todas de Wikimedia Commons con licencia libre revisada, una por lugar.
