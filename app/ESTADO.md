@@ -119,3 +119,5 @@ Vive en la carpeta `guia-buenos-aires/` del repositorio público `ronkstudio/men
 - **Check-in del vuelo (#73):** pestaña "✈️ Tu vuelo" en Info útil y botón en el inicio. Hay un botón por aerolínea, un buscador para las demás y consejos. El check-in en sí se hace en la web de cada aerolínea: la guía no puede hacerlo.
 
 - **Botón de check-in (#75):** en "Tu vuelo", un botón grande "Hacé tu check-in" abre un buscador de aerolíneas. Cada una lleva directo a su pantalla de check-in (21 direcciones revisadas el 12/11/2026). Si la aerolínea no está, la busca en internet.
+
+- **Revisión general y diseño nuevo (#77):** se recorrieron todas las pantallas en español e inglés sin errores. Diseño más cálido y aventurero: colores de atardecer (terracota, verde bosque, crema), títulos con letra Fraunces y líneas de mapa topográfico en la portada. Nueva pestaña "🛬 Recién llegado" con las primeras horas paso a paso, y "Frases para defenderte" en Práctica. "Hoy" muestra 3 por franja y el resto en "Ver más".
