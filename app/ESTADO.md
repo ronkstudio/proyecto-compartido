@@ -113,3 +113,5 @@ Vive en la carpeta `guia-buenos-aires/` del repositorio público `ronkstudio/men
 - Si sumás un premio o un dato oficial, anotá de dónde salió.
 - Lo de salud (sin TACC, kosher, alergias) solo con una fuente, y siempre con el aviso de confirmar en el local.
 - Nada de claves ni contraseñas en los archivos. `config.js` va vacío.
+
+- **Se actualiza sola (#71):** al abrir o volver a la guía busca si hay versión nueva y, si la hay, recarga una vez. Ya no hace falta cerrarla y abrirla.
