@@ -527,8 +527,11 @@
     return '<div class="chips">' + subs.map(s => '<button class="chip sm' + (f.sub === s ? " on" : "") + '" data-sub="' + esc(s) + '">' + esc(s) + "</button>").join("") + "</div>";
   };
   const toolChips = () => {
+    /* Solo los barrios más visitados (data/caba-mas.js, tarjeta #56). Si no hay lista, van todos menos "Fuera de CABA". */
+    const visitados = city.filterBarrios;
     const barrios = [];
-    places.forEach(p => { if (barrios.indexOf(p.barrio) === -1) barrios.push(p.barrio); });
+    places.forEach(p => { if (p.inCity && p.barrio !== "Varios" && (!visitados || visitados.indexOf(p.barrio) > -1) && barrios.indexOf(p.barrio) === -1) barrios.push(p.barrio); });
+    if (f.barrio && barrios.indexOf(f.barrio) === -1) barrios.push(f.barrio);   // si llegó filtrado desde otra pantalla, no se pierde
     barrios.sort((a, b) => a.localeCompare(b, "es"));
     const sorts = [["rec", "Recomendados primero"], ["cerca", "Más cerca mío"], ["barato", "Más económicos"], ["caro", "Más exclusivos"], ["az", "A–Z"]];
     return '<select class="chip sel" id="f-sort" aria-label="Ordenar">' + sorts.map(o => '<option value="' + o[0] + '"' + (f.sort === o[0] ? " selected" : "") + ">" + o[1] + "</option>").join("") + "</select>" +

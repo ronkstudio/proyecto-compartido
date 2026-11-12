@@ -57,7 +57,7 @@ window.CITY_EXTRA.caba = {
     "sintaxis": ["sin TACC"], "la-union-gluten-free": ["sin TACC"],
     "mcdonald-s-kosher-del-abasto": ["kosher"], "al-galope": ["kosher"],
     "narda-comedor": ["vegetariano"], "gran-dabbang": ["vegetariano"], "sarkis": ["vegetariano"], "proper": ["vegetariano"], "la-alacena-trattoria": ["vegetariano"],
-    "mercat-villa-crespo": ["vegetariano"], "mercado-de-belgrano": ["vegetariano"], "mercado-de-los-carruajes": ["vegetariano"],
+    "mercat-villa-crespo": ["vegetariano"], "mercado-de-belgrano": ["vegetariano"],
     "siamo-nel-forno": ["vegetariano"], "pizzeria-guerrin": ["vegetariano"], "el-cuartito": ["vegetariano"], "las-cuartetas": ["vegetariano"], "la-mezzetta": ["vegetariano"], "banchero": ["vegetariano"]
   },
   dietFull: ["sacro", "donnet", "la-reverde-parrillita-vegana", "sintaxis", "la-union-gluten-free", "mcdonald-s-kosher-del-abasto", "al-galope"],
