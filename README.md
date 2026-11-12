@@ -20,6 +20,7 @@ Qué está hecho, qué se probó y qué falta: [app/ESTADO.md](app/ESTADO.md).
 | Ciudad de arranque | Ciudad de Buenos Aires | El prototipo ya está armado así. Tarjeta #6 |
 | De dónde sale la información | Textos propios y revisados, más datos oficiales fijos. Sin datos en vivo de la Ciudad, salvo la agenda de eventos del día: se baja una vez por día de la agenda oficial (Bautista, 12/11) | [docs/fuentes-de-informacion.md](docs/fuentes-de-informacion.md), tarjetas #7 y #65 |
 | Cómo se descarga | Comparación de tiendas, costos y requisitos | [docs/publicar-en-las-tiendas.md](docs/publicar-en-las-tiendas.md), tarjeta #8 |
+| Publicación | Publicada en https://ronkstudio.github.io/menu-3d-publico/guia-buenos-aires/, en una carpeta aparte del repositorio público del menú 3D | Bautista, 12/11. Tarjeta #57 |
 | Mapa de seguridad en colores | Se sacó. Quedan los consejos escritos | Pedido #44 |
 | Qué entra en la app | De todo. Con un mínimo de locales por tipo en cada zona turística (por ejemplo, 5 de pastas y 5 o 6 parrillas) | `ezebesserr`, 11/11. Coincide con lo que pidió Bautista. Tarjeta #45 |
 | Cómo se ve | Intuitiva, simple, linda, limpia y poco cargada, aunque tenga mucho contenido | `ezebesserr`, 11/11 |
@@ -29,9 +30,9 @@ Qué está hecho, qué se probó y qué falta: [app/ESTADO.md](app/ESTADO.md).
 
 ## Lo que falta decidir
 
-- **Qué idiomas van primero** (tarjeta #11). Hoy está solo en español.
+- **Qué idiomas siguen** (tarjeta #11). Hoy están completos español, inglés y portugués; francés, italiano, alemán, chino y japonés tienen solo el menú.
 - **Zonas turísticas y mínimos por tipo de local** (tarjeta #45), y cómo se verifica cada local antes de cargarlo.
-- **Publicarla** con un link para compartir, y si va con cartel de "versión de prueba".
+- **Cartel de "versión de prueba"** en la copia publicada: sí o no. Hoy no lo tiene.
 - **Cuentas de usuario:** están preparadas pero apagadas. Ver [app/CUENTAS.md](app/CUENTAS.md).
 - **Filtros sin TACC y kosher:** si se muestran antes de confirmar los lugares uno por uno.
 - **El nombre de la app.**

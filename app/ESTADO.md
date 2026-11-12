@@ -2,7 +2,7 @@
 
 Para los dos Claude: acá está escrito qué se hizo, qué se probó y qué falta. **Actualizalo cada vez que cambies algo de `app/`.**
 
-Última actualización: 12 de noviembre de 2026, Claude de `ronkstudio` (tarjeta #59).
+Última actualización: 12 de noviembre de 2026, Claude de `ronkstudio` (tarjeta #57).
 
 Todo lo que se describe acá está en `main`.
 
@@ -19,10 +19,10 @@ Las decisiones del proyecto y las que faltan están en el `README.md` de la carp
 
 ## Para decidir entre Bautista y Besser
 
-1. **¿Se publica?** Bautista pidió un link para compartir. Claude no pudo publicarlo solo. El Claude de `ezebesserr` propuso hacerlo con un cartel visible de "versión de prueba, datos sin verificar".
+1. **¿La copia publicada lleva cartel de "versión de prueba, datos sin verificar"?** Ya está publicada (ver "Publicar") y hoy no lo tiene. Lo propuso el Claude de `ezebesserr`.
 2. **¿Se encienden las cuentas?** Hay que resolver lo de la clave pública (ver `CUENTAS.md`).
 3. **¿Se muestran los filtros sin TACC y kosher** antes de confirmar los lugares uno por uno?
-4. **¿Qué idiomas van primero?** (tarjeta #11). Hoy está solo en español.
+4. **¿Qué idiomas siguen?** (tarjeta #11). Hoy están completos español, inglés y portugués; los otros cinco tienen solo el menú.
 
 ## Qué está hecho
 
@@ -88,15 +88,21 @@ Estas pruebas las hizo el Claude de `ronkstudio` antes de que se sacara el mapa 
 - **Idiomas a medias.** Inglés, portugués, francés e italiano están completos; alemán, chino y japonés siguen con solo el menú. Ninguna traducción la revisó una persona que hable el idioma.
 - **Sin horarios reales ni puntajes de reseñas.** Harían falta servicios pagos.
 - **Pocas fotos** de restaurantes, bares, shoppings y hoteles.
-- **No está publicado** en internet: se abre solo en la compu.
+- **La copia publicada no se actualiza sola.** Hay que volver a subirla después de cada cambio (ver "Publicar").
 - **Unas 45 ubicaciones son aproximadas.** Están marcadas con "aprox." en `data/caba-coords.js` y `data/caba-zones.js`.
 - En "Mi viaje" el orden se cambia con flechas, no arrastrando.
 
 ## Publicar
 
-Como este repositorio es privado, la forma más simple es publicar una copia de la carpeta `app/` (sin `ESTADO.md`, `LEEME.md`, `CUENTAS.md` ni `servir.ps1`) en un repositorio público aparte, con GitHub Pages. Con una dirección `https` también funcionan la instalación en el celular y el uso sin internet.
+**Está publicada** desde el 12/11 en https://ronkstudio.github.io/menu-3d-publico/guia-buenos-aires/ (lo decidió Bautista). Sin cartel de "versión de prueba" y con las cuentas apagadas.
 
-Publicar lo decide una persona.
+Vive en la carpeta `guia-buenos-aires/` del repositorio público `ronkstudio/menu-3d-publico`, separada del menú 3D. Es una copia de `app/` sin `ESTADO.md`, `LEEME.md`, `CUENTAS.md`, `servir.ps1` ni la carpeta `i18n/fuentes/` (textos de trabajo de la traducción; la app no los usa).
+
+**No se actualiza sola.** Después de sumar cambios a `main` hay que copiar otra vez `app/` a esa carpeta y subirla. Subir a ese repositorio es publicar: lo decide una persona.
+
+Última copia subida: `main` del 12/11, después del pedido #68 (545 lugares, 4 idiomas completos, boliches y sección "Hoy"; `guia-v15`). La agenda `data/hoy.json` del repositorio público la actualiza sola el paso diario: al publicar, no pisarla. Para saber si la copia está al día, comparar la versión `guia-v…` de `sw.js` publicado con la de `main`.
+
+**Ojo:** la copia publicada hoy todavía tiene `i18n/fuentes/`. No tiene nada delicado, pero sobra: sacarla en la próxima subida.
 
 ## Reglas para tocar esta carpeta
 
