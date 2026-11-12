@@ -188,3 +188,61 @@
 188|Perché ti parlino più lentamente
 189|In caso di emergenza
 190|Per ringraziare
+191|Arriva al tuo alloggio senza giri
+192|SIM prepagata o eSIM
+193|Cambio, bancomat e come pagare
+194|Tessera SUBE e come muoverti
+195|Tocca un numero per chiamare
+196|Idee per iniziare
+197|Dove alloggi?
+198|Indirizzo o nome dell'hotel
+199|Da Ezeiza
+200|Da Aeroparque
+201|Fino al tuo alloggio
+202|Fino al centro (Obelisco)
+203|Chiama un Uber
+204|Con il tuo alloggio già inserito
+205|Bus per il centro
+206|Tienda León, da Ezeiza
+207|Taxi e auto con autista: prenotali ai banchi ufficiali dentro l'aeroporto.
+208|Non accettare offerte da persone che ti avvicinano nell'atrio.
+209|Ezeiza è lontano dal centro: mettiti in conto un bel tragitto.
+210|SIM prepagata
+211|Senza SIM fisica
+212|Negozi vicini
+213|Per comprare una SIM potrebbero chiederti il passaporto.
+214|Se il tuo telefono supporta l'eSIM, puoi attivarla prima di partire.
+215|Molti bar e caffè hanno il Wi-Fi gratis: chiedi la password.
+216|Bancomat vicini
+217|Uffici di cambio
+218|Ufficiali, sulla mappa
+219|Altro sui pagamenti
+220|Carte, mance e coperto
+221|Pagare con una carta straniera di solito conviene.
+222|Tieni un po' di contanti in banconote piccole per mance e chioschi.
+223|Non cambiare soldi con persone per strada.
+224|Dove comprarla e ricaricarla
+225|Mappa ufficiale dei punti SUBE
+226|App SUBE
+227|Controlla il saldo
+228|Linee della metropolitana
+229|Percorsi e consigli
+230|Es.: Teatro Colón, Caminito…
+231|La SUBE si compra nei chioschi, nelle stazioni della metro e nei punti SUBE.
+232|In metropolitana e su molti autobus puoi anche pagare con la tua carta contactless.
+233|Torna al mio alloggio
+234|Farmacie vicine
+235|Turismo, ospedali, consolati
+236|Fai uno screenshot di questa schermata nel caso restassi senza batteria o internet.
+237|Scegli cosa ti piace
+238|Da non perdere
+239|Cosa c'è oggi
+240|Eventi e mercatini del giorno
+241|Vedi la mappa
+242|Luoghi vicino a te
+243|Le tue prime ore a Buenos Aires
+244|Apri ogni passo e segnalo quando è fatto.
+245|Passi fatti
+246|Tutto pronto! Goditi Buenos Aires.
+247|Segna come da fare
+248|Fatto, passo successivo

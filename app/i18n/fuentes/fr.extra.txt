@@ -188,3 +188,61 @@
 188|Pour qu'on vous parle plus lentement
 189|En cas d'urgence
 190|Pour remercier
+191|Rejoignez votre logement sans détour
+192|Carte SIM prépayée ou eSIM
+193|Change, distributeurs et comment payer
+194|Carte SUBE et comment se déplacer
+195|Touchez un numéro pour appeler
+196|Des idées pour commencer
+197|Où logez-vous ?
+198|Adresse ou nom de l'hôtel
+199|Depuis Ezeiza
+200|Depuis Aeroparque
+201|Jusqu'à votre logement
+202|Jusqu'au centre (Obelisco)
+203|Commander un Uber
+204|Avec votre logement déjà indiqué
+205|Bus pour le centre
+206|Tienda León, depuis Ezeiza
+207|Taxis et voitures avec chauffeur : réservez-les aux comptoirs officiels à l'intérieur de l'aéroport.
+208|N'acceptez pas les offres de personnes qui vous abordent dans le hall.
+209|Ezeiza est loin du centre : prévoyez un long trajet.
+210|Carte SIM prépayée
+211|Sans carte SIM physique
+212|Boutiques à proximité
+213|Pour acheter une carte SIM, on peut vous demander votre passeport.
+214|Si votre téléphone accepte l'eSIM, vous pouvez l'activer avant de partir.
+215|Beaucoup de bars et cafés ont le Wi-Fi gratuit : demandez le mot de passe.
+216|Distributeurs à proximité
+217|Bureaux de change
+218|Officiels, sur la carte
+219|Plus sur les paiements
+220|Cartes, pourboire et couvert
+221|Payer avec une carte étrangère est en général avantageux.
+222|Gardez un peu d'espèces en petites coupures pour les pourboires et les kiosques.
+223|N'échangez pas d'argent avec des gens dans la rue.
+224|Où l'acheter et la recharger
+225|Carte officielle des points SUBE
+226|Appli SUBE
+227|Consultez votre solde
+228|Lignes de métro
+229|Trajets et conseils
+230|Ex. : Teatro Colón, Caminito…
+231|La SUBE s'achète dans les kiosques, les stations de métro et les points SUBE.
+232|Dans le métro et beaucoup de bus, vous pouvez aussi payer avec votre carte sans contact.
+233|Retour à mon logement
+234|Pharmacies à proximité
+235|Tourisme, hôpitaux, consulats
+236|Faites une capture de cet écran au cas où vous n'auriez plus de batterie ou d'internet.
+237|Choisissez ce que vous aimez
+238|L'incontournable
+239|Ce qu'il y a aujourd'hui
+240|Événements et marchés du jour
+241|Voir la carte
+242|Lieux près de vous
+243|Vos premières heures à Buenos Aires
+244|Ouvrez chaque étape et cochez-la quand c'est fait.
+245|Étapes faites
+246|Tout est prêt ! Profitez de Buenos Aires.
+247|Marquer comme à faire
+248|Fait, étape suivante
