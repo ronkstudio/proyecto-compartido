@@ -118,3 +118,13 @@ Zona de Capilla del Señor y Luján
 Zonas de Areco, Lobos y Cañuelas
 Tigre y Nordelta
 Salidas desde la zona norte
+Para arrancar la mañana
+Para almorzar ahora
+Para esta tarde
+Para esta noche
+Para arrancar la mañana cerca tuyo
+Para almorzar ahora cerca tuyo
+Para esta tarde cerca tuyo
+Para esta noche cerca tuyo
+Trasnoche porteña cerca tuyo
+Hay lluvia: priorizamos planes bajo techo.

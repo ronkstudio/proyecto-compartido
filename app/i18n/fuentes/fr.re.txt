@@ -1,0 +1,43 @@
+max $1° / min $2°
+$1 lieux
+1 lieu
+$1 lieux sur la carte
+$1 sans emplacement fixe
+$1 visites par jour
+Pourboire $1 %
+$1 sur $2
+Voir $1 lieux
+Jour $1
+1 étoile
+$1 étoiles
+À $1 km
+C'est prêt : $1 lieux en 1 jour
+C'est prêt : $1 lieux en $2 jours
+pluie $1 %
+Plus qu'1 jour avant votre voyage.
+Plus que $1 jours avant votre voyage.
+1 $1 ≈ $2 pesos
+taux officiel de référence du $1. Le montant facturé peut varier selon votre mode de paiement.
+Enregistrer $1 dans Mon voyage
+Retirer $1
+Jour pour $1
+Programmé pour le jour $1
+$1 lieux enregistrés dans Mon voyage
+Vider Mon voyage ? Les $1 lieux enregistrés seront retirés.
+Ferme généralement le {1}
+Fonctionne seulement le {1}
+Seulement le {1}
+Pas aujourd'hui ({1}) : seulement le {2}.
+à $1 $2
+(environ $1)
+Nouveau tampon : {1}
+Mon voyage à $1
+Voir $1
+Vous avez $1 tampons sur $2. Continuez !
+$1 h $2 min en train
+$1 min en train
+À $1 h $2 min en ferry
+$1 h $2 min en ferry direct
+$1 heures en bateau depuis Tigre
+$1 h $2 min en bateau depuis Tigre
+$1 min en bateau
