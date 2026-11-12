@@ -482,7 +482,7 @@ window.CITY_DATA.caba = {
       desc: "Una rareza mundial: un McDonald's kosher fuera de Israel, en el patio de comidas del Abasto.", tip: "Cierra durante el shabat. En el mismo shopping está el Museo de los Niños.", tags: ["kosher", "al paso", "curiosidad"] },
     { cat: "comer", sub: "Kosher", name: "Al Galope", barrio: "Centro", address: "Tucumán 2633", price: 2,
       desc: "Parrilla kosher tradicional del barrio de Once: carnes a las brasas y platos judíos.", tip: "Cierra viernes a la noche y sábados. La zona de Once, mejor de día.", tags: ["kosher", "carne", "parrilla"] },
-    { cat: "comer", sub: "Cocinas del mundo", name: "Fukuro Noodle Bar", barrio: "Palermo", address: "Costa Rica 5514", price: 2,
+    { cat: "comer", sub: "Cocinas del mundo", name: "Fukuro Noodle Bar", barrio: "Palermo", address: "Ángel J. Carranza 1940", price: 2,
       desc: "El bar de ramen que puso de moda los fideos japoneses en la ciudad, con barra y música fuerte.", tip: "No toma reservas: andá temprano.", tags: ["japonés", "ramen", "moderno"] },
     { cat: "comer", sub: "Cocinas del mundo", name: "Osaka", barrio: "Palermo", address: "Soler 5608", price: 4,
       desc: "Cocina nikkei, la fusión peruano-japonesa, en su versión más elegante: tiraditos, sushi y pescados.", tip: "Reservá. La barra es una buena opción sin tanta espera.", tags: ["nikkei", "pescado", "reserva", "elegante"] },
@@ -518,8 +518,6 @@ window.CITY_DATA.caba = {
       desc: "Una barra en forma de U donde los sándwiches llegan deslizándose por el mostrador. Postal del Microcentro.", tip: "Solo de día y de lunes a viernes.", tags: ["sándwich", "al paso", "clásico", "económico"] },
     { cat: "comer", sub: "Café de especialidad", name: "Salvaje Bakery", barrio: "Palermo", address: "Av. Dorrego 1829", price: 2,
       desc: "Panadería de masa madre con medialunas, sándwiches y café, en un galpón.", tip: "Las medialunas se acaban temprano.", tags: ["café", "desayuno", "panadería"] },
-    { cat: "comer", sub: "Mercado gastronómico", name: "Mercado de los Carruajes", barrio: "Retiro", address: "Av. Leandro N. Alem 852", price: 2,
-      desc: "Las antiguas caballerizas presidenciales convertidas en mercado gastronómico, con puestos de todo tipo.", tip: "Buen almuerzo cerca de Plaza San Martín.", tags: ["compartir", "lluvia", "variado", "arquitectura"] },
     { cat: "comer", sub: "Dulces", name: "Havanna", barrio: "Varios", address: "Locales en toda la ciudad", price: 1,
       desc: "La marca de alfajores más conocida del país. Sus cafés son una parada segura para probarlos.", tip: "El clásico es el de dulce de leche con chocolate. Buen regalo para llevar.", tags: ["alfajores", "dulce de leche", "regalos", "café"] },
 

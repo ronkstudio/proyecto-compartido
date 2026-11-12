@@ -192,7 +192,7 @@ window.CITY_COORDS.caba = {
   "la-reverde-parrillita-vegana": [-34.60822, -58.3893],
   "mcdonald-s-kosher-del-abasto": [-34.60295, -58.41069],
   "al-galope": [-34.60185, -58.404],
-  "fukuro-noodle-bar": [-34.58332, -58.43399],
+  "fukuro-noodle-bar": [-34.58075, -58.43641],
   "osaka": [-34.58082, -58.43281],
   "la-mar-cebicheria": [-34.57827, -58.43757],
   "chan-chan": [-34.61001, -58.38589],
@@ -210,7 +210,6 @@ window.CITY_COORDS.caba = {
   "nuestra-parrilla": [-34.61907, -58.37291],
   "cafe-paulin": [-34.60453, -58.3756],
   "salvaje-bakery": [-34.5822, -58.4412], // aprox.
-  "mercado-de-los-carruajes": [-34.59793, -58.37199],
 
   /* Más noche (tarjeta #32) */
   "vico-wine-bar": [-34.5926, -58.43415],
