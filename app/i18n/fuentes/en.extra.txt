@@ -246,3 +246,21 @@
 246|All set! Enjoy Buenos Aires.
 247|Mark as pending
 248|Done, next step
+249|Welcome to Buenos Aires!
+250|Before you head out, take 5 minutes to read Info. It has what will save you trouble.
+251|How to leave the airport and get to your accommodation
+252|How to pay and where to exchange money
+253|The SUBE card and how to get around
+254|The most common scams and how to avoid them
+255|Emergency numbers, tap to call
+256|Go to Info
+257|Not now
+258|You can always find it in the Info button below.
+259|In many venues
+260|Find more plans
+261|This week's highlights. 📅 Official City calendar. 🖼️ Exhibitions and series. Check their page before you go.
+262|Nothing listed for today yet. Check these calendars.
+263|City calendar
+264|Time Out: what to do this week
+265|Alternativa Teatral: theatre listings
+266|Resident Advisor: electronic music parties
