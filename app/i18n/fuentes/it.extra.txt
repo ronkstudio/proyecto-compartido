@@ -246,3 +246,21 @@
 246|Tutto pronto! Goditi Buenos Aires.
 247|Segna come da fare
 248|Fatto, passo successivo
+249|Benvenuto a Buenos Aires!
+250|Prima di uscire a esplorare, prenditi 5 minuti per leggere Info. Lì c'è ciò che ti evita problemi.
+251|Come uscire dall'aeroporto e arrivare al tuo alloggio
+252|Come pagare e dove cambiare soldi
+253|La tessera SUBE e come muoverti
+254|Le truffe più comuni e come evitarle
+255|Numeri di emergenza, tocca per chiamare
+256|Vai a Info
+257|Non ora
+258|Lo trovi sempre nel pulsante Info in basso.
+259|In molti luoghi
+260|Cerca altri programmi
+261|In evidenza questa settimana. 📅 Agenda ufficiale della Città. 🖼️ Mostre e rassegne. Controlla sulla loro pagina prima di andare.
+262|Per ora non c'è nulla per oggi. Guarda queste agende.
+263|Agenda della Città
+264|Time Out: cosa fare questa settimana
+265|Alternativa Teatral: programma teatrale
+266|Resident Advisor: feste di musica elettronica
