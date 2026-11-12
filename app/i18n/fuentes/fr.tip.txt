@@ -530,3 +530,10 @@
 530|La nuit, arrivez et repartez en taxi ou VTC.
 531|Le jeudi, il y a une peña folklorique.
 532|C'est loin du centre : allez-y et repartez en taxi ou VTC. Vérifiez sur ses réseaux les soirs d'ouverture.
+533|Selon leur site, tout ce qu'ils font est sans gluten. Vérifiez quand même sur place.
+534|Idéal pour emporter du pain et des viennoiseries sans gluten. Vérifiez sur place.
+535|Kasher certifié, selon Time Out. Fermé pendant le shabbat : vérifiez les jours avant d'y aller.
+536|Fermé pendant le shabbat : vérifiez les jours avant d'y aller.
+537|C'est près de l'Abasto. Fermé pendant le shabbat.
+538|Agréable pour un petit-déjeuner ou un goûter. Fermé pendant le shabbat.
+539|Nous n'avons pas trouvé de certificat halal : si vous en avez besoin, demandez sur place. Souvent, espèces uniquement.

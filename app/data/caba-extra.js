@@ -56,11 +56,15 @@ window.CITY_EXTRA.caba = {
     "buenos-aires-verde": ["vegano", "vegetariano", "sin TACC"],
     "sintaxis": ["sin TACC"], "la-union-gluten-free": ["sin TACC"],
     "mcdonald-s-kosher-del-abasto": ["kosher"], "al-galope": ["kosher"],
+    "taccoff": ["sin TACC"], "dulce-seminare-gf": ["sin TACC"],
+    "agus-kitchen": ["kosher"], "forno-fettuccine": ["kosher"], "yum": ["kosher"], "l-harmonie": ["kosher"], "bambina-pizza": ["kosher"],
+    "al-rawshe": ["halal"],   // en reseñas figura como halal; sin certificado confirmado, por eso no va en dietFull
     "narda-comedor": ["vegetariano"], "gran-dabbang": ["vegetariano"], "sarkis": ["vegetariano"], "proper": ["vegetariano"], "la-alacena-trattoria": ["vegetariano"],
     "mercat-villa-crespo": ["vegetariano"], "mercado-de-belgrano": ["vegetariano"],
     "siamo-nel-forno": ["vegetariano"], "pizzeria-guerrin": ["vegetariano"], "el-cuartito": ["vegetariano"], "las-cuartetas": ["vegetariano"], "la-mezzetta": ["vegetariano"], "banchero": ["vegetariano"]
   },
-  dietFull: ["sacro", "donnet", "la-reverde-parrillita-vegana", "sintaxis", "la-union-gluten-free", "mcdonald-s-kosher-del-abasto", "al-galope"],
+  dietFull: ["sacro", "donnet", "la-reverde-parrillita-vegana", "sintaxis", "la-union-gluten-free", "mcdonald-s-kosher-del-abasto", "al-galope",
+    "taccoff", "dulce-seminare-gf", "agus-kitchen", "forno-fettuccine", "yum", "l-harmonie", "bambina-pizza"],
 
   /* Reconocimientos verificables. Michelin y 50 Best Bars: ediciones 2026. */
   awards: {

@@ -543,3 +543,11 @@
 543|Una discoteca classica in un edificio di mattoni e ferro a San Telmo, famosa per l'after office.
 544|Discoteca della Recoleta con spirito da peña: folclore, cumbia e musica da ballare in gruppo.
 545|Grande discoteca nella zona ovest della Grande Buenos Aires, su avenida Rivadavia.
+546|Ristorante e panetteria 100% senza glutine a Palermo Hollywood: piatti, pane e dolci.
+547|Panetteria e pasticceria senza glutine, segnalata come 100% senza glutine su CeliMap.
+548|Cucina kosher d'autore in una villa: tecnica curata e piatti da condividere.
+549|Pasta e cucina casalinga kosher, nella stessa villa di Agus Kitchen.
+550|Un angolo moderno con cucina kosher certificata (Ajdut Kosher, Chalav Israel e Bishul Israel), secondo Time Out.
+551|Caffè e pasticceria kosher con diverse sedi; quella su Libertador è di fronte ai parchi di Palermo.
+552|Pizzeria kosher alla moda, calda e di quartiere, a Palermo.
+553|Cucina libanese casalinga: shawarma, falafel e kebab. Nelle recensioni dei viaggiatori è indicato come uno dei pochi locali halal della città.

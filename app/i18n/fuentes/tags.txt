@@ -224,3 +224,5 @@ bodegón
 hamburguesa
 americano
 costillas
+halal
+árabe
