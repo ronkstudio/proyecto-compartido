@@ -83,15 +83,19 @@ Estas pruebas las hizo el Claude de `ronkstudio` antes de que se sacara el mapa 
 - **Casi todo en español.** Solo el menú y el pie están en 8 idiomas (tarjeta #39).
 - **Sin horarios reales ni puntajes de reseñas.** Harían falta servicios pagos.
 - **Pocas fotos** de restaurantes, bares, shoppings y hoteles.
-- **No está publicado** en internet: se abre solo en la compu.
+- **La copia publicada no se actualiza sola.** Hay que volver a subirla después de cada cambio (ver "Publicar").
 - **Unas 45 ubicaciones son aproximadas.** Están marcadas con "aprox." en `data/caba-coords.js` y `data/caba-zones.js`.
 - En "Mi viaje" no se puede cambiar el orden a mano, solo por cercanía.
 
 ## Publicar
 
-Como este repositorio es privado, la forma más simple es publicar una copia de la carpeta `app/` (sin `ESTADO.md`, `LEEME.md`, `CUENTAS.md` ni `servir.ps1`) en un repositorio público aparte, con GitHub Pages. Con una dirección `https` también funcionan la instalación en el celular y el uso sin internet.
+**Está publicada** desde el 12/11 en https://ronkstudio.github.io/menu-3d-publico/guia-buenos-aires/ (lo decidió Bautista). Sin cartel de "versión de prueba" y con las cuentas apagadas.
 
-Publicar lo decide una persona.
+Vive en la carpeta `guia-buenos-aires/` del repositorio público `ronkstudio/menu-3d-publico`, separada del menú 3D. Es una copia de `app/` sin `ESTADO.md`, `LEEME.md`, `CUENTAS.md` ni `servir.ps1`.
+
+**No se actualiza sola.** Después de sumar cambios a `main` hay que copiar otra vez `app/` a esa carpeta y subirla. Subir a ese repositorio es publicar: lo decide una persona.
+
+Última copia subida: `main` del 12/11, con el pedido #55 (534 lugares).
 
 ## Reglas para tocar esta carpeta
 
