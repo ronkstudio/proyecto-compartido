@@ -14,4 +14,4 @@ Para armar un diccionario (Windows):
 
 El armado avisa si una lista traducida no tiene la misma cantidad de líneas que la lista en español.
 
-Estado: inglés y portugués completos. Francés, italiano, alemán, chino y japonés: solo el menú.
+Estado: inglés, portugués, francés e italiano completos. Alemán, chino y japonés: solo el menú.
