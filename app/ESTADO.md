@@ -100,7 +100,7 @@ Vive en la carpeta `guia-buenos-aires/` del repositorio público `ronkstudio/men
 
 **No se actualiza sola.** Después de sumar cambios a `main` hay que copiar otra vez `app/` a esa carpeta y subirla. Subir a ese repositorio es publicar: lo decide una persona.
 
-Última copia subida: `main` del 12/11, con el pedido #60 (534 lugares, traductor, inglés y portugués completos; `guia-v12`). Para saber si está al día, comparar la versión `guia-v…` de `sw.js` publicado con la de `main`.
+Última copia subida: `main` del 12/11, después del pedido #68 (545 lugares, 4 idiomas completos, boliches y sección "Hoy"; `guia-v15`). La agenda `data/hoy.json` del repositorio público la actualiza sola el paso diario: al publicar, no pisarla. Para saber si la copia está al día, comparar la versión `guia-v…` de `sw.js` publicado con la de `main`.
 
 **Ojo:** la copia publicada hoy todavía tiene `i18n/fuentes/`. No tiene nada delicado, pero sobra: sacarla en la próxima subida.
 
