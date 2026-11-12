@@ -1117,6 +1117,20 @@
   };
   window.addEventListener("hashchange", sync);
 
+  /* Eventos del día de la agenda oficial de la Ciudad (tarjeta #65). Un paso automático los baja una vez por día a data/hoy.json.
+     Si el archivo no está, no carga o es viejo (más de 3 días), la sección "Hoy" sigue solo con la agenda fija. */
+  const loadHoy = () => {
+    if (location.protocol === "file:" || !window.fetch) return;
+    fetch("data/hoy.json", { cache: "no-cache" }).then(r => (r.ok ? r.json() : null)).then(d => {
+      if (!d || !Array.isArray(d.eventos)) return;
+      const edad = Date.now() - new Date(d.actualizado).getTime();
+      if (!(edad < 3 * 86400e3)) return;
+      liveHoy = d.eventos.filter(e => e && e.t && e.ini && /^https:\/\//.test(e.url || ""));
+      if (route().name === "inicio" && sheetId === null) rerender();
+    }).catch(() => { /* sin conexión: queda la agenda fija */ });
+  };
+  loadHoy();
+
   /* Copiar al portapapeles con aviso. Si el navegador no deja (sin permiso, o abierto como archivo), lo dice (tarjeta #52). */
   const copyText = (text, okMsg) => {
     const fail = () => toast("No se pudo copiar: este navegador no lo permite");

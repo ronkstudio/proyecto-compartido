@@ -18,7 +18,7 @@ Qué está hecho, qué se probó y qué falta: [app/ESTADO.md](app/ESTADO.md).
 |---|---|---|
 | Base de la app | El prototipo de `app/` es la base | Pedido #29 |
 | Ciudad de arranque | Ciudad de Buenos Aires | El prototipo ya está armado así. Tarjeta #6 |
-| De dónde sale la información | Textos propios y revisados, más datos oficiales fijos. Sin datos en vivo de la Ciudad | [docs/fuentes-de-informacion.md](docs/fuentes-de-informacion.md), tarjeta #7 |
+| De dónde sale la información | Textos propios y revisados, más datos oficiales fijos. Sin datos en vivo de la Ciudad, salvo la agenda de eventos del día: se baja una vez por día de la agenda oficial (Bautista, 12/11) | [docs/fuentes-de-informacion.md](docs/fuentes-de-informacion.md), tarjetas #7 y #65 |
 | Cómo se descarga | Comparación de tiendas, costos y requisitos | [docs/publicar-en-las-tiendas.md](docs/publicar-en-las-tiendas.md), tarjeta #8 |
 | Mapa de seguridad en colores | Se sacó. Quedan los consejos escritos | Pedido #44 |
 | Qué entra en la app | De todo. Con un mínimo de locales por tipo en cada zona turística (por ejemplo, 5 de pastas y 5 o 6 parrillas) | `ezebesserr`, 11/11. Coincide con lo que pidió Bautista. Tarjeta #45 |
