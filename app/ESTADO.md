@@ -2,7 +2,7 @@
 
 Para los dos Claude: acá está escrito qué se hizo, qué se probó y qué falta. **Actualizalo cada vez que cambies algo de `app/`.**
 
-Última actualización: 11 de noviembre de 2026, Claude de `ronkstudio` (tarjeta #54).
+Última actualización: 12 de noviembre de 2026, Claude de `ronkstudio` (tarjeta #59).
 
 Todo lo que se describe acá está en `main`.
 
@@ -30,6 +30,8 @@ Las decisiones del proyecto y las que faltan están en el `README.md` de la carp
 - **Comer con una condición:** filtros por vegetariano, vegano, sin TACC y kosher. La ficha avisa siempre que hay que confirmar en el local. Los lugares "100 %" están en `dietFull` de `data/caba-extra.js`.
 - **Tanda nueva de lugares (tarjeta #54):** 162 lugares en `data/caba-mas.js`: 26 iglesias y templos, 19 museos y paseos, 40 lugares para comer, 19 de noche, 17 hoteles, 11 de entretenimiento, 3 estadios y 27 excursiones (Tigre y el Delta abiertos en 12, paracaidismo, globo, cabalgatas, estancias y pueblos de campo). Las ubicaciones salen de buscar cada dirección en OpenStreetMap; 16 están puestas a mano ("aprox."). Unos 70 figuran en OpenStreetMap con ese mismo nombre; del resto solo se confirmó que la dirección existe. Falta confirmar uno por uno que sigan abiertos.
 - **Verificación y zonas más visitadas (tarjeta #56):** se cruzaron los lugares de la ciudad con el registro de OpenStreetMap (nombre, ubicación y tipo de local). 296 de 401 coincidieron; de los restaurantes, bares y hoteles que no aparecían se buscaron 14 en la web. Resultado: se sacó el Mercado de los Carruajes (cerró) y se corrigió la dirección de Fukuro (se mudó). Se sumaron 76 lugares para comer y salir en Puerto Madero, San Telmo, Centro, Retiro, Recoleta, La Boca, Almagro, Villa Crespo y Palermo, todos tomados de OpenStreetMap. El filtro de barrios ahora muestra solo los 12 más visitados (lista `filterBarrios` en `data/caba-mas.js`) y ya no ofrece "Fuera de CABA"; los demás lugares siguen en el buscador y en el mapa.
+- **Traductor de toda la app (tarjeta #59):** `i18n/traductor.js` cambia cada texto que aparece en pantalla por el del idioma elegido, usando un diccionario por idioma (`i18n/dict/`). Inglés y portugués completos (unos 2.100 textos cada uno, con las descripciones y consejos de los 534 lugares). Nombres de lugares, calles y barrios quedan en español a propósito. Para sumar un idioma se traducen las listas de `i18n/fuentes/` (ahí está explicado).
+- **Armá tu viaje rediseñado (tarjeta #59):** cinco pasos numerados, botones grandes y una barra fija con el resumen. En Mi viaje, las acciones quedaron ordenadas y cada lugar se puede subir o bajar con flechas.
 - **Barrios:** 46 de los 48 tienen al menos un lugar. Faltan Vélez Sarsfield y Villa Lugano: no encontramos nada que valga la pena sin inventar.
 - **Shoppings:** Abasto, DOT, Unicenter, Alto Palermo, Alcorta, Distrito Arcos y seis más.
 - **Ficha de lugar:** foto, consejo, precio, subte más cercano, cómo llegar, opiniones en Google Maps, Uber, disponibilidad en Booking para hoteles, qué hay cerca, y "Marcar que fui".
@@ -80,12 +82,12 @@ Estas pruebas las hizo el Claude de `ronkstudio` antes de que se sacara el mapa 
 - **Sin TACC y kosher son temas de salud y de fe.** Solo hay 3 lugares sin TACC y 2 kosher, los que una búsqueda describió como dedicados. Hay que confirmarlos. No hay opciones halal ni sin lactosa.
 - **Las plazas de barrio** (etiqueta "vida de barrio") tienen descripciones genéricas. Se sumaron para que cada barrio tenga algo, con nombre y ubicación reales, pero sin conocer cada una.
 - **No está todo lo que se puede hacer en la ciudad.** Son 534 lugares. Bautista pidió (11/11) llegar a 5 por categoría en cada barrio, sin inventar: hoy solo Centro, Palermo, Recoleta y San Telmo se acercan. En los barrios residenciales no hay 5 hoteles ni 5 excursiones reales, así que esa meta ahí no se va a cumplir. La tarjeta #45 propone un mínimo de locales por tipo en cada zona turística.
-- **Casi todo en español.** Solo el menú y el pie están en 8 idiomas (tarjeta #39).
+- **Idiomas a medias.** Inglés y portugués están completos; francés, italiano, alemán, chino y japonés siguen con solo el menú. Ninguna traducción la revisó una persona que hable el idioma.
 - **Sin horarios reales ni puntajes de reseñas.** Harían falta servicios pagos.
 - **Pocas fotos** de restaurantes, bares, shoppings y hoteles.
 - **La copia publicada no se actualiza sola.** Hay que volver a subirla después de cada cambio (ver "Publicar").
 - **Unas 45 ubicaciones son aproximadas.** Están marcadas con "aprox." en `data/caba-coords.js` y `data/caba-zones.js`.
-- En "Mi viaje" no se puede cambiar el orden a mano, solo por cercanía.
+- En "Mi viaje" el orden se cambia con flechas, no arrastrando.
 
 ## Publicar
 
