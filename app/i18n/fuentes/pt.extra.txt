@@ -142,15 +142,16 @@
 142|Peña folclórica das quintas
 143|Noite de festa das quintas
 144|Seu voo
-145|Check-in do voo
-146|Sua companhia aérea em um toque
-147|O check-in é feito no site ou app da sua companhia aérea. Toque na sua e procure "Check-in". Você vai precisar do código da reserva e do sobrenome.
-148|Sua companhia não está aqui?
-149|Nome da companhia aérea
-150|Buscar check-in
+145|Faça seu check-in
+146|Escolha sua companhia e pronto
+147|Abre a tela de check-in da sua companhia aérea. Tenha à mão o código da reserva e o sobrenome.
+148|Escolha ou busque sua companhia aérea
+149|Ex.: Aerolíneas, LATAM, Iberia…
+150|Buscar na internet
 151|Dicas para o voo
 152|Quando fazer
 153|Costuma abrir um ou dois dias antes do voo. Faça assim que abrir: você escolhe um assento melhor.
 154|Cartão de embarque
 155|Salve no celular ou tire um print, caso fique sem internet no aeroporto.
 156|Ezeiza recebe quase todos os voos internacionais; Aeroparque, os domésticos e alguns para países vizinhos. Confira qual é o seu.
+157|Check-in
