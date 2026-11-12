@@ -519,6 +519,7 @@
     };
     return '<section class="section" id="hoy">' + head("Hoy en Buenos Aires") +
       (items.length ? grp("De día", items.filter(i => i.franja === "dia")) + grp("A la noche", items.filter(i => i.franja === "noche")) : '<p class="hint">Por ahora no hay nada cargado para hoy. Mirá estas agendas.</p>') +
+      (() => { const m = cityNow().getMonth() + 1, ev = (X.events || []).filter(e => e.m.indexOf(m) > -1); return ev.length ? '<a class="hoy-mes" href="#/info/calendario"><em aria-hidden="true">🗓️</em><span><small>Este mes</small>' + ev.map(e => "<b>" + esc(e.name) + "</b>").join("") + '</span><i aria-hidden="true">→</i></a>' : ""; })() +
       (items.some(i => i.ev || i.dest) ? '<p class="hint hoy-nota">⭐ Destacados de la semana. 📅 Agenda oficial de la Ciudad. 🖼️ Muestras y ciclos. Confirmá en su página antes de ir.</p>' : "") +
       '<details class="hoy-mas hoy-agendas"><summary>Buscar más planes</summary><div class="acts">' +
       MAS_AGENDAS.map(a => '<a class="act" href="' + a[2] + '" target="_blank" rel="noopener"><em aria-hidden="true">' + a[0] + "</em><span><b>" + a[1] + "</b></span></a>").join("") +
@@ -530,7 +531,6 @@
     const t = cityNow(), dow = t.getDay(), month = t.getMonth() + 1;
     const now = nowPicks();
     const tops = places.filter(p => p.cat === "ver" && p.q === 3);
-    const events = (X.events || []).filter(e => e.m.indexOf(month) > -1);
     return '<section class="hero"><small>' + esc(city.country) + " · " + DOW[dow] + " " + t.getDate() + " de " + MONTHS[t.getMonth()] + "</small><h1>" + esc(city.name) + "</h1>" +
         '<p class="wx" id="wx"' + (wxFresh() ? "" : " hidden") + ">" + weatherHtml() + "</p>" +
         '<form class="search" id="home-search" role="search"><input type="search" name="q" placeholder="¿Qué buscás? Parrilla, tango, museo, Palermo…" aria-label="Buscar en la guía" autocomplete="off"><button>Buscar</button></form>' +
@@ -544,6 +544,8 @@
           '<button data-go="' + attr({ q: "tango" }) + '">Tango</button>' +
           '<button data-go="' + attr({ cat: "noche", sub: "Para bailar" }) + '">Boliches</button>' +
         "</div></section>" +
+      /* "Armá tu viaje" es lo más útil de la guía: si todavía no armaste nada, va arriba de todo (pedido de Bautista, 12/11/2026). */
+      (plan.length ? "" : '<section class="section armar-top"><a class="cta" href="#/armar"><span><b>✨ Armá tu viaje en 10 segundos</b><span>Decinos cuántos días venís y qué te gusta: te dejamos el recorrido listo, día por día.</span></span><i aria-hidden="true">→</i></a></section>') +
 
       (() => {   // hoy en tu viaje: lo agendado para hoy, o cuántos días faltan (tarjeta #37)
         const td = tripToday();
@@ -563,7 +565,7 @@
         linkCard("#/barrios", "#5b6b7c", "🏘️", "Barrios", "Qué tiene cada zona") +
       "</div></section>" +
 
-      '<section class="section"><a class="cta" href="#/armar"><span><b>✨ Armá tu viaje en 10 segundos</b><span>Decinos cuántos días venís y qué te gusta: te dejamos el recorrido listo, día por día.</span></span><i aria-hidden="true">→</i></a>' +
+      '<section class="section">' + (plan.length ? '<a class="cta" href="#/armar"><span><b>✨ Armá tu viaje en 10 segundos</b><span>Decinos cuántos días venís y qué te gusta: te dejamos el recorrido listo, día por día.</span></span><i aria-hidden="true">→</i></a>' : "") +
       '<a class="cta pass" href="#/pasaporte"><span><b>🛂 Pasaporte porteño</b><span>' + (earnedStamps().length ? "Tenés " + earnedStamps().length + " de " + (X.stamps || []).length + " sellos. ¡Seguí sumando!" : "Marcá los lugares que conocés y ganá sellos: parrillero, tanguero, explorador de barrios…") + '</span></span><i aria-hidden="true">→</i></a></section>' +
 
       '<section class="section">' + head("No te lo podés perder", '<button class="link" data-go="' + attr({ cat: "ver" }) + '">Ver todo</button>') + '<div class="rail">' + tops.map(tile).join("") + "</div></section>" +
@@ -580,8 +582,6 @@
         city.itineraries.map(i => '<a class="itin" href="#/itinerario/' + i.id + '"><em aria-hidden="true">' + i.icon + "</em><b>" + esc(i.name) + "</b><span>" + esc(i.desc) + "</span></a>").join("") +
       "</div></section>" +
 
-      (events.length ? '<section class="section">' + head("Este mes en " + esc(city.name), '<a class="link" href="#/info/calendario">Todo el año</a>') + '<div class="events">' +
-        events.map(e => '<div class="event"><em aria-hidden="true">' + e.icon + "</em><span><b>" + esc(e.name) + "</b><span>" + esc(e.desc) + "</span></span></div>").join("") + "</div></section>" : "") +
 
       '<section class="section">' + head("¿Cuánto es en mi moneda?") + convHtml() + "</section>" +
 
