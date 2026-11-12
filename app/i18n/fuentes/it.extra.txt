@@ -131,3 +131,13 @@
 131|Per ballare
 132|Discoteche
 133|Aperto oggi
+134|Oggi a Buenos Aires
+135|Di giorno
+136|Stasera
+137|Vedi altro
+138|Gli eventi con 📅 sono dell'agenda ufficiale della Città. Controlla sulla loro pagina prima di andare.
+139|Lo spettacolo di percussioni del lunedì
+140|La festa internazionale del martedì
+141|L'after office del mercoledì
+142|La peña folcloristica del giovedì
+143|La serata di festa del giovedì

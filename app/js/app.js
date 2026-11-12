@@ -446,11 +446,70 @@
     return { title: title + (userLL ? " cerca tuyo" : ""), sub: rain ? "Hay lluvia: priorizamos planes bajo techo." : "", items: items.slice(0, 10) };
   };
 
+  /* ── Hoy en Buenos Aires (tarjetas #64 y #65): solo lo que pasa hoy. Lo que ya pasó desaparece solo y al otro día aparece lo nuevo. ── */
+  let liveHoy = null;   // eventos de la agenda oficial de la Ciudad (data/hoy.json), si se pudieron cargar
+  const ymd = d => d.getFullYear() + "-" + (d.getMonth() + 1) + "-" + d.getDate();
+  const hoyItems = () => {
+    const now = cityNow(), h = now.getHours();
+    const base = new Date(now);
+    if (h < 6) base.setDate(base.getDate() - 1);   // de madrugada sigue siendo "la noche de ayer"
+    const dow = base.getDay(), showDia = h >= 6 && h < 20;
+    const out = [], seen = {};
+    const add = it => { if (it.franja === "dia" && !showDia) return; out.push(it); };
+    (X.agenda || []).forEach(a => {
+      const p = byId[a.lugar];
+      if (!p || a.dias.indexOf(dow) < 0) return;
+      seen[p.id] = 1;
+      add({ franja: a.franja, p, que: a.que });
+    });
+    places.forEach(p => {
+      const o = X.only && X.only[p.id];
+      if (!o || seen[p.id] || o.indexOf(dow) < 0) return;
+      add({ franja: p.cat === "noche" ? "noche" : "dia", p });
+    });
+    (liveHoy || []).forEach(e => {
+      const ini = new Date(e.ini);
+      if (isNaN(ini) || Date.now() > ini.getTime() + 2 * 3600e3) return;   // ya pasó
+      let local;
+      try { local = new Date(ini.toLocaleString("en-US", { timeZone: X.tz || "America/Argentina/Buenos_Aires" })); } catch (err) { local = ini; }
+      const lb = new Date(local);
+      if (local.getHours() < 6) lb.setDate(lb.getDate() - 1);
+      if (ymd(lb) !== ymd(base)) return;
+      const lh = local.getHours();
+      add({ franja: lh >= 19 || lh < 6 ? "noche" : "dia", ev: e, hora: lh + ":" + String(local.getMinutes()).padStart(2, "0"), orden: local.getTime() });
+    });
+    return out;
+  };
+  const hoyRow = it => {
+    if (it.p) {
+      const p = it.p;
+      return '<button class="event hoy-it" data-open="' + p.id + '"><em aria-hidden="true">' + iconOf(p) + "</em><span><b>" + esc(it.que || p.name) + "</b><span>" +
+        (it.que ? '<i data-notr>' + esc(p.name) + "</i> · " + esc(p.barrio) : esc(p.sub) + " · " + esc(p.barrio)) + "</span></span></button>";
+    }
+    const e = it.ev;
+    return '<a class="event hoy-it" href="' + esc(e.url) + '" target="_blank" rel="noopener"><em aria-hidden="true">📅</em><span><b data-notr>' + esc(e.t) + "</b><span>" +
+      esc(it.hora) + (e.lugar ? ' · <i data-notr>' + esc(e.lugar) + "</i>" : "") + (e.barrio ? " · " + esc(e.barrio) : "") + (e.gratis ? " · Gratis" : "") + "</span></span></a>";
+  };
+  const hoyHtml = () => {
+    const items = hoyItems();
+    if (!items.length) return "";
+    const grp = (title, arr) => {
+      if (!arr.length) return "";
+      arr.sort((a, b) => (a.ev ? 1 : 0) - (b.ev ? 1 : 0) || (a.orden || 0) - (b.orden || 0));
+      const first = arr.slice(0, 8), rest = arr.slice(8);
+      return '<h3 class="hoy-h">' + title + '</h3><div class="events">' + first.map(hoyRow).join("") + "</div>" +
+        (rest.length ? '<details class="hoy-mas"><summary>Ver más</summary><div class="events">' + rest.map(hoyRow).join("") + "</div></details>" : "");
+    };
+    return '<section class="section" id="hoy">' + head("Hoy en Buenos Aires") +
+      grp("De día", items.filter(i => i.franja === "dia")) + grp("A la noche", items.filter(i => i.franja === "noche")) +
+      (items.some(i => i.ev) ? '<p class="hint hoy-nota">Los eventos con 📅 son de la agenda oficial de la Ciudad. Confirmá en su página antes de ir.</p>' : "") +
+      "</section>";
+  };
+
   /* ── Vistas ── */
   const viewHome = () => {
     const t = cityNow(), dow = t.getDay(), month = t.getMonth() + 1;
     const now = nowPicks();
-    const special = places.filter(p => X.only && X.only[p.id] && X.only[p.id].indexOf(dow) > -1);
     const tops = places.filter(p => p.cat === "ver" && p.q === 3);
     const events = (X.events || []).filter(e => e.m.indexOf(month) > -1);
     return '<section class="hero"><small>' + esc(city.country) + " · " + DOW[dow] + " " + t.getDate() + " de " + MONTHS[t.getMonth()] + "</small><h1>" + esc(city.name) + "</h1>" +
@@ -475,7 +534,7 @@
         if (!mineToday.length) return "";
         return '<section class="section" style="margin-top:18px">' + head("Hoy en tu viaje · Día " + td, '<a class="link" href="#/viaje">Ver todo</a>') + '<div class="rail">' + mineToday.map(tile).join("") + "</div></section>";
       })() +
-      (special.length ? '<div class="today"><b>Hoy es ' + DOW[dow] + ":</b> " + special.map(p => '<button class="link" data-open="' + p.id + '">' + esc(p.name) + "</button>").join(" · ") + "</div>" : "") +
+      hoyHtml() +
 
       (now.items.length ? '<section class="section">' + head(now.title, '<button class="link" data-near>📍 Más cerca</button>') + (now.sub ? '<p class="hint">' + now.sub + "</p>" : "") + '<div class="rail">' + now.items.map(tile).join("") + "</div></section>" : "") +
 
