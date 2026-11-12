@@ -532,3 +532,14 @@
 532|Un petit bistrot où la carte change tous les jours et s'écrit sur des ardoises.
 533|Une demeure de 1927 avec restaurant, bar, librairie et jardin.
 534|Grill à l'américaine : travers de porc et grandes portions.
+535|Le club de musique électronique le plus connu de la ville, ouvert depuis 2005 et habitué des classements des meilleurs clubs du monde.
+536|Petite boîte très porteña à Palermo Hollywood, avec une musique qui varie selon les soirs.
+537|La boîte LGBT+ la plus célèbre de la ville : trois étages et des pistes aux musiques différentes.
+538|Boîte face au fleuve sur la Costanera Norte, avec électro, reggaeton et soirées années 80, 90 et 2000.
+539|Le plus grand espace de la Costanera : d'immenses soirées électro et des nuits reggaeton. C'est là qu'a lieu la fête Bresh.
+540|Terrasses en plein air au bord du fleuve, avec afterwork en milieu de semaine et soirées le week-end.
+541|L'une des boîtes les plus fréquentées de la Costanera, avec une grande piste, du reggaeton et du cachengue.
+542|Boîte de musique électronique dans le complexe Costa Salguero, au bord du fleuve.
+543|Une boîte classique dans un bâtiment de brique et de fer à San Telmo, célèbre pour son afterwork.
+544|Boîte de Recoleta à l'esprit de peña : folklore, cumbia et musique pour danser en groupe.
+545|Grande boîte dans l'ouest du Grand Buenos Aires, sur l'avenue Rivadavia.

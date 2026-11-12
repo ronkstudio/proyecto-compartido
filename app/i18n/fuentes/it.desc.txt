@@ -532,3 +532,14 @@
 532|Un piccolo bistrot dove il menù cambia ogni giorno e si scrive sulle lavagne.
 533|Una villa del 1927 con ristorante, bar, libreria e giardino.
 534|Griglia in stile americano: costine di maiale e porzioni grandi.
+535|Il club di musica elettronica più conosciuto della città, aperto dal 2005 e presenza fissa nelle classifiche dei migliori club del mondo.
+536|Discoteca piccola e molto porteña a Palermo Hollywood, con musica diversa a seconda della serata.
+537|La discoteca LGBT+ più famosa della città: tre piani e piste con musica diversa.
+538|Discoteca sul fiume nella Costanera Norte, con elettronica, reggaeton e serate anni Ottanta, Novanta e Duemila.
+539|Lo spazio più grande della Costanera: enormi feste elettroniche e serate reggaeton. Qui si tiene la festa Bresh.
+540|Terrazze all'aperto sul fiume, con aperitivo after office a metà settimana e feste nel fine settimana.
+541|Una delle discoteche più frequentate della Costanera, con una pista grande, reggaeton e cachengue.
+542|Discoteca di musica elettronica nel complesso Costa Salguero, sul fiume.
+543|Una discoteca classica in un edificio di mattoni e ferro a San Telmo, famosa per l'after office.
+544|Discoteca della Recoleta con spirito da peña: folclore, cumbia e musica da ballare in gruppo.
+545|Grande discoteca nella zona ovest della Grande Buenos Aires, su avenida Rivadavia.

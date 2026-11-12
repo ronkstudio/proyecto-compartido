@@ -385,7 +385,7 @@
   /* ── Piezas de interfaz ── */
   const priceHtml = p => p.price === 0 ? '<span class="free">Gratis</span>' : p.price ? '<span class="price" title="' + PRICE_WORD[p.price] + '">' + "$$$$".slice(0, p.price) + "</span>" : "";
   /* Ícono según el tipo de lugar, para que una pizzería sin foto no muestre el de la parrilla (tarjeta #52). */
-  const SUB_ICON = { "Pizzería": "🍕", "Café notable": "☕", "Café de especialidad": "☕", "Heladería": "🍦", "Dulces": "🧁", "Vegetariano": "🥗", "Sin TACC": "🌾", "Kosher": "✡️",
+  const SUB_ICON = { "Para bailar": "🪩", "Pizzería": "🍕", "Café notable": "☕", "Café de especialidad": "☕", "Heladería": "🍦", "Dulces": "🧁", "Vegetariano": "🥗", "Sin TACC": "🌾", "Kosher": "✡️",
     "Cocinas del mundo": "🍜", "Mercado gastronómico": "🧺", "Polo gastronómico": "🧺", "Al paso": "🥪", "Bar": "🍸", "Cervecería": "🍺", "Bar de vinos": "🍷", "Teatro": "🎭",
     "Cine": "🎬", "Museo": "🖼️", "Naturaleza": "🌳", "Shopping": "🏬", "Feria": "🧺", "Hostel": "🎒", "Fútbol": "⚽", "Polo": "🏇", "Turf": "🏇", "Tenis": "🎾", "Golf": "⛳", "Náutico": "⛵" };
   const iconOf = p => SUB_ICON[p.sub] || cats[p.cat].icon;
@@ -464,6 +464,7 @@
           '<button data-go="' + attr({ q: "lluvia" }) + '">Bajo techo</button>' +
           '<button data-go="' + attr({ q: "chicos" }) + '">Con chicos</button>' +
           '<button data-go="' + attr({ q: "tango" }) + '">Tango</button>' +
+          '<button data-go="' + attr({ cat: "noche", sub: "Para bailar" }) + '">Boliches</button>' +
         "</div></section>" +
 
       (() => {   // hoy en tu viaje: lo agendado para hoy, o cuántos días faltan (tarjeta #37)

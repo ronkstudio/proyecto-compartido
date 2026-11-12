@@ -532,3 +532,14 @@
 532|A small bistro where the menu changes every day and is written on blackboards.
 533|A 1927 mansion with a restaurant, bar, bookshop and garden.
 534|An American-style grill: pork ribs and large portions.
+535|The city's best-known electronic music club, open since 2005 and a regular on lists of the world's best clubs.
+536|A small, very local club in Palermo Hollywood, with music that changes from night to night.
+537|The city's most famous LGBT+ club: three floors and dance floors with different music.
+538|A riverside club on Costanera Norte, with electronic music, reggaeton and 80s, 90s and 2000s nights.
+539|The biggest venue on the Costanera: huge electronic parties and reggaeton nights. The Bresh party is held here.
+540|Open-air terraces by the river, with midweek after-office nights and weekend parties.
+541|One of the busiest clubs on the Costanera, with a big dance floor, reggaeton and cachengue.
+542|An electronic music club in the Costa Salguero complex, by the river.
+543|A classic club in a brick-and-iron building in San Telmo, famous for its after-office nights.
+544|A Recoleta club with the spirit of a peña: folk music, cumbia and songs to dance to in a group.
+545|A big club in the western suburbs of Greater Buenos Aires, on Avenida Rivadavia.
