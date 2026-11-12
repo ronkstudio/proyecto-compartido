@@ -532,3 +532,14 @@
 532|Um bistrô pequeno onde o cardápio muda todos os dias e é escrito em lousas.
 533|Um casarão de 1927 com restaurante, bar, livraria e jardim.
 534|Parrilla de estilo americano: costelas de porco e porções grandes.
+535|O clube de música eletrônica mais conhecido da cidade, aberto desde 2005 e presença frequente nas listas dos melhores clubes do mundo.
+536|Balada pequena e bem portenha em Palermo Hollywood, com música variada conforme a noite.
+537|A balada LGBT+ mais famosa da cidade: três andares e pistas com músicas diferentes.
+538|Balada de frente para o rio na Costanera Norte, com eletrônica, reggaeton e noites de música dos anos 80, 90 e 2000.
+539|O maior espaço da Costanera: festas eletrônicas enormes e noites de reggaeton. É lá que acontece a festa Bresh.
+540|Terraços ao ar livre junto ao rio, com after office no meio da semana e festas no fim de semana.
+541|Uma das baladas mais movimentadas da Costanera, com pista grande, reggaeton e cachengue.
+542|Balada de música eletrônica no complexo Costa Salguero, junto ao rio.
+543|Uma balada clássica em um prédio de tijolo e ferro em San Telmo, famosa pelo after office.
+544|Balada da Recoleta com espírito de peña: folclore, cumbia e música para dançar em grupo.
+545|Balada grande no oeste da Grande Buenos Aires, na avenida Rivadavia.

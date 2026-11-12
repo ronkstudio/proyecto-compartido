@@ -519,3 +519,14 @@
 519|Réservez : il y a peu de tables.
 520|Agréable pour un déjeuner ou un goûter dans le jardin.
 521|Pas de réservations ; inscrivez-vous sur la liste en arrivant.
+522|La nuit commence très tard : avant 2 h, il y a peu de monde. Allez-y et repartez en taxi ou VTC.
+523|Le mardi, il y a une soirée internationale pleine de voyageurs ; le jeudi est un classique.
+524|Ouvert aussi certains dimanches. Allez-y et repartez en taxi ou VTC.
+525|Réservé aux plus de 18 ans ; certains samedis, l'âge minimum est plus élevé. Prenez une pièce d'identité.
+526|Les soirées changent chaque semaine : regardez sur leurs réseaux laquelle a lieu avant d'y aller.
+527|L'afterwork du mercredi est la façon la plus tranquille de le découvrir.
+528|Réservé aux plus de 18 ans ; certains samedis, l'âge minimum est plus élevé. Le vendredi, il y a souvent de meilleures offres d'entrée.
+529|Réservé aux plus de 18 ans. Allez-y et repartez en taxi ou VTC : la Costanera ne se prête pas à la marche la nuit.
+530|La nuit, arrivez et repartez en taxi ou VTC.
+531|Le jeudi, il y a une peña folklorique.
+532|C'est loin du centre : allez-y et repartez en taxi ou VTC. Vérifiez sur ses réseaux les soirs d'ouverture.

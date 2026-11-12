@@ -519,3 +519,14 @@
 519|Reserve: tem poucas mesas.
 520|Ótima para um almoço ou um lanche da tarde no jardim.
 521|Não aceita reservas; coloque seu nome na lista ao chegar.
+522|A noite começa muito tarde: antes das 2 há pouca gente. Vá e volte de táxi ou aplicativo.
+523|Às terças há uma festa internacional com muitos viajantes; as quintas são um clássico.
+524|Também abre alguns domingos. Vá e volte de táxi ou aplicativo.
+525|Maiores de 18; alguns sábados pedem idade maior. Leve documento.
+526|As festas mudam toda semana: veja nas redes qual é antes de ir.
+527|O after office das quartas é o jeito mais tranquilo de conhecer.
+528|Maiores de 18; alguns sábados pedem idade maior. Às sextas costuma haver promoções melhores de entrada.
+529|Maiores de 18. Vá e volte de táxi ou aplicativo: a Costanera não é para caminhar à noite.
+530|À noite, chegue e saia de táxi ou aplicativo.
+531|Às quintas há peña folclórica.
+532|Fica longe do centro: vá e volte de táxi ou aplicativo. Confira nas redes quais noites abre.
