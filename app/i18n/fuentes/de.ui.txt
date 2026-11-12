@@ -1,0 +1,768 @@
+1|Start
+2|Reiseführer
+3|
+4|Bereiche
+5|
+6|
+7|Klar
+8|Ein schöner Tag, um durch die Stadt zu spazieren.
+9|Was suchst du? Steakhaus, Tango, Museum, Palermo
+10|Im Reiseführer suchen
+11|Suchen
+12|In meiner Nähe
+13|Überrasch mich
+14|Heute geöffnet
+15|Gratis
+16|Drinnen
+17|Mit Kindern
+18|
+19|Buenos Aires nach Mitternacht
+20|Am nächsten
+21|
+22|Teuer
+23|Tango und Milonga
+24|Günstig
+25|Pizzeria
+26|Theater
+27|Mittlere Preise
+28|Was suchst du?
+29|Highlights
+30|Sehenswürdigkeiten, Museen und Spaziergänge
+31|Essen gehen
+32|Steakhäuser, Pizzerien, Cafés und mehr
+33|Nachtleben und Tango
+34|Bars, Milongas, Shows und Theater
+35|Touren und Guides
+36|Führungen und Erlebnisse
+37|Ausflüge
+38|Tagesausflüge
+39|Übernachten
+40|Hostels, Hotels und Unterkünfte
+41|Shopping und Märkte
+42|Märkte, Messen und Einkaufsviertel
+43|Sport
+44|Stadien, Polo, Pferderennen und Natur
+45|Unterhaltung
+46|Kino, Theater, Spiele und Pläne mit Kindern
+47|Karte
+48|Alles auf der Karte
+49|Stadtviertel
+50|Was jedes Viertel bietet
+51|Porteño-Pass
+52|Nicht verpassen
+53|Alle ansehen
+54|Historisch
+55|Wahrzeichen
+56|Kultur
+57|Viertel
+58|Spaziergang
+59|Natur
+60|Museum
+61|Aussichtspunkt
+62|Markt
+63|Sammlungen zur Inspiration
+64|Klassiker von Buenos Aires
+65|Weniger bekannte Juwelen
+66|Buenos Aires gratis
+67|Tango-Route
+68|Aussichtspunkte und Dachterrassen
+69|Kunst und Museen
+70|Historische Cafés
+71|Pizza aus Buenos Aires
+72|Für Fußballfans
+73|Vegetarisch und vegan
+74|Glutenfrei
+75|Einkaufszentren
+76|Kino und Theater
+77|Viertel abseits der Touristenpfade
+78|LGBT-Nachtleben
+79|Draußen
+80|Regentage
+81|Gehobene Küche
+82|Fertige Routen
+83|Das Wichtigste, wenn du nur einen Tag hast.
+84|Die komplette Route für den ersten Besuch.
+85|Plan für Regentage
+86|Alles drinnen.
+87|Ein toller Tag ohne Eintrittskarten.
+88|Pläne, die für Familien funktionieren.
+89|Diesen Monat in Buenos Aires
+90|Das ganze Jahr
+91|Nacht der Museen
+92|Jacarandas in Blüte
+93|Tag der Tradition in Areco
+94|Argentinische Polo-Open
+95|Wie viel ist das in meiner Währung?
+96|Ich habe
+97|Betrag in deiner Währung
+98|Deine Währung
+99|
+100|US-Dollar
+101|
+102|Euro
+103|
+104|Brasilianischer Real
+105|
+106|Uruguayischer Peso
+107|
+108|Chilenischer Peso
+109|
+110|Mexikanischer Peso
+111|
+112|Kolumbianischer Peso
+113|
+114|Pfund Sterling
+115|Das sind
+116|Betrag in argentinischen Pesos
+117|
+118|Argentinischer Peso
+119|Bevor du losgehst
+120|Wo du Hilfe bekommst
+121|Tourismus, Polizei, Krankenhäuser
+122|Unterwegs
+123|SUBE-Karte, U-Bahn, Flughäfen
+124|Was du meiden solltest
+125|Betrugsmaschen und Vorsicht
+126|Praktische Infos
+127|Geld, Öffnungszeiten, Checkliste
+128|Meine Reise
+129|Deine Orte, Tag für Tag
+130|Notrufnummern
+131|Polizei und Notfälle
+132|SAME
+133|Krankenwagen
+134|Feuerwehr
+135|Touristenpolizei
+136|Geschlechtsspezifische Gewalt
+137|Hotline der Stadt
+138|
+139|
+140|
+141|
+142|Reiseführer Buenos Aires
+143|Nach Name, Viertel oder Thema suchen
+144|Ansicht
+145|Liste
+146|Alle
+147|Sortieren
+148|Empfohlene zuerst
+149|In meiner Nähe
+150|Am günstigsten
+151|Am exklusivsten
+152|Alle Viertel
+153|Luxus
+154|Vegetarisch
+155|Vegan
+156|Koscher
+157|$ günstig
+158|$$ mittel
+159|$$$ teuer
+160|$$$$ gehoben
+161|Autorenküche
+162|Top-Tipp
+163|Historisches Café
+164|Offizielle historische Bar der Stadt
+165|Ein anderes Land
+166|UNESCO-Welterbe
+167|Steakhaus
+168|Moderner Bodegón
+169|Nationales historisches Denkmal
+170|Einkaufszentrum
+171|Luxus
+172|Hostel
+173|Eisdiele
+174|Polo
+175|Bodegón (traditionelles Lokal)
+176|Markt
+177|Nur sonntags
+178|Zu Fuß
+179|Pferderennen
+180|Boutique
+181|Wassersport
+182|Livemusik
+183|Nur montags
+184|Einkaufsviertel
+185|Auf dem Land
+186|Fluss und Delta
+187|Führung
+188|Tangoshow
+189|Stadt
+190|Casa Curutchet: UNESCO-Welterbe
+191|Hotel
+192|Küchen der Welt
+193|Kirche
+194|Süßes
+195|Craft-Beer-Bar
+196|Tennis
+197|Schneller Imbiss
+198|Abenteuer
+199|Spezialitätenkaffee
+200|Golf
+201|Food-Tour
+202|Kino
+203|Laufen und Radfahren
+204|Thematisch
+205|Nur freitags, samstags und sonntags
+206|Regionale Küche
+207|Gastro-Viertel
+208|Stadion
+209|Fußball
+210|Nur samstags und sonntags
+211|Lebensmittelmarkt
+212|Weinbar
+213|Bootsausflug
+214|Wissenschaft
+215|Dachterrasse mit Aussicht
+216|Tempel
+217|Mit dem Fahrrad
+218|Ferienwohnung
+219|Motorsport
+220|Bus
+221|Guides
+222|Quartiersplatz
+223|Spiele
+224|Zonen
+225|Touristische Zonen
+226|Übernachten
+227|Nachtleben
+228|Essen
+229|Shopping
+230|Parks
+231|Hilfepunkte
+232|Orte
+233|Ausblenden
+234|
+235|
+236|
+237|
+238|
+239|Mein Standort
+240|Du hast noch nichts gespeichert
+241|Meine Reise automatisch planen
+242|Orte entdecken
+243|Plane deine Reise
+244|Wie viele Tage bleibst du?
+245|Ein Tag weniger
+246|Tage
+247|Ein Tag mehr
+248|Was interessiert dich?
+249|Wähle so viele, wie du willst.
+250|Geschichte und Architektur
+251|Parks und Natur
+252|Tango und Nachtleben
+253|Mit Kindern reisen
+254|Wie viel willst du fürs Essen ausgeben?
+255|Mittel
+256|Ohne aufs Geld zu achten
+257|Nur das Beste
+258|In welchem Tempo?
+259|Entspannt
+260|Normal
+261|Ich will alles sehen
+262|An welchem Tag kommst du an?
+263|Ankunftsdatum
+264|Interessen
+265|Meine Reise planen
+266|Nützliche Infos
+267|Unterwegs
+268|Sicherheit
+269|Hilfe
+270|Praktisch
+271|Kalender
+272|Wohin willst du?
+273|Wie komme ich hin
+274|So bezahlst du: das Wichtigste
+275|Zum Start musst du nichts kaufen
+276|Mit Handy oder Uhr
+277|SUBE-Karte
+278|Wo es die SUBE-Karte gibt
+279|U-Bahn und Züge
+280|Bargeld
+281|In Bussen wird kein Bargeld angenommen.
+282|Zuletzt geprüft
+283|U-Bahn
+284|So funktioniert es
+285|Zeiten
+286|Tipps
+287|
+288|
+289|Av. Corrientes, Abasto, Villa Crespo, Chacarita
+290|
+291|Verbindet die Bahnhöfe; Anschluss an alle Linien
+292|
+293|
+294|San Telmo (Independencia) und der Süden der Stadt
+295|
+296|Recoleta (Las Heras), Once, Parque Patricios
+297|Busse
+298|So funktionieren sie
+299|Metrobus
+300|Welchen Bus du nehmen musst
+301|Aussteigen
+302|Züge
+303|Ab Retiro
+304|Ab Constitución
+305|Bezahlung
+306|Mit SUBE. Sie sind sehr günstig.
+307|Taxis und Apps
+308|Taxis
+309|Apps
+310|Rad und zu Fuß
+311|Ecobici
+312|Radwege
+313|Zu Fuß
+314|Flughäfen
+315|Ezeiza (EZE)
+316|Aeroparque (AEP)
+317|Wichtig
+318|Fähren und Fernbusse
+319|Nach Uruguay
+320|Busbahnhof Retiro
+321|Nützliche Apps
+322|Zur Orientierung
+323|Für Fahrten
+324|Uber, Cabify, DiDi.
+325|Für Essenslieferungen
+326|PedidosYa und Rappi.
+327|Das häufigste Problem: Handydiebstahl
+328|Gegenden, die du meiden oder vorsichtig besuchen solltest
+329|Typische Betrugsmaschen
+330|Gute Gewohnheiten
+331|Nachts von Tür zu Tür mit Taxi oder App fahren.
+332|Weitere Hilfe
+333|In meiner Nähe suchen
+334|Öffnet Google Maps mit den nächstgelegenen Optionen.
+335|Apotheke
+336|Geldautomat
+337|Wechselstube
+338|Supermarkt
+339|SUBE aufladen
+340|Wäscherei
+341|Gepäckaufbewahrung
+342|Café mit WLAN
+343|Polizeiwache
+344|Tankstelle
+345|Hilfe aus der Ferne
+346|Boti, der Chatbot der Stadt
+347|Touristeninfo per WhatsApp.
+348|Online-Anzeige für Touristen
+349|Website der Stadtpolizei.
+350|Mein Konsulat finden
+351|Zeigt Konsulate und Botschaften auf der Karte.
+352|Hilfe vor Ort
+353|Auf der Karte ansehen
+354|ℹ️ Touristeninformation
+355|Touristenhilfezentrum
+356|Tourismus-Hub
+357|Ansehen
+358|Ombudsstelle für Touristen
+359|Polizei und Anzeigen
+360|
+361|
+362|
+363|
+364|
+365|
+366|
+367|
+368|
+369|
+370|Terminals und Flughäfen
+371|Busbahnhof Retiro
+372|Bahnhof Retiro (Züge)
+373|Bahnhof Constitución
+374|Bahnhof Once
+375|Sarmiento-Bahnlinie nach Westen. U-Bahn-Linien A und H.
+376|Buquebus-Terminal
+377|Colonia-Express-Terminal
+378|Fähre nach Colonia. Anreise mit Taxi oder App.
+379|
+380|
+381|Flughafen Ezeiza (EZE)
+382|Trinkgeld und Rechnung teilen
+383|Rechnung
+384|Summe in Pesos
+385|Rechnungssumme in Pesos
+386|Wir sind
+387|Anzahl Personen
+388|Ohne Trinkgeld
+389|Checkliste, damit du nichts vergisst
+390|Vor der Reise
+391|Gültiger Reisepass oder Ausweis, mit Kopie auf dem Handy
+392|Reiseversicherung mit medizinischer Deckung
+393|Der Bank sagen, dass du die Karte im Ausland nutzt
+394|Diesen Reiseführer und Google Maps offline herunterladen
+395|Bei der Ankunft
+396|Taxis oder Fahrdienste nur an offiziellen Schaltern oder per App
+397|Eine SUBE-Karte holen und aufladen
+398|Etwas Geld in einer offiziellen Wechselstube tauschen
+399|Eine Prepaid-SIM kaufen oder eine eSIM aktivieren
+400|Unterkunftsadresse notieren und den Pass dort lassen
+401|Geld und Bezahlen
+402|Währung
+403|Karten
+404|Geldwechsel
+405|Trinkgeld
+406|Gedeck
+407|Zeiten in Buenos Aires
+408|Mahlzeiten
+409|Museen
+410|Viele schließen montags oder dienstags. Vorher prüfen.
+411|Geschäfte
+412|Wetter und beste Reisezeit
+413|Frühling (Sep.–Nov.)
+414|Sommer (Dez.–Feb.)
+415|Herbst (März–Mai)
+416|Mild und angenehm, eine sehr gute Reisezeit.
+417|Winter (Juni–Aug.)
+418|Nützliche Fakten
+419|Strom
+420|Wasser
+421|Leitungswasser ist trinkbar.
+422|Internet
+423|Sprache
+424|Gesundheit
+425|Bräuche
+426|Begrüßung
+427|Ein Kuss auf die Wange, auch unter Männern.
+428|Mate
+429|Asado (Grillen)
+430|Zum Probieren
+431|Wörter, die du hören wirst
+432|Che / Vos
+433|Bondi
+434|Tacho
+435|Bus, U-Bahn und Taxi.
+436|Cuadra
+437|Guita
+438|Mango
+439|Luca
+440|Geld, ein Peso und tausend Pesos.
+441|Birra
+442|Morfi
+443|Pileta
+444|Bier, Essen und Schwimmbecken.
+445|Boliche
+446|Previa
+447|Club und das Vorglühen vor dem Ausgehen.
+448|Dale
+449|Ya fue
+450|Re
+451|„Okay“, „vergiss es“ und „sehr“ (re lindo = sehr schön).
+452|La cuenta, por favor (die Rechnung, bitte)
+453|Du musst danach fragen: Sie bringen sie erst, wenn du fragst.
+454|Gesundheit und Apotheken
+455|Notfälle
+456|Apotheken
+457|Reiseversicherung
+458|Mücken
+459|Steuern und Einkäufe
+460|MwSt. auf Unterkunft
+461|Tax Free
+462|Raten und Rabatte
+463|Wie wir die Orte auswählen
+464|Auswahl
+465|Stufen
+466|Aktuelle Bewertungen
+467|Preise
+468|Übliche Termine: jedes Jahr vor der Planung prüfen.
+469|Februar
+470|Karneval in Buenos Aires
+471|März
+472|Lollapalooza Argentina
+473|April
+474|BAFICI
+475|April und Mai
+476|Internationale Buchmesse
+477|Drei Wochen Bücher, Gespräche und Autoren in La Rural.
+478|Tag der Mairevolution
+479|Juli
+480|Landwirtschaftsausstellung und Winterferien
+481|August
+482|Tango-BA-Festival und Weltmeisterschaft
+483|September
+484|Buenos-Aires-Marathon
+485|Oktober oder November
+486|diesen Monat
+487|November
+488|November und Dezember
+489|Dezember
+490|Weihnachten und Neujahr
+491|Mein Konto
+492|Dein Konto und dein Reiseprofil.
+493|Konten sind noch nicht aktiviert
+494|Mein Reiseprofil
+495|Hast du besondere Ernährungsbedürfnisse?
+496|Wie viel willst du pro Mahlzeit ausgeben?
+497|Egal
+498|$ Günstig
+499|$$ Mittel
+500|$$$ Teuer
+501|Reist du mit Kindern?
+502|Ja
+503|Nein
+504|Zu Meine Reise
+505|besuchte Orte
+506|Viertel
+507|Stempel
+508|Erster Schritt
+509|Besuche deinen ersten Ort
+510|Das Wichtigste
+511|Grillmeister
+512|Mozzarella-Pizza und Fainá
+513|Stammgast
+514|Dulce de leche
+515|Eine Eisdiele
+516|Tangofan
+517|Ein Tangolokal
+518|Museumsauge
+519|Fußballfan
+520|Ein Fußballstadion
+521|Nachteule
+522|Marktgänger
+523|Ein Markt oder eine Messe
+524|Ausflügler
+525|Ein Tagesausflug außerhalb der Stadt
+526|Abseits der Pfade
+527|Ein Geheimtipp oder ein Ort im Viertel
+528|Viertel-Entdecker
+529|Ehren-Porteño
+530|Dein Pass ist noch leer
+531|Was jedes Viertel bietet und wo man am besten übernachtet.
+532|Grün, kulinarisch und nachts lebendig
+533|Die beste Basis, wenn du essen und abends ausgehen willst.
+534|Auf der Karte
+535|Elegant und kulturell
+536|Historisch und belebt
+537|Bohème und Tango
+538|Charmant und preiswert; nachts vorsichtig unterwegs sein.
+539|Modern und am Fluss
+540|Die sicherste und ruhigste Gegend; auch die teuerste.
+541|Farben, Fußball und Einwanderung
+542|Tagsüber besuchen. Übernachten hier wird nicht empfohlen.
+543|Wohnlich und grün
+544|Ruhig und an der U-Bahn-Linie D, aber weit vom historischen Zentrum.
+545|Authentisch und im Kommen
+546|Eine günstigere Alternative zu Palermo.
+547|Das neue Gastro-Viertel
+548|Wermutbars, angesagte Restaurants und der Friedhof, auf dem Gardel ruht.
+549|Für Wiederholungstäter, die es weniger touristisch mögen.
+550|Herrschaftlich und Durchgangsort
+551|Tango und Viertelleben
+552|Ein echtes Viertel von Buenos Aires, gut angebunden mit den U-Bahn-Linien A und B.
+553|Morgen
+554|Beginne dort, wo die Stadt entstand.
+555|Geh sie entlang bis zum Kongress.
+556|Später Vormittag
+557|Kaffee mit Medialunas (Croissants).
+558|Mittag
+559|Ein Pflichtfoto.
+560|Mittagessen
+561|Mozzarella-Pizza und Fainá.
+562|Nachmittag
+563|Führung.
+564|U-Bahn-Linie D bis Callao.
+565|Bevor es schließt.
+566|Zum Abschluss ein gutes Steak.
+567|Um dich im Zentrum zu orientieren.
+568|Noch besser, wenn Sonntag ist.
+569|Sonnenuntergang
+570|Früh, und mit Taxi oder App.
+571|Tangostunde und Milonga.
+572|Shopping und Kaffee.
+573|Spät in der Nacht
+574|Alles drinnen. Tippe auf jeden Halt, um Details zu sehen.
+575|Schau nach oben zur Kuppel.
+576|Nachmittagsimbiss
+577|Füttere die Koi-Karpfen.
+578|Tretboote und Picknick.
+579|Ein anderer Tag
+580|Bootsfahrt.
+581|Schließen
+582|Tipp
+583|Speichern
+584|Als besucht markieren
+585|Bewertungen und Öffnungszeiten
+586|Mit Uber hinfahren
+587|Teilen
+588|Adresse
+589|Preis
+590|
+591|In der Nähe
+592|Foto
+593|
+594|Verfügbarkeit prüfen
+595|Gehoben (pro Nacht)
+596|
+597|Entfernung
+598|In Maps suchen
+599|Sehr empfehlenswert
+600|Keine Station in der Nähe: besser Bus, Taxi oder App
+601|Heute (Donnerstag) nicht: nur sonntags.
+602|
+603|
+604|Automatisch planen
+605|Tag hinzufügen
+606|Drucken / PDF
+607|Pass
+608|Alles löschen
+609|Historisches Zentrum
+610|Halte
+611|Route optimieren
+612|Auf der Karte ansehen
+613|Route in Google Maps
+614|Nach oben
+615|Nach unten
+616|Ohne Tag
+617|Recoleta und Retiro
+618|San Telmo, La Boca und Puerto Madero
+619|Route nach Nähe sortiert
+620|Bewölkt
+621|Regen
+622|Gewitter
+623|Geh die Checkliste durch, damit du nichts vergisst
+624|In meiner Reise
+625|In deiner Reise
+626|Neuer Stempel: 👣 Erster Schritt
+627|Ich war da
+628|besuchter Ort
+629|Viertel
+630|Erreicht!
+631|Wo du warst
+632|Hier warst du schon
+633|Passt zu dir
+634|Filter löschen
+635|Mit diesen Filtern haben wir nichts gefunden
+636|Versuch ein anderes Wort oder entferne einen Filter.
+637|Unverzichtbar
+638|Lohnt den Besuch
+639|Für Neugierige
+640|Tippe auf ein Viertel, um Details zu sehen.
+641|Hilfepunkte: ℹ️ Touristeninformation
+642|Polizei und Anzeigen
+643|Details ansehen
+644|
+645|LGBT
+646|Das wichtigste Gauchofest, in San Antonio de Areco.
+647|Z. B.: Teatro Colón, Caminito, Aeroparque
+648|Plaza de Mayo, Av. de Mayo, Kongress, Almagro (Las Violetas)
+649|Recoleta, Palermo (Plaza Italia), Belgrano und Chinatown
+650|Mitre-Bahnlinie nach Tigre und San Isidro. U-Bahn-Linien C und E.
+651|Caminito, La Bombonera, Proa und die Usina del Arte.
+652|Mit Reservierung; sonst La Cabrera.
+653|Günstiger Choripán (Wurstbrötchen).
+654|Sag uns, wie viele Tage du kommst und was du magst: Wir geben dir eine fertige Route, Tag für Tag.
+655|Markiere die Orte, die du besucht hast, und sammle Stempel: Grillmeister, Tangofan, Viertel-Entdecker
+656|An einem Samstag im Jahr öffnen Hunderte Museen gratis bis in die frühen Morgenstunden.
+657|Die Stadt färbt sich lila: Plaza San Martín, Av. Figueroa Alcorta und die Wälder von Palermo.
+658|Das wichtigste Poloturnier der Welt, auf dem Poloplatz von Palermo.
+659|
+660|
+661|
+662|
+663|
+664|
+665|
+666|
+667|
+668|
+669|
+670|
+671|
+672|Deine gespeicherten Orte, nach Tagen geordnet. Auf diesem Gerät gespeichert.
+673|Tippe bei einem Ort auf das Herz, um ihn hinzuzufügen, oder lass uns die Route planen.
+674|Beantworte fünf Fragen und wir geben dir eine Route nach Gegend, mit Essenstipps für jede. Du kannst sie danach anpassen.
+675|Optional. Mit dem Datum planen wir keine Museen an ihrem Ruhetag ein.
+676|Unterwegs, was du meiden solltest, wo du Hilfe bekommst und alles Praktische.
+677|Öffnet Google Maps mit der Route im Nahverkehr von deinem Standort aus.
+678|In Bussen kannst du mit einer kontaktlosen Visa- oder Mastercard (Kredit, Debit oder Prepaid) zahlen, auch mit ausländischen Karten. Beim Einsteigen an das Lesegerät halten.
+679|Wenn deine Karte im Handy oder in der Uhr hinterlegt ist, halte sie genauso hin. Du kannst auch per QR-Code aus der SUBE-App zahlen.
+680|Die aufladbare Verkehrskarte: Sie gilt für Busse, U-Bahn und Züge. Lohnt sich bei mehreren Tagen, denn nur mit SUBE gibt es Rabatt beim Umsteigen.
+681|Kioske, U-Bahn-Stationen, Lottoannahmestellen und Touristenhilfezentren. Aufladen kannst du dort, an Stationen oder per App.
+682|SUBE funktioniert immer. Karten- oder Handyzahlung gibt es vielleicht nicht an jeder Station: Wer viel U-Bahn oder Zug fährt, sollte eine SUBE haben.
+683|Sechs Linien (A, B, C, D, E, H) plus die Premetro. Der schnellste Weg zwischen Zentrum, Recoleta, Palermo und Belgrano.
+684|Nutze Google Maps oder Moovit: Sie zeigen Linie, Haltestelle und wann der Bus kommt.
+685|Drück eine Querstraße vor deinem Halt auf den Knopf und steig durch die mittlere oder hintere Tür aus.
+686|Panoramastrecke am Fluss von Maipú (Vicente López) bis Delta in Tigre.
+687|Schwarz mit gelbem Dach und Taxameter. Heranwinken, wenn das Schild „libre“ (frei) leuchtet, oder per App bestellen. Nachts ist es teurer.
+688|Uber, Cabify und DiDi fahren in der ganzen Stadt und zeigen den Preis vorab. Nachts die empfohlene Option.
+689|Mit kleinen Scheinen oder per App zahlen. Meide Leute, die an Flughäfen und Terminals Taxis anbieten.
+690|Das öffentliche Leihradsystem mit Stationen in der ganzen Stadt. Nutzung per App; Touristen bekommen Zugang mit Bezahlpässen.
+691|Die Touristenviertel lassen sich gut zu Fuß erkunden. Achte auf kaputte Gehwege und beim Überqueren: Autos halten nicht immer.
+692|Nimm nie eine Fahrt von jemandem an, der dich in der Ankunftshalle anspricht. Immer am offiziellen Schalter oder per App buchen.
+693|Hier fahren Fernbusse ins ganze Land. Achte drinnen und draußen auf deine Sachen und komm mit Taxi oder App.
+694|Google Maps und Moovit (Routen in Echtzeit), SUBE (Aufladen und Guthaben), BA Ecobici.
+695|Benutze das Handy nicht am Bordstein oder neben einem offenen Auto- oder Busfenster: Diebstahl vom Motorrad aus ist der häufigste Raub.
+696|Um auf die Karte zu schauen, geh in ein Geschäft oder stell dich mit dem Rücken an eine Wand.
+697|In Bars und Restaurants das Handy nicht auf dem Tisch und die Tasche nicht an der Stuhllehne lassen.
+698|In U-Bahn, Bussen und vollen Märkten: Rucksack vorne und Taschen zu.
+699|La Boca: bleib im Touristenbereich (Caminito, Proa, Usina, Bombonera) und geh tagsüber. Lauf nicht Richtung Barracas oder Constitución.
+700|Constitución und die Umgebung des Bahnhofs: meiden, besonders nachts.
+701|Once (Plaza Miserere) und das Microcentro nachts und sonntags: Dann sind sie menschenleer.
+702|San Telmo und Monserrat nachts: auf belebten Straßen bleiben oder ein Taxi nehmen.
+703|Große Parks (Wälder von Palermo, Ökologisches Reservat) nach Einbruch der Dunkelheit.
+704|Der Fleck: Jemand sagt dir, du bist beschmutzt (Senf, „Vogelkot“), und bietet Hilfe an, während ein anderer dich bestiehlt. Geh weiter.
+705|Falschgeld: Prüfe dein Wechselgeld, besonders im Taxi und nachts. Mit kleinen Scheinen zahlen.
+706|Straßen-Geldwechsler („arbolitos“ in der Calle Florida): Risiko von Falschgeld oder Diebstahl. Nutze offizielle Wechselstuben oder bekannte Überweisungsdienste.
+707|Taxi macht Umwege: Folge der Route auf der Handykarte oder nutze Apps mit Festpreis.
+708|Restaurants in sehr touristischen Gegenden: Prüf die Preise auf der Karte, bevor du dich setzt, und frag nach Gedeck.
+709|Straßenverkauf von Fußball- oder Konzerttickets: meist gefälscht.
+710|Buenos Aires genießt man am besten zu Fuß: Mit der Vorsicht jeder Großstadt verlaufen die allermeisten Besuche problemlos.
+711|Nimm nur mit, was du für den Tag brauchst: eine Karte, etwas Bargeld und eine Ausweiskopie. Lass den Pass in der Unterkunft.
+712|Wenn du bestohlen wirst, wehr dich nicht. Zeig es bei der Touristenpolizei an (dort spricht man mehrere Sprachen).
+713|Schließ eine Reiseversicherung ab: Öffentliche Notaufnahmen behandeln Notfälle, aber mit Versicherung ist alles einfacher.
+714|Beschwerden über Hotels, Vermietungen, Agenturen oder Geschäfte und Hilfe bei verlorenen Dokumenten. Kostenlos, mit zweisprachigem Personal.
+715|Fernbusse ins ganze Land. Pass aufs Gepäck auf und komm mit Taxi oder App.
+716|Roca-Bahnlinie nach La Plata. Anreise mit U-Bahn-Linie C; nicht in der Umgebung herumlaufen.
+717|Fähre nach Colonia und Montevideo. Eine Stunde vorher für die Ausreise da sein.
+718|Vorher reservieren: Don Julio, Teatro Colón, Tangoshows, Fähre nach Colonia
+719|Argentinischer Peso (ARS). Preise ändern sich oft: Jede Zahl ist nur ein Richtwert.
+720|Fast überall akzeptiert, auch per Handy. Für Märkte, Kioske und Trinkgeld ist etwas Bargeld praktisch.
+721|In offiziellen Wechselstuben oder Banken tauschen. Vergleich vorher den Kurs: Oft gibt es Unterschiede.
+722|Viele Restaurants verlangen eine feste Gebühr pro Person, „cubierto“ genannt. Das ist kein Trinkgeld.
+723|Die beste Zeit: mild, und im November blühen die Jacarandas.
+724|Gratis-WLAN gibt es auf Plätzen, in der U-Bahn und in fast jedem Café. Eine Prepaid-SIM (Personal, Claro, Movistar) bekommst du mit dem Pass, oder du nutzt eine eSIM.
+725|Rioplatense-Spanisch: Statt „tú“ sagt man „vos“. In Touristengegenden wird etwas Englisch gesprochen.
+726|Wenn dir einer angeboten wird, trink ihn aus und gib ihn zurück. „Gracias“ heißt, dass du keinen mehr willst.
+727|Steak bestellt man jugosa (blutig), a punto (medium) oder cocida (durch). Die Klassiker: Bife de chorizo, Ojo de bife, Vacío, Entraña und Asado de tira.
+728|Empanadas, Milanesa napolitana, Choripán, Provoleta, Medialunas, Alfajores, Dulce de leche, handgemachtes Eis, Malbec und Fernet mit Cola.
+729|Mit „Che“ ruft man jemanden; „vos“ ersetzt „tú“.
+730|Sehr empfehlenswert: Privatkliniken sind schnell, aber ohne Versicherung teuer.
+731|Im Sommer Insektenschutz mitnehmen, vor allem für Parks, das Ökologische Reservat und das Delta.
+732|In teilnehmenden Geschäften bekommst du die MwSt. auf argentinische Produkte zurück; frag beim Kauf nach dem Formular und leg es bei der Ausreise vor.
+733|Viele Preise haben Rabatt bei Barzahlung oder Überweisung. Vor dem Bezahlen fragen.
+734|Der Reiseführer enthält nur Orte mit anhaltend gutem Ruf: Auszeichnungen, offizielle Ehrungen und breite Zustimmung in öffentlichen Bewertungen.
+735|„Top-Tipp“ sind die Besten ihrer Kategorie, „Sehr empfehlenswert“ ist eine sichere Wahl und „Gute Option“ macht seine Sache gut, ist aber kein Muss.
+736|Bei jedem Ort öffnet „Bewertungen und Öffnungszeiten“ Google Maps mit Bewertung, Rezensionen und aktuellen Öffnungszeiten.
+737|Wir nutzen Stufen ($ bis $$$$) statt Beträgen, weil sich Preise oft ändern.
+738|Umzüge und Murga-Gruppen in den Vierteln an den Februar-Wochenenden.
+739|Das größte Musikfestival des Landes, auf der Pferderennbahn von San Isidro.
+740|Internationales Festival des unabhängigen Films mit Spielorten in der ganzen Stadt.
+741|Nationalfeiertag: Locro-Eintopf und Pastelitos, und Feierlichkeiten auf der Plaza de Mayo.
+742|Die große Landwirtschaftsausstellung in Palermo; Theater und Museen mit Programm für Kinder.
+743|Zwei Wochen Milongas, Kurse und Gratis-Shows, mit dem Finale der Tango-Weltmeisterschaft.
+744|Vorerst werden Reise und Profil nur auf diesem Gerät gespeichert. Wenn Konten aktiviert sind, kannst du dich mit deiner E-Mail anmelden und alles auf jedem Handy oder Computer nutzen.
+745|Sag uns, wie du reist, und der Reiseführer passt sich an: Er markiert, was zu dir passt, und plant deine Reise danach.
+746|Tippe bei jedem besuchten Ort auf „Ich war da“ und sammle Stempel. Wird auf diesem Gerät gespeichert.
+747|Öffne einen Ort und tippe auf „Als besucht markieren“, wenn du dort bist.
+748|Das größte Viertel: Parks, Museen, die besten Restaurants und Bars. Palermo Soho für Design, Hollywood zum Ausgehen.
+749|Französische Architektur, Museen, der Friedhof und Alleen. Ruhig und gut angebunden.
+750|Ideal für den ersten Besuch, für Familien und alle, die Ruhe suchen.
+751|Plaza de Mayo, Obelisk, Corrientes, Kongress und Justizpalast. Tagsüber belebt; nachts sind manche Ecken leer.
+752|Praktisch und günstig; wähle etwas in der Nähe der Corrientes oder der Av. de Mayo.
+753|Kopfsteinpflaster, Antiquitätenläden, die Markthalle und der Sonntagsmarkt. Viel Charakter und Backpacker-Flair.
+754|Umgebaute Docks, Türme, Restaurants und das Ökologische Reservat.
+755|Chinatown, der Park Barrancas, kleine Museen und gutbürgerliches Viertelleben.
+756|Outlets, Bodegones, nahöstliche Küche und neue Bars, direkt neben Palermo.
+757|Plaza San Martín, Paläste und Botschaften, neben den Bahn- und Busterminals.
+758|Der obere Teil (Plaza San Martín, Arroyo) ist sehr schön; meide die Umgebung des Terminals.
+759|Milongas, freies Theater, Las Violetas und Gardels Abasto.
+760|Das Wichtigste, wenn du nur einen Tag hast. Tippe auf jeden Halt, um Details zu sehen.
+761|Die komplette Route für den ersten Besuch. Tippe auf jeden Halt, um Details zu sehen.
+762|Ein toller Tag ohne Eintrittskarten. Tippe auf jeden Halt, um Details zu sehen.
+763|Pläne, die für Familien funktionieren. Tippe auf jeden Halt, um Details zu sehen.
+764|Frag vor dem Bestellen immer im Lokal nach, besonders bei Zöliakie oder Allergien: Küchen und Karten ändern sich.
+765|Mit dem Datum warnen wir dich, wenn ein Ort an deinem geplanten Tag geschlossen hat.
+766|Noch keine Orte. Ordne sie unten aus der Liste diesem Tag zu.
+767|Wir warnen dich in Rot, wenn ein Ort an deinem geplanten Tag meist geschlossen hat.
+768|Terminals und Flughäfen. Tippe auf eines, um Adresse und Anfahrt zu sehen.
