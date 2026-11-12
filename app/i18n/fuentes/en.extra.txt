@@ -188,3 +188,61 @@
 188|So people speak more slowly to you
 189|In an emergency
 190|To say thank you
+191|Get to your accommodation hassle-free
+192|Prepaid SIM or eSIM
+193|Exchange, ATMs and how to pay
+194|SUBE card and getting around
+195|Tap a number to call
+196|Ideas to get started
+197|Where are you staying?
+198|Address or hotel name
+199|From Ezeiza
+200|From Aeroparque
+201|To your accommodation
+202|To the center (Obelisco)
+203|Order an Uber
+204|With your accommodation already set
+205|Bus to the center
+206|Tienda León, from Ezeiza
+207|Taxis and private cars: book them at the official desks inside the airport.
+208|Don't accept offers from people who approach you in the hall.
+209|Ezeiza is far from the center: expect a long ride.
+210|Prepaid SIM
+211|No physical SIM
+212|Stores nearby
+213|You may be asked for your passport to buy a SIM.
+214|If your phone supports eSIM, you can activate it before you travel.
+215|Many bars and cafés have free Wi-Fi: ask for the password.
+216|ATMs nearby
+217|Exchange offices
+218|Official ones, on the map
+219|More about payments
+220|Cards, tips and cover charge
+221|Paying with a foreign card is usually a good deal.
+222|Keep some cash in small bills for tips and kiosks.
+223|Don't exchange money with people on the street.
+224|Where to buy and top up
+225|Official map of SUBE points
+226|SUBE app
+227|Check your balance
+228|Subway lines
+229|Routes and tips
+230|E.g.: Teatro Colón, Caminito…
+231|You can buy a SUBE at kiosks, subway stations and SUBE points.
+232|On the subway and many buses you can also pay with your contactless card.
+233|Back to my accommodation
+234|Pharmacies nearby
+235|Tourism, hospitals, consulates
+236|Take a screenshot of this screen in case your battery or internet runs out.
+237|Choose what you like
+238|The must-sees
+239|What's on today
+240|Today's events and fairs
+241|See the map
+242|Places near you
+243|Your first hours in Buenos Aires
+244|Open each step and check it off when it's done.
+245|Steps done
+246|All set! Enjoy Buenos Aires.
+247|Mark as pending
+248|Done, next step

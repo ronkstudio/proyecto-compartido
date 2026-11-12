@@ -188,3 +188,61 @@
 188|Para que falem mais devagar com você
 189|Numa emergência
 190|Para agradecer
+191|Chegue à sua hospedagem sem complicação
+192|Chip pré-pago ou eSIM
+193|Câmbio, caixas eletrônicos e como pagar
+194|Cartão SUBE e como se locomover
+195|Toque num número para ligar
+196|Ideias para começar
+197|Onde você está hospedado?
+198|Endereço ou nome do hotel
+199|De Ezeiza
+200|De Aeroparque
+201|Até sua hospedagem
+202|Até o centro (Obelisco)
+203|Pedir um Uber
+204|Com sua hospedagem já preenchida
+205|Ônibus até o centro
+206|Tienda León, de Ezeiza
+207|Táxis e carros particulares: contrate nos balcões oficiais dentro do aeroporto.
+208|Não aceite ofertas de pessoas que se aproximem no saguão.
+209|Ezeiza fica longe do centro: conte com uma boa viagem.
+210|Chip pré-pago
+211|Sem chip físico
+212|Lojas perto
+213|Para comprar um chip podem pedir seu passaporte.
+214|Se seu celular aceita eSIM, você pode ativá-lo antes de viajar.
+215|Muitos bares e cafés têm Wi-Fi grátis: peça a senha.
+216|Caixas eletrônicos perto
+217|Casas de câmbio
+218|Oficiais, no mapa
+219|Mais sobre pagamentos
+220|Cartões, gorjeta e couvert
+221|Pagar com cartão estrangeiro costuma compensar.
+222|Tenha algum dinheiro em notas pequenas para gorjetas e bancas.
+223|Não troque dinheiro com pessoas na rua.
+224|Onde comprar e carregar
+225|Mapa oficial dos pontos SUBE
+226|App SUBE
+227|Veja seu saldo
+228|Linhas de metrô
+229|Trajetos e dicas
+230|Ex.: Teatro Colón, Caminito…
+231|O SUBE é vendido em bancas, estações de metrô e pontos SUBE.
+232|No metrô e em muitos ônibus você também pode pagar com seu cartão por aproximação.
+233|Voltar para minha hospedagem
+234|Farmácias perto
+235|Turismo, hospitais, consulados
+236|Tire um print desta tela caso fique sem bateria ou sem internet.
+237|Escolha o que você gosta
+238|O imperdível
+239|O que tem hoje
+240|Eventos e feiras do dia
+241|Ver o mapa
+242|Lugares perto de você
+243|Suas primeiras horas em Buenos Aires
+244|Abra cada passo e marque quando estiver pronto.
+245|Passos prontos
+246|Tudo pronto! Aproveite Buenos Aires.
+247|Marcar como pendente
+248|Pronto, próximo passo
