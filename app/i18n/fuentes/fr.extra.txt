@@ -131,3 +131,13 @@
 131|Pour danser
 132|Boîtes de nuit
 133|Ouvert aujourd'hui
+134|Aujourd'hui à Buenos Aires
+135|En journée
+136|Ce soir
+137|Voir plus
+138|Les événements marqués 📅 viennent de l'agenda officiel de la Ville. Vérifiez sur leur page avant d'y aller.
+139|Le spectacle de percussions du lundi
+140|La soirée internationale du mardi
+141|L'afterwork du mercredi
+142|La peña folklorique du jeudi
+143|La soirée du jeudi

@@ -131,3 +131,13 @@
 131|Para dançar
 132|Baladas
 133|Funciona hoje
+134|Hoje em Buenos Aires
+135|De dia
+136|À noite
+137|Ver mais
+138|Os eventos com 📅 são da agenda oficial da Cidade. Confira na página antes de ir.
+139|Show de percussão das segundas
+140|Festa internacional das terças
+141|After office das quartas
+142|Peña folclórica das quintas
+143|Noite de festa das quintas
