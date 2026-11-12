@@ -1,0 +1,43 @@
+max. $1° / min. $2°
+$1 Orte
+1 Ort
+$1 Orte auf der Karte
+$1 ohne festen Standort
+$1 Besuche pro Tag
+Trinkgeld $1 %
+$1 von $2
+$1 Orte ansehen
+Tag $1
+1 Stern
+$1 Sterne
+$1 km entfernt
+Fertig: $1 Orte an 1 Tag
+Fertig: $1 Orte an $2 Tagen
+Regen $1 %
+Noch 1 Tag bis zu deiner Reise.
+Noch $1 Tage bis zu deiner Reise.
+1 $1 ≈ $2 Pesos
+offizieller Referenzkurs vom $1. Was dir berechnet wird, kann je nach Zahlungsart abweichen.
+$1 in Meine Reise speichern
+$1 entfernen
+Tag für $1
+Geplant für Tag $1
+$1 Orte in Meine Reise gespeichert
+Meine Reise leeren? Die $1 gespeicherten Orte werden entfernt.
+Meist geschlossen: {1}
+Nur geöffnet: {1}
+Nur {1}
+Heute nicht: nur {2}.
+$1 $2 entfernt
+(etwa $1)
+Neuer Stempel: {1}
+Meine Reise nach $1
+$1 ansehen
+Du hast $1 von $2 Stempeln. Mach weiter!
+$1 Std. $2 Min. mit dem Zug
+$1 Min. mit dem Zug
+$1 Std. $2 Min. mit der Fähre
+$1 Std. $2 Min. mit der Direktfähre
+$1 Stunden mit dem Boot ab Tigre
+$1 Std. $2 Min. mit dem Boot ab Tigre
+$1 Min. mit dem Boot

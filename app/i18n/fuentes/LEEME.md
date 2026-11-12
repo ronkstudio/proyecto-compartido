@@ -14,4 +14,4 @@ Para armar un diccionario (Windows):
 
 El armado avisa si una lista traducida no tiene la misma cantidad de líneas que la lista en español.
 
-Estado: inglés, portugués, francés e italiano completos. Alemán, chino y japonés: solo el menú.
+Estado: los 7 idiomas (inglés, portugués, francés, italiano, alemán, chino y japonés) están completos. Alemán, chino y japonés se tradujeron el 12/11/2026 partiendo del inglés. Ninguna traducción la revisó todavía una persona que hable el idioma.

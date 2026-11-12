@@ -1,0 +1,553 @@
+1|Das politische und historische Herz des Landes. Rund um den Platz stehen die Casa Rosada, die Kathedrale, der Cabildo und die Mai-Pyramide.
+2|Das Wahrzeichen der Stadt, wo die breiteste Avenida auf die Straße trifft, die nie schläft: Theater, Buchläden und klassische Pizzerien.
+3|Eines der Opernhäuser mit der besten Akustik der Welt. Besichtigung mit Führung oder bei einer Oper, einem Ballett oder Konzert.
+4|Ein Labyrinth aus Mausoleen und Skulpturen, in dem Evita und ein Großteil der argentinischen Geschichte ruhen. Einer der schönsten Friedhöfe der Welt.
+5|Eine Buchhandlung in einem ehemaligen Theater von 1919: Logen voller Regale, eine bemalte Kuppel und ein Café auf der Bühne.
+6|Das Straßenmuseum mit bunten Blech-Mietshäusern, Straßenkünstlern und Tango auf dem Gehweg. Die klassische Postkarte von Buenos Aires.
+7|Das älteste Viertel: Kopfsteinpflaster, Antiquitätenläden und historische Bars. Sonntags füllt sich die Calle Defensa mit Ständen, Musikern und Tangotänzern.
+8|Die alten Docks, umgebaut zu Restaurants und Büros, mit der Drehbrücke von Calatrava. Eine der sichersten Gegenden zum Spazieren.
+9|350 Hektar Feuchtgebiet und Wege am Río de la Plata, wenige Schritte von den Wolkenkratzern. Ideal zum Spazieren, Laufen oder Radfahren.
+10|Die große grüne Lunge der Stadt: Seen mit Tretbooten, der Rosengarten mit Tausenden Rosenstöcken und Kilometer zum Laufen oder Radfahren.
+11|Einer der größten japanischen Gärten außerhalb Japans: rote Brücken, Koi-Karpfen, Bonsai und ein Teehaus.
+12|Museum für lateinamerikanische Kunst: Frida Kahlo, Diego Rivera, Tarsila do Amaral, Berni und erstklassige Wechselausstellungen.
+13|Die wichtigste Kunstsammlung des Landes: von Goya, Rembrandt und Van Gogh bis zu den großen argentinischen Meistern.
+14|Die riesige, 20 Meter hohe Stahlblume, die sich mit dem Tageslicht öffnet und schließt.
+15|Ein Gebäude von 1923, inspiriert von der Göttlichen Komödie. Die Führung geht bis zum Leuchtturm, mit einem der besten Ausblicke der Stadt.
+16|Zehn Blocks europäischer Architektur zwischen Casa Rosada und Kongress. Unterwegs: Café Tortoni, Palacio Barolo und Kuppeln, für die man nach oben schauen sollte.
+17|Der Parlamentspalast mit seiner 80 Meter hohen grünen Kuppel, gegenüber der Plaza del Congreso und dem Kilometer Null.
+18|Die ehemalige Hauptpost, heute eines der größten Kulturzentren Lateinamerikas, mit dem Sinfoniesaal „Blauer Wal“.
+19|Vier Blocks mit asiatischen Supermärkten, Streetfood, Basaren und Restaurants. Am Wochenende sehr lebendig.
+20|Das legendäre Stadion der Boca Juniors. Das Museum umfasst eine Tour über Tribünen und Rasen, wenn kein Spiel ist.
+21|Das größte Stadion Südamerikas, Heimat von River Plate und der Nationalmannschaft. Museum und Stadiontour.
+22|Sieben Hektar mit Bäumen aus aller Welt, Gewächshäusern und Skulpturen direkt an der Plaza Italia.
+23|Der ehemalige Zoo, umgewandelt in einen Naturschutzpark, mit historischen Gebäuden und frei laufenden Tieren wie Maras und Pfauen.
+24|Die futuristische Kuppel in den Wäldern von Palermo, mit immersiven Astronomie-Shows.
+25|Internationale Gegenwartskunst am Riachuelo, mit einem Terrassencafé mit toller Aussicht.
+26|Ein ehemaliges Kraftwerk aus Backstein, heute Kulturzentrum mit kostenlosen Konzerten und Ausstellungen.
+27|Das Leben von Eva Perón, erzählt mit Objekten, Kleidern und Videos in einer Villa von 1920.
+28|Argentinische und internationale Kunst des 20. und 21. Jahrhunderts in einer ehemaligen Tabakfabrik aus Backstein.
+29|Ein Palast im französischen Stil vom Anfang des 20. Jahrhunderts, der zeigt, wie die Aristokratie von Buenos Aires lebte.
+30|Tunnel und Zisternen des kolonialen Buenos Aires, entdeckt unter einer restaurierten Villa.
+31|Eine Markthalle von 1897 mit Eisenkonstruktion: Antiquitäten, Gemüsehändler und Dutzende Essensstände.
+32|Der größte Friedhof der Stadt, mit den Gräbern von Carlos Gardel und Gustavo Cerati.
+33|Das meistprämierte Steakhaus des Landes und Stammgast auf den Listen der besten Restaurants der Welt. Weiderind und ein riesiger Weinkeller.
+34|Riesige Stücke, serviert mit einer Parade an Beilagen. Bei Besuchern sehr beliebt.
+35|Ein schnörkelloses Steakhaus im Viertel: gutes Fleisch, eine Empanada aufs Haus und faire Preise. Bei Einheimischen beliebt.
+36|Ein Steakhaus im Fußballstil, wo das Fleisch mit dem Löffel geschnitten wird, um zu zeigen, wie zart es ist.
+37|Ein beliebtes, lautes Steakhaus in der Calle Defensa. Choripán, Vacío und freundliche Preise.
+38|Ein kleines modernes Steakhaus mit geräucherten Stücken und üppigen Portionen.
+39|Ein Steakhaus mit uruguayischem Einschlag und Wänden voller Fußballtrikots. Berühmt für Pamplona und Kalbsbries.
+40|Seit 1932 die berühmteste Pfannenpizza der Avenida Corrientes. Viel Mozzarella und Fainá.
+41|Eine Pizzeria von 1934 mit Wänden voller Box- und Fußballandenken. Unvergessliche gefüllte Fugazzeta.
+42|Ein weiterer historischer Ort an der Corrientes: hohe, großzügige Pfannenpizza.
+43|Keine Tische: Man isst im Stehen. Für viele die beste gefüllte Fugazzeta von Buenos Aires.
+44|Die Pizzeria, die behauptet, die Fugazza mit Käse erfunden zu haben, gegründet von Einwanderern aus Genua.
+45|Echte neapolitanische Pizza aus dem Holzofen, einer der Pioniere dieses Stils in der Stadt.
+46|Ein Lebensmittelladen und Bodegón von 1952, wiederbelebt vom Team von Don Julio. Milanesas, spanisches Omelett und hausgemachte Wurstwaren.
+47|Ein historischer Bodegón von 1954 mit Fußballwimpeln und großzügigen Gerichten. Bono und die halbe Welt haben hier gegessen.
+48|Der Tempel der Milanesa: Dutzende Varianten, alle riesig, in einem Saal voller Rock-Andenken.
+49|Ein Feinkostladen und Bodegón von 1950: Ochsenschwanz, Schnecken, Kaninchen und Hausweine.
+50|Eine klassische Familien-Cantina: hausgemachte Pasta, Pizza vom Grill und Portionen zum Teilen.
+51|Empanadas, Locro, Tamales und Humita in einem rustikalen Speisesaal. Ein günstiger Klassiker mitten in Recoleta.
+52|Eintöpfe, Empanadas und Gerichte aus dem Norden aus dem Lehmofen, zu sehr freundlichen Preisen.
+53|Ein winziger Laden mit Empanadas nach Art von Catamarca. Die „Pikachu“ (Käse, Zwiebel und Chili) hat Kultstatus.
+54|Das älteste Café des Landes (1858). An seinen Marmortischen saßen Borges, Gardel und Alfonsina Storni.
+55|Ein Café von 1884 mit Buntglas und Marmor. Sein kompletter Nachmittagstee ist eine Institution.
+56|Ein Café gegenüber dem Friedhof, im Schatten eines riesigen Gummibaums. An einem der Tische warten Borges und Bioy Casares.
+57|Eine historische Bar von 1930, sorgfältig restauriert: tagsüber Kaffee, abends Wermut und porteñische Gerichte.
+58|Eine Bar von 1864 mit einer spektakulären geschnitzten Holztheke. Picadas und Sandwiches.
+59|Ein Gewürz- und Teeladen von 1927 mit unverwechselbarem Duft und einem Café.
+60|Ein Café von 1912, nach vollständiger Restaurierung wiedereröffnet: Buntglas, Kronleuchter und klassisches Gebäck.
+61|Eine handwerkliche Eisdiele einer italienischen Familie, seit 1957 an der Corrientes. Ihr Dulce de leche gehört zu den besten der Welt.
+62|Eine Schokoladen- und Eismanufaktur aus Bariloche. Berühmt für schokolierte Himbeeren (FraNuí).
+63|Handgemachtes Eis seit 1938, nach den Rezepten der Gründerfamilie.
+64|Eine handwerkliche Eiskette mit modernen Läden und Eis am Stiel in Formen.
+65|Ein Degustationsmenü argentinischer Spitzenküche; das vom Guide Michelin am höchsten bewertete Restaurant des Landes.
+66|Jüdische Einwandererküche, neu interpretiert mit Technik und Feierlaune. Das Pastrami ist legendär.
+67|Argentinische Produkte mit Hingabe zubereitet: Flussfisch, Fleisch, Käse und eine großartige Weinbar.
+68|Ein kleines produktorientiertes Restaurant, kreativ und präzise.
+69|Kleine Teller zum Teilen von Indien über Südostasien bis Lateinamerika. Eine Geschmacksexplosion zu gutem Preis.
+70|Alles kommt aus einem Holzofen in einer ehemaligen Garage: Gemüse, Fleisch und ein unvergesslicher Flan.
+71|Das Restaurant von Narda Lepes, in dem Gemüse die Hauptrolle spielt.
+72|Ein asiatischer Grill im Pop-Look: rote Lichter, Aquarien und ein berühmtes Katsu-Sando.
+73|Großzügige, günstige armenische und nahöstliche Küche. Ein Klassiker, der immer voll ist.
+74|Choripán auf einem anderen Niveau: hausgemachte Würste, besondere Brote und Saucen.
+75|Die klassischen Grillstände: Choripán und Bondiola-Sandwiches mit Flussblick, wie die Einheimischen essen.
+76|Hinter der Kühlschranktür eines Blumenladens versteckt sich eine der besten Bars der Welt, mit Cocktails rund um die Einwanderung.
+77|Eine kleine, laute und lustige Bar, gelistet unter den besten der Welt.
+78|Signature-Cocktails mit französisch-vietnamesischem Geist, von der bekannten Barkeeperin Inés de los Santos.
+79|Eine elegante Bar in einem kleinen Stadtpalais in Recoleta, mit einer beeindruckenden Theke.
+80|Eine Speakeasy-Bar hinter einem Café, im viktorianischen Industrie-Look.
+81|Eine Bohème-Milonga in einer riesigen Halle. Anfängerkurse und lockere Stimmung, ohne Dresscode.
+82|Eine der wichtigsten traditionellen Milongas, mit Parkettboden und Live-Orchestern.
+83|Eine beliebte Milonga im Keller des Armenischen Vereins, mit Tango-, Rock- und Salsa-Kursen.
+84|Eine Dinnershow in einem historischen Gebäude, die die Geschichte des Tangos erzählt.
+85|Ein historisches Café von 1890 mit einer der prächtigsten Tangoshows.
+86|Eine intime Show im Cabaret-Stil im Faena. Die exklusivste der Stadt.
+87|Eine improvisierte Percussion-Show, die den Montag zur Party macht. Ein Klassiker unter Reisenden.
+88|Der Jazzclub schlechthin in der Stadt.
+89|Ein Ort für Konzerte und Partys, im Zentrum der Szene von Palermo Hollywood.
+90|Der Broadway von Buenos Aires: Komödien, Musicals, das Teatro San Martín und Paseo La Plaza.
+91|Oper, Ballett oder Konzert in einem der großen Säle der Welt.
+92|Rundgänge von 2 bis 3 Stunden mit lokalen Guides, auf Spanisch und Englisch. Kein fester Preis: Am Ende zahlst du, was es dir wert war.
+93|Die Stadtregierung bietet kostenlose Führungen durch Viertel und Themenrundgänge an; vorher anmelden.
+94|Offene Busse mit Hop-on-Hop-off und Audioguide in mehreren Sprachen. Sie fahren von La Boca bis Belgrano.
+95|50 Minuten durch das Foyer, den Goldenen Saal und den großen Saal.
+96|Ein Rundgang durch Hölle, Fegefeuer und Paradies des Gebäudes, mit Aufstieg zum Leuchtturm.
+97|Mit Guide verstehst du die Geschichten hinter den Grüften: Evita, Rufina Cambaceres, Liliana Crociati.
+98|Wenn sie stattfinden, führen die Besichtigungen durch Säle, Innenhöfe und zum berühmten Balkon.
+99|Buenos Aires ist eine Welthauptstadt der Street-Art. Die Touren zeigen Wandbilder und erklären die Künstler.
+100|Die Stadt ist flach und hat über 250 km Radwege. Geführte Runden durch den Süden, den Norden oder die Parks.
+101|Geführte Spaziergänge durch Steakhäuser, Bodegones und Eisdielen: Choripán, Empanadas, Rindfleisch und Wein.
+102|Abendessen hinter verschlossenen Türen, bei denen du Empanadas machst, das Asado Schritt für Schritt probierst und Mate zubereitest.
+103|Vor jeder Milonga gibt es Gruppenkurse für alle Niveaus; ein Partner ist nicht nötig.
+104|Für Nichtmitglieder sind Fußballtickets schwer zu bekommen. Spezialisierte Agenturen bieten Ticket, Transfer und Begleitung.
+105|Kurze Bootsfahrten, um Küste und Skyline vom Fluss aus zu sehen, manche bis nach Tigre.
+106|Für eine private, maßgeschneiderte Tour lizenzierte Guides buchen: Sie haben einen offiziellen Ausweis der Tourismusbehörde.
+107|Ein Labyrinth aus Flüssen und Inseln. Fahr mit dem Linienboot oder Katamaran und besuch den Markt Puerto de Frutos und das Kunstmuseum von Tigre.
+108|Ein portugiesisches Altstadtviertel, Weltkulturerbe, auf der anderen Flussseite. An einem Tag zu Fuß zu erkunden.
+109|Die Wiege der Gaucho-Tradition: alte Pulperías, Silberschmiede, das Museum Ricardo Güiraldes und Estancias.
+110|Asado, Ausritte, Gaucho-Geschicklichkeit und Pool auf einer Estancia in der Pampa. Meist mit Transfer.
+111|Die Provinzhauptstadt mit neugotischer Kathedrale, dem Naturkundemuseum und der Casa Curutchet von Le Corbusier.
+112|Die imposante neugotische Basilika, der wichtigste Wallfahrtsort des Landes, und der Museumskomplex.
+113|Ein historisches Viertel mit Kathedrale, kolonialen Landhäusern, Kunsthandwerksmarkt und Uferpromenade.
+114|Ein Naturreservat und historische Insel mitten im Río de la Plata, einst Gefängnis für Präsidenten.
+115|Ein Biopark mit großen Gehegen, Aquarium und Voliere. Einer der besten Lateinamerikas.
+116|Die uruguayische Hauptstadt: die Altstadt, der Mercado del Puerto und die Uferpromenade.
+117|Ein ruhiger Ort an einer riesigen Lagune: Pejerrey-Angeln, Radfahren und Sonnenuntergänge.
+118|Der erste historische Ort der Provinz, mit alten Häusern, Landläden und Heißluftballonfahrten.
+119|Das große klassische Hotel von Buenos Aires seit 1932, im Belle-Époque-Stil.
+120|Ein Palast von 1934, verbunden mit einem modernen Turm durch Terrassengärten.
+121|Ein moderner Turm plus ein Belle-Époque-Palais, mit Außenpool.
+122|Theatralisches Design von Philippe Starck in einem ehemaligen Getreidesilo aus Backstein.
+123|Ein Pionier unter den Boutiquehotels in Palermo Hollywood, mit Garten, Pool und Spa.
+124|Ein Boutiquehotel mitten in Palermo Soho mit Innenhof und Pool.
+125|Geräumige Zimmer, eine Dachterrasse mit Pool und gutes Essen.
+126|Jedes Zimmer ist einer argentinischen Persönlichkeit gewidmet, von Borges bis Gardel.
+127|Ein elegantes Hotel an der Plaza Dorrego, dem Herzen von San Telmo.
+128|Ein modernes Hotel mit Dachterrasse und Pool, wenige Schritte von der Plaza San Martín und der Calle Florida.
+129|Ein zeitgenössisches Hotel in der ruhigsten und sichersten Gegend der Stadt.
+130|Ein großes Kettenhotel an den Docks, mit Pool auf dem Dach.
+131|Eine günstige, zuverlässige Option an der Corrientes, zwischen Theatern und Pizzerien.
+132|Das Partyhostel schlechthin, mit Aktivitäten jeden Tag.
+133|Ein sauberes, gut gestaltetes Hostel mit Privat- und Mehrbettzimmern.
+134|Teil einer lateinamerikanischen Hostelkette, mit Pool, Bar und Aktivitäten.
+135|Ein Hostel in Palermo Soho, nah an Bars und der Plaza Italia.
+136|Eine Mischung aus Hostel und Hotel mit Pool im Innenhof.
+137|Bei Aufenthalten über 4 oder 5 Nächte oder für Gruppen lohnt sich eine Wohnung meist mehr als ein Hotel.
+138|Der authentischste Markt: Kunsthandwerk, regionale Küche, Live-Folklore und Gaucho-Spiele wie das Ringstechen.
+139|Ein Kunsthandwerksmarkt am Wochenende auf den Hängen neben dem Friedhof.
+140|Unabhängige Designer und Kunsthandwerker mitten in Palermo Soho, umgeben von Bars.
+141|Eine riesige Halle voller antiker Möbel, Kronleuchter, Siphons und Vintage-Objekte.
+142|Ein Einkaufszentrum in einem Gebäude von 1889 mit einer Kuppel voller Wandbilder großer argentinischer Künstler.
+143|Das eleganteste Einkaufszentrum, in einem ehemaligen Viehauktionshaus.
+144|Läden mit unabhängigem argentinischem Design: Kleidung, Schuhe, Wohnaccessoires und Buchläden zwischen Spezialitätencafés.
+145|Die großen argentinischen Marken haben in diesen Blocks ihre Outlets, mit guten Rabatten.
+146|Die bekannteste Einkaufs-Fußgängerzone: Passagen, Läden und tagsüber viel Trubel.
+147|Kilometerlange Schaufenster, Passagen und Buchläden, wo die Einheimischen einkaufen.
+148|Buenos Aires ist eine der Städte mit den meisten Buchläden pro Einwohner: Hier findest du bis Mitternacht Antiquarisches, Schnäppchen und Raritäten.
+149|Ein brutalistischer Betonriese auf Stelzen, mit Lesesälen mit Flussblick und kostenlosen Ausstellungen.
+150|Zeitgenössische Skulpturen und ein Denkmal für die Opfer des Staatsterrorismus am Río de la Plata. Still und bewegend.
+151|Drei Blocks mit Häusern voller bunter Mosaike und Wandbilder, ein Werk des Künstlers Marino Santa María.
+152|Patagonische Dinosaurier, ein Aquarium und Säle mit argentinischer Tierwelt im Parque Centenario. Ein Liebling der Kinder.
+153|Argentinische und internationale Kunst (Berni, Xul Solar, Warhol, Turner) in einem Glasbau am Dock.
+154|Die Werkstätten des Teatro Colón für das Publikum geöffnet: riesige Bühnenbilder, Kostüme und Requisiten aus Opern und Balletten.
+155|Der Uhrturm von 1916 gegenüber dem Bahnhof Retiro. Steig zum Aussichtspunkt hinauf, um Hafen und Plaza San Martín zu sehen.
+156|Einer der Pioniere des Spezialitätenkaffees in der Stadt, mit eigener Rösterei und Brew-Bar.
+157|Ein beliebtes Spezialitätencafé in Palermo Soho, mit hausgemachtem Gebäck und sonnigem Gehweg.
+158|Eis und Desserts mit Saisonzutaten von einem bekannten Pâtissier.
+159|Rein pflanzliche Spitzenküche in einem eleganten Saal, mit guten Cocktails.
+160|Ein kleines Kultlokal, ganz den Pilzen gewidmet: alles vegan und voller Geschmack.
+161|Ein Food-Markt mit Ständen für Pasta, Grill, asiatische Küche, Weine und Gebäck unter einem Dach.
+162|Ein renovierter Viertelmarkt von 1891: Stände mit frischen Produkten und Theken für einen schnellen Bissen.
+163|Eine Craft-Brauerei mit eigenen Zapfhähnen, langen Tischen und Essen zum Teilen.
+164|Bar und Restaurant im 19. Stock des Comega-Gebäudes, mit freiem Blick auf den Fluss und Puerto Madero.
+165|Die Dachterrasse des Palacio Barolo: Drinks mit der Kongresskuppel im Hintergrund.
+166|Die Kathedrale des Polo: Hier wird die Argentinische Open gespielt, das wichtigste Turnier der Welt, mit den besten Spielern des Planeten.
+167|Eine Pferderennbahn von 1876 mit Tribüne im französischen Stil. Der Eintritt zu den Rennen ist frei, die Stimmung sehr lokal.
+168|Die Kathedrale des argentinischen Tennis, auf Sand. Heimat der Argentina Open, des ATP-Turniers der Stadt.
+169|Die modernste Halle der Stadt: internationale Konzerte, Basketball und Sportevents.
+170|Der Tempel des Rock und ein historischer Platz des argentinischen Basketballs.
+171|Das Stadion von Argentinos Juniors, wo Maradona debütierte. Rundherum Wandbilder und ein Viertel, das an jeder Ecke an ihn erinnert.
+172|Der Palast von Huracán: ein Art-déco-Stadion von 1949 mit einem Turm, der historisches Denkmal ist.
+173|Das Stadion von Vélez Sarsfield, in dem auch Los Pumas spielen und große Konzerte stattfinden.
+174|Die Rennstrecke der Stadt, historische Heimat der Formel 1 und heute des Turismo Carretera.
+175|Die Lieblingsrunde der Einheimischen: Runden um den See des Rosengartens, am Wochenende autofrei.
+176|Etwa 12 flache, fast autofreie Kilometer: die Docks, die Costanera Sur und die Wege des Reservats bis zum Fluss.
+177|Ein öffentliches Velodrom zum Radfahren, Skaten und Laufen, mit Plätzen und im Sommer einem Pool.
+178|Ein öffentlicher 18-Loch-Platz mitten in den Wäldern von Palermo.
+179|Zwischen Inseln, Bächen und Pfahlbauten zu paddeln ist die beste Art, das Delta kennenzulernen. Es gibt geführte Ausfahrten für Anfänger.
+180|Ein Beachclub am Río de la Plata mit Windsurfen, Kitesurfen, Stand-up-Paddling, Kletterwand und Skatepark.
+181|Ein Spiel ansehen, auch ohne Reiterfahrung eine Stunde nehmen und mit Asado abschließen. Meist mit Transfer.
+182|Ein Restaurant mit komplett glutenfreier Küche: Pasta, Pizza, Burger und Gebäck, die nicht nach „ohne“ schmecken.
+183|Eine 100 % glutenfreie Bäckerei, Café und Feinkostladen, mit mehreren Filialen.
+184|Pionier der vegetarischen, veganen und glutenfreien Küche der Stadt, mit vielen Rohkostgerichten.
+185|Ein Grill wie im Viertel, aber alles vegan: „Choripán“, „Vacío“ und Milanesas aus Seitan.
+186|Eine weltweite Seltenheit: ein koscherer McDonald's außerhalb Israels, im Food-Court des Abasto.
+187|Ein traditionelles koscheres Steakhaus im Viertel Once: Fleisch vom Grill und jüdische Gerichte.
+188|Die Ramen-Bar, die japanische Nudeln in der Stadt in Mode brachte, mit Thekenplätzen und lauter Musik.
+189|Nikkei-Küche, die peruanisch-japanische Fusion, in ihrer elegantesten Form: Tiraditos, Sushi und Fisch.
+190|Die peruanische Cebichería von Gastón Acurio in einer Halle mit Innenhof. Ceviches, Causas und Pisco Sour.
+191|Beliebte, leckere und günstige peruanische Küche nahe dem Kongress. Immer voller Büroangestellter.
+192|Das bekannteste Restaurant im koreanischen Viertel: Tischgrill, Bibimbap und Dutzende kleine Gerichte.
+193|Ein avantgardistisches Degustationsmenü für wenige Gäste, vor einer offenen Küche.
+194|Argentinischer Fisch und Meeresfrüchte mit viel Sorgfalt zubereitet, mit Austernbar.
+195|Die üblichen Bodegón-Gerichte neu gedacht im kleinen Format: Empanadas, Reisgerichte, Milanesa.
+196|Entspannte Autorenküche mit Einflüssen von überall; ein Liebling der Köche.
+197|Ein helles Bistro an der schönsten Avenida von San Telmo, mit einfacher, gut gemachter Küche.
+198|Eine Trattoria im Viertel mit hausgemachter Pasta, Focaccia und gutem Gebäck.
+199|Eine alte Viertelbäckerei, heute Restaurant, mit Weltküche und tollem Brot.
+200|Eine sehr kreative Fisch- und Meeresfrüchtebar.
+201|Ein Steakhaus im Viertel, das rund um die Uhr an jedem Tag des Jahres geöffnet ist. Ein Klassiker für späte Nächte.
+202|Ein riesiges, volkstümliches Steakhaus an den Bahngleisen, berühmt für Riesenportionen und Preise.
+203|Eine winzige Theke neben dem Markt mit einem der bekanntesten Choripanes der Stadt.
+204|Eine U-förmige Theke, an der die Sandwiches über den Tresen rutschen. Eine Postkarte des Microcentro.
+205|Eine Sauerteigbäckerei mit Medialunas, Sandwiches und Kaffee, in einer Halle.
+206|Die bekannteste Alfajor-Marke des Landes. Ihre Cafés sind ein sicherer Halt zum Probieren.
+207|Über 140 argentinische Weine glasweise, aus Automaten, an denen du wählst, wie viel du probierst.
+208|Ein kleiner Weinladen mit Sauerteigbrot, Käse und Weinen kleiner Weingüter.
+209|Man betritt eine riesige Bar durch eine detailgetreu nachgebaute New Yorker U-Bahn-Station.
+210|Ein LGBT+-Café, Bar und Buchladen mit entspannter Stimmung ab dem Nachmittag.
+211|Eine der belebtesten LGBT+-Bars der Stadt, mit Popmusik und Tanzfläche.
+212|Theater, Konzerte und Abendessen in völliger Dunkelheit, geleitet von blinden Künstlern. Ein einzigartiges Erlebnis.
+213|Die Kathedrale an der Plaza de Mayo mit einer Fassade wie ein griechischer Tempel. Hier liegt das Mausoleum von General San Martín, und es war die Kirche von Papst Franziskus.
+214|Das Kolonialgebäude, in dem die Mairevolution von 1810 begann. Heute ein Museum.
+215|Ein ehemaliges Kloster mit Ausstellungen, Musik und bunten Innenhöfen, neben einer der ältesten Kirchen der Stadt (1732).
+216|Ein Palast, verkleidet mit 300.000 Stück englischer Keramik, nur gebaut, um Wassertanks zu verbergen. Eines der schönsten Gebäude der Stadt.
+217|Das Jugendstil-Café gegenüber dem Kongress, 25 Jahre geschlossen und restauriert. Auf seiner Kuppel trägt es Windmühlenflügel.
+218|Eine Passage von 1915 mit Buntglaskuppeln. Im 14. Stock gibt es einen Aussichtspunkt mit 360-Grad-Blick über das Microcentro.
+219|Haus und Werk von Xul Solar, Maler und Erfinder, ein Freund von Borges. Ein kleines, faszinierendes Museum.
+220|Koloniales Silber, Malerei und Möbel in einem neokolonialen Palast mit andalusischem Garten.
+221|Das Haus, in dem Gardel mit seiner Mutter lebte, im Herzen des Abasto. Im Block sind die Fassaden im Fileteado-Stil bemalt.
+222|Mafalda auf einer Bank mit Susanita und Manolito und ein Weg mit Skulpturen argentinischer Comicfiguren.
+223|Die Hänge, an denen die Stadt vermutlich gegründet wurde, mit einem Museum, das den Säbel von San Martín bewahrt.
+224|Der eleganteste Platz der Stadt, umgeben von Palästen und dem Kavanagh-Gebäude. Im November füllt er sich mit Jacarandas.
+225|Die größte Moschee Südamerikas, mit zwei 50 Meter hohen Minaretten.
+226|Die erste Synagoge der Stadt, gegenüber der Plaza Lavalle, mit einem Museum der jüdischen Einwanderung.
+227|Eine Miniaturstadt, in der Kinder Arzt, Journalist oder Kassierer spielen. Für unter 12-Jährige.
+228|Geführte Verkostungen, um Malbec, Torrontés und die argentinischen Weinregionen zu verstehen.
+229|Die Orte im Leben von Jorge Bergoglio, bevor er Papst Franziskus wurde: sein Geburtshaus, seine Pfarrei und seine Schule.
+230|Eines der meistbesuchten Einkaufszentren der Stadt, in der riesigen Art-déco-Markthalle, wo Carlos Gardel aufwuchs. Kinos, Food-Court und das Kindermuseum.
+231|Das große Einkaufszentrum im Norden der Stadt, an der Ringstraße General Paz: internationale Marken, Kinos, Food-Court und Spiele für Kinder.
+232|Das größte Einkaufszentrum Argentiniens, im Norden des Großraums Buenos Aires: Hunderte Läden, Kinos und ein riesiger Food-Court.
+233|Ein Klassiker an der Avenida Santa Fe, mit den wichtigsten argentinischen Modemarken.
+234|Ein ruhiges, elegantes Einkaufszentrum mit Designermarken und gutem Food-Court.
+235|Ein Open-Air-Outlet führender Marken unter den Bögen der alten Eisenbahn.
+236|Gegenüber dem Friedhof Recoleta: Kinos, Läden und eine Terrasse mit Blick auf die Grüfte.
+237|Ein kleines, charmantes Einkaufszentrum in einer ehemaligen Fabrik in Las Cañitas.
+238|Ein praktisches Einkaufszentrum mit großem Supermarkt und Läden.
+239|Das Einkaufszentrum des Viertels Caballito, an der Avenida Rivadavia.
+240|Ein Viertel-Einkaufszentrum mit Kinos im Wohnviertel Villa Devoto.
+241|Ein Viertel-Einkaufszentrum in Liniers, nahe dem Bahnhof.
+242|Das größte volkstümliche Einkaufsviertel: Stoffe, Modeschmuck, Spielzeug, Kostüme und Elektronik, im Groß- und Einzelhandel.
+243|Block um Block Großhandelskleidung zu sehr niedrigen Preisen, wo Händler aus dem ganzen Land einkaufen.
+244|Die Einkaufsstraße von Belgrano: Passagen, Läden und Kinos.
+245|Das Open-Air-Einkaufsviertel von Villa del Parque, mit dem Platz des Viertels zwei Blocks entfernt.
+246|Jeden Tag antiquarische Bücher und am Wochenende ein riesiger Markt mit Antiquitäten, Kleidung und Kunsthandwerk rund um den See.
+247|Ein Paradies für Sammler: Bücher, Schallplatten, Zeitschriften, Briefmarken und Münzen.
+248|Ein Viertelmarkt von 1889, der noch in Betrieb ist: erstklassige Metzger, Gemüsehändler, Käse und Wurstwaren.
+249|Vier Blocks voller Restaurants, Steakhäuser und Bars, direkt neben dem Poloplatz.
+250|Das neue Gastro-Viertel im Norden der Stadt: Craft-Beer-Bars, Steakhäuser und Cafés entlang eines grünen Korridors.
+251|Der Platz von Devoto, umgeben von Restaurants, Eisdielen und alten Villen. Eines der schönsten und grünsten Viertel.
+252|Eine Bar von 1927 mit Billardtischen und Wänden voller Andenken. Ihre Picada ist in der ganzen Stadt berühmt.
+253|Eine historische Bar von 1904, in der das Sandwich mit eingelegtem Truthahn erfunden wurde.
+254|Eine restaurierte Eckbar von 1906 mit hausgemachten Gerichten und Viertelatmosphäre.
+255|Die Ecke San Juan und Boedo, die aus dem Tango „Sur“, mit Abendessen und Show jeden Abend.
+256|Das Haus des argentinischen Kinos, gegenüber der Plaza del Congreso: nationale Neuerscheinungen zu sehr niedrigem Preis.
+257|Ein Kino alter Schule an der Corrientes, dem Arthouse- und unabhängigen Film gewidmet.
+258|Ein Multiplex mit großen Neuerscheinungen, viele in Originalsprache mit Untertiteln.
+259|Das einzige Nationaltheater des Landes, mit einer Fassade nach dem Vorbild der Universität von Alcalá de Henares.
+260|Der größte Saal der Calle Corrientes: 3.200 Plätze für Konzerte und große Shows.
+261|Das bekannteste freie Theater der Stadt, entstanden im hinteren Teil eines traditionellen „Chorizo“-Hauses.
+262|Ein freies Theater mit Bar, eines der beliebtesten der Szene.
+263|Ein Kino-Theater von 1929, von Nachbarn gerettet, mit Filmen, Musik und Theater zu niedrigen Preisen.
+264|Ein Wissenschaftsmuseum zum Anfassen, Spielen und Experimentieren, im Polo Científico.
+265|Das Mitmach-Wissenschaftsmuseum: Hier wird alles angefasst, gedrückt und ausprobiert.
+266|Ein Wasserpark mit riesigen Becken und Rutschen am Fluss. Der Sommerplan der Einheimischen.
+267|Eine Mega-Ausstellung zu Wissenschaft, Technik und Kunst, mit Dinosauriern, Spielen und Shows.
+268|Der größte Freizeitpark der Gegend, am Fluss in Tigre.
+269|Eine Miniaturstadt von 1951 mit Palästen, Banken und einer kleinen Eisenbahn, alles in Kindergröße.
+270|Teamspiele von einer Stunde, bei denen man Rätsel löst, um aus einem Raum zu entkommen. Es gibt Dutzende zu jedem Thema.
+271|Das größte geheime Haftzentrum der letzten Diktatur, heute Museum und Gedenkstätte. Ein harter, aber nötiger Besuch, um Argentinien zu verstehen.
+272|Das Werk des Malers, der La Boca seine Farben gab, mit Terrassen voller Skulpturen und Blick auf den Riachuelo.
+273|Ein von Thays entworfener Park am Hang, mit einem Pavillon, in dem Tango getanzt wird, und einem Museum mit dem schönsten andalusischen Garten der Stadt.
+274|Die Promenade am Río de la Plata: Angler, Choripán-Wagen und Flugzeuge, die wenige Meter über dir in Aeroparque landen.
+275|Ein ehemaliger Bauernhof, heute Museum über das Leben im Buenos Aires des 19. Jahrhunderts, in einem großen, ruhigen Park.
+276|Ein öffentlicher Sportpark von 70 Hektar: Laufbahnen, Plätze, im Sommer Pools und viel Grün.
+277|Das einzige Viertel der Stadt mit kreisförmigen Straßen, benannt nach europäischen Hauptstädten. Berühmt, weil sich alle verlaufen.
+278|Ein englischer Bahnhof von 1891, umgeben von Häusern im britischen Stil und ruhigen Straßen.
+279|Ein riesiger, grüner Universitätscampus mit Gemüsegärten und Nutztieren. Man fühlt sich mitten in der Stadt wie auf dem Land.
+280|Das Haus, in dem die beliebteste Komödie des argentinischen Kinos gedreht wurde. Fans kommen für ein Foto an der Tür.
+281|Das Stadion von All Boys, einem Viertelclub mit starker Identität. Unterklassiger Fußball mit lokalen Fans.
+282|Das Heiligtum des Schutzheiligen von Brot und Arbeit. Jeden 7. August kommen Hunderttausende.
+283|Ein Gaucho-Museum unter den Arkaden des alten Viehmarkts, samt traditioneller Pulpería.
+284|Einer der größten Parks der Stadt, mit einer Villa aus dem 19. Jahrhundert, einer Baumschule und einer historischen kleinen Eisenbahn.
+285|Der Park des Viertels, mit Rosengarten, Leichtathletikbahn und Kulturzentrum.
+286|Ein Park von Carlos Thays in dem Viertel, das heute der Technologie-Hub der Stadt ist.
+287|Das am besten erhaltene Kolonialgebäude der Stadt, von 1795, mit intakten Kreuzgängen und Innenhöfen.
+288|Ein Tangomuseum im Viertel, eingerichtet von einem Anwohner an der Ecke aus dem Tango „Manoblanca“.
+289|Ein Naturreservat rund um einen See im Süden der Stadt.
+290|Ein Viertelplatz, angelegt dort, wo die Werkstätten Vasena standen, Schauplatz der Tragischen Woche von 1919.
+291|Der Hauptplatz von Floresta. Keine Touristenattraktion: Hier sieht man, wie man fern vom Zentrum lebt.
+292|Der Platz eines Viertels mit niedrigen Häusern und ruhigen Straßen. Keine Touristenattraktion: Es ist Viertelleben.
+293|Der Platz eines der kleinsten und ruhigsten Viertel der Stadt, am westlichen Rand.
+294|Der Platz des Viertels, wenige Blocks vom Stadion von All Boys.
+295|Der Platz eines Wohnviertels im Westen, nahe dem Stadion von Vélez.
+296|Über ein Jahrhundert war es das einzige Viertel von Buenos Aires ohne Platz. Diesen haben sich die Nachbarn erkämpft.
+297|Die älteste noch stehende Kirche der Stadt, von den Jesuiten erbaut, neben der Manzana de las Luces und ihren kolonialen Tunneln.
+298|Eine Franziskanerkirche aus dem 18. Jahrhundert mit deutscher Barockfassade und daneben die Kapelle San Roque.
+299|Ein Kolonialkloster, das Fahnen aus den britischen Invasionen bewahrt und im Vorhof das Mausoleum von Manuel Belgrano.
+300|Eine der ältesten Kirchen im Zentrum, daneben ein Kloster mit kolonialem Innenhof.
+301|Die älteste nichtkatholische Kirche Südamerikas, von 1831, mit einer Front aus neoklassischen Säulen.
+302|Eine Kirche aus dem späten 19. Jahrhundert wenige Meter vom Kongress, mit reich geschmücktem Inneren.
+303|Die Pfarrei, die dem Viertel den Namen gab. Hier ist der Schrein des heiligen Expeditus, am 19. jedes Monats viel besucht.
+304|Eine große Jesuitenkirche aus dem 19. Jahrhundert neben der gleichnamigen Schule.
+305|Eine der prächtigsten Kirchen der Stadt, gebaut mit Marmor und Bronze aus Frankreich.
+306|Eine Kirche aus den 1930er-Jahren an der Avenida Santa Fe. In der ursprünglichen Kirche wurde in der Stadt zum ersten Mal die Fahne gehisst.
+307|Die Kirche, die dem Viertel den Namen gab, 1734 von den Jesuiten begonnen, an der Plaza Dorrego.
+308|Fünf blaue Kuppeln mit Sternen gegenüber dem Parque Lezama. Die erste orthodoxe Kirche Südamerikas.
+309|Eine lutherische Kirche aus rotem Backstein in nordischer Neugotik, unerwartet mitten in San Telmo.
+310|Eine Kirche von 1876 zum Gedenken an Felicitas Guerrero, mit einer der tragischsten Liebesgeschichten der Stadt.
+311|Eine neugotische Basilika vom Anfang des 20. Jahrhunderts, die größte im Süden der Stadt.
+312|Eine riesige, farbenfrohe Basilika, in der Papst Franziskus getauft wurde und Carlos Gardel als Kind sang.
+313|Zwei romanische Türme an der Plaza Güemes, Herz der Gegend, die man Villa Freud nennt.
+314|Die Kathedrale der syrisch-libanesischen Gemeinschaft, mit Ikonen und byzantinischer Kuppel.
+315|Das Zentrum der armenischen Gemeinschaft, an der Straße, die ihren Namen trägt und ihre Restaurants versammelt.
+316|Die runde Kuppelkirche, Wahrzeichen von Belgrano, gegenüber dem Platz und seinem Markt.
+317|Ein buddhistischer Tempel der taiwanischen Gemeinschaft, mit Teehaus und offenen Aktivitäten.
+318|Die Kirche, in der Jorge Bergoglio seine Berufung spürte, gegenüber dem Platz des Viertels.
+319|Eine der höchsten Kuppeln der Stadt, gegenüber der grünen Plaza Arenales.
+320|Eine neugotische Kirche, der Nuestra Señora del Buen Ayre geweiht, die der Stadt den Namen gab.
+321|Die neugotische Kirche aus den Tangos von Homero Manzi, Herz des Viertels.
+322|Ein Backsteinheiligtum mit sehr hohem Turm, am Rand des Parque Chacabuco.
+323|Ein Museum der Universität von Buenos Aires mit Stücken indigener Völker Argentiniens und anderer Kontinente.
+324|Das Haus, in dem Bartolomé Mitre lebte, mit Möbeln, Bibliothek und Karten der Zeit.
+325|Hinter der Casa Rosada, in den Galerien des alten Zollhauses: argentinische Geschichte und ein Wandbild von Siqueiros.
+326|Eine sorgfältige Reise durch die Shoah und ihre Verbindung zu Argentinien.
+327|Kreolisches Silber, Ponchos, Matebecher und Kunsthandwerk aus dem ganzen Land.
+328|Argentinische Kunst gegenüber dem Rosengarten, mit Skulpturengarten und Café.
+329|Ein Museum für Gegenwartskunst der geometrischen Abstraktion, neben dem Museum für Moderne Kunst.
+330|Das Gebäude, in dem 1880 die Nationalregierung saß, heute Sarmiento gewidmet.
+331|Haus und Atelier des Bildhauers Rogelio Yrurtia, mit einem schönen Garten.
+332|Ein Hausmuseum mit Hunderten Skulpturen, viele inspiriert von den Andenvölkern.
+333|Das ehemalige Einwandererhotel, in dem Millionen Neuankömmlinge ihre ersten Tage verbrachten.
+334|Eine Sammlung von Waffen und Rüstungen im Palacio Paz, gegenüber der Plaza San Martín.
+335|Ein Schulschiff von 1897, in Puerto Madero vertäut, das man innen besichtigen kann.
+336|Das älteste noch schwimmende Schiff der Marine, berühmt für eine Antarktis-Rettung 1903.
+337|Argentinische Comics und Karikaturen in der alten Bierhalle Munich an der Costanera Sur.
+338|Der Eisenriese von 1914 über dem Riachuelo, eine der wenigen erhaltenen Schwebefähren der Welt.
+339|Das erste eigene Haus von Diego Maradona, erhalten wie 1980.
+340|Restaurierte Straßenbahnen, die eine Runde durchs Viertel drehen, betrieben von einem Verein Freiwilliger.
+341|Ein märchenhaftes Gebäude mit einem Steg, der in den Río de la Plata ragt, gegenüber dem Aeroparque.
+342|Es präsentiert sich als ältestes Restaurant der Stadt (1860). Spanische und porteñische Küche.
+343|Ein spanischer Bodegón an der Avenida de Mayo mit riesigen Portionen.
+344|Ein weiterer spanischer Klassiker, über ein Jahrhundert alt, berühmt für seinen Puchero.
+345|Papiertischdecken, Vermicelli mit Tomate und Pesto und seit Jahrzehnten freundliche Preise.
+346|Grill und Pasta in einem traditionellen Speisesaal einen Block von der Corrientes.
+347|Pfannenpizza alter Schule, im Abschnitt der Corrientes nahe dem Bajo.
+348|Eine historische Pizzeria mit Wänden voller Fotos von Gardel und Tangogrößen.
+349|Der Ort für heiße Schokolade mit Churros an der Calle Corrientes.
+350|Das Café, in dem Cortázar seinen Roman „Die Gewinner“ ansiedelte.
+351|Eine historische Bar von 1894 mit Billardtischen im Keller und Tangoshows.
+352|Ein Viertel-Bodegón mitten in Recoleta: Milanesas, Pasta und Kellner von eh und je.
+353|Land und Meer über der Glut: gegrilltes Fleisch und Fisch in einem eleganten Saal.
+354|Autorenküche mit sehr gutem Fisch an einer ruhigen Ecke in Recoleta.
+355|Holztische mit eingeritzten Namen und Fenster zum ältesten Platz des Viertels.
+356|Eine historische Bar mit literarischer Vergangenheit, großzügigen Picadas und Sandwiches.
+357|Gegenüber dem Parque Lezama, fast den ganzen Tag geöffnet, mit dem Flair einer anderen Zeit.
+358|Die andere historische Bar an der Ecke des Parque Lezama, mit hängenden Wurstwaren und Wermut.
+359|Eine alte Metzgerei, heute Steakhaus, mit gutem Fleisch und für die Gegend vernünftigen Preisen.
+360|Schnelle, leckere Empanadas, Burger und Tacos, mit jungem Flair.
+361|Ein Kolonialhaus mit Kolonialwarenladen, Innenhof und kreolischer Küche.
+362|Ein Steakhaus mit Innenhof in einem Mietshaus, einen Block von Caminito.
+363|Hausgemachte Pasta aus Norditalien, unter den besten der Stadt.
+364|Das bekannteste Steakhaus von Puerto Madero, mit Fleisch von der eigenen Estancia und Blick aufs Dock.
+365|Grill zum Festpreis: so viel Fleisch und Salat, wie du willst.
+366|Kreolischer Spießbraten am offenen Feuer in Sichtweite und Estancia-Dekor am Dock.
+367|Holzfeuerküche und ein großartiger Weinkeller in einem modernen Saal im Bajo Belgrano.
+368|Eine Thekenpizzeria von 1932, berühmt für ihre gefüllte Fugazzeta.
+369|Ein Bodegón mit Riesenportionen: Die Milanesas hängen über den Tellerrand.
+370|Gegenüber dem Bahnhof Federico Lacroze, Pfannenpizza seit 1947.
+371|Eine riesige historische Bar mit Pool-, Billard- und Tischtennistischen, die lange geöffnet hat.
+372|Bäckerei und Brunch in einem alten Haus mit Innenhof.
+373|Eine historische Bar von 1929 mit Wänden voller Fußballwimpel.
+374|Eine italienische Cantina von 1909, in der Astor Piazzolla aß.
+375|Eine Viertelpizzeria, berühmt für ihre gefüllte Fugazzeta.
+376|Eine italienische Cantina von 1926 mit Fusilli (handgemachte Pasta) und langsam gekochten Saucen.
+377|Eine historische Bar gegenüber dem Parque Rivadavia, Treffpunkt der Münz- und Briefmarkensammler.
+378|Die Konditorei von Damián Betular: Schautorten und Macarons.
+379|Eine historische Bar gegenüber dem alten Viehmarkt, Treffpunkt von Viehtreibern und Nachbarn.
+380|Ein alter Kolonialwarenladen mit Bar von 1915, mit hängenden Schinken und Regalen bis zur Decke.
+381|Eine historische Bar von 1893 mit Tangoabenden und Viertel-Milonga.
+382|Ein historisches Tangohaus an einer Kolonialecke, mit Live-Orchester und wenigen Plätzen.
+383|Eine winzige Bar, in der einen Meter von deinem Tisch Tango gespielt und getanzt wird.
+384|Eine Dinnershow in einem umgebauten Mietshaus, mit Tango und Folklore.
+385|Eine große Tangoshow in einem ehemaligen Kino, neben dem Obelisken.
+386|Eine Dinnershow im Abasto, wo Gardel verkehrte.
+387|Eine kleine traditionelle Milonga, eine der von Tänzern am meisten geschätzten.
+388|Die Samstags-Milonga auf dem Basketballplatz eines Viertelclubs: authentischer Tango aus Villa Urquiza.
+389|Man nennt ihn die Kathedrale des Tangos: ein hundertjähriger Club mit Milongas und Kursen.
+390|Ein Jazzclub mit Tischen, guter Akustik und fast jeden Abend Shows.
+391|Plattenladen, Bar und Jazzbühne mit Garten hinten.
+392|Ein klassischer mittelgroßer Konzertsaal: Rock, Tango, Folklore und Comedy.
+393|Ein altes Kino, umgebaut zum Rockschuppen.
+394|Eine umgebaute Ölfabrik mit Konzerten, Theater und Partys im Innenhof.
+395|Eine winzige Bar von 1893, in der bis spät in die Nacht Tango gesungen wird.
+396|Eine der ersten Bars hinter verschlossenen Türen der Stadt; ernsthafte Cocktails.
+397|Cocktails, inspiriert von den Romanen von Jules Verne.
+398|Eine Bar, spezialisiert auf Martinis und klassische Cocktails.
+399|Eine Bar in einer Villa vom Anfang des 20. Jahrhunderts, mit Marmortreppe und Garten.
+400|Ein englischer Pub mit Pool hinten, Curry und Bier vom Fass.
+401|Ein Art-déco-Hotel einen Block von der Plaza de Mayo, mit Pool auf dem Dach.
+402|Ein Hotel zum Thema Tango in einem historischen Gebäude an der Avenida de Mayo.
+403|Ein klassisches Hotel an der Diagonal Norte, mit Dachpool und Blick auf den Obelisken.
+404|Gegenüber Obelisk und Teatro Colón, mit Spa und Pool im obersten Stock.
+405|Ein historisches Hotel von 1910, einen Block vom Kongress.
+406|Ein historisches Gebäude im spanisch-neokolonialen Stil im Bajo.
+407|Ein Turm gegenüber der Torre Monumental und dem Bahnhof Retiro, mit Pool und Plätzen.
+408|Ein klassisches Hotel mit Garten und Hallenbad, nahe Retiro und Recoleta.
+409|Ein moderner Turm der Familie Alvear, mit Pool in der Höhe.
+410|Ein Luxushotel in einem der elegantesten Blocks, nahe dem Patio Bullrich.
+411|Ein modernes Hotel wenige Blocks vom Friedhof Recoleta.
+412|Wenige Zimmer im Gebäude eines hundertjährigen Clubs, mit französischem Restaurant.
+413|Ein Luxus-Boutiquehotel mit sehr persönlichem Service.
+414|Einer der höchsten Türme der Stadt, mit Bar und Pool in den obersten Etagen.
+415|Das Haus, in dem Francis Ford Coppola wohnte, mit tropischem Garten und wenigen Suiten.
+416|Ein ehemaliges Kloster, heute Boutiquehotel, einen halben Block von der Plaza Serrano.
+417|Eine umgebaute Villa mit Dachterrasse, nahe Plaza Italia und U-Bahn.
+418|Das große öffentliche Theater der Stadt: drei Bühnen, ein Kino, eine Fotogalerie und günstige Tickets.
+419|Die Kathedrale des Revuetheaters von Buenos Aires, heute mit Musicals und Komödien.
+420|Ein Art-déco-Saal von 1936 mit einem Sternenhimmel an der Decke.
+421|Eine offene Passage mit mehreren Theatern, Bars und Stand-up-Comedy.
+422|Ein Universitätskino mit Filmreihen, Klassikern und unabhängigen Premieren.
+423|Die Kinemathek des Teatro San Martín: Arthouse-Reihen und Retrospektiven.
+424|Ausstellungen, Theater, Musik und Film zu niedrigen Preisen, hinter dem Teatro San Martín.
+425|Kunstausstellungen und Shows über den Galerías Pacífico.
+426|Ein öffentliches Theater, gestiftet von Quinquela Martín, mit seinen Wandbildern im Foyer.
+427|Ein religiöser Themenpark, der Jerusalem nachbildet, am Fluss. Kurios und einzigartig.
+428|Ein großer Park am Fluss mit Spielplätzen, Sand und Sonnenschirmen im Sommer.
+429|Das Nuevo Gasómetro, Heimstadion von San Lorenzo, einem der fünf großen Clubs.
+430|Das Stadion von Ferro Carril Oeste, mit hundertjährigen Holztribünen.
+431|Das Stadion des „Torito“ von Mataderos, grün und schwarz wie das ganze Viertel.
+432|Ein riesiger Markt am Fluss: Korbwaren, Möbel, Pflanzen, Wohnaccessoires und Essensstände.
+433|Ein Palast von 1912 am Río Luján, mit argentinischer Kunst und einer Terrasse wie aus dem Film.
+434|Die Uferpromenade von Tigre: hundertjährige Ruderclubs, Restaurants und Schatten zum Spazieren.
+435|Modelle, Schiffe und Flugzeuge, die die Marinegeschichte Argentiniens erzählen.
+436|Die Holzboote, die die Inselbewohner als Bus nutzen. Der günstigste und authentischste Weg ins Delta.
+437|Fahrten von ein oder zwei Stunden auf den Hauptflüssen, mit Guide an Bord.
+438|Der am leichtesten erreichbare Inselort: Wege und Brücken zwischen Pfahlbauten und Restaurants am Wasser.
+439|Das Holzhaus, in dem Sarmiento seine Tage auf der Insel verbrachte, geschützt in einem Glaskasten.
+440|Verbring den Tag auf einer Insel mit Pool, Flussstrand, Mittagessen und Liegestühlen. Es gibt Angebote für Familien und nur für Erwachsene.
+441|Ein Panoramazug am Fluss entlang, der an restaurierten Bahnhöfen mit Antiquitätenläden und Cafés hält.
+442|Die Villa von Victoria Ocampo, in der Borges, Tagore und Camus wohnten. Heute gehört sie der UNESCO.
+443|Ein ruhiger uruguayischer Ort mit Flussstränden, Weingütern und Weinbergen, erreichbar durch das Delta.
+444|Du springst an einen Instruktor geschnallt aus etwa 3.000 Metern, ohne Vorkenntnisse. Lobos ist das klassische Fallschirmgebiet nahe der Stadt.
+445|Ein Flug bei Sonnenaufgang über das Land um Buenos Aires, mit Anstoßen nach der Landung.
+446|Ausritte von einer Stunde bis zu einem ganzen Tag, auch für Leute, die nie geritten sind.
+447|Schulen mit Boot oder Seilbahn, die Anfängerkurse geben.
+448|Ein kurzer Flug über den Fluss, Puerto Madero, den Obelisken und die Stadien.
+449|Ein Landstädtchen mit Lagune zum Angeln und Rudern und dem Museum im Geburtshaus von Perón.
+450|Ein winziges Dorf von 1890 mit achteckigem Platz, Craft-Brauerei, Käse und Landwurst.
+451|Ein winziges Dorf, das ein Gastro-Ziel ist: lange Mittagessen mit Pasta, Wurstwaren und Asado.
+452|Ein alter Bahnhof, umgeben von Landgasthöfen und einem Kunsthandwerksmarkt.
+453|Ein Schloss im französischen Stil mitten auf dem Land, mit einem Park von Carlos Thays.
+454|Das klassische Gaucho-Fest: Asado, Folklore, Ringstechen und Kutschfahrt.
+455|Eine Estancia von 1880 mit einem Tag auf dem Land: Ausreiten, Asado und Pferdeflüstern.
+456|Der stadtnächste Nationalpark: Wege zwischen Feuchtgebieten, Grasland und Steilufern.
+457|Ein kleines Reservat am Fluss mit Stegen zwischen dem Schilf und vielen Vögeln.
+458|Die Stadt des bekanntesten Biers des Landes, mit Uferpromenade und Bierpark.
+459|Ein klassisches Steakhaus in Puerto Madero, mit großem Saal und Tischen zum Dock.
+460|Eines der Steakhäuser mit der längsten Geschichte der Stadt, heute am Dock.
+461|Ein traditionelles Steakhaus mit Terrasse über dem Dock.
+462|All you can eat mit Grill, Pasta und Desserttisch zum Festpreis.
+463|Ein elegantes italienisches Restaurant: Pasta, Risottos und Fisch.
+464|Italienische Küche mit Fisch und Meeresfrüchten, von einer bekannten lokalen Kette.
+465|Ein Klassiker für Fisch und Meeresfrüchte in Buenos Aires, mit Filiale am Dock.
+466|Fisch, Meeresfrüchte und Pasta in einem verglasten Saal über dem Dock.
+467|Mexikanische Küche mit Tacos, Guacamole und Margaritas.
+468|Das Restaurant des Hotel Madero: moderne Küche in ruhiger Umgebung.
+469|Ein Viertel-Steakhaus mit Wänden, die von den Gästen beschrieben wurden.
+470|Ein traditionelles Steakhaus gegenüber dem Parque Lezama, sehr von Einheimischen geprägt.
+471|Ein Viertel-Bodegón mit Milanesas, Pasta und großzügigen Portionen.
+472|Eine kleine Bar mit Kolonialwaren, Tafel mit Tagesgerichten, Wurstwaren und Weinen.
+473|Eine schöne alte Ecke mit Kaffee, Bistrogerichten und Weinen.
+474|Natürliche Küche mit vielen vegetarischen Optionen, am Boulevard Caseros.
+475|Ein italienisches Restaurant in einem riesigen Antiquitätenladen: Man isst zwischen Autos, Statuen und Kronleuchtern.
+476|Baskische Küche: Pintxos-Bar und Fleisch vom Grill.
+477|Eine klassische französische Brasserie: Zwiebelsuppe, Steak Tartare und Crème brûlée.
+478|Vietnamesisches Streetfood: Pho, Bánh mì und Rollen.
+479|Tacos und hausgemachte mexikanische Küche.
+480|Ein großer Innenhof voller Pflanzen mit Bar und Restaurant.
+481|Eine Bierbar mit Dutzenden Craft-Beer-Zapfhähnen und Innenhof.
+482|Ein historisches Café von 1887, zwei Blocks von der Plaza de Mayo.
+483|Ein Café im französischen Stil an der Plaza Lavalle, neben dem Teatro Colón.
+484|Eine Billard- und Poolbar, die fast nie schließt, ein Klassiker für Studenten und Nachtschwärmer.
+485|Das traditionellste Empanada-Haus rund um den Kongress, auch mit Pizza.
+486|Ein Bodegón im Keller im Microcentro, mittags voller Büroangestellter.
+487|Ein deutsches Restaurant mit fast hundert Jahren im Microcentro: Würste, Sauerkraut und Gulasch.
+488|Eine traditionelle italienische Trattoria im Zentrum.
+489|Kreolischer Spießbraten am offenen Feuer in der Fußgängerzone Lavalle, seit Jahrzehnten mit Touristen.
+490|Eines der ältesten koreanischen Restaurants der Stadt, in Once.
+491|Ein einfaches Steakhaus, wegen seiner Preise sehr gefragt, nahe der Avenida 9 de Julio.
+492|Grill und spanische Küche einen Block von der Calle Florida.
+493|Ein winziges, farbenfrohes Bistro mit Bar und Autorengerichten.
+494|Pizzen mit dünnem Boden und italienische Küche in einem Saal voller Kunst.
+495|Ein historisches Café aus den 1960ern, Treffpunkt von Künstlern, in der Fußgängerzone Florida.
+496|Kaffee und leichte Mittagessen in der Calle Arroyo, der Straße der Kunstgalerien.
+497|Eine elegante Kellerbar mit Restaurant und sorgfältigen Cocktails.
+498|Ein traditionelles Steakhaus in der Recova de Posadas, unter der Stadtautobahn.
+499|Das Steakhaus einer klassischen Restaurantgruppe in der Recova.
+500|Das Steakhaus des Four Seasons, in einem Glaspavillon im Hotelgarten.
+501|Das Restaurant des Four Seasons: dry-aged Fleisch, Charcuterie und hausgemachtes Eis.
+502|Spanische Küche mit sehr gutem Fisch und einem beeindruckenden Weinkeller.
+503|Indische Küche aus dem Tandoor: Currys, Naan und vegetarische Gerichte.
+504|Grill und großzügige Gerichte zu gutem Preis, bei Reisenden sehr beliebt.
+505|Eine Autoren-Eisdiele, bekannt für Dulce de leche und Schokoladen.
+506|Gelato im italienischen Stil und Café in einem Stadtpalais in Recoleta.
+507|Eine handwerkliche Eisdiele mit originellen Sorten und den Klassikern.
+508|Gegenüber der Bombonera. Keine Karte: Der Wirt bringt Gerichte je nachdem, was es an dem Tag gibt.
+509|Eine historische Bar an der Vuelta de Rocha, wenige Meter von Caminito, mit Fotos berühmter Gäste.
+510|Eine historische Bar und Bodegón von 1905 an der Plaza Solís.
+511|Ein klassischer Bodegón nahe dem Abasto: hausgemachte Pasta, Fleisch und Kellner alter Schule.
+512|Ein traditioneller spanischer Bodegón an einer Ecke in Almagro.
+513|Ein traditionelles Viertel-Steakhaus, seit vielen Jahren an derselben Ecke.
+514|Ein chinesisches vegetarisches All-you-can-eat-Buffet nahe dem Abasto.
+515|Kaffee, Buchladen und Musik an einer ruhigen Ecke in Almagro.
+516|Eine Eckbar mit Picadas, Bier und Tischen auf dem Gehweg, wenige Meter von mehreren Theatern.
+517|Ein beliebtes Viertel-Steakhaus, abseits der Touristenrouten.
+518|Ein großzügiges Steakhaus gegenüber dem Parque Centenario, berühmt für seine Schweine-Pamplona.
+519|Tapas, spanisches Omelett und Wermut in einem Saal, der immer voll ist.
+520|Ein Eck-Steakhaus mit Geschichte, heute renoviert, in Palermo Soho.
+521|Grill und Küche aus dem Norden in Las Cañitas, zu erschwinglichen Preisen.
+522|Das Haus, das die „Canchera“-Pizza für sich beansprucht: aus der Pfanne, ohne Käse und mit viel Sauce.
+523|Ein schnörkelloses Viertelcafé, berühmt für die Zeichnungen im Schaum seines Cortado.
+524|Eine Eisdiele mit italienischen Rezepten in Palermo Soho.
+525|Eine handwerkliche Eisdiele mit eigenen Sorten und guter Schokolade.
+526|Ein Burgerladen mit bekritzelten Wänden, einer der ersten des Trends.
+527|Vietnamesische Küche und Cocktails, ein Klassiker in Palermo Hollywood.
+528|Lässig, günstig, mexikanisch und sehr voll.
+529|Eine Trattoria mit Kunst an den Wänden und hausgemachter Pasta.
+530|Markt und Trattoria des Kochs Donato De Santis.
+531|Natürliche Bio-Küche mit vielen vegetarischen Optionen.
+532|Ein kleines Bistro, dessen Karte jeden Tag wechselt und auf Tafeln steht.
+533|Eine Villa von 1927 mit Restaurant, Bar, Buchladen und Garten.
+534|Ein Grill im amerikanischen Stil: Schweinerippchen und große Portionen.
+535|Der bekannteste Club für elektronische Musik der Stadt, seit 2005 geöffnet und Stammgast auf den Listen der besten Clubs der Welt.
+536|Ein kleiner, sehr lokaler Club in Palermo Hollywood, mit Musik, die jede Nacht wechselt.
+537|Der bekannteste LGBT+-Club der Stadt: drei Etagen und Tanzflächen mit unterschiedlicher Musik.
+538|Ein Club am Fluss an der Costanera Norte, mit Elektro, Reggaeton und Nächten mit 80ern, 90ern und 2000ern.
+539|Der größte Saal der Costanera: riesige Elektro-Partys und Reggaeton-Nächte. Hier findet die Party Bresh statt.
+540|Open-Air-Terrassen am Fluss, mit Afterwork unter der Woche und Partys am Wochenende.
+541|Einer der belebtesten Clubs der Costanera, mit großer Tanzfläche, Reggaeton und Cachengue.
+542|Ein Club für elektronische Musik im Komplex Costa Salguero, am Fluss.
+543|Ein Klassiker in einem Gebäude aus Backstein und Eisen in San Telmo, berühmt für seine Afterworks.
+544|Ein Club in Recoleta mit dem Geist einer Peña: Folklore, Cumbia und Lieder zum gemeinsamen Tanzen.
+545|Ein großer Club im Westen des Großraums Buenos Aires, an der Avenida Rivadavia.
+546|Restaurant und Bäckerei, 100 % glutenfrei, in Palermo Hollywood: Gerichte, Brot und Gebäck.
+547|Glutenfreie Bäckerei und Konditorei, bei CeliMap als 100 % glutenfrei gelistet.
+548|Koschere Autorenküche in einer Villa: sorgfältige Technik und Gerichte zum Teilen.
+549|Koschere Pasta und Hausmannskost, in derselben Villa wie Agus Kitchen.
+550|Eine moderne Ecke mit koscher zertifizierter Küche (Ajdut Kosher, Chalav Israel und Bishul Israel), laut Time Out.
+551|Koscheres Café mit Konditorei und mehreren Filialen; das an der Libertador liegt gegenüber den Parks von Palermo.
+552|Eine lässige, gemütliche koschere Viertelpizzeria in Palermo.
+553|Hausgemachte libanesische Küche: Schawarma, Falafel und Kebab. In Reisebewertungen gilt es als einer der wenigen Halal-Orte der Stadt.
