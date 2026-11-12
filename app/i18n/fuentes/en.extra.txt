@@ -155,3 +155,36 @@
 155|Save it on your phone or take a screenshot, in case you have no internet at the airport.
 156|Ezeiza handles almost all international flights; Aeroparque, domestic flights and some to neighboring countries. Check which one is yours.
 157|Check-in
+158|Just arrived
+159|Your first hours, step by step
+160|What to do in your first hours in Buenos Aires.
+161|Leave the airport
+162|Take a taxi or private car from the official desks inside the airport, or order a ride on an app. Don't accept offers from people who approach you in the hall.
+163|How to get to the center
+164|Get internet
+165|Buy a prepaid SIM from Personal, Claro or Movistar, or activate an eSIM before you travel. That way you have maps and apps from minute one.
+166|See useful info
+167|Sort out your money
+168|Paying with a foreign card is usually a good deal. Don't exchange money with people on the street.
+169|See money and payments
+170|Get ready to get around
+171|Buy and top up a SUBE card. On the subway and many buses you can also pay by tapping your contactless card.
+172|See how to get around
+173|Save the useful numbers
+174|Write down the emergency numbers and your accommodation's address, in case your battery dies.
+175|See where to get help
+176|Plan your first day
+177|Choose what you like and the guide builds a route for you.
+178|Phrases to get by
+179|Friendly greeting, for any time
+180|To ask for the bill at a bar or restaurant
+181|Before ordering, in case they only take cash
+182|To ask the price
+183|To ask for directions on the street
+184|To find the restroom
+185|When you arrive at a restaurant
+186|To ask the waiter for a suggestion
+187|To ask for gluten-free food
+188|So people speak more slowly to you
+189|In an emergency
+190|To say thank you

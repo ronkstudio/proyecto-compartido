@@ -155,3 +155,36 @@
 155|Gardez-la sur votre téléphone ou faites une capture, au cas où vous n'auriez pas internet à l'aéroport.
 156|Ezeiza accueille presque tous les vols internationaux ; Aeroparque, les vols intérieurs et certains vers les pays voisins. Vérifiez lequel est le vôtre.
 157|Enregistrement
+158|Tout juste arrivé
+159|Vos premières heures, étape par étape
+160|Ce qu'il vaut mieux faire pendant vos premières heures à Buenos Aires.
+161|Quittez l'aéroport
+162|Prenez un taxi ou une voiture avec chauffeur aux comptoirs officiels à l'intérieur de l'aéroport, ou commandez une voiture par appli. N'acceptez pas les offres de personnes qui vous abordent dans le hall.
+163|Comment rejoindre le centre
+164|Ayez internet
+165|Achetez une carte SIM prépayée Personal, Claro ou Movistar, ou activez une eSIM avant de partir. Vous aurez cartes et applis dès la première minute.
+166|Voir les infos utiles
+167|Réglez la question de l'argent
+168|Payer avec une carte étrangère est en général avantageux. N'échangez pas d'argent avec des gens dans la rue.
+169|Voir argent et paiements
+170|Préparez vos transports
+171|Achetez et rechargez une carte SUBE. Dans le métro et beaucoup de bus, vous pouvez aussi payer en approchant votre carte sans contact.
+172|Voir comment se déplacer
+173|Enregistrez les numéros utiles
+174|Notez les numéros d'urgence et l'adresse de votre logement, au cas où votre batterie serait à plat.
+175|Voir où demander de l'aide
+176|Organisez votre premier jour
+177|Choisissez ce que vous aimez et le guide vous prépare un parcours.
+178|Phrases pour vous débrouiller
+179|Salut amical, à tout moment
+180|Pour demander l'addition dans un bar ou un restaurant
+181|Avant de commander, au cas où ils n'acceptent que les espèces
+182|Pour demander le prix
+183|Pour demander son chemin dans la rue
+184|Pour trouver les toilettes
+185|En arrivant au restaurant
+186|Pour demander une suggestion au serveur
+187|Pour demander un plat sans gluten
+188|Pour qu'on vous parle plus lentement
+189|En cas d'urgence
+190|Pour remercier

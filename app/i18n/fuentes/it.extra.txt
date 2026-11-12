@@ -155,3 +155,36 @@
 155|Salvala sul telefono o fai uno screenshot, nel caso non avessi internet in aeroporto.
 156|Ezeiza gestisce quasi tutti i voli internazionali; Aeroparque, quelli nazionali e alcuni verso i paesi vicini. Controlla qual è il tuo.
 157|Check-in
+158|Appena arrivato
+159|Le tue prime ore, passo dopo passo
+160|Cosa conviene fare nelle prime ore a Buenos Aires.
+161|Esci dall'aeroporto
+162|Prendi un taxi o un'auto con autista ai banchi ufficiali dentro l'aeroporto, oppure chiama un'auto con un'app. Non accettare offerte da persone che ti avvicinano nell'atrio.
+163|Come arrivare in centro
+164|Procurati internet
+165|Compra una SIM prepagata di Personal, Claro o Movistar, oppure attiva una eSIM prima di partire. Così hai mappe e app dal primo minuto.
+166|Vedi informazioni utili
+167|Sistema i soldi
+168|Pagare con una carta straniera di solito conviene. Non cambiare soldi con persone per strada.
+169|Vedi soldi e pagamenti
+170|Prepara i trasporti
+171|Compra e ricarica una tessera SUBE. In metropolitana e su molti autobus puoi anche pagare avvicinando la tua carta contactless.
+172|Vedi come muoverti
+173|Salva i numeri utili
+174|Annota i numeri di emergenza e l'indirizzo del tuo alloggio, nel caso restassi senza batteria.
+175|Vedi dove chiedere aiuto
+176|Organizza il tuo primo giorno
+177|Scegli cosa ti piace e la guida ti prepara un percorso.
+178|Frasi per cavartela
+179|Saluto amichevole, per qualsiasi momento
+180|Per chiedere il conto in un bar o ristorante
+181|Prima di ordinare, nel caso accettino solo contanti
+182|Per chiedere il prezzo
+183|Per chiedere indicazioni per strada
+184|Per trovare il bagno
+185|Quando arrivi al ristorante
+186|Per chiedere un consiglio al cameriere
+187|Per chiedere cibo senza glutine
+188|Perché ti parlino più lentamente
+189|In caso di emergenza
+190|Per ringraziare
