@@ -6,6 +6,6 @@ No son parte de la app ni se publican. Sirven para armar datos.
 
       powershell -ExecutionPolicy Bypass -File herramientas/armar-hoy.ps1 -out app/data/hoy.json
 
-- `actualizar-hoy.yml`: el paso automático de GitHub que corre `armar-hoy.ps1` dos veces por día en el repositorio publicado. **No está activado**: adentro dice cómo activarlo.
+- `actualizar-hoy.yml`: el paso automático de GitHub que corre `armar-hoy.ps1` dos veces por día en el repositorio publicado. Está activado desde el 12/11 en `ronkstudio/menu-3d-publico` (si se cambia este archivo, hay que copiarlo también ahí).
 
 Si `hoy.json` no está o tiene más de 3 días, la guía no muestra eventos de la agenda y sigue con la agenda fija (`app/data/caba-hoy.js`).

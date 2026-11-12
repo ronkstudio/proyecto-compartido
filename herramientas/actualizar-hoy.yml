@@ -1,6 +1,6 @@
 # Paso automático que actualiza la agenda de "Hoy en Buenos Aires" todos los días (tarjeta #65).
 #
-# TODAVÍA NO ESTÁ ACTIVADO. Para que funcione, Bautista tiene que decidir activarlo en el repositorio
+# ACTIVADO el 12/11 (lo pidió Bautista) en el repositorio
 # PÚBLICO donde está publicada la guía (ronkstudio/menu-3d-publico), copiando:
 #   - este archivo a  .github/workflows/actualizar-hoy.yml
 #   - herramientas/armar-hoy.ps1  a  herramientas/armar-hoy.ps1
