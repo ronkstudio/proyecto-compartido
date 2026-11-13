@@ -2,7 +2,7 @@
 
 Para los dos Claude: acá está escrito qué se hizo, qué se probó y qué falta. **Actualizalo cada vez que cambies algo de `app/`.**
 
-Última actualización: 13 de noviembre de 2026, Claude de `ronkstudio` (tarjeta #155).
+Última actualización: 13 de noviembre de 2026, Claude de `ronkstudio` (tarjetas #156 y #157).
 
 Todo lo que se describe acá está en `main`.
 
@@ -93,6 +93,7 @@ Estas pruebas las hizo el Claude de `ronkstudio` antes de que se sacara el mapa 
 - **París, Imperdibles (#153):** 62 lugares en `data/paris-lugares.js`, en 9 tipos con al menos 4 cada uno: íconos, miradores, museos (17), iglesias, históricos, paseos, parques, plazas y barrios para caminar. Todos figuran en OpenStreetMap, de donde sale su ubicación (`data/paris-coords.js`; 3 se ubicaron a mano). El Centro Pompidou no está porque cerró por obras hasta 2030. Se sumaron 5 barrios (Islas del Sena, Distrito 13, Passy, Bosque de Boulogne y La Villette) y el filtro de barrios de Explorar. Las descripciones todavía no están traducidas (tarjeta #159).
 - **París, Dónde comer (#154):** 66 lugares en 13 tipos con al menos 4 cada uno: bistrós, bouillons, brasseries, cafés históricos, cafés de especialidad, panaderías, dulces, crêperies, al paso, cocinas del mundo, de autor, vegetarianos y sin TACC. Todos figuran en OpenStreetMap; los que tienen varias sucursales se ubicaron en la dirección de la guía. **Dietas con fuente:** los 4 sin TACC (Chambelland, Copains, Judy y Kapunka Vegan) dicen en su propio sitio que todo es sin gluten; los vegetarianos, en su sitio o en OpenStreetMap (ver `data/paris-extra.js`). Sin estrellas Michelin exactas, porque cambian cada año.
 - **París, Noche y entretenimiento (#155):** 43 lugares. Noche: bares de cócteles, bares de vinos, bares con terraza, jazz, cabarets, para bailar y música en vivo. Entretenimiento: cine, teatro y planes con chicos. Cada tipo tiene al menos 4. Todos figuran en OpenStreetMap; 3 se ubicaron a mano.
+- **París, Tours, excursiones, hospedaje, compras y deportes (#156 y #157):** 79 lugares. Tours: paseos en barco, visitas guiadas y temáticos. Excursiones: palacios (Versalles, Fontainebleau, Chantilly y Vaux-le-Vicomte), ciudades y pueblos, parques temáticos y naturaleza. Hospedaje: hostels, hoteles, boutique y lujo. Compras: grandes tiendas, mercados, pulgas, zonas comerciales y librerías. Deportes: estadios, para correr y pedalear, y piletas. Con esto París tiene 250 lugares y todos los tipos tienen al menos 4. Cinco tours no tienen dirección fija y no aparecen en el mapa. Las excursiones se ubicaron a mano.
 - **Barrio + categoría:** algunos barrios no tienen nada en ciertas categorías (por ejemplo, salidas de noche en La Boca o Belgrano). Es esperable en barrios residenciales y no se completó.
 - **Las plazas de barrio** (etiqueta "vida de barrio") tienen descripciones genéricas. Se sumaron para que cada barrio tenga algo, con nombre y ubicación reales, pero sin conocer cada una.
 - **No está todo lo que se puede hacer en la ciudad.** Son 534 lugares. Bautista pidió (11/11) llegar a 5 por categoría en cada barrio, sin inventar: hoy solo Centro, Palermo, Recoleta y San Telmo se acercan. En los barrios residenciales no hay 5 hoteles ni 5 excursiones reales, así que esa meta ahí no se va a cumplir. La tarjeta #45 propone un mínimo de locales por tipo en cada zona turística.
