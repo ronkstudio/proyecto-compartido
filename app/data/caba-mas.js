@@ -370,7 +370,15 @@
     "Campo de Golf de la Ciudad": ["deporte", "Otros deportes"],
     "Kayak y remo en el Delta": ["deporte", "Otros deportes"],
     "Perú Beach": ["deporte", "Otros deportes"],
-    "Salas de escape": ["ocio", "Con chicos"]
+    "Salas de escape": ["ocio", "Con chicos"],
+    /* Sin el tipo "Kosher" (tarjeta #139): cada lugar va a su tipo de cocina. Siguen marcados como kosher en la ficha. */
+    "McDonald's Kosher del Abasto": ["comer", "Al paso"],
+    "Al Galope": ["comer", "Parrilla"],
+    "Agus Kitchen": ["comer", "De autor"],
+    "Forno Fettuccine": ["comer", "Bodegón moderno"],
+    "Yum": ["comer", "Cocinas del mundo"],
+    "L'harmonie": ["comer", "Dulces"],
+    "Bambina Pizza": ["comer", "Pizzería"]
   };
   city.places.forEach(p => { const r = reacomodo[p.name]; if (r) { p.cat = r[0]; p.sub = r[1]; } });
 

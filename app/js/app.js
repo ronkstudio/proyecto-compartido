@@ -113,6 +113,7 @@
   plan = plan.filter(x => x && byId[x.id]);
   const prefs = Object.assign({ days: 1, names: {}, cur: "USD", start: "", checks: {}, updated: 0 }, store.get(K.prefs, {}));
   prefs.profile = Object.assign({ diets: [], budget: 0, kids: false }, prefs.profile || {});
+  prefs.profile.diets = prefs.profile.diets.filter(d => d !== "kosher" && d !== "halal");   // filtros que ya no existen (tarjeta #139)
   const savePrefs = () => { prefs.updated = Date.now(); store.set(K.prefs, prefs); queueSync(); };
   /* Fecha de cada día del viaje (si el usuario cargó cuándo llega). */
   const dayDate = d => { if (!prefs.start) return null; const dt = new Date(prefs.start + "T12:00:00"); if (isNaN(dt)) return null; dt.setDate(dt.getDate() + d - 1); return dt; };
@@ -362,7 +363,8 @@
 
   /* ── Filtros de Explorar ── */
   let f, zoneId = "", showHelp = false, focusHelp = null;
-  const DIETS = [["vegetariano", "🥬 Vegetariano"], ["vegano", "🌱 Vegano"], ["sin TACC", "🌾 Sin TACC"], ["kosher", "✡️ Kosher"], ["halal", "☪️ Halal"]];
+  /* Halal y kosher se sacaron de los filtros a pedido de Bautista (tarjeta #139); los lugares siguen en la guía. */
+  const DIETS = [["vegetariano", "🥬 Vegetariano"], ["vegano", "🌱 Vegano"], ["sin TACC", "🌾 Sin TACC"]];
   const resetFilters = next => { f = Object.assign({ cat: "todos", sub: "", barrio: "", prices: [], diets: [], today: false, q: "", sort: "rec", planDay: null }, next || {}); };
   resetFilters();
   const SYN = X.synonyms || {};
