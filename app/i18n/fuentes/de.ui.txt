@@ -855,9 +855,20 @@
 855|Nur deine E-Mail, kein Passwort: Wir schicken dir einen Link, und mit einem Tipp bist du drin. Wir speichern nur deine E-Mail und deine Reise.
 856|Link senden
 857|Angemeldet als
-858|Deine Reise wird in deinem Konto gespeichert. Wir kennen von dir nur deine E-Mail.
+858|Deine Reise wird in deinem Konto gespeichert. Auf diesem Gerät fragen wir nicht mehr nach deiner E-Mail. Das Einzige, was wir von dir wissen, ist deine E-Mail.
 859|Abmelden
 860|Gespeichertes in meinem Konto löschen
 861|Fertig: Schau in deine E-Mails und tippe auf den Link.
 862|Wir konnten den Kontodienst nicht erreichen. Versuch es später noch mal.
 863|Wir verbinden noch mit dem Kontodienst. Versuch es in ein paar Sekunden.
+864|Angemeldet
+865|Speichere deine Reise
+866|Erstelle dein Konto mit deiner E-Mail und hab deine Reise auf dem Handy und am Computer.
+867|Deine E-Mail
+868|Konto erstellen
+869|Ohne Passwort: Wir schicken dir einen Link, und mit einem Tipp bist du drin. Auf diesem Gerät fragen wir nicht noch einmal.
+870|Als Gast weitermachen
+871|Du kannst es jederzeit unter Mein Konto (👤) erstellen.
+872|Schau in dein E-Mail-Postfach!
+873|Wir haben dir einen Link geschickt. Öffne ihn auf diesem Gerät und du bist drin.
+874|Inzwischen weitermachen

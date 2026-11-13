@@ -855,9 +855,20 @@
 855|Juste votre e-mail, sans mot de passe : nous vous envoyons un lien et il suffit de le toucher pour entrer. Nous ne gardons que votre e-mail et votre voyage.
 856|Envoyer le lien
 857|Connecté en tant que
-858|Votre voyage est enregistré dans votre compte. Nous ne connaissons de vous que votre e-mail.
+858|Ton voyage est enregistré dans ton compte. Sur cet appareil, on ne te demandera plus ton e-mail. La seule chose que nous savons de toi, c'est ton e-mail.
 859|Se déconnecter
 860|Effacer ce qui est enregistré dans mon compte
 861|C'est fait : consultez vos e-mails et touchez le lien pour entrer.
 862|Impossible de joindre le service de comptes. Réessayez plus tard.
 863|Connexion au service de comptes en cours. Réessayez dans quelques secondes.
+864|Connecté
+865|Enregistre ton voyage
+866|Crée ton compte avec ton e-mail et retrouve ton voyage sur ton téléphone et ton ordinateur.
+867|Ton e-mail
+868|Créer mon compte
+869|Sans mot de passe : on t'envoie un lien et d'un geste tu es connecté. Sur cet appareil, on ne te le redemandera pas.
+870|Continuer en tant qu'invité
+871|Tu peux le créer quand tu veux depuis Mon compte (👤).
+872|Regarde tes e-mails !
+873|On t'a envoyé un lien. Ouvre-le sur ce même appareil et tu seras connecté.
+874|Continuer en attendant

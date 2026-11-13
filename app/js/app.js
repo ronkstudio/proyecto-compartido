@@ -204,6 +204,11 @@
   const CFG = window.GUIA_CONFIG || {};
   const accountsOn = !!(CFG.supabaseUrl && CFG.supabaseAnonKey);
   let sb = null, user = null, syncTimer = null, authMsg = "";
+  /* Se cumple cuando ya sabemos si la persona tiene la sesión iniciada (o si las cuentas no andan). Lo usa la bienvenida (tarjeta #146). */
+  let authListo;
+  const authReady = new Promise(r => { authListo = r; });
+  /* Manda el enlace para entrar. La sesión queda guardada en el dispositivo: no se vuelve a pedir el mail (persistSession). */
+  const enviarEnlace = mail => sb.auth.signInWithOtp({ email: mail, options: { emailRedirectTo: location.href.split("#")[0] } });
   const paintAccountBtn = () => { const b = $("#account-btn"); if (b) { b.classList.toggle("in", !!user); b.setAttribute("aria-label", user ? "Mi cuenta (sesión iniciada)" : "Mi cuenta"); } };
   const applyCloud = d => {
     if (!d || !Array.isArray(d.plan)) return;
@@ -228,7 +233,7 @@
     if (sheetId === null) rerender();
   });
   const startAccounts = () => {
-    if (!accountsOn) return;
+    if (!accountsOn) { authListo(); return; }
     const s = document.createElement("script");
     s.src = "https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.45.4/dist/umd/supabase.min.js";
     s.onload = () => {
@@ -237,11 +242,13 @@
         const was = user;
         user = session ? session.user : null;
         paintAccountBtn();
+        if (event === "INITIAL_SESSION") authListo();
+        if (user) cerrarBienvenida(false);
         if (user && !was) pullCloud();
         else if (route().name === "cuenta") rerender();
       });
     };
-    s.onerror = () => { authMsg = "No pudimos conectar con el servicio de cuentas. Probá más tarde."; };
+    s.onerror = () => { authMsg = "No pudimos conectar con el servicio de cuentas. Probá más tarde."; authListo(); };
     document.head.appendChild(s);
   };
   const viewAccount = () => {
@@ -250,7 +257,7 @@
     if (!accountsOn) {
       cuenta = '<div class="account-box"><b>Las cuentas todavía no están encendidas</b><p class="hint" style="margin:4px 0 0">Por ahora tu viaje y tu perfil se guardan solo en este dispositivo. Cuando se activen vas a poder entrar con tu mail y tener todo en cualquier celular o compu.</p></div>';
     } else if (user) {
-      cuenta = '<div class="account-box"><p>Entraste como <b>' + esc(user.email || "tu cuenta") + '</b></p><p class="hint" style="margin:4px 0 0">Tu viaje se guarda en tu cuenta. Lo único que sabemos de vos es tu mail.</p>' +
+      cuenta = '<div class="account-box account-in"><p class="acct-ok"><span aria-hidden="true">✅</span> Sesión iniciada</p><p>Entraste como <b data-notr>' + esc(user.email || "tu cuenta") + '</b></p><p class="hint" style="margin:4px 0 0">Tu viaje se guarda en tu cuenta. En este dispositivo ya no te vamos a pedir el mail. Lo único que sabemos de vos es tu mail.</p>' +
         '<p class="plan-actions" style="margin:12px 0 0"><button class="btn" data-signout>Cerrar sesión</button><button class="btn danger" data-wipe>Borrar lo guardado en mi cuenta</button></p></div>';
     } else {
       cuenta = '<form class="account-box" id="login-form"><label for="login-mail"><b>Creá tu cuenta o entrá con tu mail</b></label><p class="hint" style="margin:4px 0 0">Solo tu mail, sin contraseña: te mandamos un enlace y con tocarlo ya estás adentro. Lo único que guardamos es tu mail y tu viaje.</p>' +
@@ -1359,7 +1366,43 @@
     document.body.appendChild(w);
     const si = w.querySelector(".aviso-si"); if (si) si.focus();
   };
-  setTimeout(mostrarAviso, 600);
+
+  /* Bienvenida con cuenta (pedido de Bautista, 13/11/2026, tarjeta #146): la primera vez que alguien abre la guía le ofrecemos
+     crear su cuenta con el mail, o seguir como invitado. Sale una sola vez por dispositivo y nunca si ya tiene la sesión iniciada.
+     Después sale el aviso de Info de arriba. Si sigue como invitado, el campo del mail queda en "Mi cuenta". */
+  const BIENV_KEY = "guia.bienvenidaCuenta";
+  let bienvW = null;
+  const cerrarBienvenida = seguir => {
+    if (!bienvW) return;
+    store.set(BIENV_KEY, 1);
+    bienvW.remove(); bienvW = null;
+    document.removeEventListener("keydown", bienvEsc);
+    if (seguir) setTimeout(mostrarAviso, 300);
+  };
+  const bienvEsc = ev => { if (ev.key === "Escape") cerrarBienvenida(true); };
+  const mostrarBienvenida = () => {
+    const w = bienvW = document.createElement("div");
+    w.className = "aviso-fondo";
+    w.innerHTML = '<div class="aviso bienv" role="dialog" aria-modal="true" aria-labelledby="bienv-t">' +
+      '<div class="aviso-ico" aria-hidden="true">🧳</div>' +
+      '<h2 id="bienv-t">Guardá tu viaje</h2>' +
+      "<p>Creá tu cuenta con tu mail y tené tu viaje en el celular y en la compu.</p>" +
+      '<form id="bienv-form" class="bienv-form"><label class="sr-only" for="bienv-mail">Tu mail</label>' +
+      '<input id="bienv-mail" name="mail" type="email" required placeholder="tu@mail.com" autocomplete="email">' +
+      '<button class="btn aviso-si">Crear mi cuenta</button></form>' +
+      '<p class="bienv-msg" id="bienv-msg" role="status"></p>' +
+      '<p class="bienv-hint">Sin contraseña: te mandamos un enlace y con tocarlo ya estás adentro. En este dispositivo no te lo vamos a volver a pedir.</p>' +
+      '<div class="aviso-bot"><button type="button" class="aviso-no" data-bienv="no">Seguir como invitado</button></div>' +
+      "<small>Podés crearla cuando quieras desde Mi cuenta (👤).</small></div>";
+    w.addEventListener("click", ev => { if (ev.target.closest("[data-bienv]")) cerrarBienvenida(true); });
+    document.addEventListener("keydown", bienvEsc);
+    document.body.appendChild(w);
+  };
+  /* Mientras se espera saber si hay sesión, como mucho 5 segundos. Si vuelve del enlace del mail (?code=), no se ofrece nada. */
+  Promise.race([authReady, new Promise(r => setTimeout(r, 5000))]).then(() => setTimeout(() => {
+    if (accountsOn && sb && !user && !store.get(BIENV_KEY, 0) && !/[?&]code=/.test(location.search)) mostrarBienvenida();
+    else mostrarAviso();
+  }, 600));
 
   /* Copiar al portapapeles con aviso. Si el navegador no deja (sin permiso, o abierto como archivo), lo dice (tarjeta #52). */
   const copyText = (text, okMsg) => {
@@ -1492,10 +1535,28 @@
   });
   document.addEventListener("submit", e => {
     if (e.target.id === "home-search") { e.preventDefault(); goExplore({ q: e.target.q.value.trim() }); }
+    if (e.target.id === "bienv-form") {
+      e.preventDefault();
+      const msg = document.getElementById("bienv-msg"), boton = e.target.querySelector("button");
+      if (!sb) { msg.textContent = "Todavía estamos conectando con el servicio de cuentas. Probá en unos segundos."; return; }
+      boton.disabled = true;
+      enviarEnlace(e.target.mail.value.trim()).then(r => {
+        boton.disabled = false;
+        if (r.error) { msg.className = "bienv-msg err"; msg.textContent = "No pudimos enviar el enlace: " + r.error.message; return; }
+        store.set(BIENV_KEY, 1);
+        const caja = e.target.closest(".aviso");
+        caja.querySelector(".aviso-ico").textContent = "📬";
+        caja.querySelector("h2").textContent = "¡Revisá tu mail!";
+        e.target.remove(); caja.querySelector(".bienv-hint").remove(); caja.querySelector("small").remove();
+        msg.className = "bienv-msg ok";
+        msg.textContent = "Te mandamos un enlace. Abrilo en este mismo dispositivo y ya vas a estar adentro.";
+        const seguir = caja.querySelector("[data-bienv]"); seguir.textContent = "Seguir mientras tanto";
+      });
+    }
     if (e.target.id === "login-form") {
       e.preventDefault();
       if (!sb) { authMsg = "Todavía estamos conectando con el servicio de cuentas. Probá en unos segundos."; rerender(); return; }
-      sb.auth.signInWithOtp({ email: e.target.mail.value.trim(), options: { emailRedirectTo: location.href.split("#")[0] } }).then(r => {
+      enviarEnlace(e.target.mail.value.trim()).then(r => {
         authMsg = r.error ? "No pudimos enviar el enlace: " + r.error.message : "Listo: revisá tu mail y tocá el enlace para entrar.";
         rerender();
       });

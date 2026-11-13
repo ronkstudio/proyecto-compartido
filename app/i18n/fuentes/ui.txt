@@ -855,9 +855,20 @@ Creá tu cuenta o entrá con tu mail
 Solo tu mail, sin contraseña: te mandamos un enlace y con tocarlo ya estás adentro. Lo único que guardamos es tu mail y tu viaje.
 Enviar enlace
 Entraste como
-Tu viaje se guarda en tu cuenta. Lo único que sabemos de vos es tu mail.
+Tu viaje se guarda en tu cuenta. En este dispositivo ya no te vamos a pedir el mail. Lo único que sabemos de vos es tu mail.
 Cerrar sesión
 Borrar lo guardado en mi cuenta
 Listo: revisá tu mail y tocá el enlace para entrar.
 No pudimos conectar con el servicio de cuentas. Probá más tarde.
 Todavía estamos conectando con el servicio de cuentas. Probá en unos segundos.
+Sesión iniciada
+Guardá tu viaje
+Creá tu cuenta con tu mail y tené tu viaje en el celular y en la compu.
+Tu mail
+Crear mi cuenta
+Sin contraseña: te mandamos un enlace y con tocarlo ya estás adentro. En este dispositivo no te lo vamos a volver a pedir.
+Seguir como invitado
+Podés crearla cuando quieras desde Mi cuenta (👤).
+¡Revisá tu mail!
+Te mandamos un enlace. Abrilo en este mismo dispositivo y ya vas a estar adentro.
+Seguir mientras tanto
