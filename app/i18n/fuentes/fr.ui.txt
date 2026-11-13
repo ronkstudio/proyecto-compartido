@@ -767,3 +767,4 @@
 767|Nous vous prévenons en rouge si un lieu ferme habituellement le jour où vous l'avez programmé.
 768|gares et aéroports. Touchez-en un pour voir l'adresse et comment y aller.
 769|Autres sports
+770|Voir les photos

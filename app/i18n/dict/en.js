@@ -710,6 +710,7 @@ window.I18N_FULL = {
 "Te avisamos en rojo si un lugar suele cerrar el día que lo agendaste.": "We'll warn you in red if a place usually closes on the day you scheduled it.",
 "terminales y aeropuertos. Tocá uno para ver la dirección y cómo llegar.": "terminals and airports. Tap one to see the address and how to get there.",
 "Otros deportes": "Other sports",
+"Ver fotos": "See photos",
 "Armá tu viaje en 10 segundos": "Build your trip in 10 seconds",
 "Buenos Aires en 1 día": "Buenos Aires in 1 day",
 "3 días clásicos": "3 classic days",

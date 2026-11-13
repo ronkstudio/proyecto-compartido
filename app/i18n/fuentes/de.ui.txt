@@ -767,3 +767,4 @@
 767|Wir warnen dich in Rot, wenn ein Ort an deinem geplanten Tag meist geschlossen hat.
 768|Terminals und Flughäfen. Tippe auf eines, um Adresse und Anfahrt zu sehen.
 769|Weitere Sportarten
+770|Fotos ansehen
