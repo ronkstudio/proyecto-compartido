@@ -1,0 +1,303 @@
+1|Paris
+2|France
+3|Monuments, musées et balades
+4|Bistrots, boulangeries, cuisine française et du monde
+5|Bars, cabarets, jazz et clubs
+6|Visites guidées, croisières et expériences
+7|Marchés, grands magasins et puces
+8|Cinéma, théâtre, parcs et sorties avec les enfants
+9|Historique, branché et vivant
+10|Ruelles médiévales, la place des Vosges, le quartier juif de la rue des Rosiers, galeries, boutiques de créateurs et le musée Picasso.
+11|Très bonne base : central, à faire à pied et animé à toute heure.
+12|Élégant et littéraire
+13|Les cafés des écrivains, librairies, galeries et le jardin du Luxembourg à deux pas.
+14|Idéal pour une première visite si vous cherchez du classique et du calme ; souvent cher.
+15|Quartier latin
+16|Étudiant et animé
+17|La Sorbonne, le Panthéon, des rues aux restaurants abordables et les quais de Seine face à Notre-Dame.
+18|Central et un peu plus abordable que Saint-Germain.
+19|Tour Eiffel et Trocadéro
+20|Monumental et résidentiel
+21|La tour Eiffel, le Champ-de-Mars, les Invalides et les plus belles vues depuis le Trocadéro.
+22|Joli et sûr, mais calme le soir.
+23|Louvre et Palais-Royal
+24|Classique et central
+25|Le Louvre, le jardin des Tuileries, le Palais-Royal et les passages couverts du XIXe siècle.
+26|Le plus central possible : tout à pied ou à une station de métro.
+27|Luxe et grandes avenues
+28|L'avenue des Champs-Élysées, l'Arc de triomphe et les marques de luxe de l'avenue Montaigne.
+29|Grands hôtels bien desservis ; moins de charme de quartier.
+30|Opéra et Grands Boulevards
+31|Commerçant et théâtral
+32|L'Opéra Garnier, les Galeries Lafayette et le Printemps, et les théâtres des Grands Boulevards.
+33|Très bien desservi, avec beaucoup d'hôtels de milieu de gamme.
+34|Bohème et perché sur sa butte
+35|Le Sacré-Cœur, la place du Tertre et ses peintres, des vignes et des escaliers avec vue sur tout Paris.
+36|Plein de charme ; attention aux montées, et le secteur de Pigalle vit surtout la nuit.
+37|Jeune et décontracté
+38|Passerelles en fer sur le canal, bars, cafés et gens assis au bord de l'eau au coucher du soleil.
+39|Pour ceux qui cherchent un Paris plus local avec de bons bars.
+40|Bastille et Oberkampf
+41|Nocturne et populaire
+42|La place de la Bastille, l'Opéra moderne, le marché d'Aligre et des rues pleines de bars.
+43|Multiculturel et artistique
+44|Street art, cuisine chinoise et maghrébine, et le parc de Belleville avec une vue superbe.
+45|Abordable et authentique, pour ceux qui connaissent déjà le centre.
+46|Calme et bien desservi
+47|La tour Montparnasse et son belvédère, les catacombes toutes proches et les brasseries historiques.
+48|Pratique et plus calme, avec la gare juste à côté.
+49|Champs-Élysées, Louvre, Hôtel de Ville et Bastille
+50|Arc de triomphe, Pigalle, Montmartre (Anvers) et Belleville
+51|Gare du Nord, Châtelet, Saint-Michel, Saint-Germain et Montparnasse
+52|Tour Eiffel (Bir-Hakeim et Trocadéro) et Montparnasse ; une bonne partie est aérienne, avec vue
+53|Opéra, Louvre et quartier chinois
+54|Trocadéro, Champs-Élysées et Grands Boulevards
+55|Montmartre (Abbesses), Concorde et Saint-Germain
+56|La plus rapide : Saint-Lazare, Châtelet, gare de Lyon et l'aéroport d'Orly
+57|Aéroport Charles-de-Gaulle, gare du Nord, Châtelet et Quartier latin
+58|Traverse Paris le long de la Seine
+59|Tour Eiffel (Champ de Mars), musée d'Orsay et Versailles
+60|Aéroport CDG ↔ Saint-Rémy-lès-Chevreuse
+61|Saint-Denis Pleyel ↔ Aéroport d'Orly
+62|Deux tickets à l'unité
+63|Le ticket métro-train-RER est valable dans toute la région, sauf pour les aéroports. Le bus et le tram ont un autre ticket, à part.
+64|Pour l'aéroport, un ticket à part
+65|Pour aller ou revenir de Charles-de-Gaulle ou Orly en RER, métro ou bus, il faut le ticket Paris Région <> Aéroports.
+66|Aux automates et guichets des gares, ou dans l'appli officielle Île-de-France Mobilités, qui charge les titres sur le téléphone.
+67|Une carte rechargeable anonyme : on l'achète une fois en gare et on y charge des tickets ou des forfaits. Elle remplace les tickets en carton.
+68|Comparez selon votre programme : le forfait jour (Navigo Jour), la semaine (Navigo Semaine, du lundi au dimanche) ou le pass touristique Paris Visite. La semaine et Paris Visite incluent les aéroports.
+69|Gardez votre ticket
+70|Il y a des tourniquets à l'entrée et parfois à la sortie, et des contrôleurs passent. Sans titre valable, l'amende est élevée.
+71|13 novembre 2026, avec les sites d'Île-de-France Mobilités et des aéroports de Paris. En cas de différence, l'affichage des transports fait foi.
+72|Métro et RER
+73|Le métro compte 16 lignes numérotées et passe très souvent. Le RER, ce sont des trains rapides désignés par des lettres (A, B, C, D, E) qui traversent la ville jusqu'en banlieue.
+74|Le métro circule de tôt le matin jusqu'après minuit, un peu plus tard le vendredi et le samedi. Vérifiez avant de rentrer tard.
+75|Comment s'orienter
+76|Chaque direction porte le nom du terminus de la ligne. Suivez les panneaux avec le numéro de ligne et le nom de ce terminus.
+77|Correspondances
+78|Les grandes stations comme Châtelet ont des couloirs très longs. Si vous êtes chargé, cherchez une correspondance plus simple.
+79|Accessibilité
+80|Beaucoup de stations de métro n'ont que des escaliers. La ligne 14 et une bonne partie du RER ont des ascenseurs.
+81|Bus et tramways
+82|Ils couvrent toute la ville et permettent de voir Paris par la fenêtre. On valide en montant, à la borne près du conducteur.
+83|Quand le métro ferme, les bus de nuit Noctilien (lettre N) prennent le relais. Plusieurs partent de Châtelet et des grandes gares.
+84|Ils font le tour de la ville par les boulevards des Maréchaux. Pratiques pour aller d'un bord à l'autre sans passer par le centre.
+85|Utilisez Google Maps, Citymapper ou l'appli Île-de-France Mobilités : ils indiquent la ligne, l'arrêt et le temps d'attente.
+86|Trains et gares
+87|Six grandes gares
+88|Gare du Nord, gare de l'Est, gare de Lyon, gare d'Austerlitz, gare Montparnasse et gare Saint-Lazare. Chacune dessert une partie différente de la France et de l'Europe.
+89|Trains grandes lignes
+90|Les TGV s'achètent sur SNCF Connect. Mieux vaut réserver tôt : le prix augmente à l'approche de la date.
+91|Pour Versailles
+92|Le RER C va jusqu'à Versailles Château Rive Gauche, à quelques pas du château.
+93|Taxis officiels
+94|Ils ont un lumineux « TAXI PARISIEN » sur le toit : vert, libre ; rouge, occupé. On les prend aux stations, dans la rue ou par appli.
+95|Depuis les aéroports
+96|Entre les aéroports et Paris, les taxis officiels appliquent un forfait. Demandez-le avant de monter.
+97|Uber, Bolt, FREENOW, Heetch et G7 fonctionnent dans toute la ville et affichent le prix avant la course.
+98|À l'aéroport, utilisez uniquement la file de taxis officielle. N'acceptez pas les offres de gens qui vous abordent dans le terminal.
+99|Les vélos en libre-service de la ville, mécaniques et électriques, avec des stations dans tout Paris. Location via l'appli officielle.
+100|Paris a beaucoup de nouvelles pistes cyclables. À pied, ne restez pas dessus : les vélos vont vite.
+101|Le centre se découvre très bien à pied, surtout le long de la Seine. Prévoyez des chaussures confortables : vous marcherez beaucoup.
+102|Urgences (numéro européen)
+103|SAMU : ambulance et conseil médical
+104|Sécurité dans les transports en commun
+105|Surtout dans le métro et le RER bondés (la ligne 1 et le RER B vers l'aéroport), sur les quais et dans les lieux très fréquentés.
+106|Portez le sac à dos devant et les poches fermées, surtout en montant et en descendant, quand les portes se ferment.
+107|En terrasse et au café, ne laissez pas le téléphone sur la table ni le sac accroché à la chaise.
+108|Surveillez vos affaires à la tour Eiffel, au Sacré-Cœur, au Louvre et à Notre-Dame : des groupes organisés y opèrent.
+109|Paris est une ville sûre à visiter ; voici des endroits où mieux vaut être plus attentif, surtout la nuit.
+110|Les abords de la gare du Nord et de la gare de l'Est la nuit.
+111|Châtelet-Les Halles en pleine nuit.
+112|Barbès, La Chapelle et Stalingrad (nord de la ville) : vente et consommation de drogue dans la rue. Mieux vaut les éviter la nuit.
+113|Pigalle à la sortie des bars et cabarets, en pleine nuit.
+114|Les bracelets de l'amitié : dans la montée du Sacré-Cœur, on vous noue un bracelet au poignet puis on exige de l'argent. Continuez votre chemin et ne tendez pas la main.
+115|La bague en or : quelqu'un « trouve » une bague par terre, vous l'offre puis vous demande de l'argent. Elle ne vaut rien.
+116|Les pétitions : on vous demande de signer pour une cause solidaire puis on exige un don, ou on en profite pour vous voler.
+117|Le bonneteau, surtout près de la tour Eiffel : c'est truqué et ceux qui gagnent sont des complices.
+118|Faux taxis dans les aéroports et les gares : utilisez seulement la file officielle ou une appli.
+119|En cas de vol, vous pouvez porter plainte dans n'importe quel commissariat. Il vous faudra le récépissé pour l'assurance et pour refaire vos papiers.
+120|Si on vous vole votre passeport, après la plainte allez à votre consulat : ils sont sur la carte dans Infos > Aide.
+121|Acceptées presque partout, y compris sans contact et par téléphone. Certains petits commerces demandent un montant minimum pour payer par carte.
+122|Utile d'en avoir un peu pour les marchés, les petites boulangeries et les pourboires.
+123|Le service est compris dans l'addition. Laisser un petit extra est facultatif : on arrondit ou on laisse quelques euros si le service était bon.
+124|Eau gratuite
+125|Au restaurant, vous pouvez demander une carafe d'eau du robinet : c'est gratuit.
+126|Les horaires parisiens
+127|Déjeuner de 12 h à 14 h et dîner de 19 h 30 à 22 h 30. Entre les deux, beaucoup de cuisines ferment : cherchez une brasserie, qui sert toute la journée.
+128|Beaucoup de commerces ferment. Dans le Marais, sur les Champs-Élysées et dans certaines zones touristiques, ils ouvrent quand même.
+129|Presque tous ferment un jour par semaine : le Louvre le mardi et Orsay le lundi. Vérifiez avant d'y aller.
+130|Réservations
+131|Pour les musées et monuments les plus demandés (Louvre, tour Eiffel, Sainte-Chapelle, Notre-Dame), mieux vaut réserver un créneau sur le site officiel.
+132|Printemps (avr.–juin)
+133|Doux, avec les parcs en fleurs. Très bonne période, même s'il pleut souvent.
+134|Été (juil.–août)
+135|Journées longues et chaudes, parfois des canicules. Beaucoup de Parisiens partent en vacances et certains commerces ferment.
+136|Automne (sept.–nov.)
+137|Frais, avec des feuilles colorées ; septembre est l'un des meilleurs mois.
+138|Hiver (déc.–mars)
+139|Froid et gris, autour de 0 à 8 °C. Moins de touristes, illuminations et marchés de Noël en décembre.
+140|230 V. Prises de type E et F (deux broches rondes). Si vous venez d'Argentine, prévoyez un adaptateur.
+141|L'eau du robinet est potable. Les fontaines Wallace vertes dans la rue aussi.
+142|Wi-Fi gratuit dans les parcs, les places et beaucoup de cafés. Pour avoir des données, le plus simple est une eSIM.
+143|Français. Dans les zones touristiques, beaucoup parlent anglais ; dire bonjour en français avant de demander change beaucoup l'accueil.
+144|Les sanisettes de la rue sont gratuites. Au café, les toilettes sont en général réservées aux clients.
+145|Les pharmacies ont une croix verte. Urgences : 112 ou 15.
+146|En entrant dans un commerce on dit « Bonjour » (ou « Bonsoir » le soir), et « Merci, au revoir » en partant. Ne pas saluer est très mal vu.
+147|Au restaurant
+148|Attendez qu'on vous place. L'addition n'arrive pas toute seule : demandez-la avec « L'addition, s'il vous plaît ».
+149|Le ton
+150|On parle bas dans les transports et au restaurant.
+151|Croissant et pain au chocolat, la baguette, le croque-monsieur, le steak-frites, les fromages, les crêpes, les macarons et le vin de la maison.
+152|3 parcs ou jardins
+153|Parisien d'honneur
+154|Adaptateur de prise type E ou F (230 V)
+155|Réserver à l'avance le Louvre, la tour Eiffel et les sites les plus demandés
+156|Acheter le ticket Aéroports pour rejoindre le centre
+157|Acheter une carte Navigo Easy et y charger des tickets
+158|Louvre, Tuileries et les îles
+159|Tour Eiffel et Champs-Élysées
+160|Le Marais et Bastille
+161|Saint-Germain et Quartier latin
+162|Montmartre et l'Opéra
+163|Canal Saint-Martin et Belleville
+164|Louvre, Marais et Saint-Germain
+165|Tour Eiffel et Montmartre
+166|Janvier ou février
+167|Nouvel An chinois
+168|Défilés de dragons et musique dans le quartier chinois (13e) et à Belleville.
+169|Mars et fin septembre
+170|Fashion Week
+171|Les défilés des grandes maisons. La ville se remplit de gens de la mode et les hôtels deviennent plus chers.
+172|Marathon de Paris
+173|Il passe par les Champs-Élysées et les bois de Vincennes et de Boulogne ; routes fermées ce dimanche-là.
+174|Fin mai et début juin
+175|Le tournoi de tennis sur terre battue, au stade de l'ouest de la ville.
+176|Musique gratuite sur les places, dans les bars et au coin des rues de toute la ville, jusque tard.
+177|Fin juin
+178|Marche des fiertés
+179|La Marche des fiertés de Paris, avec un défilé dans le centre.
+180|14 juillet
+181|Fête nationale
+182|Défilé militaire sur les Champs-Élysées le matin et feu d'artifice à la tour Eiffel le soir.
+183|Arrivée du Tour de France
+184|La dernière étape de la course cycliste arrive à Paris, avec des milliers de spectateurs.
+185|Juillet et août
+186|Plages aménagées au bord de la Seine et au bassin de la Villette, avec des activités gratuites.
+187|Troisième week-end de septembre
+188|Journées du patrimoine
+189|Bâtiments officiels et lieux habituellement fermés ouvrent gratuitement au public.
+190|Fête des vendanges de Montmartre
+191|Célèbre les vendanges de la vigne de Montmartre avec défilés, stands et feu d'artifice.
+192|Fin novembre à janvier
+193|Illuminations de Noël
+194|Illuminations des Champs-Élysées et des grands magasins du boulevard Haussmann, avec leurs vitrines animées.
+195|Chalets avec vin chaud, nourriture et artisanat sur plusieurs places et jardins de la ville.
+196|Fête sur les Champs-Élysées, avec projections sur l'Arc de triomphe. Il y a foule : surveillez vos affaires.
+197|Le quai et la voie, dans les gares.
+198|Changement vers une autre ligne, dans le métro.
+199|Boulangerie : baguette, croissants et douceurs.
+200|Le service est déjà compris dans l'addition.
+201|Grève : si vous la voyez dans les transports, vérifiez comment vous déplacer ce jour-là.
+202|Appelez le 112 ou le 15. Les grands hôpitaux ont des urgences 24 h/24.
+203|Le 15 vous oriente aussi : on vous dit si vous avez besoin d'un médecin et où aller.
+204|Elles ont une croix verte. La nuit et le dimanche, il y a des pharmacies de garde : la liste est affichée à la porte de toute pharmacie.
+205|Hors de Paris
+206|Passeport parisien
+207|Cochez les lieux visités et gagnez des tampons : musées, bistrots, explorateur de quartiers…
+208|Nuit parisienne
+209|Pas de station à proximité : plutôt bus ou appli
+210|Que cherchez-vous ? Musée, croissant, jazz, Marais…
+211|Ex. : tour Eiffel, Louvre, Montmartre…
+212|Ex. : tour Eiffel, Louvre, gare du Nord…
+213|Ex. : Air France, Iberia, LATAM…
+214|Boulangeries
+215|Boulangerie
+216|euros
+217|Jusqu'au centre (Hôtel de Ville)
+218|Depuis l'aéroport Charles-de-Gaulle (CDG)
+219|Depuis l'aéroport d'Orly
+220|Depuis l'aéroport de Beauvais
+221|Transports en commun vers CDG
+222|RER B, bus 9517 et bus de nuit
+223|Transports en commun vers Orly
+224|Métro 14, l'option la plus rapide
+225|Aéroport de Beauvais
+226|Site officiel : la navette jusqu'à Paris
+227|Depuis Charles-de-Gaulle, le plus simple est le RER B : il rejoint la gare du Nord et Châtelet en 35 minutes environ.
+228|Depuis Orly, le métro 14 vous dépose dans le centre en 25 minutes environ.
+229|Pour aller ou revenir de l'aéroport en transports en commun, il faut le ticket Aéroports ; le ticket de métro ordinaire n'est pas valable.
+230|Les taxis officiels attendent à la file devant le terminal et appliquent un forfait jusqu'à Paris. N'acceptez pas les offres de gens dans le hall.
+231|En France, il faut présenter son passeport pour activer une carte prépayée.
+232|Beaucoup de parcs, places et cafés ont le Wi-Fi gratuit.
+233|On peut presque tout payer par carte, y compris sans contact.
+234|Tickets, forfaits et comment se déplacer
+235|Titres pour les visiteurs
+236|Site officiel d'Île-de-France Mobilités
+237|Lignes de métro et de RER
+238|Achetez une carte Navigo Easy et chargez-y vos tickets : elle sert pour tout le séjour.
+239|Pour aller ou revenir des aéroports, il faut le ticket Aéroports ou un forfait qui les inclut.
+240|Tickets, métro, taxis
+241|L'appli officielle : itinéraires et tickets sur le téléphone.
+242|Itinéraires et état du trafic du métro, du RER et des bus.
+243|Itinéraires en transports, avec la voiture conseillée pour la sortie.
+244|Pour commander des taxis officiels.
+245|Trajets en voiture, très utilisée la nuit.
+246|Les vélos en libre-service de Paris.
+247|Pour manger
+248|Réservations au restaurant, parfois avec réduction.
+249|Livraison de repas.
+250|État du métro, du RER et des bus
+251|Retards, travaux et grèves, en direct (Île-de-France Mobilités).
+252|Grèves et manifestations dans l'actualité du jour.
+253|Les temps forts de la semaine. 📅 Agenda officiel de la Ville de Paris. Vérifiez sur la page avant d'y aller.
+254|Que faire à Paris : l'agenda de la Ville
+255|Paris Musées : expositions
+256|Paris a deux grands aéroports, Charles-de-Gaulle (CDG) et Orly (ORY), et un plus éloigné pour les vols low cost, Beauvais (BVA). Vérifiez bien le vôtre et le terminal de départ.
+257|La salutation obligatoire en entrant dans un commerce
+258|Pour demander de l'eau du robinet, gratuite
+259|Comment payer et combien laisser de pourboire
+260|Quel ticket acheter pour le métro et l'aéroport
+261|Gares et aéroports
+262|Commissariat des 5e et 6e arrondissements
+263|La plus proche du Quartier latin, de Notre-Dame et de Saint-Germain. Plaintes pour vol ou perte de papiers.
+264|Commissariat du 7e arrondissement
+265|Face aux Invalides ; le plus proche de la tour Eiffel.
+266|Commissariat du 9e arrondissement
+267|Près de l'Opéra et des Galeries Lafayette.
+268|Commissariat du 18e arrondissement
+269|Le plus proche de Montmartre et du Sacré-Cœur.
+270|Commissariat du 15e arrondissement
+271|Près de Montparnasse.
+272|Commissariat du 17e arrondissement
+273|Batignolles, au nord de l'Arc de triomphe.
+274|Hôpital public face à Notre-Dame, en plein centre. Urgences adultes.
+275|Public. Urgences 24 h/24 ; à côté de la gare du Nord.
+276|Public et l'un des plus grands d'Europe. Urgences 24 h/24.
+277|Public. Urgences 24 h/24 ; au sud-ouest de la ville.
+278|Public. Urgences 24 h/24 ; près de Montparnasse et du Quartier latin.
+279|Public. Urgences 24 h/24 ; le plus proche de la Bastille.
+280|Public. Urgences 24 h/24 ; au nord de Montmartre.
+281|Hôpital pour enfants. Urgences pédiatriques 24 h/24.
+282|Privé, on y parle anglais. À l'ouest de Paris, hors de la ville. Souvent cher : renseignez-vous auprès de votre assurance.
+283|Argentine
+284|Chili
+285|Ambassade et consulat
+286|Passeports, documents et aide à ses ressortissants. Adresse confirmée sur le site officiel de l'ambassade.
+287|Passeports, documents et aide à ses ressortissants. Adresse confirmée sur le site officiel du consulat.
+288|Services consulaires
+289|Passeports et aide à ses ressortissants. L'ambassade est à côté, au 2 de la même avenue.
+290|Trains pour Londres, Bruxelles et Amsterdam. RER B vers l'aéroport Charles-de-Gaulle.
+291|Trains vers le sud de la France, la Suisse et l'Italie. Métro 1 et 14, RER A et D.
+292|Trains vers l'est de la France et l'Allemagne.
+293|Trains vers l'ouest de la France : Bretagne, Bordeaux et la vallée de la Loire.
+294|Trains vers la Normandie. Métro 14 vers le centre et Orly.
+295|Trains vers le centre de la France et trains de nuit.
+296|Aéroport Charles-de-Gaulle (CDG)
+297|L'aéroport principal, au nord. Environ 35 minutes du centre en RER B.
+298|Aéroport d'Orly (ORY)
+299|Au sud de la ville. Environ 25 minutes du centre en métro 14.
+300|Aéroport de Beauvais (BVA)
+301|Pour les vols low cost, à plus d'une heure de Paris en car.
+302|Pré-plainte pour vol sur le site officiel du ministère de l'Intérieur. Il faut ensuite la signer au commissariat.
+303|Trouvez les pharmacies de garde près de vous sur la carte.

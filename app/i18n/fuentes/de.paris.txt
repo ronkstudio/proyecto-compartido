@@ -1,0 +1,303 @@
+1|Paris
+2|Frankreich
+3|Denkmäler, Museen und Spaziergänge
+4|Bistros, Bäckereien, französische und internationale Küche
+5|Bars, Kabaretts, Jazz und Clubs
+6|Führungen, Bootsfahrten und Erlebnisse
+7|Märkte, Kaufhäuser und Flohmärkte
+8|Kino, Theater, Parks und Ausflüge mit Kindern
+9|Historisch, angesagt und mit Kiezleben
+10|Mittelalterliche Gassen, die Place des Vosges, das jüdische Viertel um die Rue des Rosiers, Galerien, Designläden und das Picasso-Museum.
+11|Sehr gute Basis: zentral, gut zu Fuß und zu jeder Uhrzeit belebt.
+12|Elegant und literarisch
+13|Die Cafés der Schriftsteller, Buchhandlungen, Galerien und der Jardin du Luxembourg ganz in der Nähe.
+14|Ideal für den ersten Besuch, wenn du es klassisch und ruhig magst; meist teuer.
+15|Quartier Latin
+16|Studentisch und lebendig
+17|Die Sorbonne, das Panthéon, Straßen mit günstigen Restaurants und das Seineufer gegenüber Notre-Dame.
+18|Zentral und etwas günstiger als Saint-Germain.
+19|Eiffelturm und Trocadéro
+20|Monumental und ruhiges Wohnviertel
+21|Der Eiffelturm, das Marsfeld, der Invalidendom und die besten Ausblicke vom Trocadéro.
+22|Schön und sicher, aber abends ist wenig los.
+23|Louvre und Palais-Royal
+24|Klassisch und zentral
+25|Der Louvre, der Tuileriengarten, das Palais-Royal und die überdachten Passagen aus dem 19. Jahrhundert.
+26|Zentraler geht es nicht: alles zu Fuß oder eine Metrostation entfernt.
+27|Luxus und große Boulevards
+28|Die Champs-Élysées, der Triumphbogen und die Luxusmarken der Avenue Montaigne.
+29|Große, gut angebundene Hotels; weniger Kiezcharme.
+30|Opéra und Grands Boulevards
+31|Shopping und Theater
+32|Die Opéra Garnier, die Galeries Lafayette und Printemps und die Theater der Grands Boulevards.
+33|Sehr gut angebunden, mit vielen Hotels der Mittelklasse.
+34|Bohème und auf dem Hügel
+35|Sacré-Cœur, die Place du Tertre mit ihren Malern, Weinberge und Treppen mit Blick über die ganze Stadt.
+36|Sehr charmant; denk an die Steigungen und daran, dass Pigalle vor allem nachts lebt.
+37|Jung und entspannt
+38|Eiserne Brücken über den Kanal, Bars, Cafés und Menschen, die bei Sonnenuntergang am Ufer sitzen.
+39|Für alle, die ein ursprünglicheres Paris mit guten Bars suchen.
+40|Bastille und Oberkampf
+41|Nachtleben und bodenständig
+42|Die Place de la Bastille, die moderne Oper, der Markt von Aligre und Straßen voller Bars.
+43|Multikulturell und künstlerisch
+44|Street-Art, chinesisches und nordafrikanisches Essen und der Park von Belleville mit tollem Ausblick.
+45|Günstig und authentisch, für alle, die das Zentrum schon kennen.
+46|Ruhig und gut angebunden
+47|Der Tour Montparnasse mit Aussichtsplattform, die Katakomben in der Nähe und historische Brasserien.
+48|Praktisch und ruhiger, mit dem Bahnhof direkt nebenan.
+49|Champs-Élysées, Louvre, Hôtel de Ville und Bastille
+50|Triumphbogen, Pigalle, Montmartre (Anvers) und Belleville
+51|Gare du Nord, Châtelet, Saint-Michel, Saint-Germain und Montparnasse
+52|Eiffelturm (Bir-Hakeim und Trocadéro) und Montparnasse; fährt großteils oberirdisch, mit Ausblick
+53|Opéra, Louvre und Chinatown
+54|Trocadéro, Champs-Élysées und Grands Boulevards
+55|Montmartre (Abbesses), Concorde und Saint-Germain
+56|Die schnellste: Saint-Lazare, Châtelet, Gare de Lyon und der Flughafen Orly
+57|Flughafen Charles de Gaulle, Gare du Nord, Châtelet und Quartier Latin
+58|Durchquert Paris entlang der Seine
+59|Eiffelturm (Champ de Mars), Musée d'Orsay und Versailles
+60|Flughafen CDG ↔ Saint-Rémy-lès-Chevreuse
+61|Saint-Denis Pleyel ↔ Flughafen Orly
+62|Zwei Einzelfahrscheine
+63|Das Ticket für Metro, Zug und RER gilt in der ganzen Region, außer zu den Flughäfen. Für Bus und Tram gibt es ein eigenes Ticket.
+64|Zum Flughafen: eigenes Ticket
+65|Für Fahrten von und nach Charles de Gaulle oder Orly mit RER, Metro oder Bus brauchst du das Flughafenticket (Paris Région <> Aéroports).
+66|An den Automaten und Schaltern der Stationen oder in der offiziellen App Île-de-France Mobilités, die die Tickets aufs Handy lädt.
+67|Eine aufladbare Karte ohne Namen: einmal an einer Station kaufen und Tickets oder Pässe aufladen. Sie ersetzt die Papiertickets.
+68|Vergleiche mit deinen Plänen: Tageskarte (Navigo Jour), Wochenkarte (Navigo Semaine, Montag bis Sonntag) oder der Touristenpass Paris Visite. Wochenkarte und Paris Visite gelten auch zu den Flughäfen.
+69|Behalte dein Ticket
+70|Es gibt Sperren am Eingang und manchmal am Ausgang, und es wird kontrolliert. Ohne gültiges Ticket ist die Strafe hoch.
+71|13. November 2026, mit den Websites von Île-de-France Mobilités und der Pariser Flughäfen. Bei Abweichungen gelten die Aushänge vor Ort.
+72|Metro und RER
+73|Die Metro hat 16 nummerierte Linien und fährt sehr häufig. Der RER sind schnelle Züge mit Buchstaben (A, B, C, D, E), die die Stadt durchqueren und bis ins Umland fahren.
+74|Die Metro fährt von früh morgens bis nach Mitternacht, freitags und samstags etwas länger. Prüf das, bevor du spät zurückfährst.
+75|So findest du dich zurecht
+76|Jede Richtung ist nach der Endstation benannt. Folge den Schildern mit der Liniennummer und dem Namen dieser Endstation.
+77|Umsteigen
+78|Große Stationen wie Châtelet haben sehr lange Gänge. Mit Gepäck such dir lieber eine einfachere Verbindung.
+79|Barrierefreiheit
+80|Viele Metrostationen haben nur Treppen. Linie 14 und große Teile des RER haben Aufzüge.
+81|Busse und Trams
+82|Sie decken die ganze Stadt ab, und man sieht Paris durchs Fenster. Das Ticket entwertest du beim Einsteigen am Gerät neben dem Fahrer.
+83|Wenn die Metro schließt, fahren die Nachtbusse Noctilien (mit dem Buchstaben N). Mehrere starten an Châtelet und den großen Bahnhöfen.
+84|Sie umrunden die Stadt auf den äußeren Boulevards. Praktisch, um von einem Rand zum anderen zu kommen, ohne durchs Zentrum.
+85|Nutze Google Maps, Citymapper oder die App Île-de-France Mobilités: Sie zeigen Linie, Haltestelle und Wartezeit.
+86|Züge und Bahnhöfe
+87|Sechs große Bahnhöfe
+88|Gare du Nord, Gare de l'Est, Gare de Lyon, Gare d'Austerlitz, Gare Montparnasse und Gare Saint-Lazare. Jeder bedient einen anderen Teil Frankreichs und Europas.
+89|Fernzüge
+90|TGV-Tickets gibt es bei SNCF Connect. Früh buchen lohnt sich: Kurz vorher wird es teurer.
+91|Nach Versailles
+92|Der RER C fährt bis Versailles Château Rive Gauche, wenige Gehminuten vom Schloss.
+93|Offizielle Taxis
+94|Sie haben ein Schild „TAXI PARISIEN" auf dem Dach: grün heißt frei, rot besetzt. Man nimmt sie am Taxistand, auf der Straße oder per App.
+95|Von den Flughäfen
+96|Zwischen den Flughäfen und Paris gilt für offizielle Taxis ein Festpreis. Frag vor dem Einsteigen danach.
+97|Uber, Bolt, FREENOW, Heetch und G7 funktionieren in der ganzen Stadt und zeigen den Preis vor der Fahrt.
+98|Nutze am Flughafen nur den offiziellen Taxistand. Nimm keine Angebote von Leuten an, die dich im Terminal ansprechen.
+99|Die öffentlichen Leihräder der Stadt, normal und elektrisch, mit Stationen in ganz Paris. Ausleihe über die offizielle App.
+100|Paris hat viele neue Radwege. Bleib als Fußgänger nicht darauf stehen: Die Räder sind schnell.
+101|Das Zentrum lässt sich wunderbar zu Fuß erkunden, vor allem entlang der Seine. Bequeme Schuhe einpacken: Du läufst viel.
+102|Notruf (europäische Nummer)
+103|Rettungsdienst und ärztliche Beratung (SAMU)
+104|Sicherheit im Nahverkehr
+105|Vor allem in vollen Metros und RER-Zügen (Linie 1 und RER B zum Flughafen), auf Bahnsteigen und an belebten Orten.
+106|Trag den Rucksack vorne und die Taschen geschlossen, besonders beim Ein- und Aussteigen, wenn die Türen schließen.
+107|Auf Terrassen und in Cafés lass das Handy nicht auf dem Tisch und die Tasche nicht an der Stuhllehne.
+108|Pass auf deine Sachen auf am Eiffelturm, Sacré-Cœur, Louvre und Notre-Dame: Dort sind organisierte Banden unterwegs.
+109|Paris ist sicher zum Erkunden; an diesen Orten solltest du aufmerksamer sein, besonders nachts.
+110|Die Umgebung von Gare du Nord und Gare de l'Est nachts.
+111|Châtelet-Les Halles in den frühen Morgenstunden.
+112|Barbès, La Chapelle und Stalingrad (Norden der Stadt): Dort wird auf der Straße mit Drogen gehandelt und konsumiert. Nachts besser meiden.
+113|Pigalle, wenn Bars und Kabaretts spät nachts schließen.
+114|Freundschaftsbänder: Beim Aufstieg zur Sacré-Cœur bindet dir jemand ein Band ums Handgelenk und verlangt dann Geld. Geh weiter und streck die Hand nicht aus.
+115|Der Goldring: Jemand „findet" einen Ring am Boden, schenkt ihn dir und will dann Geld. Er ist wertlos.
+116|Unterschriften: Man bittet dich, für einen guten Zweck zu unterschreiben, und verlangt dann eine Spende oder bestiehlt dich dabei.
+117|Das Hütchenspiel (Bonneteau), vor allem am Eiffelturm: Es ist manipuliert, und die Gewinner sind Komplizen.
+118|Falsche Taxis an Flughäfen und Bahnhöfen: Nur den offiziellen Taxistand oder eine App nutzen.
+119|Wenn du bestohlen wirst, kannst du in jeder Polizeiwache Anzeige erstatten. Du brauchst sie für die Versicherung und für neue Dokumente.
+120|Wenn dein Pass gestohlen wird, geh nach der Anzeige zu deinem Konsulat: Sie sind auf der Karte unter Info > Hilfe.
+121|Fast überall akzeptiert, auch kontaktlos und per Handy. Manche kleine Läden verlangen einen Mindestbetrag für Kartenzahlung.
+122|Etwas Bargeld ist praktisch für Märkte, kleine Bäckereien und Trinkgeld.
+123|Der Service ist im Preis enthalten („service compris"). Extra-Trinkgeld ist freiwillig: Man rundet auf oder gibt ein paar Euro bei gutem Service.
+124|Kostenloses Wasser
+125|Im Restaurant kannst du eine Karaffe Leitungswasser bestellen („une carafe d'eau"): Sie ist kostenlos.
+126|Pariser Zeiten
+127|Mittagessen von 12 bis 14 Uhr, Abendessen von 19:30 bis 22:30 Uhr. Dazwischen schließen viele Küchen: Brasserien servieren den ganzen Tag.
+128|Viele Geschäfte haben zu. Im Marais, auf den Champs-Élysées und in einigen Touristenvierteln öffnen sie trotzdem.
+129|Fast alle schließen einen Tag pro Woche: der Louvre dienstags, das Orsay montags. Prüf das vorher.
+130|Reservierungen
+131|Für die beliebtesten Museen und Sehenswürdigkeiten (Louvre, Eiffelturm, Sainte-Chapelle, Notre-Dame) solltest du auf der offiziellen Website ein Zeitfenster buchen.
+132|Frühling (Apr–Jun)
+133|Mild, die Parks blühen. Sehr gute Reisezeit, auch wenn es oft regnet.
+134|Sommer (Jul–Aug)
+135|Lange, heiße Tage, manchmal Hitzewellen. Viele Pariser sind im Urlaub, und manche Geschäfte schließen.
+136|Herbst (Sep–Nov)
+137|Kühl, mit buntem Laub; der September ist einer der besten Monate.
+138|Winter (Dez–Mär)
+139|Kalt und grau, etwa 0 bis 8 °C. Weniger Touristen, Lichter und Weihnachtsmärkte im Dezember.
+140|230 V. Steckdosen Typ E und F (zwei runde Stifte). Wenn du aus Argentinien kommst, nimm einen Adapter mit.
+141|Leitungswasser ist trinkbar, ebenso das aus den grünen Wallace-Brunnen auf der Straße.
+142|Kostenloses WLAN gibt es in Parks, auf Plätzen und in vielen Cafés. Für mobile Daten ist eine eSIM am einfachsten.
+143|Französisch. In Touristengegenden sprechen viele Englisch; vorher auf Französisch zu grüßen, macht einen großen Unterschied.
+144|Die automatischen Straßentoiletten (Sanisettes) sind kostenlos. In Cafés ist die Toilette meist nur für Gäste.
+145|Apotheken haben ein grünes Kreuz. Notfälle: 112 oder 15.
+146|Beim Betreten eines Geschäfts sagt man „Bonjour" (abends „Bonsoir") und beim Gehen „Merci, au revoir". Nicht zu grüßen gilt als sehr unhöflich.
+147|Im Restaurant
+148|Warte, bis man dir einen Platz zuweist. Die Rechnung kommt nicht von selbst: Frag mit „L'addition, s'il vous plaît".
+149|Lautstärke
+150|In Verkehrsmitteln und Restaurants spricht man leise.
+151|Croissant und Pain au chocolat, Baguette, Croque-monsieur, Steak frites, Käse, Crêpes, Macarons und der Hauswein.
+152|3 Parks oder Gärten
+153|Ehrenpariser
+154|Steckdosenadapter Typ E oder F (230 V)
+155|Louvre, Eiffelturm und die gefragtesten Orte rechtzeitig reservieren
+156|Das Flughafenticket für die Fahrt ins Zentrum kaufen
+157|Eine Navigo-Easy-Karte kaufen und Tickets aufladen
+158|Louvre, Tuilerien und die Inseln
+159|Eiffelturm und Champs-Élysées
+160|Le Marais und Bastille
+161|Saint-Germain und Quartier Latin
+162|Montmartre und die Oper
+163|Canal Saint-Martin und Belleville
+164|Louvre, Marais und Saint-Germain
+165|Eiffelturm und Montmartre
+166|Januar oder Februar
+167|Chinesisches Neujahr
+168|Drachenumzüge und Musik in Chinatown (13. Arrondissement) und in Belleville.
+169|März und Ende September
+170|Fashion Week
+171|Die Schauen der großen Marken. Die Stadt füllt sich mit Modeleuten, und Hotels werden teurer.
+172|Paris-Marathon
+173|Sie führt über die Champs-Élysées und durch die Wälder von Vincennes und Boulogne; an dem Sonntag gibt es Straßensperren.
+174|Ende Mai und Anfang Juni
+175|Das Tennisturnier auf Sand, im Stadion im Westen der Stadt.
+176|Kostenlose Musik auf Plätzen, in Bars und an Straßenecken in der ganzen Stadt, bis spät.
+177|Ende Juni
+178|Pride-Parade
+179|Die Pariser Pride mit Umzug durchs Zentrum.
+180|14. Juli
+181|Nationalfeiertag
+182|Militärparade auf den Champs-Élysées am Morgen und Feuerwerk am Eiffelturm am Abend.
+183|Zieleinfahrt der Tour de France
+184|Die letzte Etappe des Radrennens endet in Paris, mit Tausenden Menschen an der Strecke.
+185|Juli und August
+186|Aufgebaute Strände an der Seine und am Bassin de la Villette, mit kostenlosen Aktivitäten.
+187|Drittes Wochenende im September
+188|Tage des offenen Denkmals
+189|Amtsgebäude und sonst geschlossene Orte öffnen kostenlos für alle.
+190|Weinlesefest von Montmartre
+191|Feiert die Lese des Weinbergs von Montmartre mit Umzügen, Ständen und Feuerwerk.
+192|Ende November bis Januar
+193|Weihnachtsbeleuchtung
+194|Beleuchtung der Champs-Élysées und der Kaufhäuser am Boulevard Haussmann mit ihren animierten Schaufenstern.
+195|Stände mit Glühwein, Essen und Kunsthandwerk auf mehreren Plätzen und in Gärten der Stadt.
+196|Feier auf den Champs-Élysées mit Projektionen auf den Triumphbogen. Sehr voll: Pass auf deine Sachen auf.
+197|Bahnsteig und Gleis, in Bahnhöfen.
+198|Umsteigen in eine andere Linie, in der Metro.
+199|Bäckerei: Baguette, Croissants und Süßes.
+200|Der Service ist im Preis enthalten.
+201|Streik: Wenn du das im Nahverkehr siehst, prüf, wie du an dem Tag vorankommst.
+202|Ruf 112 oder 15 an. Die großen Krankenhäuser haben eine 24-Stunden-Notaufnahme.
+203|Die 15 berät auch: Man sagt dir, ob du einen Arzt brauchst und wohin du gehen sollst.
+204|Sie haben ein grünes Kreuz. Nachts und sonntags gibt es Notdienstapotheken: Die Liste hängt an jeder Apothekentür.
+205|Außerhalb von Paris
+206|Pariser Pass
+207|Markiere die Orte, die du kennst, und sammle Stempel: Museen, Bistros, Kiezentdecker…
+208|Pariser Nacht
+209|Keine Station in der Nähe: besser Bus oder App
+210|Was suchst du? Museum, Croissant, Jazz, Marais…
+211|Z. B. Eiffelturm, Louvre, Montmartre…
+212|Z. B. Eiffelturm, Louvre, Gare du Nord…
+213|Z. B. Air France, Iberia, LATAM…
+214|Bäckereien
+215|Bäckerei
+216|Euro
+217|Ins Zentrum (Hôtel de Ville)
+218|Vom Flughafen Charles de Gaulle (CDG)
+219|Vom Flughafen Orly
+220|Vom Flughafen Beauvais
+221|Öffentlicher Verkehr zum CDG
+222|RER B, Bus 9517 und Nachtbusse
+223|Öffentlicher Verkehr nach Orly
+224|Metro 14, die schnellste Option
+225|Flughafen Beauvais
+226|Offizielle Website: der Bus nach Paris
+227|Von Charles de Gaulle ist der RER B am einfachsten: Er erreicht Gare du Nord und Châtelet in etwa 35 Minuten.
+228|Von Orly bringt dich die Metro 14 in etwa 25 Minuten ins Zentrum.
+229|Für Fahrten zum oder vom Flughafen mit Öffis brauchst du das Flughafenticket; das normale Metroticket gilt nicht.
+230|Offizielle Taxis warten am Taxistand vor dem Terminal und fahren zum Festpreis nach Paris. Nimm keine Angebote von Leuten in der Halle an.
+231|In Frankreich brauchst du zum Aktivieren einer Prepaid-SIM deinen Pass.
+232|Viele Parks, Plätze und Cafés haben kostenloses WLAN.
+233|Mit Karte kannst du fast alles bezahlen, auch kontaktlos.
+234|Tickets, Pässe und wie du dich bewegst
+235|Tickets für Besucher
+236|Offizielle Website von Île-de-France Mobilités
+237|Metro- und RER-Linien
+238|Kauf eine Navigo-Easy-Karte und lade die Tickets auf: Sie reicht für die ganze Reise.
+239|Für Fahrten zu den Flughäfen brauchst du das Flughafenticket oder einen Pass, der sie einschließt.
+240|Tickets, Metro, Taxis
+241|Die offizielle App: Verbindungen und Tickets auf dem Handy.
+242|Verbindungen und Betriebslage von Metro, RER und Bussen.
+243|Öffi-Verbindungen, inklusive des besten Wagens zum Aussteigen.
+244|Zum Bestellen offizieller Taxis.
+245|Autofahrten, nachts sehr beliebt.
+246|Die öffentlichen Leihräder von Paris.
+247|Zum Essen
+248|Restaurantreservierungen, manchmal mit Rabatt.
+249|Essenslieferung.
+250|Betriebslage von Metro, RER und Bussen
+251|Verspätungen, Bauarbeiten und Streiks, live (Île-de-France Mobilités). Auf Französisch.
+252|Streiks (grève) und Demonstrationen (manifestation) in den heutigen Nachrichten.
+253|Highlights der Woche. 📅 Offizieller Veranstaltungskalender der Stadt Paris. Die Titel sind auf Französisch. Prüf die Seite, bevor du hingehst.
+254|Que faire à Paris: Stadtkalender
+255|Paris Musées: Ausstellungen
+256|Paris hat zwei große Flughäfen, Charles de Gaulle (CDG) und Orly (ORY), und einen weiter entfernten für Billigflüge, Beauvais (BVA). Prüf genau, welcher deiner ist und von welchem Terminal du fliegst.
+257|Pflichtgruß beim Betreten eines Geschäfts
+258|Um Leitungswasser zu bestellen, das kostenlos ist
+259|Wie man bezahlt und wie viel Trinkgeld man gibt
+260|Welches Ticket du für Metro und Flughafen brauchst
+261|Bahnhöfe und Flughäfen
+262|Polizeiwache des 5. und 6. Arrondissements
+263|Die nächste zum Quartier Latin, zu Notre-Dame und Saint-Germain. Anzeigen bei Diebstahl oder verlorenen Dokumenten.
+264|Polizeiwache des 7. Arrondissements
+265|Gegenüber dem Invalidendom; die nächste zum Eiffelturm.
+266|Polizeiwache des 9. Arrondissements
+267|In der Nähe der Oper und der Galeries Lafayette.
+268|Polizeiwache des 18. Arrondissements
+269|Die nächste zu Montmartre und Sacré-Cœur.
+270|Polizeiwache des 15. Arrondissements
+271|In der Nähe von Montparnasse.
+272|Polizeiwache des 17. Arrondissements
+273|Batignolles, nördlich des Triumphbogens.
+274|Öffentliches Krankenhaus gegenüber Notre-Dame, mitten im Zentrum. Notaufnahme für Erwachsene.
+275|Öffentlich. 24-Stunden-Notaufnahme; neben der Gare du Nord.
+276|Öffentlich und eines der größten Europas. 24-Stunden-Notaufnahme.
+277|Öffentlich. 24-Stunden-Notaufnahme; im Südwesten der Stadt.
+278|Öffentlich. 24-Stunden-Notaufnahme; nahe Montparnasse und Quartier Latin.
+279|Öffentlich. 24-Stunden-Notaufnahme; am nächsten zur Bastille.
+280|Öffentlich. 24-Stunden-Notaufnahme; nördlich von Montmartre.
+281|Kinderkrankenhaus. 24-Stunden-Kindernotaufnahme.
+282|Privat, man spricht Englisch. Westlich von Paris, außerhalb der Stadt. Meist teuer: Frag deine Versicherung.
+283|Argentinien
+284|Chile
+285|Botschaft und Konsulat
+286|Pässe, Dokumente und Hilfe für die eigenen Staatsbürger. Adresse auf der offiziellen Website der Botschaft bestätigt.
+287|Pässe, Dokumente und Hilfe für die eigenen Staatsbürger. Adresse auf der offiziellen Website des Konsulats bestätigt.
+288|Konsularische Dienste
+289|Pässe und Hilfe für die eigenen Staatsbürger. Die Botschaft ist nebenan, Hausnummer 2 derselben Avenue.
+290|Züge nach London, Brüssel und Amsterdam. RER B zum Flughafen Charles de Gaulle.
+291|Züge nach Südfrankreich, in die Schweiz und nach Italien. Metro 1 und 14, RER A und D.
+292|Züge nach Ostfrankreich und Deutschland.
+293|Züge nach Westfrankreich: Bretagne, Bordeaux und das Loiretal.
+294|Züge in die Normandie. Metro 14 ins Zentrum und nach Orly.
+295|Züge nach Zentralfrankreich und Nachtzüge.
+296|Flughafen Charles de Gaulle (CDG)
+297|Der Hauptflughafen im Norden. Etwa 35 Minuten vom Zentrum mit dem RER B.
+298|Flughafen Orly (ORY)
+299|Südlich der Stadt. Etwa 25 Minuten vom Zentrum mit der Metro 14.
+300|Flughafen Beauvais (BVA)
+301|Für Billigflüge, über eine Stunde mit dem Bus von Paris entfernt.
+302|Online-Voranzeige bei Diebstahl auf der offiziellen Seite des Innenministeriums (auf Französisch). Danach auf einer Wache unterschreiben.
+303|Finde Notdienstapotheken in deiner Nähe auf der Karte.

@@ -28,7 +28,7 @@ Qué está hecho, qué se probó y qué falta: [app/ESTADO.md](app/ESTADO.md).
 | Idiomas | Muchos, no dos o tres. La lista se arma en la tarjeta #11 | `ezebesserr`, 11/11. Tarjetas #11 y #39 |
 | Planes | Variedad de planes armados para vacaciones y visitas | `ezebesserr`, 11/11. Tarjeta #48 |
 | Áreas de cada uno | No hay: los dos hacen de todo | Tarjeta #2 |
-| Ciudades nuevas | Berlín, Madrid, Roma y París, una por tarjeta. Primero la estructura (Info, Hoy, mapa) y después los lugares, cuando Bautista apruebe la estructura. Por ahora solo Berlín | Bautista, 13/11. Tarjetas #98 a #102 |
+| Ciudades nuevas | Berlín, Madrid, Roma y París, una por tarjeta. Primero la estructura (Info, Hoy, mapa) y después los lugares. Berlín y París están en marcha; París la pidió Bautista completa, igual que Buenos Aires (13/11) | Bautista, 13/11. Tarjetas #98 a #102 |
 | Agenda de Hoy en Berlín | Agenda cultural abierta de Berlín, solo los distritos céntricos y sin trámites de biblioteca. Títulos en alemán | 13/11. Tarjeta #99 |
 | Avisos de paros, marchas y cortes | Los carga a mano una persona en `app/data/avisos.json`, con fechas y fuente, y se apagan solos al terminar. La guía no los detecta sola. Siempre se muestran, en Info > Ayuda, links para fijarse antes de salir | Bautista, 13/11. Tarjeta #120 |
 | Cuentas de usuario | **No hay.** La guía funciona sin usuario ni mail: todo queda guardado en el dispositivo. Se probaron con Supabase y se sacaron (pocos mails por hora en el plan gratis, el enlace del mail se trababa entre dispositivos, y guardar mails obliga a cumplir con los datos personales). Tampoco va un botón para pasar el viaje a otro dispositivo | Bautista, 13/11. Tarjetas #35, #140 y #148 |
