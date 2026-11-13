@@ -5,7 +5,7 @@
 #   - dos veces por día, para traer la agenda de "Hoy" de cada ciudad;
 #   - a mano, desde la pestaña Actions > "Publicar la guía" > Run workflow.
 #
-# Qué hace: baja la agenda del día de Buenos Aires y de Berlín (si una falla, se usa la que está en el repositorio),
+# Qué hace: baja la agenda del día de Buenos Aires, de Berlín y de París (si una falla, se usa la que está en el repositorio),
 # copia app/ sin los documentos internos y la publica. No cambia nada en el repositorio.
 # No necesita claves: usa el permiso que GitHub le da a cada repositorio para publicar su propia página.
 # Ojo: GitHub apaga los pasos programados de un repositorio que pasa 60 días sin cambios hechos por una persona.
@@ -41,6 +41,10 @@ jobs:
         continue-on-error: true
         shell: pwsh
         run: ./herramientas/armar-hoy-berlin.ps1 -out app/data/hoy-berlin.json
+      - name: Bajar la agenda de París
+        continue-on-error: true
+        shell: pwsh
+        run: ./herramientas/armar-hoy-paris.ps1 -out app/data/hoy-paris.json
       - name: Armar la copia para publicar (sin documentos internos)
         run: |
           mkdir _site
