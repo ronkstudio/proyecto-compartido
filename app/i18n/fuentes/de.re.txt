@@ -41,3 +41,9 @@ $1 Std. $2 Min. mit der Direktfähre
 $1 Stunden mit dem Boot ab Tigre
 $1 Std. $2 Min. mit dem Boot ab Tigre
 $1 Min. mit dem Boot
+Heute in {1}
+Willkommen in {1}!
+Deine ersten Stunden in {1}
+Alles bereit! Genieß {1}.
+{1} Reiseführer
+1 $1 ≈ $2 Euro

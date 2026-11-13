@@ -41,3 +41,9 @@ $1 h $2 min de ferry direto
 $1 horas de lancha saindo de Tigre
 $1 h $2 min de lancha saindo de Tigre
 $1 min de lancha
+Hoje em {1}
+Bem-vindo a {1}!
+Suas primeiras horas em {1}
+Tudo pronto! Aproveite {1}.
+Guia de {1}
+1 $1 ≈ $2 euros

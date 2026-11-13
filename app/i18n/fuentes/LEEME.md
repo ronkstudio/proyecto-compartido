@@ -3,6 +3,7 @@
 Con estos archivos se arman los diccionarios de `i18n/dict/`.
 
 - `ui.txt`, `extra.txt`, `tags.txt`, `desc.txt`, `tip.txt`: los textos en español, uno por línea.
+- `berlin.txt`, `madrid.txt`, `roma.txt`, `paris.txt` (y `<idioma>.berlin.txt`, etc.): los textos propios de cada ciudad, con el mismo formato que `extra.txt`. Si una ciudad no tiene lista, el armado la saltea.
 - `re.txt`: reglas para textos con números ("Día 3", "5 lugares").
 - `<idioma>.ui.txt`, `<idioma>.extra.txt`, `<idioma>.desc.txt`, `<idioma>.tip.txt`: la traducción, con el número de línea adelante (`12|Near me`). Una línea vacía después de la barra deja ese texto en español.
 - `<idioma>.tags.pipe`: las etiquetas, en el mismo orden que `tags.txt`, separadas por `|`.

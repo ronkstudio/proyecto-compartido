@@ -976,6 +976,18 @@ window.I18N_FULL = {
 "Alternativa Teatral: cartelera": "Alternativa Teatral: Theaterprogramm",
 "Resident Advisor: fiestas electrónicas": "Resident Advisor: Partys mit elektronischer Musik",
 "Este mes": "Diesen Monat",
+"Elegí tu ciudad": "Wähle deine Stadt",
+"Cambiar de ciudad": "Stadt wechseln",
+"Tu viaje y tus lugares guardados quedan aparte para cada ciudad.": "Deine Reise und deine gespeicherten Orte werden für jede Stadt getrennt gespeichert.",
+"No pudimos cargar esta ciudad": "Diese Stadt konnte nicht geladen werden",
+"Revisá tu conexión y volvé a intentar.": "Prüfe deine Verbindung und versuche es noch einmal.",
+"Reintentar": "Erneut versuchen",
+"Elegir otra ciudad": "Andere Stadt wählen",
+"Estamos cargando los lugares de esta ciudad.": "Die Orte dieser Stadt werden noch ergänzt.",
+"Mientras tanto ya podés usar Info: cómo llegar desde el aeropuerto, moverte, pagar y pedir ayuda.": "Bis dahin kannst du schon Infos nutzen: Anreise vom Flughafen, Fortbewegung, Bezahlen und Hilfe.",
+"Hay lluvia: buscá planes bajo techo.": "Es regnet: Such dir etwas für drinnen.",
+"Monto en euros": "Betrag in Euro",
+"Transporte y aeropuertos": "Verkehrsmittel und Flughäfen",
 "El corazón político e histórico del país. Alrededor de la plaza están la Casa Rosada, la Catedral Metropolitana, el Cabildo y la Pirámide de Mayo.": "Das politische und historische Herz des Landes. Rund um den Platz stehen die Casa Rosada, die Kathedrale, der Cabildo und die Mai-Pyramide.",
 "El símbolo de la ciudad, en el cruce de la avenida más ancha con la calle que nunca duerme: teatros, librerías y pizzerías clásicas.": "Das Wahrzeichen der Stadt, wo die breiteste Avenida auf die Straße trifft, die nie schläft: Theater, Buchläden und klassische Pizzerien.",
 "Uno de los teatros líricos con mejor acústica del mundo. Se puede conocer con visita guiada o asistiendo a una función de ópera, ballet o concierto.": "Eines der Opernhäuser mit der besten Akustik der Welt. Besichtigung mit Führung oder bei einer Oper, einem Ballett oder Konzert.",
@@ -2337,6 +2349,12 @@ window.I18N_FULL = {
 ["^(\\d+) h (\\d+) min en ferry directo$", "$1 Std. $2 Min. mit der Direktfähre"],
 ["^(\\d+) horas en lancha desde Tigre$", "$1 Stunden mit dem Boot ab Tigre"],
 ["^(\\d+) h (\\d+) min en lancha desde Tigre$", "$1 Std. $2 Min. mit dem Boot ab Tigre"],
-["^(\\d+) min en lancha$", "$1 Min. mit dem Boot"]
+["^(\\d+) min en lancha$", "$1 Min. mit dem Boot"],
+["^Hoy en ([^·]+)$", "Heute in {1}"],
+["^¡Bienvenido a (.+)!$", "Willkommen in {1}!"],
+["^Tus primeras horas en (.+)$", "Deine ersten Stunden in {1}"],
+["^¡Todo listo! Disfrutá (.+)\\.$", "Alles bereit! Genieß {1}."],
+["^Guía de (.+)$", "{1} Reiseführer"],
+["^1 ([A-Z]{3}) ≈ ([\\d.,]+) euros$", "1 $1 ≈ $2 Euro"]
 ]
 };

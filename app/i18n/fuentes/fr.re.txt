@@ -41,3 +41,9 @@ $1 h $2 min en ferry direct
 $1 heures en bateau depuis Tigre
 $1 h $2 min en bateau depuis Tigre
 $1 min en bateau
+Aujourd'hui à {1}
+Bienvenue à {1} !
+Vos premières heures à {1}
+Tout est prêt ! Profitez de {1}.
+Guide de {1}
+1 $1 ≈ $2 euros

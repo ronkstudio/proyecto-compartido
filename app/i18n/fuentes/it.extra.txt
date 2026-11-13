@@ -265,3 +265,15 @@
 265|Alternativa Teatral: programma teatrale
 266|Resident Advisor: feste di musica elettronica
 267|Questo mese
+268|Scegli la tua città
+269|Cambia città
+270|Il tuo viaggio e i luoghi salvati restano separati per ogni città.
+271|Non siamo riusciti a caricare questa città
+272|Controlla la connessione e riprova.
+273|Riprova
+274|Scegli un'altra città
+275|Stiamo ancora caricando i luoghi di questa città.
+276|Nel frattempo puoi già usare Info: come arrivare dall'aeroporto, muoverti, pagare e chiedere aiuto.
+277|Piove: cerca programmi al coperto.
+278|Importo in euro
+279|Trasporti e aeroporti

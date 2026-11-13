@@ -21,6 +21,7 @@ No hay nada que instalar: es una página web hecha con HTML, CSS y JavaScript, s
 | `index.html` | La página y el menú de abajo |
 | `css/styles.css` | Todo el diseño (colores, tarjetas, modo oscuro) |
 | `js/app.js` | Todo el funcionamiento. Arriba de cada parte hay un comentario que dice qué hace |
+| `data/ciudades.js`, `js/ciudad.js` | La lista de ciudades y el selector: carga solo los datos de la ciudad elegida |
 | `data/caba.js` | **El contenido**: lugares, barrios, itinerarios, transporte, seguridad, info práctica |
 | `data/caba-coords.js` | Dónde queda cada lugar en el mapa |
 | `data/caba-extra.js` | Nivel de recomendación, premios, días que cierra, fotos, subte, calendario, colecciones |

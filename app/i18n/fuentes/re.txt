@@ -41,3 +41,9 @@
 ^(\d+) horas en lancha desde Tigre$
 ^(\d+) h (\d+) min en lancha desde Tigre$
 ^(\d+) min en lancha$
+^Hoy en ([^·]+)$
+^¡Bienvenido a (.+)!$
+^Tus primeras horas en (.+)$
+^¡Todo listo! Disfrutá (.+)\.$
+^Guía de (.+)$
+^1 ([A-Z]{3}) ≈ ([\d.,]+) euros$

@@ -265,3 +265,15 @@ Time Out: qué hacer esta semana
 Alternativa Teatral: cartelera
 Resident Advisor: fiestas electrónicas
 Este mes
+Elegí tu ciudad
+Cambiar de ciudad
+Tu viaje y tus lugares guardados quedan aparte para cada ciudad.
+No pudimos cargar esta ciudad
+Revisá tu conexión y volvé a intentar.
+Reintentar
+Elegir otra ciudad
+Estamos cargando los lugares de esta ciudad.
+Mientras tanto ya podés usar Info: cómo llegar desde el aeropuerto, moverte, pagar y pedir ayuda.
+Hay lluvia: buscá planes bajo techo.
+Monto en euros
+Transporte y aeropuertos
