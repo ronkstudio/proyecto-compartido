@@ -241,7 +241,12 @@ window.CITY_EXTRA.caba = {
        Se buscaron por la foto principal del artículo de Wikipedia (con la ubicación a menos de 1,5 km del lugar), por nombre en Commons
        y por fotos sacadas a menos de 40 m de la dirección. Se revisaron una por una: afuera logos, mapas, montajes, retratos y otros lugares
        con el mismo nombre. Una foto por lugar. */
-    "barrancas-de-belgrano-y-museo-larreta": "3/3d/Museo_de_Arte_Español_Enrique_Larreta_galería_jardín_andaluz_1.jpg",
+    /* Segunda búsqueda del 13/11 (Wikidata y Commons por nombre): 4 más. Las de menos de 960 px van con "!" (se usa la original). */
+    "una-cancion-coreana": "!8/82/Restaurante_Una_Canción_Coreana.jpg",
+    "parque-de-los-patricios": "5/5b/ParqueDeLosPatricios-1.jpg",
+    "estancia-la-candelaria": "c/ce/Estancia_La_Candelaria.jpg",
+    "carmelo-uruguay": "!1/1d/Rambla_de_los_Constituyentes.jpg",
+    "barrancas-de-belgrano-y-museo-larreta":"3/3d/Museo_de_Arte_Español_Enrique_Larreta_galería_jardín_andaluz_1.jpg",
     "basilica-de-san-francisco": "9/93/Basílica_de_San_Francisco,_Buenos_Aires,_Argentina.jpg",
     "basilica-del-espiritu-santo-guadalupe": "4/4f/Basílica_del_Espíritu_Santo,_templo_de_la_Parroquia_de_Nuestra_Señora_de_Guadalupe,_Buenos_Aires_01.JPG",
     "basilica-del-sagrado-corazon-de-jesus": "3/34/Basílica_del_Sagrado_Corazón_de_Jesús_I.jpg",
