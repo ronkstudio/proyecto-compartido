@@ -27,6 +27,9 @@ Qué está hecho, qué se probó y qué falta: [app/ESTADO.md](app/ESTADO.md).
 | Idiomas | Muchos, no dos o tres. La lista se arma en la tarjeta #11 | `ezebesserr`, 11/11. Tarjetas #11 y #39 |
 | Planes | Variedad de planes armados para vacaciones y visitas | `ezebesserr`, 11/11. Tarjeta #48 |
 | Áreas de cada uno | No hay: los dos hacen de todo | Tarjeta #2 |
+| Ciudades nuevas | Berlín, Madrid, Roma y París, una por tarjeta. Primero la estructura (Info, Hoy, mapa) y después los lugares, cuando Bautista apruebe la estructura. Por ahora solo Berlín | Bautista, 13/11. Tarjetas #98 a #102 |
+| Agenda de Hoy en Berlín | Agenda cultural abierta de Berlín, solo los distritos céntricos y sin trámites de biblioteca. Títulos en alemán | 13/11. Tarjeta #99 |
+| Carpeta publicada | Sigue siendo `guia-buenos-aires` aunque haya más ciudades, para no romper el link que ya circula. Se puede cambiar más adelante | 13/11. Tarjeta #99 |
 
 ## Lo que falta decidir
 
