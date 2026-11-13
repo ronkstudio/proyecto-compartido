@@ -2,7 +2,7 @@
 
 Para los dos Claude: acá está escrito qué se hizo, qué se probó y qué falta. **Actualizalo cada vez que cambies algo de `app/`.**
 
-Última actualización: 13 de noviembre de 2026, Claude de `ronkstudio` (tarjeta #137).
+Última actualización: 13 de noviembre de 2026, Claude de `ronkstudio` (tarjeta #138).
 
 Todo lo que se describe acá está en `main`.
 
@@ -159,6 +159,7 @@ Hasta el 13/11 estuvo en `ronkstudio/menu-3d-publico/guia-buenos-aires/`. Ese re
 - **Apps útiles (#137):** nueva pestaña en Info ("📱 Apps útiles") y botón en "Antes de salir" del inicio. Cada app tiene un botón a su tienda: en iPhone va al App Store, en Android a Google Play (si ya está instalada, la tienda ofrece "Abrir"); en la compu se ven los dos. Buenos Aires: Uber, Cabify, DiDi, Google Maps, Moovit, BA Ecobici, PedidosYa, Rappi, Mercado Pago, Mercado Libre y WhatsApp. Berlín: BVG Fahrinfo, BVG Tickets, Google Maps, Uber, Bolt, FREENOW, Wolt y WhatsApp. Las páginas de las tiendas se revisaron una por una (13/11/2026). Están en `data/<ciudad>-local.js` (`apps`).
   - Se sacaron de Moverse los bloques "Aeropuertos" y "Apps útiles" (pedido de Bautista). Lo de los aeropuertos sigue en Recién llegado y Tu vuelo.
   - Probado en celular (375 px). No se probó en un iPhone real.
+- **Hoy en carrusel (#138):** "De día" y "A la noche" ya no son listas: son carruseles, una opción al lado de la otra, que se deslizan como "No te lo podés perder". Los lugares de la guía muestran su foto (o la portada con el nombre). Los eventos usan la foto del lugar donde se hacen si ese lugar está en la guía; si no, una portada con el ícono y la hora (o "⭐ Destacado"). Se sacó el "Ver más": ahora se ven todas deslizando. Probado en celular (375 px).
 - **Sin amarillo en el diseño (#122):** a pedido de `ezebesserr`, lo amarillo de los botones y el diseño pasó a terracota y coral, los colores que ya usa la app.
   - **En terracota:** el botón "Buscar" de la portada, el botón "Cómo llegar" de Moverse y el recuadro "Armá tu viaje".
   - **En coral:** el sol del logo, el ícono de la app, el brillo de la portada, el evento destacado de "Hoy", la barra de avance y los círculos de Recién llegado, los sellos conseguidos del pasaporte y el botón de cuenta.
