@@ -11,5 +11,5 @@ window.GUIA_CIUDADES = [
   { id: "berlin", name: "Berlín", country: "Alemania", flag: "🇩🇪",
     files: ["berlin", "berlin-coords", "berlin-extra", "berlin-zones", "berlin-hoy", "berlin-local"] },
   { id: "paris", name: "París", country: "Francia", flag: "🇫🇷",
-    files: ["paris", "paris-coords", "paris-extra", "paris-zones", "paris-hoy", "paris-local"] }
+    files: ["paris", "paris-coords", "paris-extra", "paris-zones", "paris-lugares", "paris-hoy", "paris-local"] }
 ];
