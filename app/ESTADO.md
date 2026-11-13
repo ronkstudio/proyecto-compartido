@@ -2,7 +2,7 @@
 
 Para los dos Claude: acá está escrito qué se hizo, qué se probó y qué falta. **Actualizalo cada vez que cambies algo de `app/`.**
 
-Última actualización: 13 de noviembre de 2026, Claude de `ronkstudio` (tarjeta #148).
+Última actualización: 13 de noviembre de 2026, Claude de `ronkstudio` (tarjeta #150).
 
 Todo lo que se describe acá está en `main`.
 
@@ -88,6 +88,7 @@ Estas pruebas las hizo el Claude de `ronkstudio` antes de que se sacara el mapa 
 - **Halal y kosher ya no son filtros (#139).** Bautista pidió sacarlos (13/11/2026). Se sacaron de los filtros de dieta, del perfil de viaje y del tipo "Kosher" en Dónde comer. Los 7 lugares kosher pasaron a su tipo de cocina (parrilla, pizzería, de autor, dulces, etc.) y en su ficha sigue diciendo que son kosher. Si alguien tenía elegido kosher o halal en su perfil, se borra solo.
 - **Cuentas con mail (#140):** se encendieron y probaron con Supabase, y después se sacaron (ver #148).
 - **Sin cuentas (#148):** Bautista decidió que la guía funcione sin usuario ni mail. Se sacó la pantalla "Guardá tu viaje" (#146), el botón 👤, "Mi cuenta", el inicio de sesión con Supabase y el paso de la publicación que lo encendía. "Mi perfil de viaje" (comidas, presupuesto, chicos) pasó al final de "Mi viaje", plegado. Quien tenga guardado el enlace viejo a "Mi cuenta" cae en "Mi viaje". "Armar tu viaje" no cambió.
+- **Botón de ayuda nuevo (#150):** el 🆘 de arriba dejó de ser un emoji: ahora es una píldora roja con un salvavidas dibujado y la palabra "SOS", con un latido suave (se apaga si el celular pide menos movimiento). Lleva al mismo lugar: Info > Ayuda. Probado en celular y compu.
 - **Barrio + categoría:** algunos barrios no tienen nada en ciertas categorías (por ejemplo, salidas de noche en La Boca o Belgrano). Es esperable en barrios residenciales y no se completó.
 - **Las plazas de barrio** (etiqueta "vida de barrio") tienen descripciones genéricas. Se sumaron para que cada barrio tenga algo, con nombre y ubicación reales, pero sin conocer cada una.
 - **No está todo lo que se puede hacer en la ciudad.** Son 534 lugares. Bautista pidió (11/11) llegar a 5 por categoría en cada barrio, sin inventar: hoy solo Centro, Palermo, Recoleta y San Telmo se acercan. En los barrios residenciales no hay 5 hoteles ni 5 excursiones reales, así que esa meta ahí no se va a cumplir. La tarjeta #45 propone un mínimo de locales por tipo en cada zona turística.
