@@ -671,7 +671,7 @@
 671|
 672|Your saved places, organised by day. Stored on this device.
 673|Tap the heart on any place to add it, or let us build the route for you.
-674|Answer five questions and we'll give you a route by area, with where to eat in each one. You can adjust it afterwards.
+674|Answer six questions and we'll give you a route by area, with where to eat in each one. You can adjust it afterwards.
 675|Optional. With the date, we won't schedule museums on the day they close.
 676|Getting around, what to avoid, where to get help and everything practical.
 677|Opens Google Maps with the public transport route from where you are.
@@ -767,3 +767,10 @@
 767|We'll warn you in red if a place usually closes on the day you scheduled it.
 768|terminals and airports. Tap one to see the address and how to get there.
 769|Other sports
+770|How many are travelling?
+771|person
+772|people
+773|One person fewer
+774|One more person
+775|With a big group, book dinners well ahead: large tables fill up fast.
+776|More than 4: you'll need two cars for a taxi or Uber.

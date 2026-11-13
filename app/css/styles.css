@@ -514,6 +514,9 @@ a.event:hover { border-color: var(--accent); }
 .wz-step h2 { display: flex; align-items: center; gap: 10px; font-size: 17px; margin: 0 0 12px; }
 .wz-step h2 i { flex: none; width: 28px; height: 28px; border-radius: 50%; background: var(--brand); color: #fff; font-style: normal; font-size: 14px; font-weight: 800; display: grid; place-items: center; }
 .wz-hint { color: var(--ink-3); font-size: 13.5px; margin: -6px 0 12px; }
+.wz-tipg { margin: 12px 0 0; color: var(--ink-2); }
+.trip-people { margin: 10px 0 0; font-size: 14.5px; display: flex; flex-wrap: wrap; gap: 4px 6px; align-items: baseline; }
+.trip-people .tg { flex-basis: 100%; color: var(--ink-3); font-size: 13.5px; }
 .wz-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; }
 .wz-grid.four { grid-template-columns: repeat(4, 1fr); }
 .wz-tile { display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 4px; min-height: 84px; padding: 10px 6px; text-align: center; border: 1.5px solid var(--line); background: var(--surface); border-radius: 14px; color: var(--ink); }
