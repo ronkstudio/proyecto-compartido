@@ -1,0 +1,2130 @@
+[
+ {
+  "cat": "comer",
+  "sub": "Cocina alemana",
+  "name": "Zur letzten Instanz",
+  "barrio": "Mitte",
+  "address": "Waisenstraße 14-16",
+  "price": 3,
+  "desc": "El restaurante más antiguo de Berlín, con origen en 1621: salones de madera, estufa de azulejos y platos berlineses como el codillo y las albóndigas de Königsberg.",
+  "tip": "Reservá, sobre todo de noche. Para el mismo día solo toman reservas por teléfono.",
+  "tags": [
+   "clásico",
+   "historia",
+   "tradición"
+  ],
+  "top": true,
+  "q": 3,
+  "sources": [
+   "https://zurletzteninstanz.com/en/",
+   "https://www.top10berlin.de/de/cat/essen-267/berliner-restaurants-407/zur-letzten-instanz-78"
+  ],
+  "check": "Sitio oficial y directorios activos en la búsqueda (2026); dirección confirmada."
+ },
+ {
+  "cat": "comer",
+  "sub": "Cocina alemana",
+  "name": "Prater Gaststätte",
+  "barrio": "Prenzlauer Berg",
+  "address": "Kastanienallee 7-9",
+  "price": 2,
+  "desc": "El biergarten más antiguo de Berlín, bajo los castaños, y al lado una fonda con cocina berlinesa todo el año.",
+  "tip": "El biergarten abre solo con buen tiempo y no toma reservas; en la fonda sí se puede reservar.",
+  "tags": [
+   "biergarten",
+   "cerveza",
+   "clásico",
+   "aire libre"
+  ],
+  "top": true,
+  "q": 3,
+  "sources": [
+   "https://www.pratergarten.de/en/restaurant",
+   "https://www.berlin.de/sehenswuerdigkeiten/3561216-3558930-prater.html"
+  ],
+  "check": "Abierto según su web y berlin.de (2026)."
+ },
+ {
+  "cat": "comer",
+  "sub": "Cocina alemana",
+  "name": "Max und Moritz",
+  "barrio": "Kreuzberg",
+  "address": "Oranienstraße 162",
+  "price": 2,
+  "desc": "Una fonda berlinesa de 1902 con salones antiguos, cerveza tirada y platos abundantes como el codillo y las albóndigas de Königsberg.",
+  "tip": "Llevá efectivo por las dudas y andá con hambre: las porciones son grandes.",
+  "tags": [
+   "clásico",
+   "tradición",
+   "cerveza"
+  ],
+  "q": 3,
+  "sources": [
+   "https://www.maxundmoritzberlin.de"
+  ],
+  "check": "Sin búsqueda individual (se agotó el cupo de búsquedas de la sesión): dirección y vigencia por conocimiento previo. Reverificar que siga abierto."
+ },
+ {
+  "cat": "comer",
+  "sub": "Cocina alemana",
+  "name": "Henne",
+  "barrio": "Kreuzberg",
+  "address": "Leuschnerdamm 25",
+  "price": 2,
+  "desc": "Una taberna de más de un siglo famosa por una sola cosa: medio pollo frito crocante, con ensalada de repollo o de papa.",
+  "tip": "Reservá por teléfono con días de anticipación; sin reserva es difícil conseguir mesa.",
+  "tags": [
+   "clásico",
+   "tradición",
+   "cerveza"
+  ],
+  "q": 3,
+  "sources": [
+   "https://www.henne-berlin.de"
+  ],
+  "check": "Sin búsqueda individual (se agotó el cupo de búsquedas de la sesión): dirección y vigencia por conocimiento previo. Reverificar que siga abierto."
+ },
+ {
+  "cat": "comer",
+  "sub": "Cocina alemana",
+  "name": "Schwarzwaldstuben",
+  "barrio": "Mitte",
+  "address": "Tucholskystraße 48",
+  "price": 2,
+  "desc": "Cocina del sur de Alemania en un salón relajado: schnitzel, maultaschen, flammkuchen y cervezas de la Selva Negra.",
+  "tip": "Buena opción después de recorrer Auguststraße; de noche conviene reservar.",
+  "tags": [
+   "clásico",
+   "cerveza",
+   "relajado"
+  ],
+  "sources": [
+   "https://www.top10berlin.de/de/tags/traditionell"
+  ],
+  "check": "Sin búsqueda individual (se agotó el cupo de búsquedas de la sesión): dirección y vigencia por conocimiento previo. Reverificar que siga abierto."
+ },
+ {
+  "cat": "comer",
+  "sub": "Cocina alemana",
+  "name": "Dicke Wirtin",
+  "barrio": "Charlottenburg",
+  "address": "Carmerstraße 9",
+  "price": 2,
+  "desc": "Una kneipe berlinesa de las de antes, a pasos de Savignyplatz, con guisos, schnitzel y varias cervezas tiradas.",
+  "tip": "Probá alguno de los licores de la casa. Ambiente de barrio, ideal para una cena sin apuro.",
+  "tags": [
+   "clásico",
+   "cerveza",
+   "vida de barrio"
+  ],
+  "sources": [
+   "https://www.dicke-wirtin.de"
+  ],
+  "check": "Sin búsqueda individual (se agotó el cupo de búsquedas de la sesión): dirección y vigencia por conocimiento previo. Reverificar que siga abierto."
+ },
+ {
+  "cat": "comer",
+  "sub": "Cocina alemana",
+  "name": "Marjellchen",
+  "barrio": "Charlottenburg",
+  "address": "Mommsenstraße 9",
+  "price": 3,
+  "desc": "Cocina de Prusia Oriental, Silesia y Pomerania en un salón acogedor de los que ya casi no quedan.",
+  "tip": "Pedí las albóndigas de Königsberg. Reservá: el salón es chico.",
+  "tags": [
+   "clásico",
+   "tradición",
+   "tranquilo"
+  ],
+  "sources": [
+   "https://www.marjellchen-berlin.de"
+  ],
+  "check": "Sin búsqueda individual (se agotó el cupo de búsquedas de la sesión): dirección y vigencia por conocimiento previo. Reverificar que siga abierto."
+ },
+ {
+  "cat": "comer",
+  "sub": "Cocina alemana",
+  "name": "Zum Schusterjungen",
+  "barrio": "Prenzlauer Berg",
+  "address": "Danziger Straße 9",
+  "price": 1,
+  "desc": "Una fonda de esquina que conserva el espíritu del Berlín oriental: platos caseros, porciones enormes y precios amables.",
+  "tip": "Queda a una cuadra de Eberswalder Straße; combinalo con Konnopke o el Mauerpark.",
+  "tags": [
+   "clásico",
+   "económico",
+   "vida de barrio"
+  ],
+  "sources": [
+   "https://www.top10berlin.de/de/tags/traditionell"
+  ],
+  "check": "Sin búsqueda individual (se agotó el cupo de búsquedas de la sesión): dirección y vigencia por conocimiento previo. Reverificar que siga abierto."
+ },
+ {
+  "cat": "comer",
+  "sub": "Cocina alemana",
+  "name": "Zum Nußbaum",
+  "barrio": "Mitte",
+  "address": "Am Nußbaum 3",
+  "price": 2,
+  "desc": "Reconstrucción de una taberna del siglo XVI en el barrio Nikolaiviertel, con cocina berlinesa sencilla y una terracita bajo el nogal.",
+  "tip": "Es muy chico: andá fuera de las horas pico. Buen alto después de la Isla de los Museos.",
+  "tags": [
+   "historia",
+   "clásico",
+   "céntrico"
+  ],
+  "sources": [
+   "https://www.top10berlin.de/de/tags/traditionell"
+  ],
+  "check": "Sin búsqueda individual (se agotó el cupo de búsquedas de la sesión): dirección y vigencia por conocimiento previo. Reverificar que siga abierto."
+ },
+ {
+  "cat": "comer",
+  "sub": "Cocina alemana",
+  "name": "Mutter Hoppe",
+  "barrio": "Mitte",
+  "address": "Rathausstraße 21",
+  "price": 2,
+  "desc": "Cocina berlinesa de la abuela en un sótano lleno de recuerdos, cerca de Alexanderplatz.",
+  "tip": "Las porciones son muy grandes: se puede compartir. Algunos fines de semana hay música en vivo.",
+  "tags": [
+   "clásico",
+   "tradición",
+   "céntrico",
+   "compartir"
+  ],
+  "sources": [
+   "https://www.top10berlin.de/de/tags/traditionell"
+  ],
+  "check": "Sin búsqueda individual (se agotó el cupo de búsquedas de la sesión): dirección y vigencia por conocimiento previo. Reverificar que siga abierto."
+ },
+ {
+  "cat": "comer",
+  "sub": "Currywurst y döner",
+  "name": "Curry 36",
+  "barrio": "Kreuzberg",
+  "address": "Mehringdamm 36",
+  "price": 1,
+  "desc": "El puesto de currywurst más famoso de Berlín occidental: salchicha con o sin piel, salsa de curry y papas fritas, a toda hora.",
+  "tip": "Se come parado en la vereda. Pedila \"ohne Darm\" (sin piel), al estilo berlinés.",
+  "tags": [
+   "currywurst",
+   "al paso",
+   "económico",
+   "noche"
+  ],
+  "top": true,
+  "q": 3,
+  "sources": [
+   "https://www.berlinwalk.com/post/best-currywurst-places-in-berlin-2026",
+   "https://www.top10berlin.de/de/cat/essen-267/currywurstbuden-414/curry61-75"
+  ],
+  "check": "Aparece en una lista de 2026 encontrada en la búsqueda; dirección por conocimiento previo, sin verificación individual."
+ },
+ {
+  "cat": "comer",
+  "sub": "Currywurst y döner",
+  "name": "Konnopke's Imbiss",
+  "barrio": "Prenzlauer Berg",
+  "address": "Schönhauser Allee 44b",
+  "price": 1,
+  "desc": "El clásico del Este desde 1930, debajo de las vías elevadas del U2: acá se sirvió la primera currywurst de Berlín oriental.",
+  "tip": "Suele cerrar los domingos. Está en la estación Eberswalder Straße.",
+  "tags": [
+   "currywurst",
+   "al paso",
+   "historia",
+   "económico"
+  ],
+  "top": true,
+  "q": 3,
+  "sources": [
+   "https://www.berlinwalk.com/post/best-currywurst-places-in-berlin-2026",
+   "https://www.top10berlin.de/de/cat/essen-267/currywurstbuden-414/curry61-75"
+  ],
+  "check": "Aparece en una lista de 2026 encontrada en la búsqueda; dirección por conocimiento previo, sin verificación individual."
+ },
+ {
+  "cat": "comer",
+  "sub": "Currywurst y döner",
+  "name": "Curry 61",
+  "barrio": "Mitte",
+  "address": "Oranienburger Straße 6",
+  "price": 1,
+  "desc": "Currywurst de carnicero berlinés con papas fritas frescas, cerca de Hackescher Markt. También tienen opción vegana.",
+  "tip": "Buena parada entre la Isla de los Museos y los Hackesche Höfe.",
+  "tags": [
+   "currywurst",
+   "al paso",
+   "céntrico"
+  ],
+  "sources": [
+   "https://www.berlinwalk.com/post/best-currywurst-places-in-berlin-2026",
+   "https://www.top10berlin.de/de/cat/essen-267/currywurstbuden-414/curry61-75"
+  ],
+  "check": "Aparece en una lista de 2026 encontrada en la búsqueda; dirección por conocimiento previo, sin verificación individual. Confirmar la dirección actual."
+ },
+ {
+  "cat": "comer",
+  "sub": "Currywurst y döner",
+  "name": "Curry Baude",
+  "barrio": "Wedding",
+  "address": "Badstraße 1-5",
+  "price": 1,
+  "desc": "Puesto de barrio al lado de la estación Gesundbrunnen, con salchichas de elaboración propia y fama entre los berlineses.",
+  "tip": "Queda de paso si vas a los búnkeres de Berliner Unterwelten o al Humboldthain.",
+  "tags": [
+   "currywurst",
+   "al paso",
+   "vida de barrio",
+   "económico"
+  ],
+  "sources": [
+   "https://www.berlinwalk.com/post/best-currywurst-places-in-berlin-2026",
+   "https://www.top10berlin.de/de/cat/essen-267/currywurstbuden-414/curry61-75"
+  ],
+  "check": "Aparece en una lista de 2026 encontrada en la búsqueda; dirección por conocimiento previo, sin verificación individual."
+ },
+ {
+  "cat": "comer",
+  "sub": "Currywurst y döner",
+  "name": "Witty's",
+  "barrio": "Schöneberg",
+  "address": "Wittenbergplatz 5",
+  "price": 1,
+  "desc": "Currywurst orgánica frente al KaDeWe, con papas fritas belgas y varias salsas caseras.",
+  "tip": "Buena opción si buscás carne orgánica; también suelen tener salchicha vegetariana.",
+  "tags": [
+   "currywurst",
+   "al paso",
+   "compras"
+  ],
+  "sources": [
+   "https://www.berlinwalk.com/post/best-currywurst-places-in-berlin-2026",
+   "https://www.top10berlin.de/de/cat/essen-267/currywurstbuden-414/curry61-75"
+  ],
+  "check": "Aparece en una lista de 2026 encontrada en la búsqueda; dirección por conocimiento previo, sin verificación individual."
+ },
+ {
+  "cat": "comer",
+  "sub": "Currywurst y döner",
+  "name": "Krasselt's",
+  "barrio": "Steglitz",
+  "address": "Steglitzer Damm 22",
+  "price": 1,
+  "desc": "Una institución del sur de Berlín desde 1959, con salsa de receta propia y salchichas hechas por la familia.",
+  "tip": "Queda lejos del centro: vale si andás por Steglitz o el Jardín Botánico.",
+  "tags": [
+   "currywurst",
+   "al paso",
+   "tradición"
+  ],
+  "sources": [
+   "https://www.top10berlin.de/de/cat/essen-267/currywurstbuden-414/krasselts-74"
+  ],
+  "check": "Aparece en una lista de 2026 encontrada en la búsqueda; dirección por conocimiento previo, sin verificación individual."
+ },
+ {
+  "cat": "comer",
+  "sub": "Currywurst y döner",
+  "name": "Mustafa's Gemüse Kebap",
+  "barrio": "Kreuzberg",
+  "address": "Mehringdamm 32",
+  "price": 1,
+  "desc": "El döner más famoso de la ciudad: pollo con verduras asadas, queso feta, limón y salsas, servido desde un kiosco.",
+  "tip": "La fila puede ser muy larga: andá a media mañana o media tarde, o pedí la versión vegetariana.",
+  "tags": [
+   "döner",
+   "al paso",
+   "económico"
+  ],
+  "top": true,
+  "q": 3,
+  "sources": [
+   "https://berlinecho.de/bester-doener-berlin/",
+   "https://www.berlintourism.org/?p=360"
+  ],
+  "check": "Nota de julio de 2026 lo confirma en Mehringdamm 32."
+ },
+ {
+  "cat": "comer",
+  "sub": "Currywurst y döner",
+  "name": "Rüyam Gemüse Kebab",
+  "barrio": "Schöneberg",
+  "address": "Hauptstraße 133",
+  "price": 1,
+  "desc": "Para muchos berlineses, el mejor döner de pollo con verduras: pan casero, carne jugosa y salsas propias.",
+  "tip": "Menos fila que Mustafa's y un nivel parecido o mejor. Hay mesas adentro.",
+  "tags": [
+   "döner",
+   "al paso",
+   "económico"
+  ],
+  "q": 3,
+  "sources": [
+   "https://berlinecho.de/bester-doener-berlin/",
+   "https://www.berlintourism.org/?p=360"
+  ],
+  "check": "Aparece en una lista de 2026 encontrada en la búsqueda; dirección por conocimiento previo, sin verificación individual."
+ },
+ {
+  "cat": "comer",
+  "sub": "Currywurst y döner",
+  "name": "Tadim",
+  "barrio": "Kreuzberg",
+  "address": "Adalbertstraße 98",
+  "price": 1,
+  "desc": "Local familiar turco en Kottbusser Tor con döner de ternera cortado a cuchillo y lahmacun recién horneado.",
+  "tip": "Probá el lahmacun enrollado con ensalada: rico y muy barato.",
+  "tags": [
+   "döner",
+   "al paso",
+   "económico",
+   "vida de barrio"
+  ],
+  "sources": [
+   "https://berlinecho.de/bester-doener-berlin/",
+   "https://www.berlintourism.org/?p=360"
+  ],
+  "check": "Dirección confirmada en una lista encontrada en la búsqueda."
+ },
+ {
+  "cat": "comer",
+  "sub": "Currywurst y döner",
+  "name": "Hasir",
+  "barrio": "Kreuzberg",
+  "address": "Adalbertstraße 10",
+  "price": 2,
+  "desc": "Restaurante turco histórico de Kreuzberg, cuyo fundador reivindica haber inventado el döner en pan. Parrilla y döner al plato.",
+  "tip": "Acá se come sentado: pedí el döner al plato o una parrillada para compartir.",
+  "tags": [
+   "döner",
+   "clásico",
+   "compartir"
+  ],
+  "sources": [
+   "https://berlinecho.de/bester-doener-berlin/",
+   "https://www.berlintourism.org/?p=360"
+  ],
+  "check": "Aparece en una lista de 2026 encontrada en la búsqueda; dirección por conocimiento previo, sin verificación individual."
+ },
+ {
+  "cat": "comer",
+  "sub": "Currywurst y döner",
+  "name": "Imren Grill",
+  "barrio": "Kreuzberg",
+  "address": "Boppstraße 4",
+  "price": 1,
+  "desc": "Döner de ternera tradicional, con carne apilada a mano y bien condimentada. Un favorito de los vecinos.",
+  "tip": "Además del döner, probá el köfte o la sopa de lentejas. Tienen otros locales en Neukölln.",
+  "tags": [
+   "döner",
+   "al paso",
+   "económico"
+  ],
+  "sources": [
+   "https://www.top10berlin.de/de/cat/essen-267/doenerbuden-1331"
+  ],
+  "check": "Sin búsqueda individual (se agotó el cupo de búsquedas de la sesión): dirección y vigencia por conocimiento previo. Reverificar que siga abierto."
+ },
+ {
+  "cat": "comer",
+  "sub": "Al paso",
+  "name": "Burgermeister",
+  "barrio": "Kreuzberg",
+  "address": "Oberbaumstraße 8",
+  "price": 1,
+  "desc": "Hamburguesas servidas desde un antiguo baño público bajo las vías del U1, en Schlesisches Tor. Un ícono de Kreuzberg.",
+  "tip": "Se come parado o en mesas altas. Combinalo con una caminata a la East Side Gallery.",
+  "tags": [
+   "al paso",
+   "económico",
+   "noche"
+  ],
+  "top": true,
+  "q": 3,
+  "sources": [
+   "https://www.burger-meister.de"
+  ],
+  "check": "Sin búsqueda individual (se agotó el cupo de búsquedas de la sesión): dirección y vigencia por conocimiento previo. Reverificar que siga abierto."
+ },
+ {
+  "cat": "comer",
+  "sub": "Al paso",
+  "name": "Sahara Imbiss",
+  "barrio": "Neukölln",
+  "address": "Reuterstraße 56",
+  "price": 1,
+  "desc": "Falafel y halloumi al estilo sudanés, con una salsa de maní que lo hizo famoso.",
+  "tip": "Pedí el plato mixto con salsa de maní. Tiene pocas mesas: ideal para llevar.",
+  "tags": [
+   "al paso",
+   "económico",
+   "vegetariano"
+  ],
+  "sources": [
+   "https://www.top10berlin.de/de/cat/essen-267"
+  ],
+  "check": "Sin búsqueda individual (se agotó el cupo de búsquedas de la sesión): dirección y vigencia por conocimiento previo. Reverificar que siga abierto."
+ },
+ {
+  "cat": "comer",
+  "sub": "Al paso",
+  "name": "Dada Falafel",
+  "barrio": "Mitte",
+  "address": "Linienstraße 132",
+  "price": 1,
+  "desc": "Falafel y shawarma en un local chiquito y colorido, en la esquina con Oranienburger Tor.",
+  "tip": "Buena parada rápida si andás por Mitte de noche.",
+  "tags": [
+   "al paso",
+   "económico",
+   "céntrico"
+  ],
+  "sources": [
+   "https://www.top10berlin.de/de/cat/essen-267"
+  ],
+  "check": "Sin búsqueda individual (se agotó el cupo de búsquedas de la sesión): dirección y vigencia por conocimiento previo. Reverificar que siga abierto."
+ },
+ {
+  "cat": "comer",
+  "sub": "Al paso",
+  "name": "Maroush",
+  "barrio": "Kreuzberg",
+  "address": "Adalbertstraße 93",
+  "price": 1,
+  "desc": "Imbiss libanés en Kottbusser Tor con shawarma, falafel y platos mixtos abundantes.",
+  "tip": "El plato vegetariano mixto alcanza para compartir.",
+  "tags": [
+   "al paso",
+   "económico",
+   "compartir"
+  ],
+  "sources": [
+   "https://www.top10berlin.de/de/cat/essen-267"
+  ],
+  "check": "Sin búsqueda individual (se agotó el cupo de búsquedas de la sesión): dirección y vigencia por conocimiento previo. Reverificar que siga abierto."
+ },
+ {
+  "cat": "comer",
+  "sub": "Al paso",
+  "name": "Hühnerhaus 36",
+  "barrio": "Kreuzberg",
+  "address": "Skalitzer Straße 95a",
+  "price": 1,
+  "desc": "Medio pollo al spiedo con papas fritas y ensalada, frente al Görlitzer Park. Un clásico barato de Kreuzberg.",
+  "tip": "Hay un kiosco para llevar y, enfrente, un local con mesas.",
+  "tags": [
+   "al paso",
+   "económico",
+   "vida de barrio"
+  ],
+  "sources": [
+   "https://www.top10berlin.de/de/cat/essen-267"
+  ],
+  "check": "Sin búsqueda individual (se agotó el cupo de búsquedas de la sesión): dirección y vigencia por conocimiento previo. Reverificar que siga abierto."
+ },
+ {
+  "cat": "comer",
+  "sub": "Al paso",
+  "name": "Goldies",
+  "barrio": "Kreuzberg",
+  "address": "Oranienstraße 6",
+  "price": 1,
+  "desc": "Papas fritas llevadas en serio por dos cocineros de alta cocina: con trufa, con currywurst o con guisos encima.",
+  "tip": "Las porciones son grandes: una alcanza para dos si es para picar.",
+  "tags": [
+   "al paso",
+   "moderno",
+   "compartir"
+  ],
+  "sources": [
+   "https://www.top10berlin.de/de/cat/essen-267"
+  ],
+  "check": "Sin búsqueda individual (se agotó el cupo de búsquedas de la sesión): dirección y vigencia por conocimiento previo. Reverificar que siga abierto."
+ },
+ {
+  "cat": "comer",
+  "sub": "Al paso",
+  "name": "Scheers Schnitzel",
+  "barrio": "Friedrichshain",
+  "address": "Warschauer Platz 18",
+  "price": 1,
+  "desc": "Schnitzel recién frito, grande y barato, en un local informal bajo las vías junto al puente Oberbaum.",
+  "tip": "Queda a metros de la East Side Gallery. Llevá efectivo.",
+  "tags": [
+   "al paso",
+   "económico",
+   "muro"
+  ],
+  "sources": [
+   "https://www.top10berlin.de/de/cat/essen-267"
+  ],
+  "check": "Sin búsqueda individual (se agotó el cupo de búsquedas de la sesión): dirección y vigencia por conocimiento previo. Reverificar que siga abierto."
+ },
+ {
+  "cat": "comer",
+  "sub": "Al paso",
+  "name": "Rogacki",
+  "barrio": "Charlottenburg",
+  "address": "Wilmersdorfer Straße 145-146",
+  "price": 2,
+  "desc": "Una tienda de delicatessen de 1928 con mostradores donde se come de parado: pescado ahumado, arenque, papas salteadas y ensaladas.",
+  "tip": "Cierra los domingos. Andá al mediodía y elegí en el mostrador de pescado.",
+  "tags": [
+   "clásico",
+   "al paso",
+   "tradición",
+   "mercado"
+  ],
+  "closed": [
+   0
+  ],
+  "sources": [
+   "https://www.rogacki.de"
+  ],
+  "check": "Sin búsqueda individual (se agotó el cupo de búsquedas de la sesión): dirección y vigencia por conocimiento previo. Reverificar que siga abierto."
+ },
+ {
+  "cat": "comer",
+  "sub": "Café",
+  "name": "The Barn",
+  "barrio": "Mitte",
+  "address": "Auguststraße 58",
+  "price": 2,
+  "desc": "El tostador que puso a Berlín en el mapa del café de especialidad. Local chico, café de filtro impecable y tortas caseras.",
+  "tip": "Tienen varias sedes; la de Auguststraße es la original. Es para tomar un buen café, no para trabajar.",
+  "tags": [
+   "café",
+   "moderno",
+   "céntrico"
+  ],
+  "top": true,
+  "q": 3,
+  "sources": [
+   "https://www.berlintourism.org/berlin-coffee-cafes/",
+   "https://europeancoffeetrip.com/berlin/"
+  ],
+  "check": "Aparece en una lista de 2026 encontrada en la búsqueda; dirección por conocimiento previo, sin verificación individual."
+ },
+ {
+  "cat": "comer",
+  "sub": "Café",
+  "name": "Bonanza Coffee Heroes",
+  "barrio": "Prenzlauer Berg",
+  "address": "Oderberger Straße 35",
+  "price": 2,
+  "desc": "Pioneros del café de especialidad en Berlín, a pasos del Mauerpark. Local mínimo y espresso de los mejores.",
+  "tip": "Los domingos de Mauerpark se llena: andá temprano. En Kreuzberg tienen el tostadero.",
+  "tags": [
+   "café",
+   "moderno",
+   "vida de barrio"
+  ],
+  "q": 3,
+  "sources": [
+   "https://www.berlintourism.org/berlin-coffee-cafes/",
+   "https://europeancoffeetrip.com/berlin/"
+  ],
+  "check": "Aparece en una lista de 2026 encontrada en la búsqueda; dirección por conocimiento previo, sin verificación individual."
+ },
+ {
+  "cat": "comer",
+  "sub": "Café",
+  "name": "Father Carpenter",
+  "barrio": "Mitte",
+  "address": "Münzstraße 21",
+  "price": 2,
+  "desc": "Café y brunch en un patio interior tranquilo, escondido cerca de Hackescher Markt.",
+  "tip": "Entrá por el pasaje hasta el patio. Los fines de semana hay espera.",
+  "tags": [
+   "café",
+   "brunch",
+   "patio",
+   "joya oculta"
+  ],
+  "sources": [
+   "https://www.berlintourism.org/berlin-coffee-cafes/",
+   "https://europeancoffeetrip.com/berlin/"
+  ],
+  "check": "Aparece en una lista de 2026 encontrada en la búsqueda; dirección por conocimiento previo, sin verificación individual."
+ },
+ {
+  "cat": "comer",
+  "sub": "Café",
+  "name": "Five Elephant",
+  "barrio": "Kreuzberg",
+  "address": "Reichenberger Straße 101",
+  "price": 2,
+  "desc": "Tostadero y pastelería de barrio, famoso por su cheesecake, de los más recomendados de la ciudad.",
+  "tip": "Pedí café y una porción de cheesecake. También tienen local en Mitte.",
+  "tags": [
+   "café",
+   "dulce",
+   "merienda",
+   "vida de barrio"
+  ],
+  "q": 3,
+  "sources": [
+   "https://www.berlintourism.org/berlin-coffee-cafes/",
+   "https://europeancoffeetrip.com/berlin/"
+  ],
+  "check": "Aparece en una lista de 2026 encontrada en la búsqueda; dirección por conocimiento previo, sin verificación individual."
+ },
+ {
+  "cat": "comer",
+  "sub": "Café",
+  "name": "19grams",
+  "barrio": "Mitte",
+  "address": "Chausseestraße 36",
+  "price": 2,
+  "desc": "Tostadores berlineses con buen café y una carta de brunch servida todo el día.",
+  "tip": "Tienen otras sedes, por ejemplo en Schlesische Straße (Kreuzberg).",
+  "tags": [
+   "café",
+   "brunch",
+   "desayuno"
+  ],
+  "sources": [
+   "https://www.berlintourism.org/berlin-coffee-cafes/",
+   "https://europeancoffeetrip.com/berlin/"
+  ],
+  "check": "Aparece en una lista de 2026 encontrada en la búsqueda; dirección por conocimiento previo, sin verificación individual."
+ },
+ {
+  "cat": "comer",
+  "sub": "Café",
+  "name": "Distrikt Coffee",
+  "barrio": "Mitte",
+  "address": "Bergstraße 68",
+  "price": 2,
+  "desc": "Café de especialidad con desayunos y brunch cuidados, en un salón de ladrillo a la vista.",
+  "tip": "Queda cerca del Memorial del Muro de Bernauer Straße: buen desayuno antes de la visita.",
+  "tags": [
+   "café",
+   "brunch",
+   "desayuno",
+   "muro"
+  ],
+  "sources": [
+   "https://www.berlintourism.org/berlin-coffee-cafes/",
+   "https://europeancoffeetrip.com/berlin/"
+  ],
+  "check": "Aparece en una lista de 2026 encontrada en la búsqueda; dirección por conocimiento previo, sin verificación individual."
+ },
+ {
+  "cat": "comer",
+  "sub": "Café",
+  "name": "Café Wintergarten im Literaturhaus",
+  "barrio": "Charlottenburg",
+  "address": "Fasanenstraße 23",
+  "price": 2,
+  "desc": "Un café en una villa del siglo XIX con jardín de invierno y terraza, a pasos de la Kurfürstendamm. Elegante y tranquilo.",
+  "tip": "Ideal para un desayuno largo o una merienda. Abajo hay una buena librería.",
+  "tags": [
+   "café",
+   "clásico",
+   "jardín",
+   "tranquilo",
+   "libros"
+  ],
+  "q": 3,
+  "sources": [
+   "https://www.literaturhaus-berlin.de"
+  ],
+  "check": "Sin búsqueda individual (se agotó el cupo de búsquedas de la sesión): dirección y vigencia por conocimiento previo. Reverificar que siga abierto."
+ },
+ {
+  "cat": "comer",
+  "sub": "Café",
+  "name": "Schwarzes Café",
+  "barrio": "Charlottenburg",
+  "address": "Kantstraße 148",
+  "price": 2,
+  "desc": "Un clásico bohemio de Berlín occidental que abre casi sin parar: desayunos a cualquier hora en dos pisos.",
+  "tip": "Perfecto para comer algo de madrugada o desayunar tarde.",
+  "tags": [
+   "café",
+   "clásico",
+   "noche",
+   "desayuno"
+  ],
+  "sources": [
+   "https://www.schwarzescafe-berlin.de"
+  ],
+  "check": "Sin búsqueda individual (se agotó el cupo de búsquedas de la sesión): dirección y vigencia por conocimiento previo. Reverificar que siga abierto."
+ },
+ {
+  "cat": "comer",
+  "sub": "Café",
+  "name": "Tadshikische Teestube",
+  "barrio": "Mitte",
+  "address": "Oranienburger Straße 27",
+  "price": 2,
+  "desc": "Una casa de té tayika, regalo soviético de los años setenta: alfombras, almohadones, samovar y ceremonia de té rusa.",
+  "tip": "Hay que sacarse los zapatos para sentarse en las mesas bajas. Conviene reservar.",
+  "tags": [
+   "tranquilo",
+   "joya oculta",
+   "curiosidad",
+   "merienda"
+  ],
+  "sources": [
+   "https://www.tadshikische-teestube.de"
+  ],
+  "check": "Sin búsqueda individual (se agotó el cupo de búsquedas de la sesión): dirección y vigencia por conocimiento previo. Reverificar que siga abierto."
+ },
+ {
+  "cat": "comer",
+  "sub": "Café",
+  "name": "Roamers",
+  "barrio": "Neukölln",
+  "address": "Pannierstraße 64",
+  "price": 2,
+  "desc": "Café chiquito lleno de plantas, con brunch abundante, panes caseros y buen café.",
+  "tip": "No toman reservas y siempre hay fila los fines de semana: andá apenas abren.",
+  "tags": [
+   "café",
+   "brunch",
+   "vida de barrio"
+  ],
+  "sources": [
+   "https://www.roamers.cc"
+  ],
+  "check": "Sin búsqueda individual (se agotó el cupo de búsquedas de la sesión): dirección y vigencia por conocimiento previo. Reverificar que siga abierto."
+ },
+ {
+  "cat": "comer",
+  "sub": "Panadería y dulces",
+  "name": "Zeit für Brot",
+  "barrio": "Mitte",
+  "address": "Alte Schönhauser Straße 4",
+  "price": 1,
+  "desc": "Panadería orgánica con horno a la vista, famosa por sus rollos de canela recién hechos, también en otras variedades.",
+  "tip": "Pedí el rollo de canela tibio. Hay fila, pero avanza rápido.",
+  "tags": [
+   "panadería",
+   "dulce",
+   "desayuno",
+   "merienda"
+  ],
+  "q": 3,
+  "sources": [
+   "https://www.zeitfuerbrot.com"
+  ],
+  "check": "Sin búsqueda individual (se agotó el cupo de búsquedas de la sesión): dirección y vigencia por conocimiento previo. Reverificar que siga abierto."
+ },
+ {
+  "cat": "comer",
+  "sub": "Panadería y dulces",
+  "name": "Du Bonheur",
+  "barrio": "Mitte",
+  "address": "Brunnenstraße 39",
+  "price": 2,
+  "desc": "Pastelería francesa con croissants, éclairs y tartas de vitrina de primer nivel.",
+  "tip": "Andá a la mañana: los croissants se terminan. Suele cerrar lunes y martes.",
+  "tags": [
+   "panadería",
+   "dulce",
+   "merienda"
+  ],
+  "q": 3,
+  "sources": [
+   "https://www.dubonheur.de"
+  ],
+  "check": "Sin búsqueda individual (se agotó el cupo de búsquedas de la sesión): dirección y vigencia por conocimiento previo. Reverificar que siga abierto."
+ },
+ {
+  "cat": "comer",
+  "sub": "Panadería y dulces",
+  "name": "Konditorei Buchwald",
+  "barrio": "Tiergarten",
+  "address": "Bartningallee 29",
+  "price": 2,
+  "desc": "Una confitería de 1852 especializada en baumkuchen, la torta alemana de capas, hecha con receta secreta de la casa.",
+  "tip": "Sentate en el salón antiguo y pedí baumkuchen. Queda junto al puente Moabiter Brücke.",
+  "tags": [
+   "dulce",
+   "clásico",
+   "tradición",
+   "merienda"
+  ],
+  "q": 3,
+  "sources": [
+   "https://www.top10berlin.de/de/tags/konditorei",
+   "https://www.the-berliner.com/food/the-best-cakes-in-berlin-tarts-cheesecakes-pastries-and-pies/"
+  ],
+  "check": "Mencionada como institución del baumkuchen en fuentes de la búsqueda; dirección por conocimiento previo."
+ },
+ {
+  "cat": "comer",
+  "sub": "Panadería y dulces",
+  "name": "Albatross Bakery",
+  "barrio": "Kreuzberg",
+  "address": "Graefestraße 66",
+  "price": 2,
+  "desc": "Panadería artesanal con pan de masa madre y de las mejores facturas de la ciudad: croissants, kouign-amann y más.",
+  "tip": "Los fines de semana se agota temprano.",
+  "tags": [
+   "panadería",
+   "desayuno",
+   "vida de barrio"
+  ],
+  "sources": [
+   "https://www.albatrossberlin.com"
+  ],
+  "check": "Sin búsqueda individual (se agotó el cupo de búsquedas de la sesión): dirección y vigencia por conocimiento previo. Reverificar que siga abierto."
+ },
+ {
+  "cat": "comer",
+  "sub": "Panadería y dulces",
+  "name": "Sofi",
+  "barrio": "Mitte",
+  "address": "Sophienstraße 21",
+  "price": 2,
+  "desc": "Panadería en un patio de Mitte que trabaja con granos antiguos: panes de masa madre y bollería nórdica.",
+  "tip": "Entrá al patio de los Sophie-Gips-Höfe. Hay mesas al aire libre.",
+  "tags": [
+   "panadería",
+   "patio",
+   "joya oculta"
+  ],
+  "sources": [
+   "https://www.sofiberlin.com"
+  ],
+  "check": "Sin búsqueda individual (se agotó el cupo de búsquedas de la sesión): dirección y vigencia por conocimiento previo. Reverificar que siga abierto."
+ },
+ {
+  "cat": "comer",
+  "sub": "Panadería y dulces",
+  "name": "Domberger Brot-Werk",
+  "barrio": "Moabit",
+  "address": "Essener Straße 11",
+  "price": 1,
+  "desc": "Una panadería de oficio en Moabit, con el horno a la vista y panes de fermentación lenta muy respetados.",
+  "tip": "Pan y bollería para llevar; quedan pocas piezas a la tarde.",
+  "tags": [
+   "panadería",
+   "vida de barrio",
+   "tradición"
+  ],
+  "sources": [
+   "https://www.tip-berlin.de/essen-trinken/feinkostlaeden/beste-baeckereien-brot-berlin/"
+  ],
+  "check": "Sin búsqueda individual (se agotó el cupo de búsquedas de la sesión): dirección y vigencia por conocimiento previo. Reverificar que siga abierto."
+ },
+ {
+  "cat": "comer",
+  "sub": "Panadería y dulces",
+  "name": "Princess Cheesecake",
+  "barrio": "Mitte",
+  "address": "Tucholskystraße 37",
+  "price": 2,
+  "desc": "Tortas y cheesecakes de vitrina en un salón elegante, con ingredientes orgánicos y varias opciones veganas.",
+  "tip": "Plan ideal para la merienda después de las galerías de Auguststraße.",
+  "tags": [
+   "dulce",
+   "merienda",
+   "café"
+  ],
+  "sources": [
+   "https://www.princess-cheesecake.de"
+  ],
+  "check": "Sin búsqueda individual (se agotó el cupo de búsquedas de la sesión): dirección y vigencia por conocimiento previo. Reverificar que siga abierto."
+ },
+ {
+  "cat": "comer",
+  "sub": "Panadería y dulces",
+  "name": "Rausch Schokoladenhaus",
+  "barrio": "Mitte",
+  "address": "Charlottenstraße 60",
+  "price": 2,
+  "desc": "Una chocolatería enorme frente al Gendarmenmarkt, con esculturas de chocolate de monumentos berlineses y un café en el piso de arriba.",
+  "tip": "Entrada libre para mirar. Arriba se toma un chocolate caliente con vista a la plaza.",
+  "tags": [
+   "dulce",
+   "chicos",
+   "lluvia",
+   "céntrico"
+  ],
+  "sources": [
+   "https://www.rausch.de"
+  ],
+  "check": "Sin búsqueda individual (se agotó el cupo de búsquedas de la sesión): dirección y vigencia por conocimiento previo. Reverificar que siga abierto."
+ },
+ {
+  "cat": "comer",
+  "sub": "Heladería",
+  "name": "Hokey Pokey",
+  "barrio": "Prenzlauer Berg",
+  "address": "Stargarder Straße 73",
+  "price": 1,
+  "desc": "Helados de un pastelero profesional, cremosos y con sabores trabajados. La heladería más famosa del barrio.",
+  "tip": "En verano la fila llega a la esquina, pero vale la pena.",
+  "tags": [
+   "helado",
+   "dulce",
+   "vida de barrio"
+  ],
+  "q": 3,
+  "sources": [
+   "https://www.kindaling.de/eisdielen/berlin",
+   "https://www.hokey-pokey.de"
+  ],
+  "check": "Aparece en una lista de 2026 encontrada en la búsqueda; dirección por conocimiento previo, sin verificación individual."
+ },
+ {
+  "cat": "comer",
+  "sub": "Heladería",
+  "name": "Jones Ice Cream",
+  "barrio": "Schöneberg",
+  "address": "Goltzstraße 3",
+  "price": 1,
+  "desc": "Helado al estilo norteamericano con cucuruchos horneados en el momento y sándwiches de galleta.",
+  "tip": "Pedí el cucurucho casero, que hacen delante tuyo.",
+  "tags": [
+   "helado",
+   "dulce",
+   "chicos"
+  ],
+  "q": 3,
+  "sources": [
+   "https://www.kindaling.de/eisdielen/berlin"
+  ],
+  "check": "Aparece en una lista de 2026 encontrada en la búsqueda; dirección por conocimiento previo, sin verificación individual."
+ },
+ {
+  "cat": "comer",
+  "sub": "Heladería",
+  "name": "Vanille & Marille",
+  "barrio": "Kreuzberg",
+  "address": "Hagelberger Straße 1",
+  "price": 1,
+  "desc": "Heladería artesanal berlinesa con ingredientes naturales y sabores de fruta muy logrados.",
+  "tip": "Tienen varios locales en la ciudad. Este queda cerca del Viktoriapark.",
+  "tags": [
+   "helado",
+   "dulce",
+   "vida de barrio"
+  ],
+  "sources": [
+   "https://www.kindaling.de/eisdielen/berlin",
+   "https://www.vanille-marille.de"
+  ],
+  "check": "Aparece en una lista de 2026 encontrada en la búsqueda; dirección por conocimiento previo, sin verificación individual."
+ },
+ {
+  "cat": "comer",
+  "sub": "Heladería",
+  "name": "Fräulein Frost",
+  "barrio": "Neukölln",
+  "address": "Friedelstraße 39",
+  "price": 1,
+  "desc": "Heladería de barrio en Reuterkiez con sabores originales, como pepino, limón y menta.",
+  "tip": "Buen postre después de pasear por el canal Landwehr.",
+  "tags": [
+   "helado",
+   "dulce",
+   "vida de barrio"
+  ],
+  "sources": [
+   "https://www.kindaling.de/eisdielen/berlin"
+  ],
+  "check": "Aparece en una lista de 2026 encontrada en la búsqueda; dirección por conocimiento previo, sin verificación individual."
+ },
+ {
+  "cat": "comer",
+  "sub": "Heladería",
+  "name": "Rosa Canina",
+  "barrio": "Prenzlauer Berg",
+  "address": "Pasteurstraße 32",
+  "price": 1,
+  "desc": "Helado orgánico de elaboración propia, con sabores creativos y opciones veganas.",
+  "tip": "Queda en el Bötzowviertel, un barrio lindo para caminar.",
+  "tags": [
+   "helado",
+   "dulce",
+   "vegano"
+  ],
+  "sources": [
+   "https://www.kindaling.de/eisdielen/berlin"
+  ],
+  "check": "Aparece en una lista de 2026 encontrada en la búsqueda; dirección por conocimiento previo, sin verificación individual."
+ },
+ {
+  "cat": "comer",
+  "sub": "Heladería",
+  "name": "Duo Sicilian Ice Cream",
+  "barrio": "Kreuzberg",
+  "address": "Skalitzer Straße 82",
+  "price": 1,
+  "desc": "Helado siciliano de verdad: pistacho de Bronte, granita y brioche relleno de helado.",
+  "tip": "Pedí el brioche con helado, como en Sicilia.",
+  "tags": [
+   "helado",
+   "italiano",
+   "dulce"
+  ],
+  "q": 3,
+  "sources": [
+   "https://www.berliner-zeitung.de/article/mitte-kreuzberg-niederschoeneweide-das-sind-die-besten-eisdielen-der-stadt-2313359"
+  ],
+  "check": "Mencionada entre las mejores heladerías por Berliner Zeitung; dirección por conocimiento previo."
+ },
+ {
+  "cat": "comer",
+  "sub": "Heladería",
+  "name": "Cuore di Vetro",
+  "barrio": "Mitte",
+  "address": "Max-Beer-Straße 33",
+  "price": 1,
+  "desc": "Heladería italiana con laboratorio a la vista, pocos sabores y muy bien hechos.",
+  "tip": "Local chico y céntrico, a unas cuadras de Alexanderplatz.",
+  "tags": [
+   "helado",
+   "italiano",
+   "céntrico"
+  ],
+  "sources": [
+   "https://www.tip-berlin.de/essen-trinken/eisdielen-in-berlin-mitte/"
+  ],
+  "check": "Mencionada por tip Berlin entre las heladerías de Mitte; dirección por conocimiento previo."
+ },
+ {
+  "cat": "comer",
+  "sub": "De autor",
+  "name": "Rutz",
+  "barrio": "Mitte",
+  "address": "Chausseestraße 8",
+  "price": 4,
+  "desc": "El único tres estrellas de Berlín: menú de pasos de Marco Müller con productos de la región y una gran carta de vinos.",
+  "tip": "Reservá con semanas de anticipación. Abre solo algunas noches por semana.",
+  "tags": [
+   "alta cocina",
+   "degustación",
+   "vinos",
+   "lujo"
+  ],
+  "award": "Guía Michelin 2026 · 3 estrellas",
+  "top": true,
+  "q": 3,
+  "sources": [
+   "https://tasteandstories.de/michelin-berlin/",
+   "https://www.berliner-wirtschaft.de/branchentrends/sternerestaurants-berlin-michelin-sterne-2026",
+   "https://berlin.t-online.de/region/berlin/id_101309876/guide-michelin-verleihung-2026-drei-sterne-fuer-restaurant-rutz-in-berlin.html"
+  ],
+  "check": "Distinción confirmada en listas de la Guía Michelin 2026 (junio de 2026); dirección por conocimiento previo."
+ },
+ {
+  "cat": "comer",
+  "sub": "De autor",
+  "name": "Tim Raue",
+  "barrio": "Kreuzberg",
+  "address": "Rudi-Dutschke-Straße 26",
+  "price": 4,
+  "desc": "La cocina de inspiración asiática del chef más famoso de Berlín, a metros de Checkpoint Charlie. Sabores intensos, dulces y picantes.",
+  "tip": "El menú de mediodía es la forma más accesible de conocerlo. Reservá con tiempo.",
+  "tags": [
+   "alta cocina",
+   "asiático",
+   "degustación",
+   "lujo"
+  ],
+  "award": "Guía Michelin 2026 · 2 estrellas",
+  "top": true,
+  "q": 3,
+  "sources": [
+   "https://tasteandstories.de/michelin-berlin/",
+   "https://www.berliner-wirtschaft.de/branchentrends/sternerestaurants-berlin-michelin-sterne-2026"
+  ],
+  "check": "Distinción confirmada en listas de la Guía Michelin 2026 (junio de 2026); dirección por conocimiento previo."
+ },
+ {
+  "cat": "comer",
+  "sub": "De autor",
+  "name": "Facil",
+  "barrio": "Tiergarten",
+  "address": "Potsdamer Straße 3",
+  "price": 4,
+  "desc": "Un pabellón de vidrio rodeado de jardín en el quinto piso del hotel The Mandala, en Potsdamer Platz. Cocina moderna y liviana.",
+  "tip": "Al mediodía ofrecen un menú más corto. Suele cerrar los fines de semana.",
+  "tags": [
+   "alta cocina",
+   "jardín",
+   "lujo",
+   "degustación"
+  ],
+  "award": "Guía Michelin 2026 · 2 estrellas",
+  "q": 3,
+  "sources": [
+   "https://tasteandstories.de/michelin-berlin/",
+   "https://www.berliner-wirtschaft.de/branchentrends/sternerestaurants-berlin-michelin-sterne-2026"
+  ],
+  "check": "Distinción confirmada en listas de la Guía Michelin 2026 (junio de 2026); dirección por conocimiento previo."
+ },
+ {
+  "cat": "comer",
+  "sub": "De autor",
+  "name": "Coda",
+  "barrio": "Neukölln",
+  "address": "Friedelstraße 47",
+  "price": 4,
+  "desc": "Un menú de pasos nacido de la pastelería, con técnicas de postre y casi sin azúcar agregada, maridado con tragos. Único en su tipo.",
+  "tip": "Dejá que te sirvan el maridaje de bebidas: es parte de la experiencia.",
+  "tags": [
+   "alta cocina",
+   "degustación",
+   "cócteles",
+   "moderno"
+  ],
+  "award": "Guía Michelin 2026 · 2 estrellas",
+  "q": 3,
+  "sources": [
+   "https://tasteandstories.de/michelin-berlin/",
+   "https://www.berliner-wirtschaft.de/branchentrends/sternerestaurants-berlin-michelin-sterne-2026"
+  ],
+  "check": "Distinción confirmada en listas de la Guía Michelin 2026 (junio de 2026); dirección por conocimiento previo."
+ },
+ {
+  "cat": "comer",
+  "sub": "De autor",
+  "name": "Horváth",
+  "barrio": "Kreuzberg",
+  "address": "Paul-Lincke-Ufer 44a",
+  "price": 4,
+  "desc": "Cocina austríaca reinventada por Sebastian Frank frente al canal, con las verduras como protagonistas.",
+  "tip": "Reservá con anticipación. Tienen un maridaje sin alcohol muy elogiado.",
+  "tags": [
+   "alta cocina",
+   "degustación",
+   "río"
+  ],
+  "award": "Guía Michelin 2026 · 2 estrellas",
+  "q": 3,
+  "sources": [
+   "https://tasteandstories.de/michelin-berlin/",
+   "https://www.berliner-wirtschaft.de/branchentrends/sternerestaurants-berlin-michelin-sterne-2026"
+  ],
+  "check": "Distinción confirmada en listas de la Guía Michelin 2026 (junio de 2026); dirección por conocimiento previo."
+ },
+ {
+  "cat": "comer",
+  "sub": "De autor",
+  "name": "Nobelhart & Schmutzig",
+  "barrio": "Kreuzberg",
+  "address": "Friedrichstraße 218",
+  "price": 4,
+  "desc": "Cocina \"brutalmente local\": solo productos de Berlín y alrededores, servidos en una barra larga frente a la cocina.",
+  "tip": "Hay que tocar timbre para entrar. No se permiten fotos.",
+  "tags": [
+   "alta cocina",
+   "degustación",
+   "vinos",
+   "moderno"
+  ],
+  "award": "Guía Michelin 2026 · 1 estrella",
+  "q": 3,
+  "sources": [
+   "https://tasteandstories.de/michelin-berlin/",
+   "https://www.berliner-wirtschaft.de/branchentrends/sternerestaurants-berlin-michelin-sterne-2026"
+  ],
+  "check": "Distinción confirmada en listas de la Guía Michelin 2026 (junio de 2026); dirección por conocimiento previo."
+ },
+ {
+  "cat": "comer",
+  "sub": "De autor",
+  "name": "Tulus Lotrek",
+  "barrio": "Kreuzberg",
+  "address": "Fichtestraße 24",
+  "price": 4,
+  "desc": "Alta cocina sin solemnidad: platos opulentos de Max Strohe y un salón cálido con uno de los mejores servicios de la ciudad.",
+  "tip": "Ideal si querés una estrella Michelin con ambiente relajado. Reservá con tiempo.",
+  "tags": [
+   "alta cocina",
+   "degustación",
+   "vinos",
+   "relajado"
+  ],
+  "award": "Guía Michelin 2026 · 1 estrella",
+  "sources": [
+   "https://tasteandstories.de/michelin-berlin/",
+   "https://www.berliner-wirtschaft.de/branchentrends/sternerestaurants-berlin-michelin-sterne-2026"
+  ],
+  "check": "Distinción confirmada en listas de la Guía Michelin 2026 (junio de 2026); dirección por conocimiento previo."
+ },
+ {
+  "cat": "comer",
+  "sub": "De autor",
+  "name": "Lorenz Adlon Esszimmer",
+  "barrio": "Mitte",
+  "address": "Unter den Linden 77",
+  "price": 4,
+  "desc": "El restaurante gourmet del Hotel Adlon, con salón clásico y vista a la Puerta de Brandeburgo.",
+  "tip": "Vestite formal y pedí mesa junto a la ventana.",
+  "tags": [
+   "alta cocina",
+   "lujo",
+   "hotel",
+   "vista"
+  ],
+  "award": "Guía Michelin 2026 · 1 estrella",
+  "sources": [
+   "https://tasteandstories.de/michelin-berlin/",
+   "https://www.berliner-wirtschaft.de/branchentrends/sternerestaurants-berlin-michelin-sterne-2026",
+   "https://www.berliner-zeitung.de/article/2334252"
+  ],
+  "check": "Distinción confirmada en listas de la Guía Michelin 2026 (junio de 2026); dirección por conocimiento previo."
+ },
+ {
+  "cat": "comer",
+  "sub": "De autor",
+  "name": "Hugos",
+  "barrio": "Tiergarten",
+  "address": "Budapester Straße 2",
+  "price": 4,
+  "desc": "Cocina de autor en el piso 14 del hotel InterContinental, con vista panorámica sobre el Tiergarten y la ciudad.",
+  "tip": "Reservá cerca del atardecer para aprovechar la vista.",
+  "tags": [
+   "alta cocina",
+   "vista",
+   "hotel",
+   "atardecer"
+  ],
+  "award": "Guía Michelin 2026 · 1 estrella",
+  "sources": [
+   "https://tasteandstories.de/michelin-berlin/",
+   "https://www.berliner-wirtschaft.de/branchentrends/sternerestaurants-berlin-michelin-sterne-2026"
+  ],
+  "check": "Distinción confirmada en listas de la Guía Michelin 2026 (junio de 2026); dirección por conocimiento previo."
+ },
+ {
+  "cat": "comer",
+  "sub": "De autor",
+  "name": "Bandol sur mer",
+  "barrio": "Mitte",
+  "address": "Torstraße 167",
+  "price": 4,
+  "desc": "Un antiguo local de kebab convertido en restaurante con estrella: salón mínimo, cocina a la vista y menú de inspiración francesa.",
+  "tip": "Tiene muy pocas mesas: reservá con mucha anticipación.",
+  "tags": [
+   "alta cocina",
+   "degustación",
+   "bistró"
+  ],
+  "award": "Guía Michelin 2026 · 1 estrella",
+  "sources": [
+   "https://tasteandstories.de/michelin-berlin/",
+   "https://www.berliner-wirtschaft.de/branchentrends/sternerestaurants-berlin-michelin-sterne-2026"
+  ],
+  "check": "Distinción confirmada en listas de la Guía Michelin 2026 (junio de 2026); dirección por conocimiento previo."
+ },
+ {
+  "cat": "comer",
+  "sub": "De autor",
+  "name": "Bricole",
+  "barrio": "Prenzlauer Berg",
+  "address": "Senefelderstraße 30",
+  "price": 3,
+  "desc": "Un bistró de barrio con estrella: menú corto, productos de estación y buen vino en un ambiente cercano.",
+  "tip": "Buena puerta de entrada a la alta cocina berlinesa sin tanta formalidad.",
+  "tags": [
+   "alta cocina",
+   "bistró",
+   "vinos",
+   "vida de barrio"
+  ],
+  "award": "Guía Michelin 2026 · 1 estrella",
+  "sources": [
+   "https://tasteandstories.de/michelin-berlin/",
+   "https://www.berliner-wirtschaft.de/branchentrends/sternerestaurants-berlin-michelin-sterne-2026"
+  ],
+  "check": "Distinción confirmada en listas de la Guía Michelin 2026 (junio de 2026); dirección por conocimiento previo."
+ },
+ {
+  "cat": "comer",
+  "sub": "De autor",
+  "name": "hallmann & klee",
+  "barrio": "Neukölln",
+  "address": "Böhmische Straße 13",
+  "price": 3,
+  "desc": "Cocina de estación muy cuidada en el tranquilo Rixdorf, el rincón de pueblo de Neukölln.",
+  "tip": "Antes de cenar, caminá por Richardplatz y el barrio bohemio de Rixdorf.",
+  "tags": [
+   "alta cocina",
+   "degustación",
+   "vida de barrio"
+  ],
+  "award": "Guía Michelin 2026 · 1 estrella",
+  "sources": [
+   "https://tasteandstories.de/michelin-berlin/",
+   "https://www.berliner-wirtschaft.de/branchentrends/sternerestaurants-berlin-michelin-sterne-2026"
+  ],
+  "check": "Distinción confirmada en listas de la Guía Michelin 2026 (junio de 2026); dirección por conocimiento previo."
+ },
+ {
+  "cat": "comer",
+  "sub": "De autor",
+  "name": "Irma la Douce",
+  "barrio": "Tiergarten",
+  "address": "Potsdamer Straße 102",
+  "price": 3,
+  "desc": "Cocina francesa actual con estrella y una carta de vinos fuerte, sobre la Potsdamer Straße de las galerías.",
+  "tip": "Combinalo con una tarde de galerías de arte por la zona.",
+  "tags": [
+   "alta cocina",
+   "vinos",
+   "bistró"
+  ],
+  "award": "Guía Michelin 2026 · 1 estrella",
+  "sources": [
+   "https://tasteandstories.de/michelin-berlin/",
+   "https://www.berliner-wirtschaft.de/branchentrends/sternerestaurants-berlin-michelin-sterne-2026"
+  ],
+  "check": "Distinción confirmada en listas de la Guía Michelin 2026 (junio de 2026); dirección por conocimiento previo."
+ },
+ {
+  "cat": "comer",
+  "sub": "De autor",
+  "name": "Barra",
+  "barrio": "Neukölln",
+  "address": "Okerstraße 2",
+  "price": 3,
+  "desc": "Platitos para compartir con productos de la región, en un local despojado del Schillerkiez. De lo mejor de Neukölln.",
+  "tip": "Sentate en la barra frente a la cocina y pedí varios platos al centro.",
+  "tags": [
+   "compartir",
+   "moderno",
+   "vinos",
+   "bistró"
+  ],
+  "award": "Guía Michelin 2026 · Bib Gourmand",
+  "sources": [
+   "https://guide.michelin.com/us/en/berlin-region/berlin/restaurant/barra",
+   "https://guide.michelin.com/en/de/berlin-region/restaurants/bib-gourmand"
+  ],
+  "check": "Bib Gourmand vigente según la página de la Guía Michelin (2026); dirección por conocimiento previo."
+ },
+ {
+  "cat": "comer",
+  "sub": "De autor",
+  "name": "Remi",
+  "barrio": "Mitte",
+  "address": "Torstraße 48",
+  "price": 3,
+  "desc": "Cocina moderna y directa en un salón luminoso con cocina abierta, de dos cocineros holandeses.",
+  "tip": "El menú de mediodía es una muy buena relación entre calidad y precio.",
+  "tags": [
+   "moderno",
+   "bistró",
+   "vinos"
+  ],
+  "award": "Guía Michelin 2026 · Bib Gourmand",
+  "sources": [
+   "https://guide.michelin.com/us/en/berlin-region/berlin/restaurant/remi",
+   "https://guide.michelin.com/en/de/berlin-region/restaurants/bib-gourmand"
+  ],
+  "check": "Bib Gourmand vigente según la Guía Michelin (\"Bib del mes\" en enero de 2026); dirección por conocimiento previo."
+ },
+ {
+  "cat": "comer",
+  "sub": "Cocinas del mundo",
+  "name": "Monsieur Vuong",
+  "barrio": "Mitte",
+  "address": "Alte Schönhauser Straße 46",
+  "price": 2,
+  "desc": "El vietnamita que puso de moda el pho en Berlín: carta corta que cambia seguido, sopas, ensaladas de fideos y jugos frescos.",
+  "tip": "No toman reservas: andá fuera de hora pico.",
+  "tags": [
+   "asiático",
+   "clásico",
+   "céntrico"
+  ],
+  "q": 3,
+  "sources": [
+   "https://www.monsieurvuong.de"
+  ],
+  "check": "Sin búsqueda individual (se agotó el cupo de búsquedas de la sesión): dirección y vigencia por conocimiento previo. Reverificar que siga abierto."
+ },
+ {
+  "cat": "comer",
+  "sub": "Cocinas del mundo",
+  "name": "Adana Grillhaus",
+  "barrio": "Kreuzberg",
+  "address": "Manteuffelstraße 86",
+  "price": 2,
+  "desc": "Parrilla turca a las brasas con brochetas de cordero, kebab de Adana y entradas para compartir.",
+  "tip": "Pedí una parrillada mixta al centro. De noche se llena: reservá.",
+  "tags": [
+   "compartir",
+   "vida de barrio"
+  ],
+  "sources": [
+   "https://www.adanagrillhaus.de"
+  ],
+  "check": "Sin búsqueda individual (se agotó el cupo de búsquedas de la sesión): dirección y vigencia por conocimiento previo. Reverificar que siga abierto."
+ },
+ {
+  "cat": "comer",
+  "sub": "Cocinas del mundo",
+  "name": "Kimchi Princess",
+  "barrio": "Kreuzberg",
+  "address": "Skalitzer Straße 36",
+  "price": 2,
+  "desc": "Parrilla coreana en la mesa, bibimbap y kimchi casero en un galpón ruidoso y divertido.",
+  "tip": "Para la parrilla en la mesa tienen que ser al menos dos. Conviene reservar.",
+  "tags": [
+   "asiático",
+   "compartir",
+   "noche"
+  ],
+  "sources": [
+   "https://www.kimchiprincess.com"
+  ],
+  "check": "Sin búsqueda individual (se agotó el cupo de búsquedas de la sesión): dirección y vigencia por conocimiento previo. Reverificar que siga abierto."
+ },
+ {
+  "cat": "comer",
+  "sub": "Cocinas del mundo",
+  "name": "Chutnify",
+  "barrio": "Prenzlauer Berg",
+  "address": "Sredzkistraße 43",
+  "price": 2,
+  "desc": "Comida callejera del sur de la India: dosas crocantes, thalis y curries, en un local colorido.",
+  "tip": "Probá la dosa masala. Según visitBerlin, la mayoría de los platos no lleva gluten: consultá en el local.",
+  "tags": [
+   "asiático",
+   "vegetariano",
+   "moderno"
+  ],
+  "sources": [
+   "https://www.visitberlin.de/de/blog/11-tipps-fuer-leckeres-glutenfreies-essen-berlin"
+  ],
+  "check": "Mencionado por visitBerlin; dirección por conocimiento previo. No se marcó sin TACC porque no es un local dedicado."
+ },
+ {
+  "cat": "comer",
+  "sub": "Cocinas del mundo",
+  "name": "Standard Serious Pizza",
+  "barrio": "Prenzlauer Berg",
+  "address": "Templiner Straße 7",
+  "price": 2,
+  "desc": "Pizza napolitana con horno a leña y masa de fermentación larga, de las más respetadas de la ciudad.",
+  "tip": "Empezá por la margherita. De noche conviene reservar.",
+  "tags": [
+   "italiano",
+   "compartir"
+  ],
+  "sources": [
+   "https://www.standard-berlin.de"
+  ],
+  "check": "Sin búsqueda individual (se agotó el cupo de búsquedas de la sesión): dirección y vigencia por conocimiento previo. Reverificar que siga abierto."
+ },
+ {
+  "cat": "comer",
+  "sub": "Cocinas del mundo",
+  "name": "Gazzo",
+  "barrio": "Neukölln",
+  "address": "Hobrechtstraße 57",
+  "price": 2,
+  "desc": "Pizza de masa madre con ingredientes de productores de la región y buenas opciones veganas.",
+  "tip": "Pedí alguna de las salsas para mojar el borde.",
+  "tags": [
+   "italiano",
+   "moderno",
+   "vegano"
+  ],
+  "sources": [
+   "https://www.gazzopizza.com"
+  ],
+  "check": "Sin búsqueda individual (se agotó el cupo de búsquedas de la sesión): dirección y vigencia por conocimiento previo. Reverificar que siga abierto."
+ },
+ {
+  "cat": "comer",
+  "sub": "Cocinas del mundo",
+  "name": "Zola",
+  "barrio": "Kreuzberg",
+  "address": "Paul-Lincke-Ufer 39-40",
+  "price": 2,
+  "desc": "Pizza napolitana en un patio escondido frente al canal, con masa aireada y horno a leña.",
+  "tip": "Entrá hasta el segundo patio. En horas pico hay espera.",
+  "tags": [
+   "italiano",
+   "patio",
+   "río"
+  ],
+  "sources": [
+   "https://www.zola-pizza.de"
+  ],
+  "check": "Sin búsqueda individual (se agotó el cupo de búsquedas de la sesión): dirección y vigencia por conocimiento previo. Reverificar que siga abierto."
+ },
+ {
+  "cat": "comer",
+  "sub": "Cocinas del mundo",
+  "name": "Santa Maria",
+  "barrio": "Kreuzberg",
+  "address": "Oranienstraße 170",
+  "price": 2,
+  "desc": "Cantina mexicana de Kreuzberg con tacos, burritos y margaritas.",
+  "tip": "Los martes suelen tener promoción de tacos. Se llena temprano.",
+  "tags": [
+   "tragos",
+   "noche",
+   "compartir"
+  ],
+  "sources": [
+   "https://www.santaberlin.com"
+  ],
+  "check": "Sin búsqueda individual (se agotó el cupo de búsquedas de la sesión): dirección y vigencia por conocimiento previo. Reverificar que siga abierto."
+ },
+ {
+  "cat": "comer",
+  "sub": "Cocinas del mundo",
+  "name": "Azzam",
+  "barrio": "Neukölln",
+  "address": "Sonnenallee 54",
+  "price": 1,
+  "desc": "El hummus más famoso de la Sonnenallee, la \"calle árabe\" de Berlín: recién hecho, con falafel y pan caliente.",
+  "tip": "Rápido, abundante y barato. Compartí hummus, musabaha y un plato de falafel.",
+  "tags": [
+   "económico",
+   "compartir",
+   "vida de barrio"
+  ],
+  "q": 3,
+  "sources": [
+   "https://www.top10berlin.de/de/cat/essen-267"
+  ],
+  "check": "Sin búsqueda individual (se agotó el cupo de búsquedas de la sesión): dirección y vigencia por conocimiento previo. Reverificar que siga abierto."
+ },
+ {
+  "cat": "comer",
+  "sub": "Cocinas del mundo",
+  "name": "Kanaan",
+  "barrio": "Prenzlauer Berg",
+  "address": "Schliemannstraße 15",
+  "price": 2,
+  "desc": "Un proyecto israelí-palestino con hummus, shakshuka y platos vegetarianos de Medio Oriente.",
+  "tip": "El brunch del fin de semana es muy pedido.",
+  "tags": [
+   "vegetariano",
+   "brunch",
+   "compartir"
+  ],
+  "sources": [
+   "https://www.kanaan-berlin.de"
+  ],
+  "check": "Sin búsqueda individual (se agotó el cupo de búsquedas de la sesión): dirección y vigencia por conocimiento previo. Reverificar que siga abierto."
+ },
+ {
+  "cat": "comer",
+  "sub": "Cocinas del mundo",
+  "name": "Cocolo Ramen",
+  "barrio": "Mitte",
+  "address": "Gipsstraße 3",
+  "price": 2,
+  "desc": "Un bar de ramen mínimo con caldo tonkotsu espeso y fideos al punto. El ramen de referencia en Berlín.",
+  "tip": "No reservan y el local es chico: andá apenas abre. Tienen otra sede más amplia en Kreuzberg.",
+  "tags": [
+   "asiático",
+   "al paso",
+   "céntrico"
+  ],
+  "sources": [
+   "https://www.kuchi.de"
+  ],
+  "check": "Sin búsqueda individual (se agotó el cupo de búsquedas de la sesión): dirección y vigencia por conocimiento previo. Reverificar que siga abierto."
+ },
+ {
+  "cat": "comer",
+  "sub": "Cocinas del mundo",
+  "name": "Lon Men's Noodle House",
+  "barrio": "Charlottenburg",
+  "address": "Kantstraße 33",
+  "price": 1,
+  "desc": "Sopas de fideos y dumplings taiwaneses en un local familiar de la Kantstraße, el corredor asiático de Berlín.",
+  "tip": "Pedí la sopa de fideos con carne y los wantan en aceite picante.",
+  "tags": [
+   "asiático",
+   "económico",
+   "vida de barrio"
+  ],
+  "sources": [
+   "https://www.top10berlin.de/de/cat/essen-267"
+  ],
+  "check": "Sin búsqueda individual (se agotó el cupo de búsquedas de la sesión): dirección y vigencia por conocimiento previo. Reverificar que siga abierto."
+ },
+ {
+  "cat": "comer",
+  "sub": "Cocinas del mundo",
+  "name": "Byblos",
+  "barrio": "Wilmersdorf",
+  "address": "Spichernstraße 24",
+  "price": 2,
+  "desc": "Cocina libanesa con mezze y parrilla, distinguida por la Guía Michelin por su relación entre calidad y precio.",
+  "tip": "Armá una mesa de mezze fríos y calientes para compartir.",
+  "tags": [
+   "compartir",
+   "vegetariano"
+  ],
+  "award": "Guía Michelin 2026 · Bib Gourmand",
+  "sources": [
+   "https://www.hogapage.de/nachrichten/wirtschaft/gastronomie/zehn-neue-bib-gourmand-restaurants-in-deutschland/",
+   "https://guide.michelin.com/de/de/article/michelin-guide-ceremony/zehn-neue-bib-gourmands-fur-deutschland---die-michelin-inspektoren-sind-begeistert"
+  ],
+  "check": "Bib Gourmand nuevo en junio de 2026; la dirección sale de un listado de terceros: confirmarla."
+ },
+ {
+  "cat": "comer",
+  "sub": "Cocinas del mundo",
+  "name": "Salhino",
+  "barrio": "Charlottenburg",
+  "address": "Waitzstraße 1",
+  "price": 2,
+  "desc": "Un restaurante familiar georgiano: khachapuri, khinkali y vinos de Georgia.",
+  "tip": "Pedí khachapuri para compartir y probá un vino georgiano.",
+  "tags": [
+   "compartir",
+   "vinos",
+   "vida de barrio"
+  ],
+  "award": "Guía Michelin 2026 · Bib Gourmand",
+  "sources": [
+   "https://www.34c.de/2026/06/21/berlin-two-new-bib-gourmand-restaurants-in-the-michelin-guide-germany-2026/",
+   "https://guide.michelin.com/en/de/berlin-region/restaurants/bib-gourmand"
+  ],
+  "check": "Bib Gourmand nuevo en junio de 2026, con dirección en la nota."
+ },
+ {
+  "cat": "comer",
+  "sub": "Cocinas del mundo",
+  "name": "Nußbaumerin",
+  "barrio": "Charlottenburg",
+  "address": "Leibnizstraße 55",
+  "price": 3,
+  "desc": "Cocina austríaca casera: wiener schnitzel, tafelspitz, kaiserschmarrn y vinos de Austria.",
+  "tip": "El schnitzel es de los mejores de Berlín. Reservá: el salón es chico.",
+  "tags": [
+   "clásico",
+   "vinos",
+   "tradición"
+  ],
+  "award": "Guía Michelin 2026 · Bib Gourmand",
+  "q": 3,
+  "sources": [
+   "https://guide.michelin.com/en/de/berlin-region/restaurants/bib-gourmand"
+  ],
+  "check": "Figura en la lista Bib Gourmand de la Guía Michelin (2026); dirección por conocimiento previo."
+ },
+ {
+  "cat": "comer",
+  "sub": "Cocinas del mundo",
+  "name": "November Brasserie",
+  "barrio": "Prenzlauer Berg",
+  "address": "Husemannstraße 15",
+  "price": 3,
+  "desc": "Cocina japonesa con productos de la región en un clásico local de Kollwitzkiez renovado.",
+  "tip": "Buena opción para una cena distinta después de pasear por Kollwitzplatz.",
+  "tags": [
+   "asiático",
+   "moderno",
+   "bistró"
+  ],
+  "award": "Guía Michelin 2026 · Bib Gourmand",
+  "sources": [
+   "https://guide.michelin.com/us/en/berlin-region/berlin/restaurant/november-brasserie",
+   "https://guide.michelin.com/en/de/berlin-region/restaurants/bib-gourmand"
+  ],
+  "check": "Bib Gourmand vigente según la Guía Michelin (2026); dirección por conocimiento previo."
+ },
+ {
+  "cat": "comer",
+  "sub": "Vegetariano",
+  "name": "Cookies Cream",
+  "barrio": "Mitte",
+  "address": "Behrenstraße 55",
+  "price": 4,
+  "desc": "Alta cocina vegetariana con estrella, escondida al fondo de un callejón de servicio detrás de un hotel.",
+  "tip": "Encontrar la entrada es parte de la gracia: buscá el callejón y la araña de luces. Reservá.",
+  "tags": [
+   "vegetariano",
+   "alta cocina",
+   "joya oculta",
+   "degustación"
+  ],
+  "award": "Guía Michelin 2026 · 1 estrella",
+  "diet": [
+   "vegetariano"
+  ],
+  "dietFull": true,
+  "q": 3,
+  "sources": [
+   "https://tasteandstories.de/michelin-berlin/",
+   "https://www.berliner-wirtschaft.de/branchentrends/sternerestaurants-berlin-michelin-sterne-2026"
+  ],
+  "check": "Distinción confirmada en listas de la Guía Michelin 2026 (junio de 2026); dirección por conocimiento previo."
+ },
+ {
+  "cat": "comer",
+  "sub": "Vegetariano",
+  "name": "Bonvivant Cocktail Bistro",
+  "barrio": "Schöneberg",
+  "address": "Goltzstraße 32",
+  "price": 3,
+  "desc": "Cocina vegetariana con estrella y coctelería de autor, en un bistró relajado de Schöneberg.",
+  "tip": "Pedí el maridaje con cócteles. Los fines de semana ofrecen brunch.",
+  "tags": [
+   "vegetariano",
+   "cócteles",
+   "bistró",
+   "brunch"
+  ],
+  "award": "Guía Michelin 2026 · 1 estrella",
+  "diet": [
+   "vegetariano"
+  ],
+  "dietFull": true,
+  "sources": [
+   "https://tasteandstories.de/michelin-berlin/",
+   "https://www.berliner-wirtschaft.de/branchentrends/sternerestaurants-berlin-michelin-sterne-2026",
+   "https://bonvivant.berlin/en/michelin-starred-restaurants-berlin.htm"
+  ],
+  "check": "Distinción confirmada en listas de la Guía Michelin 2026 (junio de 2026); dirección por conocimiento previo."
+ },
+ {
+  "cat": "comer",
+  "sub": "Vegetariano",
+  "name": "Lucky Leek",
+  "barrio": "Prenzlauer Berg",
+  "address": "Kollwitzstraße 54",
+  "price": 3,
+  "desc": "Menú de pasos 100 % vegano, creativo y muy cuidado, en el corazón de Kollwitzkiez.",
+  "tip": "Abre solo de noche y algunos días. Reservá con anticipación.",
+  "tags": [
+   "vegano",
+   "degustación",
+   "alta cocina"
+  ],
+  "award": "Guía Michelin 2026 · Bib Gourmand",
+  "diet": [
+   "vegano",
+   "vegetariano"
+  ],
+  "dietFull": true,
+  "q": 3,
+  "sources": [
+   "https://guide.michelin.com/en/de/berlin-region/restaurants/bib-gourmand",
+   "https://www.toursofberlin.com/post/michelin-starred-restaurants-in-berlin-guide-every-star-every-bib-gourmand-the-story-behi"
+  ],
+  "check": "Bib Gourmand y cocina vegana según la lista de la Guía Michelin (2026); dirección por conocimiento previo."
+ },
+ {
+  "cat": "comer",
+  "sub": "Vegetariano",
+  "name": "Brammibal's Donuts",
+  "barrio": "Neukölln",
+  "address": "Maybachufer 8",
+  "price": 1,
+  "desc": "Donas veganas con glaseados originales, frente al canal. Tienen varios locales en la ciudad.",
+  "tip": "Martes y viernes está al lado el mercado turco del Maybachufer.",
+  "tags": [
+   "vegano",
+   "dulce",
+   "merienda",
+   "café"
+  ],
+  "diet": [
+   "vegano",
+   "vegetariano"
+  ],
+  "dietFull": true,
+  "sources": [
+   "https://www.brammibalsdonuts.com"
+  ],
+  "check": "Sin búsqueda individual (se agotó el cupo de búsquedas de la sesión): dirección y vigencia por conocimiento previo. Reverificar que siga abierto."
+ },
+ {
+  "cat": "comer",
+  "sub": "Vegetariano",
+  "name": "Vöner",
+  "barrio": "Friedrichshain",
+  "address": "Boxhagener Straße 56",
+  "price": 1,
+  "desc": "El döner vegano original de Berlín, hecho con un asador de seitán y verduras, más hamburguesas y papas fritas.",
+  "tip": "Barato y rápido, a pocas cuadras de Boxhagener Platz.",
+  "tags": [
+   "vegano",
+   "döner",
+   "al paso",
+   "económico"
+  ],
+  "diet": [
+   "vegano",
+   "vegetariano"
+  ],
+  "dietFull": true,
+  "sources": [
+   "https://www.voener.de"
+  ],
+  "check": "Sin búsqueda individual (se agotó el cupo de búsquedas de la sesión): dirección y vigencia por conocimiento previo. Reverificar que siga abierto."
+ },
+ {
+  "cat": "comer",
+  "sub": "Vegetariano",
+  "name": "1990 Vegan Living",
+  "barrio": "Friedrichshain",
+  "address": "Krossener Straße 19",
+  "price": 2,
+  "desc": "Cocina vietnamita vegana servida en cuencos chicos para compartir, frente a Boxhagener Platz.",
+  "tip": "Pedí varias tapas al centro. Los fines de semana hay espera.",
+  "tags": [
+   "vegano",
+   "asiático",
+   "compartir"
+  ],
+  "diet": [
+   "vegano",
+   "vegetariano"
+  ],
+  "dietFull": true,
+  "sources": [
+   "https://www.restaurant-1990.de"
+  ],
+  "check": "Sin búsqueda individual (se agotó el cupo de búsquedas de la sesión): dirección y vigencia por conocimiento previo. Reverificar que siga abierto."
+ },
+ {
+  "cat": "comer",
+  "sub": "Polo gastronómico",
+  "name": "Markthalle Neun",
+  "barrio": "Kreuzberg",
+  "address": "Eisenbahnstraße 42-43",
+  "price": 2,
+  "desc": "Un mercado de hierro y vidrio de 1891 con puestos de productores, cerveza artesanal y cocinas de todo el mundo.",
+  "tip": "El plan estrella es el Street Food Thursday, los jueves a la tarde-noche. Viernes y sábado hay mercado.",
+  "tags": [
+   "mercado",
+   "al paso",
+   "compartir",
+   "cerveza",
+   "lluvia"
+  ],
+  "top": true,
+  "q": 3,
+  "sources": [
+   "https://markthalleneun.de/en/neues-aus-der-halle/auch-2026-bleiben-tueren-und-arme-offen",
+   "https://www.berlin.de/en/shopping/market-halls/"
+  ],
+  "check": "Activa en 2026 según su web (anuncian Street Food Thursday y mercados especiales)."
+ },
+ {
+  "cat": "comer",
+  "sub": "Polo gastronómico",
+  "name": "Arminiusmarkthalle",
+  "barrio": "Moabit",
+  "address": "Arminiusstraße 2-4",
+  "price": 2,
+  "desc": "Un mercado histórico de 1891 en Moabit, con puestos de comida, cervecería y bastante menos turistas que Markthalle Neun.",
+  "tip": "Cierra los domingos. Buen almuerzo si andás por Moabit.",
+  "tags": [
+   "mercado",
+   "historia",
+   "vida de barrio",
+   "lluvia"
+  ],
+  "closed": [
+   0
+  ],
+  "sources": [
+   "https://www.berlin.de/en/shopping/market-halls/",
+   "https://www.visitberlin.de/de/node/2291006"
+  ],
+  "check": "Abierta según berlin.de; con eventos programados hasta diciembre de 2026."
+ },
+ {
+  "cat": "comer",
+  "sub": "Polo gastronómico",
+  "name": "Marheineke Markthalle",
+  "barrio": "Kreuzberg",
+  "address": "Marheinekeplatz 15",
+  "price": 2,
+  "desc": "El mercado cubierto de Bergmannkiez: unos 40 puestos con productos orgánicos, especialidades griegas, panadería y lugares para comer.",
+  "tip": "Cierra los domingos. Después, paseá por Bergmannstraße.",
+  "tags": [
+   "mercado",
+   "vida de barrio",
+   "lluvia"
+  ],
+  "closed": [
+   0
+  ],
+  "sources": [
+   "https://www.berliner-kurier.de/berlin/essen-trinken/5-markthallen-in-berlin-die-einen-besuch-wert-sind-li.2206753",
+   "https://www.berlin.de/en/shopping/market-halls/"
+  ],
+  "check": "Mencionada como activa en fuentes de la búsqueda."
+ },
+ {
+  "cat": "comer",
+  "sub": "Polo gastronómico",
+  "name": "Manifesto Market",
+  "barrio": "Tiergarten",
+  "address": "Alte Potsdamer Straße 7",
+  "price": 2,
+  "desc": "Un patio gastronómico grande en Potsdamer Platz, con decenas de cocinas del mundo y bares bajo un mismo techo.",
+  "tip": "Práctico si van varios y cada uno quiere algo distinto. Suele haber música y eventos.",
+  "tags": [
+   "compartir",
+   "moderno",
+   "lluvia",
+   "céntrico"
+  ],
+  "sources": [
+   "https://www.berlin.de/en/shopping/markets/design-markets/10540009-7981482-we-make-berlin-market.en.html",
+   "https://www.meininger.de/gastronomie/locations/manifesto-market-berlin-so-sieht-es-im-groessten-food-hub-europas-aus"
+  ],
+  "check": "berlin.de anuncia eventos allí en agosto de 2026; no encontré confirmación más reciente. Dirección por conocimiento previo."
+ },
+ {
+  "cat": "comer",
+  "sub": "Polo gastronómico",
+  "name": "Kantini (Bikini Berlin)",
+  "barrio": "Charlottenburg",
+  "address": "Budapester Straße 38-50",
+  "price": 2,
+  "desc": "El patio de comidas del centro comercial Bikini Berlin, con puestos variados y ventanales que dan al recinto de los monos del zoológico.",
+  "tip": "Buscá mesa junto al ventanal o salí a la terraza del Bikini.",
+  "tags": [
+   "compartir",
+   "vista",
+   "compras",
+   "lluvia"
+  ],
+  "sources": [
+   "https://www.bikiniberlin.de"
+  ],
+  "check": "Sin búsqueda individual (se agotó el cupo de búsquedas de la sesión): dirección y vigencia por conocimiento previo. Reverificar que siga abierto."
+ },
+ {
+  "cat": "comer",
+  "sub": "Sin TACC",
+  "name": "Jute Bäckerei",
+  "barrio": "Prenzlauer Berg",
+  "address": "Schönhauser Allee 52a",
+  "price": 2,
+  "desc": "Panadería y café orgánico 100 % sin gluten: panes, medialunas, tortas y sándwiches.",
+  "tip": "Andá temprano: lo más pedido se termina.",
+  "tags": [
+   "sin tacc",
+   "celíacos",
+   "panadería",
+   "café"
+  ],
+  "diet": [
+   "sin TACC"
+  ],
+  "dietFull": true,
+  "q": 3,
+  "sources": [
+   "https://www.visitberlin.de/de/blog/11-tipps-fuer-leckeres-glutenfreies-essen-berlin",
+   "https://www.how-to-coeliac.com/berlin",
+   "https://www.visitberlin.de/de/node/2240479"
+  ],
+  "check": "visitBerlin la describe como 100 % sin gluten y orgánica."
+ },
+ {
+  "cat": "comer",
+  "sub": "Sin TACC",
+  "name": "AERA",
+  "barrio": "Charlottenburg",
+  "address": "Fasanenstraße 74",
+  "price": 2,
+  "desc": "Panadería donde todo se hornea sin gluten, a una cuadra de la Kurfürstendamm.",
+  "tip": "Llevate pan para el viaje: se conserva bien un par de días.",
+  "tags": [
+   "sin tacc",
+   "celíacos",
+   "panadería"
+  ],
+  "diet": [
+   "sin TACC"
+  ],
+  "dietFull": true,
+  "sources": [
+   "https://www.visitberlin.de/de/blog/11-tipps-fuer-leckeres-glutenfreies-essen-berlin",
+   "https://www.how-to-coeliac.com/berlin"
+  ],
+  "check": "visitBerlin indica que hornean exclusivamente sin gluten."
+ },
+ {
+  "cat": "comer",
+  "sub": "Sin TACC",
+  "name": "Brotquelle",
+  "barrio": "Friedrichshain",
+  "address": "Gärtnerstraße 2",
+  "price": 2,
+  "desc": "Panadería artesanal 100 % sin gluten en Friedrichshain, con panes de masa madre y facturas.",
+  "tip": "Los días de cierre varían según la fuente: fijate antes de ir.",
+  "tags": [
+   "sin tacc",
+   "celíacos",
+   "panadería"
+  ],
+  "diet": [
+   "sin TACC"
+  ],
+  "dietFull": true,
+  "sources": [
+   "https://www.how-to-coeliac.com/berlin",
+   "https://www.findmeglutenfree.com/de/berlin/bakeries",
+   "https://spinach.guide/venues/brotquelle-24157/"
+  ],
+  "check": "Listados para celíacos la describen como 100 % sin gluten; dirección de esos listados."
+ },
+ {
+  "cat": "comer",
+  "sub": "Sin TACC",
+  "name": "Oshione",
+  "barrio": "Kreuzberg",
+  "address": "Katzbachstraße 25",
+  "price": 2,
+  "desc": "Café japonés dedicado sin gluten, conocido por sus rollos de canela y sus dulces.",
+  "tip": "Queda al lado del Viktoriapark. Confirmá los días de apertura antes de ir.",
+  "tags": [
+   "sin tacc",
+   "celíacos",
+   "dulce",
+   "café"
+  ],
+  "diet": [
+   "sin TACC"
+  ],
+  "dietFull": true,
+  "sources": [
+   "https://www.findmeglutenfree.com/de/berlin/bakeries"
+  ],
+  "check": "Find Me Gluten Free lo lista como 100 % dedicado sin gluten; fuente colaborativa, sin confirmación oficial."
+ },
+ {
+  "cat": "comer",
+  "sub": "Sin TACC",
+  "name": "Cielo di Berlino",
+  "barrio": "Schöneberg",
+  "address": "Monumentenstraße 31",
+  "price": 2,
+  "desc": "Pizzería y café italiano con pizza y pasta sin gluten, muy recomendada por viajeros celíacos.",
+  "tip": "No es un local 100 % sin gluten: avisá que sos celíaco (\"Ich habe Zöliakie\") al pedir.",
+  "tags": [
+   "sin tacc",
+   "celíacos",
+   "italiano"
+  ],
+  "diet": [
+   "sin TACC"
+  ],
+  "sources": [
+   "https://atly.com/best/gluten-free/germany-berlin",
+   "https://www.eatingeurope.com/blog/gluten-free-berlin/"
+  ],
+  "check": "Listados para celíacos la califican como apta, no dedicada; opiniones mixtas."
+ }
+]
