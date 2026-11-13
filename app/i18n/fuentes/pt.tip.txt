@@ -537,3 +537,15 @@
 537|Fica perto do Abasto. Fecha no shabat.
 538|Bom para um café da manhã ou lanche da tarde. Fecha no shabat.
 539|Não encontramos um certificado halal: se precisar, pergunte no local. Costuma aceitar só dinheiro.
+540|Está na lista ampliada do Latin America's 50 Best. Para provar sem reserva, vá ao balcão.
+541|Na mesma casa fica o Al Fondo, seu bar de coquetéis. Convém reservar.
+542|Fica perto da estação Núñez do trem Mitre. Há uma mesa comprida diante da cozinha: convém reservar.
+543|Lota: reserve com antecedência.
+544|Costuma ter fila: é rápido, ideal para comer de passagem.
+545|Tem mais de uma unidade na região: esta é a que aparece no site de turismo da Cidade.
+546|Também é loja de vinhos e faz degustações.
+547|Ideal para o lanche da tarde. A Time Out a recomenda entre os melhores lanches da cidade.
+548|Boa carta de vinhos em taça. Lota depois do expediente.
+549|Reserve para as degustações. Ajudam você a escolher um vinho para levar.
+550|Peça uma tábua de degustação para provar várias.
+551|Para entrar, pergunte antes sobre visitas: é uma sinagoga em uso. Combine com o Templo Libertad.

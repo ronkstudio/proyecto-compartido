@@ -936,7 +936,7 @@
     historia: p => /Histórico|Ícono|Paseo|Barrio|Mirador|Mercado/.test(p.sub) || /historia|arquitectura/.test((p.tags || []).join(" ")),
     arte: p => /Museo|Cultura/.test(p.sub) || (p.tags || []).indexOf("arte") > -1,
     naturaleza: p => p.sub === "Naturaleza",
-    futbol: p => p.sub === "Fútbol",
+    futbol: p => p.sub === "Fútbol" || (p.tags || []).indexOf("fútbol") > -1,
     chicos: p => (p.tags || []).indexOf("chicos") > -1
   };
   /* Armá tu viaje, rediseñado: pasos numerados, botones grandes y un botón fijo abajo con el resumen. */

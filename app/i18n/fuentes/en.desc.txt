@@ -551,3 +551,15 @@
 551|Kosher café and pastry shop with several branches; the one on Libertador faces the Palermo parks.
 552|A cool, cosy neighbourhood kosher pizzeria in Palermo.
 553|Home-style Lebanese food: shawarma, falafel and kebab. Traveller reviews describe it as one of the few halal places in the city.
+554|Live-fire cooking with no gas: wood, charcoal and a clay oven. There is a bar with a short menu and a reservations-only dining room behind a curtain.
+555|Seasonal Argentine cooking in a 1920s house with exposed brick. Recommended by the Michelin Guide.
+556|A new bistro with European-inspired dishes for sharing and a Parisian-style terrace.
+557|Italian-Argentine cooking by Máximo Togni, with his grandmother's recipes: fresh pasta, milanesas and tortillas.
+558|Thin, crispy New York-style pizza by the slice. Time Out named it among the best in the city.
+559|A neighbourhood urban parrilla, recommended by the City's tourism website.
+560|Half deli, half restaurant: a seasonal menu with grilled meats, fish, vegetables and sourdough bread.
+561|A seasonal pâtisserie: cakes, loaf cakes and pastries that change with the fruit of the moment.
+562|A first-floor wine and cocktail bar, open since 1998. It trained many of the city's bartenders and cooks.
+563|A wine shop and tasting room in Palermo Soho, with guided tastings of Argentine wines and cheeses.
+564|One of the city's first craft breweries, with beer brewed on site, steps from the Recoleta Cemetery.
+565|A synagogue from the late 1920s, one of the oldest in the country, in the heart of the Once neighbourhood.

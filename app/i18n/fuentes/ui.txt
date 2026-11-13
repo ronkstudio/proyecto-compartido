@@ -766,3 +766,4 @@ Con la fecha te avisamos si algún lugar cierra el día que lo agendaste.
 Sin lugares todavía. Asignales este día desde la lista de abajo.
 Te avisamos en rojo si un lugar suele cerrar el día que lo agendaste.
 terminales y aeropuertos. Tocá uno para ver la dirección y cómo llegar.
+Otros deportes
