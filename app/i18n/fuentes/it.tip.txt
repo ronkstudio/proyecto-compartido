@@ -537,3 +537,15 @@
 537|È vicino all'Abasto. Chiuso durante lo shabbat.
 538|Bello per una colazione o una merenda. Chiuso durante lo shabbat.
 539|Non abbiamo trovato un certificato halal: se ti serve, chiedi sul posto. Di solito accetta solo contanti.
+540|È nella lista estesa dei Latin America's 50 Best. Per provarlo senza prenotazione, vai al bancone.
+541|Nella stessa casa c'è Al Fondo, il suo cocktail bar. Meglio prenotare.
+542|È vicino alla stazione Núñez del treno Mitre. C'è un tavolo lungo davanti alla cucina: meglio prenotare.
+543|Si riempie: prenota con anticipo.
+544|Di solito c'è la fila: è veloce, ideale per mangiare al volo.
+545|È a pochi isolati dalla stazione Núñez e dallo stadio del River.
+546|È anche enoteca e organizza degustazioni di vini.
+547|Ideale per la merenda. Time Out la consiglia tra le migliori merende della città.
+548|Buona carta di vini al calice. Si riempie dopo l'ufficio.
+549|Prenota per le degustazioni. Ti aiutano a scegliere un vino da portare via.
+550|Chiedi un tagliere di degustazione per assaggiarne diverse.
+551|Per entrare, chiedi prima delle visite: è una sinagoga in uso. Abbinala al Templo Libertad.

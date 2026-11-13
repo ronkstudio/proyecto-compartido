@@ -292,6 +292,26 @@
     ["comer", "Kosher", "L'harmonie", "Palermo", "Av. del Libertador 3118", 2, "Café y pastelería kosher con varios locales; el de Libertador queda frente a los parques de Palermo.", "Lindo para un desayuno o merienda. Cierra en shabat.", ["kosher", "café", "dulce"]],
     ["comer", "Kosher", "Bambina Pizza", "Palermo", "Cabello 3486", 2, "Pizzería kosher con onda, cálida y de barrio, en Palermo.", "Cierra en shabat: confirmá días antes de ir.", ["kosher", "pizza"]],
     ["comer", "Cocinas del mundo", "Al Rawshe", "Palermo", "Av. Santa Fe 3870", 1, "Cocina libanesa casera: shawarma, falafel y kebab. En reseñas de viajeros aparece como uno de los pocos lugares halal de la ciudad.", "No encontramos un certificado halal: si lo necesitás, preguntá en el local. Suele aceptar solo efectivo.", ["halal", "árabe"]],
+
+    /* ───────────── DÓNDE COMER EN NÚÑEZ (tarjeta #107) ─────────────
+       Fuentes: El Mostrador (07/2026), El Cronista (02/2025), Canal 26 (02/2026), Buenos Aires Portal (04/2025),
+       Guía Michelin (Piedra Pasillo), sitio de turismo de la Ciudad (Besares). Direcciones confirmadas en OpenStreetMap. */
+    ["comer", "De autor", "Ness", "Núñez", "Grecia 3691", 4, "Cocina a las brasas, sin gas: leña, carbón y horno de barro. Tiene una barra con carta corta y un salón con reserva detrás de una cortina.", "Figura en la lista ampliada de Latin America's 50 Best. Para probarlo sin reserva, andá a la barra.", ["brasas", "autor", "moderno"]],
+    ["comer", "De autor", "Piedra Pasillo", "Núñez", "Campos Salles 2145", 4, "Cocina argentina de estación en una casona de los años 20 con ladrillo a la vista. Recomendado por la Guía Michelin.", "En la misma casona está Al Fondo, su bar de cócteles. Conviene reservar.", ["autor", "alta cocina", "cócteles"]],
+    ["comer", "De autor", "Garabato", "Núñez", "O'Higgins 3424", 3, "Bistró nuevo con platos de inspiración europea para compartir y una terraza de estilo parisino.", "Queda cerca de la estación Núñez del tren Mitre. Hay una mesa larga frente a la cocina: conviene reservar.", ["bistró", "compartir", "terraza"]],
+    ["comer", "Bodegón moderno", "Evelia", "Núñez", "Campos Salles 1712", 3, "Cocina ítalo-argentina de Máximo Togni con recetas de su abuela: pastas frescas, milanesas y tortillas.", "Se llena: reservá con tiempo.", ["pastas", "milanesa", "italiano"]],
+    ["comer", "Pizzería", "Kalis Pizza", "Núñez", "O'Higgins 3578", 1, "Pizza fina y crocante estilo Nueva York, por porción. Time Out la puso entre las mejores de la ciudad.", "Suele haber fila: es rápida, ideal para comer al paso.", ["pizza", "al paso", "económico"]],
+    ["comer", "Parrilla", "Besares", "Núñez", "11 de Septiembre 1888 y Manuela Pedraza", 2, "Parrilla urbana de barrio, recomendada por el sitio de turismo de la Ciudad.", "Queda a pocas cuadras de la estación Núñez y del estadio de River.", ["parrilla", "carne", "vida de barrio"]],
+    ["comer", "Bodegón moderno", "Oporto Almacén", "Núñez", "11 de Septiembre 4152", 3, "Mitad almacén, mitad restaurante: carta de estación con carnes a la parrilla, pescados, verduras y pan de masa madre.", "También es vinoteca y hace degustaciones de vinos.", ["vinos", "moderno", "degustación"]],
+
+    /* ───────────── PARA QUE CADA FILTRO TENGA AL MENOS 4 LUGARES (tarjeta #108) ─────────────
+       Fuentes: Time Out (Casa Sáenz), Difford's Guide y Vinetur (Gran Bar Danzón), Lonely Planet y Perfil (Lo de Joaquín Alberdi),
+       Fodor's y Buenos Tours (Buller), Google Arts & Culture (Gran Templo Paso). */
+    ["comer", "Dulces", "Casa Sáenz", "Palermo", "Ravignani 1338", 2, "Pastelería de estación: tortas, budines y facturas que cambian según la fruta del momento.", "Ideal para merendar. Time Out la recomienda entre las mejores meriendas de la ciudad.", ["pastelería", "merienda", "dulce"]],
+    ["noche", "Bar de vinos", "Gran Bar Danzón", "Retiro", "Libertad 1161", 3, "Bar de vinos y cócteles en un primer piso, abierto desde 1998. Fue escuela de muchos bartenders y cocineros de la ciudad.", "Buena carta de vinos por copa. Se llena después de la oficina.", ["vinos", "cócteles", "clásico"]],
+    ["noche", "Bar de vinos", "Lo de Joaquín Alberdi", "Palermo", "Jorge Luis Borges 1772", 3, "Vinoteca y sala de degustación en Palermo Soho, con catas guiadas de vinos argentinos y quesos.", "Reservá para las catas. Te ayudan a elegir un vino para llevar.", ["vinos", "degustación", "malbec"]],
+    ["noche", "Cervecería", "Buller", "Recoleta", "Junín 1747", 2, "Una de las primeras cervecerías artesanales de la ciudad, con cerveza hecha en el lugar, a metros del Cementerio de la Recoleta.", "Pedí una tabla de degustación para probar varias.", ["cerveza", "pub", "relajado"]],
+    ["ver", "Templo", "Gran Templo Paso", "Centro", "Paso 423", null, "Sinagoga de fines de la década de 1920, una de las más antiguas del país, en el corazón del barrio de Once.", "Para entrar, consultá antes por visitas: es un templo en uso. Combinala con el Templo Libertad.", ["templo", "historia", "colectividades"]],
   ];
 
   /* Barrios que aparecen en el filtro de Explorar y del Mapa (tarjeta #56): los que más recorre un turista.
@@ -305,8 +325,69 @@
     city.places.push(p);
   });
 
+  /* Tipos reacomodados (tarjeta #108) para que cada filtro de tipo tenga al menos 4 lugares.
+     Se mueven a un tipo que ya existe y les queda bien; no se cambia nada más del lugar.
+     Cada fila: nombre del lugar → [categoría, tipo]. "Otros deportes" agrupa los deportes que tenían un solo lugar. */
+  const reacomodo = {
+    "Museo de los Niños": ["ocio", "Con chicos"],
+    "Planetario Galileo Galilei": ["ver", "Museo"],
+    "La Bombonera y Museo de la Pasión Boquense": ["ver", "Museo"],
+    "Estadio Monumental y Museo River": ["ver", "Museo"],
+    "La Casa de D10S": ["ver", "Museo"],
+    "Mercado de San Telmo": ["compras", "Mercado"],
+    "Mercado de Belgrano": ["compras", "Mercado"],
+    "Mercat Villa Crespo": ["comer", "Polo gastronómico"],
+    "Palacio Barolo": ["ver", "Ícono"],
+    "Torre Monumental": ["ver", "Ícono"],
+    "Galería Güemes y su mirador": ["ver", "Ícono"],
+    "Centro Cultural Islámico Rey Fahd": ["ver", "Templo"],
+    "Templo Libertad y Museo Judío": ["ver", "Templo"],
+    "Las Cholas": ["comer", "Cocina regional"],
+    "Teatros de la Avenida Corrientes": ["ocio", "Teatro"],
+    "Función en el Teatro Colón": ["ocio", "Teatro"],
+    "Teatro Ciego": ["ocio", "Teatro"],
+    "Trade Sky Bar": ["noche", "Bar"],
+    "Salón 1923": ["noche", "Bar"],
+    "Free walking tours (a la gorra)": ["tours", "Visita guiada"],
+    "Visitas guiadas gratuitas de la Ciudad": ["tours", "Visita guiada"],
+    "Guías de turismo habilitados": ["tours", "Visita guiada"],
+    "Bus Turístico": ["tours", "Temático"],
+    "Tours en bicicleta": ["tours", "Temático"],
+    "Paseo en barco por el Río de la Plata": ["tours", "Temático"],
+    "Tours gastronómicos": ["tours", "Temático"],
+    "Experiencia de asado y clase de empanadas": ["tours", "Temático"],
+    "Cata de vinos argentinos": ["tours", "Temático"],
+    "Colonia del Sacramento (Uruguay)": ["escapadas", "Ciudad"],
+    "Montevideo (Uruguay)": ["escapadas", "Ciudad"],
+    "Temaikèn": ["escapadas", "Naturaleza"],
+    "Isla Martín García": ["escapadas", "Naturaleza"],
+    "Alquiler temporario": ["dormir", "Hotel"],
+    "Campo Argentino de Polo": ["deporte", "Otros deportes"],
+    "Día de polo en una estancia": ["deporte", "Otros deportes"],
+    "Hipódromo de Palermo": ["deporte", "Otros deportes"],
+    "Buenos Aires Lawn Tennis Club": ["deporte", "Otros deportes"],
+    "Autódromo Oscar y Juan Gálvez": ["deporte", "Otros deportes"],
+    "Campo de Golf de la Ciudad": ["deporte", "Otros deportes"],
+    "Kayak y remo en el Delta": ["deporte", "Otros deportes"],
+    "Perú Beach": ["deporte", "Otros deportes"],
+    "Salas de escape": ["ocio", "Con chicos"]
+  };
+  city.places.forEach(p => { const r = reacomodo[p.name]; if (r) { p.cat = r[0]; p.sub = r[1]; } });
+
   /* Ubicaciones [latitud, longitud] de estos lugares. */
   const coords = {
+  "ness": [-34.54570, -58.46366],
+  "piedra-pasillo": [-34.55072, -58.46338],
+  "garabato": [-34.54853, -58.46360],
+  "evelia": [-34.54836, -58.45838],
+  "kalis-pizza": [-34.54735, -58.46437],
+  "besares": [-34.54342, -58.46316],
+  "oporto-almacen": [-34.54144, -58.46457],
+  "casa-saenz": [-34.58497, -58.44319],
+  "gran-bar-danzon": [-34.59489, -58.38431],
+  "lo-de-joaquin-alberdi": [-34.58753, -58.42855],
+  "buller": [-34.5880, -58.3930], // aprox.
+  "gran-templo-paso": [-34.60422, -58.40328],
   "taccoff": [-34.57862, -58.43724],
   "dulce-seminare-gf": [-34.61077, -58.42872],
   "agus-kitchen": [-34.57007, -58.43990],
