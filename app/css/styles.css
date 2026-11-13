@@ -711,8 +711,15 @@ h1, h2, .page-title, .section-head h2, .hero h1, .sheet h2 { font-family: var(--
 .av-banner a { color: #fff; text-decoration: underline; }
 
 /* ── Botón de ayuda arriba (tarjeta #121): lleva a Info > Ayuda desde cualquier pantalla ── */
-.sos-btn { flex: none; width: 36px; height: 36px; margin-left: auto; margin-right: 8px; border-radius: 50%; background: #c92a2a; display: grid; place-items: center; font-size: 17px; box-shadow: 0 0 0 2px rgba(255, 255, 255, .25); }
-.sos-btn:hover { background: #e03131; }
+/* Botón de ayuda (tarjeta #150): píldora roja con un salvavidas dibujado y "SOS". */
+.sos-btn { flex: none; height: 36px; margin-left: auto; margin-right: 8px; padding: 0 12px 0 9px; border-radius: 18px; display: inline-flex; align-items: center; gap: 6px; color: #fff; text-decoration: none; background: linear-gradient(180deg, #ef4444 0%, #c92a2a 100%); box-shadow: 0 2px 8px rgba(201, 42, 42, .45), inset 0 1px 0 rgba(255, 255, 255, .25); transition: transform .15s ease, box-shadow .15s ease, filter .15s ease; }
+.sos-btn b { font-size: 12.5px; font-weight: 800; letter-spacing: .1em; line-height: 1; }
+.sos-ico { width: 18px; height: 18px; flex: none; border-radius: 50%; animation: sos-latido 2.6s ease-out infinite; }
+.sos-btn:hover { filter: brightness(1.08); box-shadow: 0 4px 14px rgba(201, 42, 42, .55), inset 0 1px 0 rgba(255, 255, 255, .3); }
+.sos-btn:active { transform: scale(.95); }
+.sos-btn:focus-visible { outline: 2px solid #fff; outline-offset: 2px; }
+@keyframes sos-latido { 0% { box-shadow: 0 0 0 0 rgba(255, 255, 255, .55); } 70% { box-shadow: 0 0 0 7px rgba(255, 255, 255, 0); } 100% { box-shadow: 0 0 0 0 rgba(255, 255, 255, 0); } }
+@media (prefers-reduced-motion: reduce) { .sos-ico { animation: none; } }
 .sos-btn + .lang-btn { margin-left: 0; margin-right: 0; }
 @media (min-width: 900px) { .sos-btn + .lang-btn { margin-left: 8px; } }
 @media (min-width: 900px) { .sos-btn { margin-left: 8px; margin-right: 0; } }
