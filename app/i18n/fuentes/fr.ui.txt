@@ -774,3 +774,26 @@
 774|Une personne de plus
 775|En grand groupe, réservez les dîners à l'avance : les grandes tables partent vite.
 776|Plus de 4 : en taxi ou Uber, il vous faudra deux voitures.
+777|Grève
+778|Manifestation
+779|Rues fermées
+780|Avis
+781|Jusqu'au
+782|Source
+783|Plus sur les grèves et fermetures
+784|Grèves, manifestations et fermetures
+785|Il peut y en avoir d'autres : vérifiez ici avant de sortir.
+786|Aucun avis pour aujourd'hui. Avant de sortir, vérifiez ici s'il se passe quelque chose.
+787|État du métro
+788|L'état de chaque ligne, en direct (Emova).
+789|Fermetures de circulation
+790|Les avis officiels de la Ville.
+791|Actualités du jour
+792|Grèves, manifestations et fermetures dans l'actualité du jour.
+793|État du U-Bahn, du tram et des bus
+794|Retards, travaux et services de remplacement, en direct (BVG). En allemand.
+795|État du S-Bahn
+796|Changements dus aux travaux et perturbations du jour. En allemand.
+797|Grèves (Streik) et manifestations (Demo) dans l'actualité du jour.
+798|Av. del Libertador fermée à Palermo
+799|En raison du démontage des scènes de la visite du pape, l'Av. del Libertador est fermée entre l'Av. Olleros et Ugarteche. Prévoyez plus de temps ou prenez le métro.

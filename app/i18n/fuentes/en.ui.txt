@@ -774,3 +774,26 @@
 774|One more person
 775|With a big group, book dinners well ahead: large tables fill up fast.
 776|More than 4: you'll need two cars for a taxi or Uber.
+777|Strike
+778|Protest march
+779|Road closures
+780|Notice
+781|Until
+782|Source
+783|More on strikes and closures
+784|Strikes, protests and closures
+785|There may be more: check here before you go out.
+786|We have no notices for today. Before you go out, check here in case something is happening.
+787|Subway status
+788|How each line is running, live (Emova).
+789|Traffic closures
+790|The city's official notices.
+791|Today's news
+792|Strikes, protests and closures in today's news.
+793|U-Bahn, tram and bus status
+794|Delays, works and replacement services, live (BVG). In German.
+795|S-Bahn status
+796|Changes due to works and today's disruptions. In German.
+797|Strikes (Streik) and protests (Demo) in today's news.
+798|Av. del Libertador closed in Palermo
+799|Because the stages from the Pope's visit are being taken down, Av. del Libertador is closed between Av. Olleros and Ugarteche. If you're going through the area, allow extra time or take the subway.

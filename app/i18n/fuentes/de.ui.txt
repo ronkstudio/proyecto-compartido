@@ -774,3 +774,26 @@
 774|Eine Person mehr
 775|In einer großen Gruppe das Abendessen früh reservieren: große Tische sind schnell weg.
 776|Mehr als 4: Für Taxi oder Uber braucht ihr zwei Autos.
+777|Streik
+778|Demonstration
+779|Straßensperrungen
+780|Hinweis
+781|Bis
+782|Quelle
+783|Mehr zu Streiks und Sperrungen
+784|Streiks, Demos und Sperrungen
+785|Es kann mehr geben: Schau vor dem Losgehen hier nach.
+786|Heute haben wir keine Hinweise. Schau vor dem Losgehen hier nach, ob etwas los ist.
+787|Status der U-Bahn (Subte)
+788|Wie jede Linie gerade fährt, live (Emova).
+789|Verkehrssperrungen
+790|Die offiziellen Hinweise der Stadt.
+791|Nachrichten von heute
+792|Streiks, Demos und Sperrungen in den heutigen Nachrichten.
+793|Status von U-Bahn, Tram und Bus
+794|Verspätungen, Bauarbeiten und Ersatzverkehr, live (BVG).
+795|Status der S-Bahn
+796|Änderungen wegen Bauarbeiten und Störungen des Tages.
+797|Streiks und Demos in den heutigen Nachrichten.
+798|Av. del Libertador in Palermo gesperrt
+799|Wegen des Abbaus der Bühnen vom Papstbesuch ist die Av. del Libertador zwischen Av. Olleros und Ugarteche gesperrt. Plane mehr Zeit ein oder nimm die Subte.

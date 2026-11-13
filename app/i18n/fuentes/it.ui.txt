@@ -774,3 +774,26 @@
 774|Una persona in più
 775|Con un gruppo numeroso, prenota le cene per tempo: i tavoli grandi finiscono presto.
 776|Più di 4: in taxi o Uber vi serviranno due auto.
+777|Sciopero
+778|Manifestazione
+779|Strade chiuse
+780|Avviso
+781|Fino a
+782|Fonte
+783|Altro su scioperi e chiusure
+784|Scioperi, cortei e chiusure
+785|Potrebbero essercene altri: controlla qui prima di uscire.
+786|Oggi non abbiamo avvisi. Prima di uscire, controlla qui se succede qualcosa.
+787|Stato della metro
+788|Come funziona ogni linea, in diretta (Emova).
+789|Chiusure al traffico
+790|Gli avvisi ufficiali della Città.
+791|Notizie di oggi
+792|Scioperi, cortei e chiusure nelle notizie di oggi.
+793|Stato di U-Bahn, tram e autobus
+794|Ritardi, lavori e servizi sostitutivi, in diretta (BVG). In tedesco.
+795|Stato della S-Bahn
+796|Modifiche per lavori e problemi del giorno. In tedesco.
+797|Scioperi (Streik) e manifestazioni (Demo) nelle notizie di oggi.
+798|Av. del Libertador chiusa a Palermo
+799|Per lo smontaggio dei palchi della visita del Papa, l'Av. del Libertador è chiusa tra Av. Olleros e Ugarteche. Se passi in zona, calcola più tempo o prendi la metro.
