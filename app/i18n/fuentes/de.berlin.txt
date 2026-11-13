@@ -1,0 +1,277 @@
+1|Berlin
+2|Deutschland
+3|Currywurst, Döner, deutsche Küche und Küche aus aller Welt
+4|Bars, Clubs, Livemusik und Theater
+5|Einkaufen und Märkte
+6|Märkte, Läden und Einkaufsgegenden
+7|Stadien, Parks und Natur
+8|Tickets, U-Bahn, Flughafen
+9|Feuerwehr und Rettungsdienst
+10|Polizei
+11|Ärztlicher Bereitschaftsdienst (nicht dringend)
+12|Gewalt gegen Frauen
+13|Touristeninformation (visitBerlin)
+14|Fahrkarten und wie man sie entwertet
+15|Historisch und monumental
+16|Das Zentrum: Brandenburger Tor, Museumsinsel, Unter den Linden und Alexanderplatz. Fast alle Highlights erreichst du von hier zu Fuß.
+17|Die beste Basis für den ersten Besuch: Alles ist in der Nähe.
+18|Ruhig, hübsch und familienfreundlich
+19|Baumgesäumte Straßen, Cafés, kleine Läden und der Mauerpark mit seinem Flohmarkt am Sonntag.
+20|Ideal für Familien und alle, die Ruhe suchen, wenige Minuten vom Zentrum.
+21|Jung und nachtaktiv
+22|Die East Side Gallery, die Karl-Marx-Allee, Bars und einige der bekanntesten Clubs.
+23|Gut zum Ausgehen und zu vernünftigen Preisen; kann laut sein.
+24|Alternativ und multikulturell
+25|Street-Art, Essen aus aller Welt, Kanäle und viel Barleben. Hier liegen auch Checkpoint Charlie und das Jüdische Museum.
+26|Viel los; wähle die Gegend um die Bergmannstraße, wenn du es ruhiger magst.
+27|Angesagt und ständig im Wandel
+28|Neue Bars, nahöstliche Küche und der riesige Park auf dem alten Flughafen Tempelhof.
+29|Für alle, die die Stadt schon kennen und etwas weniger Touristisches suchen.
+30|Elegant und klassisch
+31|Das Berlin des Westens: der Kurfürstendamm, das Schloss Charlottenburg und die Gedächtniskirche.
+32|Bequem, ruhig und gut angebunden; gut für Familien.
+33|Wohnviertel mit Vielfalt
+34|Ein Kiez der Cafés und Märkte, historisches Zentrum der LGBT+-Community rund um den Nollendorfplatz.
+35|Gutes Verhältnis von Preis und Lage.
+36|Grün und voller Botschaften
+37|Der große Park im Zentrum, der Reichstag, die Siegessäule und der Potsdamer Platz.
+38|Große Hotels nahe dem Park und dem Hauptbahnhof.
+39|Bars und Nachtleben
+40|Berliner Reisepass
+41|Markiere die Orte, die du kennst, und sammle Stempel: Museen, Märkte, Kiez-Entdecker
+42|Berlin nach Mitternacht
+43|Von Markt zu Markt
+44|Ein Markt
+45|Ehrenberliner
+46|Außerhalb Berlins
+47|Keine Station in der Nähe: besser Bus, Tram oder App
+48|Was suchst du? Museum, Currywurst, Club, Kreuzberg
+49|Z. B.: Brandenburger Tor, East Side Gallery
+50|Z. B.: Lufthansa, Ryanair, Iberia
+51|Berliner Mauer
+52|Clubs
+53|Vom Flughafen BER
+54|Bis ins Zentrum (Alexanderplatz)
+55|Zug ins Zentrum
+56|FEX, Regionalzüge und S9, mit ABC-Ticket
+57|Der Zug ist am schnellsten und günstigsten: FEX und Regionalzüge fahren zum Hauptbahnhof, und die S9 durchquert das Zentrum.
+58|Kauf ein ABC-Ticket am Automaten im Bahnhof und entwerte es vor dem Einsteigen.
+59|Die offiziellen Taxis warten in der Schlange vor dem Terminal. Nimm keine Angebote von Leuten an, die dich in der Halle ansprechen.
+60|In Deutschland musst du zum Aktivieren einer SIM-Karte deine Identität mit dem Reisepass bestätigen: Das kann etwas dauern.
+61|Hab immer etwas Bargeld dabei: Es gibt noch Bars, Kioske und Stände, die keine Karten nehmen.
+62|Heb Geld an Bankautomaten ab: Freistehende Automaten in Touristengegenden verlangen mehr.
+63|Wenn der Automat oder das Kartenlesegerät anbietet, in deiner Währung abzurechnen, wähle die Zahlung in Euro.
+64|Tickets, Tarifbereiche und Fortbewegung
+65|Tickets für Touristen
+66|Offizielle BVG-Website
+67|BVG-Apps
+68|Kauf das Ticket auf dem Handy
+69|U-Bahn- und S-Bahn-Linien
+70|Wenn du ein Papierticket kaufst, entwerte es vor der Fahrt im kleinen Entwerter.
+71|Für die Fahrt zum oder vom Flughafen brauchst du ein Ticket für die Tarifbereiche ABC.
+72|Highlights der Woche. 📅 Offene Kulturdaten Berlins. Die Titel sind auf Deutsch. Prüfe vor dem Besuch die Seite der Veranstaltung.
+73|visitBerlin: Veranstaltungen
+74|Berlin.de: Veranstaltungskalender der Stadt
+75|Museumsportal: Ausstellungen
+76|Resident Advisor: Clubs und Partys
+77|Berlin hat nur einen Flughafen, den BER (Berlin Brandenburg). Die Terminals 1 und 2 liegen nebeneinander: Schau nach, welches deins ist.
+78|Ein Ticket für alles
+79|Dasselbe Ticket gilt in U-Bahn, S-Bahn, Tram, Bus und Regionalzügen innerhalb der gekauften Tarifbereiche.
+80|Die Tarifbereiche A und B decken die ganze Stadt ab. Bereich C umfasst zusätzlich den Flughafen BER und Potsdam: Für diese Fahrten brauchst du ein ABC-Ticket.
+81|Wo man es kauft
+82|An den Automaten in Bahnhöfen und auf Bahnsteigen oder per Handy mit den BVG-Apps. In Bussen zahlt man bargeldlos mit Karte.
+83|Entwerten nicht vergessen
+84|Papiertickets werden vor der Fahrt in den kleinen Entwertern am Bahnsteig oder im Bus gestempelt. In der App gekaufte Tickets sind schon aktiviert.
+85|Es gibt keine Sperren
+86|Man geht direkt zum Bahnsteig, aber Kontrolleure in Zivil sind unterwegs. Ohne gültiges Ticket ist das Bußgeld hoch.
+87|Wenn du mehrere Tage bleibst
+88|Es lohnen sich die 24-Stunden-Karte oder die Berlin WelcomeCard, die zusätzlich Rabatte in Museen und Attraktionen bietet.
+89|13. November 2026, anhand der Websites von BVG und Flughafen BER. Wenn etwas abweicht, gelten die Aushänge im Nahverkehr.
+90|U-Bahn und S-Bahn
+91|Die U-Bahn fährt fast überall unterirdisch. Die S-Bahn ist die Stadtbahn an der Oberfläche. Umsteigen kostet nichts extra.
+92|Von Montag bis Donnerstag ist nachts für einige Stunden Betriebspause. In den Nächten von Freitag und Samstag fahren sie durchgehend.
+93|Die Linien S41 und S42 umrunden das Zentrum komplett: praktisch, um das Viertel zu wechseln, ohne durch Mitte zu fahren.
+94|Achte auf die Anzeige am Bahnsteig: Sie zeigt die Endstation der Linie, also die Fahrtrichtung.
+95|Kurfürstendamm, Kreuzberg und die East Side Gallery
+96|Hauptbahnhof, Brandenburger Tor, Museumsinsel, Alexanderplatz
+97|Friedrichstraße und Checkpoint Charlie (Kochstraße)
+98|Charlottenburg, Schöneberg, Kreuzberg und Neukölln
+99|Alexanderplatz, Kottbusser Tor und Neukölln
+100|S-Bahn: durchquert das Zentrum von Ost nach West
+101|Ostbahnhof, Alexanderplatz, Friedrichstraße, Hauptbahnhof und Zoologischer Garten
+102|Ringbahn: der Ring um das Zentrum
+103|Die S41 fährt in die eine Richtung, die S42 in die andere
+104|Tram und Bus
+105|Tram
+106|Sie fährt vor allem im Osten der Stadt. Linien mit einem M fahren häufiger und mehrere fahren die ganze Nacht.
+107|Eine normale Linie, die an den bekanntesten Orten vorbeifährt, zwischen Zoologischer Garten und Alexanderplatz: eine Stadtrundfahrt zum Preis eines Tickets.
+108|Nachts
+109|Wenn die U-Bahn schließt, fahren Nachtbusse (mit dem Buchstaben N) ähnliche Strecken.
+110|Nutze Google Maps oder die App BVG Fahrinfo: Sie zeigen Linie, Haltestelle und Wartezeit.
+111|Regionalzüge
+112|Zum Flughafen
+113|Der FEX und die Regionalzüge verbinden den Hauptbahnhof mit dem Flughafen BER. Auch die S-Bahn-Linie S9 fährt hin.
+114|Nach Potsdam
+115|Regionalzüge und die Linie S7. Du brauchst ein ABC-Ticket.
+116|Große Bahnhöfe
+117|Hauptbahnhof, Ostbahnhof, Südkreuz, Gesundbrunnen und Zoologischer Garten.
+118|Sie sind cremefarben, mit gelbem Dachschild und Taxameter. Man nimmt sie am Taxistand, auf der Straße oder per App.
+119|Uber, Bolt und FREENOW funktionieren in der ganzen Stadt und zeigen den Preis vor der Fahrt.
+120|Am Flughafen nutze den offiziellen Taxistand oder den ausgeschilderten Bereich für App-Fahrzeuge. Nimm keine Angebote im Terminal an.
+121|Leihräder
+122|In der ganzen Stadt gibt es Räder und E-Scooter mehrerer Anbieter; entsperrt werden sie über die jeweilige App.
+123|Achtung, Radweg
+124|Viele Gehwege haben einen Radweg, manchmal rot markiert. Geh dort nicht: Die Räder sind schnell unterwegs.
+125|Mitte erkundet man zu Fuß. Berliner warten auf Grün, auch wenn niemand kommt.
+126|Google Maps, BVG Fahrinfo (Verbindungen) und BVG Tickets (Fahrkarten). Für Züge: DB Navigator.
+127|Wolt und Lieferando.
+128|Am häufigsten: Taschendiebe
+129|Es passiert vor allem in vollen U- und S-Bahnen, in großen Bahnhöfen und an belebten Orten wie dem Alexanderplatz.
+130|Trag den Rucksack vorn und halte die Taschen geschlossen, besonders beim Ein- und Aussteigen.
+131|In Bars und auf Terrassen: Lass das Handy nicht auf dem Tisch liegen und häng den Rucksack nicht an die Stuhllehne.
+132|Wenn dich jemand plötzlich ablenkt (um eine Unterschrift bittet, etwas mit einem Stadtplan fragt), achte auf deine Sachen und geh weiter.
+133|Gegenden, in denen du aufmerksam sein solltest
+134|Berlin ist eine sichere Stadt; an diesen Orten lohnt es sich, aufmerksamer zu sein, vor allem nachts.
+135|Alexanderplatz und Umgebung am frühen Morgen.
+136|Görlitzer Park und die Gegend um das Kottbusser Tor (Kreuzberg): Dort wird mit Drogen gehandelt. Tagsüber passiert meist nichts; nachts besser umgehen.
+137|Warschauer Straße und die Umgebung der Clubs in Friedrichshain beim Verlassen am frühen Morgen.
+138|Große Bahnhöfe bei Nacht: Lass dein Gepäck nicht unbeaufsichtigt.
+139|Das Hütchenspiel: In Touristengegenden wird auf der Straße gewettet. Es ist manipuliert und die Gewinner sind Komplizen.
+140|Die Unterschriften: Man bittet dich, für einen guten Zweck zu unterschreiben, und verlangt dann Geld oder nutzt die Gelegenheit, dich zu bestehlen.
+141|Gebrauchte Tickets: Leute bieten neben den Automaten günstigere Fahrkarten an. Meist sind sie abgelaufen.
+142|Automaten mit hohen Gebühren: In Touristengegenden gibt es Geldautomaten, die keiner Bank gehören und viel mehr verlangen.
+143|Weiterverkaufte Karten vor Clubs und Konzerten: Sie sind meist gefälscht.
+144|Mit der Vorsicht, die in jeder Großstadt gilt, verlaufen die allermeisten Besuche ohne Probleme.
+145|Der Nahverkehr fährt am Wochenende die ganze Nacht und ist ein sicherer Weg zurück.
+146|Wenn du bestohlen wirst, erstatte Anzeige auf einer Wache oder online auf der Website der Polizei Berlin. Du brauchst sie für die Versicherung.
+147|Schließ eine Reiseversicherung ab: Die medizinische Versorgung ist sehr gut, aber ohne Versicherung teuer.
+148|Online-Anzeige
+149|Website der Polizei Berlin (auf Deutsch).
+150|Notdienst-Apotheken
+151|Suche nach jetzt geöffneten Apotheken (auf Deutsch).
+152|Touristeninformationen
+153|Wo sie sind und wann sie öffnen, auf der Website von visitBerlin.
+154|Hauptbahnhof
+155|Im Erdgeschoss, am Eingang Europaplatz. Infos, Stadtpläne und Verkauf der Berlin WelcomeCard.
+156|Brandenburger Tor
+157|Im südlichen Torhaus. Infos und Stadtpläne vor Ort.
+158|Im Humboldt Forum, gegenüber der Museumsinsel.
+159|Flughafen BER
+160|Im Terminal 1. Infos gleich nach der Ankunft.
+161|Polizeiwache am Alexanderplatz
+162|Polizeiwache direkt auf dem Platz, eingerichtet für die belebteste Gegend der Stadt.
+163|Polizeiabschnitt 57
+164|Wenige Straßen vom Alexanderplatz. Anzeigen bei Diebstahl oder Verlust von Dokumenten.
+165|Polizeiabschnitt 53
+166|Kreuzberg-Nord
+167|Nahe Checkpoint Charlie.
+168|Polizeiabschnitt 28
+169|Am nächsten zum Hauptbahnhof.
+170|Polizeiabschnitt 25
+171|Am nächsten zu Kurfürstendamm und Zoologischem Garten.
+172|Polizeiabschnitt 51
+173|Am nächsten zur East Side Gallery und Warschauer Straße.
+174|Universitätsklinikum. Notaufnahme rund um die Uhr.
+175|Öffentlich. Notaufnahme rund um die Uhr; am nächsten zu Kreuzberg und Neukölln.
+176|Notaufnahme rund um die Uhr; nahe Zoologischer Garten.
+177|Notaufnahme rund um die Uhr; am nächsten zum Schloss Charlottenburg.
+178|Universitätsklinikum. Notaufnahme rund um die Uhr, auch für Kinder.
+179|Berlin Hauptbahnhof
+180|Züge in ganz Deutschland und Europa sowie zum Flughafen. S-Bahn und U5.
+181|Zentraler Omnibusbahnhof (ZOB)
+182|Fernbusse. Erreichbar mit der S-Bahn (Messe Nord) oder der U2 (Kaiserdamm).
+183|Fernzüge und S-Bahn. Wenige Schritte von der East Side Gallery.
+184|Der Bahnhof des Westens: S-Bahn, U2, U9, Regionalzüge und viele Busse.
+185|Flughafen Berlin Brandenburg (BER)
+186|Berlins einziger Flughafen. 30 bis 45 Minuten mit dem Zug ins Zentrum.
+187|Steckdosenadapter Typ F (230 V)
+188|Den Besuch der Reichstagskuppel und der gefragtesten Museen rechtzeitig buchen
+189|Das ABC-Ticket am Flughafen kaufen und entwerten
+190|Etwas Bargeld an einem Bankautomaten abheben
+191|Euro (EUR).
+192|In Berlin wird noch viel bar bezahlt. Manche Bars, Kioske und Marktstände nehmen keine Karten: Hab immer etwas Bargeld dabei.
+193|Akzeptiert in Hotels, Supermärkten, Museen und fast allen Restaurants, auch per Handy.
+194|Geldautomaten
+195|Nutze Bankautomaten. Wenn dir die Abrechnung in deiner Währung angeboten wird, wähle immer Euro: Der Kurs des Automaten ist schlechter.
+196|Man rundet auf oder gibt 5 bis 10 %. Man lässt es nicht auf dem Tisch liegen: Beim Bezahlen nennst du den Gesamtbetrag, den du zahlen möchtest.
+197|Pfand
+198|Auf Flaschen und Dosen ist Pfand, das du beim Kauf bezahlst. Du bekommst es zurück, wenn du sie an den Automaten im Supermarkt abgibst.
+199|Berliner Zeiten
+200|Mittagessen von 12 bis 14 Uhr und Abendessen von 18 bis 21 Uhr. Viele Küchen schließen früh: Nach 22 Uhr ist es schwer, noch etwas zu essen zu finden.
+201|Sonntage
+202|Läden und Supermärkte sind geschlossen. Offen bleiben die in den großen Bahnhöfen, Spätis und Restaurants.
+203|Viele haben montags geschlossen. Prüfe es vor dem Besuch.
+204|Bars füllen sich nach 22 Uhr. Clubs legen nach Mitternacht los und manche gehen bis zum nächsten Tag.
+205|Frühling (Apr.–Mai)
+206|Mild und die Stadt blüht. Eine sehr gute Zeit.
+207|Sommer (Juni–Aug.)
+208|Lange Tage, zwischen 20 und 30 °C. Die Stadt lebt in Parks, an Seen und auf Terrassen.
+209|Herbst (Sept.–Okt.)
+210|Kühl und angenehm, mit weniger Touristen.
+211|Winter (Nov.–März)
+212|Kalt, um 0 °C, und es wird am Nachmittag dunkel. Im Dezember gibt es die Weihnachtsmärkte.
+213|230 V. Stecker Typ F (zwei runde Stifte). Wenn du aus Argentinien kommst, bring einen Adapter mit.
+214|In vielen Bahnhöfen, Cafés und Museen gibt es kostenloses WLAN. Für mobile Daten ist eine eSIM am einfachsten.
+215|Deutsch. In Touristengegenden sprechen fast alle Englisch.
+216|Öffentliche Toiletten
+217|Sie kosten meist etwas, auch in Bahnhöfen und Einkaufszentren. Hab Münzen parat.
+218|Apotheken erkennst du am Kreuz oder am roten A. Außerhalb der Öffnungszeiten gibt es Notdienst-Apotheken. Notruf: 112.
+219|Man gibt sich die Hand. Fremde siezt man.
+220|Pünktlichkeit
+221|Man kommt pünktlich: zu einer Reservierung, einer Tour oder einem Termin.
+222|In den Clubs
+223|Viele erlauben keine Fotos und kleben die Handykamera mit einem Sticker ab. Über den Einlass entscheidet der Türsteher, und darüber wird nicht diskutiert.
+224|Currywurst, Döner, Buletten, Berliner bzw. Pfannkuchen und Berliner Weisse.
+225|Wörter, die du sehen wirst
+226|Eingang und Ausgang.
+227|Geöffnet und geschlossen.
+228|Gleis und Bahnsteig, in Bahnhöfen.
+229|Fahrkarte und der kleine Automat, an dem man sie stempelt.
+230|Kiosk im Kiez, der bis spät geöffnet hat: Getränke, Süßes und ein paar Lebensmittel.
+231|Das Pfand, das du für Flaschen und Dosen zahlst und zurückbekommst.
+232|Nur Barzahlung.
+233|Ruf die 112 an. Die großen Krankenhäuser haben rund um die Uhr eine Notaufnahme.
+234|Wenn es nicht dringend ist
+235|Die 116 117 ist der ärztliche Bereitschaftsdienst: Man berät dich und sagt dir, wohin du gehen sollst.
+236|Sie heißen Apotheke. Nachts und sonntags gibt es Notdienst-Apotheken; die Liste hängt an der Tür jeder Apotheke.
+237|Sehr empfehlenswert: Die Versorgung ist sehr gut, aber ohne Versicherung teuer.
+238|Die Internationalen Filmfestspiele Berlin, mit öffentlichen Vorführungen in der ganzen Stadt.
+239|Ende April oder Mai
+240|Ein Wochenende, an dem Kunstgalerien ihre neuen Ausstellungen eröffnen, bei freiem Eintritt.
+241|1. Mai
+242|Tag der Arbeit
+243|Feiertag mit Straßenfesten und Demonstrationen, vor allem in Kreuzberg. Es gibt Straßensperrungen.
+244|Mai oder Juni
+245|Karneval der Kulturen
+246|Vier Tage Umzug, Musik und Essen aus aller Welt in Kreuzberg, am Pfingstwochenende.
+247|21. Juni
+248|Fête de la Musique
+249|Kostenlose Musik auf Plätzen, in Parks und an Straßenecken in der ganzen Stadt.
+250|Christopher Street Day (CSD)
+251|Eine der größten Pride-Paraden Europas, mit Umzug durch das Zentrum.
+252|Ende August
+253|Lange Nacht der Museen
+254|An einem Samstag im Jahr öffnen Dutzende Museen bis in die Nacht, mit nur einem Ticket.
+255|Berlin-Marathon
+256|Einer der schnellsten Marathons der Welt; an diesem Sonntag gibt es Straßensperrungen.
+257|3. Oktober
+258|Tag der Deutschen Einheit
+259|Nationalfeiertag: Geschäfte geschlossen und Feiern nahe dem Brandenburger Tor.
+260|Oktober
+261|Festival of Lights
+262|Die bekanntesten Gebäude werden mehrere Nächte lang mit Projektionen beleuchtet.
+263|9. November
+264|Jahrestag des Mauerfalls
+265|Gedenkveranstaltungen und Rundgänge an der Gedenkstätte Berliner Mauer und entlang des ehemaligen Verlaufs.
+266|Ende November und Dezember
+267|Weihnachtsmärkte
+268|Dutzende Märkte mit Glühwein, Essen und Kunsthandwerk auf Plätzen in der ganzen Stadt.
+269|31. Dezember
+270|Silvester
+271|Open-Air-Party am Brandenburger Tor und Feuerwerk. Der Nahverkehr fährt die ganze Nacht.
+272|Mitte und die Museumsinsel
+273|Tiergarten und Charlottenburg
+274|Kreuzberg und Friedrichshain
+275|Neukölln und Schöneberg
+276|Mitte und Tiergarten
+277|Kreuzberg, Friedrichshain und Prenzlauer Berg

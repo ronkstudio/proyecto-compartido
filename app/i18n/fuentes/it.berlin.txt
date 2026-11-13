@@ -1,0 +1,277 @@
+1|Berlino
+2|Germania
+3|Currywurst, döner, cucina tedesca e dal mondo
+4|Bar, club, musica dal vivo e teatro
+5|Shopping e mercati
+6|Mercati, negozi e zone commerciali
+7|Stadi, parchi e aria aperta
+8|Biglietti, U-Bahn, aeroporto
+9|Vigili del fuoco e ambulanza
+10|Polizia
+11|Guardia medica (non urgente)
+12|Violenza contro le donne
+13|Informazioni turistiche (visitBerlin)
+14|I biglietti dei trasporti e come convalidarli
+15|Storico e monumentale
+16|Il centro: Porta di Brandeburgo, Isola dei Musei, Unter den Linden e Alexanderplatz. Quasi tutto ciò che è imperdibile si raggiunge a piedi da qui.
+17|La base migliore per una prima visita: è tutto vicino.
+18|Tranquillo, bello e per famiglie
+19|Strade alberate, caffè, negozietti e il Mauerpark con il suo mercato delle pulci della domenica.
+20|Ideale per famiglie e per chi cerca calma, a pochi minuti dal centro.
+21|Giovane e notturno
+22|La East Side Gallery, il viale Karl-Marx-Allee, bar e alcuni dei club più noti.
+23|Buono per uscire la sera e con prezzi ragionevoli; può essere rumoroso.
+24|Alternativo e multiculturale
+25|Arte urbana, cibo da tutto il mondo, canali e tanta vita da bar. Qui ci sono anche Checkpoint Charlie e il Museo Ebraico.
+26|Molto vivace; scegli la zona di Bergmannstraße se vuoi qualcosa di più tranquillo.
+27|Di moda e in continuo cambiamento
+28|Bar nuovi, cucina mediorientale e l'enorme parco del vecchio aeroporto di Tempelhof.
+29|Per chi conosce già la città e cerca qualcosa di meno turistico.
+30|Elegante e classico
+31|La Berlino dell'ovest: il viale Kurfürstendamm, il Castello di Charlottenburg e la Chiesa della Memoria.
+32|Comodo, tranquillo e ben collegato; buono per le famiglie.
+33|Residenziale e vario
+34|Quartiere di caffè e mercati, centro storico della comunità LGBT+ attorno a Nollendorfplatz.
+35|Buon rapporto tra prezzo e posizione.
+36|Verde e di ambasciate
+37|Il grande parco del centro, il Reichstag, la Colonna della Vittoria e Potsdamer Platz.
+38|Grandi hotel vicino al parco e alla stazione centrale.
+39|Bar e vita notturna
+40|Passaporto berlinese
+41|Segna i luoghi che conosci e guadagna timbri: musei, mercati, esploratore di quartieri
+42|Berlino dopo mezzanotte
+43|Di mercato in mercato
+44|Un mercato
+45|Berlinese onorario
+46|Fuori Berlino
+47|Nessuna stazione vicina: meglio bus, tram o app
+48|Cosa cerchi? Museo, currywurst, club, Kreuzberg
+49|Es.: Porta di Brandeburgo, East Side Gallery
+50|Es.: Lufthansa, Ryanair, Iberia
+51|Muro di Berlino
+52|Club
+53|Dall'aeroporto BER
+54|Fino al centro (Alexanderplatz)
+55|Treno per il centro
+56|FEX, regionali e S9, con biglietto ABC
+57|Il treno è il mezzo più rapido ed economico: il FEX e i regionali vanno alla stazione centrale, e la linea S9 attraversa il centro.
+58|Compra un biglietto ABC alle macchinette della stazione e timbralo prima di salire.
+59|I taxi ufficiali aspettano in fila davanti al terminal. Non accettare offerte da chi ti avvicina nell'atrio.
+60|In Germania, per attivare una SIM bisogna verificare l'identità con il passaporto: può volerci un po'.
+61|Porta sempre con te un po' di contanti: ci sono ancora bar, chioschi e bancarelle che non accettano la carta.
+62|Preleva agli sportelli delle banche: gli sportelli isolati delle zone turistiche fanno pagare di più.
+63|Se lo sportello o il POS ti propone l'addebito nella tua valuta, scegli di pagare in euro.
+64|Biglietti, zone e come muoversi
+65|Biglietti per turisti
+66|Sito ufficiale di BVG
+67|App di BVG
+68|Compra il biglietto sul cellulare
+69|Linee di U-Bahn e S-Bahn
+70|Se compri un biglietto cartaceo, timbralo nella macchinetta prima di viaggiare.
+71|Per andare o tornare dall'aeroporto serve un biglietto per le zone ABC.
+72|In evidenza questa settimana. 📅 Agenda culturale aperta di Berlino. I titoli sono in tedesco. Controlla la pagina dell'evento prima di andare.
+73|visitBerlin: eventi
+74|Berlin.de: agenda della città
+75|Museumsportal: mostre
+76|Resident Advisor: club e serate
+77|Berlino ha un solo aeroporto, il BER (Berlin Brandenburg). I terminal 1 e 2 sono uno accanto all'altro: controlla qual è il tuo.
+78|Un solo biglietto per tutto
+79|Lo stesso biglietto vale su U-Bahn, S-Bahn, tram, bus e treni regionali all'interno delle zone acquistate.
+80|Le zone A e B coprono tutta la città. La zona C aggiunge l'aeroporto BER e Potsdam: per questi viaggi chiedi un biglietto ABC.
+81|Dove si compra
+82|Alle macchinette nelle stazioni e sui binari, o dal cellulare con le app di BVG. Sui bus si paga senza contanti, con la carta.
+83|Va convalidato
+84|I biglietti cartacei si timbrano nelle macchinette sul binario o sul bus prima di viaggiare. Quelli comprati nell'app sono già attivi.
+85|Non ci sono tornelli
+86|Si entra direttamente al binario, ma passano controllori in borghese. Senza biglietto valido la multa è alta.
+87|Se resti diversi giorni
+88|Convengono il biglietto 24 ore o la Berlin WelcomeCard, che aggiunge sconti per musei e attrazioni.
+89|13 novembre 2026, con i siti di BVG e dell'aeroporto BER. Se qualcosa non coincide, valgono i cartelli dei trasporti.
+90|U-Bahn e S-Bahn
+91|La U-Bahn è la metropolitana, quasi tutta sotterranea. La S-Bahn è il treno urbano, in superficie. Si cambia dall'una all'altra senza pagare di nuovo.
+92|Dal lunedì al giovedì chiudono per qualche ora a notte fonda. Il venerdì e il sabato notte funzionano tutta la notte.
+93|Le linee S41 e S42 fanno il giro completo del centro: servono per cambiare quartiere senza passare da Mitte.
+94|Guarda il cartello sul binario: indica il capolinea, cioè la direzione del treno.
+95|Kurfürstendamm, Kreuzberg e la East Side Gallery
+96|Stazione centrale, Porta di Brandeburgo, Isola dei Musei, Alexanderplatz
+97|Friedrichstraße e Checkpoint Charlie (Kochstraße)
+98|Charlottenburg, Schöneberg, Kreuzberg e Neukölln
+99|Alexanderplatz, Kottbusser Tor e Neukölln
+100|S-Bahn: attraversa il centro da est a ovest
+101|Ostbahnhof, Alexanderplatz, Friedrichstraße, Hauptbahnhof e Zoologischer Garten
+102|Ringbahn: l'anello che circonda il centro
+103|La S41 gira in un senso e la S42 nell'altro
+104|Tram e bus
+105|Tram
+106|Coprono soprattutto l'est della città. Le linee che iniziano con M passano più spesso e diverse funzionano tutta la notte.
+107|Una linea normale che passa per i luoghi più famosi, tra Zoologischer Garten e Alexanderplatz: un giro turistico al prezzo di un biglietto.
+108|Di notte
+109|Quando la U-Bahn chiude, i bus notturni (con la lettera N) fanno percorsi simili.
+110|Usa Google Maps o l'app BVG Fahrinfo: indicano linea, fermata e quanto manca all'arrivo.
+111|Treni regionali
+112|Per l'aeroporto
+113|Il treno FEX e i regionali collegano la stazione centrale (Hauptbahnhof) con l'aeroporto BER. Ci arriva anche la linea S9 della S-Bahn.
+114|Per Potsdam
+115|Treni regionali e linea S7. Serve il biglietto ABC.
+116|Stazioni principali
+117|Hauptbahnhof (la centrale), Ostbahnhof, Südkreuz, Gesundbrunnen e Zoologischer Garten.
+118|Sono color crema, con insegna gialla sul tetto e tassametro. Si prendono ai posteggi, per strada o con l'app.
+119|Uber, Bolt e FREENOW funzionano in tutta la città e mostrano il prezzo prima della corsa.
+120|In aeroporto, usa la fila ufficiale dei taxi o l'area segnalata per le auto delle app. Non accettare offerte dentro il terminal.
+121|Bici condivise
+122|Ci sono bici e monopattini di varie società in tutta la città; si sbloccano dall'app di ciascuna.
+123|Attenzione alla pista ciclabile
+124|Molti marciapiedi hanno una corsia per le bici, a volte segnata in rosso. Non camminarci: le bici vanno veloci.
+125|Mitte si gira a piedi. I berlinesi aspettano il verde per attraversare, anche se non arriva nessuno.
+126|Google Maps, BVG Fahrinfo (percorsi) e BVG Tickets (biglietti). Per i treni, DB Navigator.
+127|Wolt e Lieferando.
+128|La cosa più comune: i borseggiatori
+129|Succede soprattutto su U-Bahn e S-Bahn affollate, nelle grandi stazioni e in luoghi molto frequentati come Alexanderplatz.
+130|Tieni lo zaino davanti e le tasche chiuse, soprattutto quando sali e scendi dal treno.
+131|Nei bar e nei dehors, non lasciare il cellulare sul tavolo né lo zaino appeso alla sedia.
+132|Se qualcuno ti distrae all'improvviso (ti chiede una firma, ti fa una domanda con una mappa), bada alle tue cose e continua a camminare.
+133|Zone dove fare attenzione
+134|Berlino è una città sicura; questi sono luoghi dove conviene stare più attenti, soprattutto di notte.
+135|Alexanderplatz e dintorni a notte fonda.
+136|Görlitzer Park e la zona di Kottbusser Tor (Kreuzberg): c'è spaccio. Di giorno di solito non succede nulla; di notte è meglio girarci intorno.
+137|Warschauer Straße e i dintorni dei club di Friedrichshain all'uscita, a notte fonda.
+138|Le grandi stazioni di notte: non lasciare i bagagli incustoditi.
+139|Il gioco dei tre bicchieri: nelle zone turistiche organizzano scommesse per strada. È truccato e chi vince è un complice.
+140|Le firme: ti chiedono di firmare un foglio per una causa benefica e poi pretendono soldi, o ne approfittano per derubarti.
+141|Biglietti usati: persone che offrono biglietti dei trasporti più economici accanto alle macchinette. Di solito sono scaduti.
+142|Sportelli con commissioni alte: nelle zone turistiche ci sono sportelli che non sono di banche e fanno pagare molto di più.
+143|Biglietti rivenduti all'ingresso di club e concerti: di solito sono falsi.
+144|Con le precauzioni di qualsiasi grande capitale, la grande maggioranza delle visite si svolge senza problemi.
+145|I trasporti pubblici funzionano tutta la notte nei fine settimana e sono un modo sicuro per tornare.
+146|Se ti derubano, fai denuncia in un commissariato o online, sul sito della Polizia di Berlino. Ti servirà per l'assicurazione.
+147|Stipula un'assicurazione di viaggio: l'assistenza medica è ottima, ma cara senza copertura.
+148|Denuncia online
+149|Sito della Polizia di Berlino (in tedesco).
+150|Farmacie di turno
+151|Ricerca delle farmacie aperte adesso (in tedesco).
+152|Uffici turistici
+153|Dove sono e quando aprono, sul sito di visitBerlin.
+154|Stazione centrale
+155|Al piano terra, dall'ingresso di Europaplatz. Informazioni, mappe e vendita della Berlin WelcomeCard.
+156|Porta di Brandeburgo
+157|Nell'edificio sud della porta. Informazioni e mappe di persona.
+158|Dentro l'Humboldt Forum, di fronte all'Isola dei Musei.
+159|Aeroporto BER
+160|Al Terminal 1. Informazioni appena arrivi.
+161|Commissariato di Alexanderplatz
+162|Posto di polizia sulla piazza stessa, pensato per la zona più frequentata della città.
+163|Commissariato 57
+164|A pochi isolati da Alexanderplatz. Denunce per furti o smarrimento di documenti.
+165|Commissariato 53
+166|Kreuzberg nord
+167|Vicino a Checkpoint Charlie.
+168|Commissariato 28
+169|Il più vicino alla stazione centrale.
+170|Commissariato 25
+171|Il più vicino a Kurfürstendamm e Zoologischer Garten.
+172|Commissariato 51
+173|Il più vicino alla East Side Gallery e a Warschauer Straße.
+174|Ospedale universitario. Pronto soccorso 24 ore.
+175|Pubblico. Pronto soccorso 24 ore; il più vicino a Kreuzberg e Neukölln.
+176|Pronto soccorso 24 ore; vicino a Zoologischer Garten.
+177|Pronto soccorso 24 ore; il più vicino al Castello di Charlottenburg.
+178|Ospedale universitario. Pronto soccorso 24 ore, anche pediatrico.
+179|Berlin Hauptbahnhof (stazione centrale)
+180|Treni per tutta la Germania e l'Europa, e per l'aeroporto. S-Bahn e U5.
+181|Autostazione (ZOB)
+182|Pullman a lunga percorrenza. Si raggiunge con la S-Bahn (Messe Nord) o la U2 (Kaiserdamm).
+183|Treni a lunga percorrenza e S-Bahn. A due passi dalla East Side Gallery.
+184|La stazione dell'ovest: S-Bahn, U2, U9, regionali e molti bus.
+185|Aeroporto Berlin Brandenburg (BER)
+186|L'unico aeroporto di Berlino. Tra 30 e 45 minuti dal centro in treno.
+187|Adattatore per presa di tipo F (230 V)
+188|Prenotare per tempo la visita alla cupola del Reichstag e i musei più richiesti
+189|Comprare il biglietto dei trasporti per le zone ABC in aeroporto e timbrarlo
+190|Prelevare un po' di contanti a uno sportello bancario
+191|Euro (EUR).
+192|A Berlino si usano ancora molto. Ci sono bar, chioschi e bancarelle che non accettano la carta: porta sempre un po' di contanti.
+193|Accettate in hotel, supermercati, musei e quasi tutti i ristoranti, anche con il cellulare.
+194|Sportelli bancomat
+195|Usa quelli delle banche. Se ti propongono l'addebito nella tua valuta, scegli sempre di pagare in euro: il cambio dello sportello è peggiore.
+196|Si arrotonda o si lascia tra il 5 e il 10 %. Non si lascia sul tavolo: al momento di pagare, dici quanto vuoi pagare in totale.
+197|Vuoti a rendere
+198|Bottiglie e lattine hanno una cauzione che si paga all'acquisto. Te la restituiscono quando le riporti alle macchine dei supermercati.
+199|Orari berlinesi
+200|Pranzo dalle 12 alle 14 e cena dalle 18 alle 21. Molte cucine chiudono presto: dopo le 22 è difficile trovare dove cenare.
+201|Domeniche
+202|Negozi e supermercati sono chiusi. Restano aperti quelli delle grandi stazioni, i chioschi e i ristoranti.
+203|Molti chiudono il lunedì. Verifica prima di andare.
+204|I bar si riempiono dopo le 22. I club iniziano dopo mezzanotte e alcuni vanno avanti fino al giorno dopo.
+205|Primavera (apr–mag)
+206|Mite e con la città in fiore. Ottimo periodo.
+207|Estate (giu–ago)
+208|Giornate lunghe, tra 20 e 30 °C. La città vive nei parchi, sui laghi e nei dehors.
+209|Autunno (set–ott)
+210|Fresco e piacevole, con meno turisti.
+211|Inverno (nov–mar)
+212|Freddo, intorno a 0 °C, e fa buio a metà pomeriggio. A dicembre ci sono i mercatini di Natale.
+213|230 V. Presa di tipo F (due spinotti tondi). Se arrivi dall'Argentina, porta un adattatore.
+214|C'è Wi-Fi gratuito in molte stazioni, caffè e musei. Per avere dati, la soluzione più semplice è una eSIM.
+215|Tedesco. Nelle zone turistiche quasi tutti parlano inglese.
+216|Bagni pubblici
+217|Di solito sono a pagamento, anche nelle stazioni e nei centri commerciali. Tieni delle monete a portata di mano.
+218|Le farmacie hanno una croce o una A rossa. Fuori orario ci sono le farmacie di turno. Emergenze: 112.
+219|Ci si dà la mano. Con gli sconosciuti si usa il Lei.
+220|Puntualità
+221|Si arriva in orario: a una prenotazione, a un tour o a un appuntamento.
+222|Nei club
+223|Molti non permettono di fare foto e coprono la fotocamera del cellulare con un adesivo. L'ingresso lo decide il buttafuori e non si discute.
+224|Currywurst, döner kebab, le polpette chiamate Buletten, il krapfen ripieno chiamato Berliner o Pfannkuchen, e la birra Berliner Weisse.
+225|Parole che vedrai
+226|Entrata e uscita.
+227|Aperto e chiuso.
+228|Binario e banchina, nelle stazioni.
+229|Biglietto, e la macchinetta dove si timbra.
+230|Chiosco di quartiere aperto fino a tardi: bevande, dolciumi e qualche alimentare.
+231|La cauzione che paghi per bottiglie e lattine, e che ti viene restituita.
+232|Solo contanti.
+233|Chiama il 112. I grandi ospedali hanno il pronto soccorso 24 ore su 24.
+234|Se non è urgente
+235|Il 116 117 è la guardia medica: ti orientano e ti dicono dove andare.
+236|Si chiamano Apotheke. Di notte e la domenica ci sono farmacie di turno; l'elenco è sulla porta di qualsiasi farmacia.
+237|Molto consigliata: l'assistenza è ottima, ma cara senza copertura.
+238|Il festival internazionale del cinema di Berlino, con proiezioni aperte al pubblico in tutta la città.
+239|Fine aprile o maggio
+240|Un fine settimana in cui le gallerie d'arte aprono le nuove mostre, a ingresso libero.
+241|1º maggio
+242|Festa dei lavoratori
+243|Giorno festivo con feste in strada e manifestazioni, soprattutto a Kreuzberg. Ci sono chiusure al traffico.
+244|Maggio o giugno
+245|Carnevale delle Culture
+246|Quattro giorni di sfilata, musica e cibo da tutto il mondo a Kreuzberg, nel fine settimana di Pentecoste.
+247|21 giugno
+248|Festa della Musica
+249|Musica gratis in piazze, parchi e angoli di tutta la città.
+250|Pride (CSD)
+251|Uno dei pride più grandi d'Europa, con sfilata in centro.
+252|Fine agosto
+253|Lunga Notte dei Musei
+254|Un sabato all'anno, decine di musei aprono fino a notte fonda con un solo biglietto.
+255|Maratona di Berlino
+256|Una delle maratone più veloci al mondo; quella domenica ci sono chiusure al traffico.
+257|3 ottobre
+258|Giorno dell'Unità tedesca
+259|Festa nazionale: negozi chiusi e festeggiamenti vicino alla Porta di Brandeburgo.
+260|Ottobre
+261|Festival delle Luci
+262|Gli edifici più famosi si illuminano con proiezioni per diverse notti.
+263|9 novembre
+264|Anniversario della caduta del Muro
+265|Cerimonie e percorsi al Memoriale del Muro e lungo l'antico tracciato.
+266|Fine novembre e dicembre
+267|Mercatini di Natale
+268|Decine di mercatini con vin brulé, cibo e artigianato nelle piazze di tutta la città.
+269|31 dicembre
+270|Capodanno
+271|Festa all'aperto alla Porta di Brandeburgo e fuochi d'artificio. I trasporti funzionano tutta la notte.
+272|Mitte e l'Isola dei Musei
+273|Tiergarten e Charlottenburg
+274|Kreuzberg e Friedrichshain
+275|Neukölln e Schöneberg
+276|Mitte e Tiergarten
+277|Kreuzberg, Friedrichshain e Prenzlauer Berg
