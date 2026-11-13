@@ -114,7 +114,7 @@
   const prefs = Object.assign({ days: 1, names: {}, cur: "USD", start: "", checks: {}, updated: 0 }, store.get(K.prefs, {}));
   prefs.profile = Object.assign({ diets: [], budget: 0, kids: false }, prefs.profile || {});
   prefs.profile.diets = prefs.profile.diets.filter(d => d !== "kosher" && d !== "halal");   // filtros que ya no existen (tarjeta #139)
-  const savePrefs = () => { prefs.updated = Date.now(); store.set(K.prefs, prefs); queueSync(); };
+  const savePrefs = () => { prefs.updated = Date.now(); store.set(K.prefs, prefs); };
   /* Fecha de cada día del viaje (si el usuario cargó cuándo llega). */
   const dayDate = d => { if (!prefs.start) return null; const dt = new Date(prefs.start + "T12:00:00"); if (isNaN(dt)) return null; dt.setDate(dt.getDate() + d - 1); return dt; };
   const dayDow = d => { const dt = dayDate(d); return dt ? dt.getDay() : null; };
@@ -129,7 +129,6 @@
     store.set(K.plan, plan);
     prefs.updated = Date.now(); store.set(K.prefs, prefs);
     paintBadge();
-    queueSync();
   };
 
   /* ── Pasaporte porteño (tarjeta #37): lugares visitados y sellos. Las reglas de cada sello están en caba-extra.js. ── */
@@ -197,79 +196,15 @@
   const fitsMe = p => p.cat !== "comer" || profile.diets.every(d => p.diet.indexOf(d) > -1);
   const mine = p => (profile.diets.length && p.cat === "comer" && fitsMe(p)) ? 1 : 0;
 
-  /* ── Cuentas (tarjeta #35). Opcionales, con Supabase. Quedan APAGADAS mientras config.js esté vacío. ──
-     Lo único que se guarda de la persona es su mail (lo maneja Supabase) y su viaje.
-     Pasos para encenderlas: CUENTAS.md.
-     OJO: esta parte NO se pudo probar contra un servidor real. Hay que probarla al encenderla. */
-  const CFG = window.GUIA_CONFIG || {};
-  const accountsOn = !!(CFG.supabaseUrl && CFG.supabaseAnonKey);
-  let sb = null, user = null, syncTimer = null, authMsg = "";
-  /* Se cumple cuando ya sabemos si la persona tiene la sesión iniciada (o si las cuentas no andan). Lo usa la bienvenida (tarjeta #146). */
-  let authListo;
-  const authReady = new Promise(r => { authListo = r; });
-  /* Manda el enlace para entrar. La sesión queda guardada en el dispositivo: no se vuelve a pedir el mail (persistSession). */
-  const enviarEnlace = mail => sb.auth.signInWithOtp({ email: mail, options: { emailRedirectTo: location.href.split("#")[0] } });
-  const paintAccountBtn = () => { const b = $("#account-btn"); if (b) { b.classList.toggle("in", !!user); b.setAttribute("aria-label", user ? "Mi cuenta (sesión iniciada)" : "Mi cuenta"); } };
-  const applyCloud = d => {
-    if (!d || !Array.isArray(d.plan)) return;
-    plan = d.plan.filter(x => x && byId[x.id]);
-    const remote = d.prefs || {};
-    Object.keys(remote).forEach(k => { if (k !== "profile") prefs[k] = remote[k]; });
-    if (remote.profile) Object.assign(profile, remote.profile);
-    store.set(K.plan, plan); store.set(K.prefs, prefs);
-    paintBadge();
-  };
-  const pushCloud = () => {
-    if (!sb || !user) return;
-    sb.from("viajes").upsert({ user_id: user.id, datos: { plan, prefs }, actualizado: new Date().toISOString() })
-      .then(r => { if (r.error) console.warn("No se pudo guardar el viaje en la cuenta:", r.error.message); });
-  };
-  const queueSync = () => { if (!sb || !user) return; clearTimeout(syncTimer); syncTimer = setTimeout(pushCloud, 2000); };
-  /* Al entrar: gana lo más nuevo entre lo guardado en la cuenta y lo de este dispositivo. */
-  const pullCloud = () => sb.from("viajes").select("datos").eq("user_id", user.id).maybeSingle().then(r => {
-    const d = r.data && r.data.datos;
-    if (d && d.prefs && (d.prefs.updated || 0) > (prefs.updated || 0)) { applyCloud(d); toast("Recuperamos tu viaje guardado"); }
-    else if (plan.length || prefs.updated) pushCloud();
-    if (sheetId === null) rerender();
-  });
-  const startAccounts = () => {
-    if (!accountsOn) { authListo(); return; }
-    const s = document.createElement("script");
-    s.src = "https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.45.4/dist/umd/supabase.min.js";
-    s.onload = () => {
-      sb = window.supabase.createClient(CFG.supabaseUrl, CFG.supabaseAnonKey, { auth: { flowType: "pkce", detectSessionInUrl: true, persistSession: true } });
-      sb.auth.onAuthStateChange((event, session) => {
-        const was = user;
-        user = session ? session.user : null;
-        paintAccountBtn();
-        if (event === "INITIAL_SESSION") authListo();
-        if (user) cerrarBienvenida(false);
-        if (user && !was) pullCloud();
-        else if (route().name === "cuenta") rerender();
-      });
-    };
-    s.onerror = () => { authMsg = "No pudimos conectar con el servicio de cuentas. Probá más tarde."; authListo(); };
-    document.head.appendChild(s);
-  };
-  const viewAccount = () => {
+  /* "Mi perfil de viaje" va dentro de Mi viaje, plegado (antes estaba en "Mi cuenta"; las cuentas se sacaron en la tarjeta #148). */
+  const profileHtml = () => {
     const chip = (data, on, label) => '<button class="chip' + (on ? " on" : "") + '" ' + data + ' aria-pressed="' + on + '">' + label + "</button>";
-    let cuenta;
-    if (!accountsOn) {
-      cuenta = '<div class="account-box"><b>Las cuentas todavía no están encendidas</b><p class="hint" style="margin:4px 0 0">Por ahora tu viaje y tu perfil se guardan solo en este dispositivo. Cuando se activen vas a poder entrar con tu mail y tener todo en cualquier celular o compu.</p></div>';
-    } else if (user) {
-      cuenta = '<div class="account-box account-in"><p class="acct-ok"><span aria-hidden="true">✅</span> Sesión iniciada</p><p>Entraste como <b data-notr>' + esc(user.email || "tu cuenta") + '</b></p><p class="hint" style="margin:4px 0 0">Tu viaje se guarda en tu cuenta. En este dispositivo ya no te vamos a pedir el mail. Lo único que sabemos de vos es tu mail.</p>' +
-        '<p class="plan-actions" style="margin:12px 0 0"><button class="btn" data-signout>Cerrar sesión</button><button class="btn danger" data-wipe>Borrar lo guardado en mi cuenta</button></p></div>';
-    } else {
-      cuenta = '<form class="account-box" id="login-form"><label for="login-mail"><b>Creá tu cuenta o entrá con tu mail</b></label><p class="hint" style="margin:4px 0 0">Solo tu mail, sin contraseña: te mandamos un enlace y con tocarlo ya estás adentro. Lo único que guardamos es tu mail y tu viaje.</p>' +
-        '<div class="search"><input id="login-mail" name="mail" type="email" required placeholder="tu@mail.com" autocomplete="email"><button>Enviar enlace</button></div>' +
-        (authMsg ? '<p class="status ok" style="margin-top:10px">' + esc(authMsg) + "</p>" : "") + "</form>";
-    }
-    return '<h1 class="page-title">Mi cuenta</h1><p class="page-sub">Tu cuenta y tu perfil de viaje.</p>' + cuenta +
-      '<section class="section">' + head("Mi perfil de viaje") + '<p class="hint">Contanos cómo viajás y la guía se acomoda: marca lo que es apto para vos y arma el viaje con eso.</p><div class="wiz">' +
+    const n = profile.diets.length + (profile.budget ? 1 : 0) + (profile.kids ? 1 : 0);
+    return '<details class="perfil-viaje"' + (store.get("guia.perfilAbierto", 0) ? " open" : "") + '><summary><span aria-hidden="true">🙋</span> <b>Mi perfil de viaje</b>' + (n ? ' <i class="perfil-n">' + n + "</i>" : "") + "</summary>" +
+      '<p class="hint">Contanos cómo viajás y la guía se acomoda: marca lo que es apto para vos y arma el viaje con eso.</p><div class="wiz">' +
       '<h2>¿Comés con alguna condición?</h2><div class="chips wrap">' + DIETS.map(d => chip('data-pdiet="' + d[0] + '"', profile.diets.indexOf(d[0]) > -1, d[1])).join("") + "</div>" +
       '<h2>¿Hasta cuánto querés gastar en cada comida?</h2><div class="chips wrap">' + [[0, "Me da igual"], [1, "$ Económico"], [2, "$$ Medio"], [3, "$$$ Caro"]].map(o => chip('data-pbudget="' + o[0] + '"', profile.budget === o[0], o[1])).join("") + "</div>" +
-      '<h2>¿Viajás con chicos?</h2><div class="chips wrap">' + chip('data-pkids="1"', profile.kids, "Sí") + chip('data-pkids="0"', !profile.kids, "No") + "</div></div></section>" +
-      '<p class="plan-actions" style="margin-top:22px"><a class="btn" href="#/viaje">🧳 Ir a Mi viaje</a></p>';
+      '<h2>¿Viajás con chicos?</h2><div class="chips wrap">' + chip('data-pkids="1"', profile.kids, "Sí") + chip('data-pkids="0"', !profile.kids, "No") + "</div></div></details>";
   };
   const favLabel = id => planOf(id) ? "♥ En mi viaje" : "♡ Guardar";
   const toggleSave = id => {
@@ -918,7 +853,7 @@
     let html = '<h1 class="page-title">Mi viaje</h1><p class="page-sub">Tus lugares guardados, organizados por día. Queda en este dispositivo.</p>';
     if (!plan.length) {
       return html + '<div class="empty"><em>🧳</em><b>Todavía no guardaste nada</b><p>Tocá el corazón de cualquier lugar para sumarlo, o dejá que armemos el recorrido por vos.</p>' +
-        '<p class="plan-actions"><a class="btn primary" href="#/armar">✨ Armar mi viaje automático</a><button class="btn" data-go="' + attr({}) + '">Explorar lugares</button></p></div>';
+        '<p class="plan-actions"><a class="btn primary" href="#/armar">✨ Armar mi viaje automático</a><button class="btn" data-go="' + attr({}) + '">Explorar lugares</button></p></div>' + profileHtml();
     }
     const days = nDays();
     html += '<p class="trip-main"><a class="btn primary" href="#/armar">✨ Armar automático</a><button class="btn" data-shareplan>Compartir</button></p>' +
@@ -947,7 +882,7 @@
     }
     const loose = plan.filter(x => x.day === 0).map(x => byId[x.id]);
     if (loose.length) html += '<section class="day"><div class="day-head"><h2>Sin día asignado</h2></div>' + loose.map((p, i) => planRow(p, i, days, null, loose.length)).join("") + "</section>";
-    return html;
+    return html + profileHtml();
   };
   const nearestOrder = items => {
     const rest = items.slice(), out = [];
@@ -1275,8 +1210,8 @@
     view.innerHTML = r.name === "explorar" ? viewExplore() : r.name === "mapa" ? viewMap() : r.name === "barrios" ? viewBarrios()
       : r.name === "info" ? viewInfo(r.arg) : r.name === "moverse" ? viewInfo("moverse")
       : r.name === "consejos" ? viewInfo(r.arg === "practica" || r.arg === "calendario" ? r.arg : "seguridad")
-      : r.name === "viaje" || r.name === "guardados" ? viewTrip() : r.name === "itinerario" ? viewItinerary(r.arg)
-      : r.name === "armar" ? viewWizard() : r.name === "cuenta" ? viewAccount() : r.name === "pasaporte" ? viewPassport() : viewHome();
+      : r.name === "viaje" || r.name === "guardados" || r.name === "cuenta" ? viewTrip() : r.name === "itinerario" ? viewItinerary(r.arg)
+      : r.name === "armar" ? viewWizard() : r.name === "pasaporte" ? viewPassport() : viewHome();
     paintResults();
     paintConv();
     const key = NAV[r.name] || r.name;
@@ -1367,42 +1302,7 @@
     const si = w.querySelector(".aviso-si"); if (si) si.focus();
   };
 
-  /* Bienvenida con cuenta (pedido de Bautista, 13/11/2026, tarjeta #146): la primera vez que alguien abre la guía le ofrecemos
-     crear su cuenta con el mail, o seguir como invitado. Sale una sola vez por dispositivo y nunca si ya tiene la sesión iniciada.
-     Después sale el aviso de Info de arriba. Si sigue como invitado, el campo del mail queda en "Mi cuenta". */
-  const BIENV_KEY = "guia.bienvenidaCuenta";
-  let bienvW = null;
-  const cerrarBienvenida = seguir => {
-    if (!bienvW) return;
-    store.set(BIENV_KEY, 1);
-    bienvW.remove(); bienvW = null;
-    document.removeEventListener("keydown", bienvEsc);
-    if (seguir) setTimeout(mostrarAviso, 300);
-  };
-  const bienvEsc = ev => { if (ev.key === "Escape") cerrarBienvenida(true); };
-  const mostrarBienvenida = () => {
-    const w = bienvW = document.createElement("div");
-    w.className = "aviso-fondo";
-    w.innerHTML = '<div class="aviso bienv" role="dialog" aria-modal="true" aria-labelledby="bienv-t">' +
-      '<div class="aviso-ico" aria-hidden="true">🧳</div>' +
-      '<h2 id="bienv-t">Guardá tu viaje</h2>' +
-      "<p>Creá tu cuenta con tu mail y tené tu viaje en el celular y en la compu.</p>" +
-      '<form id="bienv-form" class="bienv-form"><label class="sr-only" for="bienv-mail">Tu mail</label>' +
-      '<input id="bienv-mail" name="mail" type="email" required placeholder="tu@mail.com" autocomplete="email">' +
-      '<button class="btn aviso-si">Crear mi cuenta</button></form>' +
-      '<p class="bienv-msg" id="bienv-msg" role="status"></p>' +
-      '<p class="bienv-hint">Sin contraseña: te mandamos un enlace y con tocarlo ya estás adentro. En este dispositivo no te lo vamos a volver a pedir.</p>' +
-      '<div class="aviso-bot"><button type="button" class="aviso-no" data-bienv="no">Seguir como invitado</button></div>' +
-      "<small>Podés crearla cuando quieras desde Mi cuenta (👤).</small></div>";
-    w.addEventListener("click", ev => { if (ev.target.closest("[data-bienv]")) cerrarBienvenida(true); });
-    document.addEventListener("keydown", bienvEsc);
-    document.body.appendChild(w);
-  };
-  /* Mientras se espera saber si hay sesión, como mucho 5 segundos. Si vuelve del enlace del mail (?code=), no se ofrece nada. */
-  Promise.race([authReady, new Promise(r => setTimeout(r, 5000))]).then(() => setTimeout(() => {
-    if (accountsOn && sb && !user && !store.get(BIENV_KEY, 0) && !/[?&]code=/.test(location.search)) mostrarBienvenida();
-    else mostrarAviso();
-  }, 600));
+  setTimeout(mostrarAviso, 600);
 
   /* Copiar al portapapeles con aviso. Si el navegador no deja (sin permiso, o abierto como archivo), lo dice (tarjeta #52). */
   const copyText = (text, okMsg) => {
@@ -1512,13 +1412,6 @@
       if (profile.kids && i < 0) wiz.interests.push("chicos"); else if (!profile.kids && i > -1) wiz.interests.splice(i, 1);
       savePrefs(); rerender(); return;
     }
-    if (t.closest("[data-signout]")) { if (sb) sb.auth.signOut(); return; }
-    if (t.closest("[data-wipe]")) {
-      if (sb && user && window.confirm("¿Borrar lo que está guardado en tu cuenta? En este dispositivo no se borra nada.")) {
-        sb.from("viajes").delete().eq("user_id", user.id).then(r => toast(r.error ? "No se pudo borrar. Probá de nuevo." : "Listo: borramos lo guardado en tu cuenta"));
-      }
-      return;
-    }
     if ((el = t.closest("[data-showmap]"))) { focusId = el.getAttribute("data-showmap"); goExplore({ mode: "mapa" }); return; }
     if (t.closest("[data-clear]")) { resetFilters({ sort: f.sort }); if ($("#q")) $("#q").value = ""; paintFilters(); return; }
     if ((el = t.closest("[data-go]"))) { goExplore(JSON.parse(el.getAttribute("data-go"))); return; }
@@ -1529,38 +1422,14 @@
     if ((el = t.closest("[data-diet]"))) { const d = el.getAttribute("data-diet"), i = f.diets.indexOf(d); if (i > -1) f.diets.splice(i, 1); else f.diets.push(d); paintFilters(); return; }
     if ((el = t.closest("[data-open]"))) { openPlace(el.getAttribute("data-open")); return; }
   });
+  /* Que "Mi perfil de viaje" quede abierto o cerrado como lo dejó la persona, aunque la pantalla se vuelva a dibujar. */
+  document.addEventListener("toggle", e => { if (e.target.classList && e.target.classList.contains("perfil-viaje")) store.set("guia.perfilAbierto", e.target.open ? 1 : 0); }, true);
   document.addEventListener("keydown", e => {
     if (e.key === "Escape") closeSheet();
     if ((e.key === "Enter" || e.key === " ") && e.target.matches && e.target.matches("article[data-open], div.row[data-open]")) { e.preventDefault(); openPlace(e.target.getAttribute("data-open")); }
   });
   document.addEventListener("submit", e => {
     if (e.target.id === "home-search") { e.preventDefault(); goExplore({ q: e.target.q.value.trim() }); }
-    if (e.target.id === "bienv-form") {
-      e.preventDefault();
-      const msg = document.getElementById("bienv-msg"), boton = e.target.querySelector("button");
-      if (!sb) { msg.textContent = "Todavía estamos conectando con el servicio de cuentas. Probá en unos segundos."; return; }
-      boton.disabled = true;
-      enviarEnlace(e.target.mail.value.trim()).then(r => {
-        boton.disabled = false;
-        if (r.error) { msg.className = "bienv-msg err"; msg.textContent = "No pudimos enviar el enlace: " + r.error.message; return; }
-        store.set(BIENV_KEY, 1);
-        const caja = e.target.closest(".aviso");
-        caja.querySelector(".aviso-ico").textContent = "📬";
-        caja.querySelector("h2").textContent = "¡Revisá tu mail!";
-        e.target.remove(); caja.querySelector(".bienv-hint").remove(); caja.querySelector("small").remove();
-        msg.className = "bienv-msg ok";
-        msg.textContent = "Te mandamos un enlace. Abrilo en este mismo dispositivo y ya vas a estar adentro.";
-        const seguir = caja.querySelector("[data-bienv]"); seguir.textContent = "Seguir mientras tanto";
-      });
-    }
-    if (e.target.id === "login-form") {
-      e.preventDefault();
-      if (!sb) { authMsg = "Todavía estamos conectando con el servicio de cuentas. Probá en unos segundos."; rerender(); return; }
-      enviarEnlace(e.target.mail.value.trim()).then(r => {
-        authMsg = r.error ? "No pudimos enviar el enlace: " + r.error.message : "Listo: revisá tu mail y tocá el enlace para entrar.";
-        rerender();
-      });
-    }
     if (e.target.id === "route-form") {
       e.preventDefault();
       const to = e.target.to.value.trim();
@@ -1611,7 +1480,6 @@
   loadWeather();
   loadFx();
   loadForecast();
-  startAccounts();
   /* La guía se actualiza sola: cada vez que se abre o se vuelve a ella, busca si hay una versión nueva;
      si la hay, recarga la página una vez para mostrarla. */
   if ("serviceWorker" in navigator && /^https?:$/.test(location.protocol)) {

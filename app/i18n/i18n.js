@@ -84,7 +84,7 @@
   };
 
   const ponerBoton = () => {
-    const cuenta = document.getElementById("account-btn");
+    const cuenta = document.getElementById("sos-btn");   // el botón de idioma va a la derecha del de ayuda (el de "Mi cuenta" se sacó, tarjeta #148)
     if (!cuenta || document.getElementById("lang-btn")) return;
     const b = document.createElement("button");
     b.type = "button";
@@ -94,7 +94,7 @@
     b.setAttribute("aria-haspopup", "dialog");
     b.innerHTML = '<span aria-hidden="true">🌐</span><b>' + lang.toUpperCase() + "</b>";
     b.addEventListener("click", abrir);
-    cuenta.parentNode.insertBefore(b, cuenta);
+    cuenta.parentNode.insertBefore(b, cuenta.nextSibling);
   };
 
   document.documentElement.lang = lang;

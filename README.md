@@ -31,13 +31,12 @@ Qué está hecho, qué se probó y qué falta: [app/ESTADO.md](app/ESTADO.md).
 | Ciudades nuevas | Berlín, Madrid, Roma y París, una por tarjeta. Primero la estructura (Info, Hoy, mapa) y después los lugares, cuando Bautista apruebe la estructura. Por ahora solo Berlín | Bautista, 13/11. Tarjetas #98 a #102 |
 | Agenda de Hoy en Berlín | Agenda cultural abierta de Berlín, solo los distritos céntricos y sin trámites de biblioteca. Títulos en alemán | 13/11. Tarjeta #99 |
 | Avisos de paros, marchas y cortes | Los carga a mano una persona en `app/data/avisos.json`, con fechas y fuente, y se apagan solos al terminar. La guía no los detecta sola. Siempre se muestran, en Info > Ayuda, links para fijarse antes de salir | Bautista, 13/11. Tarjeta #120 |
-| Cuentas de usuario | Solo con el mail, sin contraseña (llega un enlace). Servicio: Supabase, cuenta creada por Bautista. La clave pública no va en el repositorio: se carga en las variables de GitHub y la publicación la pone en la copia publicada | Bautista, 13/11. Tarjetas #35 y #140 |
+| Cuentas de usuario | **No hay.** La guía funciona sin usuario ni mail: todo queda guardado en el dispositivo. Se probaron con Supabase y se sacaron (pocos mails por hora en el plan gratis, el enlace del mail se trababa entre dispositivos, y guardar mails obliga a cumplir con los datos personales). Tampoco va un botón para pasar el viaje a otro dispositivo | Bautista, 13/11. Tarjetas #35, #140 y #148 |
 ## Lo que falta decidir
 
 - **Qué idiomas siguen** (tarjeta #11). Hoy están completos español, inglés y portugués; francés, italiano, alemán, chino y japonés tienen solo el menú.
 - **Zonas turísticas y mínimos por tipo de local** (tarjeta #45), y cómo se verifica cada local antes de cargarlo.
 - **Cartel de "versión de prueba"** en la copia publicada: sí o no. Hoy no lo tiene.
-- **Cuentas de usuario:** están preparadas pero apagadas. Ver [app/CUENTAS.md](app/CUENTAS.md).
 - **Filtros sin TACC y kosher:** si se muestran antes de confirmar los lugares uno por uno.
 - **El nombre de la app.**
 

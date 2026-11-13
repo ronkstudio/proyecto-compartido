@@ -2,7 +2,7 @@
 
 Para los dos Claude: acá está escrito qué se hizo, qué se probó y qué falta. **Actualizalo cada vez que cambies algo de `app/`.**
 
-Última actualización: 13 de noviembre de 2026, Claude de `ronkstudio` (tarjeta #146).
+Última actualización: 13 de noviembre de 2026, Claude de `ronkstudio` (tarjeta #148).
 
 Todo lo que se describe acá está en `main`.
 
@@ -20,7 +20,7 @@ Las decisiones del proyecto y las que faltan están en el `README.md` de la carp
 ## Para decidir entre Bautista y Besser
 
 1. **¿La copia publicada lleva cartel de "versión de prueba, datos sin verificar"?** Ya está publicada (ver "Publicar") y hoy no lo tiene. Lo propuso el Claude de `ezebesserr`.
-2. **¿Se encienden las cuentas?** Hay que resolver lo de la clave pública (ver `CUENTAS.md`).
+2. ~~¿Se encienden las cuentas?~~ Decidido el 13/11: no hay cuentas (tarjeta #148).
 3. **¿Se muestran los filtros sin TACC y kosher** antes de confirmar los lugares uno por uno?
 4. **¿Qué idiomas siguen?** (tarjeta #11). Hoy están completos español, inglés y portugués; los otros cinco tienen solo el menú.
 
@@ -42,7 +42,7 @@ Las decisiones del proyecto y las que faltan están en el `README.md` de la carp
 - **Mapa:** todos los lugares con ubicación, 6 capas de zonas (turísticas, dónde alojarse, noche, gastronomía, compras, parques) y 22 puntos de ayuda.
 - **Mi viaje:** guardar lugares por día, ordenar por cercanía, ver el día en el mapa, ruta en Google Maps, compartir e imprimir. Con fecha de llegada avisa si algo cierra ese día y muestra el pronóstico de cada día.
 - **Armado automático:** con días, intereses, presupuesto y ritmo arma el recorrido por zonas. Respeta la dieta del perfil.
-- **Mi cuenta y perfil de viaje:** dieta, presupuesto y si viaja con chicos. La guía marca "Apto para vos". Las cuentas con mail están preparadas pero apagadas (`CUENTAS.md`).
+- **Perfil de viaje (dentro de Mi viaje):** dieta, presupuesto y si viaja con chicos. La guía marca "Apto para vos". No hay cuentas de usuario (tarjeta #148).
 - **Pasaporte porteño:** marcar "Ya fui" y ganar 16 sellos. Las reglas de cada sello están en `data/caba-extra.js`.
 - **Inicio:** sugerencias según la hora, el día y el clima; "Hoy en tu viaje"; colecciones; itinerarios; eventos del mes; conversor de moneda.
 - **Info:** moverse, seguridad, ayuda, info práctica (con checklist y calculadora de propina) y calendario.
@@ -74,7 +74,7 @@ Estas pruebas las hizo el Claude de `ronkstudio` antes de que se sacara el mapa 
 
 ## Qué NO se probó
 
-- **Las cuentas de usuario.** Nada: sin un proyecto de Supabase no hay cómo. Es lo primero que hay que probar al encenderlas.
+- **Las cuentas de usuario.** Se sacaron (tarjeta #148).
 - "Cerca mío" y "Mi ubicación" con el permiso real de un celular (en la compu se probaron con una ubicación simulada).
 - Compartir con el menú del celular, la ventana de impresión de verdad, y que los enlaces de Uber, Google Maps, Booking, WhatsApp y teléfonos abran bien (se revisó que estén bien armados, no se abrieron).
 - Cortar internet de verdad y usar la app, y la instalación en el celular.
@@ -86,8 +86,8 @@ Estas pruebas las hizo el Claude de `ronkstudio` antes de que se sacara el mapa 
 - **Sin TACC, kosher y halal son temas de salud y de fe.** Hay 5 lugares sin TACC y 7 kosher, todos con fuente (su web, CeliMap o la guía kosher de Time Out). Halal: no encontramos restaurantes con certificado; Al Rawshe figura como halal en reseñas y la guía lo aclara. No hay opciones sin lactosa.
 - **Berlín no tiene lugares todavía.** Es la etapa 2 y empieza cuando Bautista apruebe la estructura. Madrid, Roma y París no se empezaron (Bautista, 13/11).
 - **Halal y kosher ya no son filtros (#139).** Bautista pidió sacarlos (13/11/2026). Se sacaron de los filtros de dieta, del perfil de viaje y del tipo "Kosher" en Dónde comer. Los 7 lugares kosher pasaron a su tipo de cocina (parrilla, pizzería, de autor, dulces, etc.) y en su ficha sigue diciendo que son kosher. Si alguien tenía elegido kosher o halal en su perfil, se borra solo.
-- **Cuentas con mail (#140), encendidas:** "Mi cuenta" dice "Creá tu cuenta o entrá con tu mail": solo el mail, sin contraseña (llega un enlace). Los datos de Supabase están en las variables de GitHub (`SUPABASE_URL` y `SUPABASE_ANON_KEY`) y la publicación los pone sola en la copia publicada, así la clave no va en el repositorio (si la dirección se pega con algo de más, la publicación la limpia, #145). Pasos en `CUENTAS.md`. Falta que una persona pruebe todo el recorrido con su mail.
-- **Bienvenida con cuenta (#146):** la primera vez que alguien abre la guía le aparece "Guardá tu viaje": pone su mail y toca "Crear mi cuenta", o toca "Seguir como invitado". Sale una sola vez por dispositivo y nunca si ya tiene la sesión iniciada; después sale el aviso de Info. La sesión queda guardada en el dispositivo: no se vuelve a pedir el mail. En otro dispositivo pone el mail y entra. Con la sesión iniciada, "Mi cuenta" muestra "Sesión iniciada" y ya no aparece el campo del mail; si siguió como invitado, el campo queda ahí. Se probó en la compu: aparece, "invitado" la cierra y no vuelve, y el campo queda en "Mi cuenta". Falta probar con un mail real (que llegue el enlace y quede adentro).
+- **Cuentas con mail (#140):** se encendieron y probaron con Supabase, y después se sacaron (ver #148).
+- **Sin cuentas (#148):** Bautista decidió que la guía funcione sin usuario ni mail. Se sacó la pantalla "Guardá tu viaje" (#146), el botón 👤, "Mi cuenta", el inicio de sesión con Supabase y el paso de la publicación que lo encendía. "Mi perfil de viaje" (comidas, presupuesto, chicos) pasó al final de "Mi viaje", plegado. Quien tenga guardado el enlace viejo a "Mi cuenta" cae en "Mi viaje". "Armar tu viaje" no cambió.
 - **Barrio + categoría:** algunos barrios no tienen nada en ciertas categorías (por ejemplo, salidas de noche en La Boca o Belgrano). Es esperable en barrios residenciales y no se completó.
 - **Las plazas de barrio** (etiqueta "vida de barrio") tienen descripciones genéricas. Se sumaron para que cada barrio tenga algo, con nombre y ubicación reales, pero sin conocer cada una.
 - **No está todo lo que se puede hacer en la ciudad.** Son 534 lugares. Bautista pidió (11/11) llegar a 5 por categoría en cada barrio, sin inventar: hoy solo Centro, Palermo, Recoleta y San Telmo se acercan. En los barrios residenciales no hay 5 hoteles ni 5 excursiones reales, así que esa meta ahí no se va a cumplir. La tarjeta #45 propone un mínimo de locales por tipo en cada zona turística.
@@ -114,7 +114,7 @@ Hasta el 13/11 estuvo en `ronkstudio/menu-3d-publico/guia-buenos-aires/`. Ese re
 - No escribir precios ni horarios exactos: cambian seguido. Se usan niveles ($ a $$$$) y "suele cerrar los lunes".
 - Si sumás un premio o un dato oficial, anotá de dónde salió.
 - Lo de salud (sin TACC, kosher, alergias) solo con una fuente, y siempre con el aviso de confirmar en el local.
-- Nada de claves ni contraseñas en los archivos. `config.js` va vacío.
+- Nada de claves ni contraseñas en los archivos. Las cuentas se sacaron: no hay `config.js`.
 
 - **Se actualiza sola (#71):** al abrir o volver a la guía busca si hay versión nueva y, si la hay, recarga una vez. Ya no hace falta cerrarla y abrirla.
 
