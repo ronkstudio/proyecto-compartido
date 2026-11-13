@@ -118,7 +118,7 @@
 118|Argentinischer Peso
 119|Bevor du losgehst
 120|Wo du Hilfe bekommst
-121|Tourismus, Polizei, Krankenhäuser
+121|Polizei, Konsulate, Krankenhäuser
 122|Unterwegs
 123|SUBE-Karte, U-Bahn, Flughäfen
 124|Was du meiden solltest
@@ -797,3 +797,35 @@
 797|Streiks und Demos in den heutigen Nachrichten.
 798|Av. del Libertador in Palermo gesperrt
 799|Wegen des Abbaus der Bühnen vom Papstbesuch ist die Av. del Libertador zwischen Av. Olleros und Ugarteche gesperrt. Plane mehr Zeit ein oder nimm die Subte.
+800|Konsulate und Botschaften
+801|Dein Land ist nicht dabei?
+802|Such sein Konsulat oder seine Botschaft auf der Karte.
+803|Hilfe: Notfälle, Polizei, Konsulate
+804|Generalkonsulat
+805|Botschaft
+806|Botschaft mit Konsularabteilung
+807|Pässe, Dokumente und Hilfe für die eigenen Staatsangehörigen.
+808|Pässe, Dokumente und Hilfe für die eigenen Staatsangehörigen. Notfalltelefon auf der Website.
+809|Hilfe für die eigenen Staatsangehörigen: Pässe und Dokumente.
+810|Hilfe für die eigenen Staatsangehörigen: Pässe und Dokumente. Liegt weit vom Zentrum: am besten mit Taxi oder App.
+811|Stadtpolizei. Für Anzeigen; im Notfall 911 anrufen.
+812|Brasilien
+813|Chile
+814|Spanien
+815|Italien
+816|Frankreich
+817|Vereinigte Staaten
+818|Vereinigtes Königreich
+819|Kanada
+820|Deutschland
+821|Portugal
+822|Japan
+823|China
+824|Mexiko
+825|Kolumbien
+826|Paraguay
+827|Bolivien
+828|Ecuador
+829|Venezuela
+830|Israel
+831|Konsulate und Botschaften

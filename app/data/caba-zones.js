@@ -138,6 +138,7 @@ window.CITY_ZONES.caba = {
   helpTypes: {
     info: { name: "Información turística", icon: "ℹ️", color: "#1a73c8" },
     policia: { name: "Policía y denuncias", icon: "👮", color: "#364fc7" },
+    consul: { name: "Consulados y embajadas", icon: "🛂", color: "#0b7285" },
     salud: { name: "Hospitales con guardia 24 h", icon: "🏥", color: "#e03131" },
     transporte: { name: "Terminales y aeropuertos", icon: "🚉", color: "#5f3dc4" }
   },
@@ -150,6 +151,40 @@ window.CITY_ZONES.caba = {
       note: "Reclamos por hoteles, alquileres, agencias o comercios, y ayuda ante pérdida de documentos. Gratuito, con personal bilingüe." },
     { id: "comisaria-turista", type: "policia", name: "Comisaría del Turista", address: "Av. Corrientes 436, Centro", ll: [-34.60335, -58.37298], tel: "+541150509260",
       note: "Atención en varios idiomas para denuncias, robos o pérdida de pasaporte. Guardia las 24 horas." },
+    /* Comisarías vecinales en los barrios turísticos (tarjeta #121). Fuente: datos abiertos de la Ciudad, "Comisarías Policía de la Ciudad"
+       (data.buenosaires.gob.ar, consultado el 13/11/2026), con su ubicación. */
+    { id: "com-1f", type: "policia", name: "Comisaría Vecinal 1-F", address: "Perú 1050, San Telmo", ll: [-34.62024, -58.37409], note: "Policía de la Ciudad. Para denuncias; en una emergencia llamá al 911." },
+    { id: "com-4c", type: "policia", name: "Comisaría Vecinal 4-C", address: "Pinzón 456, La Boca", ll: [-34.6341, -58.3607], note: "Policía de la Ciudad. Para denuncias; en una emergencia llamá al 911." },
+    { id: "com-1b", type: "policia", name: "Comisaría Vecinal 1-B", address: "Tacuarí 770, Monserrat", ll: [-34.61716, -58.37858], note: "Policía de la Ciudad. Para denuncias; en una emergencia llamá al 911." },
+    { id: "com-1e", type: "policia", name: "Comisaría Vecinal 1-E", address: "Av. Ing. Huergo 1500, Puerto Madero", ll: [-34.62368, -58.36541], note: "Policía de la Ciudad. Para denuncias; en una emergencia llamá al 911." },
+    { id: "com-1a", type: "policia", name: "Comisaría Vecinal 1-A", address: "Suipacha 1156, Retiro", ll: [-34.59464, -58.38004], note: "Policía de la Ciudad. Para denuncias; en una emergencia llamá al 911." },
+    { id: "com-2a", type: "policia", name: "Comisaría Vecinal 2-A", address: "Av. Gral. Las Heras 1861, Recoleta", ll: [-34.59114, -58.39236], note: "Policía de la Ciudad. Para denuncias; en una emergencia llamá al 911." },
+    { id: "com-14a", type: "policia", name: "Comisaría Vecinal 14-A", address: "Julián Álvarez 2373, Palermo", ll: [-34.58777, -58.4161], note: "Policía de la Ciudad. Para denuncias; en una emergencia llamá al 911." },
+    { id: "com-14c", type: "policia", name: "Comisaría Vecinal 14-C", address: "República Árabe Siria 2961, Palermo", ll: [-34.58127, -58.41366], note: "Policía de la Ciudad. Para denuncias; en una emergencia llamá al 911." },
+    { id: "com-13a", type: "policia", name: "Comisaría Vecinal 13-A", address: "Artilleros 2081, Belgrano", ll: [-34.55489, -58.44413], note: "Policía de la Ciudad. Para denuncias; en una emergencia llamá al 911." },
+    /* Consulados y embajadas (tarjeta #121), de los países de los idiomas de la guía y de la región. Direcciones consultadas el 13/11/2026:
+       consulados de Brasil, Chile, España e Italia en sus webs oficiales; el resto, en la guía de representaciones extranjeras de la Cancillería
+       argentina (cancilleria.gob.ar). Ubicación: OpenStreetMap. Sin horarios: casi todos atienden con turno; se saca en su web.
+       Uruguay no está: su consulado se mudó en 2025 y no encontré la dirección nueva en una fuente oficial. Perú tampoco: el dato de Cancillería no cierra. */
+    { id: "cons-br", type: "consul", name: "Brasil · Consulado General", address: "Carlos Pellegrini 1363, 5.º piso, Retiro", ll: [-34.59198, -58.3814], note: "Pasaportes, documentos y ayuda a sus ciudadanos." },
+    { id: "cons-cl", type: "consul", name: "Chile · Consulado General", address: "Av. Pres. Roque Sáenz Peña 547, 2.º piso, Centro", ll: [-34.60741, -58.3743], note: "Pasaportes, documentos y ayuda a sus ciudadanos. Tiene teléfono de emergencias en su web." },
+    { id: "cons-es", type: "consul", name: "España · Consulado General", address: "Guido 1770, Recoleta", ll: [-34.59044, -58.38959], note: "Pasaportes, documentos y ayuda a sus ciudadanos." },
+    { id: "cons-it", type: "consul", name: "Italia · Consulado General", address: "Reconquista 572, Centro", ll: [-34.60129, -58.3727], note: "Pasaportes, documentos y ayuda a sus ciudadanos." },
+    { id: "cons-fr", type: "consul", name: "Francia · Consulado General", address: "Basavilbaso 1253, Retiro", ll: [-34.59353, -58.37715], note: "Pasaportes, documentos y ayuda a sus ciudadanos." },
+    { id: "emb-us", type: "consul", name: "Estados Unidos · Embajada", address: "Av. Colombia 4300, Palermo", ll: [-34.57666, -58.41877], note: "Ayuda a sus ciudadanos: pasaportes y documentos." },
+    { id: "emb-uk", type: "consul", name: "Reino Unido · Embajada y sección consular", address: "Dr. Luis Agote 2412, Recoleta", ll: [-34.58524, -58.39524], note: "Ayuda a sus ciudadanos: pasaportes y documentos." },
+    { id: "emb-ca", type: "consul", name: "Canadá · Embajada", address: "Tagle 2828, Palermo", ll: [-34.57978, -58.39772], note: "Ayuda a sus ciudadanos: pasaportes y documentos." },
+    { id: "emb-de", type: "consul", name: "Alemania · Embajada y sección consular", address: "Villanueva 1055, Belgrano", ll: [-34.56679, -58.43941], note: "Ayuda a sus ciudadanos: pasaportes y documentos." },
+    { id: "emb-pt", type: "consul", name: "Portugal · Embajada", address: "Maipú 942, 17.º piso, Retiro", ll: [-34.59702, -58.3773], note: "Ayuda a sus ciudadanos: pasaportes y documentos." },
+    { id: "emb-jp", type: "consul", name: "Japón · Embajada", address: "Bouchard 547, 17.º piso, Centro", ll: [-34.60153, -58.36881], note: "Ayuda a sus ciudadanos: pasaportes y documentos." },
+    { id: "emb-cn", type: "consul", name: "China · Embajada", address: "Av. Crisólogo Larralde 5349, Saavedra", ll: [-34.56279, -58.49607], note: "Ayuda a sus ciudadanos: pasaportes y documentos. Queda lejos del centro: llegá en taxi o app." },
+    { id: "emb-mx", type: "consul", name: "México · Embajada", address: "Arcos 1650, Belgrano", ll: [-34.56492, -58.45051], note: "Ayuda a sus ciudadanos: pasaportes y documentos." },
+    { id: "emb-co", type: "consul", name: "Colombia · Embajada", address: "Carlos Pellegrini 1363, 3.er piso, Retiro", ll: [-34.59198, -58.3814], note: "Ayuda a sus ciudadanos: pasaportes y documentos." },
+    { id: "emb-py", type: "consul", name: "Paraguay · Embajada", address: "Av. Gral. Las Heras 2545, Recoleta", ll: [-34.58524, -58.39916], note: "Ayuda a sus ciudadanos: pasaportes y documentos." },
+    { id: "emb-bo", type: "consul", name: "Bolivia · Embajada", address: "Av. Corrientes 545, 2.º piso, Centro", ll: [-34.60312, -58.37456], note: "Ayuda a sus ciudadanos: pasaportes y documentos." },
+    { id: "emb-ec", type: "consul", name: "Ecuador · Embajada", address: "Av. Quintana 585, 9.º piso, Recoleta", ll: [-34.58775, -58.39053], note: "Ayuda a sus ciudadanos: pasaportes y documentos." },
+    { id: "emb-ve", type: "consul", name: "Venezuela · Embajada y sección consular", address: "Av. Luis María Campos 170, Palermo", ll: [-34.57503, -58.43137], note: "Ayuda a sus ciudadanos: pasaportes y documentos." },
+    { id: "emb-il", type: "consul", name: "Israel · Embajada", address: "Av. de Mayo 701, 10.º piso, Monserrat", ll: [-34.60853, -58.37672], note: "Ayuda a sus ciudadanos: pasaportes y documentos." },
     { id: "h-fernandez", type: "salud", name: "Hospital Fernández", address: "Cerviño 3356, Palermo", ll: [-34.58137, -58.40694], note: "Público. Guardia 24 h; las urgencias se atienden gratis." },
     { id: "h-rivadavia", type: "salud", name: "Hospital Rivadavia", address: "Av. Las Heras 2670, Recoleta", ll: [-34.58469, -58.40168], note: "Público. Guardia 24 h; las urgencias se atienden gratis." },
     { id: "h-clinicas", type: "salud", name: "Hospital de Clínicas", address: "Av. Córdoba 2351, Recoleta", ll: [-34.59896, -58.40004], note: "Universitario. Guardia 24 h." },
@@ -173,7 +208,7 @@ window.CITY_ZONES.caba = {
   channels: [
     { icon: "💬", name: "Boti, el chat de la Ciudad", desc: "Información turística por WhatsApp.", href: "https://wa.me/5491150500147" },
     { icon: "📝", name: "Denuncia online para turistas", desc: "Sitio de la Policía de la Ciudad.", href: "https://turistas.seguridadciudad.gob.ar" },
-    { icon: "🛂", name: "Encontrar mi consulado", desc: "Busca consulados y embajadas en el mapa.", href: "https://www.google.com/maps/search/?api=1&query=consulado+embajada+Buenos+Aires" }
+    { icon: "🛂", name: "¿Tu país no está en la lista?", desc: "Buscá su consulado o embajada en el mapa.", href: "https://www.google.com/maps/search/?api=1&query=consulado+embajada+Buenos+Aires" }
   ],
   nearby: [["💊", "Farmacia", "farmacia"], ["🏧", "Cajero", "cajero automático"], ["💱", "Casa de cambio", "casa de cambio"], ["🛒", "Supermercado", "supermercado"], ["💳", "Cargar SUBE", "carga SUBE"], ["🧺", "Lavandería", "lavandería"], ["🧳", "Guardaequipaje", "guarda equipaje"], ["📶", "Café con wifi", "café con wifi"], ["👮", "Comisaría", "comisaría"], ["⛽", "Estación de servicio", "estación de servicio"]],
 

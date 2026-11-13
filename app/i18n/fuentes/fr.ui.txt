@@ -118,7 +118,7 @@
 118|Peso argentin
 119|Avant de partir
 120|Où demander de l'aide
-121|Tourisme, police, hôpitaux
+121|Police, consulats, hôpitaux
 122|Se déplacer
 123|SUBE, métro, aéroports
 124|À éviter
@@ -797,3 +797,35 @@
 797|Grèves (Streik) et manifestations (Demo) dans l'actualité du jour.
 798|Av. del Libertador fermée à Palermo
 799|En raison du démontage des scènes de la visite du pape, l'Av. del Libertador est fermée entre l'Av. Olleros et Ugarteche. Prévoyez plus de temps ou prenez le métro.
+800|Consulats et ambassades
+801|Votre pays n'est pas dans la liste ?
+802|Cherchez son consulat ou son ambassade sur la carte.
+803|Aide : urgences, police, consulats
+804|Consulat général
+805|Ambassade
+806|Ambassade et section consulaire
+807|Passeports, documents et aide à ses ressortissants.
+808|Passeports, documents et aide à ses ressortissants. Numéro d'urgence sur son site.
+809|Aide à ses ressortissants : passeports et documents.
+810|Aide à ses ressortissants : passeports et documents. Loin du centre : allez-y en taxi ou VTC.
+811|Police de la Ville. Pour porter plainte ; en cas d'urgence, appelez le 911.
+812|Brésil
+813|Chili
+814|Espagne
+815|Italie
+816|France
+817|États-Unis
+818|Royaume-Uni
+819|Canada
+820|Allemagne
+821|Portugal
+822|Japon
+823|Chine
+824|Mexique
+825|Colombie
+826|Paraguay
+827|Bolivie
+828|Équateur
+829|Venezuela
+830|Israël
+831|consulats et ambassades
