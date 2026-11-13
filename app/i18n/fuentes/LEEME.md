@@ -13,6 +13,10 @@ Para armar un diccionario (Windows):
 
     powershell -ExecutionPolicy Bypass -File armar-dict.ps1 -lang pt -trad . -out ..\dict\pt.js
 
-El armado avisa si una lista traducida no tiene la misma cantidad de líneas que la lista en español.
+O, en cualquier compu con Node (Windows, Mac o Linux), los 7 idiomas de una vez:
+
+    node armar-dict.js todos
+
+Los dos dan exactamente el mismo resultado. El armado avisa si una lista traducida no tiene la misma cantidad de líneas que la lista en español.
 
 Estado: los 7 idiomas (inglés, portugués, francés, italiano, alemán, chino y japonés) están completos. Alemán, chino y japonés se tradujeron el 12/11/2026 partiendo del inglés. Ninguna traducción la revisó todavía una persona que hable el idioma.
