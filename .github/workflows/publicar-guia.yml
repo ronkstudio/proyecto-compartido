@@ -57,6 +57,9 @@ jobs:
           SUPABASE_ANON_KEY: ${{ vars.SUPABASE_ANON_KEY }}
         run: |
           if [ -n "$SUPABASE_URL" ] && [ -n "$SUPABASE_ANON_KEY" ]; then
+            # Si la dirección se pegó con un pedazo de más (por ejemplo ".../rest/v1/"), se deja solo "https://xxxx.supabase.co".
+            SUPABASE_URL=$(printf '%s' "$SUPABASE_URL" | tr -d '[:space:]' | sed -E 's#^(https://[^/]+).*#\1#')
+            SUPABASE_ANON_KEY=$(printf '%s' "$SUPABASE_ANON_KEY" | tr -d '[:space:]')
             printf 'window.GUIA_CONFIG = { supabaseUrl: "%s", supabaseAnonKey: "%s" };\n' "$SUPABASE_URL" "$SUPABASE_ANON_KEY" > _site/config.js
             echo "Cuentas encendidas."
           else
