@@ -882,7 +882,8 @@
     html += '<p class="trip-main"><a class="btn primary" href="#/armar">✨ Armar automático</a><button class="btn" data-shareplan>Compartir</button></p>' +
       '<p class="trip-more"><button class="link" data-addday>＋ Agregar un día</button><button class="link" data-print>Imprimir / PDF</button><a class="link" href="#/pasaporte">🛂 Pasaporte</a><button class="link danger" data-clearplan>Vaciar</button></p>' +
       '<label class="trip-date"><span>¿Qué día llegás?</span><input type="date" id="trip-start" value="' + esc(prefs.start) + '"></label>' +
-      '<p class="hint" style="margin-top:6px">' + (prefs.start ? "Te avisamos en rojo si un lugar suele cerrar el día que lo agendaste." : "Con la fecha te avisamos si algún lugar cierra el día que lo agendaste.") + "</p>";
+      '<p class="hint" style="margin-top:6px">' + (prefs.start ? "Te avisamos en rojo si un lugar suele cerrar el día que lo agendaste." : "Con la fecha te avisamos si algún lugar cierra el día que lo agendaste.") + "</p>" +
+      (prefs.people ? '<p class="trip-people"><b>' + prefs.people + "</b> <span>" + (prefs.people === 1 ? "persona" : "personas") + "</span>" + groupTips(prefs.people).map(s => '<span class="tg">💡 ' + s + "</span>").join("") + "</p>" : "");
     for (let d = 1; d <= days; d++) {
       const items = plan.filter(x => x.day === d).map(x => byId[x.id]);
       const dt = dayDate(d), dow = dt ? dt.getDay() : null;
@@ -931,7 +932,10 @@
   };
 
   /* ── Armado automático del viaje ── */
-  const wiz = { days: 3, interests: ["historia", "gastro"], budget: profile.budget || 2, pace: 4 };
+  const wiz = { days: 3, people: prefs.people || 2, interests: ["historia", "gastro"], budget: profile.budget || 2, pace: 4 };
+  /* Consejos según cuántos viajan (tarjeta #119). No cambia qué lugares se eligen: no tenemos datos de qué lugar recibe grupos. */
+  const groupTips = n => [n >= 5 ? "Con grupo grande, reservá las cenas con tiempo: las mesas grandes se llenan rápido." : "",
+    n >= 5 ? "Más de 4: en taxi o Uber van a necesitar dos autos." : ""].filter(Boolean);
   if (profile.kids) wiz.interests.push("chicos");
   const INTERESTS = [["historia", "🏛️ Historia y arquitectura"], ["arte", "🎨 Arte y museos"], ["naturaleza", "🌳 Parques y aire libre"], ["gastro", "🥩 Gastronomía"], ["noche", LOC.interesNoche || "🍸 Tango y noche"], ["compras", "🛍️ Compras y ferias"], ["futbol", "⚽ Fútbol"], ["deporte", "🏇 Deportes"], ["chicos", "🧒 Viajo con chicos"]];
   const likes = {
@@ -943,21 +947,23 @@
   };
   /* Armá tu viaje, rediseñado: pasos numerados, botones grandes y un botón fijo abajo con el resumen. */
   const viewWizard = () => {
-    const d = wiz.days, ni = wiz.interests.length;
+    const d = wiz.days, ni = wiz.interests.length, pp = wiz.people;
     const tile = (key, val, icon, label, on, extra) => '<button class="wz-tile' + (on ? " on" : "") + '" data-wiz="' + key + ":" + val + '" aria-pressed="' + on + '"><span class="wz-ico" aria-hidden="true">' + icon + "</span><b>" + label + "</b>" + (extra ? "<small>" + extra + "</small>" : "") + "</button>";
     const step = (n, title, hint, body) => '<section class="wz-step"><h2><i aria-hidden="true">' + n + "</i><span>" + title + "</span></h2>" + (hint ? '<p class="wz-hint">' + hint + "</p>" : "") + body + "</section>";
     const BUD = [[1, "$", "Económico"], [2, "$$", "Medio"], [3, "$$$", "Sin mirar mucho"], [4, "$$$$", "Lo mejor"]];
     const PACE = [[3, "🚶", "Tranquilo", "3 visitas por día"], [4, "🙂", "Normal", "4 visitas por día"], [5, "⚡", "Quiero ver todo", "5 visitas por día"]];
-    return '<p><a class="link" href="#/viaje">← Mi viaje</a></p><h1 class="page-title">✨ Armá tu viaje</h1><p class="page-sub">Respondé cinco preguntas y te dejamos un recorrido por zonas, con dónde comer en cada una. Después lo ajustás como quieras.</p>' +
+    return '<p><a class="link" href="#/viaje">← Mi viaje</a></p><h1 class="page-title">✨ Armá tu viaje</h1><p class="page-sub">Respondé seis preguntas y te dejamos un recorrido por zonas, con dónde comer en cada una. Después lo ajustás como quieras.</p>' +
       '<div class="wz">' +
       step(1, "¿Cuántos días te quedás?", "", '<div class="wz-stepper"><button class="wz-pm" data-wiz="days:' + Math.max(1, d - 1) + '" aria-label="Un día menos"' + (d <= 1 ? " disabled" : "") + '>−</button><div class="wz-count"><b>' + d + "</b><span>" + (d === 1 ? "día" : "días") + '</span></div><button class="wz-pm" data-wiz="days:' + Math.min(7, d + 1) + '" aria-label="Un día más"' + (d >= 7 ? " disabled" : "") + ">+</button></div>") +
-      step(2, "¿Qué te interesa?", "Elegí todo lo que quieras.", '<div class="wz-grid">' + INTERESTS.map(i => { const sp = i[1].indexOf(" "); return tile("interests", i[0], i[1].slice(0, sp), i[1].slice(sp + 1), wiz.interests.indexOf(i[0]) > -1); }).join("") + "</div>") +
-      step(3, "¿Cuánto querés gastar en comer?", "", '<div class="wz-grid four">' + BUD.map(o => tile("budget", o[0], o[1], o[2], wiz.budget === o[0])).join("") + "</div>") +
-      step(4, "¿A qué ritmo?", "", '<div class="wz-grid three">' + PACE.map(o => tile("pace", o[0], o[1], o[2], wiz.pace === o[0], o[3])).join("") + "</div>") +
-      step(5, "¿Qué día llegás?", "Opcional. Con la fecha no te agendamos museos el día que cierran.", '<label class="trip-date"><input type="date" id="trip-start" value="' + esc(prefs.start) + '" aria-label="Fecha de llegada"></label>') +
+      step(2, "¿Cuántos viajan?", "", '<div class="wz-stepper"><button class="wz-pm" data-wiz="people:' + Math.max(1, pp - 1) + '" aria-label="Una persona menos"' + (pp <= 1 ? " disabled" : "") + '>−</button><div class="wz-count"><b>' + pp + "</b><span>" + (pp === 1 ? "persona" : "personas") + '</span></div><button class="wz-pm" data-wiz="people:' + Math.min(20, pp + 1) + '" aria-label="Una persona más"' + (pp >= 20 ? " disabled" : "") + ">+</button></div>" +
+        groupTips(pp).map(s => '<p class="wz-hint wz-tipg">💡 ' + s + "</p>").join("")) +
+      step(3, "¿Qué te interesa?", "Elegí todo lo que quieras.", '<div class="wz-grid">' + INTERESTS.map(i => { const sp = i[1].indexOf(" "); return tile("interests", i[0], i[1].slice(0, sp), i[1].slice(sp + 1), wiz.interests.indexOf(i[0]) > -1); }).join("") + "</div>") +
+      step(4, "¿Cuánto querés gastar en comer?", "", '<div class="wz-grid four">' + BUD.map(o => tile("budget", o[0], o[1], o[2], wiz.budget === o[0])).join("") + "</div>") +
+      step(5, "¿A qué ritmo?", "", '<div class="wz-grid three">' + PACE.map(o => tile("pace", o[0], o[1], o[2], wiz.pace === o[0], o[3])).join("") + "</div>") +
+      step(6, "¿Qué día llegás?", "Opcional. Con la fecha no te agendamos museos el día que cierran.", '<label class="trip-date"><input type="date" id="trip-start" value="' + esc(prefs.start) + '" aria-label="Fecha de llegada"></label>') +
       "</div>" +
       (plan.length ? '<p class="wz-warn">Vas a reemplazar tu viaje actual.</p>' : "") +
-      '<div class="wz-bar"><p class="wz-sum"><b>' + d + "</b> <span>" + (d === 1 ? "día" : "días") + "</span> · <b>" + ni + "</b> <span>" + (ni === 1 ? "interés" : "intereses") + "</span> · <b>" + "$$$$".slice(0, wiz.budget) + '</b></p><button class="btn primary big" data-build>✨ Armar mi viaje</button></div>';
+      '<div class="wz-bar"><p class="wz-sum"><b>' + d + "</b> <span>" + (d === 1 ? "día" : "días") + "</span> · <b>" + pp + "</b> <span>👤</span> · <b>" + ni + "</b> <span>" + (ni === 1 ? "interés" : "intereses") + "</span> · <b>" + "$$$$".slice(0, wiz.budget) + '</b></p><button class="btn primary big" data-build>✨ Armar mi viaje</button></div>';
   };
   const buildPlan = () => {
     const Z = X.zones || [];
@@ -1003,7 +1009,7 @@
       sights.slice(0, half).concat(lunch, sights.slice(half), sport, shop, treat, dinner, night).forEach(p => out.push({ id: p.id, day: d }));
     }
     plan = out;
-    prefs.days = wiz.days; prefs.names = names;
+    prefs.days = wiz.days; prefs.names = names; prefs.people = wiz.people;
     savePrefs(); savePlan();
   };
 

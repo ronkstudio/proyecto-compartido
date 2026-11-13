@@ -671,7 +671,7 @@ Guardar Visita guiada al Cementerio de la Recoleta en Mi viaje
 Guardar Vuelta en bici por Puerto Madero y la Reserva en Mi viaje
 Tus lugares guardados, organizados por día. Queda en este dispositivo.
 Tocá el corazón de cualquier lugar para sumarlo, o dejá que armemos el recorrido por vos.
-Respondé cinco preguntas y te dejamos un recorrido por zonas, con dónde comer en cada una. Después lo ajustás como quieras.
+Respondé seis preguntas y te dejamos un recorrido por zonas, con dónde comer en cada una. Después lo ajustás como quieras.
 Opcional. Con la fecha no te agendamos museos el día que cierran.
 Cómo moverte, qué evitar, dónde pedir ayuda y todo lo práctico.
 Abre Google Maps con el recorrido en transporte público desde donde estás.
@@ -767,3 +767,10 @@ Sin lugares todavía. Asignales este día desde la lista de abajo.
 Te avisamos en rojo si un lugar suele cerrar el día que lo agendaste.
 terminales y aeropuertos. Tocá uno para ver la dirección y cómo llegar.
 Otros deportes
+¿Cuántos viajan?
+persona
+personas
+Una persona menos
+Una persona más
+Con grupo grande, reservá las cenas con tiempo: las mesas grandes se llenan rápido.
+Más de 4: en taxi o Uber van a necesitar dos autos.

@@ -671,7 +671,7 @@
 671|
 672|Deine gespeicherten Orte, nach Tagen geordnet. Auf diesem Gerät gespeichert.
 673|Tippe bei einem Ort auf das Herz, um ihn hinzuzufügen, oder lass uns die Route planen.
-674|Beantworte fünf Fragen und wir geben dir eine Route nach Gegend, mit Essenstipps für jede. Du kannst sie danach anpassen.
+674|Beantworte sechs Fragen und wir geben dir eine Route nach Gegend, mit Essenstipps für jede. Du kannst sie danach anpassen.
 675|Optional. Mit dem Datum planen wir keine Museen an ihrem Ruhetag ein.
 676|Unterwegs, was du meiden solltest, wo du Hilfe bekommst und alles Praktische.
 677|Öffnet Google Maps mit der Route im Nahverkehr von deinem Standort aus.
@@ -767,3 +767,10 @@
 767|Wir warnen dich in Rot, wenn ein Ort an deinem geplanten Tag meist geschlossen hat.
 768|Terminals und Flughäfen. Tippe auf eines, um Adresse und Anfahrt zu sehen.
 769|Weitere Sportarten
+770|Wie viele reisen?
+771|Person
+772|Personen
+773|Eine Person weniger
+774|Eine Person mehr
+775|In einer großen Gruppe das Abendessen früh reservieren: große Tische sind schnell weg.
+776|Mehr als 4: Für Taxi oder Uber braucht ihr zwei Autos.

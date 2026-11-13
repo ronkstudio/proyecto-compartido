@@ -671,7 +671,7 @@
 671|
 672|Seus lugares salvos, organizados por dia. Fica neste dispositivo.
 673|Toque no coração de qualquer lugar para adicioná-lo, ou deixe que montemos o roteiro para você.
-674|Responda cinco perguntas e deixamos um roteiro por zonas, com onde comer em cada uma. Depois você ajusta como quiser.
+674|Responda seis perguntas e deixamos um roteiro por zonas, com onde comer em cada uma. Depois você ajusta como quiser.
 675|Opcional. Com a data, não agendamos museus no dia em que fecham.
 676|Como se locomover, o que evitar, onde pedir ajuda e tudo de prático.
 677|Abre o Google Maps com o trajeto de transporte público a partir de onde você está.
@@ -767,3 +767,10 @@
 767|Avisamos em vermelho se um lugar costuma fechar no dia em que você agendou.
 768|terminais e aeroportos. Toque em um para ver o endereço e como chegar.
 769|Outros esportes
+770|Quantas pessoas viajam?
+771|pessoa
+772|pessoas
+773|Uma pessoa a menos
+774|Uma pessoa a mais
+775|Com grupo grande, reserve os jantares com antecedência: as mesas grandes lotam rápido.
+776|Mais de 4: de táxi ou Uber, vão precisar de dois carros.

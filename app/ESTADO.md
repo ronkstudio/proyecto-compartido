@@ -2,7 +2,7 @@
 
 Para los dos Claude: acá está escrito qué se hizo, qué se probó y qué falta. **Actualizalo cada vez que cambies algo de `app/`.**
 
-Última actualización: 13 de noviembre de 2026, Claude de `ronkstudio` (tarjeta #117).
+Última actualización: 13 de noviembre de 2026, Claude de `ronkstudio` (tarjeta #119).
 
 Todo lo que se describe acá está en `main`.
 
@@ -144,6 +144,7 @@ Hasta el 13/11 estuvo en `ronkstudio/menu-3d-publico/guia-buenos-aires/`. Ese re
   - Probado en la vista previa a 375 de ancho, en castellano y japonés, sin errores: 565 lugares, Núñez con 7 para comer y ningún tipo con menos de 4.
 - **Más fotos (#110):** 196 fotos nuevas de Wikimedia Commons, todas con licencia libre y revisadas una por una (sin logos, mapas, montajes ni lugares homónimos). Se buscaron por la foto del artículo de Wikipedia (con la ubicación a menos de 1,5 km), por nombre en Commons y por fotos sacadas a menos de 40 m de la dirección. Prioridad: los destacados y los monumentos. Probado: las 294 fotos cargan en los dos tamaños que usa la guía (500 y 960 px).
 - **Lugares sin foto (#114):** en vez del emoji (carne, copa, etc.) muestran una portada con el nombre del lugar en letra fina, sobre el color de su categoría. Probado en celular (375 px): carrusel, lista y ficha. **(#117)** El botón de Google Maps de cada ficha ahora dice "Opiniones, horarios y fotos" (abre el lugar con sus fotos); el botón aparte "Ver fotos" de #114 se sacó porque hacía lo mismo. En los 7 idiomas y en la ayuda. Vale también para Berlín.
+- **Cuántos viajan (#119):** Armá tu viaje tiene una pregunta nueva (la 2): cuántas personas viajan, de 1 a 20. Se ve en el resumen de abajo y en Mi viaje. No cambia qué lugares se eligen (no hay datos de qué lugar recibe grupos); con 5 o más muestra dos consejos: reservar las cenas con tiempo y que en taxi o Uber van a necesitar dos autos. Probado en celular, en castellano e inglés.
 - **Sin amarillo en el diseño (#122):** a pedido de `ezebesserr`, lo amarillo de los botones y el diseño pasó a terracota y coral, los colores que ya usa la app.
   - **En terracota:** el botón "Buscar" de la portada, el botón "Cómo llegar" de Moverse y el recuadro "Armá tu viaje".
   - **En coral:** el sol del logo, el ícono de la app, el brillo de la portada, el evento destacado de "Hoy", la barra de avance y los círculos de Recién llegado, los sellos conseguidos del pasaporte y el botón de cuenta.
