@@ -514,21 +514,24 @@
     });
     return out;
   };
-  const hoyRow = it => {
+  /* Tarjeta de carrusel para Hoy (tarjeta #138). Un lugar de la guía usa su foto; un evento usa la foto del lugar donde se hace
+     si ese lugar está en la guía, y si no, una portada con el ícono y la hora. */
+  const hoyTile = it => {
     if (it.p) {
       const p = it.p;
-      return '<button class="event hoy-it" data-open="' + p.id + '"><em aria-hidden="true">' + iconOf(p) + "</em><span><b>" + esc(it.que || p.name) + "</b><span>" +
-        (it.que ? '<i data-notr>' + esc(p.name) + "</i> · " + esc(p.barrio) : esc(p.sub) + " · " + esc(p.barrio)) + "</span></span></button>";
+      return '<button class="tile" style="--c:' + cats[p.cat].color + '" data-open="' + p.id + '">' + media(p, 500, "tile-media") +
+        '<span class="tile-body"><b>' + esc(it.que || p.name) + "</b><span>" + (it.que ? '<i data-notr>' + esc(p.name) + "</i> · " + esc(p.barrio) : esc(p.sub) + " · " + esc(p.barrio)) + "</span></span></button>";
     }
-    if (it.dest) {
-      const d = it.dest;
-      return '<a class="event hoy-it hoy-dest" href="' + esc(d.url) + '" target="_blank" rel="noopener"><em aria-hidden="true">⭐</em><span><b data-notr>' + esc(d.t) + "</b><span>" +
-        (d.lugar ? '<i data-notr>' + esc(d.lugar) + "</i>" : "") + (d.barrio ? " · " + esc(d.barrio) : "") + (d.gratis ? " · Gratis" : "") + "</span></span></a>";
-    }
-    const e = it.ev;
-    return '<a class="event hoy-it" href="' + esc(e.url) + '" target="_blank" rel="noopener"><em aria-hidden="true">' + (it.lugares ? "🎉" : e.serie ? "🖼️" : "📅") + '</em><span><b data-notr>' + esc(e.t) + "</b><span>" +
-      (it.lugares ? "<span>En muchos lugares</span> <span>(" + it.lugares + ")</span>" : esc(it.hora) + (e.lugar ? ' · <i data-notr>' + esc(e.lugar) + "</i>" : "") + (e.barrio ? " · " + esc(e.barrio) : "")) +
-      (e.gratis ? " · Gratis" : "") + "</span></span></a>";
+    const d = it.dest, e = it.ev;
+    const t = d ? d.t : e.t, href = d ? d.url : e.url, lugar = d ? d.lugar : e.lugar, barrio = d ? d.barrio : e.barrio;
+    const lp = lugar && byId[slug(lugar)];
+    const c = (cats[it.franja === "noche" ? "noche" : "ver"] || {}).color || "#5b6b7c";
+    const tag = d ? "⭐ Destacado" : it.lugares ? "🎉" : (e.serie ? "🖼️ " : "📅 ") + esc(it.hora);
+    const cover = lp && lp.photo ? '<span class="media tile-media"><img src="' + esc(photo(lp.photo, 500)) + '" alt="" loading="lazy" decoding="async"><i class="hoy-tag">' + tag + "</i></span>"
+      : '<span class="media noph tile-media" style="--c:' + c + '"><span class="ph-name"><b>' + tag + "</b></span></span>";
+    const sub = it.lugares ? "<span>En muchos lugares</span> <span>(" + it.lugares + ")</span>" : [lugar ? '<i data-notr>' + esc(lugar) + "</i>" : "", barrio ? esc(barrio) : ""].filter(Boolean).join(" · ");
+    return '<a class="tile' + (d ? " hoy-dest" : "") + '" style="--c:' + c + '" href="' + esc(href) + '" target="_blank" rel="noopener">' + cover +
+      '<span class="tile-body"><b data-notr>' + esc(t) + "</b><span>" + sub + ((d ? d.gratis : e.gratis) ? " · Gratis" : "") + "</span></span></a>";
   };
   /* Otras agendas para buscar planes: están en data/<ciudad>-local.js (agendas). Instagram no se puede leer automáticamente; lo que se vea ahí se suma a mano en data/<ciudad>-hoy.js. */
   const MAS_AGENDAS = LOC.agendas || [];
@@ -537,9 +540,8 @@
     const grp = (title, arr) => {
       if (!arr.length) return "";
       arr.sort((a, b) => (a.rango === undefined ? 1 : a.rango) - (b.rango === undefined ? 1 : b.rango) || (a.orden || 0) - (b.orden || 0));
-      const first = arr.slice(0, 4), rest = arr.slice(4);
-      return '<h3 class="hoy-h">' + title + '</h3><div class="events">' + first.map(hoyRow).join("") + "</div>" +
-        (rest.length ? '<details class="hoy-mas"><summary>Ver más <span>(' + rest.length + ')</span></summary><div class="events">' + rest.map(hoyRow).join("") + "</div></details>" : "");
+      /* En carrusel, una al lado de la otra con foto y nombre, como "No te lo podés perder" (tarjeta #138). */
+      return '<h3 class="hoy-h">' + title + '</h3><div class="rail">' + arr.map(hoyTile).join("") + "</div>";
     };
     return '<section class="section" id="hoy">' + head("Hoy en " + esc(city.name)) +
       (items.length ? grp("De día", items.filter(i => i.franja === "dia")) + grp("A la noche", items.filter(i => i.franja === "noche")) : '<p class="hint">Por ahora no hay nada cargado para hoy. Mirá estas agendas.</p>') +
