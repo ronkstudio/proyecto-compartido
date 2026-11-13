@@ -120,7 +120,7 @@
 120|Wo du Hilfe bekommst
 121|Polizei, Konsulate, Krankenhäuser
 122|Unterwegs
-123|SUBE-Karte, U-Bahn, Flughäfen
+123|SUBE, U-Bahn, Taxis
 124|Was du meiden solltest
 125|Betrugsmaschen und Vorsicht
 126|Praktische Infos
@@ -829,3 +829,25 @@
 829|Venezuela
 830|Israel
 831|Konsulate und Botschaften
+832|Fahrten, Essen, Bezahlen
+833|Tippe auf den Button, um die App zu laden. Wenn du sie schon hast, zeigt der Store „Öffnen“.
+834|Öffnen oder laden
+835|Einkaufen und bezahlen
+836|Kommunikation
+837|Fahrten mit Auto und Motorrad. Du siehst den Preis vor der Buchung.
+838|Autofahrten, ebenfalls mit Festpreis vorab.
+839|Autofahrten, meist die günstigste.
+840|Karten und Routen mit U-Bahn, Bus und zu Fuß.
+841|Welcher Bus oder welche U-Bahn, mit Live-Zeiten.
+842|Die öffentlichen Leihräder der Stadt.
+843|Essen, Supermarkt und Apotheke nach Hause. Die meistgenutzte.
+844|Essen und Einkäufe nach Hause.
+845|Viele Geschäfte kassieren über ihren QR-Code.
+846|Um fast alles online zu kaufen.
+847|Hier läuft alles über WhatsApp: Reservierungen, Fragen und Termine.
+848|Routen mit U-Bahn, S-Bahn, Tram und Bus.
+849|Um das Ticket auf dem Handy zu kaufen.
+850|Karten und Routen mit Öffis und zu Fuß.
+851|Autofahrten. Du siehst den Preis vor der Buchung.
+852|Um Taxis zu bestellen.
+853|Die meistgenutzte zum Schreiben und Telefonieren.

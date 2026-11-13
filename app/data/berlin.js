@@ -94,11 +94,6 @@ window.CITY_DATA.berlin = {
       { t: "Cuidado con la bicisenda", d: "Muchas veredas tienen un carril para bicis, a veces marcado en rojo. No camines por ahí: las bicis van rápido." },
       { t: "A pie", d: "Mitte se recorre caminando. Los berlineses esperan la luz verde para cruzar, aunque no venga nadie." }
     ] },
-    { icon: "📱", title: "Apps útiles", items: [
-      { t: "Para moverse", d: "Google Maps, BVG Fahrinfo (recorridos) y BVG Tickets (boletos). Para trenes, DB Navigator." },
-      { t: "Para viajar", d: "Uber, Bolt, FREENOW." },
-      { t: "Para pedir comida", d: "Wolt y Lieferando." }
-    ] }
   ],
 
   /* ───────────── SEGURIDAD ───────────── */

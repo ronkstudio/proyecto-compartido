@@ -5,7 +5,7 @@
 5|Shopping e mercati
 6|Mercati, negozi e zone commerciali
 7|Stadi, parchi e aria aperta
-8|Biglietti, U-Bahn, aeroporto
+8|Biglietti, U-Bahn, taxi
 9|Vigili del fuoco e ambulanza
 10|Polizia
 11|Guardia medica (non urgente)

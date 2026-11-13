@@ -725,3 +725,13 @@ h1, h2, .page-title, .section-head h2, .hero h1, .sheet h2 { font-family: var(--
 @media print { .sos-btn { display: none !important; } }
 /* En celulares angostos se esconde la palabra "Guía" del logo para que entren la ciudad y el botón de ayuda. */
 @media (max-width: 420px) { .brand-text { display: none; } }
+
+/* ── Apps útiles (tarjeta #137) ── */
+.apps { display: grid; gap: 8px; }
+.app-row { display: grid; grid-template-columns: 44px 1fr; gap: 8px 12px; align-items: start; background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 12px 14px; }
+.app-ico { width: 44px; height: 44px; border-radius: 12px; background: linear-gradient(135deg, var(--accent, #2f5d4f), color-mix(in srgb, var(--accent, #2f5d4f) 55%, #fff)); color: #fff; display: grid; place-items: center; font-family: var(--serif); font-size: 20px; font-weight: 700; }
+.app-txt b { display: block; font-size: 15.5px; }
+.app-txt span { font-size: 13.5px; color: var(--ink-2); }
+.app-btns { grid-column: 2; display: flex; flex-wrap: wrap; gap: 6px; }
+.app-btns .btn { flex: none; padding: 7px 14px; font-size: 13.5px; min-height: 0; }
+@media (min-width: 720px) { .app-row { grid-template-columns: 44px 1fr auto; align-items: center; } .app-btns { grid-column: auto; } }

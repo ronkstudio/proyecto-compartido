@@ -5,7 +5,7 @@
 5|Shopping and markets
 6|Markets, shops and shopping areas
 7|Stadiums, parks and the outdoors
-8|Tickets, U-Bahn, airport
+8|Tickets, U-Bahn, taxis
 9|Fire brigade and ambulance
 10|Police
 11|On-call doctor (non-urgent)

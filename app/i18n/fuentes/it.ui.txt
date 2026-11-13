@@ -120,7 +120,7 @@
 120|Dove chiedere aiuto
 121|Polizia, consolati, ospedali
 122|Come muoversi
-123|SUBE, metro, aeroporti
+123|SUBE, metro, taxi
 124|Cosa evitare
 125|Truffe e precauzioni
 126|Info pratiche
@@ -829,3 +829,25 @@
 829|Venezuela
 830|Israele
 831|consolati e ambasciate
+832|Corse, cibo, pagamenti
+833|Tocca il pulsante per scaricare l'app. Se ce l'hai già, lo store mostra «Apri».
+834|Apri o scarica
+835|Comprare e pagare
+836|Per comunicare
+837|Corse in auto e in moto. Vedi il prezzo prima di prenotare.
+838|Corse in auto, anche con prezzo anticipato.
+839|Corse in auto, di solito la più economica.
+840|Mappe e percorsi in metro, autobus e a piedi.
+841|Quale autobus o metro prendere, con orari in tempo reale.
+842|Le bici pubbliche della Città.
+843|Cibo, spesa e farmacia a domicilio. La più usata.
+844|Cibo e spesa a domicilio.
+845|Molti negozi incassano con il suo QR.
+846|Per comprare quasi tutto online.
+847|Qui tutto si risolve su WhatsApp: prenotazioni, domande e appuntamenti.
+848|Percorsi in U-Bahn, S-Bahn, tram e autobus. In tedesco e inglese.
+849|Per comprare il biglietto sul telefono.
+850|Mappe e percorsi con i mezzi e a piedi.
+851|Corse in auto. Vedi il prezzo prima di prenotare.
+852|Per chiamare i taxi.
+853|La più usata per scrivere e chiamare.

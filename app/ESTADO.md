@@ -2,7 +2,7 @@
 
 Para los dos Claude: acá está escrito qué se hizo, qué se probó y qué falta. **Actualizalo cada vez que cambies algo de `app/`.**
 
-Última actualización: 13 de noviembre de 2026, Claude de `ronkstudio` (tarjeta #121).
+Última actualización: 13 de noviembre de 2026, Claude de `ronkstudio` (tarjeta #137).
 
 Todo lo que se describe acá está en `main`.
 
@@ -156,6 +156,9 @@ Hasta el 13/11 estuvo en `ronkstudio/menu-3d-publico/guia-buenos-aires/`. Ese re
   - **Faltan Uruguay y Perú:** el consulado de Uruguay se mudó en 2025 y no encontré la dirección nueva en una fuente oficial; el dato de Perú en Cancillería no cierra. Para esos y cualquier otro país queda el link "¿Tu país no está en la lista?", que lo busca en el mapa.
   - Berlín no tiene consulados cargados: queda el link para buscarlos en el mapa.
   - Probado en celular (375 px), en castellano e inglés: el botón 🆘 entra sin cortar el nombre de la ciudad, la lista y el mapa muestran los puntos nuevos. Berlín sin errores.
+- **Apps útiles (#137):** nueva pestaña en Info ("📱 Apps útiles") y botón en "Antes de salir" del inicio. Cada app tiene un botón a su tienda: en iPhone va al App Store, en Android a Google Play (si ya está instalada, la tienda ofrece "Abrir"); en la compu se ven los dos. Buenos Aires: Uber, Cabify, DiDi, Google Maps, Moovit, BA Ecobici, PedidosYa, Rappi, Mercado Pago, Mercado Libre y WhatsApp. Berlín: BVG Fahrinfo, BVG Tickets, Google Maps, Uber, Bolt, FREENOW, Wolt y WhatsApp. Las páginas de las tiendas se revisaron una por una (13/11/2026). Están en `data/<ciudad>-local.js` (`apps`).
+  - Se sacaron de Moverse los bloques "Aeropuertos" y "Apps útiles" (pedido de Bautista). Lo de los aeropuertos sigue en Recién llegado y Tu vuelo.
+  - Probado en celular (375 px). No se probó en un iPhone real.
 - **Sin amarillo en el diseño (#122):** a pedido de `ezebesserr`, lo amarillo de los botones y el diseño pasó a terracota y coral, los colores que ya usa la app.
   - **En terracota:** el botón "Buscar" de la portada, el botón "Cómo llegar" de Moverse y el recuadro "Armá tu viaje".
   - **En coral:** el sol del logo, el ícono de la app, el brillo de la portada, el evento destacado de "Hoy", la barra de avance y los círculos de Recién llegado, los sellos conseguidos del pasaporte y el botón de cuenta.

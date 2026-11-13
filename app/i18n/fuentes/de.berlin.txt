@@ -5,7 +5,7 @@
 5|Einkaufen und Märkte
 6|Märkte, Läden und Einkaufsgegenden
 7|Stadien, Parks und Natur
-8|Tickets, U-Bahn, Flughafen
+8|Tickets, U-Bahn, Taxis
 9|Feuerwehr und Rettungsdienst
 10|Polizei
 11|Ärztlicher Bereitschaftsdienst (nicht dringend)

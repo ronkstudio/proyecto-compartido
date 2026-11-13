@@ -120,7 +120,7 @@
 120|Where to get help
 121|Police, consulates, hospitals
 122|Getting around
-123|SUBE card, subway, airports
+123|SUBE card, subway, taxis
 124|What to avoid
 125|Scams and precautions
 126|Practical info
@@ -829,3 +829,25 @@
 829|Venezuela
 830|Israel
 831|consulates and embassies
+832|Rides, food, payments
+833|Tap the button to get the app. If you already have it, the store shows “Open”.
+834|Open or download
+835|Shopping and payments
+836|Staying in touch
+837|Car and motorbike rides. You see the price before you book.
+838|Car rides, also with the price shown upfront.
+839|Car rides, usually the cheapest.
+840|Maps and routes by subway, bus and on foot.
+841|Which bus or subway to take, with live times.
+842|The city's public bikes.
+843|Food, groceries and pharmacy delivered. The most used.
+844|Food and shopping delivered.
+845|Many shops take payment with its QR code.
+846|To buy almost anything online.
+847|Here everything gets sorted on WhatsApp: bookings, questions and appointments.
+848|Routes by U-Bahn, S-Bahn, tram and bus. In German and English.
+849|To buy your ticket on your phone.
+850|Maps and routes by public transport and on foot.
+851|Car rides. You see the price before you book.
+852|To order taxis.
+853|The most used for messaging and calls.

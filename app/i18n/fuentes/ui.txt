@@ -120,7 +120,7 @@ Antes de salir
 Dónde pedir ayuda
 Policía, consulados, hospitales
 Cómo moverte
-SUBE, subte, aeropuertos
+SUBE, subte, taxis
 Qué evitar
 Estafas y cuidados
 Info práctica
@@ -829,3 +829,25 @@ Ecuador
 Venezuela
 Israel
 consulados y embajadas
+Viajes, comida, pagos
+Tocá el botón para bajar la app. Si ya la tenés, la tienda te muestra «Abrir».
+Abrir o descargar
+Para comprar y pagar
+Para comunicarte
+Viajes en auto y moto. Ves el precio antes de pedir.
+Viajes en auto, también con precio de antemano.
+Viajes en auto, suele ser la más barata.
+Mapas y recorridos en subte, colectivo y a pie.
+Qué colectivo o subte tomar, con horarios en vivo.
+Las bicis públicas de la Ciudad.
+Comida, súper y farmacia a domicilio. La más usada.
+Comida y compras a domicilio.
+Muchos comercios cobran con su QR.
+Para comprar casi cualquier cosa por internet.
+Acá todo se arregla por WhatsApp: reservas, consultas y turnos.
+Recorridos en U-Bahn, S-Bahn, tranvía y colectivo. En alemán e inglés.
+Para comprar el boleto en el celular.
+Mapas y recorridos en transporte y a pie.
+Viajes en auto. Ves el precio antes de pedir.
+Para pedir taxis.
+La más usada para escribir y llamar.

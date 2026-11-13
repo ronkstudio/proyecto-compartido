@@ -120,7 +120,7 @@
 120|Où demander de l'aide
 121|Police, consulats, hôpitaux
 122|Se déplacer
-123|SUBE, métro, aéroports
+123|SUBE, métro, taxis
 124|À éviter
 125|Arnaques et précautions
 126|Infos pratiques
@@ -829,3 +829,25 @@
 829|Venezuela
 830|Israël
 831|consulats et ambassades
+832|Trajets, repas, paiements
+833|Touchez le bouton pour télécharger l'app. Si vous l'avez déjà, la boutique affiche « Ouvrir ».
+834|Ouvrir ou télécharger
+835|Acheter et payer
+836|Pour communiquer
+837|Trajets en voiture et en moto. Vous voyez le prix avant de commander.
+838|Trajets en voiture, aussi avec le prix à l'avance.
+839|Trajets en voiture, souvent la moins chère.
+840|Cartes et itinéraires en métro, bus et à pied.
+841|Quel bus ou métro prendre, avec horaires en direct.
+842|Les vélos publics de la Ville.
+843|Repas, courses et pharmacie à domicile. La plus utilisée.
+844|Repas et courses à domicile.
+845|Beaucoup de commerces encaissent avec son QR.
+846|Pour acheter presque tout en ligne.
+847|Ici tout se règle sur WhatsApp : réservations, questions et rendez-vous.
+848|Itinéraires en U-Bahn, S-Bahn, tram et bus. En allemand et anglais.
+849|Pour acheter le billet sur le téléphone.
+850|Cartes et itinéraires en transports et à pied.
+851|Trajets en voiture. Vous voyez le prix avant de commander.
+852|Pour commander des taxis.
+853|La plus utilisée pour écrire et appeler.

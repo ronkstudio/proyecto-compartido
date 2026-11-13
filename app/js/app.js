@@ -618,6 +618,7 @@
         linkCard("#/info/llegada", "#2f5d4f", "🛬", "Recién llegado", "Tus primeras horas, paso a paso") +
         linkCard("#/info/ayuda", "#e03131", "🆘", "Dónde pedir ayuda", "Policía, consulados, hospitales") +
         linkCard("#/info/moverse", "#1c7ed6", "🚇", "Cómo moverte", LOC.moverseSub || "Transporte y aeropuertos") +
+        (LOC.apps ? linkCard("#/info/apps", "#7048e8", "📱", "Apps útiles", "Viajes, comida, pagos") : "") +
         linkCard("#/info/seguridad", "#e8590c", "⚠️", "Qué evitar", "Estafas y cuidados") +
         linkCard("#/info/practica", "#0c8599", "💵", "Info práctica", "Dinero, horarios, checklist") +
         linkCard("#/info/vuelo", "#5f3dc4", "✈️", "Hacé tu check-in", "Elegí tu aerolínea y listo") +
@@ -825,12 +826,24 @@
   const FRASES = LOC.frases || [];   // en data/<ciudad>-local.js
   const frasesHtml = () => '<div class="phrases">' + FRASES.map(f => '<div class="phrase"><b data-notr lang="' + (LOC.idioma || "es") + '">' + esc(f[0]) + "</b><span>" + esc(f[1]) + "</span></div>").join("") + "</div>";
 
-  const INFO_TABS = [["llegada", "🛬 Recién llegado"], ["moverse", "🚇 Moverse"], ["seguridad", "⚠️ Seguridad"], ["ayuda", "🆘 Ayuda"], ["practica", "💵 Práctica"], ["calendario", "📅 Calendario"], ["vuelo", "✈️ Tu vuelo"]];
+  /* Apps útiles (tarjeta #137): cada app con un botón a su tienda. En el celular se muestra solo la tienda de ese celular
+     (si la app ya está instalada, la tienda ofrece "Abrir"); en la compu, las dos. Las apps están en data/<ciudad>-local.js. */
+  const PLAT = /iPhone|iPad|iPod/.test(navigator.userAgent) || (navigator.platform === "MacIntel" && navigator.maxTouchPoints > 1) ? "ios" : /Android/.test(navigator.userAgent) ? "android" : "";
+  const appBtn = (href, txt, primary) => '<a class="btn' + (primary ? " primary" : "") + '" href="' + href + '" target="_blank" rel="noopener">' + txt + "</a>";
+  const appsHtml = () => '<p class="hint" style="margin-top:0">Tocá el botón para bajar la app. Si ya la tenés, la tienda te muestra «Abrir».</p>' +
+    (LOC.apps || []).map(g => '<section class="section">' + head(g[0] + " " + g[1]) + '<div class="apps">' + g[2].map(a => {
+      const ios = "https://apps.apple.com/app/id" + a[2], and = "https://play.google.com/store/apps/details?id=" + a[3];
+      return '<div class="app-row"><span class="app-ico" aria-hidden="true">' + esc(a[0].charAt(0)) + '</span><span class="app-txt"><b data-notr>' + esc(a[0]) + "</b><span>" + esc(a[1]) + '</span></span><span class="app-btns">' +
+        (PLAT === "ios" ? appBtn(ios, "Abrir o descargar", true) : PLAT === "android" ? appBtn(and, "Abrir o descargar", true) : appBtn(ios, "App Store") + appBtn(and, "▶ Google Play")) + "</span></div>";
+    }).join("") + "</div></section>").join("");
+  const INFO_TABS = [["llegada", "🛬 Recién llegado"], ["moverse", "🚇 Moverse"], ["apps", "📱 Apps útiles"], ["seguridad", "⚠️ Seguridad"], ["ayuda", "🆘 Ayuda"], ["practica", "💵 Práctica"], ["calendario", "📅 Calendario"], ["vuelo", "✈️ Tu vuelo"]];
   const viewInfo = tab => {
     if (!INFO_TABS.some(t => t[0] === tab)) tab = "moverse";
     const month = cityNow().getMonth() + 1;
     let body;
-    if (tab === "moverse") {
+    if (tab === "apps") {
+      body = appsHtml();
+    } else if (tab === "moverse") {
       const lines = '<div class="lines">' + (city.subte || []).map(l => '<div class="line"><span class="line-dot" style="--c:' + l.color + '">' + l.line + "</span><span><b>" + esc(l.route) + "</b><span>" + esc(l.useful) + "</span></span></div>").join("") + "</div>";
       body = '<form class="route" id="route-form"><label for="route-to">¿A dónde querés ir?</label><div class="search"><input id="route-to" name="to" required placeholder="' + esc(LOC.rutaEj2 || LOC.rutaEj || "Ej.: Teatro Colón, Caminito, Aeroparque…") + '" autocomplete="off"><button>Cómo llegar</button></div><p class="hint">Abre Google Maps con el recorrido en transporte público desde donde estás.</p></form>' +
         /* Las líneas (city.subte) se dibujan dentro del bloque de transporte que lleva el nombre del metro de la ciudad (LOC.metro; en Buenos Aires, "Subte"). */
