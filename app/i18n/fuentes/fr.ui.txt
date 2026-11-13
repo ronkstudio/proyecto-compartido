@@ -671,7 +671,7 @@
 671|
 672|Vos lieux enregistrés, organisés par jour. Ils restent sur cet appareil.
 673|Touchez le cœur de n'importe quel lieu pour l'ajouter, ou laissez-nous composer le parcours pour vous.
-674|Répondez à cinq questions et nous vous proposons un parcours par zones, avec où manger dans chacune. Ensuite, vous l'ajustez comme vous voulez.
+674|Répondez à six questions et nous vous proposons un parcours par zones, avec où manger dans chacune. Ensuite, vous l'ajustez comme vous voulez.
 675|Facultatif. Avec la date, nous ne programmons pas de musées le jour de leur fermeture.
 676|Comment se déplacer, quoi éviter, où demander de l'aide et tout le côté pratique.
 677|Ouvre Google Maps avec l'itinéraire en transports en commun depuis votre position.
@@ -767,3 +767,10 @@
 767|Nous vous prévenons en rouge si un lieu ferme habituellement le jour où vous l'avez programmé.
 768|gares et aéroports. Touchez-en un pour voir l'adresse et comment y aller.
 769|Autres sports
+770|Combien de voyageurs ?
+771|personne
+772|personnes
+773|Une personne de moins
+774|Une personne de plus
+775|En grand groupe, réservez les dîners à l'avance : les grandes tables partent vite.
+776|Plus de 4 : en taxi ou Uber, il vous faudra deux voitures.
