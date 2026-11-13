@@ -855,9 +855,20 @@
 855|Só seu e-mail, sem senha: mandamos um link e com um toque você já entra. Só guardamos seu e-mail e sua viagem.
 856|Enviar link
 857|Você entrou como
-858|Sua viagem fica salva na sua conta. De você só sabemos o e-mail.
+858|Sua viagem fica salva na sua conta. Neste dispositivo não vamos mais pedir seu e-mail. A única coisa que sabemos de você é seu e-mail.
 859|Sair
 860|Apagar o que está salvo na minha conta
 861|Pronto: confira seu e-mail e toque no link para entrar.
 862|Não conseguimos conectar ao serviço de contas. Tente mais tarde.
 863|Ainda conectando ao serviço de contas. Tente em alguns segundos.
+864|Sessão iniciada
+865|Salve sua viagem
+866|Crie sua conta com seu e-mail e tenha sua viagem no celular e no computador.
+867|Seu e-mail
+868|Criar minha conta
+869|Sem senha: mandamos um link e com um toque você já entra. Neste dispositivo não vamos pedir de novo.
+870|Continuar como convidado
+871|Você pode criá-la quando quiser em Minha conta (👤).
+872|Confira seu e-mail!
+873|Mandamos um link. Abra neste mesmo dispositivo e você já vai estar dentro.
+874|Continuar enquanto isso

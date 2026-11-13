@@ -855,9 +855,20 @@
 855|Solo la tua email, senza password: ti mandiamo un link e con un tocco sei dentro. Salviamo solo la tua email e il tuo viaggio.
 856|Invia il link
 857|Accesso come
-858|Il tuo viaggio è salvato nel tuo account. Di te conosciamo solo l'email.
+858|Il tuo viaggio è salvato nel tuo account. Su questo dispositivo non ti chiederemo più l'email. L'unica cosa che sappiamo di te è la tua email.
 859|Esci
 860|Cancella i dati del mio account
 861|Fatto: controlla la tua email e tocca il link per entrare.
 862|Non siamo riusciti a collegarci al servizio account. Riprova più tardi.
 863|Ci stiamo ancora collegando al servizio account. Riprova tra qualche secondo.
+864|Accesso effettuato
+865|Salva il tuo viaggio
+866|Crea il tuo account con la tua email e ritrova il viaggio sul telefono e sul computer.
+867|La tua email
+868|Crea il mio account
+869|Senza password: ti mandiamo un link e con un tocco sei dentro. Su questo dispositivo non te lo chiederemo più.
+870|Continua come ospite
+871|Puoi crearlo quando vuoi da Il mio account (👤).
+872|Controlla la tua email!
+873|Ti abbiamo mandato un link. Aprilo su questo stesso dispositivo e sarai dentro.
+874|Continua nel frattempo

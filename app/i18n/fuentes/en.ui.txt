@@ -855,9 +855,20 @@
 855|Just your email, no password: we send you a link and one tap signs you in. We only store your email and your trip.
 856|Send link
 857|Signed in as
-858|Your trip is saved to your account. All we know about you is your email.
+858|Your trip is saved to your account. We won't ask for your email again on this device. The only thing we know about you is your email.
 859|Sign out
 860|Delete what's saved in my account
 861|Done: check your email and tap the link to sign in.
 862|We couldn't connect to the account service. Try again later.
 863|Still connecting to the account service. Try again in a few seconds.
+864|Signed in
+865|Save your trip
+866|Create your account with your email and have your trip on your phone and your computer.
+867|Your email
+868|Create my account
+869|No password: we send you a link and one tap gets you in. We won't ask again on this device.
+870|Continue as guest
+871|You can create it anytime from My account (👤).
+872|Check your email!
+873|We sent you a link. Open it on this same device and you'll be in.
+874|Keep going meanwhile
