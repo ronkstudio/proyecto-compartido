@@ -2098,7 +2098,7 @@ window.I18N_FULL = {
 "Queda cerca de la estación Núñez del tren Mitre. Hay una mesa larga frente a la cocina: conviene reservar.": "ミトレ線のヌニェス駅の近く。キッチン前に長いテーブルがあります：予約がおすすめ。",
 "Se llena: reservá con tiempo.": "すぐ満席になります：早めに予約を。",
 "Suele haber fila: es rápida, ideal para comer al paso.": "たいてい行列ができます：提供が早く、さっと食べるのにぴったり。",
-"Queda a pocas cuadras de la estación Núñez y del estadio de River.": "ヌニェス駅とリーベル・プレートのスタジアムから数ブロック。",
+"Tiene más de un local en la zona: este es el que figura en el sitio de turismo de la Ciudad.": "この辺りに複数の店舗があります：こちらは市の観光サイトに載っている店舗です。",
 "También es vinoteca y hace degustaciones de vinos.": "ワインショップも兼ねていて、試飲会も開いています。",
 "Ideal para merendar. Time Out la recomienda entre las mejores meriendas de la ciudad.": "メリエンダ（午後のおやつ）にぴったり。Time Outが市内屈指のメリエンダの店に挙げています。",
 "Buena carta de vinos por copa. Se llena después de la oficina.": "グラスワインが充実。仕事帰りの時間は混みます。",

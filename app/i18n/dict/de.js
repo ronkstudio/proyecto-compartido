@@ -2098,7 +2098,7 @@ window.I18N_FULL = {
 "Queda cerca de la estación Núñez del tren Mitre. Hay una mesa larga frente a la cocina: conviene reservar.": "Es liegt nahe dem Bahnhof Núñez der Mitre-Linie. Es gibt einen langen Tisch vor der Küche: besser reservieren.",
 "Se llena: reservá con tiempo.": "Es ist schnell voll: früh reservieren.",
 "Suele haber fila: es rápida, ideal para comer al paso.": "Meist gibt es eine Schlange: Es geht schnell, ideal für einen Happen unterwegs.",
-"Queda a pocas cuadras de la estación Núñez y del estadio de River.": "Es liegt wenige Blocks vom Bahnhof Núñez und vom River-Stadion entfernt.",
+"Tiene más de un local en la zona: este es el que figura en el sitio de turismo de la Ciudad.": "Es gibt mehrere Filialen in der Gegend: Diese ist die, die auf der Tourismus-Website der Stadt steht.",
 "También es vinoteca y hace degustaciones de vinos.": "Es ist auch Weinhandlung und bietet Weinverkostungen an.",
 "Ideal para merendar. Time Out la recomienda entre las mejores meriendas de la ciudad.": "Ideal für die Merienda am Nachmittag. Time Out empfiehlt sie unter den besten Merienda-Adressen der Stadt.",
 "Buena carta de vinos por copa. Se llena después de la oficina.": "Gute Auswahl an offenen Weinen. Nach Büroschluss ist es voll.",

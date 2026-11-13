@@ -18,7 +18,7 @@ window.CITY_EXTRA.caba = {
     { id: "tanguero", icon: "💃", name: "Tanguero", desc: "Un lugar de tango", n: 1, tag: ["tango"] },
     { id: "museos", icon: "🎨", name: "Ojo de museo", desc: "3 museos", n: 3, sub: "Museo" },
     { id: "verde", icon: "🌳", name: "Aire libre", desc: "3 parques o reservas", n: 3, sub: "Naturaleza" },
-    { id: "hincha", icon: "⚽", name: "Hincha", desc: "Una cancha de fútbol", n: 1, sub: "Fútbol" },
+    { id: "hincha", icon: "⚽", name: "Hincha", desc: "Una cancha de fútbol", n: 1, tag: ["fútbol"] },
     { id: "noche", icon: "🍸", name: "Trasnochador", desc: "2 salidas de noche", n: 2, cat: "noche" },
     { id: "feriante", icon: "🛍️", name: "Feriante", desc: "Una feria", n: 1, sub: "Feria" },
     { id: "escapada", icon: "🚤", name: "Escapada", desc: "Una excursión fuera de la ciudad", n: 1, cat: "escapadas" },

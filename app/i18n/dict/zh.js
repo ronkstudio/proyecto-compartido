@@ -2098,7 +2098,7 @@ window.I18N_FULL = {
 "Queda cerca de la estación Núñez del tren Mitre. Hay una mesa larga frente a la cocina: conviene reservar.": "离米特雷线的努涅斯站很近。厨房前有一张长桌：最好预订。",
 "Se llena: reservá con tiempo.": "总是客满：请提早预订。",
 "Suele haber fila: es rápida, ideal para comer al paso.": "通常要排队：出餐快，适合边走边吃。",
-"Queda a pocas cuadras de la estación Núñez y del estadio de River.": "离努涅斯站和河床队球场只有几个街区。",
+"Tiene más de un local en la zona: este es el que figura en el sitio de turismo de la Ciudad.": "这一带有不止一家分店：这家是市政府旅游网站上列出的那家。",
 "También es vinoteca y hace degustaciones de vinos.": "这里也是葡萄酒店，还会举办品酒会。",
 "Ideal para merendar. Time Out la recomienda entre las mejores meriendas de la ciudad.": "很适合吃下午茶。Time Out 推荐它为城里最好的下午茶去处之一。",
 "Buena carta de vinos por copa. Se llena después de la oficina.": "单杯葡萄酒选择很好。下班后人很多。",

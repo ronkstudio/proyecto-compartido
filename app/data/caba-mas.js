@@ -301,7 +301,7 @@
     ["comer", "De autor", "Garabato", "Núñez", "O'Higgins 3424", 3, "Bistró nuevo con platos de inspiración europea para compartir y una terraza de estilo parisino.", "Queda cerca de la estación Núñez del tren Mitre. Hay una mesa larga frente a la cocina: conviene reservar.", ["bistró", "compartir", "terraza"]],
     ["comer", "Bodegón moderno", "Evelia", "Núñez", "Campos Salles 1712", 3, "Cocina ítalo-argentina de Máximo Togni con recetas de su abuela: pastas frescas, milanesas y tortillas.", "Se llena: reservá con tiempo.", ["pastas", "milanesa", "italiano"]],
     ["comer", "Pizzería", "Kalis Pizza", "Núñez", "O'Higgins 3578", 1, "Pizza fina y crocante estilo Nueva York, por porción. Time Out la puso entre las mejores de la ciudad.", "Suele haber fila: es rápida, ideal para comer al paso.", ["pizza", "al paso", "económico"]],
-    ["comer", "Parrilla", "Besares", "Núñez", "11 de Septiembre 1888 y Manuela Pedraza", 2, "Parrilla urbana de barrio, recomendada por el sitio de turismo de la Ciudad.", "Queda a pocas cuadras de la estación Núñez y del estadio de River.", ["parrilla", "carne", "vida de barrio"]],
+    ["comer", "Parrilla", "Besares", "Núñez", "11 de Septiembre 3301", 2, "Parrilla urbana de barrio, recomendada por el sitio de turismo de la Ciudad.", "Tiene más de un local en la zona: este es el que figura en el sitio de turismo de la Ciudad.", ["parrilla", "carne", "vida de barrio"]],
     ["comer", "Bodegón moderno", "Oporto Almacén", "Núñez", "11 de Septiembre 4152", 3, "Mitad almacén, mitad restaurante: carta de estación con carnes a la parrilla, pescados, verduras y pan de masa madre.", "También es vinoteca y hace degustaciones de vinos.", ["vinos", "moderno", "degustación"]],
 
     /* ───────────── PARA QUE CADA FILTRO TENGA AL MENOS 4 LUGARES (tarjeta #108) ─────────────
@@ -381,7 +381,7 @@
   "garabato": [-34.54853, -58.46360],
   "evelia": [-34.54836, -58.45838],
   "kalis-pizza": [-34.54735, -58.46437],
-  "besares": [-34.54342, -58.46316],
+  "besares": [-34.54780, -58.45971],
   "oporto-almacen": [-34.54144, -58.46457],
   "casa-saenz": [-34.58497, -58.44319],
   "gran-bar-danzon": [-34.59489, -58.38431],
