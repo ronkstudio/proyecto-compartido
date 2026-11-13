@@ -2,7 +2,7 @@
 
 Para los dos Claude: acá está escrito qué se hizo, qué se probó y qué falta. **Actualizalo cada vez que cambies algo de `app/`.**
 
-Última actualización: 13 de noviembre de 2026, Claude de `ronkstudio` (tarjetas #107 y #108).
+Última actualización: 13 de noviembre de 2026, Claude de `ronkstudio` (tarjeta #110).
 
 Todo lo que se describe acá está en `main`.
 
@@ -91,7 +91,7 @@ Estas pruebas las hizo el Claude de `ronkstudio` antes de que se sacara el mapa 
 - **No está todo lo que se puede hacer en la ciudad.** Son 534 lugares. Bautista pidió (11/11) llegar a 5 por categoría en cada barrio, sin inventar: hoy solo Centro, Palermo, Recoleta y San Telmo se acercan. En los barrios residenciales no hay 5 hoteles ni 5 excursiones reales, así que esa meta ahí no se va a cumplir. La tarjeta #45 propone un mínimo de locales por tipo en cada zona turística.
 - **Idiomas sin revisar.** Los 7 idiomas están completos (alemán, chino y japonés desde el 12/11/2026), pero ninguna traducción la revisó una persona que hable el idioma. Las frases para decir quedan en castellano a propósito.
 - **Sin horarios reales ni puntajes de reseñas.** Harían falta servicios pagos.
-- **Fotos de restaurantes, bares y hoteles:** 50 de 297 tienen foto (antes 15). Se buscaron todas en Wikimedia Commons; los demás no tienen fotos libres ahí. Para sumar más haría falta pedirles fotos a los locales o sacarlas.
+- **Fotos (13/11/2026, #110):** 295 de 565 lugares tienen foto (52 %; antes 99). Monumentos, iglesias, museos, teatros, estadios, shoppings y excursiones casi todos tienen; faltan sobre todo restaurantes (155), bares y boliches (42) y hoteles (22): para ellos no hay fotos libres en Wikimedia ni en Flickr. Para llegar al 75 % (424) habría que usar fotos ilustrativas o pedirles fotos a los locales.
 - **Unas 45 ubicaciones son aproximadas.** Están marcadas con "aprox." en `data/caba-coords.js` y `data/caba-zones.js`.
 - En "Mi viaje" el orden se cambia con flechas, no arrastrando.
 
@@ -142,3 +142,4 @@ Hasta el 13/11 estuvo en `ronkstudio/menu-3d-publico/guia-buenos-aires/`. Ese re
   - **Se perdieron chips:** Mirador, Fútbol (en Imperdibles), Terraza con vista, Gastronómico, Navegación y los de un solo deporte. Dos movidas son flojas: "Alquiler temporario" quedó en Hotel y "Salas de escape" en Con chicos. Si se prefiere mantener esos chips, hay que sumar lugares reales.
   - El armado del viaje (interés "Fútbol") y el logro "Hincha" ahora buscan la etiqueta fútbol, para seguir encontrando La Bombonera, el Monumental y la Casa de D10S.
   - Probado en la vista previa a 375 de ancho, en castellano y japonés, sin errores: 565 lugares, Núñez con 7 para comer y ningún tipo con menos de 4.
+- **Más fotos (#110):** 196 fotos nuevas de Wikimedia Commons, todas con licencia libre y revisadas una por una (sin logos, mapas, montajes ni lugares homónimos). Se buscaron por la foto del artículo de Wikipedia (con la ubicación a menos de 1,5 km), por nombre en Commons y por fotos sacadas a menos de 40 m de la dirección. Prioridad: los destacados y los monumentos. Probado: las 294 fotos cargan en los dos tamaños que usa la guía (500 y 960 px).
