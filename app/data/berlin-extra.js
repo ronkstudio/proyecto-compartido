@@ -101,7 +101,7 @@ window.CITY_EXTRA.berlin = {
     { icon: "🔍", title: "Cómo elegimos los lugares", items: [
       { t: "Selección", d: "La guía incluye solo lugares con reputación sostenida: premios, distinciones oficiales y buen consenso en reseñas públicas." },
       { t: "Niveles", d: "'Destacado' son los mejores de su categoría, 'Muy recomendado' es una apuesta segura y 'Buena opción' cumple bien pero no es imprescindible." },
-      { t: "Opiniones al día", d: "En cada ficha, el botón 'Opiniones y horarios' abre el lugar en Google Maps con su puntaje, reseñas y horarios actualizados." },
+      { t: "Opiniones al día", d: "En cada ficha, el botón 'Opiniones, horarios y fotos' abre el lugar en Google Maps con su puntaje, reseñas, horarios actualizados y fotos." },
       { t: "Precios", d: "Usamos niveles ($ a $$$$) en vez de montos porque los precios cambian seguido." }
     ] }
   ],

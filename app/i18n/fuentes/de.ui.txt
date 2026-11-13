@@ -582,7 +582,7 @@
 582|Tipp
 583|Speichern
 584|Als besucht markieren
-585|Bewertungen und Öffnungszeiten
+585|Bewertungen, Öffnungszeiten und Fotos
 586|Mit Uber hinfahren
 587|Teilen
 588|Adresse
@@ -733,7 +733,7 @@
 733|Viele Preise haben Rabatt bei Barzahlung oder Überweisung. Vor dem Bezahlen fragen.
 734|Der Reiseführer enthält nur Orte mit anhaltend gutem Ruf: Auszeichnungen, offizielle Ehrungen und breite Zustimmung in öffentlichen Bewertungen.
 735|„Top-Tipp“ sind die Besten ihrer Kategorie, „Sehr empfehlenswert“ ist eine sichere Wahl und „Gute Option“ macht seine Sache gut, ist aber kein Muss.
-736|Bei jedem Ort öffnet „Bewertungen und Öffnungszeiten“ Google Maps mit Bewertung, Rezensionen und aktuellen Öffnungszeiten.
+736|Bei jedem Ort öffnet „Bewertungen, Öffnungszeiten und Fotos“ Google Maps mit Bewertung, Rezensionen, aktuellen Öffnungszeiten und Fotos.
 737|Wir nutzen Stufen ($ bis $$$$) statt Beträgen, weil sich Preise oft ändern.
 738|Umzüge und Murga-Gruppen in den Vierteln an den Februar-Wochenenden.
 739|Das größte Musikfestival des Landes, auf der Pferderennbahn von San Isidro.
@@ -767,4 +767,3 @@
 767|Wir warnen dich in Rot, wenn ein Ort an deinem geplanten Tag meist geschlossen hat.
 768|Terminals und Flughäfen. Tippe auf eines, um Adresse und Anfahrt zu sehen.
 769|Weitere Sportarten
-770|Fotos ansehen

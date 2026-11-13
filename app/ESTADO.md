@@ -2,7 +2,7 @@
 
 Para los dos Claude: acá está escrito qué se hizo, qué se probó y qué falta. **Actualizalo cada vez que cambies algo de `app/`.**
 
-Última actualización: 13 de noviembre de 2026, Claude de `ronkstudio` (tarjeta #114).
+Última actualización: 13 de noviembre de 2026, Claude de `ronkstudio` (tarjeta #117).
 
 Todo lo que se describe acá está en `main`.
 
@@ -143,4 +143,4 @@ Hasta el 13/11 estuvo en `ronkstudio/menu-3d-publico/guia-buenos-aires/`. Ese re
   - El armado del viaje (interés "Fútbol") y el logro "Hincha" ahora buscan la etiqueta fútbol, para seguir encontrando La Bombonera, el Monumental y la Casa de D10S.
   - Probado en la vista previa a 375 de ancho, en castellano y japonés, sin errores: 565 lugares, Núñez con 7 para comer y ningún tipo con menos de 4.
 - **Más fotos (#110):** 196 fotos nuevas de Wikimedia Commons, todas con licencia libre y revisadas una por una (sin logos, mapas, montajes ni lugares homónimos). Se buscaron por la foto del artículo de Wikipedia (con la ubicación a menos de 1,5 km), por nombre en Commons y por fotos sacadas a menos de 40 m de la dirección. Prioridad: los destacados y los monumentos. Probado: las 294 fotos cargan en los dos tamaños que usa la guía (500 y 960 px).
-- **Lugares sin foto (#114):** en vez del emoji (carne, copa, etc.) muestran una portada con el nombre del lugar en letra fina, sobre el color de su categoría. En la ficha, los que no tienen foto suman un botón "📷 Ver fotos" que abre el lugar en Google Maps, donde están sus fotos (no se copian a la guía). El texto del botón está en los 7 idiomas. Probado en celular (375 px): carrusel, lista y ficha. Vale también para Berlín.
+- **Lugares sin foto (#114):** en vez del emoji (carne, copa, etc.) muestran una portada con el nombre del lugar en letra fina, sobre el color de su categoría. Probado en celular (375 px): carrusel, lista y ficha. **(#117)** El botón de Google Maps de cada ficha ahora dice "Opiniones, horarios y fotos" (abre el lugar con sus fotos); el botón aparte "Ver fotos" de #114 se sacó porque hacía lo mismo. En los 7 idiomas y en la ayuda. Vale también para Berlín.

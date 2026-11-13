@@ -582,7 +582,7 @@
 582|Tip
 583|Save
 584|Mark as visited
-585|Reviews and opening hours
+585|Reviews, opening hours and photos
 586|Go by Uber
 587|Share
 588|Address
@@ -733,7 +733,7 @@
 733|Many prices have a discount for paying in cash or by bank transfer. Ask before you pay.
 734|The guide only includes places with a sustained reputation: awards, official distinctions and good consensus in public reviews.
 735|'Top pick' are the best in their category, 'Highly recommended' is a safe bet and 'Good option' does the job well but is not essential.
-736|On each place, the 'Reviews and opening hours' button opens it in Google Maps with its rating, reviews and current opening hours.
+736|On each place, the 'Reviews, opening hours and photos' button opens it in Google Maps with its rating, reviews, current opening hours and photos.
 737|We use levels ($ to $$$$) instead of amounts because prices change often.
 738|Street parades and murga troupes in the neighbourhoods, on February weekends.
 739|The biggest music festival in the country, at the San Isidro Racecourse.
@@ -767,4 +767,3 @@
 767|We'll warn you in red if a place usually closes on the day you scheduled it.
 768|terminals and airports. Tap one to see the address and how to get there.
 769|Other sports
-770|See photos

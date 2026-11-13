@@ -1163,7 +1163,6 @@
       '<div class="sheet-head' + (p.photo ? " has-photo" : "") + '">' +
         (p.photo ? '<img src="' + esc(photo(p.photo, 960)) + '" data-fb="' + esc(photo(p.photo, 500)) + '" alt="">' : "") +
         '<button class="x" data-close aria-label="Cerrar">✕</button>' +
-        (p.photo ? "" : '<a class="ph-btn" href="' + mapsUrl + '" target="_blank" rel="noopener">📷 Ver fotos</a>') +
         '<div class="sheet-title">' + (p.photo ? '<em aria-hidden="true">' + iconOf(p) + "</em>" : "") + '<h2 id="sheet-title">' + esc(p.name) + "</h2><p>" + esc(c.name) + " · " + esc(p.sub) + " · " + esc(p.barrio) + "</p></div></div>" +
       '<div class="sheet-body">' +
         '<p class="bdgs"><span class="bdg ' + (p.q === 3 ? "q" : "q2") + '">' + (p.q === 3 ? "★ " : "") + QL[p.q] + "</span>" + p.awards.map(a => '<span class="bdg aw">🏅 ' + esc(a) + "</span>").join("") + "</p>" +
@@ -1175,7 +1174,7 @@
           '<a class="btn primary" href="' + (fixed ? dirUrl : mapsUrl) + '" target="_blank" rel="noopener">📍 ' + (fixed ? "Cómo llegar" : "Buscar en Maps") + "</a>" +
           '<button class="btn" data-fav="' + p.id + '" aria-pressed="' + !!planOf(p.id) + '">' + favLabel(p.id) + "</button>" +
           '<button class="btn visit" data-visit="' + p.id + '" aria-pressed="' + !!prefs.visited[p.id] + '">' + visitLabel(p.id) + "</button>" +
-          '<a class="btn" href="' + mapsUrl + '" target="_blank" rel="noopener">⭐ Opiniones y horarios</a>' +
+          '<a class="btn" href="' + mapsUrl + '" target="_blank" rel="noopener">⭐ Opiniones, horarios y fotos</a>' +
           (p.ll && hasMap ? '<button class="btn" data-showmap="' + p.id + '">🗺️ Ver en el mapa</button>' : "") +
           (LOC.uber && p.ll && p.inCity ? '<a class="btn" href="https://m.uber.com/ul/?action=setPickup&pickup=my_location&dropoff%5Blatitude%5D=' + p.ll[0] + "&dropoff%5Blongitude%5D=" + p.ll[1] + "&dropoff%5Bnickname%5D=" + encodeURIComponent(p.name) + '" target="_blank" rel="noopener">🚕 Ir en Uber</a>' : "") +
           (p.cat === "dormir" && p.sub !== "Departamento" ? '<a class="btn" href="https://www.booking.com/searchresults.html?ss=' + encodeURIComponent(p.name + " " + MAPA) + '" target="_blank" rel="noopener">🛏️ Ver disponibilidad</a>' : "") +
