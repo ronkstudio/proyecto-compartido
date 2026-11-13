@@ -26,7 +26,6 @@ No hay nada que instalar: es una página web hecha con HTML, CSS y JavaScript, s
 | `data/caba-coords.js` | Dónde queda cada lugar en el mapa |
 | `data/caba-extra.js` | Nivel de recomendación, premios, días que cierra, fotos, subte, calendario, colecciones |
 | `data/caba-zones.js` | Límites de los barrios, capas del mapa de zonas y puntos de ayuda |
-| `config.js` | Datos para encender las cuentas de usuario. Va vacío: ver [CUENTAS.md](CUENTAS.md) |
 | `i18n/` | Los idiomas: un archivo de textos por idioma y `i18n.js`, que elige el idioma y arma el selector |
 | `sw.js`, `manifest.webmanifest`, `icon.svg` | Para que funcione sin internet y se pueda instalar en el celular |
 | `servir.ps1` | Abre el prototipo en la compu para probarlo |
