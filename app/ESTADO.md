@@ -148,5 +148,11 @@ Hasta el 13/11 estuvo en `ronkstudio/menu-3d-publico/guia-buenos-aires/`. Ese re
 - **Paros, marchas y cortes (#120):** cuando hay un aviso cargado, aparece un recuadro rojo llamativo arriba del inicio y en Info > Ayuda. En Ayuda, además, siempre hay links para fijarse antes de salir: estado del subte (Emova), cortes de tránsito oficiales de la Ciudad y noticias del día. En Berlín: BVG, S-Bahn y noticias (no hay avisos cargados).
   - **Cómo cargar un aviso:** en `data/avisos.json`, dentro de la ciudad (`caba` o `berlin`), sumar uno con `tipo` (paro, marcha, corte u otro), `titulo`, `texto`, `desde` y `hasta` (AAAA-MM-DD, inclusive), `fuente` y `link` (https). Se ve solo entre esas fechas, con la hora de la ciudad, y después desaparece solo. Si se quiere traducido, sumar el título y el texto a `i18n/fuentes/ui.txt` y sus traducciones. La guía no detecta paros sola.
   - Cargado ahora: cortes en Av. del Libertador (Palermo) hasta el sábado 14/11, por el desarme de los escenarios de la visita del Papa (fuente: Perfil, con el cronograma de la Ciudad; no lo encontré en la web de la Ciudad).
-  - Los estilos están en `css/avisos.css` porque `styles.css` estaba en el pedido #123 de `ezebesserr`. `sw.js` no se tocó por lo mismo: la guía igual baja siempre lo último cuando hay internet.
+  - Los estilos están al final de `css/styles.css` (sección "Avisos de paros"). Versión guia-v37.
   - Probado en celular, en castellano e inglés, y en Berlín (sin aviso, solo los links).
+- **Sin amarillo en el diseño (#122):** a pedido de `ezebesserr`, lo amarillo de los botones y el diseño pasó a terracota y coral, los colores que ya usa la app.
+  - **En terracota:** el botón "Buscar" de la portada, el botón "Cómo llegar" de Moverse y el recuadro "Armá tu viaje".
+  - **En coral:** el sol del logo, el ícono de la app, el brillo de la portada, el evento destacado de "Hoy", la barra de avance y los círculos de Recién llegado, los sellos conseguidos del pasaporte y el botón de cuenta.
+  - Los avisos de Seguridad y los consejos, que en modo oscuro se veían amarillos, ahora son coral.
+  - Sigue amarillo lo que es de los lugares: el color de la categoría Hospedaje, la etiqueta "★ Destacado" de cada lugar y la línea H del subte, que es su color real.
+  - Probado en celular (390 px), en modo claro y oscuro, sin errores en la consola: inicio, Hoy, Info (Recién llegado, Moverse, Seguridad), pasaporte, Explorar y la ficha de un lugar.

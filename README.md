@@ -24,6 +24,7 @@ Qué está hecho, qué se probó y qué falta: [app/ESTADO.md](app/ESTADO.md).
 | Mapa de seguridad en colores | Se sacó. Quedan los consejos escritos | Pedido #44 |
 | Qué entra en la app | De todo. Con un mínimo de locales por tipo en cada zona turística (por ejemplo, 5 de pastas y 5 o 6 parrillas) | `ezebesserr`, 11/11. Coincide con lo que pidió Bautista. Tarjeta #45 |
 | Cómo se ve | Intuitiva, simple, linda, limpia y poco cargada, aunque tenga mucho contenido | `ezebesserr`, 11/11 |
+| Colores | Sin amarillo en los botones ni en el diseño: terracota y coral. Los colores de los lugares no se tocan | `ezebesserr`, 13/11. Tarjeta #122 |
 | Idiomas | Muchos, no dos o tres. La lista se arma en la tarjeta #11 | `ezebesserr`, 11/11. Tarjetas #11 y #39 |
 | Planes | Variedad de planes armados para vacaciones y visitas | `ezebesserr`, 11/11. Tarjeta #48 |
 | Áreas de cada uno | No hay: los dos hacen de todo | Tarjeta #2 |
