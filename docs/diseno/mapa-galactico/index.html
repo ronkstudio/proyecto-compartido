@@ -124,30 +124,44 @@ canvas { position: absolute; inset: 0; width: 100%; height: 100%; display: block
   background: radial-gradient(closest-side, color-mix(in srgb, var(--space) 78%, transparent), transparent);
 }
 .hero.out { opacity: 0; transform: translate(-50%, -10px); }
+.hero.out * { pointer-events: none !important; }
+.dest, .arrive { display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 8px; margin-top: 6px; }
+.dest-btn, .ghost, .cta {
+  pointer-events: auto; display: inline-flex; align-items: center; gap: 8px;
+  padding: 10px 16px; border-radius: 999px; cursor: pointer; text-decoration: none;
+  border: 1px solid color-mix(in srgb, var(--line) 34%, transparent);
+  background: color-mix(in srgb, var(--space) 62%, transparent);
+  color: var(--ink); font: 600 14px/1 var(--font-body);
+  backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px);
+  transition: border-color .2s ease, background .2s ease, transform .2s ease;
+}
+.dest-btn:hover, .ghost:hover { border-color: color-mix(in srgb, var(--line) 75%, transparent); background: color-mix(in srgb, var(--space-mid) 80%, transparent); transform: translateY(-1px); }
+.dest-btn small { font: 500 10px/1 var(--font-mono); letter-spacing: .08em; text-transform: uppercase; color: var(--ink-dim); }
+.cta { background: var(--city); border-color: var(--city); color: #fff; box-shadow: 0 0 24px color-mix(in srgb, var(--city) 55%, transparent); }
+.cta:hover { transform: translateY(-1px); box-shadow: 0 0 32px color-mix(in srgb, var(--city) 75%, transparent); }
+.dest-btn:focus-visible, .ghost:focus-visible, .cta:focus-visible, .origin select:focus-visible { outline: 2px solid var(--line); outline-offset: 3px; }
+.soon-note { margin: 0; flex-basis: 100%; font-size: 14px; color: var(--ink-dim); }
+.origin { margin: 4px 0 0; display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 6px 8px; font-size: 13px; color: var(--ink-dim); text-shadow: 0 0 6px var(--space); }
+.origin select {
+  pointer-events: auto; padding: 6px 10px; border-radius: 8px; cursor: pointer;
+  border: 1px solid color-mix(in srgb, var(--line) 30%, transparent);
+  background: color-mix(in srgb, var(--space) 75%, transparent); color: var(--ink); font: 600 13px var(--font-body);
+}
+.origin-note { flex-basis: 100%; font-size: 12px; }
+.origin-note:empty { display: none; }
+.label.far { opacity: 0 !important; }
+.flash { position: fixed; inset: 0; z-index: 2; pointer-events: none; opacity: 0;
+  background: radial-gradient(circle at var(--x, 50%) var(--y, 50%), rgb(255 255 255 / .75), color-mix(in srgb, var(--city) 30%, transparent) 18%, transparent 46%); }
+.flash.go { animation: flash .55s ease-out; }
+@keyframes flash { 0% { opacity: 0; } 18% { opacity: 1; } 100% { opacity: 0; } }
+.stage.shake { animation: shake .36s cubic-bezier(.36,.07,.19,.97); }
+@keyframes shake { 20% { transform: translate(-4px, 2px); } 40% { transform: translate(5px, -3px); } 60% { transform: translate(-3px, 2px); } 80% { transform: translate(2px, -1px); } 100% { transform: none; } }
 .hero-title {
   margin: 0; font-family: var(--font-display); font-weight: 300;
   font-size: clamp(30px, 5.6vw, 62px); line-height: 1.08; letter-spacing: .01em; text-wrap: balance;
   text-shadow: 0 0 30px color-mix(in srgb, var(--nebula) 90%, transparent), 0 0 3px var(--space);
 }
 .hero-sub { margin: 0; max-width: 46ch; font-size: clamp(14px, 1.5vw, 17px); line-height: 1.5; color: var(--ink); text-shadow: 0 0 8px var(--space), 0 0 2px var(--space); text-wrap: balance; }
-.intros {
-  position: fixed; z-index: 3; left: 50%; bottom: calc(var(--edge-b) + 2px); transform: translateX(-50%);
-  display: flex; align-items: center; gap: 4px; padding: 5px;
-  max-width: calc(100% - 32px); border-radius: 999px;
-  border: 1px solid color-mix(in srgb, var(--line) 22%, transparent);
-  background: color-mix(in srgb, var(--space) 62%, transparent);
-  backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px);
-}
-.intros-label { padding: 0 6px 0 10px; font: 500 11px/1 var(--font-mono); letter-spacing: .08em; text-transform: uppercase; color: var(--ink-dim); white-space: nowrap; }
-.intros button {
-  border: 0; border-radius: 999px; padding: 8px 12px; cursor: pointer; white-space: nowrap;
-  background: transparent; color: var(--ink); font: 600 13px/1 var(--font-body);
-  transition: background .2s ease;
-}
-.intros button:hover { background: color-mix(in srgb, var(--space-mid) 80%, transparent); }
-.intros button[aria-pressed="true"] { background: color-mix(in srgb, var(--nebula) 60%, transparent); }
-.intros button:focus-visible { outline: 2px solid var(--line); outline-offset: 2px; }
-.intros .short { display: none; }
 @media (max-width: 900px) { .readout { bottom: calc(var(--edge-b) + 52px); } }
 .tune-btn {
   position: fixed; z-index: 4; top: var(--edge-t); right: var(--edge-r);
@@ -186,14 +200,11 @@ canvas { position: absolute; inset: 0; width: 100%; height: 100%; display: block
 .scrim.bottom { bottom: 0; height: calc(env(safe-area-inset-bottom, 0px) + 90px); background: linear-gradient(0deg, color-mix(in srgb, var(--space) 70%, transparent), transparent); }
 @media (max-width: 520px) {
   .legend { font-size: 11px; }
-  .intros { left: var(--edge-l); transform: none; max-width: calc(100% - 32px - 56px); }
-  .intros-label, .intros .long { display: none; }
-  .intros .short { display: inline; }
-  .intros button { padding: 8px 10px; font-size: 12px; }
   .readout { right: calc(var(--edge-r) + 56px); gap: 4px 12px; }
 }
 @media (prefers-reduced-motion: reduce) {
   #map, .label, .hero { transition: none; }
+  .flash.go, .stage.shake { animation: none; }
 }
 </style>
 </head>
@@ -210,7 +221,7 @@ canvas { position: absolute; inset: 0; width: 100%; height: 100%; display: block
 
 <header class="brand">
   <p class="brand-name">Mapa galáctico</p>
-  <p class="brand-sub">Boceto 4 · inicios</p>
+  <p class="brand-sub">Boceto 5 · tu viaje</p>
   <div class="legend" aria-label="Referencias">
     <span><i class="dot" aria-hidden="true"></i>En la guía</span>
     <span><i class="dot soon" aria-hidden="true"></i>Próximamente</span>
@@ -244,17 +255,23 @@ canvas { position: absolute; inset: 0; width: 100%; height: 100%; display: block
 
 <div class="scrim top" aria-hidden="true"></div>
 <div class="scrim bottom" aria-hidden="true"></div>
-<div class="hero out" id="hero" hidden>
-  <h1 class="hero-title" id="heroTitle">¿A dónde vamos?</h1>
-  <p class="hero-sub" id="heroSub">Arrastrá el globo o tocá un continente.</p>
-</div>
+<section class="hero out" id="hero" hidden aria-live="polite">
+  <h1 class="hero-title" id="heroTitle">¿A dónde viajás?</h1>
+  <p class="hero-sub" id="heroSub">Tocá un destino y te llevamos.</p>
+  <div class="dest" id="dest" role="group" aria-label="Destinos"></div>
+  <div class="arrive" id="arrive" hidden>
+    <a class="cta" id="enter" href="https://ronkstudio.github.io/proyecto-compartido/" target="_blank" rel="noopener">Entrar a la guía</a>
+    <p class="soon-note" id="soon" hidden>Muy pronto en la guía.</p>
+    <button type="button" class="ghost" id="again">Elegir otro destino</button>
+  </div>
+  <p class="origin" id="originRow">
+    <label for="origin">Salís desde</label>
+    <select id="origin"></select>
+    <span class="origin-note" id="originNote"></span>
+  </p>
+</section>
+<div class="flash" id="flash" aria-hidden="true"></div>
 
-<div class="intros" role="group" aria-label="Probar un inicio">
-  <span class="intros-label">Ver inicio</span>
-  <button type="button" data-intro="espacio" aria-pressed="false"><span class="long">1 · Desde el espacio</span><span class="short">1 Espacio</span></button>
-  <button type="button" data-intro="constelacion" aria-pressed="true"><span class="long">2 · Constelación</span><span class="short">2 Constelación</span></button>
-  <button type="button" data-intro="vuelo" aria-pressed="false"><span class="long">3 · Ruta de vuelo</span><span class="short">3 Vuelo</span></button>
-</div>
 
 <script>
 (() => {
@@ -291,13 +308,44 @@ canvas { position: absolute; inset: 0; width: 100%; height: 100%; display: block
   const byId = Object.fromEntries(CONTS.map(c => [c.id, c]));
 
   // Ciudades de la guía (data/ciudades.js) y las que vienen (tarjetas #100 a #102)
+  const GUIA = 'https://ronkstudio.github.io/proyecto-compartido/';
   const CITIES = [
-    { name: 'Buenos Aires', p: [-58.38, -34.60], c: 'SA', live: true },
-    { name: 'Berlín', p: [13.40, 52.52], c: 'EU', live: true },
-    { name: 'París', p: [2.35, 48.86], c: 'EU', live: false },
-    { name: 'Madrid', p: [-3.70, 40.42], c: 'EU', live: false },
-    { name: 'Roma', p: [12.50, 41.90], c: 'EU', live: false }
+    { name: 'Buenos Aires', country: 'Argentina', p: [-58.38, -34.60], c: 'SA', live: true, link: GUIA + '?ciudad=caba' },
+    { name: 'Berlín', country: 'Alemania', p: [13.40, 52.52], c: 'EU', live: true, link: GUIA + '?ciudad=berlin' },
+    { name: 'Madrid', country: 'España', p: [-3.70, 40.42], c: 'EU', live: false },
+    { name: 'París', country: 'Francia', p: [2.35, 48.86], c: 'EU', live: false },
+    { name: 'Roma', country: 'Italia', p: [12.50, 41.90], c: 'EU', live: false }
   ].map(x => ({ ...x, cont: byId[x.c] }));
+
+  /* Desde dónde sale la persona: se calcula por la zona horaria del dispositivo (no pide permiso ni manda nada).
+     Si no coincide con ninguna, arranca en Buenos Aires y se puede cambiar. */
+  const ORIGINS = [
+    { name: 'Buenos Aires', p: [-58.38, -34.60], tz: ['America/Argentina/Buenos_Aires', 'America/Buenos_Aires'] },
+    { name: 'Córdoba', p: [-64.18, -31.42], tz: ['America/Argentina/Cordoba', 'America/Cordoba'] },
+    { name: 'Mendoza', p: [-68.83, -32.89], tz: ['America/Argentina/Mendoza', 'America/Mendoza'] },
+    { name: 'Montevideo', p: [-56.16, -34.90], tz: ['America/Montevideo'] },
+    { name: 'Santiago de Chile', p: [-70.65, -33.45], tz: ['America/Santiago'] },
+    { name: 'San Pablo', p: [-46.63, -23.55], tz: ['America/Sao_Paulo'] },
+    { name: 'Lima', p: [-77.04, -12.05], tz: ['America/Lima'] },
+    { name: 'Bogotá', p: [-74.07, 4.71], tz: ['America/Bogota'] },
+    { name: 'Ciudad de México', p: [-99.13, 19.43], tz: ['America/Mexico_City'] },
+    { name: 'Nueva York', p: [-74.01, 40.71], tz: ['America/New_York', 'America/Toronto'] },
+    { name: 'Los Ángeles', p: [-118.24, 34.05], tz: ['America/Los_Angeles'] },
+    { name: 'Madrid', p: [-3.70, 40.42], tz: ['Europe/Madrid'] },
+    { name: 'Londres', p: [-0.13, 51.51], tz: ['Europe/London'] },
+    { name: 'París', p: [2.35, 48.86], tz: ['Europe/Paris'] },
+    { name: 'Berlín', p: [13.40, 52.52], tz: ['Europe/Berlin'] },
+    { name: 'Roma', p: [12.50, 41.90], tz: ['Europe/Rome'] },
+    { name: 'Tokio', p: [139.69, 35.69], tz: ['Asia/Tokyo'] },
+    { name: 'Sídney', p: [151.21, -33.87], tz: ['Australia/Sydney'] }
+  ];
+  ORIGINS.forEach(o => { o.cont = CONTS.find(c => d3.geoContains(c.feature, o.p)) || null; });
+  function guessOrigin() {
+    let tz = '';
+    try { tz = Intl.DateTimeFormat().resolvedOptions().timeZone || ''; } catch (e) {}
+    const hit = ORIGINS.find(o => o.tz.includes(tz)) || (tz.startsWith('America/Argentina/') ? ORIGINS[0] : null);
+    return { origin: hit || ORIGINS[0], guessed: !!hit };
+  }
 
   const SPHERE = { type: 'Sphere' };
   const GRATICULE = d3.geoGraticule().step([15, 15])();
@@ -342,9 +390,9 @@ canvas { position: absolute; inset: 0; width: 100%; height: 100%; display: block
   const out = { lat: document.getElementById('lat'), lon: document.getElementById('lon'), z: document.getElementById('zoomv') };
 
   // Ajustes del boceto (quedan guardados en este navegador)
-  const settings = { tilt: 30, grow: 10, spin: true, near: 50, back: false, intro: 'constelacion' };
-  try { Object.assign(settings, JSON.parse(localStorage.getItem('mapa-galactico-ajustes') || '{}')); } catch (e) {}
-  const saveSettings = () => { try { localStorage.setItem('mapa-galactico-ajustes', JSON.stringify(settings)); } catch (e) {} };
+  const settings = { tilt: 30, grow: 10, spin: false, near: 50, back: false };
+  try { Object.assign(settings, JSON.parse(localStorage.getItem('mapa-galactico-ajustes-5') || '{}')); } catch (e) {}
+  const saveSettings = () => { try { localStorage.setItem('mapa-galactico-ajustes-5', JSON.stringify(settings)); } catch (e) {} };
 
   const makeProj = () => mutate(P, settings.tilt * RAD).clipAngle(CLIP).precision(0.8);
   let proj = makeProj();
@@ -360,7 +408,8 @@ canvas { position: absolute; inset: 0; width: 100%; height: 100%; display: block
   let stars = [];
   // Para los inicios: cuánto se ve del globo y de las líneas, y qué se dibuja encima
   const fx = { globe: 1, lines: 1, dash: null };
-  let intro = null, parts = null, route = null, pulses = [], skyWarp = 1;
+  let intro = null, route = null, pulses = [], skyWarp = 1;
+  const trip = { origin: null, guessed: false, dest: null, phase: 'elegir' };
   const clamp = (v, a, b) => Math.max(a, Math.min(b, v));
   const wrap = d => ((d + 180) % 360 + 360) % 360 - 180;
   const F = () => [W / 2, H * 0.56];  // el punto de la pantalla que cuenta como "centro"
@@ -482,7 +531,7 @@ canvas { position: absolute; inset: 0; width: 100%; height: 100%; display: block
   /* ---------- Dibujo ---------- */
   const visible = p => d3.geoDistance(p, [lon, lat]) < CLIP * RAD - 0.01;
   function lifted(c, p) {
-    if (c.glow < 0.01) return p;
+    if (!c || c.glow < 0.01) return p;
     const ap = anchorScreen(c);
     return [ap[0] + (p[0] - ap[0]) * c.k, ap[1] + (p[1] - ap[1]) * c.k - lift(c)];
   }
@@ -547,18 +596,6 @@ canvas { position: absolute; inset: 0; width: 100%; height: 100%; display: block
     ctx.setLineDash([]); ctx.globalAlpha = 1;
   }
 
-  // Inicio "Constelación": las estrellas viajan hasta los bordes de los continentes
-  function drawParts() {
-    if (!parts || parts.a <= 0.001) return;
-    ctx.globalAlpha = parts.a;
-    for (const q of parts.list) {
-      const x = q.x0 + (q.x - q.x0) * q.e, y = q.y0 + (q.y - q.y0) * q.e;
-      ctx.fillStyle = q.e >= 1 ? '#ffffff' : 'rgba(' + GLOW + ',0.95)';
-      ctx.beginPath(); ctx.arc(x, y, q.r * (1 + 0.6 * q.e), 0, 6.283); ctx.fill();
-    }
-    ctx.globalAlpha = 1;
-  }
-
   // Inicio "Ruta de vuelo": la línea roja de Buenos Aires a Berlín
   function drawRoute() {
     if (!route || route.alpha <= 0.01 || route.u <= 0) return;
@@ -580,10 +617,18 @@ canvas { position: absolute; inset: 0; width: 100%; height: 100%; display: block
 
   // Ondas que salen de una ciudad
   function drawPulses(now) {
-    pulses = pulses.filter(p => now - p.t0 < 3200);
+    pulses = pulses.filter(p => now - p.t0 < (p.shock ? 900 : 3200));
     for (const p of pulses) {
       if (!visible(p.p)) continue;
       const [x, y] = lifted(p.cont, proj(p.p));
+      if (p.shock) {
+        const k = easeOut((now - p.t0) / 900), R = 20 + Math.hypot(W, H) * 0.55 * k;
+        ctx.strokeStyle = 'rgba(255,255,255,' + (0.7 * (1 - k)) + ')'; ctx.lineWidth = 3 + 10 * (1 - k);
+        ctx.beginPath(); ctx.arc(x, y, R, 0, 6.283); ctx.stroke();
+        ctx.strokeStyle = 'rgba(' + CITY + ',' + (0.8 * (1 - k)) + ')'; ctx.lineWidth = 2;
+        ctx.beginPath(); ctx.arc(x, y, R * 0.7, 0, 6.283); ctx.stroke();
+        continue;
+      }
       for (const off of [0, 800]) {
         const k = ((now - p.t0 - off) % 1600) / 1600;
         if (now - p.t0 < off || k < 0) continue;
@@ -592,9 +637,24 @@ canvas { position: absolute; inset: 0; width: 100%; height: 100%; display: block
       }
     }
   }
-  const addPulse = city => { pulses.push({ p: city.p, cont: city.cont, t0: performance.now() }); };
+  const addPulse = (city, shock) => { pulses.push({ p: city.p, cont: city.cont, t0: performance.now(), shock: !!shock }); };
+
+  function drawOrigin() {
+    const o = trip.origin;
+    if (!o || !visible(o.p) || CITIES.some(c => c.name === o.name && trip.phase !== 'elegir')) return;
+    const [x, y] = lifted(o.cont, proj(o.p));
+    ctx.fillStyle = 'rgba(' + GLOW + ',0.35)'; ctx.beginPath(); ctx.arc(x, y, 9, 0, 6.283); ctx.fill();
+    ctx.fillStyle = '#ffffff'; ctx.beginPath(); ctx.arc(x, y, 3.6, 0, 6.283); ctx.fill();
+    if (trip.phase === 'elegir') {
+      ctx.font = '700 12px ' + FONT_BODY; ctx.textBaseline = 'middle';
+      ctx.shadowColor = SPACE; ctx.shadowBlur = 6; ctx.fillStyle = INK;
+      ctx.fillText(CITIES.some(c => c.name === o.name) ? 'Estás acá' : 'Estás acá · ' + o.name, x + 12, y);
+      ctx.shadowBlur = 0;
+    }
+  }
 
   function drawCities() {
+    drawOrigin();
     ctx.font = '700 12px ' + FONT_BODY; ctx.textBaseline = 'middle';
     ctx.globalAlpha = fx.lines;
     for (const p of CITIES) {
@@ -612,8 +672,8 @@ canvas { position: absolute; inset: 0; width: 100%; height: 100%; display: block
       } else {
         ctx.strokeStyle = INK; ctx.lineWidth = 1.3; ctx.beginPath(); ctx.arc(x, y, 2.8 + 0.5 * g, 0, 6.283); ctx.stroke();
       }
-      if (g > 0.05) {
-        ctx.globalAlpha = Math.min(1, g * 1.3); ctx.shadowColor = SPACE; ctx.shadowBlur = 6;
+      if (g > 0.05 || (trip.dest === p && trip.phase === 'llegó')) {
+        ctx.globalAlpha = Math.max(trip.dest === p ? 1 : 0, Math.min(1, g * 1.3)); ctx.shadowColor = SPACE; ctx.shadowBlur = 6;
         ctx.fillStyle = INK; ctx.fillText(p.name, x + 9, y);
         ctx.shadowBlur = 0; ctx.globalAlpha = 1;
       }
@@ -621,6 +681,8 @@ canvas { position: absolute; inset: 0; width: 100%; height: 100%; display: block
   }
 
   function placeLabel() {
+    // el nombre del continente se esconde mientras está la pregunta, en el vuelo y de cerca
+    label.classList.toggle('far', zoom / cover > 2.2 || trip.phase !== 'llegó' && !hero.classList.contains('out') || trip.phase === 'volando');
     if (!focus || label._w == null) return;
     let p = visible(focus.l) ? lifted(focus, proj(focus.l)) : F().slice();
     const heroBottom = hero.classList.contains('out') ? 0 : hero.getBoundingClientRect().bottom + 24;
@@ -649,7 +711,6 @@ canvas { position: absolute; inset: 0; width: 100%; height: 100%; display: block
     drawCities();
     ctx.globalAlpha = 1;
     drawPulses(performance.now());
-    drawParts();
     placeLabel();
     const g = geoAt(...F());
     if (g) { out.lat.textContent = fmt(g[1], 'N', 'S'); out.lon.textContent = fmt(wrap(g[0]), 'E', 'O'); }
@@ -702,7 +763,7 @@ canvas { position: absolute; inset: 0; width: 100%; height: 100%; display: block
   const centerOn = c => { glideTo(c.a[0], c.a[1] - centerOffset()); if (settings.near) animateZoom(1 + 0.25 * settings.near / 50, 950); };
   function animateZoom(f, dur = 300) { zoomAnim = { z0: zoom, z1: clamp(zoom * f, MINZ * cover, MAXZ * cover), t0: performance.now(), dur: reduced ? 1 : dur }; }
 
-  const touched = () => { lastTouch = performance.now(); hideHero(); };
+  const touched = () => { lastTouch = performance.now(); if (route && trip.phase === 'llegó' && !route.fade) route.fade = performance.now(); };
 
   const pointers = new Map();
   let drag = null, pinch = null;
@@ -800,127 +861,160 @@ canvas { position: absolute; inset: 0; width: 100%; height: 100%; display: block
   spin.addEventListener('change', () => { settings.spin = spin.checked; saveSettings(); });
   near.addEventListener('input', () => { settings.near = +near.value; showSettings(); saveSettings(); });
   back.addEventListener('change', () => { settings.back = back.checked; saveSettings(); });
-  document.getElementById('reset').addEventListener('click', () => {
-    glideTo(-60, -16 - centerOffset(), 1100);
-    zoomAnim = { z0: zoom, z1: cover, t0: performance.now(), dur: reduced ? 1 : 1100 };
-    hideHero();
-  });
+  document.getElementById('reset').addEventListener('click', () => { if (intro) finishIntro(); openAt(trip.origin); });
   showSettings();
 
 
-  /* ---------- Inicios ---------- */
-  const BA = CITIES[0], BER = CITIES[1];
-  const easeOut = t => 1 - Math.pow(1 - t, 3);
-  const home = () => ({ lon: -60, lat: -16 - centerOffset() });
-  const km = Math.round(d3.geoDistance(BA.p, BER.p) * 6371 / 100) * 100;
-  const kmText = km.toLocaleString('es-AR');
+  /* ---------- El viaje: de dónde salís, a dónde vas, la ruta y la llegada ---------- */
+  const easeOut = t => 1 - Math.pow(1 - clamp(t, 0, 1), 3);
+  const easeOutBack = t => { const c1 = 1.70158, c3 = c1 + 1, x = clamp(t, 0, 1) - 1; return 1 + c3 * x * x * x + c1 * x * x; };
+  const viewOf = p => ({ lon: p[0], lat: clamp(p[1] - centerOffset(), -72, 62) });
+  const kmBetween = (a, b) => Math.round(d3.geoDistance(a, b) * 6371 / 100) * 100;
+  const kmText = n => n.toLocaleString('es-AR') + ' km';
+  const CLOSE = 5;  // cuánto se acerca al llegar (veces el zoom de arranque)
 
-  let heroTimer = 0;
-  function showHero(title, sub) {
-    heroTitle.textContent = title; heroSub.textContent = sub;
-    hero.hidden = false;
-    requestAnimationFrame(() => hero.classList.remove('out'));
-    dirty = true;
-  }
-  function hideHero() {
-    if (hero.classList.contains('out')) return;
-    hero.classList.add('out'); dirty = true;
-    if (route) route.fade = performance.now();
-  }
-  const WELCOME = ['¿A dónde vamos?', 'Arrastrá el globo o tocá un continente.'];
+  const destBox = document.getElementById('dest'), arrive = document.getElementById('arrive');
+  const enter = document.getElementById('enter'), soon = document.getElementById('soon');
+  const originSel = document.getElementById('origin'), originRow = document.getElementById('originRow');
+  const originNote = document.getElementById('originNote');
+  const flash = document.getElementById('flash');
 
-  const INTROS = {
-    // 1. Llegás desde el espacio: el globo es un punto que se acerca hasta llenar la pantalla
-    espacio: {
-      dur: 3800,
-      start() { this.h = home(); this.hero = false; },
+  function showHero() { hero.hidden = false; requestAnimationFrame(() => hero.classList.remove('out')); dirty = true; }
+  function hideHero() { hero.classList.add('out'); dirty = true; }
+
+  function renderHero() {
+    const o = trip.origin, d = trip.dest;
+    if (trip.phase === 'elegir') {
+      heroTitle.textContent = '¿A dónde viajás?';
+      heroSub.textContent = 'Tocá un destino y te llevamos.';
+      destBox.hidden = false; arrive.hidden = true; originRow.hidden = false;
+      originNote.textContent = trip.guessed ? 'Lo calculamos por la hora de tu dispositivo.' : '';
+    } else if (trip.phase === 'llegó') {
+      const km = kmBetween(o.p, d.p);
+      heroTitle.textContent = d.name;
+      heroSub.textContent = d.country + ' · ' + (km < 200 ? 'ya estás acá' : kmText(km) + ' desde ' + o.name);
+      destBox.hidden = true; arrive.hidden = false; originRow.hidden = true;
+      enter.hidden = !d.live; soon.hidden = d.live;
+      if (d.live) { enter.href = d.link; enter.textContent = 'Entrar a la guía de ' + d.name; }
+    }
+  }
+
+  // Al abrir: llegás desde el espacio al lugar de donde salís
+  function openAt(o) {
+    const v = viewOf(o.p);
+    trip.phase = 'elegir'; trip.dest = null; route = null; hideHero();
+    started = false; focus = null; label.classList.add('out');
+    intro = {
+      t0: performance.now(), dur: 2600,
       step(t) {
         const e = ease(t);
-        zoom = cover * Math.pow(0.04, 1 - easeOut(t));
-        lon = wrap(this.h.lon - 120 * (1 - e)); lat = this.h.lat + 14 * (1 - e);
+        zoom = cover * Math.pow(0.05, 1 - easeOut(t));
+        lon = wrap(v.lon - 100 * (1 - e)); lat = v.lat + 12 * (1 - e);
         skyWarp = easeOut(t);
-        if (t > 0.7 && !this.hero) { this.hero = true; showHero(...WELCOME); }
       },
-      end() { lon = this.h.lon; lat = this.h.lat; zoom = cover; skyWarp = 1; addPulse(BA); }
-    },
-    // 2. Constelación: las estrellas se juntan en los bordes, se dibujan las líneas y aparece el globo
-    constelacion: {
-      dur: 4800,
-      start() {
-        const h = home(); lon = h.lon; lat = h.lat; zoom = cover; applyView();
-        const pts = [];
-        for (const c of CONTS) for (const poly of c.feature.geometry.coordinates) for (const ring of poly)
-          for (let i = 0; i < ring.length; i += 2) {
-            const g = ring[i]; if (!visible(g)) continue;
-            const q = proj(g); if (q[0] < -10 || q[0] > W + 10 || q[1] < -10 || q[1] > H + 10) continue;
-            pts.push(q);
-          }
-        const n = Math.min(pts.length, W < 600 ? 420 : 800), step = pts.length / Math.max(1, n);
-        parts = { a: 1, list: Array.from({ length: n }, (_, i) => {
-          const q = pts[Math.floor(i * step)];
-          return { x0: Math.random() * W, y0: Math.random() * H, x: q[0], y: q[1], d: Math.random() * 0.4, r: 0.7 + Math.random() * 1.1, e: 0 };
-        }) };
-        fx.globe = 0; fx.lines = 0; fx.dash = 0; this.hero = false;
-      },
-      step(t) {
-        const T = t * this.dur / 1000;
-        for (const q of parts.list) q.e = ease(clamp((T / 2.3 - q.d) / 0.6, 0, 1));
-        parts.a = 1 - clamp((T - 3.2) / 0.9, 0, 1);
-        fx.lines = clamp((T - 2.0) / 0.4, 0, 1);
-        fx.dash = T < 3.9 ? Math.max(0, (T - 2.0) * 1500) : null;
-        fx.globe = easeOut(clamp((T - 3.0) / 1.4, 0, 1));
-        if (T > 3.7 && !this.hero) { this.hero = true; showHero(...WELCOME); }
-      },
-      end() { parts = null; addPulse(BA); }
-    },
-    // 3. Ruta de vuelo: una línea roja viaja de Buenos Aires a Berlín y la cámara la sigue
-    vuelo: {
-      dur: 6200,
-      start() {
-        route = { interp: d3.geoInterpolate(BA.p, BER.p), u: 0, alpha: 1, fade: 0 };
-        lon = BA.p[0]; lat = BA.p[1] - centerOffset(); zoom = cover; applyView();
-        addPulse(BA); this.hero = false; this.arrived = false;
-      },
-      step(t) {
-        const u = clamp((t - 0.14) / 0.72, 0, 1), e = ease(u);
-        route.u = e;
-        const head = route.interp(e);
-        lon = head[0]; lat = head[1] - centerOffset();
-        zoom = cover * (1 - 0.45 * Math.sin(Math.PI * e));
-        if (u >= 1 && !this.arrived) { this.arrived = true; addPulse(BER); started = true; dirty = true; }
-        if (t > 0.9 && !this.hero) { this.hero = true; showHero('¿A dónde vamos ahora?', 'De Buenos Aires a Berlín hay ' + kmText + ' km. Arrastrá el globo para seguir.'); }
-      },
-      end() { route.u = 1; lon = BER.p[0]; lat = BER.p[1] - centerOffset(); zoom = cover; }
-    }
-  };
-
-  function playIntro(name) {
-    if (intro) finishIntro(true);
-    settings.intro = name; saveSettings(); markIntro();
-    glide = null; zoomAnim = null; vLon = vLat = 0;
-    parts = null; route = null; pulses = []; fx.globe = 1; fx.lines = 1; fx.dash = null; skyWarp = 1;
-    hero.classList.add('out');
-    started = false; focus = null; label.classList.add('out');
-    intro = Object.create(INTROS[name]); intro.t0 = performance.now();
-    intro.start();
+      end() { lon = v.lon; lat = v.lat; zoom = cover; skyWarp = 1; started = true; addPulse(o); renderHero(); showHero(); }
+    };
     if (reduced) finishIntro();
-    dirty = true;
   }
-  function finishIntro(quiet) {
+
+  // Elegiste destino: la cámara va al punto de salida, sigue la ruta y entra "pum" a la ciudad
+  function flyTo(d) {
+    const o = trip.origin, dist = d3.geoDistance(o.p, d.p);
+    trip.dest = d; trip.phase = 'volando'; hideHero();
+    started = false; vLon = vLat = 0; glide = null; zoomAnim = null; pulses = [];
+    const near = dist < 0.03;                                   // menos de unos 200 km: no hace falta volar
+    route = near ? null : { interp: d3.geoInterpolate(o.p, d.p), u: 0, alpha: 1, fade: 0 };
+    const c0 = { lon, lat, zoom }, vo = viewOf(o.p), vd = viewOf(d.p);
+    const pre = near ? 500 : 700, fly = near ? 0 : clamp(1500 + dist * DEG * 15, 1800, 4400), pum = 950;
+    const dip = 0.5 * Math.min(1, dist / 1.4);
+    let hit = false;
+    intro = {
+      t0: performance.now(), dur: pre + fly + pum,
+      step(t) {
+        const T = t * this.dur;
+        if (T < pre) {
+          const e = ease(T / pre), to = near ? vd : vo;
+          lon = wrap(c0.lon + wrap(to.lon - c0.lon) * e); lat = c0.lat + (to.lat - c0.lat) * e;
+          zoom = c0.zoom * Math.pow(cover * 0.95 / c0.zoom, e);
+        } else if (T < pre + fly) {
+          const e = ease((T - pre) / fly);
+          route.u = e;
+          const v = viewOf(route.interp(e));
+          lon = v.lon; lat = v.lat;
+          zoom = cover * 0.95 * (1 - dip * Math.sin(Math.PI * e));
+        } else {
+          // "pum": un amague para atrás y después entra rápido, pasándose un poquito
+          if (route) route.u = 1;
+          lon = vd.lon; lat = vd.lat;
+          const k = (T - pre - fly) / pum, z0 = cover * 0.95, zA = z0 * 0.9;
+          if (k < 0.2) zoom = z0 * Math.pow(0.9, ease(k / 0.2));
+          else zoom = zA * Math.pow(cover * CLOSE / zA, easeOutBack((k - 0.2) / 0.8));
+          if (!hit && k > 0.45) { hit = true; impact(d); }
+        }
+      },
+      end() {
+        if (!hit) impact(d);
+        lon = vd.lon; lat = vd.lat; zoom = cover * CLOSE;
+        trip.phase = 'llegó'; started = true; renderHero(); showHero();
+        arrivePulse(d);
+      }
+    };
+    if (reduced) finishIntro();
+  }
+
+  function impact(d) {
+    addPulse(d, true); addPulse(d);
+    if (reduced) return;
+    const p = lifted(d.cont, proj(d.p));
+    flash.style.setProperty('--x', p[0] + 'px'); flash.style.setProperty('--y', p[1] + 'px');
+    flash.classList.remove('go'); stage.classList.remove('shake');
+    void flash.offsetWidth;
+    flash.classList.add('go'); stage.classList.add('shake');
+  }
+  // mientras estás en la ciudad, la ciudad late cada tanto
+  let beat = 0;
+  function arrivePulse(d) {
+    clearInterval(beat);
+    beat = setInterval(() => { if (trip.phase === 'llegó' && trip.dest === d) addPulse(d); else clearInterval(beat); }, 2600);
+  }
+
+  function finishIntro() {
     if (!intro) return;
     const it = intro; intro = null;
     it.end();
-    parts = null; fx.globe = 1; fx.lines = 1; fx.dash = null; skyWarp = 1;
-    if (!quiet && hero.classList.contains('out')) {
-      if (route) showHero('¿A dónde vamos ahora?', 'De Buenos Aires a Berlín hay ' + kmText + ' km. Arrastrá el globo para seguir.');
-      else showHero(...WELCOME);
-    }
-    started = true; lastTouch = performance.now(); dirty = true;
+    lastTouch = performance.now(); dirty = true;
   }
 
-  const introBtns = [...document.querySelectorAll('[data-intro]')];
-  function markIntro() { for (const b of introBtns) b.setAttribute('aria-pressed', String(b.dataset.intro === settings.intro)); }
-  for (const b of introBtns) b.addEventListener('click', () => playIntro(b.dataset.intro));
+  // Botones de destino
+  for (const c of CITIES) {
+    const b = document.createElement('button');
+    b.type = 'button'; b.className = 'dest-btn' + (c.live ? '' : ' soon');
+    b.innerHTML = '<i class="dot' + (c.live ? '' : ' soon') + '" aria-hidden="true"></i>';
+    b.append(c.name);
+    if (!c.live) { const s = document.createElement('small'); s.textContent = 'pronto'; b.append(s); }
+    b.addEventListener('click', () => flyTo(c));
+    destBox.append(b);
+  }
+  document.getElementById('again').addEventListener('click', () => {
+    trip.phase = 'elegir'; trip.dest = null; clearInterval(beat);
+    if (route) route.fade = performance.now();
+    const v = viewOf(trip.origin.p);
+    glideTo(v.lon, v.lat + 0.0001, 1100);
+    zoomAnim = { z0: zoom, z1: cover, t0: performance.now(), dur: reduced ? 1 : 1100 };
+    addPulse(trip.origin); renderHero(); dirty = true;
+  });
+
+  // Desde dónde salís
+  for (const [i, o] of ORIGINS.entries()) {
+    const opt = document.createElement('option'); opt.value = i; opt.textContent = o.name; originSel.append(opt);
+  }
+  originSel.addEventListener('change', () => {
+    trip.origin = ORIGINS[+originSel.value]; trip.guessed = false;
+    const v = viewOf(trip.origin.p);
+    glideTo(v.lon, v.lat, 1000);
+    zoomAnim = { z0: zoom, z1: cover, t0: performance.now(), dur: reduced ? 1 : 1000 };
+    addPulse(trip.origin); renderHero();
+  });
 
   /* ---------- Bucle ---------- */
   let last = performance.now();
@@ -940,7 +1034,7 @@ canvas { position: absolute; inset: 0; width: 100%; height: 100%; display: block
       lon = wrap(lon + vLon * dt); lat = clamp(lat + vLat * dt, -72, 62);
       approach(Math.hypot(vLon * Math.cos(lat * RAD), vLat) * dt / degPerPx());
       const f = Math.exp(-dt * 3.4); vLon *= f; vLat *= f; moved = true;
-    } else if (settings.spin && !drag && !reduced && now - lastTouch > 3000) {
+    } else if (settings.spin && trip.phase === 'elegir' && !drag && !reduced && now - lastTouch > 3000) {
       // gira solo, despacio, de oeste a este
       lon = wrap(lon - 4 * dt); moved = true;
     }
@@ -973,10 +1067,11 @@ canvas { position: absolute; inset: 0; width: 100%; height: 100%; display: block
 
   layout();
   zoom = cover;
-  // arranca mirando América del Sur, donde empieza la guía, con el globo llenando la pantalla
   lon = -60; lat = -16 - centerOffset(); applyView();
   lastTouch = performance.now() - 1500;
-  requestAnimationFrame(t => { last = t; map.classList.add('ready'); playIntro(INTROS[settings.intro] ? settings.intro : 'constelacion'); frame(t); });
+  const g0 = guessOrigin();
+  trip.origin = g0.origin; trip.guessed = g0.guessed; originSel.value = String(ORIGINS.indexOf(trip.origin));
+  requestAnimationFrame(t => { last = t; map.classList.add('ready'); openAt(trip.origin); frame(t); });
   if (document.fonts && document.fonts.ready) document.fonts.ready.then(() => { dirty = true; if (focus) setFocus(focus); });
 })();
 </script>
