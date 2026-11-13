@@ -767,3 +767,4 @@
 767|Avisamos em vermelho se um lugar costuma fechar no dia em que você agendou.
 768|terminais e aeroportos. Toque em um para ver o endereço e como chegar.
 769|Outros esportes
+770|Ver fotos

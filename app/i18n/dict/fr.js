@@ -711,6 +711,7 @@ window.I18N_FULL = {
 "Te avisamos en rojo si un lugar suele cerrar el día que lo agendaste.": "Nous vous prévenons en rouge si un lieu ferme habituellement le jour où vous l'avez programmé.",
 "terminales y aeropuertos. Tocá uno para ver la dirección y cómo llegar.": "gares et aéroports. Touchez-en un pour voir l'adresse et comment y aller.",
 "Otros deportes": "Autres sports",
+"Ver fotos": "Voir les photos",
 "Armá tu viaje en 10 segundos": "Composez votre voyage en 10 secondes",
 "Buenos Aires en 1 día": "Buenos Aires en 1 jour",
 "3 días clásicos": "3 jours classiques",

@@ -710,6 +710,7 @@ window.I18N_FULL = {
 "Te avisamos en rojo si un lugar suele cerrar el día que lo agendaste.": "予定した日にスポットがいつも休みなら、赤で知らせます。",
 "terminales y aeropuertos. Tocá uno para ver la dirección y cómo llegar.": "ターミナルと空港。タップすると住所と行き方が見られます。",
 "Otros deportes": "その他のスポーツ",
+"Ver fotos": "写真を見る",
 "Armá tu viaje en 10 segundos": "10秒で旅程を作成",
 "Buenos Aires en 1 día": "1日で巡るブエノスアイレス",
 "3 días clásicos": "定番の3日間",

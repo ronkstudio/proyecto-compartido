@@ -134,6 +134,17 @@ main:focus { outline: none; }
 .media { position: relative; display: block; overflow: hidden; background: linear-gradient(135deg, color-mix(in srgb, var(--c, #5b6b7c) 80%, #000), color-mix(in srgb, var(--c, #5b6b7c) 50%, #fff)); }
 .media i { position: absolute; inset: 0; display: grid; place-items: center; font-style: normal; }
 .media img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
+/* Portada sin foto: el nombre del lugar (tarjeta #114) */
+.media.noph { background: radial-gradient(circle at 80% 15%, rgba(255, 255, 255, .14), transparent 55%), linear-gradient(150deg, color-mix(in srgb, var(--c, #5b6b7c) 72%, #0b1118), color-mix(in srgb, var(--c, #5b6b7c) 42%, #0b1118)); }
+.ph-name { position: absolute; inset: 6px; display: grid; place-items: center; text-align: center; border: 1px solid rgba(255, 255, 255, .28); border-radius: 8px; padding: 8px; color: #fff; }
+.ph-name b { font-family: var(--serif); font-weight: 600; font-size: 19px; line-height: 1.15; letter-spacing: .005em; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; overflow-wrap: anywhere; text-shadow: 0 1px 2px rgba(0, 0, 0, .25); }
+.ph-name b::after { content: ""; display: block; width: 26px; height: 1px; margin: 7px auto 0; background: rgba(255, 255, 255, .6); }
+.thumb .ph-name { inset: 4px; padding: 4px; border-radius: 9px; }
+.thumb .ph-name b { font-size: 12.5px; }
+.thumb .ph-name b::after { width: 16px; margin-top: 4px; }
+.ph-btn { position: absolute; z-index: 2; right: 12px; bottom: 14px; padding: 7px 12px; border-radius: 999px; background: rgba(255, 255, 255, .92); color: #14202c; font-size: 13.5px; font-weight: 600; text-decoration: none; box-shadow: 0 1px 4px rgba(0, 0, 0, .2); }
+.ph-btn:hover { background: #fff; }
+.sheet-head:has(.ph-btn) .sheet-title { padding-right: 130px; }
 
 /* ── Carruseles ── */
 .rail { display: flex; gap: 12px; overflow-x: auto; scroll-snap-type: x proximity; padding: 2px 16px 12px; margin: 0 -16px; scrollbar-width: thin; }

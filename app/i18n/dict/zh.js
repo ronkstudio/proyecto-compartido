@@ -710,6 +710,7 @@ window.I18N_FULL = {
 "Te avisamos en rojo si un lugar suele cerrar el día que lo agendaste.": "如果某个地点通常在你安排的那天休息，我们会用红色提醒你。",
 "terminales y aeropuertos. Tocá uno para ver la dirección y cómo llegar.": "车站和机场。点击一个查看地址和交通方式。",
 "Otros deportes": "其他运动",
+"Ver fotos": "查看照片",
 "Armá tu viaje en 10 segundos": "10 秒规划你的行程",
 "Buenos Aires en 1 día": "一天玩转布宜诺斯艾利斯",
 "3 días clásicos": "经典三日游",
