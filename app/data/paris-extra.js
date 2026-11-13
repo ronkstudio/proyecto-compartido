@@ -21,6 +21,16 @@ window.CITY_EXTRA.paris = {
 
   quality: {},
   awards: {},
+  /* Dietas (tarjeta #154). Solo con fuente: el sitio de cada local y OpenStreetMap ("diet:vegan" / "diet:gluten_free"), revisados el 13/11/2026.
+     Sin TACC: Chambelland (chambelland.com), Copains (copains-paris.com), Judy (judy-paris.com) y Kapunka Vegan (kapunka-vegan.fr)
+     dicen en su sitio que todo es sin gluten. Vegetarianos: Le Grenier de Notre-Dame (vegetariano desde 1978, según su sitio)
+     y los otros tres son 100 % veganos según su sitio u OpenStreetMap. L'As du Fallafel y L'Arpège tienen opciones vegetarianas. */
+  diet: {
+    "chambelland": ["sin TACC"], "copains": ["sin TACC"], "judy": ["sin TACC"], "kapunka-vegan": ["sin TACC", "vegano", "vegetariano"],
+    "le-potager-de-charlotte": ["vegano", "vegetariano"], "wild-the-moon": ["vegano", "vegetariano"], "le-potager-du-marais": ["vegano", "vegetariano"],
+    "le-grenier-de-notre-dame": ["vegetariano"], "l-as-du-fallafel": ["vegetariano"], "l-arpege": ["vegetariano"]
+  },
+  dietFull: ["chambelland", "copains", "judy", "kapunka-vegan", "le-potager-de-charlotte", "wild-the-moon", "le-potager-du-marais", "le-grenier-de-notre-dame"],
   only: {},
   closed: {},
 
