@@ -19,7 +19,14 @@ window.CITY_EXTRA.paris = {
     { id: "honorario", icon: "🥖", name: "Parisino honorario", desc: "20 lugares visitados", n: 20 }
   ],
 
-  quality: {},
+  /* Nivel de recomendación (tarjeta #159): 3 = Destacado, 2 = Muy recomendado, 1 = Buena opción.
+     Los marcados como destacados en data/paris-lugares.js ya son 3; el resto es 2 salvo lo que se lista acá. */
+  quality: {
+    3: ["museo-rodin", "museo-de-la-orangerie", "le-comptoir-du-relais", "septime", "berthillon", "giverny-y-la-casa-de-monet",
+      "le-meurice", "ritz-paris", "jardin-de-las-tullerias", "les-deux-magots", "angelina", "le-bon-marche"],
+    1: ["ibis-paris-tour-eiffel-cambronne", "novotel-paris-centre-tour-eiffel", "big-bus-paris", "tootbus-paris", "c-ur-de-breizh",
+      "breizh-cafe-montorgueil", "france-miniature", "la-mer-de-sable", "museo-grevin", "st-christopher-s-inn-canal", "avenue-montaigne"]
+  },
   awards: {},
   /* Dietas (tarjeta #154). Solo con fuente: el sitio de cada local y OpenStreetMap ("diet:vegan" / "diet:gluten_free"), revisados el 13/11/2026.
      Sin TACC: Chambelland (chambelland.com), Copains (copains-paris.com), Judy (judy-paris.com) y Kapunka Vegan (kapunka-vegan.fr)
@@ -31,8 +38,18 @@ window.CITY_EXTRA.paris = {
     "le-grenier-de-notre-dame": ["vegetariano"], "l-as-du-fallafel": ["vegetariano"], "l-arpege": ["vegetariano"]
   },
   dietFull: ["chambelland", "copains", "judy", "kapunka-vegan", "le-potager-de-charlotte", "wild-the-moon", "le-potager-du-marais", "le-grenier-de-notre-dame"],
-  only: {},
-  closed: {},
+  /* Días que abren o cierran (0 = domingo … 6 = sábado). Días fijos de cada lugar, según su sitio oficial; pueden cambiar en feriados. */
+  only: {
+    "marche-bastille": [4, 0], "marche-raspail": [2, 5, 0], "marche-president-wilson": [3, 6],
+    "marche-aux-puces-de-saint-ouen": [6, 0, 1], "puces-de-vanves": [6, 0]
+  },
+  closed: {
+    "museo-del-louvre": [2], "museo-de-orsay": [1], "museo-de-la-orangerie": [2], "museo-rodin": [1], "museo-picasso": [1],
+    "museo-carnavalet": [1], "petit-palais": [1], "museo-del-quai-branly": [1], "museo-marmottan-monet": [1], "bourse-de-commerce": [2],
+    "fundacion-louis-vuitton": [2], "museo-de-cluny": [1], "gran-galeria-de-la-evolucion": [2], "museo-de-artes-decorativas": [1],
+    "catacumbas-de-paris": [1], "museo-de-las-cloacas": [1], "ciudad-de-las-ciencias-y-de-la-industria": [1],
+    "du-pain-et-des-idees": [6, 0], "l-as-du-fallafel": [6], "marche-des-enfants-rouges": [1], "marche-d-aligre": [1]
+  },
 
   /* Lista de preparación del viaje (se tilda y queda guardada en el dispositivo). */
   checklist: [
@@ -50,6 +67,26 @@ window.CITY_EXTRA.paris = {
       "Comprar un chip prepago o activar la eSIM",
       "Anotar la dirección del alojamiento y dejar el pasaporte ahí"
     ] }
+  ],
+
+  /* Colecciones del inicio (tarjeta #159): cada una es un filtro de Explorar. */
+  collections: [
+    { name: "Clásicos parisinos", icon: "🥐", filter: { q: "clásico" }, cover: "cafe-de-flore" },
+    { name: "Joyas menos conocidas", icon: "💎", filter: { q: "joya oculta" }, cover: "galerie-vivienne" },
+    { name: "París gratis", icon: "💸", filter: { prices: [0] }, cover: "jardin-de-luxemburgo" },
+    { name: "Miradores y terrazas", icon: "🌇", filter: { q: "mirador" }, cover: "arco-del-triunfo" },
+    { name: "Arte y museos", icon: "🎨", filter: { q: "arte" }, cover: "museo-de-orsay" },
+    { name: "Bistrós", icon: "🍷", filter: { cat: "comer", sub: "Bistró" }, cover: "chez-janou" },
+    { name: "Panaderías y dulces", icon: "🥖", filter: { q: "panadería" }, cover: "du-pain-et-des-idees" },
+    { name: "Cafés históricos", icon: "☕", filter: { cat: "comer", sub: "Café histórico" }, cover: "les-deux-magots" },
+    { name: "Jazz y cabarets", icon: "🎷", filter: { cat: "noche" }, cover: "moulin-rouge" },
+    { name: "Con chicos", icon: "🧒", filter: { q: "chicos" }, cover: "jardin-d-acclimatation" },
+    { name: "Vegetariano y vegano", icon: "🥬", filter: { diets: ["vegetariano"] }, cover: "" },
+    { name: "Sin TACC", icon: "🌾", filter: { diets: ["sin TACC"] }, cover: "" },
+    { name: "Grandes tiendas", icon: "🛍️", filter: { cat: "compras", sub: "Grandes tiendas" }, cover: "galerias-lafayette-haussmann" },
+    { name: "Cine y teatro", icon: "🎭", filter: { cat: "ocio" }, cover: "le-grand-rex" },
+    { name: "Barrios fuera del circuito", icon: "🏘️", filter: { q: "vida de barrio" }, cover: "" },
+    { name: "Excursiones de un día", icon: "🚆", filter: { cat: "escapadas" }, cover: "palacio-de-versalles" }
   ],
 
   /* Zonas para el armado automático de viajes, en orden de prioridad. */
