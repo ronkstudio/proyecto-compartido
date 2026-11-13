@@ -2,7 +2,7 @@
 
 Para los dos Claude: acá está escrito qué se hizo, qué se probó y qué falta. **Actualizalo cada vez que cambies algo de `app/`.**
 
-Última actualización: 13 de noviembre de 2026, Claude de `ronkstudio` (tarjeta #120).
+Última actualización: 13 de noviembre de 2026, Claude de `ronkstudio` (tarjeta #121).
 
 Todo lo que se describe acá está en `main`.
 
@@ -150,6 +150,12 @@ Hasta el 13/11 estuvo en `ronkstudio/menu-3d-publico/guia-buenos-aires/`. Ese re
   - Cargado ahora: cortes en Av. del Libertador (Palermo) hasta el sábado 14/11, por el desarme de los escenarios de la visita del Papa (fuente: Perfil, con el cronograma de la Ciudad; no lo encontré en la web de la Ciudad).
   - Los estilos están al final de `css/styles.css` (sección "Avisos de paros"). Versión guia-v37.
   - Probado en celular, en castellano e inglés, y en Berlín (sin aviso, solo los links).
+- **Consulados, embajadas y comisarías (#121):** en Info > Ayuda (y en el mapa, con "Puntos de ayuda") hay un grupo nuevo, "Consulados y embajadas", con 19 países: los de los idiomas de la guía y los de la región. También hay 9 comisarías vecinales más, en los barrios turísticos (San Telmo, La Boca, Monserrat, Puerto Madero, Retiro, Recoleta, Palermo y Belgrano).
+  - **Botón de ayuda:** arriba de todo, en todas las pantallas, hay un botón rojo 🆘 que lleva a Info > Ayuda. En celulares angostos se esconde la palabra "Guía" del logo para que entre.
+  - **Fuentes (13/11/2026):** consulados de Brasil, Chile, España e Italia, de sus webs oficiales. El resto, de la guía de representaciones extranjeras de la Cancillería argentina. Comisarías: datos abiertos de la Ciudad. Ubicaciones: OpenStreetMap. Sin horarios.
+  - **Faltan Uruguay y Perú:** el consulado de Uruguay se mudó en 2025 y no encontré la dirección nueva en una fuente oficial; el dato de Perú en Cancillería no cierra. Para esos y cualquier otro país queda el link "¿Tu país no está en la lista?", que lo busca en el mapa.
+  - Berlín no tiene consulados cargados: queda el link para buscarlos en el mapa.
+  - Probado en celular (375 px), en castellano e inglés: el botón 🆘 entra sin cortar el nombre de la ciudad, la lista y el mapa muestran los puntos nuevos. Berlín sin errores.
 - **Sin amarillo en el diseño (#122):** a pedido de `ezebesserr`, lo amarillo de los botones y el diseño pasó a terracota y coral, los colores que ya usa la app.
   - **En terracota:** el botón "Buscar" de la portada, el botón "Cómo llegar" de Moverse y el recuadro "Armá tu viaje".
   - **En coral:** el sol del logo, el ícono de la app, el brillo de la portada, el evento destacado de "Hoy", la barra de avance y los círculos de Recién llegado, los sellos conseguidos del pasaporte y el botón de cuenta.

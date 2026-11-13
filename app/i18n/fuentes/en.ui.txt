@@ -118,7 +118,7 @@
 118|Argentine peso
 119|Before you go out
 120|Where to get help
-121|Tourism, police, hospitals
+121|Police, consulates, hospitals
 122|Getting around
 123|SUBE card, subway, airports
 124|What to avoid
@@ -797,3 +797,35 @@
 797|Strikes (Streik) and protests (Demo) in today's news.
 798|Av. del Libertador closed in Palermo
 799|Because the stages from the Pope's visit are being taken down, Av. del Libertador is closed between Av. Olleros and Ugarteche. If you're going through the area, allow extra time or take the subway.
+800|Consulates and embassies
+801|Your country isn't listed?
+802|Find its consulate or embassy on the map.
+803|Help: emergencies, police, consulates
+804|Consulate General
+805|Embassy
+806|Embassy and consular section
+807|Passports, documents and help for its citizens.
+808|Passports, documents and help for its citizens. Emergency phone number on its website.
+809|Help for its citizens: passports and documents.
+810|Help for its citizens: passports and documents. It's far from the centre: go by taxi or ride app.
+811|City Police. For reporting crimes; in an emergency call 911.
+812|Brazil
+813|Chile
+814|Spain
+815|Italy
+816|France
+817|United States
+818|United Kingdom
+819|Canada
+820|Germany
+821|Portugal
+822|Japan
+823|China
+824|Mexico
+825|Colombia
+826|Paraguay
+827|Bolivia
+828|Ecuador
+829|Venezuela
+830|Israel
+831|consulates and embassies

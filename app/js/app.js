@@ -616,7 +616,7 @@
 
       '<section class="section">' + head("Antes de salir") + '<div class="cats">' +
         linkCard("#/info/llegada", "#2f5d4f", "🛬", "Recién llegado", "Tus primeras horas, paso a paso") +
-        linkCard("#/info/ayuda", "#e03131", "🆘", "Dónde pedir ayuda", "Turismo, policía, hospitales") +
+        linkCard("#/info/ayuda", "#e03131", "🆘", "Dónde pedir ayuda", "Policía, consulados, hospitales") +
         linkCard("#/info/moverse", "#1c7ed6", "🚇", "Cómo moverte", LOC.moverseSub || "Transporte y aeropuertos") +
         linkCard("#/info/seguridad", "#e8590c", "⚠️", "Qué evitar", "Estafas y cuidados") +
         linkCard("#/info/practica", "#0c8599", "💵", "Info práctica", "Dinero, horarios, checklist") +

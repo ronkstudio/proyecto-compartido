@@ -716,3 +716,12 @@ h1, h2, .page-title, .section-head h2, .hero h1, .sheet h2 { font-family: var(--
 .av-banner p { margin: 6px 0 0; font-size: 14.5px; line-height: 1.45; }
 .av-banner .av-meta { font-size: 13px; opacity: .95; }
 .av-banner a { color: #fff; text-decoration: underline; }
+
+/* ── Botón de ayuda arriba (tarjeta #121): lleva a Info > Ayuda desde cualquier pantalla ── */
+.sos-btn { flex: none; width: 36px; height: 36px; margin-left: auto; margin-right: 8px; border-radius: 50%; background: #c92a2a; display: grid; place-items: center; font-size: 17px; box-shadow: 0 0 0 2px rgba(255, 255, 255, .25); }
+.sos-btn:hover { background: #e03131; }
+.sos-btn + .lang-btn { margin-left: 0; }
+@media (min-width: 900px) { .sos-btn { margin-left: 8px; margin-right: 0; } }
+@media print { .sos-btn { display: none !important; } }
+/* En celulares angostos se esconde la palabra "Guía" del logo para que entren la ciudad y el botón de ayuda. */
+@media (max-width: 420px) { .brand-text { display: none; } }
