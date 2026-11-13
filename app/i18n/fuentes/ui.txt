@@ -851,3 +851,13 @@ Mapas y recorridos en transporte y a pie.
 Viajes en auto. Ves el precio antes de pedir.
 Para pedir taxis.
 La más usada para escribir y llamar.
+Creá tu cuenta o entrá con tu mail
+Solo tu mail, sin contraseña: te mandamos un enlace y con tocarlo ya estás adentro. Lo único que guardamos es tu mail y tu viaje.
+Enviar enlace
+Entraste como
+Tu viaje se guarda en tu cuenta. Lo único que sabemos de vos es tu mail.
+Cerrar sesión
+Borrar lo guardado en mi cuenta
+Listo: revisá tu mail y tocá el enlace para entrar.
+No pudimos conectar con el servicio de cuentas. Probá más tarde.
+Todavía estamos conectando con el servicio de cuentas. Probá en unos segundos.

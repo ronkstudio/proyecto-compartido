@@ -851,3 +851,13 @@
 851|Car rides. You see the price before you book.
 852|To order taxis.
 853|The most used for messaging and calls.
+854|Create your account or sign in with your email
+855|Just your email, no password: we send you a link and one tap signs you in. We only store your email and your trip.
+856|Send link
+857|Signed in as
+858|Your trip is saved to your account. All we know about you is your email.
+859|Sign out
+860|Delete what's saved in my account
+861|Done: check your email and tap the link to sign in.
+862|We couldn't connect to the account service. Try again later.
+863|Still connecting to the account service. Try again in a few seconds.

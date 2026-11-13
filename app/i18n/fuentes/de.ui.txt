@@ -851,3 +851,13 @@
 851|Autofahrten. Du siehst den Preis vor der Buchung.
 852|Um Taxis zu bestellen.
 853|Die meistgenutzte zum Schreiben und Telefonieren.
+854|Erstelle dein Konto oder melde dich mit deiner E-Mail an
+855|Nur deine E-Mail, kein Passwort: Wir schicken dir einen Link, und mit einem Tipp bist du drin. Wir speichern nur deine E-Mail und deine Reise.
+856|Link senden
+857|Angemeldet als
+858|Deine Reise wird in deinem Konto gespeichert. Wir kennen von dir nur deine E-Mail.
+859|Abmelden
+860|Gespeichertes in meinem Konto löschen
+861|Fertig: Schau in deine E-Mails und tippe auf den Link.
+862|Wir konnten den Kontodienst nicht erreichen. Versuch es später noch mal.
+863|Wir verbinden noch mit dem Kontodienst. Versuch es in ein paar Sekunden.

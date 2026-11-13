@@ -31,6 +31,7 @@ Qué está hecho, qué se probó y qué falta: [app/ESTADO.md](app/ESTADO.md).
 | Ciudades nuevas | Berlín, Madrid, Roma y París, una por tarjeta. Primero la estructura (Info, Hoy, mapa) y después los lugares, cuando Bautista apruebe la estructura. Por ahora solo Berlín | Bautista, 13/11. Tarjetas #98 a #102 |
 | Agenda de Hoy en Berlín | Agenda cultural abierta de Berlín, solo los distritos céntricos y sin trámites de biblioteca. Títulos en alemán | 13/11. Tarjeta #99 |
 | Avisos de paros, marchas y cortes | Los carga a mano una persona en `app/data/avisos.json`, con fechas y fuente, y se apagan solos al terminar. La guía no los detecta sola. Siempre se muestran, en Info > Ayuda, links para fijarse antes de salir | Bautista, 13/11. Tarjeta #120 |
+| Cuentas de usuario | Solo con el mail, sin contraseña (llega un enlace). Servicio: Supabase, cuenta creada por Bautista. La clave pública no va en el repositorio: se carga en las variables de GitHub y la publicación la pone en la copia publicada | Bautista, 13/11. Tarjetas #35 y #140 |
 ## Lo que falta decidir
 
 - **Qué idiomas siguen** (tarjeta #11). Hoy están completos español, inglés y portugués; francés, italiano, alemán, chino y japonés tienen solo el menú.
