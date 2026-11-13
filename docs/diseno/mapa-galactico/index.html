@@ -113,18 +113,42 @@ canvas { position: absolute; inset: 0; width: 100%; height: 100%; display: block
 .zoom button:hover { border-color: color-mix(in srgb, var(--line) 70%, transparent); background: color-mix(in srgb, var(--space-mid) 70%, transparent); }
 .zoom button:focus-visible { outline: 2px solid var(--line); outline-offset: 2px; }
 
-.hint {
-  position: fixed; z-index: 3; left: 50%; bottom: calc(var(--edge-b) + 56px);
-  transform: translateX(-50%); margin: 0; padding: 8px 14px;
-  max-width: calc(100% - 32px); text-align: center;
-  font-size: 13px; color: var(--ink);
-  border: 1px solid color-mix(in srgb, var(--line) 22%, transparent); border-radius: 999px;
-  background: color-mix(in srgb, var(--space) 60%, transparent);
-  backdrop-filter: blur(6px); -webkit-backdrop-filter: blur(6px);
-  pointer-events: none; transition: opacity .6s ease;
+.hero {
+  position: fixed; z-index: 3; left: 50%; top: calc(var(--edge-t) + 9vh);
+  transform: translateX(-50%); width: min(820px, calc(100% - 32px));
+  display: grid; gap: 10px; justify-items: center; text-align: center; pointer-events: none;
+  transition: opacity .9s ease, transform .9s ease;
 }
-.hint.gone { opacity: 0; }
-.hint .short { display: none; }
+.hero::before {
+  content: ""; position: absolute; inset: -40px -60px; z-index: -1;
+  background: radial-gradient(closest-side, color-mix(in srgb, var(--space) 78%, transparent), transparent);
+}
+.hero.out { opacity: 0; transform: translate(-50%, -10px); }
+.hero-title {
+  margin: 0; font-family: var(--font-display); font-weight: 300;
+  font-size: clamp(30px, 5.6vw, 62px); line-height: 1.08; letter-spacing: .01em; text-wrap: balance;
+  text-shadow: 0 0 30px color-mix(in srgb, var(--nebula) 90%, transparent), 0 0 3px var(--space);
+}
+.hero-sub { margin: 0; max-width: 46ch; font-size: clamp(14px, 1.5vw, 17px); line-height: 1.5; color: var(--ink); text-shadow: 0 0 8px var(--space), 0 0 2px var(--space); text-wrap: balance; }
+.intros {
+  position: fixed; z-index: 3; left: 50%; bottom: calc(var(--edge-b) + 2px); transform: translateX(-50%);
+  display: flex; align-items: center; gap: 4px; padding: 5px;
+  max-width: calc(100% - 32px); border-radius: 999px;
+  border: 1px solid color-mix(in srgb, var(--line) 22%, transparent);
+  background: color-mix(in srgb, var(--space) 62%, transparent);
+  backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px);
+}
+.intros-label { padding: 0 6px 0 10px; font: 500 11px/1 var(--font-mono); letter-spacing: .08em; text-transform: uppercase; color: var(--ink-dim); white-space: nowrap; }
+.intros button {
+  border: 0; border-radius: 999px; padding: 8px 12px; cursor: pointer; white-space: nowrap;
+  background: transparent; color: var(--ink); font: 600 13px/1 var(--font-body);
+  transition: background .2s ease;
+}
+.intros button:hover { background: color-mix(in srgb, var(--space-mid) 80%, transparent); }
+.intros button[aria-pressed="true"] { background: color-mix(in srgb, var(--nebula) 60%, transparent); }
+.intros button:focus-visible { outline: 2px solid var(--line); outline-offset: 2px; }
+.intros .short { display: none; }
+@media (max-width: 900px) { .readout { bottom: calc(var(--edge-b) + 52px); } }
 .tune-btn {
   position: fixed; z-index: 4; top: var(--edge-t); right: var(--edge-r);
   padding: 8px 14px; border-radius: 999px; cursor: pointer;
@@ -162,13 +186,14 @@ canvas { position: absolute; inset: 0; width: 100%; height: 100%; display: block
 .scrim.bottom { bottom: 0; height: calc(env(safe-area-inset-bottom, 0px) + 90px); background: linear-gradient(0deg, color-mix(in srgb, var(--space) 70%, transparent), transparent); }
 @media (max-width: 520px) {
   .legend { font-size: 11px; }
-  .hint { font-size: 12px; bottom: calc(var(--edge-b) + 100px); white-space: nowrap; }
-  .hint .long { display: none; }
-  .hint .short { display: inline; }
+  .intros { left: var(--edge-l); transform: none; max-width: calc(100% - 32px - 56px); }
+  .intros-label, .intros .long { display: none; }
+  .intros .short { display: inline; }
+  .intros button { padding: 8px 10px; font-size: 12px; }
   .readout { right: calc(var(--edge-r) + 56px); gap: 4px 12px; }
 }
 @media (prefers-reduced-motion: reduce) {
-  #map, .label, .hint { transition: none; }
+  #map, .label, .hero { transition: none; }
 }
 </style>
 </head>
@@ -185,7 +210,7 @@ canvas { position: absolute; inset: 0; width: 100%; height: 100%; display: block
 
 <header class="brand">
   <p class="brand-name">Mapa galáctico</p>
-  <p class="brand-sub">Boceto 3 · globo de cerca</p>
+  <p class="brand-sub">Boceto 4 · inicios</p>
   <div class="legend" aria-label="Referencias">
     <span><i class="dot" aria-hidden="true"></i>En la guía</span>
     <span><i class="dot soon" aria-hidden="true"></i>Próximamente</span>
@@ -219,7 +244,17 @@ canvas { position: absolute; inset: 0; width: 100%; height: 100%; display: block
 
 <div class="scrim top" aria-hidden="true"></div>
 <div class="scrim bottom" aria-hidden="true"></div>
-<p class="hint" id="hint"><span class="long">Arrastrá para recorrer el globo: cuanto más te movés, más se acerca</span><span class="short">Arrastrá: cuanto más te movés, más se acerca</span></p>
+<div class="hero out" id="hero" hidden>
+  <h1 class="hero-title" id="heroTitle">¿A dónde vamos?</h1>
+  <p class="hero-sub" id="heroSub">Arrastrá el globo o tocá un continente.</p>
+</div>
+
+<div class="intros" role="group" aria-label="Probar un inicio">
+  <span class="intros-label">Ver inicio</span>
+  <button type="button" data-intro="espacio" aria-pressed="false"><span class="long">1 · Desde el espacio</span><span class="short">1 Espacio</span></button>
+  <button type="button" data-intro="constelacion" aria-pressed="true"><span class="long">2 · Constelación</span><span class="short">2 Constelación</span></button>
+  <button type="button" data-intro="vuelo" aria-pressed="false"><span class="long">3 · Ruta de vuelo</span><span class="short">3 Vuelo</span></button>
+</div>
 
 <script>
 (() => {
@@ -302,11 +337,12 @@ canvas { position: absolute; inset: 0; width: 100%; height: 100%; display: block
   const map = document.getElementById('map'), ctx = map.getContext('2d');
   const label = document.getElementById('label');
   const labelName = document.getElementById('labelName'), labelMeta = document.getElementById('labelMeta');
-  const hint = document.getElementById('hint');
+  const hero = document.getElementById('hero');
+  const heroTitle = document.getElementById('heroTitle'), heroSub = document.getElementById('heroSub');
   const out = { lat: document.getElementById('lat'), lon: document.getElementById('lon'), z: document.getElementById('zoomv') };
 
   // Ajustes del boceto (quedan guardados en este navegador)
-  const settings = { tilt: 30, grow: 10, spin: true, near: 50, back: false };
+  const settings = { tilt: 30, grow: 10, spin: true, near: 50, back: false, intro: 'constelacion' };
   try { Object.assign(settings, JSON.parse(localStorage.getItem('mapa-galactico-ajustes') || '{}')); } catch (e) {}
   const saveSettings = () => { try { localStorage.setItem('mapa-galactico-ajustes', JSON.stringify(settings)); } catch (e) {} };
 
@@ -322,6 +358,9 @@ canvas { position: absolute; inset: 0; width: 100%; height: 100%; display: block
   let glide = null, zoomAnim = null, lastTouch = -1e9;
   let focus = null, hover = null, dirty = true, started = false, lowFx = false, drawAvg = 0;
   let stars = [];
+  // Para los inicios: cuánto se ve del globo y de las líneas, y qué se dibuja encima
+  const fx = { globe: 1, lines: 1, dash: null };
+  let intro = null, parts = null, route = null, pulses = [], skyWarp = 1;
   const clamp = (v, a, b) => Math.max(a, Math.min(b, v));
   const wrap = d => ((d + 180) % 360 + 360) % 360 - 180;
   const F = () => [W / 2, H * 0.56];  // el punto de la pantalla que cuenta como "centro"
@@ -347,7 +386,7 @@ canvas { position: absolute; inset: 0; width: 100%; height: 100%; display: block
     cover = coverZoom();
     zoom = clamp(rel * cover, MINZ * cover, MAXZ * cover);
     applyView();
-    const n = Math.min(900, Math.round(W * H / 2000));
+    const n = Math.min(2000, Math.round(W * H * 2.25 / 2000));
     if (stars.length !== n) {
       stars = Array.from({ length: n }, () => {
         const r = Math.random();
@@ -449,6 +488,8 @@ canvas { position: absolute; inset: 0; width: 100%; height: 100%; display: block
   }
 
   function drawGlobe() {
+    if (fx.globe <= 0.001) return;
+    ctx.globalAlpha = fx.globe;
     // halo de la atmósfera
     ctx.beginPath(); path(SPHERE);
     if (!lowFx) { ctx.shadowColor = 'rgba(' + GLOW + ',0.9)'; ctx.shadowBlur = 55; }
@@ -471,6 +512,7 @@ canvas { position: absolute; inset: 0; width: 100%; height: 100%; display: block
       ctx.strokeStyle = 'rgba(' + GLOW + ',' + p.a + ')'; ctx.stroke();
     }
     ctx.setLineDash([]);
+    ctx.globalAlpha = 1;
   }
 
   function drawCont(c) {
@@ -497,12 +539,64 @@ canvas { position: absolute; inset: 0; width: 100%; height: 100%; display: block
       return;
     }
     ctx.beginPath(); path(c.feature);
+    ctx.globalAlpha = fx.globe;
     ctx.fillStyle = 'rgba(' + LAND + ',' + (0.17 + 0.08 * c.hov) + ')'; ctx.fill('evenodd');
-    ctx.strokeStyle = 'rgba(255,255,255,' + (0.72 + 0.15 * c.hov) + ')'; ctx.lineWidth = 0.9; ctx.stroke();
+    ctx.globalAlpha = fx.lines;
+    if (fx.dash != null) { ctx.setLineDash([fx.dash, 1e5]); ctx.lineWidth = 1.3; } else ctx.lineWidth = 0.9;
+    ctx.strokeStyle = 'rgba(255,255,255,' + (0.72 + 0.15 * c.hov) + ')'; ctx.stroke();
+    ctx.setLineDash([]); ctx.globalAlpha = 1;
   }
+
+  // Inicio "Constelación": las estrellas viajan hasta los bordes de los continentes
+  function drawParts() {
+    if (!parts || parts.a <= 0.001) return;
+    ctx.globalAlpha = parts.a;
+    for (const q of parts.list) {
+      const x = q.x0 + (q.x - q.x0) * q.e, y = q.y0 + (q.y - q.y0) * q.e;
+      ctx.fillStyle = q.e >= 1 ? '#ffffff' : 'rgba(' + GLOW + ',0.95)';
+      ctx.beginPath(); ctx.arc(x, y, q.r * (1 + 0.6 * q.e), 0, 6.283); ctx.fill();
+    }
+    ctx.globalAlpha = 1;
+  }
+
+  // Inicio "Ruta de vuelo": la línea roja de Buenos Aires a Berlín
+  function drawRoute() {
+    if (!route || route.alpha <= 0.01 || route.u <= 0) return;
+    const coords = Array.from({ length: 65 }, (_, i) => route.interp(route.u * i / 64));
+    ctx.globalAlpha = route.alpha;
+    ctx.beginPath(); path({ type: 'LineString', coordinates: coords });
+    if (!lowFx) { ctx.shadowColor = 'rgba(' + CITY + ',0.9)'; ctx.shadowBlur = 12; }
+    ctx.strokeStyle = 'rgba(' + CITY + ',0.95)'; ctx.lineWidth = 2.4; ctx.lineCap = 'round'; ctx.stroke();
+    ctx.shadowBlur = 0; ctx.shadowColor = 'transparent';
+    const head = coords[coords.length - 1];
+    if (route.u < 1 && visible(head)) {
+      const [x, y] = proj(head);
+      const halo = ctx.createRadialGradient(x, y, 0, x, y, 16);
+      halo.addColorStop(0, 'rgba(255,255,255,0.95)'); halo.addColorStop(0.3, 'rgba(' + CITY + ',0.6)'); halo.addColorStop(1, 'rgba(' + CITY + ',0)');
+      ctx.fillStyle = halo; ctx.beginPath(); ctx.arc(x, y, 16, 0, 6.283); ctx.fill();
+    }
+    ctx.globalAlpha = 1;
+  }
+
+  // Ondas que salen de una ciudad
+  function drawPulses(now) {
+    pulses = pulses.filter(p => now - p.t0 < 3200);
+    for (const p of pulses) {
+      if (!visible(p.p)) continue;
+      const [x, y] = lifted(p.cont, proj(p.p));
+      for (const off of [0, 800]) {
+        const k = ((now - p.t0 - off) % 1600) / 1600;
+        if (now - p.t0 < off || k < 0) continue;
+        ctx.strokeStyle = 'rgba(' + CITY + ',' + (0.9 * (1 - k)) + ')'; ctx.lineWidth = 2 * (1 - k) + 0.5;
+        ctx.beginPath(); ctx.arc(x, y, 6 + 38 * k, 0, 6.283); ctx.stroke();
+      }
+    }
+  }
+  const addPulse = city => { pulses.push({ p: city.p, cont: city.cont, t0: performance.now() }); };
 
   function drawCities() {
     ctx.font = '700 12px ' + FONT_BODY; ctx.textBaseline = 'middle';
+    ctx.globalAlpha = fx.lines;
     for (const p of CITIES) {
       if (!visible(p.p)) continue;
       const [x, y] = lifted(p.cont, proj(p.p));
@@ -529,7 +623,8 @@ canvas { position: absolute; inset: 0; width: 100%; height: 100%; display: block
   function placeLabel() {
     if (!focus || label._w == null) return;
     let p = visible(focus.l) ? lifted(focus, proj(focus.l)) : F().slice();
-    const pw = label._w / 2 + 16, top = Math.max(sphereTop + 30, 96) + label._h / 2, bottom = H - label._h / 2 - 80;
+    const heroBottom = hero.classList.contains('out') ? 0 : hero.getBoundingClientRect().bottom + 24;
+    const pw = label._w / 2 + 16, top = Math.max(sphereTop + 30, 96, heroBottom) + label._h / 2, bottom = H - label._h / 2 - 80;
     const x = clamp(p[0], pw, W - pw), y = clamp(p[1], Math.min(top, bottom), bottom);
     label.style.transform = 'translate3d(' + (x - label._w / 2).toFixed(1) + 'px,' + (y - label._h / 2).toFixed(1) + 'px,0)';
   }
@@ -549,8 +644,12 @@ canvas { position: absolute; inset: 0; width: 100%; height: 100%; display: block
     const order = CONTS.slice().sort((a, b) => (a.glow + a.hov * 0.01) - (b.glow + b.hov * 0.01));
     for (const c of order) drawCont(c);
     ctx.beginPath(); path(SPHERE);
-    ctx.strokeStyle = 'rgba(200,222,255,0.6)'; ctx.lineWidth = 1.2; ctx.stroke();
+    ctx.globalAlpha = fx.globe; ctx.strokeStyle = 'rgba(200,222,255,0.6)'; ctx.lineWidth = 1.2; ctx.stroke(); ctx.globalAlpha = 1;
+    drawRoute();
     drawCities();
+    ctx.globalAlpha = 1;
+    drawPulses(performance.now());
+    drawParts();
     placeLabel();
     const g = geoAt(...F());
     if (g) { out.lat.textContent = fmt(g[1], 'N', 'S'); out.lon.textContent = fmt(wrap(g[0]), 'E', 'O'); }
@@ -568,8 +667,11 @@ canvas { position: absolute; inset: 0; width: 100%; height: 100%; display: block
     sctx.clearRect(0, 0, W, H);
     const t = now / 1000;
     for (const st of stars) {
-      const x = (((st.x * W + lon * st.depth) % W) + W) % W;
-      const y = (((st.y * H - lat * st.depth) % H) + H) % H;
+      // las estrellas ocupan un área más grande que la pantalla; al llegar desde el espacio se abren hacia afuera
+      const m = 0.7 + 0.3 * skyWarp;
+      const x = W / 2 + (((((st.x * W * 1.5 + lon * st.depth) % (W * 1.5)) + W * 1.5) % (W * 1.5)) - W * 0.25 - W / 2) * m;
+      const y = H / 2 + (((((st.y * H * 1.5 - lat * st.depth) % (H * 1.5)) + H * 1.5) % (H * 1.5)) - H * 0.25 - H / 2) * m;
+      if (x < -2 || x > W + 2 || y < -2 || y > H + 2) continue;
       let a = st.a;
       if (st.tw && !reduced) a *= 0.55 + 0.45 * Math.sin(t * st.tw + st.ph);
       sctx.fillStyle = st.blue ? 'rgba(' + GLOW + ',' + a + ')' : 'rgba(238,243,255,' + a + ')';
@@ -600,12 +702,12 @@ canvas { position: absolute; inset: 0; width: 100%; height: 100%; display: block
   const centerOn = c => { glideTo(c.a[0], c.a[1] - centerOffset()); if (settings.near) animateZoom(1 + 0.25 * settings.near / 50, 950); };
   function animateZoom(f, dur = 300) { zoomAnim = { z0: zoom, z1: clamp(zoom * f, MINZ * cover, MAXZ * cover), t0: performance.now(), dur: reduced ? 1 : dur }; }
 
-  let hintShown = true;
-  const touched = () => { lastTouch = performance.now(); if (hintShown) { hintShown = false; hint.classList.add('gone'); } };
+  const touched = () => { lastTouch = performance.now(); hideHero(); };
 
   const pointers = new Map();
   let drag = null, pinch = null;
   map.addEventListener('pointerdown', e => {
+    if (intro) finishIntro();
     map.setPointerCapture(e.pointerId);
     pointers.set(e.pointerId, { x: e.clientX, y: e.clientY });
     glide = null; zoomAnim = null; lastTouch = performance.now();
@@ -659,11 +761,13 @@ canvas { position: absolute; inset: 0; width: 100%; height: 100%; display: block
   map.addEventListener('pointerleave', e => { if (e.pointerType === 'mouse' && hover) { hover = null; dirty = true; } });
   map.addEventListener('wheel', e => {
     e.preventDefault();
+    if (intro) finishIntro();
     const unit = e.deltaMode === 1 ? 16 : 1;
     setZoom(zoom * Math.exp(-e.deltaY * unit * (e.ctrlKey ? 0.01 : 0.0016)));
     zoomAnim = null; touched();
   }, { passive: false });
   map.addEventListener('keydown', e => {
+    if (intro) finishIntro();
     const keys = { ArrowLeft: [-12, 0], ArrowRight: [12, 0], ArrowUp: [0, 8], ArrowDown: [0, -8] };
     if (keys[e.key]) { e.preventDefault(); glideTo(lon + keys[e.key][0], lat + keys[e.key][1], 380); touched(); }
     else if (e.key === '+' || e.key === '=') { e.preventDefault(); animateZoom(1.4); touched(); }
@@ -699,15 +803,136 @@ canvas { position: absolute; inset: 0; width: 100%; height: 100%; display: block
   document.getElementById('reset').addEventListener('click', () => {
     glideTo(-60, -16 - centerOffset(), 1100);
     zoomAnim = { z0: zoom, z1: cover, t0: performance.now(), dur: reduced ? 1 : 1100 };
+    hideHero();
   });
   showSettings();
+
+
+  /* ---------- Inicios ---------- */
+  const BA = CITIES[0], BER = CITIES[1];
+  const easeOut = t => 1 - Math.pow(1 - t, 3);
+  const home = () => ({ lon: -60, lat: -16 - centerOffset() });
+  const km = Math.round(d3.geoDistance(BA.p, BER.p) * 6371 / 100) * 100;
+  const kmText = km.toLocaleString('es-AR');
+
+  let heroTimer = 0;
+  function showHero(title, sub) {
+    heroTitle.textContent = title; heroSub.textContent = sub;
+    hero.hidden = false;
+    requestAnimationFrame(() => hero.classList.remove('out'));
+    dirty = true;
+  }
+  function hideHero() {
+    if (hero.classList.contains('out')) return;
+    hero.classList.add('out'); dirty = true;
+    if (route) route.fade = performance.now();
+  }
+  const WELCOME = ['¿A dónde vamos?', 'Arrastrá el globo o tocá un continente.'];
+
+  const INTROS = {
+    // 1. Llegás desde el espacio: el globo es un punto que se acerca hasta llenar la pantalla
+    espacio: {
+      dur: 3800,
+      start() { this.h = home(); this.hero = false; },
+      step(t) {
+        const e = ease(t);
+        zoom = cover * Math.pow(0.04, 1 - easeOut(t));
+        lon = wrap(this.h.lon - 120 * (1 - e)); lat = this.h.lat + 14 * (1 - e);
+        skyWarp = easeOut(t);
+        if (t > 0.7 && !this.hero) { this.hero = true; showHero(...WELCOME); }
+      },
+      end() { lon = this.h.lon; lat = this.h.lat; zoom = cover; skyWarp = 1; addPulse(BA); }
+    },
+    // 2. Constelación: las estrellas se juntan en los bordes, se dibujan las líneas y aparece el globo
+    constelacion: {
+      dur: 4800,
+      start() {
+        const h = home(); lon = h.lon; lat = h.lat; zoom = cover; applyView();
+        const pts = [];
+        for (const c of CONTS) for (const poly of c.feature.geometry.coordinates) for (const ring of poly)
+          for (let i = 0; i < ring.length; i += 2) {
+            const g = ring[i]; if (!visible(g)) continue;
+            const q = proj(g); if (q[0] < -10 || q[0] > W + 10 || q[1] < -10 || q[1] > H + 10) continue;
+            pts.push(q);
+          }
+        const n = Math.min(pts.length, W < 600 ? 420 : 800), step = pts.length / Math.max(1, n);
+        parts = { a: 1, list: Array.from({ length: n }, (_, i) => {
+          const q = pts[Math.floor(i * step)];
+          return { x0: Math.random() * W, y0: Math.random() * H, x: q[0], y: q[1], d: Math.random() * 0.4, r: 0.7 + Math.random() * 1.1, e: 0 };
+        }) };
+        fx.globe = 0; fx.lines = 0; fx.dash = 0; this.hero = false;
+      },
+      step(t) {
+        const T = t * this.dur / 1000;
+        for (const q of parts.list) q.e = ease(clamp((T / 2.3 - q.d) / 0.6, 0, 1));
+        parts.a = 1 - clamp((T - 3.2) / 0.9, 0, 1);
+        fx.lines = clamp((T - 2.0) / 0.4, 0, 1);
+        fx.dash = T < 3.9 ? Math.max(0, (T - 2.0) * 1500) : null;
+        fx.globe = easeOut(clamp((T - 3.0) / 1.4, 0, 1));
+        if (T > 3.7 && !this.hero) { this.hero = true; showHero(...WELCOME); }
+      },
+      end() { parts = null; addPulse(BA); }
+    },
+    // 3. Ruta de vuelo: una línea roja viaja de Buenos Aires a Berlín y la cámara la sigue
+    vuelo: {
+      dur: 6200,
+      start() {
+        route = { interp: d3.geoInterpolate(BA.p, BER.p), u: 0, alpha: 1, fade: 0 };
+        lon = BA.p[0]; lat = BA.p[1] - centerOffset(); zoom = cover; applyView();
+        addPulse(BA); this.hero = false; this.arrived = false;
+      },
+      step(t) {
+        const u = clamp((t - 0.14) / 0.72, 0, 1), e = ease(u);
+        route.u = e;
+        const head = route.interp(e);
+        lon = head[0]; lat = head[1] - centerOffset();
+        zoom = cover * (1 - 0.45 * Math.sin(Math.PI * e));
+        if (u >= 1 && !this.arrived) { this.arrived = true; addPulse(BER); started = true; dirty = true; }
+        if (t > 0.9 && !this.hero) { this.hero = true; showHero('¿A dónde vamos ahora?', 'De Buenos Aires a Berlín hay ' + kmText + ' km. Arrastrá el globo para seguir.'); }
+      },
+      end() { route.u = 1; lon = BER.p[0]; lat = BER.p[1] - centerOffset(); zoom = cover; }
+    }
+  };
+
+  function playIntro(name) {
+    if (intro) finishIntro(true);
+    settings.intro = name; saveSettings(); markIntro();
+    glide = null; zoomAnim = null; vLon = vLat = 0;
+    parts = null; route = null; pulses = []; fx.globe = 1; fx.lines = 1; fx.dash = null; skyWarp = 1;
+    hero.classList.add('out');
+    started = false; focus = null; label.classList.add('out');
+    intro = Object.create(INTROS[name]); intro.t0 = performance.now();
+    intro.start();
+    if (reduced) finishIntro();
+    dirty = true;
+  }
+  function finishIntro(quiet) {
+    if (!intro) return;
+    const it = intro; intro = null;
+    it.end();
+    parts = null; fx.globe = 1; fx.lines = 1; fx.dash = null; skyWarp = 1;
+    if (!quiet && hero.classList.contains('out')) {
+      if (route) showHero('¿A dónde vamos ahora?', 'De Buenos Aires a Berlín hay ' + kmText + ' km. Arrastrá el globo para seguir.');
+      else showHero(...WELCOME);
+    }
+    started = true; lastTouch = performance.now(); dirty = true;
+  }
+
+  const introBtns = [...document.querySelectorAll('[data-intro]')];
+  function markIntro() { for (const b of introBtns) b.setAttribute('aria-pressed', String(b.dataset.intro === settings.intro)); }
+  for (const b of introBtns) b.addEventListener('click', () => playIntro(b.dataset.intro));
 
   /* ---------- Bucle ---------- */
   let last = performance.now();
   function frame(now) {
     const dt = Math.min(0.05, (now - last) / 1000); last = now;
     let moved = false;
-    if (glide) {
+    if (intro) {
+      const t = clamp((now - intro.t0) / intro.dur, 0, 1);
+      intro.step(t, now);
+      moved = true;
+      if (t >= 1) finishIntro();
+    } else if (glide) {
       const t = Math.min(1, (now - glide.t0) / glide.dur), e = ease(t);
       lon = wrap(glide.lon0 + glide.dlon * e); lat = glide.lat0 + glide.dlat * e;
       moved = true; if (t >= 1) { glide = null; lastTouch = now; }
@@ -719,7 +944,7 @@ canvas { position: absolute; inset: 0; width: 100%; height: 100%; display: block
       // gira solo, despacio, de oeste a este
       lon = wrap(lon - 4 * dt); moved = true;
     }
-    if (settings.back && !drag && !zoomAnim && !glide && now - lastTouch > 1500 && Math.abs(zoom - cover) > cover * 0.002) {
+    if (settings.back && !intro && !drag && !zoomAnim && !glide && now - lastTouch > 1500 && Math.abs(zoom - cover) > cover * 0.002) {
       zoom += (cover - zoom) * Math.min(1, dt * 0.9); moved = true;
     }
     if (zoomAnim) {
@@ -727,7 +952,8 @@ canvas { position: absolute; inset: 0; width: 100%; height: 100%; display: block
       setZoom(zoomAnim.z0 + (zoomAnim.z1 - zoomAnim.z0) * ease(t)); moved = true;
       if (t >= 1) zoomAnim = null;
     }
-    if (moved) dirty = true;
+    if (route && route.fade) { route.alpha = Math.max(0, 1 - (now - route.fade) / 1200); if (route.alpha <= 0) route = null; moved = true; }
+    if (moved || pulses.length) dirty = true;
     if (dirty) { applyView(); updateFocus(); }
 
     // resorte: el continente del centro crece (los chicos un poco más que los grandes)
@@ -750,8 +976,7 @@ canvas { position: absolute; inset: 0; width: 100%; height: 100%; display: block
   // arranca mirando América del Sur, donde empieza la guía, con el globo llenando la pantalla
   lon = -60; lat = -16 - centerOffset(); applyView();
   lastTouch = performance.now() - 1500;
-  requestAnimationFrame(t => { last = t; map.classList.add('ready'); frame(t); });
-  setTimeout(() => { started = true; dirty = true; }, reduced ? 0 : 450);
+  requestAnimationFrame(t => { last = t; map.classList.add('ready'); playIntro(INTROS[settings.intro] ? settings.intro : 'constelacion'); frame(t); });
   if (document.fonts && document.fonts.ready) document.fonts.ready.then(() => { dirty = true; if (focus) setFocus(focus); });
 })();
 </script>
