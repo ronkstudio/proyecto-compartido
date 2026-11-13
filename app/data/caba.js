@@ -869,20 +869,10 @@ window.CITY_DATA.caba = {
       { t: "Ciclovías", d: "Más de 250 km de carriles protegidos. La ciudad es totalmente plana." },
       { t: "Caminar", d: "Los barrios turísticos se recorren muy bien a pie. Atención a las veredas rotas y a cruzar: los autos no siempre frenan." }
     ] },
-    { icon: "✈️", title: "Aeropuertos", items: [
-      { t: "Ezeiza (EZE)", d: "El internacional, a unos 30 km. Entre 45 y 90 minutos al centro según el tráfico. Opciones: taxi o remís oficial contratado en los mostradores dentro de la terminal, apps de viaje, micro Tienda León, o colectivo 8 (muy barato, pero puede tardar 2 horas)." },
-      { t: "Aeroparque (AEP)", d: "Vuelos de cabotaje y regionales. Está en la ciudad, a 15–25 minutos de Palermo y el Centro. Taxi, apps o colectivos 33, 37, 45 y 160." },
-      { t: "Importante", d: "Nunca aceptes un traslado de alguien que te aborda en el hall. Contratá siempre en mostrador oficial o por app." }
-    ] },
     { icon: "⛴️", title: "Ferry y micros de larga distancia", items: [
       { t: "A Uruguay", d: "Buquebus y Colonia Express cruzan a Colonia (aprox. 1 h 15 min) y Montevideo. Las terminales están en Puerto Madero y cerca de La Boca. Presentate con una hora de anticipación para migraciones." },
       { t: "Terminal de Retiro", d: "De acá salen los micros a todo el país. Cuidá tus cosas dentro y fuera de la terminal, y llegá y salí en taxi o app." }
     ] },
-    { icon: "📱", title: "Apps útiles", items: [
-      { t: "Para moverse", d: "Google Maps y Moovit (recorridos en tiempo real), SUBE (carga y saldo), BA Ecobici." },
-      { t: "Para viajar", d: "Uber, Cabify, DiDi." },
-      { t: "Para pedir comida", d: "PedidosYa y Rappi." }
-    ] }
   ],
 
   /* ───────────── SEGURIDAD ───────────── */

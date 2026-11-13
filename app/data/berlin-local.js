@@ -58,7 +58,24 @@
       tips: ["Si comprás un boleto de papel, sellalo en la maquinita antes de viajar.",
         "Para ir o volver del aeropuerto necesitás un boleto de las zonas ABC."]
     },
-    moverseSub: "Boletos, U-Bahn, aeropuerto",
+    moverseSub: "Boletos, U-Bahn, taxis",
+    /* Apps útiles (tarjeta #137). Páginas del App Store ("ios") y Google Play ("android") revisadas el 13/11/2026. */
+    apps: [
+      ["🚇", "Para moverse", [
+        ["BVG Fahrinfo", "Recorridos en U-Bahn, S-Bahn, tranvía y colectivo. En alemán e inglés.", 284971745, "de.eos.uptrade.android.fahrinfo.berlin"],
+        ["BVG Tickets", "Para comprar el boleto en el celular.", 1232772818, "de.bvg.ticket"],
+        ["Google Maps", "Mapas y recorridos en transporte y a pie.", 585027354, "com.google.android.apps.maps"],
+        ["Uber", "Viajes en auto. Ves el precio antes de pedir.", 368677368, "com.ubercab"],
+        ["Bolt", "Viajes en auto, también con precio de antemano.", 675033630, "ee.mtakso.client"],
+        ["FREENOW", "Para pedir taxis.", 357852748, "taxi.android.client"]
+      ]],
+      ["🍔", "Para pedir comida", [
+        ["Wolt", "Comida y compras a domicilio.", 943905271, "com.wolt.android"]
+      ]],
+      ["💬", "Para comunicarte", [
+        ["WhatsApp", "La más usada para escribir y llamar.", 310633997, "com.whatsapp"]
+      ]]
+    ],
     /* Paros, marchas y cortes (tarjeta #120): dónde fijarse antes de salir. Revisadas el 13/11/2026. Avisos puntuales: data/avisos.json. */
     avisosLinks: [
       ["🚇", "Estado de U-Bahn, tranvía y colectivos", "Demoras, obras y servicios de reemplazo, en vivo (BVG). En alemán.", "https://www.bvg.de/de/verbindungen/stoerungsmeldungen"],

@@ -5,7 +5,7 @@
 5|Compras e mercados
 6|Mercados, lojas e áreas comerciais
 7|Estádios, parques e ar livre
-8|Bilhetes, U-Bahn, aeroporto
+8|Bilhetes, U-Bahn, táxis
 9|Bombeiros e ambulância
 10|Polícia
 11|Médico de plantão (não urgente)

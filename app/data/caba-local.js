@@ -54,8 +54,31 @@
       tips: ["La SUBE se compra en kioscos, estaciones de subte y puntos SUBE.",
         "En el subte y en muchos colectivos también podés pagar con tu tarjeta sin contacto."]
     },
-    moverseSub: "SUBE, subte, aeropuertos",
+    moverseSub: "SUBE, subte, taxis",
     /* Hoy: el archivo de eventos que arma herramientas/armar-hoy.ps1 todos los días, y otras agendas para buscar más planes (revisadas el 12/11/2026) */
+    /* Apps útiles (tarjeta #137): las que más se usan en la Argentina. Cada una con su página en el App Store (número "ios") y en
+       Google Play (nombre "android"); revisadas una por una el 13/11/2026. Si la app ya está instalada, la tienda muestra "Abrir". */
+    apps: [
+      ["🚕", "Para moverse", [
+        ["Uber", "Viajes en auto y moto. Ves el precio antes de pedir.", 368677368, "com.ubercab"],
+        ["Cabify", "Viajes en auto, también con precio de antemano.", 476087442, "com.cabify.rider"],
+        ["DiDi", "Viajes en auto, suele ser la más barata.", 1362398401, "com.didiglobal.passenger"],
+        ["Google Maps", "Mapas y recorridos en subte, colectivo y a pie.", 585027354, "com.google.android.apps.maps"],
+        ["Moovit", "Qué colectivo o subte tomar, con horarios en vivo.", 498477945, "com.tranzmate"],
+        ["BA Ecobici", "Las bicis públicas de la Ciudad.", 1452339584, "com.tembici.ecobici"]
+      ]],
+      ["🍔", "Para pedir comida", [
+        ["PedidosYa", "Comida, súper y farmacia a domicilio. La más usada.", 490099807, "com.pedidosya"],
+        ["Rappi", "Comida y compras a domicilio.", 984044296, "com.grability.rappi"]
+      ]],
+      ["🛍️", "Para comprar y pagar", [
+        ["Mercado Pago", "Muchos comercios cobran con su QR.", 925436649, "com.mercadopago.wallet"],
+        ["Mercado Libre", "Para comprar casi cualquier cosa por internet.", 463624852, "com.mercadolibre"]
+      ]],
+      ["💬", "Para comunicarte", [
+        ["WhatsApp", "Acá todo se arregla por WhatsApp: reservas, consultas y turnos.", 310633997, "com.whatsapp"]
+      ]]
+    ],
     /* Paros, marchas y cortes (tarjeta #120): dónde fijarse antes de salir. Cada dirección se abrió y se revisó el 13/11/2026.
        Los avisos puntuales se cargan en data/avisos.json. */
     avisosLinks: [
