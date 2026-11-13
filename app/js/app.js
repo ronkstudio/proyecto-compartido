@@ -48,6 +48,18 @@
   const fmtKm = d => d < 1 ? Math.max(50, Math.round(d * 20) * 50) + " m" : d.toFixed(1).replace(".", ",") + " km";
   const cityNow = () => { try { return new Date(new Date().toLocaleString("en-US", { timeZone: X.tz || city.tz || "UTC" })); } catch (e) { return new Date(); } };
   const listDays = a => a.map(d => DOWS[d]).join(a.length === 2 ? " y " : ", ");
+  /* Avisos de paros, marchas y cortes (tarjeta #120). La guía NO los detecta sola: los carga una persona en data/avisos.json,
+     con la fecha de inicio y de fin y la fuente. Cada aviso se ve solo entre "desde" y "hasta" (día de la ciudad) y después desaparece. */
+  let avisos = [];
+  const hoyISO = () => { const t = cityNow(); return t.getFullYear() + "-" + String(t.getMonth() + 1).padStart(2, "0") + "-" + String(t.getDate()).padStart(2, "0"); };
+  const AV_TIPO = { paro: "🪧 Paro", marcha: "📣 Marcha", corte: "🚧 Cortes de calles", otro: "⚠️ Aviso" };
+  const avisoHtml = a => {
+    const h = new Date(a.hasta + "T12:00:00");
+    return '<div class="av-banner" role="status"><small>' + (AV_TIPO[a.tipo] || AV_TIPO.otro) + "</small><b>" + esc(a.titulo) + "</b>" +
+      (a.texto ? "<p>" + esc(a.texto) + "</p>" : "") +
+      '<p class="av-meta"><span>Hasta el</span> <span>' + DOW[h.getDay()] + " " + h.getDate() + "/" + (h.getMonth() + 1) + "</span> · " +
+      '<a href="' + esc(a.link) + '" target="_blank" rel="noopener"><span>Fuente:</span> <span data-notr>' + esc(a.fuente || "") + "</span> ↗</a></p></div>";
+  };
   const photo = (ph, w) => {
     if (!ph) return "";
     if (ph.charAt(0) === "!") return WM + encodeURI(ph.slice(1));
@@ -560,6 +572,7 @@
           atajos.map(a => '<button data-go="' + attr(a[1]) + '">' + esc(a[0]) + "</button>").join("") +
         "</div>") + "</section>" +
       (hay ? "" : '<section class="section"><div class="today"><b>Estamos cargando los lugares de esta ciudad.</b> Mientras tanto ya podés usar Info: cómo llegar desde el aeropuerto, moverte, pagar y pedir ayuda. <a class="link" href="#/info/llegada">Ir a Info</a></div></section>') +
+      (avisos.length ? '<section class="section av-home">' + avisos.map(avisoHtml).join("") + '<a class="link" href="#/info/ayuda">Más sobre paros y cortes →</a></section>' : "") +
       /* "Armá tu viaje" es lo más útil de la guía: si todavía no armaste nada, va arriba de todo (pedido de Bautista, 12/11/2026). */
       (plan.length || !hay ? "" : '<section class="section armar-top"><a class="cta" href="#/armar"><span><b>✨ Armá tu viaje en 10 segundos</b><span>Decinos cuántos días venís y qué te gusta: te dejamos el recorrido listo, día por día.</span></span><i aria-hidden="true">→</i></a></section>') +
 
@@ -697,7 +710,12 @@
       return '<div class="near"><b>' + t.icon + " " + esc(t.name) + "</b>" + Z.help.filter(h => h.type === k).map(h =>
         '<button class="near-row" data-helpfocus="' + h.id + '"><span aria-hidden="true">' + t.icon + "</span><span><b>" + esc(h.name) + "</b><span>" + esc(h.address) + " · " + esc(h.note) + "</span></span><i>Ver ›</i></button>").join("") + "</div>";
     }).join("");
-    return '<section class="section" style="margin-top:0">' + head("Teléfonos de emergencia") + sosHtml() + "</section>" +
+    /* Paros, marchas y cortes (tarjeta #120): los avisos cargados y, siempre, dónde fijarse antes de salir (LOC.avisosLinks). */
+    const fuentesAv = (LOC.avisosLinks || []).map(c => '<a class="event" href="' + esc(c[3]) + '" target="_blank" rel="noopener"><em aria-hidden="true">' + c[0] + "</em><span><b>" + esc(c[1]) + " ↗</b><span>" + esc(c[2]) + "</span></span></a>").join("");
+    const paros = avisos.length || fuentesAv ? '<section class="section" style="margin-top:0" id="paros">' + head("Paros, marchas y cortes") +
+      avisos.map(avisoHtml).join("") +
+      (fuentesAv ? '<p class="hint">' + (avisos.length ? "Puede haber más: antes de salir, fijate acá." : "Hoy no tenemos avisos cargados. Antes de salir, fijate acá si hay algo.") + '</p><div class="events">' + fuentesAv + "</div>" : "") + "</section>" : "";
+    return paros + '<section class="section"' + (paros ? "" : ' style="margin-top:0"') + ">" + head("Teléfonos de emergencia") + sosHtml() + "</section>" +
       '<section class="section">' + head("Buscar cerca mío") + '<p class="hint">Abre Google Maps con lo más cercano a donde estás.</p>' + near + "</section>" +
       '<section class="section">' + head("Ayuda a distancia") + channels + "</section>" +
       '<section class="section">' + head("Dónde pedir ayuda en persona", hasMap ? '<button class="link" data-go="' + attr({ cat: "ninguno", help: true, mode: "mapa" }) + '">Ver en el mapa</button>' : "") + '<div class="help-groups">' + groups + "</div></section>";
@@ -1291,6 +1309,16 @@
     }).catch(() => { /* sin conexión: queda la agenda fija */ });
   };
   loadHoy();
+  const loadAvisos = () => {
+    if (location.protocol === "file:" || !window.fetch) return;
+    fetch("data/avisos.json", { cache: "no-cache" }).then(r => (r.ok ? r.json() : null)).then(d => {
+      const hoy = hoyISO();
+      avisos = ((d && d[CITY_ID]) || []).filter(a => a && a.titulo && a.desde <= hoy && hoy <= a.hasta && /^https:\/\//.test(a.link || ""));
+      const r = route().name;
+      if (avisos.length && sheetId === null && (r === "inicio" || r === "info")) rerender();
+    }).catch(() => { /* sin conexión: sin avisos */ });
+  };
+  loadAvisos();
 
   /* Aviso de bienvenida (pedido de Bautista, 12/11/2026): la primera vez que alguien abre la guía le sugerimos pasar por "Info",
      donde está lo importante para no tener problemas. Sale una sola vez por celular; se cierra con el botón, la X, tocando afuera o con Escape. */

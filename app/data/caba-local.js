@@ -56,6 +56,13 @@
     },
     moverseSub: "SUBE, subte, aeropuertos",
     /* Hoy: el archivo de eventos que arma herramientas/armar-hoy.ps1 todos los días, y otras agendas para buscar más planes (revisadas el 12/11/2026) */
+    /* Paros, marchas y cortes (tarjeta #120): dónde fijarse antes de salir. Cada dirección se abrió y se revisó el 13/11/2026.
+       Los avisos puntuales se cargan en data/avisos.json. */
+    avisosLinks: [
+      ["🚇", "Estado del subte", "Cómo funciona cada línea, en vivo (Emova).", "https://emova.com.ar/"],
+      ["🚧", "Cortes de tránsito", "Los avisos oficiales de la Ciudad.", "https://buenosaires.gob.ar/noticias-relacionadas/Cortes%20de%20tr%C3%A1nsito"],
+      ["📰", "Noticias de hoy", "Paros, marchas y cortes en las noticias del día.", "https://news.google.com/search?q=paro%20OR%20marcha%20OR%20corte%20Buenos%20Aires%20when%3A1d&hl=es-419&gl=AR&ceid=AR%3Aes-419"]
+    ],
     hoy: "data/hoy.json",
     agendas: [
       ["🏛️", "Agenda de la Ciudad", "https://linda.buenosaires.gob.ar/agenda"],

@@ -2,7 +2,7 @@
 
 Para los dos Claude: acá está escrito qué se hizo, qué se probó y qué falta. **Actualizalo cada vez que cambies algo de `app/`.**
 
-Última actualización: 13 de noviembre de 2026, Claude de `ronkstudio` (tarjeta #119).
+Última actualización: 13 de noviembre de 2026, Claude de `ronkstudio` (tarjeta #120).
 
 Todo lo que se describe acá está en `main`.
 
@@ -145,3 +145,8 @@ Hasta el 13/11 estuvo en `ronkstudio/menu-3d-publico/guia-buenos-aires/`. Ese re
 - **Más fotos (#110):** 196 fotos nuevas de Wikimedia Commons, todas con licencia libre y revisadas una por una (sin logos, mapas, montajes ni lugares homónimos). Se buscaron por la foto del artículo de Wikipedia (con la ubicación a menos de 1,5 km), por nombre en Commons y por fotos sacadas a menos de 40 m de la dirección. Prioridad: los destacados y los monumentos. Probado: las 294 fotos cargan en los dos tamaños que usa la guía (500 y 960 px).
 - **Lugares sin foto (#114):** en vez del emoji (carne, copa, etc.) muestran una portada con el nombre del lugar en letra fina, sobre el color de su categoría. Probado en celular (375 px): carrusel, lista y ficha. **(#117)** El botón de Google Maps de cada ficha ahora dice "Opiniones, horarios y fotos" (abre el lugar con sus fotos); el botón aparte "Ver fotos" de #114 se sacó porque hacía lo mismo. En los 7 idiomas y en la ayuda. Vale también para Berlín.
 - **Cuántos viajan (#119):** Armá tu viaje tiene una pregunta nueva (la 2): cuántas personas viajan, de 1 a 20. Se ve en el resumen de abajo y en Mi viaje. No cambia qué lugares se eligen (no hay datos de qué lugar recibe grupos); con 5 o más muestra dos consejos: reservar las cenas con tiempo y que en taxi o Uber van a necesitar dos autos. Probado en celular, en castellano e inglés.
+- **Paros, marchas y cortes (#120):** cuando hay un aviso cargado, aparece un recuadro rojo llamativo arriba del inicio y en Info > Ayuda. En Ayuda, además, siempre hay links para fijarse antes de salir: estado del subte (Emova), cortes de tránsito oficiales de la Ciudad y noticias del día. En Berlín: BVG, S-Bahn y noticias (no hay avisos cargados).
+  - **Cómo cargar un aviso:** en `data/avisos.json`, dentro de la ciudad (`caba` o `berlin`), sumar uno con `tipo` (paro, marcha, corte u otro), `titulo`, `texto`, `desde` y `hasta` (AAAA-MM-DD, inclusive), `fuente` y `link` (https). Se ve solo entre esas fechas, con la hora de la ciudad, y después desaparece solo. Si se quiere traducido, sumar el título y el texto a `i18n/fuentes/ui.txt` y sus traducciones. La guía no detecta paros sola.
+  - Cargado ahora: cortes en Av. del Libertador (Palermo) hasta el sábado 14/11, por el desarme de los escenarios de la visita del Papa (fuente: Perfil, con el cronograma de la Ciudad; no lo encontré en la web de la Ciudad).
+  - Los estilos están en `css/avisos.css` porque `styles.css` estaba en el pedido #123 de `ezebesserr`. `sw.js` no se tocó por lo mismo: la guía igual baja siempre lo último cuando hay internet.
+  - Probado en celular, en castellano e inglés, y en Berlín (sin aviso, solo los links).

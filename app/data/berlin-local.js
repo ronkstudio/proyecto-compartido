@@ -59,6 +59,12 @@
         "Para ir o volver del aeropuerto necesitás un boleto de las zonas ABC."]
     },
     moverseSub: "Boletos, U-Bahn, aeropuerto",
+    /* Paros, marchas y cortes (tarjeta #120): dónde fijarse antes de salir. Revisadas el 13/11/2026. Avisos puntuales: data/avisos.json. */
+    avisosLinks: [
+      ["🚇", "Estado de U-Bahn, tranvía y colectivos", "Demoras, obras y servicios de reemplazo, en vivo (BVG). En alemán.", "https://www.bvg.de/de/verbindungen/stoerungsmeldungen"],
+      ["🚆", "Estado del S-Bahn", "Cambios por obras y problemas del día. En alemán.", "https://sbahn.berlin/fahren/bauen-stoerung/"],
+      ["📰", "Noticias de hoy", "Huelgas (Streik) y manifestaciones (Demo) en las noticias del día.", "https://news.google.com/search?q=Berlin%20Streik%20OR%20Demo%20OR%20Sperrung%20when%3A1d&hl=de&gl=DE&ceid=DE%3Ade"]
+    ],
     /* Hoy: el archivo de eventos que arma herramientas/armar-hoy-berlin.ps1 con la agenda cultural abierta de Berlín (kulturdaten.berlin),
        y otras agendas para buscar más planes. */
     hoy: "data/hoy-berlin.json",
