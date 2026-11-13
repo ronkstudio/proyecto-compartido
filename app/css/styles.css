@@ -142,9 +142,6 @@ main:focus { outline: none; }
 .thumb .ph-name { inset: 4px; padding: 4px; border-radius: 9px; }
 .thumb .ph-name b { font-size: 12.5px; }
 .thumb .ph-name b::after { width: 16px; margin-top: 4px; }
-.ph-btn { position: absolute; z-index: 2; right: 12px; bottom: 14px; padding: 7px 12px; border-radius: 999px; background: rgba(255, 255, 255, .92); color: #14202c; font-size: 13.5px; font-weight: 600; text-decoration: none; box-shadow: 0 1px 4px rgba(0, 0, 0, .2); }
-.ph-btn:hover { background: #fff; }
-.sheet-head:has(.ph-btn) .sheet-title { padding-right: 130px; }
 
 /* ── Carruseles ── */
 .rail { display: flex; gap: 12px; overflow-x: auto; scroll-snap-type: x proximity; padding: 2px 16px 12px; margin: 0 -16px; scrollbar-width: thin; }

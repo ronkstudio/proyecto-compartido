@@ -582,7 +582,7 @@ Cerrar
 Consejo
 Guardar
 Marcar que fui
-Opiniones y horarios
+Opiniones, horarios y fotos
 Ir en Uber
 Compartir
 Dirección
@@ -733,7 +733,7 @@ En comercios adheridos podés pedir la devolución del IVA de productos nacional
 Muchos precios tienen descuento por pago en efectivo o transferencia. Preguntá antes de pagar.
 La guía incluye solo lugares con reputación sostenida: premios, distinciones oficiales y buen consenso en reseñas públicas.
 Destacado' son los mejores de su categoría, 'Muy recomendado' es una apuesta segura y 'Buena opción' cumple bien pero no es imprescindible.
-En cada ficha, el botón 'Opiniones y horarios' abre el lugar en Google Maps con su puntaje, reseñas y horarios actualizados.
+En cada ficha, el botón 'Opiniones, horarios y fotos' abre el lugar en Google Maps con su puntaje, reseñas, horarios actualizados y fotos.
 Usamos niveles ($ a $$$$) en vez de montos porque los precios cambian seguido.
 Corsos y murgas en los barrios, los fines de semana de febrero.
 El festival de música más grande del país, en el Hipódromo de San Isidro.
@@ -767,4 +767,3 @@ Sin lugares todavía. Asignales este día desde la lista de abajo.
 Te avisamos en rojo si un lugar suele cerrar el día que lo agendaste.
 terminales y aeropuertos. Tocá uno para ver la dirección y cómo llegar.
 Otros deportes
-Ver fotos

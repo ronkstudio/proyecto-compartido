@@ -582,7 +582,7 @@
 582|Dica
 583|Salvar
 584|Marcar que fui
-585|Opiniões e horários
+585|Opiniões, horários e fotos
 586|Ir de Uber
 587|Compartilhar
 588|Endereço
@@ -733,7 +733,7 @@
 733|Muitos preços têm desconto para pagamento em dinheiro ou transferência. Pergunte antes de pagar.
 734|O guia inclui apenas lugares com reputação consolidada: prêmios, distinções oficiais e bom consenso em avaliações públicas.
 735|'Destaque' são os melhores da categoria, 'Muito recomendado' é uma aposta segura e 'Boa opção' cumpre bem, mas não é imprescindível.
-736|Em cada ficha, o botão 'Opiniões e horários' abre o lugar no Google Maps com nota, avaliações e horários atualizados.
+736|Em cada ficha, o botão 'Opiniões, horários e fotos' abre o lugar no Google Maps com nota, avaliações, horários atualizados e fotos.
 737|Usamos níveis ($ a $$$$) em vez de valores porque os preços mudam com frequência.
 738|Blocos e murgas nos bairros, nos fins de semana de fevereiro.
 739|O maior festival de música do país, no Hipódromo de San Isidro.
@@ -767,4 +767,3 @@
 767|Avisamos em vermelho se um lugar costuma fechar no dia em que você agendou.
 768|terminais e aeroportos. Toque em um para ver o endereço e como chegar.
 769|Outros esportes
-770|Ver fotos
