@@ -20,7 +20,7 @@ Qué está hecho, qué se probó y qué falta: [app/ESTADO.md](app/ESTADO.md).
 | Ciudad de arranque | Ciudad de Buenos Aires | El prototipo ya está armado así. Tarjeta #6 |
 | De dónde sale la información | Textos propios y revisados, más datos oficiales fijos. Sin datos en vivo de la Ciudad, salvo la agenda de eventos del día: se baja una vez por día de la agenda oficial (Bautista, 12/11) | [docs/fuentes-de-informacion.md](docs/fuentes-de-informacion.md), tarjetas #7 y #65 |
 | Cómo se descarga | Comparación de tiendas, costos y requisitos | [docs/publicar-en-las-tiendas.md](docs/publicar-en-las-tiendas.md), tarjeta #8 |
-| Publicación | Publicada en https://ronkstudio.github.io/menu-3d-publico/guia-buenos-aires/, en una carpeta aparte del repositorio público del menú 3D | Bautista, 12/11. Tarjeta #57 |
+| Publicación | Publicada en https://ronkstudio.github.io/proyecto-compartido/, desde este repositorio. Todo lo de la guía vive acá; `menu-3d-publico` es solo del menú 3D y no se toca | Bautista, 13/11. Tarjeta #105 (antes, tarjeta #57) |
 | Mapa de seguridad en colores | Se sacó. Quedan los consejos escritos | Pedido #44 |
 | Qué entra en la app | De todo. Con un mínimo de locales por tipo en cada zona turística (por ejemplo, 5 de pastas y 5 o 6 parrillas) | `ezebesserr`, 11/11. Coincide con lo que pidió Bautista. Tarjeta #45 |
 | Cómo se ve | Intuitiva, simple, linda, limpia y poco cargada, aunque tenga mucho contenido | `ezebesserr`, 11/11 |
@@ -29,8 +29,6 @@ Qué está hecho, qué se probó y qué falta: [app/ESTADO.md](app/ESTADO.md).
 | Áreas de cada uno | No hay: los dos hacen de todo | Tarjeta #2 |
 | Ciudades nuevas | Berlín, Madrid, Roma y París, una por tarjeta. Primero la estructura (Info, Hoy, mapa) y después los lugares, cuando Bautista apruebe la estructura. Por ahora solo Berlín | Bautista, 13/11. Tarjetas #98 a #102 |
 | Agenda de Hoy en Berlín | Agenda cultural abierta de Berlín, solo los distritos céntricos y sin trámites de biblioteca. Títulos en alemán | 13/11. Tarjeta #99 |
-| Carpeta publicada | Sigue siendo `guia-buenos-aires` aunque haya más ciudades, para no romper el link que ya circula. Se puede cambiar más adelante | 13/11. Tarjeta #99 |
-
 ## Lo que falta decidir
 
 - **Qué idiomas siguen** (tarjeta #11). Hoy están completos español, inglés y portugués; francés, italiano, alemán, chino y japonés tienen solo el menú.
