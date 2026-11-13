@@ -33,6 +33,7 @@ window.CITY_DATA.paris = {
   places: [],
 
   barrios: [
+    { name: "Islas del Sena", vibe: "El origen de París", desc: "La isla de la Cité, con Notre-Dame, la Sainte-Chapelle y la Conciergerie, y la tranquila isla Saint-Louis, unidas por puentes.", stay: "Hay muy pocos hoteles, pero todo lo demás queda a un paso." },
     { name: "Le Marais", vibe: "Histórico, de moda y con vida de barrio", desc: "Calles medievales, la Place des Vosges, el barrio judío de la Rue des Rosiers, galerías, tiendas de diseño y el Museo Picasso.", stay: "Muy buena base: céntrico, caminable y con mucho para hacer a cualquier hora." },
     { name: "Saint-Germain-des-Prés", vibe: "Elegante y literario", desc: "Los cafés de los escritores, librerías, galerías y el Jardín de Luxemburgo a pocas cuadras.", stay: "Ideal para una primera visita si buscás algo clásico y tranquilo; suele ser caro." },
     { name: "Barrio Latino", vibe: "Estudiantil y animado", desc: "La Sorbona, el Panteón, calles con restaurantes accesibles y la orilla del Sena frente a Notre-Dame.", stay: "Céntrico y con precios algo más razonables que Saint-Germain." },
@@ -44,7 +45,11 @@ window.CITY_DATA.paris = {
     { name: "Canal Saint-Martin", vibe: "Joven y relajado", desc: "Puentes de hierro sobre el canal, bares, cafés y gente sentada en la orilla al atardecer.", stay: "Para quienes buscan un París más local y con buenos bares." },
     { name: "Bastille y Oberkampf", vibe: "Nocturno y popular", desc: "La plaza de la Bastilla, la Ópera moderna, el mercado de Aligre y calles llenas de bares.", stay: "Bueno para salir de noche y con precios razonables; puede ser ruidoso." },
     { name: "Belleville", vibe: "Multicultural y artístico", desc: "Arte urbano, comida china y del norte de África, y el parque de Belleville con una gran vista.", stay: "Económico y auténtico, para quienes ya conocen el centro." },
-    { name: "Montparnasse", vibe: "Tranquilo y bien conectado", desc: "La torre Montparnasse con su mirador, las catacumbas cerca y las brasserías históricas.", stay: "Práctico y más tranquilo, con la estación de trenes al lado." }
+    { name: "Montparnasse", vibe: "Tranquilo y bien conectado", desc: "La torre Montparnasse con su mirador, las catacumbas cerca y las brasserías históricas.", stay: "Práctico y más tranquilo, con la estación de trenes al lado." },
+    { name: "Distrito 13", vibe: "Barrio Chino y colina de pueblo", desc: "El Barrio Chino entre torres modernas y, al lado, la Butte-aux-Cailles, con casas bajas, arte urbano y bares baratos.", stay: "Económico y bien conectado, lejos del circuito turístico." },
+    { name: "Passy", vibe: "Residencial y elegante", desc: "El oeste tranquilo de la ciudad, con el Museo Marmottan Monet, calles comerciales de barrio y el bosque de Boulogne cerca.", stay: "Muy seguro y silencioso, pero lejos de la vida nocturna." },
+    { name: "Bosque de Boulogne", vibe: "Verde y enorme", desc: "El gran bosque del oeste de París, con lagos, la Fundación Louis Vuitton y el Jardín de Aclimatación.", stay: "No es zona para alojarse: es para pasar el día." },
+    { name: "La Villette", vibe: "Moderno y al aire libre", desc: "El gran parque del noreste, con la Ciudad de las Ciencias, la Philharmonie y canales para caminar.", stay: "Mejor para visitar que para alojarse." }
   ],
 
   /* Los itinerarios se arman en la etapa 2, cuando estén cargados los lugares. */

@@ -44,7 +44,7 @@ window.CITY_EXTRA.paris = {
 
   /* Zonas para el armado automático de viajes, en orden de prioridad. */
   zones: [
-    { name: "Louvre, Tullerías y las islas", barrios: ["Louvre y Palais-Royal"] },
+    { name: "Louvre, Tullerías y las islas", barrios: ["Louvre y Palais-Royal", "Islas del Sena"] },
     { name: "Torre Eiffel y Campos Elíseos", barrios: ["Torre Eiffel y Trocadero", "Champs-Élysées"] },
     { name: "Le Marais y Bastilla", barrios: ["Le Marais", "Bastille y Oberkampf"] },
     { name: "Saint-Germain y Barrio Latino", barrios: ["Saint-Germain-des-Prés", "Barrio Latino", "Montparnasse"] },
