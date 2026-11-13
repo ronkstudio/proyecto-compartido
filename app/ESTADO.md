@@ -2,7 +2,7 @@
 
 Para los dos Claude: acá está escrito qué se hizo, qué se probó y qué falta. **Actualizalo cada vez que cambies algo de `app/`.**
 
-Última actualización: 13 de noviembre de 2026, Claude de `ronkstudio` (tarjeta #138).
+Última actualización: 13 de noviembre de 2026, Claude de `ronkstudio` (tarjeta #139).
 
 Todo lo que se describe acá está en `main`.
 
@@ -85,7 +85,7 @@ Estas pruebas las hizo el Claude de `ronkstudio` antes de que se sacara el mapa 
 - **Verificación (12/11/2026).** Los 553 lugares de entonces se cruzaron con OpenStreetMap (los 12 sumados el 13/11 salen de guías y notas recientes; ver abajo qué quedó sin confirmar): todos figuran salvo 18, que se confirmaron uno por uno en la web (Michelin, 50 Best, Time Out, el sitio de turismo de la Ciudad, la prensa). Osaka se mudó a Colegiales y se corrigió. OpenStreetMap confirma que el local existe, no que siga abierto hoy. No se revisaron uno por uno las descripciones ni los días de cierre.
 - **Sin TACC, kosher y halal son temas de salud y de fe.** Hay 5 lugares sin TACC y 7 kosher, todos con fuente (su web, CeliMap o la guía kosher de Time Out). Halal: no encontramos restaurantes con certificado; Al Rawshe figura como halal en reseñas y la guía lo aclara. No hay opciones sin lactosa.
 - **Berlín no tiene lugares todavía.** Es la etapa 2 y empieza cuando Bautista apruebe la estructura. Madrid, Roma y París no se empezaron (Bautista, 13/11).
-- **Halal sigue con un solo lugar.** No encontramos más restaurantes halal con una fuente, así que no se sumaron: inventarlo sería un riesgo para quien lo necesita. Decidir si el filtro sigue o se saca.
+- **Halal y kosher ya no son filtros (#139).** Bautista pidió sacarlos (13/11/2026). Se sacaron de los filtros de dieta, del perfil de viaje y del tipo "Kosher" en Dónde comer. Los 7 lugares kosher pasaron a su tipo de cocina (parrilla, pizzería, de autor, dulces, etc.) y en su ficha sigue diciendo que son kosher. Si alguien tenía elegido kosher o halal en su perfil, se borra solo.
 - **Barrio + categoría:** algunos barrios no tienen nada en ciertas categorías (por ejemplo, salidas de noche en La Boca o Belgrano). Es esperable en barrios residenciales y no se completó.
 - **Las plazas de barrio** (etiqueta "vida de barrio") tienen descripciones genéricas. Se sumaron para que cada barrio tenga algo, con nombre y ubicación reales, pero sin conocer cada una.
 - **No está todo lo que se puede hacer en la ciudad.** Son 534 lugares. Bautista pidió (11/11) llegar a 5 por categoría en cada barrio, sin inventar: hoy solo Centro, Palermo, Recoleta y San Telmo se acercan. En los barrios residenciales no hay 5 hoteles ni 5 excursiones reales, así que esa meta ahí no se va a cumplir. La tarjeta #45 propone un mínimo de locales por tipo en cada zona turística.
