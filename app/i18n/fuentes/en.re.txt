@@ -41,3 +41,9 @@ $1 h $2 min by direct ferry
 $1 hours by boat from Tigre
 $1 h $2 min by boat from Tigre
 $1 min by boat
+Today in {1}
+Welcome to {1}!
+Your first hours in {1}
+All set! Enjoy {1}.
+{1} Guide
+1 $1 ≈ $2 euros

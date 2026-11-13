@@ -976,6 +976,18 @@ window.I18N_FULL = {
 "Alternativa Teatral: cartelera": "Alternativa Teatral：剧院节目单",
 "Resident Advisor: fiestas electrónicas": "Resident Advisor：电子音乐派对",
 "Este mes": "本月",
+"Elegí tu ciudad": "选择你的城市",
+"Cambiar de ciudad": "更换城市",
+"Tu viaje y tus lugares guardados quedan aparte para cada ciudad.": "每个城市的行程和已保存的地点会分开保存。",
+"No pudimos cargar esta ciudad": "无法加载这座城市",
+"Revisá tu conexión y volvé a intentar.": "请检查网络连接后重试。",
+"Reintentar": "重试",
+"Elegir otra ciudad": "选择其他城市",
+"Estamos cargando los lugares de esta ciudad.": "这座城市的地点还在添加中。",
+"Mientras tanto ya podés usar Info: cómo llegar desde el aeropuerto, moverte, pagar y pedir ayuda.": "在此期间，你已经可以使用“信息”：如何从机场进城、出行、付款和求助。",
+"Hay lluvia: buscá planes bajo techo.": "正在下雨：找找室内活动吧。",
+"Monto en euros": "欧元金额",
+"Transporte y aeropuertos": "交通与机场",
 "El corazón político e histórico del país. Alrededor de la plaza están la Casa Rosada, la Catedral Metropolitana, el Cabildo y la Pirámide de Mayo.": "国家的政治和历史中心。广场四周有玫瑰宫、大都会大教堂、市政厅（Cabildo）和五月金字塔。",
 "El símbolo de la ciudad, en el cruce de la avenida más ancha con la calle que nunca duerme: teatros, librerías y pizzerías clásicas.": "城市的象征，最宽的大道与不夜街在此交汇：剧院、书店和经典披萨店。",
 "Uno de los teatros líricos con mejor acústica del mundo. Se puede conocer con visita guiada o asistiendo a una función de ópera, ballet o concierto.": "世界上音响效果最好的歌剧院之一。可以参加导览，或去看歌剧、芭蕾或音乐会。",
@@ -2337,6 +2349,12 @@ window.I18N_FULL = {
 ["^(\\d+) h (\\d+) min en ferry directo$", "乘直达渡轮 $1 小时 $2 分钟"],
 ["^(\\d+) horas en lancha desde Tigre$", "从蒂格雷乘船 $1 小时"],
 ["^(\\d+) h (\\d+) min en lancha desde Tigre$", "从蒂格雷乘船 $1 小时 $2 分钟"],
-["^(\\d+) min en lancha$", "乘船 $1 分钟"]
+["^(\\d+) min en lancha$", "乘船 $1 分钟"],
+["^Hoy en ([^·]+)$", "今日{1}"],
+["^¡Bienvenido a (.+)!$", "欢迎来到{1}！"],
+["^Tus primeras horas en (.+)$", "你在{1}的头几个小时"],
+["^¡Todo listo! Disfrutá (.+)\\.$", "一切就绪！尽情享受{1}。"],
+["^Guía de (.+)$", "{1}指南"],
+["^1 ([A-Z]{3}) ≈ ([\\d.,]+) euros$", "1 $1 ≈ $2 欧元"]
 ]
 };

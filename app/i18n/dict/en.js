@@ -976,6 +976,18 @@ window.I18N_FULL = {
 "Alternativa Teatral: cartelera": "Alternativa Teatral: theatre listings",
 "Resident Advisor: fiestas electrónicas": "Resident Advisor: electronic music parties",
 "Este mes": "This month",
+"Elegí tu ciudad": "Choose your city",
+"Cambiar de ciudad": "Change city",
+"Tu viaje y tus lugares guardados quedan aparte para cada ciudad.": "Your trip and saved places are kept separately for each city.",
+"No pudimos cargar esta ciudad": "We couldn't load this city",
+"Revisá tu conexión y volvé a intentar.": "Check your connection and try again.",
+"Reintentar": "Try again",
+"Elegir otra ciudad": "Choose another city",
+"Estamos cargando los lugares de esta ciudad.": "We're still adding places for this city.",
+"Mientras tanto ya podés usar Info: cómo llegar desde el aeropuerto, moverte, pagar y pedir ayuda.": "In the meantime you can already use Info: getting in from the airport, getting around, paying and getting help.",
+"Hay lluvia: buscá planes bajo techo.": "It's raining: look for indoor plans.",
+"Monto en euros": "Amount in euros",
+"Transporte y aeropuertos": "Transport and airports",
 "El corazón político e histórico del país. Alrededor de la plaza están la Casa Rosada, la Catedral Metropolitana, el Cabildo y la Pirámide de Mayo.": "The political and historic heart of the country. Around the square stand the Casa Rosada, the Metropolitan Cathedral, the Cabildo and the May Pyramid.",
 "El símbolo de la ciudad, en el cruce de la avenida más ancha con la calle que nunca duerme: teatros, librerías y pizzerías clásicas.": "The symbol of the city, where the widest avenue meets the street that never sleeps: theatres, bookshops and classic pizzerias.",
 "Uno de los teatros líricos con mejor acústica del mundo. Se puede conocer con visita guiada o asistiendo a una función de ópera, ballet o concierto.": "One of the opera houses with the best acoustics in the world. Visit on a guided tour or by attending an opera, ballet or concert.",
@@ -2337,6 +2349,12 @@ window.I18N_FULL = {
 ["^(\\d+) h (\\d+) min en ferry directo$", "$1 h $2 min by direct ferry"],
 ["^(\\d+) horas en lancha desde Tigre$", "$1 hours by boat from Tigre"],
 ["^(\\d+) h (\\d+) min en lancha desde Tigre$", "$1 h $2 min by boat from Tigre"],
-["^(\\d+) min en lancha$", "$1 min by boat"]
+["^(\\d+) min en lancha$", "$1 min by boat"],
+["^Hoy en ([^·]+)$", "Today in {1}"],
+["^¡Bienvenido a (.+)!$", "Welcome to {1}!"],
+["^Tus primeras horas en (.+)$", "Your first hours in {1}"],
+["^¡Todo listo! Disfrutá (.+)\\.$", "All set! Enjoy {1}."],
+["^Guía de (.+)$", "{1} Guide"],
+["^1 ([A-Z]{3}) ≈ ([\\d.,]+) euros$", "1 $1 ≈ $2 euros"]
 ]
 };

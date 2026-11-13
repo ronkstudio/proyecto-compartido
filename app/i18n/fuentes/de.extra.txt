@@ -265,3 +265,15 @@
 265|Alternativa Teatral: Theaterprogramm
 266|Resident Advisor: Partys mit elektronischer Musik
 267|Diesen Monat
+268|Wähle deine Stadt
+269|Stadt wechseln
+270|Deine Reise und deine gespeicherten Orte werden für jede Stadt getrennt gespeichert.
+271|Diese Stadt konnte nicht geladen werden
+272|Prüfe deine Verbindung und versuche es noch einmal.
+273|Erneut versuchen
+274|Andere Stadt wählen
+275|Die Orte dieser Stadt werden noch ergänzt.
+276|Bis dahin kannst du schon Infos nutzen: Anreise vom Flughafen, Fortbewegung, Bezahlen und Hilfe.
+277|Es regnet: Such dir etwas für drinnen.
+278|Betrag in Euro
+279|Verkehrsmittel und Flughäfen

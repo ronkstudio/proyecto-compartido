@@ -976,6 +976,18 @@ window.I18N_FULL = {
 "Alternativa Teatral: cartelera": "Alternativa Teatral：演劇の公演情報",
 "Resident Advisor: fiestas electrónicas": "Resident Advisor：エレクトロニック音楽のパーティー",
 "Este mes": "今月",
+"Elegí tu ciudad": "都市を選ぶ",
+"Cambiar de ciudad": "都市を変更",
+"Tu viaje y tus lugares guardados quedan aparte para cada ciudad.": "旅行プランと保存した場所は都市ごとに別々に保存されます。",
+"No pudimos cargar esta ciudad": "この都市を読み込めませんでした",
+"Revisá tu conexión y volvé a intentar.": "接続を確認して、もう一度お試しください。",
+"Reintentar": "再試行",
+"Elegir otra ciudad": "別の都市を選ぶ",
+"Estamos cargando los lugares de esta ciudad.": "この都市のスポットは現在追加中です。",
+"Mientras tanto ya podés usar Info: cómo llegar desde el aeropuerto, moverte, pagar y pedir ayuda.": "それまでの間も「情報」は使えます：空港からの行き方、移動、支払い、困ったときの連絡先。",
+"Hay lluvia: buscá planes bajo techo.": "雨が降っています：屋内のプランを探しましょう。",
+"Monto en euros": "ユーロでの金額",
+"Transporte y aeropuertos": "交通機関と空港",
 "El corazón político e histórico del país. Alrededor de la plaza están la Casa Rosada, la Catedral Metropolitana, el Cabildo y la Pirámide de Mayo.": "国の政治と歴史の中心。広場の周りにはカサ・ロサダ、メトロポリタン大聖堂、カビルド、五月のピラミッドが並びます。",
 "El símbolo de la ciudad, en el cruce de la avenida más ancha con la calle que nunca duerme: teatros, librerías y pizzerías clásicas.": "街のシンボル。いちばん広い大通りと眠らない通りが交わる場所：劇場、書店、老舗ピッツェリア。",
 "Uno de los teatros líricos con mejor acústica del mundo. Se puede conocer con visita guiada o asistiendo a una función de ópera, ballet o concierto.": "世界でも屈指の音響を誇るオペラハウス。ガイドツアーか、オペラ、バレエ、コンサートで訪れましょう。",
@@ -2337,6 +2349,12 @@ window.I18N_FULL = {
 ["^(\\d+) h (\\d+) min en ferry directo$", "直行フェリーで $1 時間 $2 分"],
 ["^(\\d+) horas en lancha desde Tigre$", "ティグレから船で $1 時間"],
 ["^(\\d+) h (\\d+) min en lancha desde Tigre$", "ティグレから船で $1 時間 $2 分"],
-["^(\\d+) min en lancha$", "船で $1 分"]
+["^(\\d+) min en lancha$", "船で $1 分"],
+["^Hoy en ([^·]+)$", "今日の{1}"],
+["^¡Bienvenido a (.+)!$", "{1}へようこそ！"],
+["^Tus primeras horas en (.+)$", "{1}での最初の数時間"],
+["^¡Todo listo! Disfrutá (.+)\\.$", "準備完了！{1}を楽しんで。"],
+["^Guía de (.+)$", "{1}ガイド"],
+["^1 ([A-Z]{3}) ≈ ([\\d.,]+) euros$", "1 $1 ≈ $2 ユーロ"]
 ]
 };

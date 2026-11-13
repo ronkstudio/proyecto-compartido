@@ -41,3 +41,9 @@ $1 h $2 min in traghetto diretto
 $1 ore in barca da Tigre
 $1 h $2 min in barca da Tigre
 $1 min in barca
+Oggi a {1}
+Benvenuto a {1}!
+Le tue prime ore a {1}
+Tutto pronto! Goditi {1}.
+Guida di {1}
+1 $1 ≈ $2 euro

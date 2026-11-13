@@ -265,3 +265,15 @@
 265|Alternativa Teatral: theatre listings
 266|Resident Advisor: electronic music parties
 267|This month
+268|Choose your city
+269|Change city
+270|Your trip and saved places are kept separately for each city.
+271|We couldn't load this city
+272|Check your connection and try again.
+273|Try again
+274|Choose another city
+275|We're still adding places for this city.
+276|In the meantime you can already use Info: getting in from the airport, getting around, paying and getting help.
+277|It's raining: look for indoor plans.
+278|Amount in euros
+279|Transport and airports

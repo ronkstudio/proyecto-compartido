@@ -2,7 +2,7 @@
 
 Para los dos Claude: acá está escrito qué se hizo, qué se probó y qué falta. **Actualizalo cada vez que cambies algo de `app/`.**
 
-Última actualización: 12 de noviembre de 2026, Claude de `ronkstudio` (tarjeta #57).
+Última actualización: 13 de noviembre de 2026, Claude de `ronkstudio` (tarjeta #98).
 
 Todo lo que se describe acá está en `main`.
 
@@ -132,3 +132,4 @@ Vive en la carpeta `guia-buenos-aires/` del repositorio público `ronkstudio/men
 - **Lugares verificados (#91):** se cruzaron los 553 lugares con OpenStreetMap; los 18 que no coincidían y los 11 locales que estaban marcados como dudosos se confirmaron en la web. Osaka se mudó (ahora Concepción Arenal 2913, Colegiales) y BNN pasó a llamarse "BNN Costanera" (lo de "ex Banana" no se pudo confirmar).
 - **Más fotos (#93):** 35 restaurantes, bares, salas y hoteles más tienen foto (de 15 a 50), todas de Wikimedia Commons con licencia libre revisada, una por lugar.
 - **Alemán, chino y japonés completos (#96):** se tradujeron los 2.400 textos de cada idioma (pantallas, Recién llegado, Hoy, descripciones y consejos de los 553 lugares, etiquetas y reglas con números). Probado en la guía: inicio, aviso, Info y fichas sin textos en castellano, salvo las frases para decir (a propósito).
+- **Selector de ciudad (#98):** el nombre de la ciudad en la barra de arriba es un botón que abre la lista de ciudades (`data/ciudades.js`). La elegida queda guardada en el celular, igual que el idioma, y solo se cargan sus archivos; también se puede abrir con un enlace (`?ciudad=berlin`). El viaje, el perfil, el pasaporte, los pasos de Recién llegado y el aviso de bienvenida son por ciudad. Buenos Aires sigue igual y es la que se abre por defecto. Título, bienvenida, "Hoy en …" y "Tus primeras horas en …" cambian con la ciudad y se traducen con reglas. El conversor ofrece pesos argentinos cuando la ciudad usa otra moneda. Una ciudad sin lugares cargados muestra un cartel y deja usar Info. Los textos de cada ciudad van en su propia lista de traducción. Probado con Buenos Aires y una ciudad de prueba vacía, en castellano y alemán, a 375 de ancho, todas las pantallas, sin errores en la consola. Por ahora la lista tiene solo Buenos Aires: Berlín, Madrid, Roma y París se suman en las tarjetas #99 a #102.
