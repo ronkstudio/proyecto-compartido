@@ -329,6 +329,63 @@
   /* Barrios que aparecen en el filtro de Explorar y del Mapa: los que más recorre un turista. */
   city.filterBarrios = ["Islas del Sena", "Louvre y Palais-Royal", "Le Marais", "Barrio Latino", "Saint-Germain-des-Prés", "Torre Eiffel y Trocadero", "Champs-Élysées", "Ópera y Grands Boulevards", "Montmartre", "Canal Saint-Martin", "Bastille y Oberkampf", "Belleville", "Montparnasse"];
 
+  /* Planes armados (tarjeta #159). Cada paso nombra un lugar de la guía. */
+  city.itineraries = [
+    { id: "1-dia", name: "París en 1 día", icon: "⚡", desc: "Lo esencial si tenés solo una jornada.", steps: [
+      { when: "Mañana", ref: "Catedral de Notre-Dame", note: "Temprano, con horario reservado." },
+      { when: "Mañana", ref: "Sainte-Chapelle", note: "Está a dos cuadras." },
+      { when: "Media mañana", ref: "Orillas del Sena", note: "Caminá por la orilla hasta el Louvre." },
+      { when: "Mediodía", ref: "Museo del Louvre", note: "Elegí dos o tres salas." },
+      { when: "Tarde", ref: "Jardín de las Tullerías" },
+      { when: "Tarde", ref: "Avenida de los Campos Elíseos", note: "Desde la Concordia hasta el Arco." },
+      { when: "Atardecer", ref: "Arco del Triunfo", note: "Subí a la terraza." },
+      { when: "Noche", ref: "Torre Eiffel", note: "Mirá el brillo de la hora en punto." }
+    ] },
+    { id: "3-dias", name: "3 días clásicos", icon: "🗓️", desc: "El recorrido completo para una primera visita.", steps: [
+      { when: "Día 1 · Mañana", ref: "Catedral de Notre-Dame" },
+      { when: "Día 1 · Mañana", ref: "Sainte-Chapelle" },
+      { when: "Día 1 · Almuerzo", ref: "Isla Saint-Louis", note: "Postre en Berthillon." },
+      { when: "Día 1 · Tarde", ref: "Place des Vosges" },
+      { when: "Día 1 · Tarde", ref: "Rue des Rosiers y el barrio judío" },
+      { when: "Día 1 · Noche", ref: "Chez Janou" },
+      { when: "Día 2 · Mañana", ref: "Museo del Louvre" },
+      { when: "Día 2 · Almuerzo", ref: "Bouillon Chartier" },
+      { when: "Día 2 · Tarde", ref: "Ópera Garnier" },
+      { when: "Día 2 · Tarde", ref: "Terraza de las Galerías Lafayette" },
+      { when: "Día 2 · Noche", ref: "Torre Eiffel" },
+      { when: "Día 3 · Mañana", ref: "Museo de Orsay" },
+      { when: "Día 3 · Almuerzo", ref: "Café de Flore" },
+      { when: "Día 3 · Tarde", ref: "Jardín de Luxemburgo" },
+      { when: "Día 3 · Atardecer", ref: "Basílica del Sagrado Corazón" },
+      { when: "Día 3 · Noche", ref: "Moulin Rouge", note: "O una cena en Montmartre." }
+    ] },
+    { id: "lluvia", name: "Plan para día de lluvia", icon: "🌧️", desc: "Todo bajo techo.", steps: [
+      { when: "Mañana", ref: "Museo de Orsay" },
+      { when: "Mediodía", ref: "Galerie Vivienne", note: "Los pasajes cubiertos son para la lluvia." },
+      { when: "Almuerzo", ref: "Le Grand Colbert" },
+      { when: "Tarde", ref: "Passage des Panoramas" },
+      { when: "Tarde", ref: "Ópera Garnier" },
+      { when: "Merienda", ref: "Angelina", note: "Chocolate caliente." },
+      { when: "Noche", ref: "Caveau de la Huchette" }
+    ] },
+    { id: "gratis", name: "París gratis", icon: "💸", desc: "Un gran día sin gastar en entradas.", steps: [
+      { when: "Mañana", ref: "Catedral de Notre-Dame" },
+      { when: "Mañana", ref: "Museo Carnavalet", note: "La colección permanente es gratis." },
+      { when: "Mediodía", ref: "Place des Vosges" },
+      { when: "Tarde", ref: "Petit Palais" },
+      { when: "Tarde", ref: "Puente Alejandro III" },
+      { when: "Atardecer", ref: "Terraza de las Galerías Lafayette" },
+      { when: "Noche", ref: "Parque de Belleville", note: "Vista de la Torre Eiffel iluminada." }
+    ] },
+    { id: "chicos", name: "Con chicos", icon: "🧒", desc: "Planes que funcionan en familia.", steps: [
+      { when: "Mañana", ref: "Jardín de Luxemburgo", note: "Barquitos en la fuente." },
+      { when: "Mediodía", ref: "Gran Galería de la Evolución" },
+      { when: "Tarde", ref: "Ménagerie del Jardin des Plantes" },
+      { when: "Merienda", ref: "Berthillon" },
+      { when: "Atardecer", ref: "Bateaux Mouches", note: "Paseo en barco por el Sena." }
+    ] }
+  ];
+
   filas.forEach(f => {
     const p = { cat: f[0], sub: f[1], name: f[2], barrio: f[3], address: f[4], price: f[5], desc: f[6], tip: f[7], tags: f[8] };
     if (f[9]) p.top = true;
