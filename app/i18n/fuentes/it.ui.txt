@@ -851,3 +851,13 @@
 851|Corse in auto. Vedi il prezzo prima di prenotare.
 852|Per chiamare i taxi.
 853|La più usata per scrivere e chiamare.
+854|Crea il tuo account o accedi con la tua email
+855|Solo la tua email, senza password: ti mandiamo un link e con un tocco sei dentro. Salviamo solo la tua email e il tuo viaggio.
+856|Invia il link
+857|Accesso come
+858|Il tuo viaggio è salvato nel tuo account. Di te conosciamo solo l'email.
+859|Esci
+860|Cancella i dati del mio account
+861|Fatto: controlla la tua email e tocca il link per entrare.
+862|Non siamo riusciti a collegarci al servizio account. Riprova più tardi.
+863|Ci stiamo ancora collegando al servizio account. Riprova tra qualche secondo.

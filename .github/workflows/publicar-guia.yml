@@ -48,6 +48,20 @@ jobs:
           rm -rf _site/i18n/fuentes _site/servir.ps1 _site/zz-*
           rm -f _site/*.md
           touch _site/.nojekyll
+      # Cuentas de usuario (tarjeta #140): los dos datos de Supabase se cargan en GitHub, en Settings > Secrets and variables >
+      # Actions > Variables (SUPABASE_URL y SUPABASE_ANON_KEY), y no en el repositorio. Acá se escriben solo en la copia que se publica.
+      # Si no están cargados, las cuentas quedan apagadas y la guía funciona igual. Ver app/CUENTAS.md.
+      - name: Encender las cuentas (si los datos están cargados en GitHub)
+        env:
+          SUPABASE_URL: ${{ vars.SUPABASE_URL }}
+          SUPABASE_ANON_KEY: ${{ vars.SUPABASE_ANON_KEY }}
+        run: |
+          if [ -n "$SUPABASE_URL" ] && [ -n "$SUPABASE_ANON_KEY" ]; then
+            printf 'window.GUIA_CONFIG = { supabaseUrl: "%s", supabaseAnonKey: "%s" };\n' "$SUPABASE_URL" "$SUPABASE_ANON_KEY" > _site/config.js
+            echo "Cuentas encendidas."
+          else
+            echo "Cuentas apagadas: faltan SUPABASE_URL o SUPABASE_ANON_KEY en las variables del repositorio."
+          fi
       - uses: actions/upload-pages-artifact@v3
         with:
           path: _site

@@ -253,7 +253,7 @@
       cuenta = '<div class="account-box"><p>Entraste como <b>' + esc(user.email || "tu cuenta") + '</b></p><p class="hint" style="margin:4px 0 0">Tu viaje se guarda en tu cuenta. Lo único que sabemos de vos es tu mail.</p>' +
         '<p class="plan-actions" style="margin:12px 0 0"><button class="btn" data-signout>Cerrar sesión</button><button class="btn danger" data-wipe>Borrar lo guardado en mi cuenta</button></p></div>';
     } else {
-      cuenta = '<form class="account-box" id="login-form"><label for="login-mail"><b>Entrá con tu mail</b></label><p class="hint" style="margin:4px 0 0">Te mandamos un enlace para entrar, sin contraseñas. Lo único que guardamos es tu mail y tu viaje.</p>' +
+      cuenta = '<form class="account-box" id="login-form"><label for="login-mail"><b>Creá tu cuenta o entrá con tu mail</b></label><p class="hint" style="margin:4px 0 0">Solo tu mail, sin contraseña: te mandamos un enlace y con tocarlo ya estás adentro. Lo único que guardamos es tu mail y tu viaje.</p>' +
         '<div class="search"><input id="login-mail" name="mail" type="email" required placeholder="tu@mail.com" autocomplete="email"><button>Enviar enlace</button></div>' +
         (authMsg ? '<p class="status ok" style="margin-top:10px">' + esc(authMsg) + "</p>" : "") + "</form>";
     }

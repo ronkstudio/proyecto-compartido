@@ -851,3 +851,13 @@
 851|Trajets en voiture. Vous voyez le prix avant de commander.
 852|Pour commander des taxis.
 853|La plus utilisée pour écrire et appeler.
+854|Créez votre compte ou connectez-vous avec votre e-mail
+855|Juste votre e-mail, sans mot de passe : nous vous envoyons un lien et il suffit de le toucher pour entrer. Nous ne gardons que votre e-mail et votre voyage.
+856|Envoyer le lien
+857|Connecté en tant que
+858|Votre voyage est enregistré dans votre compte. Nous ne connaissons de vous que votre e-mail.
+859|Se déconnecter
+860|Effacer ce qui est enregistré dans mon compte
+861|C'est fait : consultez vos e-mails et touchez le lien pour entrer.
+862|Impossible de joindre le service de comptes. Réessayez plus tard.
+863|Connexion au service de comptes en cours. Réessayez dans quelques secondes.

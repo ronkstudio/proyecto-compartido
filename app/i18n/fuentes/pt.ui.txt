@@ -851,3 +851,13 @@
 851|Corridas de carro. Você vê o preço antes de pedir.
 852|Para pedir táxis.
 853|A mais usada para mensagens e ligações.
+854|Crie sua conta ou entre com seu e-mail
+855|Só seu e-mail, sem senha: mandamos um link e com um toque você já entra. Só guardamos seu e-mail e sua viagem.
+856|Enviar link
+857|Você entrou como
+858|Sua viagem fica salva na sua conta. De você só sabemos o e-mail.
+859|Sair
+860|Apagar o que está salvo na minha conta
+861|Pronto: confira seu e-mail e toque no link para entrar.
+862|Não conseguimos conectar ao serviço de contas. Tente mais tarde.
+863|Ainda conectando ao serviço de contas. Tente em alguns segundos.

@@ -31,27 +31,22 @@ Esto lo tiene que hacer una persona, no Claude: hay que crear una cuenta en un s
      for all using (auth.uid() = user_id) with check (auth.uid() = user_id);
    ```
 
-3. Ir a **Authentication → URL Configuration** y poner en "Site URL" la dirección donde está publicada la app.
-4. Ir a **Project Settings → API** y copiar dos datos: la **Project URL** y la clave **anon public**.
-5. Pegarlos en `config.js`, entre las comillas de `supabaseUrl` y `supabaseAnonKey`.
+3. Ir a **Authentication → URL Configuration**:
+   - En **Site URL** poner `https://ronkstudio.github.io/proyecto-compartido/`.
+   - En **Redirect URLs** sumar `https://ronkstudio.github.io/proyecto-compartido/**` (con los dos asteriscos, para que el enlace del mail funcione desde cualquier pantalla de la guía).
+4. Ir a **Project Settings → API** (o **Data API** / **API Keys**) y copiar dos datos: la **Project URL** y la clave **anon public** (también puede aparecer como *publishable*).
+5. **No pegarlos en el repositorio.** Cargarlos en GitHub: en el repositorio `proyecto-compartido`, **Settings → Secrets and variables → Actions → pestaña Variables → New repository variable**:
+   - Nombre `SUPABASE_URL`, valor: la Project URL.
+   - Nombre `SUPABASE_ANON_KEY`, valor: la clave anon public.
+6. Publicar de nuevo: en **Actions → Publicar la guía → Run workflow** (o esperar a la próxima publicación, que corre sola dos veces por día).
 
-Listo: al abrir la app, en "Mi cuenta" aparece el campo para entrar con el mail.
+Listo: al abrir la guía, en "Mi cuenta" aparece el campo para crear la cuenta con el mail. `config.js` en el repositorio queda vacío; la publicación escribe los datos solo en la copia publicada (paso "Encender las cuentas" de `.github/workflows/publicar-guia.yml`).
 
-## Para decidir entre los dos
+## Por qué la clave no va en el repositorio (decidido el 13/11/2026, tarjeta #140)
 
-La regla del repositorio dice que no van claves ni contraseñas. La clave **anon public** de Supabase es un caso raro:
+La regla del repositorio dice que no van claves. La clave **anon public** de Supabase está hecha para ir a la vista (cualquiera que abra la guía la puede ver, y solo deja hacer lo que permite la regla del paso 2), pero igual no se sube: se carga en las variables de GitHub y la publicación la pone sola en cada copia publicada. Así se respeta la regla y nadie tiene que acordarse de pegarla.
 
-- Está hecha para ir a la vista: cualquiera que abra la app la puede ver, y no da permiso para nada que no esté permitido por la regla del paso 2.
-- Pero es una clave, y la regla es la regla.
-
-Dos caminos posibles:
-
-| Camino | A favor | En contra |
-|---|---|---|
-| Pegarla en `config.js` y subirla al repositorio | Simple. Es el uso normal de Supabase | Hay que aceptar una excepción a la regla |
-| No subirla: pegarla solo en la copia que se publica | Se respeta la regla tal cual | Hay que acordarse de pegarla en cada publicación |
-
-Hay otra clave en Supabase que se llama **service_role**. Esa sí es secreta: **nunca** va en la app ni en el repositorio.
+Hay otra clave en Supabase que se llama **service_role** (o *secret*). Esa sí es secreta: **nunca** va en la guía, ni en el repositorio, ni en las variables de GitHub.
 
 ## Lo que falta
 
