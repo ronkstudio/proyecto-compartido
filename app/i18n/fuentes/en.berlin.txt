@@ -275,3 +275,787 @@
 275|Neukölln and Schöneberg
 276|Mitte and Tiergarten
 277|Kreuzberg, Friedrichshain and Prenzlauer Berg
+278|Palace
+279|German food
+280|Currywurst and döner
+281|Café
+282|Bakeries and sweets
+283|Bar
+284|Beer halls and beer gardens
+285|Cabaret and variety
+286|Palaces and gardens
+287|Nature and lakes
+288|History and remembrance
+289|Flea market
+290|Shops
+291|Pools and lakes
+292|Opera and concerts
+293|Michelin Guide 2026 · 3 stars
+294|Michelin Guide 2026 · 2 stars
+295|Michelin Guide 2026 · 1 star
+296|Michelin Guide 2026 · Bib Gourmand
+297|Europe's 50 Best Bars 2026 · no. 17 (best bar in Germany)
+298|Mixology Bar Awards 2026 · Bar of the year
+299|Time Out 2026 · best nightclub in Europe
+300|UNESCO World Heritage
+301|UNESCO Biosphere Reserve
+302|Michelin Guide 2025 · 1 Key
+303|Michelin Guide 2025 · 2 Keys
+304|Berlin classics
+305|Following the Wall
+306|Cold War
+307|Free Berlin
+308|Viewpoints and views
+309|Cafés
+310|Beer gardens and beer halls
+311|Clubs and techno
+312|LGBT+ nightlife
+313|Markets
+314|Day trips
+315|Along the Wall
+316|3 Berlin Wall sites
+317|2 currywurst or döner stands
+318|Coffee lover
+319|2 cafés
+320|Beer garden
+321|A beer hall or a beer garden
+322|Palace hopper
+323|2 palaces
+324|Club night
+325|A club to dance at
+326|Berlin in 1 day
+327|The visit is free, but you have to register in advance on the Bundestag website.
+328|Walk it all the way to Museum Island.
+329|The bust of Nefertiti. Closed on Mondays.
+330|Book a time slot online.
+331|German dinner in the city's oldest tavern.
+332|Day 1 · Morning
+333|Register in advance for the dome.
+334|Day 1 · Midday
+335|Day 1 · Afternoon
+336|Pick one or two museums: there's no time for all of them.
+337|Day 1 · Night
+338|Day 2 · Morning
+339|Day 2 · Midday
+340|Day 2 · Lunch
+341|Kreuzberg's currywurst.
+342|Day 2 · Afternoon
+343|Day 2 · Sunset
+344|Day 2 · Night
+345|Bars one after another.
+346|Day 3 · Morning
+347|Closed on Mondays.
+348|Day 3 · Midday
+349|Day 3 · Afternoon
+350|Cross it to the Victory Column.
+351|Day 3 · Afternoon snack
+352|Day 3 · Night
+353|If there's a concert, get tickets early.
+354|Everything indoors and close together.
+355|Closed on Mondays: on that day, swap it for the DDR Museum.
+356|Free admission. Closed on Mondays.
+357|Books and records over five floors.
+358|A great day without paying for tickets.
+359|Free, with advance registration.
+360|The permanent exhibition is free.
+361|From the big window you can see the zoo's monkeys.
+362|Trains, ships and planes. Closed on Mondays.
+363|Bring a bike, skates or a kite.
+364|Wednesday jazz jam session
+365|Wednesday night with new DJs
+366|Street Food Thursday: food stalls from all over the world
+367|Five monumental museums on an island in the Spree, with two centuries of history. Today you can visit the Neues Museum, the Altes Museum, the Alte Nationalgalerie and the Bode.
+368|The museum of Nefertiti's bust: ancient Egypt and prehistory in a bombed building that Chipperfield rebuilt, leaving the scars visible.
+369|A temple on the island full of 19th-century painting: Caspar David Friedrich, Menzel and the French Impressionists.
+370|The domed building at the tip of the island holds sculptures, Byzantine art and a huge coin collection.
+371|While the Pergamon Museum is under renovation, here you can see a giant 360° panorama of the ancient city and original pieces from the museum.
+372|Two thousand years of Jewish life in Germany inside Daniel Libeskind's zigzag building, which moves you before you read a single sign.
+373|The great museum of German history. The baroque building is closed for works for years, but I. M. Pei's glass annex still has temporary exhibitions.
+374|Locomotives, ships, planes and a bomber hanging from the ceiling: the city's most fun museum to visit with kids.
+375|The tallest mounted dinosaur skeleton in the world greets you in the hall. There's also a T. rex and a wall with thousands of animals.
+376|Mies van der Rohe's glass-and-steel pavilion, a jewel of modern architecture, with 20th-century art inside.
+377|An old train station turned into Berlin's museum of contemporary art: Beuys, Warhol and huge installations.
+378|One of Europe's great picture galleries: Rembrandt, Caravaggio, Botticelli, Vermeer and Dürer, almost without queues.
+379|The museum of art made in Berlin: Dada, Expressionism, photography and architecture from 1870 to today.
+380|Everyday life in communist Germany, where you can touch everything: a furnished apartment, a Trabant to drive and drawers to rummage through.
+381|The headquarters of East Germany's secret police, with the chief's office intact and the devices used to spy on people.
+382|The house of futures: interactive exhibits on how we'll live, eat and get around, with a lab for experimenting.
+383|The video game museum: from Pong to today, with dozens of old arcade machines and consoles to play.
+384|Berlin's museum of urban art: murals, stencils and installations by artists from all over the world, inside and on the facades of the block.
+385|The only stretch where you can understand the whole Wall: both walls, the death strip and a watchtower, on the street it split in two.
+386|The longest remaining stretch of the Wall, more than a kilometre painted by artists from around the world in 1990. The famous kiss is here.
+387|The most famous border crossing of the Cold War, where Soviet and American tanks faced off in 1961.
+388|The hall at Friedrichstraße station where East Berliners said goodbye to their visitors from the West. Today it tells what crossing the border was like.
+389|The former death strip is now a park with a wall for graffiti artists. On Sundays there's a flea market and open-air karaoke.
+390|A giant 360° image that puts you on an ordinary day in the 1980s, looking at the Wall from Kreuzberg.
+391|The symbol of Berlin and of reunification: for 28 years it was trapped in no man's land, right next to the Wall.
+392|The German Parliament, with a glass dome by Norman Foster that you climb in a spiral while looking at the city and the members of parliament.
+393|2,711 concrete blocks on undulating ground, a few metres from the Brandenburg Gate. You walk inside and the noise of the city fades away.
+394|Where the Gestapo and SS headquarters stood there is now a documentation centre on Nazi terror, next to an original stretch of the Wall.
+395|Berlin's most elegant square: two twin cathedrals with the concert hall in the middle. Recently renovated.
+396|The square where the Nazis burned thousands of books in 1933. In the ground, a glass pane reveals an underground library with empty shelves.
+397|An enormous war cemetery inside the park: a 12-metre statue and a marble avenue where thousands of Soviet soldiers rest.
+398|A former guardhouse that is now Germany's memorial to the victims of war and tyranny: an empty room, a sculpture and an opening to the sky.
+399|One of the largest buildings in the world, built by the Nazis and famous for the 1948 airlift. You tour the inside with a guide.
+400|The tallest structure in Germany, the pride of communist Berlin. From the sphere you can see the whole city.
+401|The column with the golden angel in the middle of the Tiergarten. Climb 285 steps and the whole park is at your feet.
+402|It was a wasteland split by the Wall and today it's the Berlin of skyscrapers. Original stretches of the Wall remain on the pavement.
+403|The red-brick bridge with two towers where the yellow U-Bahn runs. It was a border crossing and today it links Kreuzberg with Friedrichshain.
+404|A 1969 clock showing the time all over the world, with a solar system spinning on top. It's the classic Berlin meeting point.
+405|Berlin's «Eiffel Tower»: a 1926 steel radio tower with a viewing platform, just reopened after its centenary renovation.
+406|A hill made from war rubble and, on top, an abandoned American spy station covered in graffiti.
+407|Berlin's largest palace, summer residence of the kings of Prussia, with baroque halls and a huge park on the Spree.
+408|Berlin's royal palace, rebuilt with three baroque facades and one modern one. Inside are museums of art from Asia, Africa and the Americas.
+409|A baroque palace on a small island where two rivers meet, with furniture and luxury objects from the Museum of Decorative Arts.
+410|A baroque palace with two lives: residence of a Prussian queen and later guesthouse of the East German government.
+411|The city's most imposing church, with its green dome on the island. Inside, a huge organ and the Hohenzollern crypt, reopened in 2026.
+412|The tower broken by the bombs of 1943, left that way as a reminder of the war, next to a modern church of blue glass.
+413|Berlin's Catholic cathedral, round like the Pantheon in Rome. It reopened at the end of 2024 with a stark white interior that got people talking.
+414|The church of the Huguenots who fled France. Its tower has a viewpoint over the Gendarmenmarkt and a small museum on that history.
+415|The twin of the French Cathedral. It's no longer a church: inside is a free exhibition by Parliament on the history of German democracy.
+416|Berlin's oldest church, with two pointed towers. Today it's a museum on the city's origins and a concert hall.
+417|The golden dome that dominates Oranienburger Straße. It was Germany's largest synagogue; today it's a museum on Jewish life in Berlin.
+418|Germany's largest synagogue, hidden in an inner courtyard. It survived 1938 because it was attached to the neighbouring houses.
+419|Berlin's most beautiful mosque, in Ottoman style, with two minarets and a painted dome, next to a 19th-century Turkish cemetery.
+420|Germany's largest Hindu temple, with a 17-metre tower full of colourful gods. It opened in June 2026 after twenty years of construction.
+421|Berlin's green lung: a forest right in the centre, with lakes, paths and clearings where Berliners sunbathe.
+422|A closed airport turned into a park: the runways were left as they were and now belong to bikes, skates and kites.
+423|A long park on the Spree, with a pier, a small island with a bridge and the gigantic Soviet memorial hidden among the trees.
+424|Berlin's oldest park, with a fairy-tale fountain and two hills made from war rubble.
+425|One of the largest botanical gardens in the world, with thousands of species and glass-and-iron greenhouses from the early 20th century.
+426|The hill that gives Kreuzberg its name, with an artificial waterfall and a monument on top from which you can see the whole south of the city.
+427|Berlin's historic boulevard: from the Brandenburg Gate to Museum Island you pass the opera, the university and the Neue Wache.
+428|A riverside walk between the Reichstag, the Chancellery and the glass buildings of Parliament, linked by bridges over the water.
+429|The great avenue of West Berlin: three kilometres of shop windows, old-style cafés and stately buildings.
+430|Eight interconnected courtyards with Art Nouveau facades of coloured tiles, design shops, a cinema and a theatre.
+431|The monumental avenue of socialist Berlin: two kilometres of 1950s «palaces for workers», extra wide for parades.
+432|The place where Berlin was born: cobbled lanes and low houses rebuilt by East Germany in the 1980s around the oldest church.
+433|The old Jewish quarter, now full of art galleries, hidden courtyards and cafés. On the pavements, golden plaques remember the deported neighbours.
+434|Picture-postcard Prenzlauer Berg: restored old buildings, wide pavements, prams and cafés with tables outside.
+435|The quieter side of Kreuzberg: a street of cafés, bookshops and second-hand shops that ends at a covered market.
+436|North Neukölln, where Turkish greengrocers, tiny bars and young people from all over the world live side by side.
+437|The heart of Friedrichshain: bars one after another, murals, alternative venues and a square with a market at weekends.
+438|A leafy corner of Kreuzberg by the canal, with 1900s buildings and small restaurants on almost every corner.
+439|An 18th-century village that ended up inside Neukölln: a square with a smithy, low houses and cobbled streets.
+440|Berlin's house of photography, in the former American cultural centre. First-rate exhibitions that change several times a year.
+441|Contemporary art inside a war bunker that later became a fruit warehouse and a techno club. Entry only with a guided tour.
+442|The «pregnant oyster»: a 1950s building with a curved roof on the Spree, devoted to art and music from around the world.
+443|An unrestored passage covered in graffiti from top to bottom, with a cinema, a bar and two small museums about the Nazi years.
+444|An old margarine factory where Mitte's contemporary art scene was born. Daring exhibitions and a courtyard with a café.
+445|Berlin's oldest restaurant, dating back to 1621: wooden rooms, a tiled stove and Berlin dishes such as pork knuckle and Königsberg meatballs.
+446|Berlin's oldest beer garden, under the chestnut trees, with a tavern next door serving Berlin food all year round.
+447|A Berlin tavern from 1902 with old rooms, draught beer and hearty dishes such as pork knuckle and Königsberg meatballs.
+448|A tavern over a century old famous for one thing only: a crispy fried half chicken, with coleslaw or potato salad.
+449|Southern German food in a relaxed dining room: schnitzel, Maultaschen, Flammkuchen and Black Forest beers.
+450|An old-school Berlin Kneipe, steps from Savignyplatz, with stews, schnitzel and several beers on tap.
+451|Food from East Prussia, Silesia and Pomerania in a cosy dining room of a kind that has almost disappeared.
+452|A corner tavern that keeps the spirit of East Berlin: home cooking, huge portions and friendly prices.
+453|A reconstruction of a 16th-century tavern in the Nikolaiviertel, with simple Berlin food and a small terrace under the walnut tree.
+454|Grandma's Berlin cooking in a cellar full of memorabilia, near Alexanderplatz.
+455|West Berlin's most famous currywurst stand: sausage with or without skin, curry sauce and fries, at any hour.
+456|The East Berlin classic since 1930, under the elevated U2 tracks: East Berlin's first currywurst was served here.
+457|Berlin butcher's currywurst with fresh fries, near Hackescher Markt. They also have a vegan option.
+458|A neighbourhood stand next to Gesundbrunnen station, with home-made sausages and a big reputation among Berliners.
+459|Organic currywurst opposite KaDeWe, with Belgian fries and several home-made sauces.
+460|An institution in the south of Berlin since 1959, with its own sauce recipe and sausages made by the family.
+461|The city's most famous döner: chicken with roasted vegetables, feta cheese, lemon and sauces, served from a kiosk.
+462|For many Berliners, the best chicken döner with vegetables: home-made bread, juicy meat and their own sauces.
+463|A family-run Turkish place at Kottbusser Tor with knife-cut beef döner and freshly baked lahmacun.
+464|A historic Turkish restaurant in Kreuzberg whose founder claims to have invented döner in bread. Grill and döner on a plate.
+465|Traditional beef döner, with hand-stacked, well-seasoned meat. A local favourite.
+466|Burgers served from a former public toilet under the U1 tracks at Schlesisches Tor. A Kreuzberg icon.
+467|Sudanese-style falafel and halloumi, with the peanut sauce that made it famous.
+468|Falafel and shawarma in a tiny, colourful place on the corner by Oranienburger Tor.
+469|A Lebanese Imbiss at Kottbusser Tor with shawarma, falafel and generous mixed plates.
+470|Spit-roasted half chicken with fries and salad, opposite Görlitzer Park. A cheap Kreuzberg classic.
+471|Fries taken seriously by two fine-dining chefs: with truffle, with currywurst or topped with stews.
+472|Freshly fried schnitzel, big and cheap, in a casual spot under the tracks by the Oberbaum Bridge.
+473|A large food hall at Potsdamer Platz, with dozens of world cuisines and bars under one roof.
+474|The food court of the Bikini Berlin shopping centre, with a variety of stalls and big windows overlooking the zoo's monkey enclosure.
+475|The roaster that put Berlin on the specialty coffee map. Small place, impeccable filter coffee and home-made cakes.
+476|Pioneers of specialty coffee in Berlin, steps from the Mauerpark. A minimal space and one of the best espressos.
+477|Coffee and brunch in a quiet inner courtyard, hidden near Hackescher Markt.
+478|A neighbourhood roaster and bakery famous for its cheesecake, one of the most recommended in the city.
+479|Berlin roasters with good coffee and a brunch menu served all day.
+480|Specialty coffee with carefully made breakfasts and brunch, in an exposed-brick room.
+481|A bohemian West Berlin classic that is open almost non-stop: breakfast at any hour over two floors.
+482|A Tajik tea house, a Soviet gift from the seventies: carpets, cushions, a samovar and a Russian tea ceremony.
+483|A tiny café full of plants, with a generous brunch, home-made bread and good coffee.
+484|An organic bakery with a visible oven, famous for its freshly made cinnamon rolls, also in other flavours.
+485|A French patisserie with first-rate croissants, éclairs and tarts.
+486|An 1852 confectioner specialising in Baumkuchen, the German layer cake, made with the house's secret recipe.
+487|An artisan bakery with sourdough bread and some of the best pastries in the city: croissants, kouign-amann and more.
+488|A bakery in a Mitte courtyard that works with ancient grains: sourdough breads and Nordic pastries.
+489|A craft bakery in Moabit, with a visible oven and highly respected slow-fermented breads.
+490|A huge chocolate shop opposite the Gendarmenmarkt, with chocolate sculptures of Berlin monuments and a café upstairs.
+491|Ice cream by a professional pastry chef, creamy and with well-crafted flavours. The neighbourhood's most famous ice cream shop.
+492|American-style ice cream with cones baked on the spot and cookie sandwiches.
+493|A Berlin artisan ice cream shop with natural ingredients and very well-made fruit flavours.
+494|A neighbourhood ice cream shop in the Reuterkiez with original flavours, such as cucumber, lemon and mint.
+495|Home-made organic ice cream, with creative flavours and vegan options.
+496|Real Sicilian ice cream: Bronte pistachio, granita and brioche filled with ice cream.
+497|An Italian ice cream shop with a visible lab, few flavours, all very well made.
+498|Berlin's only three-star restaurant: Marco Müller's tasting menu with regional produce and a great wine list.
+499|The Asian-inspired cuisine of Berlin's most famous chef, a few metres from Checkpoint Charlie. Intense, sweet and spicy flavours.
+500|A glass pavilion surrounded by a garden on the fifth floor of The Mandala hotel, at Potsdamer Platz. Modern, light cuisine.
+501|A tasting menu born from pastry, with dessert techniques and almost no added sugar, paired with drinks. One of a kind.
+502|Austrian cuisine reinvented by Sebastian Frank by the canal, with vegetables in the starring role.
+503|«Brutally local» cuisine: only products from Berlin and its surroundings, served at a long counter facing the kitchen.
+504|Fine dining without the solemnity: Max Strohe's opulent dishes and a warm room with some of the best service in the city.
+505|The Hotel Adlon's gourmet restaurant, with a classic dining room and a view of the Brandenburg Gate.
+506|Chef's cuisine on the 14th floor of the InterContinental hotel, with a panoramic view over the Tiergarten and the city.
+507|A former kebab shop turned into a starred restaurant: a minimal room, an open kitchen and a French-inspired menu.
+508|A starred neighbourhood bistro: a short menu, seasonal produce and good wine in a friendly atmosphere.
+509|Carefully made seasonal cuisine in quiet Rixdorf, Neukölln's village corner.
+510|Contemporary French cuisine with a star and a strong wine list, on the gallery stretch of Potsdamer Straße.
+511|Small plates to share with regional produce, in a bare room in the Schillerkiez. Among the best in Neukölln.
+512|Modern, straightforward cuisine in a bright room with an open kitchen, by two Dutch chefs.
+513|The Vietnamese place that made pho fashionable in Berlin: a short menu that changes often, soups, noodle salads and fresh juices.
+514|Turkish charcoal grill with lamb skewers, Adana kebab and starters to share.
+515|South Indian street food: crispy dosas, thalis and curries, in a colourful place.
+516|Neapolitan pizza from a wood-fired oven with long-fermented dough, among the most respected in the city.
+517|Sourdough pizza with ingredients from regional producers and good vegan options.
+518|Neapolitan pizza in a hidden courtyard by the canal, with airy dough and a wood-fired oven.
+519|The most famous hummus on Sonnenallee, Berlin's «Arab street»: freshly made, with falafel and warm bread.
+520|A minimal ramen bar with thick tonkotsu broth and noodles cooked just right. Berlin's reference ramen.
+521|Taiwanese noodle soups and dumplings in a family-run place on Kantstraße, Berlin's Asian corridor.
+522|Lebanese cuisine with mezze and grill, recognised by the Michelin Guide for its value for money.
+523|A family-run Georgian restaurant: khachapuri, khinkali and Georgian wines.
+524|Home-style Austrian cooking: Wiener schnitzel, Tafelspitz, Kaiserschmarrn and Austrian wines.
+525|Japanese cuisine with regional produce in a renovated Kollwitzkiez classic.
+526|Starred vegetarian fine dining, hidden at the back of a service alley behind a hotel.
+527|Starred vegetarian cuisine and signature cocktails, in a relaxed Schöneberg bistro.
+528|A 100% vegan tasting menu, creative and very carefully made, in the heart of the Kollwitzkiez.
+529|Vegan doughnuts with original glazes, opposite the canal. They have several shops in the city.
+530|Berlin's original vegan döner, made on a seitan and vegetable spit, plus burgers and fries.
+531|Vegan Vietnamese food served in small bowls to share, opposite Boxhagener Platz.
+532|A 100% gluten-free organic bakery and café: bread, croissants, cakes and sandwiches.
+533|A bakery where everything is baked gluten-free, a block from the Kurfürstendamm.
+534|A 100% gluten-free artisan bakery in Friedrichshain, with sourdough bread and pastries.
+535|A dedicated gluten-free Japanese café, known for its cinnamon rolls and sweets.
+536|Berlin's most famous speakeasy: an unmarked door, few seats and classic cocktails made with obsessive precision.
+537|Voted best bar in Germany: highly technical cocktails that look simple, in a relaxed spot on Weserstraße.
+538|A classic since the nineties behind a green door: checked walls, low light and impeccable cocktails.
+539|A signature bar that changes its menu every week depending on what they forage in the region's woods and gardens.
+540|An intimate, quiet bar with no sign: you recognise it by the illuminated portrait of Samuel Beckett in the window.
+541|The bar on the 10th floor of the 25hours hotel, with big windows and a terrace overlooking the Zoo's monkeys and the Memorial Church.
+542|A rooftop terrace with a vegetable garden, sand and DJs on the top floor of a shopping-centre car park, with one of the best views of Berlin.
+543|A very long bar, art on the walls and old-school bartenders: the classic bar on Potsdamer Straße, reopened after a fire.
+544|A tiny, eccentric bar with only a handful of seats and an owner in a waistcoat and bow tie who decides what to make you.
+545|A red-velvet, dimly lit bar named after a Buñuel film, next to the Babylon Kreuzberg cinema.
+546|A classic bar and lounge in Schöneberg's gay neighbourhood, with armchairs, good music and a mixed, friendly crowd.
+547|A former furniture shop turned into a queer neighbourhood bar right at Kottbusser Tor: loud, cheap and much loved.
+548|Berlin's oldest beer garden, from 1837: long tables under the chestnut trees, house beer and sausages.
+549|A huge beer garden on a lake in the middle of the Tiergarten, with oven-baked pizzas and rowing boats for hire.
+550|A simple beer garden next to a canal lock, between the Zoo and the Tiergarten: watch the boats go by with a beer.
+551|A craft brewery built from shipping containers on the edge of Park am Gleisdreieck, with a big beer garden and charcoal-grilled food.
+552|A Bavarian beer garden under a century-old chestnut tree, on the banks of the Spree right opposite the Chancellery.
+553|A historic beer garden inside the Viktoriapark, with several terraces, a grill and a dance floor when night falls.
+554|A tiny, carefully run wine bar around the corner from Unter den Linden, with a huge list and small plates to share.
+555|The ground floor of Berlin's most awarded restaurant: a huge cellar focused on German Rieslings, with simpler food.
+556|An unpretentious neighbourhood wine bar, where the owner recommends wines based on what you like and prices are friendly.
+557|A former stamp shop on the socialist avenue turned into an Italian wine bar, with its original furniture and home-made pasta.
+558|A café by day and wine bar by night, with mismatched armchairs: famous for letting you pay what you think is fair.
+559|The most famous techno club in the world, in an old power station: massive sound and parties that last all weekend.
+560|The club that brought Detroit techno to Berlin in 1991, now in a power plant with a tunnel and a basement of safe-deposit boxes.
+561|An old dog-biscuit factory turned into a small festival: several dance floors, sand, a lake and parties lasting whole days.
+562|A club on the banks of the Spree, with a boat, a fire pit and wooden dance floors: friendlier house and techno, day and night.
+563|A wooden pier under a willow on a canal: open-air house and minimal from the afternoon, with an endless after-party feel.
+564|Kreuzberg's historic punk venue, where Bowie and Iggy Pop played: gigs, queer parties and even roller skating.
+565|A 1913 ballroom with faded mirrors and a garden in front: people dance swing, tango and waltz here as they did a hundred years ago.
+566|Berlin's best-known fetish and hedonist club: techno and trance, a pool and total freedom behind closed doors.
+567|An old factory in a Kreuzberg courtyard, with several floors of house and melodic techno and decor that keeps changing.
+568|A club in Prussian stables with columns and vaults: hip hop, drum and bass, jazz and electronic music beyond the techno mould.
+569|Berlin's most prestigious jazz club: a room for about a hundred people that has hosted Herbie Hancock and Wynton Marsalis.
+570|A historic basement under the Delphi cinema, with live music for decades: jazz, blues, funk and soul.
+571|A small, no-frills jazz club near Hackescher Markt, with music almost every night.
+572|Berlin's 'jazz living room', in Friedenau: an intimate venue with international names and the new local generation.
+573|A 1950s cinema turned into a concert venue: indie, rock and up-and-coming bands, with good sound.
+574|A venue for about 3,500 people in the old gym of the American air base: international rock and pop tours.
+575|A concert venue with the feel of an East German culture house, on the RAW site: rock, indie and metal almost every night.
+576|The former boiler house of a 19th-century brick brewery, now a stage for concerts, festivals and parties.
+577|The largest theatre stage in the world: giant revues with more than a hundred artists, feathers, acrobatics and the famous kick line.
+578|A classic variety theatre with a starry ceiling, small tables with lamps and acts of acrobatics, magic and comedy.
+579|First-rate contemporary circus in an Art Nouveau ballroom inside the Hackesche Höfe.
+580|A 1920s mirror tent with velvet boxes: cabaret, chanson and musical comedy with dinner.
+581|Europe's largest permanent tent, between the Chancellery and the Tiergarten: musicals, cabaret and concerts with tables and dinner.
+582|Guided walks in Spanish through the historic centre: Brandenburg Gate, Holocaust memorial, Hitler's bunker and remains of the Wall. Pay what you think is fair.
+583|An association that takes you down into Second World War air-raid bunkers and Cold War tunnels, under Gesundbrunnen station.
+584|A guided tour of the only stretch where you can see the complete Wall, with the death strip and a watchtower. It starts at the visitor centre.
+585|The former prison of East Germany's secret police. Tours are led by historians and former political prisoners, and you go into the cells and interrogation rooms.
+586|The stadium of the 1936 Games and the 2006 World Cup final. The guided tour goes through the dressing rooms, the boxes and the monumental Nazi-era architecture.
+587|An hour sailing through the centre: Museum Island, the Cathedral, the Reichstag and the government quarter seen from the water.
+588|A regular city bus that runs from the Zoo to Alexanderplatz past the Victory Column, the Reichstag, the Brandenburg Gate and Unter den Linden.
+589|The other tourist line of public transport: Potsdamer Platz, Brandenburg Gate, Unter den Linden, Alexanderplatz, ending next to the painted Wall.
+590|Berlin is flat and full of bike lanes: in a few hours of pedalling you see the Wall, the Tiergarten and the government quarter, with stops and explanations.
+591|You drive a Trabant yourself, East Germany's little plastic car, in a convoy through the city with a guide talking over the radio.
+592|A walk through murals, squatted courtyards and countercultural corners of Friedrichshain and Kreuzberg, told by people from the scene.
+593|About three hours tasting what Berlin really eats: döner, currywurst, Turkish food and something sweet, while they tell you the neighbourhood's history.
+594|A themed walk through the sites of Nazism and the divided city: the government quarter, the site of Hitler's bunker, the Wall and Checkpoint Charlie.
+595|The city of the kings of Prussia, half an hour away: palaces, huge parks, a baroque centre and lakes everywhere. The number one day trip from Berlin.
+596|Four blocks of red-brick houses built in the 18th century for Dutch craftsmen. Today they are full of cafés, antique dealers and small shops.
+597|The «Florence on the Elbe»: the rebuilt Frauenkirche, the Zwinger palace and a baroque old town reborn after the war.
+598|The city of Bach and of the marches that brought down East Germany: historic churches, elegant shopping arcades and a young, creative scene.
+599|The town where Luther nailed his 95 theses and started the Reformation. You can see the castle church, his house and a small, neat old town.
+600|Frederick the Great's summer palace, above terraced vineyards. Small, rococo and surrounded by an immense park with fountains and pavilions.
+601|The largest palace in Sanssouci park, built to impress: marble halls, a shell grotto and hundreds of rooms.
+602|A car-free island in the Havel river, with peacocks roaming free, woods and a little white fairy-tale castle that reopened after years of works.
+603|An English-style park on the Havel river with a neo-Gothic castle and views of the bridge of spies. Much quieter than Sanssouci.
+604|The oldest baroque palace in the region, with a collection of court porcelain and silverware. It combines well with the Sachsenhausen memorial.
+605|A palace reflected in a lake, where Frederick the Great spent his happiest years. A small town, woods and boat trips around it.
+606|A maze of canals among woods where you are taken by punt, like a countryside Venice. Famous for its pickled gherkins.
+607|Berlin's largest lake, in the southeast: a waterfront, beer halls with water views, little boats and woods for walking or cycling.
+608|A narrow lake surrounded by forest, with clean water and a trail all the way around. Berliners' favourite for swimming and running.
+609|A small fishing town on an island in the Havel river, surrounded by orchards. In spring it fills up for the blossom festival and fruit wine.
+610|Sandstone rock towers above the Elbe river and a stone bridge hanging between them. The most spectacular landscape within train reach of Berlin.
+611|The concentration camp the Nazis used as a model, north of Berlin. Today it's a memorial and museum: a hard but necessary visit.
+612|The lakeside villa where in 1942 Nazi leaders organised the extermination of the Jews of Europe. Today it's a sober, very well-made museum.
+613|The iron bridge between Berlin and Potsdam where the two Germanys exchanged spies during the Cold War. The border ran right through the middle.
+614|The largest Nazi concentration camp for women, on the shore of a lake. Less visited than Sachsenhausen and very moving.
+615|Berlin's best-loved hostel: clean, with a good vibe, its own brewery in the basement and activities every day.
+616|A small independent hostel with a garden and kitchen, known as the best for travelling solo and making friends without it being an endless party.
+617|A hostel inside an old 19th-century brick brewery, with a courtyard, bar and fireplace. Quiet and well located.
+618|A large design hostel from a European chain, with its own bar and shared and private rooms, right in Mitte's gallery and bar area.
+619|A stately 1874 building by the canal, with high ceilings, a library bar and real beds instead of bunks. Sociable without being noisy.
+620|A party hostel from a British chain, with a big bar downstairs and food and drink discounts for guests. A few blocks from Alexanderplatz.
+621|Half hotel, half hostel, right next to the central station: private and shared rooms, a guest kitchen and everything very neat.
+622|The German chain of budget design hotels: small but spotless rooms, a good bar and an unbeatable location next to Alexanderplatz.
+623|The hotel sibling of the Circus Hostel: colourful rooms, an inner courtyard, a tasty breakfast and staff who help plan your trip.
+624|The tower with more than a thousand rooms on Alexanderplatz, a legacy of East Berlin. Not intimate at all, but the location and views are unbeatable.
+625|A modern chain hotel right opposite the painted stretch of the Wall and next to the indoor arena, with a rooftop terrace.
+626|The «music hotel» on the Spree: pink, futuristic design, recording studios and guitars brought to your room if you ask.
+627|A Danish eco-minded hotel in an 1850 building: four-poster beds, wood, organic products and a lovely restaurant in the courtyard.
+628|A sober design hotel on Mitte's gallery street, with a busy cocktail bar and a rooftop terrace in summer.
+629|An old factory turned into the most Berlin hotel of all: creative rooms, a courtyard with music, a restaurant supplied by its own farm and zero formality.
+630|An 1898 public bathhouse restored as a hotel: the historic pool, under stone arches, is still there and guests can swim in it.
+631|An «urban jungle» vibe with rooms looking straight at the Zoo's monkeys, hammocks, bikes and, upstairs, the Monkey Bar with one of the best views.
+632|A 1911 building decorated like 1920s Paris: red velvet, an old lift and a dark, sensual bar.
+633|An elegant, warm hotel in the heart of Kreuzberg, with a fireplace, a grand piano, concerts in the lounge and a restaurant famous for its duck.
+634|The hotel where film festival stars stayed in the 1950s, renovated with a New York club feel, green carpet and a winter terrace.
+635|The former Danish embassy from the 1930s, next to the Zoo: from some rooms and from the bar you can see the ostriches. Designed by Patricia Urquiola.
+636|The city's old telegraph office turned into a hotel: brick, very high ceilings and sober rooms, between Museum Island and Oranienburger Straße.
+637|A 19th-century women's prison hidden in a courtyard, turned into a bright, quiet hotel with a garden, sauna and small rooftop pool.
+638|Berlin's grand hotel since 1907, rebuilt opposite the Brandenburg Gate. Kings, presidents and stars have passed through its lobby.
+639|A Chicago-style skyscraper tower on Potsdamer Platz, renovated with a 1920s feel: marble, a cocktail bar and a spa with a pool.
+640|A discreet, owner-run five-star hotel with the largest rooms in the city, a rooftop spa and a fine-dining restaurant.
+641|An Art Deco skyscraper next to the Memorial Church, with open views of the west of the city and the Zoo, a spa and a very elegant Viennese café.
+642|A 1914 mansion in the villa district of Grunewald, with only about fifty rooms, a garden and decor by a couture tailor.
+643|A 19th-century covered market revived by its neighbours: regional producers, bread, cheese, wine and stalls for a quick bite.
+644|Berlin's biggest and best-loved weekly market: flowers, vegetables, cheese, spices and food stalls around the church.
+645|Twice a week the canal bank fills with stalls of fruit, olives, bread, fabrics and freshly made Turkish food. Berlin at its most mixed.
+646|The market on the prettiest square in Prenzlauer Berg: on Thursdays it's organic, and on Saturdays it adds delicatessen, flowers and crafts.
+647|An 1891 brick market hall, half neighbourhood stalls and half places to sit down to eat and drink. Much less touristy than others.
+648|The covered market on the quiet side of Kreuzberg: greengrocers, fish, cheese, flowers and several stalls for a good lunch.
+649|Berlin's most famous flea market, on the former Wall strip: vintage clothes, vinyl, furniture, young design and lots of food.
+650|The Friedrichshain neighbours' market: books, vinyl, second-hand clothes and East German objects around a leafy square.
+651|Small and with a good eye: mid-century furniture and lamps, tableware, records and East German memorabilia.
+652|The city's most traditional antiques market: porcelain, silverware, old books, coins and furniture, plus a craft section.
+653|A flea and design market on the canal bank, with well-chosen second-hand clothes, young craftspeople and food stalls.
+654|Flea market among graffiti-covered railway sheds: clothes, records, knick-knacks and street food on the neighbourhood's most alternative site.
+655|The great shopping avenue of the west: from high-street chains near the broken church to luxury brands towards Olivaer Platz.
+656|The historic shopping street of the centre. It has lost some shine and several big shops, but still has Dussmann, chocolate shops and well-known brands.
+657|Two short streets with the best of Berlin and Scandinavian fashion, sneakers, glasses and design shops, without giant chains.
+658|Kreuzberg's friendliest street: bookshops, second-hand clothes, record shops, gift shops and one café after another.
+659|The street of chestnut trees links Mitte with Prenzlauer Berg among Berlin designers' shops, vintage clothes, record shops and pavement cafés.
+660|Berlin's great luxury department store since 1907. Even if you don't buy anything, go up to the sixth floor: an entire floor of delicatessen and food counters.
+661|The largest shopping centre in the centre, with about 300 shops under a glass-roofed arcade, a block from Potsdamer Platz.
+662|A different kind of shopping centre in a 1950s building: design brands, pop-up shops in wooden boxes and a big window onto the zoo's monkey area.
+663|The pink shopping centre next to Alexanderplatz: about 170 high-street chain shops, electronics and a large food court.
+664|A three-storey shopping centre with about 100 shops next to Warschauer Straße station, between the East Side Gallery and the Uber Arena.
+665|Five floors of books, music, sheet music and films, with a huge English section, a vertical garden and free readings and concerts.
+666|The shop of East Germany's little traffic-light man, now a symbol of Berlin: T-shirts, mugs, sweets and everything imaginable.
+667|The record shop where the Berlin techno sound took shape, open since 1989. Techno, house, dub and reggae vinyl chosen with care.
+668|A shop of «good things that still exist»: tools, notebooks, clothes and kitchen utensils made to last decades.
+669|Berlin's best-known designer fashion shop, hidden in the courtyard of an old locksmith's: clothes, sneakers, magazines and a café.
+670|The monumental stadium of the 1936 Games, home of Hertha BSC and venue of the German Cup final. Imposing even when empty.
+671|Union Berlin's ground, in the middle of the forest and with almost all the fans standing. The most intense atmosphere in German football.
+672|The big indoor arena by the Spree (formerly the Mercedes-Benz Arena): home to Alba Berlin basketball and the Eisbären ice hockey team.
+673|The indoor arena next to the Mauerpark, home of the Füchse Berlin (handball) and the BR Volleys (volleyball), two of Germany's top teams.
+674|A half-sunken velodrome under a round steel roof, one of the oddest pieces of Berlin architecture. Home of the classic Six Days race.
+675|About 160 signposted km following the course of the Wall around West Berlin, through neighbourhoods, forests and lakes. Best done in sections by bike.
+676|A flat, shaded route along both banks of the canal that crosses Kreuzberg and Neukölln, among willows, bridges and swans.
+677|The largest forest in the west: kilometres of trails among pines, lakes to cool off in and the Teufelsberg hill for some climbing.
+678|A conical war bunker turned into an open-air climbing tower, the tallest in Berlin, in the middle of the RAW site.
+679|A renovated open-air ice rink next to Tempelhofer Feld. Popular, cheap and full of families.
+680|Berlin's largest ice rink: a 400-metre open-air ring for continuous skating, plus a hockey rink in the middle.
+681|Guided kayak trips on the Landwehrkanal and the Spree, to see Kreuzberg and its bridges from the water. No experience needed.
+682|Indoor surfing on an artificial standing wave, with instructors for beginners, a shop, a restaurant and a beer garden.
+683|The city's largest beach volleyball complex: dozens of sand courts, a bar with deckchairs and a high ropes course.
+684|A pool inside a barge floating on the Spree, with a sand beach, bar and a view of the TV Tower.
+685|Europe's most classic lake beach: more than a kilometre of sand, wicker beach chairs and 1930s buildings on the Wannsee.
+686|A 1914 indoor pool that looks like a Roman temple: columns, mosaics and statues around the water. One of the most beautiful in Europe.
+687|Berlin's most Berlin open-air pool: long lanes for serious swimming, lawns to lie on and all of Kreuzberg mixed together.
+688|A small lake surrounded by trees in the middle of the city, with a sand beach, bar and relaxed atmosphere. The closest thing to a lake without leaving the centre.
+689|An urban spa with a saltwater pool under a dark dome: you float with coloured lights and music you can hear underwater.
+690|The home of one of the world's best orchestras, in a golden hall with the audience surrounding the stage.
+691|Berlin's historic opera house, from 1742, fully restored: great repertoire in a rococo hall opposite Bebelplatz.
+692|The city's largest opera house, modern and with excellent acoustics, strong on Wagner, Verdi and Strauss.
+693|Berlin's most open-minded opera: operetta, musicals and bold productions. While its home is being renovated, it plays at the Schillertheater.
+694|Schinkel's neoclassical concert hall, on Berlin's most beautiful square: symphonic and chamber music.
+695|An oval hall designed by Frank Gehry for Daniel Barenboim's academy: chamber music with the audience a few metres from the musicians.
+696|The theatre founded by Bertolt Brecht, in a neo-baroque hall on the Spree. Living history of 20th-century theatre.
+697|Thomas Ostermeier's theatre: intense contemporary productions that tour the world, in a building by Mendelsohn.
+698|The 'people's theatre' on Rosa-Luxemburg-Platz, famous for its experimental and provocative productions.
+699|One of the great German-language theatres, almost 150 years old: classics and new writers in a beautiful hall.
+700|The smallest and most diverse of the public theatres, with a cast of very varied backgrounds and plays about today's Berlin.
+701|The only theatre in the city devoted entirely to plays in English: its own productions and visiting companies.
+702|East Germany's premiere cinema, from 1963: a glass facade, chandeliers and a panoramic bar. It reopened in 2026 after a complete restoration.
+703|A 1929 cinema with its original organ: retrospectives, festivals and silent films with live music.
+704|The cinema of West Berlin's big premieres and historic home of the Berlinale, renovated with huge seats.
+705|An open-air cinema in the amphitheatre of Friedrichshain park, with room for more than a thousand people on stands and grass.
+706|A summer cinema in the courtyard of the Bethanien, a former hospital turned arts centre. Almost everything in the original language.
+707|A Yorck chain neighbourhood cinema where almost everything is shown in the original language, much of it in English.
+708|A single-screen cinema, opened in the fifties, specialising in films in English in the original version.
+709|Germany's oldest zoo and one of the world's richest in species, with giant pandas as the big stars.
+710|Three floors of fish, jellyfish, reptiles and insects in a historic building next to the Zoo.
+711|The zoo of the east: Europe's largest animal park, with huge enclosures, a palace and lots of greenery.
+712|An indoor LEGO park at Potsdamer Platz: a miniature Berlin, rides, a 4D cinema and building areas.
+713|A museum for touching, climbing and experimenting inside an old factory, with changing exhibitions. For children aged between 3 and 11.
+714|A church turned into a children's museum, with a multi-storey wooden maze to climb and workshops.
+715|Europe's largest play centre for children and families, in the Wuhlheide forest: a pool, theatre, workshops and a little train.
+716|A wax museum steps from the Brandenburg Gate, with figures of musicians, athletes, politicians and film characters.
+717|The Pergamon Museum remains closed for renovation until 2027. Enter through the James-Simon-Galerie and get the combined pass if you'll see more than one.
+718|Closed on Mondays. Photos of Nefertiti aren't allowed; go first thing to see her with fewer people.
+719|Closed on Mondays. In 2026 it turns 150 and there are special activities.
+720|Closed on Mondays. The best photo of the building is from the Monbijou bridge, at sunset.
+721|Closed on Mondays. It's across from the island, over the canal; don't look for it inside the closed museum.
+722|The permanent exhibition is free, but it's best to book a time slot online. Allow time for the security check.
+723|Don't expect the permanent collection: the Zeughaus remains closed until at least 2031. Check what's on before you go.
+724|Closed on Mondays. Buy your ticket online, it's cheaper, and take the U-Bahn to Gleisdreieck.
+725|The museum is in the middle of a renovation: some rooms may be closed. Tickets for guided tours are sold on the day, at the ticket desk.
+726|Closed on Mondays. Even if you don't go in, it's worth walking around the building. The Gemäldegalerie is next door.
+727|Closed on Mondays. It's a few minutes' walk from the central station.
+728|Closed on Mondays. It's huge: pick two or three rooms instead of trying to see it all.
+729|Closed on Tuesdays. It's a ten-minute walk from the Jewish Museum: they go well together.
+730|It's small and gets full. Go first thing or late in the afternoon.
+731|It's far from the centre: take the U-Bahn to Magdalenenstraße. There are guided tours in English.
+732|Free admission. Closed on Tuesdays. Go up to the terrace, which overlooks the Spree and the government quarter.
+733|Ideal for a rainy day. It's still in its usual home on Karl-Marx-Allee.
+734|Admission by donation. Closed on Mondays. Also look at the murals on Bülowstraße, under the U-Bahn viaduct.
+735|Free admission. Climb the tower of the documentation centre to see it from above. The centre is closed on Mondays; the outdoor route isn't.
+736|Go early in the morning to take photos without people. Finish by crossing the Oberbaum Bridge.
+737|The booth is a replica and it's very touristy: stop, look at the outdoor panels and move on. The Wall Museum, next door, charges admission.
+738|Free admission and you can see it in less than an hour. Closed on Mondays.
+739|Sunday is the day. The karaoke in the amphitheatre only happens in good weather, in the warm months.
+740|It's a few metres from Checkpoint Charlie. A good option for a rainy day.
+741|At night it's lit up and there are far fewer people. The Reichstag and the Holocaust Memorial are just steps away.
+742|It's free, but you have to register online in advance with your name and date of birth, and bring your passport.
+743|Underneath there's a free information centre, closed on Mondays. Don't climb on the blocks.
+744|Free admission. It's a lot of text and it's hard going: allow a couple of hours.
+745|Climb the tower of the French Cathedral to see it from above. In December there's a Christmas market.
+746|The memorial is a glass pane in the ground, in the middle of the square: at night it's lit and easier to see.
+747|It's in the middle of Treptower Park: combine it with a walk along the Spree.
+748|You go in, look in silence and five minutes later you move on. Free admission.
+749|There are several themed tours; book ahead. The tower (THF Tower) has an exhibition and a terrace overlooking the runway, and you can visit it on your own.
+750|Buy a timed ticket online to skip the queue. There has been talk of a long closure for works: check its website before you go.
+751|You reach it through the pedestrian tunnels from the roundabout: don't cross the road. There's no lift.
+752|See the dome of the former Sony Center lit up at night. It's a good starting point for the Kulturforum and the Tiergarten.
+753|The best time is sunset, with the Spree and the TV Tower in the background. It's right next to the East Side Gallery.
+754|Look for Buenos Aires on the cylinder. The square isn't pretty, but it's the postcard of East Berlin.
+755|Closed on Mondays, and if it's very windy or icy the viewing platform doesn't open. It's on the trade fair grounds, in the west.
+756|It's a long uphill walk through the woods from the station. It may close if there's snow or ice.
+757|Closed on Mondays. The park is free and worth it on its own. There are works on the exterior until 2027.
+758|Much of the exhibition space is free. Closed on Tuesdays. Go up to the terrace: it has one of the best views of the centre.
+759|Combine it with a stroll through Köpenick's old town. It has a café with a terrace on the water.
+760|In winter it opens only at weekends and on public holidays. The garden is free to enter.
+761|Admission includes the climb to the dome and the crypt. It can't be visited during services.
+762|The ruined tower has been under works since autumn 2026; the new church is still open. You can always see it from outside.
+763|Free admission. It's on a corner of Bebelplatz: pop in for two minutes even if you're not into churches.
+764|You go up by stairs. In winter the viewpoint is closed on Mondays and opens fewer hours.
+765|Free admission. Closed on Mondays. There are short guided tours during the day.
+766|It's in the heart of the Nikolaiviertel. Check whether there's an organ concert on the day you go.
+767|Closed on Saturdays. The dome can only be climbed in the warm months. There's a security check at the entrance.
+768|There are no open visits: you go in for services or concerts, such as those of the Jewish Culture Days in November.
+769|You can visit outside prayer times, with clothes that cover shoulders and legs. It's on the edge of Tempelhofer Feld.
+770|Free admission and open to all. You have to take off your shoes. It's on the edge of Hasenheide park.
+771|Rent a bike and cross it from the Brandenburg Gate to the Victory Column. In summer, have a beer at the lakeside beer garden.
+772|Enter from the Neukölln side at sunset. It's open from sunrise to sunset and there's no shade: bring water.
+773|Walk along the bank to the Insel der Jugend. Boat trips leave from the harbour.
+774|Start at the Märchenbrunnen, the fountain at the entrance. In summer there's an open-air cinema.
+775|The greenhouses are an ideal plan for cold weather. Allow half a day: it's far from the centre.
+776|Go up at sunset. On the way back, head down to Bergmannstraße for a bite.
+777|Do it on foot from west to east: it's a kilometre and a half and you end up opposite the Cathedral.
+778|In summer, at dusk, a film on the history of Parliament is projected onto the facades. It's also nice by bike.
+779|Start at the Memorial Church and walk west; the side streets are prettier than the avenue.
+780|Free admission. The first courtyard is the prettiest. Then continue to the passage next door, which is all graffiti.
+781|Walk from Strausberger Platz to Frankfurter Tor. On the way you'll pass the video game museum.
+782|It's small: you can walk it in half an hour. It's touristy, but it's good for trying old-style Berlin cooking.
+783|Walk along Auguststraße and Große Hamburger Straße, and duck into any courtyards you find open.
+784|On Saturdays there's a market in the square. Rykestraße and the water tower are two blocks away.
+785|Stop at the Marheineke Markthalle for a bite and continue to Chamissoplatz, which looks like it belongs to another century.
+786|Go in the early evening: Weserstraße comes alive at night. By day, continue to the canal.
+787|On Saturdays there's a food market and on Sundays a flea market on Boxhagener Platz.
+788|Finish at the Admiralbrücke, where locals sit and chat as the sun goes down.
+789|Walk from Richardplatz to the Kirchgasse lane. In December there's a much-loved Christmas market, on a single weekend.
+790|Open every day. They say the lift is out of service. The Museum of Photography is opposite.
+791|Tours are for small groups and sell out weeks in advance: book as soon as you have a date.
+792|Closed on Tuesdays. Even if you don't see the exhibition, the terrace over the river is worth a stop.
+793|At the back is the Museum Otto Weidt's Workshop for the Blind, free and moving. In the first courtyard, the Anne Frank Centre.
+794|Closed on Tuesdays. Combine it with the galleries on Auguststraße.
+795|Book, especially in the evening. For the same day they only take bookings by phone.
+796|The beer garden opens only in good weather and doesn't take bookings; in the tavern you can book.
+797|Bring cash just in case and go hungry: the portions are big.
+798|Book by phone days in advance; without a booking it's hard to get a table.
+799|A good option after exploring Auguststraße; in the evening it's best to book.
+800|Try one of the house liqueurs. A neighbourhood atmosphere, ideal for an unhurried dinner.
+801|Order the Königsberg meatballs. Book: the room is small.
+802|It's a block from Eberswalder Straße; combine it with Konnopke or the Mauerpark.
+803|It's very small: go outside peak hours. A good stop after Museum Island.
+804|The portions are very big: you can share. Some weekends there's live music.
+805|You eat standing on the pavement. Order it «ohne Darm» (without skin), Berlin style.
+806|A good stop between Museum Island and the Hackesche Höfe.
+807|It's on the way if you're going to the Berliner Unterwelten bunkers or the Humboldthain.
+808|A good option if you want organic meat; they also usually have a vegetarian sausage.
+809|It's far from the centre: worth it if you're in Steglitz or at the Botanical Garden.
+810|The queue can be very long: go mid-morning or mid-afternoon, or order the vegetarian version.
+811|Shorter queue than Mustafa's and a similar or better standard. There are tables inside.
+812|Try the lahmacun rolled up with salad: tasty and very cheap.
+813|Here you sit down to eat: order döner on a plate or a mixed grill to share.
+814|Besides the döner, try the köfte or the lentil soup. They have other branches in Neukölln.
+815|You eat standing or at high tables. Combine it with a walk to the East Side Gallery.
+816|Order the mixed plate with peanut sauce. It has few tables: ideal for takeaway.
+817|A good quick stop if you're out in Mitte at night.
+818|The mixed vegetarian plate is enough to share.
+819|There's a takeaway kiosk and, opposite, a place with tables.
+820|The portions are big: one is enough for two if it's for snacking.
+821|It's a few metres from the East Side Gallery. Bring cash.
+822|Handy if there are several of you and everyone wants something different. There's often music and events.
+823|Look for a table by the big window or head out to the Bikini terrace.
+824|They have several branches; the one on Auguststraße is the original. It's for good coffee, not for working.
+825|On Mauerpark Sundays it gets packed: go early. Their roastery is in Kreuzberg.
+826|Go through the passage to the courtyard. At weekends there's a wait.
+827|Order coffee and a slice of cheesecake. They also have a branch in Mitte.
+828|They have other branches, for example on Schlesische Straße (Kreuzberg).
+829|It's near the Berlin Wall Memorial on Bernauer Straße: a good breakfast before the visit.
+830|Perfect for a bite in the early hours or a late breakfast.
+831|You have to take your shoes off to sit at the low tables. Booking is advisable.
+832|They don't take bookings and there's always a queue at weekends: go as soon as they open.
+833|Order the warm cinnamon roll. There's a queue, but it moves fast.
+834|Go in the morning: the croissants run out. Usually closed on Mondays and Tuesdays.
+835|Sit in the old room and order Baumkuchen. It's next to the Moabiter Brücke bridge.
+836|At weekends it sells out early.
+837|Go into the courtyard of the Sophie-Gips-Höfe. There are tables outside.
+838|Bread and pastries to take away; few items are left in the afternoon.
+839|Free to go in and look. Upstairs you can have a hot chocolate overlooking the square.
+840|In summer the queue reaches the corner, but it's worth it.
+841|Order the home-made cone, made right in front of you.
+842|They have several shops in the city. This one is near the Viktoriapark.
+843|A good dessert after a walk along the Landwehr canal.
+844|It's in the Bötzowviertel, a lovely neighbourhood for a stroll.
+845|Order the brioche with ice cream, as in Sicily.
+846|A small, central place, a few blocks from Alexanderplatz.
+847|Book weeks in advance. It only opens on some nights of the week.
+848|The lunch menu is the most affordable way to try it. Book ahead.
+849|At lunchtime they offer a shorter menu. Usually closed at weekends.
+850|Let them serve you the drinks pairing: it's part of the experience.
+851|Book in advance. They have a highly praised non-alcoholic pairing.
+852|You have to ring the bell to get in. No photos allowed.
+853|Ideal if you want a Michelin star in a relaxed atmosphere. Book ahead.
+854|Dress smartly and ask for a table by the window.
+855|Book around sunset to make the most of the view.
+856|It has very few tables: book well in advance.
+857|A good gateway to Berlin fine dining without so much formality.
+858|Before dinner, stroll around Richardplatz and the bohemian Rixdorf neighbourhood.
+859|Combine it with an afternoon of art galleries in the area.
+860|Sit at the counter facing the kitchen and order several dishes to share.
+861|The lunch menu offers very good value for money.
+862|They don't take bookings: go outside peak hours.
+863|Order a mixed grill to share. It gets full at night: book.
+864|Try the masala dosa. According to visitBerlin, most dishes are gluten-free: ask at the restaurant.
+865|Start with the margherita. In the evening it's best to book.
+866|Order one of the sauces for dipping the crust.
+867|Go through to the second courtyard. At peak times there's a wait.
+868|Fast, generous and cheap. Share hummus, musabaha and a plate of falafel.
+869|No bookings and the place is small: go as soon as it opens. They have another, bigger branch in Kreuzberg.
+870|Order the beef noodle soup and the wontons in chilli oil.
+871|Put together a table of cold and hot mezze to share.
+872|Order khachapuri to share and try a Georgian wine.
+873|The schnitzel is one of the best in Berlin. Book: the room is small.
+874|A good option for a different dinner after a stroll around Kollwitzplatz.
+875|Finding the entrance is part of the fun: look for the alley and the chandelier. Book.
+876|Order the cocktail pairing. At weekends they serve brunch.
+877|Open only in the evening and on some days. Book in advance.
+878|On Tuesdays and Fridays the Turkish market on the Maybachufer is right next door.
+879|Cheap and fast, a few blocks from Boxhagener Platz.
+880|Order several tapas to share. At weekends there's a wait.
+881|Go early: the most popular items run out.
+882|Take some bread for the trip: it keeps well for a couple of days.
+883|Closing days vary depending on the source: check before you go.
+884|It's next to the Viktoriapark. Check the opening days before you go.
+885|Ring the bell and wait. Booking is advisable; inside, they ask you not to use your phone.
+886|Arrive early: it's small and fills up. From there you can bar-hop along the same street.
+887|Ring the bell to get in. It's steps from Nollendorfplatz and the bars of Schöneberg.
+888|Ask about the drinks of the week: they're what makes the trip worthwhile. It's near Rathaus Neukölln station.
+889|Ring the bell. It's for quiet conversation and a good classic, not for big groups.
+890|Go at sunset and on a weekday: at weekends there's a queue for the lift.
+891|Go into the Neukölln Arcaden and take the lift to car park level 5. Sunset is best; in winter it opens less.
+892|A good plan after a performance at the Philharmonie or the Wintergarten, which are nearby.
+893|There's no menu: say what base spirit you like and go with it. Bring cash, they don't take cards.
+894|Ideal before or after the cinema. It fills up at weekends: go early.
+895|A handy starting point for exploring Motzstraße and Fuggerstraße, the heart of the LGBT+ area.
+896|You enter through the passage of the Kottbusser Tor building. It's always full: be patient at the bar.
+897|The garden opens in the warm months; the rest of the year there's the restaurant. In the garden, bring cash.
+898|Combine it with a walk or a bike ride through the park. The restaurant is open all year.
+899|It's a few minutes' walk from Zoologischer Garten station. It's also open outside summer.
+900|Order a tasting board to try several. There are works in the Gleisdreieck area: check the access.
+901|A good stop after visiting the Reichstag or if you arrive at the Central Station, a few minutes away.
+902|First climb up to the Kreuzberg monument to see the city, then come down for a drink. In winter it opens depending on the weather.
+903|Ask for a recommendation by the glass: it's their strength. Booking is advisable.
+904|It's the most affordable way to get to know the house. They also sell bottles to take away.
+905|There's no long list: tell them what you like and try something. It's on the same block as several Kreuzberg bars.
+906|It's small: book. Take the chance to walk Karl-Marx-Allee and see its architecture.
+907|Be generous when you pay: the system relies on the good faith of those who come.
+908|The door is very selective: go in a small group, calm and without costumes. They cover your phone camera: photos are banned.
+909|A more relaxed door than at other clubs. No photos inside. On Wednesdays there are new-DJ nights.
+910|It opens on some weekends, not all: check the calendar. Selective door and no photos; it takes a break in winter.
+911|Since 2025 it's simply called Kater. Selective door even if you have a ticket, and no photos. In summer the garden opens.
+912|It runs mainly in the warm months. Ideal for starting the night at sunset without the tension of a tough door.
+913|Look for the Gayhane party (Turkish and Arabic pop, LGBT+ crowd) or the Roller Disco. No tough door: the programme is what counts.
+914|Go upstairs to see the Hall of Mirrors. There are dance nights and beginners' classes: check the programme before you go.
+915|There's a dress code (leather, latex, lingerie or very little clothing) and it's enforced. Photos are banned, no exceptions.
+916|A more accessible door than at the famous clubs. Photos are banned inside.
+917|Check the programme: many nights start with a gig and carry on as a party. A good option if techno isn't your thing.
+918|Book a table on their website and arrive early to choose your spot.
+919|Upstairs there's a café with a terrace to kill time before the show.
+920|The Wednesday jam sessions are a classic and are usually free.
+921|Book in advance. Their big concerts take place at the ZigZag Hall, on the EUREF-Campus.
+922|Get your ticket in advance: shows sell out. It's steps from Schlesisches Tor station.
+923|It's opposite the old Tempelhof airport (strictly speaking, in the Tempelhof district). Arrive early because of the cloakroom queue.
+924|The RAW site has bars, street art and food stalls for before and after.
+925|Enter through the courtyard of the Kulturbrauerei: there's a cinema, bars and, in December, a Christmas market.
+926|You don't need to know German to enjoy it. Get your tickets early.
+927|You can have dinner during the show. There are family shows around the holidays.
+928|There's almost no text: ideal if you don't speak German. Take the chance to explore the courtyards before the show.
+929|Almost everything is in German: choose music nights if you don't speak the language. You reach it through the car park.
+930|It's the big sister of the Bar jeder Vernunft. Arrive early if you want to eat before the show.
+931|Book a place through Civitatis or GuruWalk. Almost all start at Pariser Platz, but check the meeting point in your booking. Bring cash for the tip.
+932|Tickets are sold only online, not on site. Check the website for tours in English or Spanish. Bring warm clothes: it's cold down there.
+933|The outdoor memorial is free and you can see it on your own. Public guided tours are on specific dates: check the calendar on the website.
+934|There's an audio guide in Spanish. Get there on the M5 or M6 tram. Check the times of the English tours on the website before you go.
+935|On match or concert days there are no tours: check the calendar first. Get there on the U2 or the S-Bahn to Olympiastadion.
+936|Companies: Reederei Riedel or Stern und Kreis. They leave from Friedrichstraße, the Nikolaiviertel and the Hauptbahnhof. In winter there are fewer departures.
+937|You ride with a regular public transport ticket (zone AB). Sit upstairs at the front if it's a double-decker. Avoid rush hour.
+938|You ride with a regular ticket (zone AB). Combine it with the 100: there on one and back on the other, and you see almost the whole centre.
+939|Company: Fat Tire Tours, at the foot of the TV Tower on Alexanderplatz. Tours are in English. Booking is advisable, especially from April to October.
+940|Company: TrabiWorld, near Checkpoint Charlie. The driver needs a driving licence. Up to four people fit in each car.
+941|Company: Alternative Berlin Tours (in English). The meeting point changed in 2026: confirm it when you book. There are pay-what-you-want versions on freewalkingtour.com.
+942|Companies: Secret Food Tours, among others. Each one starts from a different spot in Kreuzberg: check the meeting point in your booking. Go hungry.
+943|Company: Insider Tour Berlin (in English); in Spanish there are versions through Civitatis. It usually starts from the tourist office at the Brandenburg Gate.
+944|Take the S7 or a regional train to Potsdam Hauptbahnhof; you need a zone ABC ticket. Give it the whole day.
+945|It's a few minutes' walk from the centre of Potsdam, on the way to Sanssouci. Ideal for lunch or an afternoon snack on the trip.
+946|By fast train it's less than two hours from Berlin Hauptbahnhof. Leave early and come back at night; buy your ticket in advance, it's cheaper.
+947|By fast train it's just over an hour from Berlin Hauptbahnhof. You can walk the whole centre from the station.
+948|By fast train it takes about 40 minutes; by regional train, about an hour. It's a short walk from the station to the centre.
+949|Tickets are timed and sell out: buy them online in advance. The park is free. From Potsdam Hbf take bus 695.
+950|It's at the other end of the park: a nice walk from Sanssouci. In winter you can only go in on a guided tour. Closed on Tuesdays.
+951|S-Bahn to Wannsee, bus 218 and a ferry that crosses in a few minutes. No smoking, bikes or dogs. The castle can be seen on a guided tour.
+952|The park is free. The castle interior is still under works and only opens for special tours. S7 to Babelsberg and a short stretch by bus or on foot.
+953|S1 or regional train to Oranienburg (zone ABC) and a few minutes on foot. The interior is seen on a guided tour: check which days it opens.
+954|It's far: about two hours by regional train with a change, or by car. Best from April to October; closed on Mondays and with shorter opening in winter.
+955|RE2 regional train to Lübbenau, about an hour, and a few minutes on foot to the harbour. Boats run mainly from March to October.
+956|S3 to Friedrichshagen and walk down Bölschestraße to the shore. The Rahnsdorf lido was under works during 2026.
+957|The S1 drops you at Schlachtensee station, a few metres from the water (zone AB). The full loop on foot takes just over an hour.
+958|RE1 regional train from Berlin Hauptbahnhof, via Potsdam (zone C). From the station to the island there's a bus ride or a long walk.
+959|It's a long trip: train to Dresden, then the S1 to Kurort Rathen, cross the river by ferry and walk up. Access to the bridge is free.
+960|Free admission. S1 or regional train to Oranienburg (zone ABC) and from there a bus or about 20 minutes on foot. Allow half a day and wrap up: it's all outdoors.
+961|Free admission. S1 or S7 to Wannsee and bus 114 drops you at the door. Closed on some public holidays.
+962|Get there by bus from Wannsee station or by tram from Potsdam Hauptbahnhof. Look on the ground for the line marking the old border.
+963|Free admission. RE5 regional train to Fürstenberg/Havel, about an hour and a half, then a signposted walk.
+964|It's on Rosenthaler Platz, with the U-Bahn and tram at the door. Street-facing rooms are noisy because of the tram: ask for one at the back.
+965|It fills up quickly because it has few beds: book early. It's near Senefelderplatz station on the U2.
+966|Ideal if you want to sleep well: it's calmer than others. It's steps from Senefelderplatz station and the bars of Kastanienallee.
+967|Good for groups and for those looking for atmosphere. Opinions on upkeep are mixed: check recent reviews before booking.
+968|It's next to Möckernbrücke station (U1 and U7), which connects you quickly to everything. No pets allowed.
+969|Choose it if you want to go out and meet people, not if you're looking for quiet. Rosa-Luxemburg-Platz station on the U2 is opposite.
+970|Handy if you arrive late or leave early by train. It has no air conditioning: in high summer the rooms get hot.
+971|Ask for a high floor with a view of the TV Tower. Motel One has several more hotels in the city, all similar and reliable.
+972|The courtyard rooms are the quiet ones. It's on Rosenthaler Platz, with the U8 and the M1 and M8 trams on the corner.
+973|Ask for a high floor facing the TV Tower. Since August 2026 Radisson runs it directly, and there are plans for works at the base of the building.
+974|You're steps from Warschauer Straße and Ostbahnhof stations. On concert nights at the arena the area fills up and prices go up.
+975|Ask for a room with a river view. It's a short walk from the East Side Gallery and Warschauer Straße station.
+976|It's in the gallery area of Potsdamer Straße, within walking distance of Potsdamer Platz. Pets are accepted for an extra charge.
+977|The rooms are small: if you travel with a lot of luggage, ask for a higher category. You're two blocks from Rosenthaler Platz and Hackescher Markt.
+978|It's opposite Warschauer Straße station, ideal for nights out. Courtyard rooms are quieter than those on the avenue.
+979|Check that the pool is open on your dates: it closes for maintenance and events. The street is one of the prettiest in the neighbourhood.
+980|Ask for a «Jungle» side room to see the zoo. Bathrooms and rooms were renovated in 2025. At sunset the terrace bar fills up: go up early.
+981|It's a few minutes' walk from the Kurfürstendamm. It's more for couples than for families.
+982|It's on Oranienplatz, surrounded by bars and restaurants. Check the live music programme: it's usually open to the public.
+983|It's on the Ku'damm, the shopping avenue of the west. The courtyard rooms are the quietest.
+984|It's one of the quietest spots in the centre, with the Tiergarten park on the doorstep. There are reports it will change its name to Sofitel in 2027.
+985|It has few rooms and fills up: book in advance. Downstairs there's a very busy restaurant and bar.
+986|You can't see it from the street: you enter through the old courthouse. The Lovis restaurant, in the same courtyard, is worth dinner.
+987|Even if you're not staying, you can have a coffee or afternoon tea in the lobby, with the elephant fountain. Booking a table is advisable.
+988|You're steps from the Philharmonie, the Tiergarten and the Holocaust memorial. A good option if you're travelling for concerts or the film festival.
+989|The entrance is easy to miss, opposite the former Sony Center. Ideal for long stays: many rooms have a kitchen.
+990|Ask for a high floor: the view is the best thing about the hotel. Zoologischer Garten station is a two-minute walk away.
+991|It's a retreat far from the centre: worth it if you want calm and forest, not if you want to walk to the museums.
+992|Saturday is the full market day. On Thursday evenings there's Street Food Thursday: go hungry and patient.
+993|The Saturday one is bigger and lasts longer than Wednesday's. Arrive mid-morning and stay for lunch at the stalls.
+994|Bring cash: many stalls don't take cards. Near closing time they sell off fruit and vegetables cheaply.
+995|The Saturday one is bigger and more of an outing; Thursday's is more about organic producers. There are plenty of cafés around to carry on.
+996|Closed on Sundays. On some Saturdays a local design market (Makers Market) is held inside.
+997|Closed on Sundays. It's at the end of Bergmannstraße: combine both on the same walk.
+998|It runs on Saturdays and Sundays. It's pricier than the others: haggle respectfully. Get off at Tiergarten S-Bahn station.
+999|It's not every Sunday: it's usually every other Sunday, from spring to early December. Check the dates before you go.
+1000|Start at KaDeWe (Wittenbergplatz) and walk west. On Sundays almost everything is closed, as in the rest of Germany.
+1001|Galeries Lafayette closed and Quartier 206 is almost empty: don't go expecting a great shopping avenue. The best part is near the station.
+1002|Continue along Mulackstraße and Rosenthaler Straße, which have more small shops. On weekdays it's much calmer to explore.
+1003|Start at Mehringdamm and finish at the Marheineke Markthalle for lunch. On Sundays the shops close, but the cafés don't.
+1004|Do it on a Sunday together with the Mauerpark, which is nearby: the shops are closed, but the street is full of life.
+1005|Closed on Sundays. It's being renovated in stages: some sections may be under works. At the very top there's a restaurant with a view.
+1006|A good refuge on a rainy day between Potsdamer Platz and Checkpoint Charlie. The food court is on the top floor.
+1007|Go up to the roof terrace, which is free to enter. Inside is Kantini, a food court with cuisines from all over the world.
+1008|Handy if you forgot something in your suitcase or it's raining. It gets crowded on Saturday afternoons: weekdays are better.
+1009|Good for a bite or killing time before a concert or game at the Uber Arena, which is opposite.
+1010|It's open very late, ideal for after dinner. Closed on Sundays. At the back there's a café next to the vertical garden.
+1011|The most Berlin souvenir to take home. This is the biggest shop; the original is in the Hackesche Höfe.
+1012|It moved from Kreuzberg: it's now in the Kraftwerk building, the same as the Tresor club. Open in the afternoon and closed on Sundays.
+1013|Next door it has its own bakery and food shop, good for a quick lunch. It's near Ernst-Reuter-Platz station.
+1014|You can't see it from the street: go through the gate and into the courtyard. Even if you don't buy anything, the café inside is worth a stop.
+1015|You can visit on your own or with a guide, except on event days. Tickets for Hertha games are usually available; there are tours on match days.
+1016|Getting a ticket is very hard: members have priority and they sell out right away. Check the club's official sales well ahead.
+1017|An Eisbären game is a great winter plan even if you know nothing about hockey. Alba tickets are usually easier to get.
+1018|Tickets are bought online and are usually affordable. It goes well with an afternoon at the Mauerpark.
+1019|The big event is the Six Days weekend, at the end of January: track cycling, music and beer. The rest of the year there are concerts.
+1020|For a first time, do the urban stretch: from Bernauer Straße to the East Side Gallery. Rent a bike for the day.
+1021|Go early: in the afternoon the banks fill with people strolling. On Turkish market days, avoid the Maybachufer.
+1022|Take the S-Bahn to Grunewald station. Road cyclists use the Kronprinzessinnenweg, a straight paved road with almost no cars.
+1023|They rent equipment on site and run courses for beginners. Next door there's also a bouldering area.
+1024|Only in winter, roughly from November to mid-March. Skates can be rented on site; it works in sessions.
+1025|Only in winter, from mid-November. It gets crowded at weekends: on weekdays skating is much more comfortable.
+1026|Book ahead: they go out in small groups and in the warm season. The meeting point is a blue truck at the Urbanhafen.
+1027|Book your slot online; equipment is included. If you don't dare, you can watch from the bar.
+1028|Open from May to September. Courts are booked by the hour; there are open meet-ups you can join if you go alone.
+1029|Summer only. Entry is by time slot and tickets are sold online only a few days ahead: no ticket, no entry.
+1030|Open from May to mid-September. It gets packed on hot weekends: go early and buy your ticket online.
+1031|Check the public swimming times first: some slots are reserved for classes and clubs. It also has a newly renovated sauna.
+1032|Open from May to the end of September. On hot days you need to buy your ticket online in advance.
+1033|You can only swim inside the lido, which is private and sets its own prices. Check its website before you go.
+1034|Open all year round and until late. The saunas are mixed and swimsuit-free, as is customary in Germany. Some nights there's a live DJ.
+1035|Tickets fly: buy as soon as they go on sale. Ask about the free lunchtime concerts in the foyer.
+1036|There are English surtitles. Cheap tickets with a partial view are usually available.
+1037|The Deutsche Oper U-Bahn station drops you at the door. There are English surtitles.
+1038|Careful: don't go to the old venue on Behrenstraße, which is under works. Some performances are in other spaces: check your ticket.
+1039|Even if you don't go to a concert, the square is worth a visit. There are guided tours of the building.
+1040|There are no bad seats: the cheapest tickets are great value.
+1041|Look in the programme for performances with English surtitles.
+1042|There are performances with English (and sometimes French) surtitles: they're marked in the calendar.
+1043|Long, unconventional shows: read what it's about before buying a ticket.
+1044|Several performances have English surtitles. On the same square there are a couple of bars for afterwards.
+1045|The most comfortable for tourists: almost all performances have English surtitles.
+1046|The safe option if you don't speak German. It's near Bergmannstraße, nice for dinner beforehand.
+1047|Have a drink in the first-floor bar, overlooking the avenue. On Mondays there's usually a queer film night.
+1048|Look for the silent film screenings with organ; some are free.
+1049|Screen 1, with its curtain and light show, is the one worth it. Check whether the screening is in the original version (OV).
+1050|Seasonal only, from May to September. Bring warm clothes and a blanket; many films are shown in the original version with subtitles.
+1051|Seasonal only, from May to September. The deckchairs fill up fast: arrive early.
+1052|In the listings, OV means original version without subtitles and OmU, original with German subtitles.
+1053|The most reliable for seeing new releases in English. It's on the same street where David Bowie lived.
+1054|Buy your ticket online to avoid the queue. There's a combined ticket with the Aquarium.
+1055|Perfect for a rainy day. It's the aquarium left in the city: Sea Life closed in 2024.
+1056|It's huge: allow the whole day and comfortable shoes. The U5 drops you at the door.
+1057|Designed for children aged between 3 and 10; adults can only enter accompanying a child. Booking a time slot is advisable.
+1058|It opens mainly on Fridays, weekends and school holidays: check before you go. Bring socks, inside everyone goes shoeless.
+1059|Ideal for children aged between 4 and 12. On weekdays it only opens in the afternoon; there are several playgrounds nearby.
+1060|At weekends there are themed programmes. There are works at the park entrances: follow the signs.
+1061|Buy a timed ticket online. A good short plan for a rainy day.
