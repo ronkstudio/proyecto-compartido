@@ -891,3 +891,7 @@
 891|Vicino alla Gare de Lyon. Aperto 24 ore su 24.
 892|Portogallo · Consolato generale
 893|Passaporti, documenti e assistenza ai propri cittadini. Indirizzo confermato sul sito ufficiale del governo portoghese (gov.pt).
+894|Per muoverti a Parigi non serve: i mezzi arrivano ovunque e parcheggiare è caro. È utile per uscire dalla città, per esempio verso la valle della Loira, la Normandia o Giverny.
+895|Se la tua patente non è dell'Unione Europea e non è in francese, la legge richiede di accompagnarla con il permesso internazionale o una traduzione ufficiale.
+896|Parigi è una zona a basse emissioni: le auto devono avere il bollino Crit'Air. Quelle a noleggio ce l'hanno già.
+897|Le autostrade francesi sono a pedaggio: si paga con la carta ai caselli.

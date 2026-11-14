@@ -891,3 +891,7 @@
 891|Près de la gare de Lyon. Ouvert 24 h/24.
 892|Portugal · Consulat général
 893|Passeports, documents et aide à ses ressortissants. Adresse confirmée sur le site officiel du gouvernement portugais (gov.pt).
+894|Pas besoin pour se déplacer dans Paris : les transports vont partout et se garer coûte cher. C'est utile pour sortir de la ville, par exemple vers la vallée de la Loire, la Normandie ou Giverny.
+895|Si votre permis n'est pas de l'Union européenne et n'est pas en français, la loi exige qu'il soit accompagné d'un permis international ou d'une traduction officielle.
+896|Paris est une zone à faibles émissions : les voitures ont besoin de la vignette Crit'Air. Les voitures de location l'ont déjà.
+897|Les autoroutes françaises sont à péage : on paie par carte aux barrières.

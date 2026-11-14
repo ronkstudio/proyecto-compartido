@@ -875,3 +875,7 @@
 875|Trains à grande vitesse vers les grandes villes d'Italie : horaires et billets.
 876|Trains régionaux, y compris vers l'aéroport de Fiumicino (FL1), et la ligne B du métro (Piramide).
 877|Gare de trains régionaux à quelques rues du Vatican.
+878|Pas besoin pour se déplacer dans Rome, et on ne peut pas entrer dans le centre en voiture. C'est utile pour sortir de la ville, par exemple vers la Toscane, Tivoli ou la côte.
+879|Si votre permis n'est pas de l'Union européenne, en Italie vous devez aussi avoir le permis international ou une traduction officielle.
+880|N'entrez pas dans le centre historique : c'est une zone à trafic limité (ZTL), avec des caméras, et les amendes arrivent ensuite sur votre carte. Prenez la voiture à l'aéroport ou à Termini.
+881|Les autoroutes sont à péage : on paie à la sortie, par carte ou en espèces.

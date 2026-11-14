@@ -875,3 +875,7 @@
 875|Schnellzüge in die großen Städte Italiens: Fahrpläne und Tickets.
 876|Regionalzüge, auch zum Flughafen Fiumicino (FL1), und die Metrolinie B (Piramide).
 877|Bahnhof für Regionalzüge, wenige Straßen vom Vatikan entfernt.
+878|Um dich in Rom zu bewegen, brauchst du keins, und ins Zentrum darf man nicht mit dem Auto fahren. Praktisch ist es für Ausflüge, zum Beispiel in die Toskana, nach Tivoli oder an die Küste.
+879|Wenn dein Führerschein nicht aus der EU ist, musst du in Italien auch den Internationalen Führerschein oder eine amtliche Übersetzung dabeihaben.
+880|Fahr nicht ins historische Zentrum: Es ist eine verkehrsbeschränkte Zone (ZTL) mit Kameras, und die Strafen werden später von deiner Karte abgebucht. Hol das Auto am Flughafen oder in Termini ab.
+881|Die Autobahnen sind mautpflichtig: Bezahlt wird bei der Ausfahrt, mit Karte oder bar.

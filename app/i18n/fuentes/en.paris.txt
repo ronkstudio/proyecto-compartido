@@ -891,3 +891,7 @@
 891|Near Gare de Lyon. Open 24 hours.
 892|Portugal · Consulate General
 893|Passports, documents and help for its citizens. Address confirmed on the official website of the Portuguese government (gov.pt).
+894|You don't need one to get around Paris: public transport goes everywhere and parking is expensive. It's useful for leaving the city, for example to the Loire Valley, Normandy or Giverny.
+895|If your licence isn't from the European Union and isn't in French, the law requires an International Driving Permit or an official translation with it.
+896|Paris is a low-emission zone: cars need the Crit'Air sticker. Rental cars already have it.
+897|Motorways in France have tolls: you pay by card at the booths.

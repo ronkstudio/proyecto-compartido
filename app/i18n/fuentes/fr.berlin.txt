@@ -1199,3 +1199,8 @@
 1199|Traductions très naturelles de textes et de conversations.
 1200|Carte SIM prépayée bon marché : elle s'achète à la caisse de n'importe quel Lidl
 1201|Intoxications (Giftnotruf, 24 h/24)
+1202|Pas besoin pour se déplacer dans Berlin : les transports vont partout. C'est utile pour sortir de la ville, par exemple vers Potsdam, la forêt de la Spree ou la mer Baltique.
+1203|Si votre permis n'est pas de l'Union européenne, prenez aussi le permis international ou une traduction en allemand : certaines agences et la police le demandent.
+1204|Le centre, à l'intérieur de l'anneau du S-Bahn, est une zone environnementale : les voitures ont besoin de la vignette verte. Les voitures de location l'ont déjà.
+1205|Avec MILES, vous louez une voiture pour un moment depuis l'appli et vous la laissez dans la rue, dans la zone de la ville.
+1206|MILES (autopartage)

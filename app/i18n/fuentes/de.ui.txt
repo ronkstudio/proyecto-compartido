@@ -875,3 +875,10 @@
 875|Notfälle der Stadt (Zivilschutz)
 876|Touristen-Ombudsstelle (auch WhatsApp)
 877|Nutze Geldautomaten von Banken (Netze Banelco und Link). Mit einer ausländischen Karte fällt pro Abhebung eine feste Gebühr an, und es gibt einen Höchstbetrag pro Vorgang: Hebe lieber selten und dafür mehr ab.
+878|Mietwagen
+879|Offizielle Website zum Mieten
+880|Zum Mieten brauchst du einen gültigen Führerschein, deinen Reisepass und eine Kreditkarte auf den Namen des Fahrers für die Kaution.
+881|Prüfe das Auto vor der Abfahrt und mach Fotos: Jeder Schaden sollte im Vertrag vermerkt sein.
+882|Um dich in der Stadt zu bewegen, brauchst du keins: Es gibt viel Verkehr und Parken ist schwierig. Praktisch ist es für Ausflüge aus Buenos Aires, zum Beispiel ins Delta, an die Küste oder auf eine Estancia.
+883|Mit einem ausländischen Führerschein darfst du als Tourist fahren. Wenn er nicht auf Spanisch ist, nimm auch den Internationalen Führerschein mit: Manche Vermieter verlangen ihn.
+884|Die Stadtautobahnen erheben die Maut ohne Schranken über TelePASE: Frag beim Vermieter, ob das Auto es hat und wie bezahlt wird.

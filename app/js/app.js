@@ -876,7 +876,10 @@
       const lines = '<div class="lines">' + (city.subte || []).map(l => '<div class="line"><span class="line-dot" style="--c:' + l.color + '">' + l.line + "</span><span><b>" + esc(l.route) + "</b><span>" + esc(l.useful) + "</span></span></div>").join("") + "</div>";
       body = '<form class="route" id="route-form"><label for="route-to">¿A dónde querés ir?</label><div class="search"><input id="route-to" name="to" required placeholder="' + esc(LOC.rutaEj2 || LOC.rutaEj || "Ej.: Teatro Colón, Caminito, Aeroparque…") + '" autocomplete="off"><button>Cómo llegar</button></div><p class="hint">Abre Google Maps con el recorrido en transporte público desde donde estás.</p></form>' +
         /* Las líneas (city.subte) se dibujan dentro del bloque de transporte que lleva el nombre del metro de la ciudad (LOC.metro; en Buenos Aires, "Subte"). */
-        '<div class="blocks">' + city.transport.map((b, i) => blockHtml({ icon: b.icon, title: b.title, items: b.items, extra: b.title === METRO ? lines : "" }, i < 2)).join("") + "</div>";
+        '<div class="blocks">' + city.transport.map((b, i) => blockHtml({ icon: b.icon, title: b.title, items: b.items, extra: b.title === METRO ? lines : "" }, i < 2)).join("") + "</div>" +
+        /* Alquiler de auto (tarjeta #185): un botón por agencia que abre su web oficial, y consejos de la ciudad. Datos en data/<ciudad>-local.js (LOC.autos). */
+        (LOC.autos ? '<section class="section autos">' + head("🚙 Alquiler de auto") + '<p class="hint">' + esc(LOC.autos.intro || "") + "</p>" +
+          '<div class="acts">' + LOC.autos.acts.map(a => act(a[0], a[1], a[2], a[3])).join("") + "</div>" + tips(LOC.autos.tips || []) + "</section>" : "");
     } else if (tab === "llegada") {
       body = llegadaHtml();
     } else if (tab === "vuelo") {

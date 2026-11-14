@@ -875,3 +875,7 @@
 875|Treni veloci per le grandi città italiane: orari e biglietti.
 876|Treni regionali, anche per l'aeroporto di Fiumicino (FL1), e la linea B della metro (Piramide).
 877|Stazione di treni regionali a pochi isolati dal Vaticano.
+878|Per muoverti a Roma non serve, e in centro non si può entrare in auto. È utile per uscire dalla città, per esempio verso la Toscana, Tivoli o la costa.
+879|Se la tua patente non è dell'Unione Europea, in Italia devi avere anche il permesso internazionale di guida o una traduzione ufficiale.
+880|Non entrare nel centro storico: è zona a traffico limitato (ZTL), con telecamere, e le multe arrivano dopo sulla tua carta. Ritira l'auto in aeroporto o a Termini.
+881|Le autostrade sono a pedaggio: si paga all'uscita, con carta o in contanti.

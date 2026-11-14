@@ -61,6 +61,23 @@
         "Si vas a viajar mucho, compará con los pases Roma 24H, 48H o 72H."]
     },
     moverseSub: "Boletos, metro, taxis",
+    /* Alquiler de auto (tarjeta #185): agencias con oficinas en la ciudad y en el aeropuerto. Cada web se abrió y revisó el 14/11/2026. */
+    autos: {
+      intro: "Para moverte por Roma no hace falta, y al centro no se puede entrar con auto. Sirve para salir de la ciudad, por ejemplo a la Toscana, a Tívoli o a la costa.",
+      acts: [
+        ["🚗", "Maggiore", "https://www.maggiore.it/", "Web oficial para alquilar"],
+        ["🚗", "Locauto", "https://www.locautorent.com/it/", "Web oficial para alquilar"],
+        ["🚗", "Hertz", "https://www.hertz.it/", "Web oficial para alquilar"],
+        ["🚗", "Avis", "https://www.avisautonoleggio.it/", "Web oficial para alquilar"],
+        ["🚗", "Europcar", "https://www.europcar.it/it-it", "Web oficial para alquilar"],
+        ["🚗", "Sixt", "https://www.sixt.it/", "Web oficial para alquilar"]
+      ],
+      tips: ["Para alquilar te piden licencia de conducir vigente, pasaporte y una tarjeta de crédito a nombre de quien maneja, para la garantía.",
+"Si tu licencia no es de la Unión Europea, en Italia tenés que llevar también el Permiso Internacional de Conducir o una traducción oficial.",
+"No entres al centro histórico: es zona de tránsito limitado (ZTL), con cámaras, y las multas llegan después a tu tarjeta. Retirá el auto en el aeropuerto o en Termini.",
+"Las autopistas tienen peaje: se paga al salir, con tarjeta o en efectivo.",
+"Antes de salir, revisá el auto y sacale fotos: si tiene algún golpe, que quede anotado en el contrato."]
+    },
     /* Apps útiles. Número del App Store y nombre en Google Play revisados uno por uno el 14/11/2026. */
     apps: [
       ["🚇", "Para moverse", [

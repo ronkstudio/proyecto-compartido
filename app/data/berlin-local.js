@@ -60,6 +60,23 @@
         "Para ir o volver del aeropuerto necesitás un boleto de las zonas ABC."]
     },
     moverseSub: "Boletos, U-Bahn, taxis",
+    /* Alquiler de auto (tarjeta #185): agencias con oficinas en la ciudad y en el aeropuerto. Cada web se abrió y revisó el 14/11/2026. */
+    autos: {
+      intro: "Para moverte por Berlín no hace falta: el transporte llega a todos lados. Sirve para salir de la ciudad, por ejemplo a Potsdam, al bosque de Spree o al mar Báltico.",
+      acts: [
+        ["🚗", "Sixt", "https://www.sixt.de/", "Web oficial para alquilar"],
+        ["🚗", "Europcar", "https://www.europcar.de/de-de", "Web oficial para alquilar"],
+        ["🚗", "Hertz", "https://www.hertz.de/", "Web oficial para alquilar"],
+        ["🚗", "Avis", "https://www.avis.de/", "Web oficial para alquilar"],
+        ["🚗", "Enterprise", "https://www.enterprise.de/", "Web oficial para alquilar"],
+        ["🚗", "MILES (auto compartido)", "https://www.miles-mobility.com/de", "Web oficial para alquilar"]
+      ],
+      tips: ["Para alquilar te piden licencia de conducir vigente, pasaporte y una tarjeta de crédito a nombre de quien maneja, para la garantía.",
+"Si tu licencia no es de la Unión Europea, llevá también el Permiso Internacional de Conducir o una traducción al alemán: algunas agencias y la policía lo piden.",
+"El centro, dentro del anillo de la S-Bahn, es zona ambiental: los autos necesitan la etiqueta verde. Los de alquiler ya la traen.",
+"Con MILES alquilás un auto por un rato desde la app y lo dejás en la calle, dentro de la zona de la ciudad.",
+"Antes de salir, revisá el auto y sacale fotos: si tiene algún golpe, que quede anotado en el contrato."]
+    },
     /* Apps útiles (tarjeta #137). Páginas del App Store ("ios") y Google Play ("android") revisadas el 13/11/2026. */
     apps: [
       ["🚇", "Para moverse", [

@@ -875,3 +875,7 @@
 875|Trens rápidos para as grandes cidades da Itália: horários e passagens.
 876|Trens regionais, inclusive para o aeroporto de Fiumicino (FL1), e a linha B do metrô (Piramide).
 877|Estação de trens regionais a poucas quadras do Vaticano.
+878|Para circular por Roma não precisa, e no centro não se pode entrar de carro. Serve para sair da cidade, por exemplo à Toscana, a Tivoli ou ao litoral.
+879|Se a sua carteira não for da União Europeia, na Itália você precisa levar também a Permissão Internacional para Dirigir ou uma tradução oficial.
+880|Não entre no centro histórico: é zona de trânsito limitado (ZTL), com câmeras, e as multas chegam depois no seu cartão. Retire o carro no aeroporto ou em Termini.
+881|As autoestradas têm pedágio: paga-se na saída, com cartão ou em dinheiro.
