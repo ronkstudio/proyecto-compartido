@@ -1,449 +1,1342 @@
 [
-{"cat":"tours","sub":"Visita guiada","name":"Cúpula del Reichstag","barrio":"Tiergarten","address":"Platz der Republik 1","price":0,
- "desc":"La cúpula de vidrio de Norman Foster sobre el Parlamento alemán: subís por una rampa en espiral con audioguía y vista a toda la ciudad.",
- "tip":"Es gratis pero hay que anotarse antes en la web del Bundestag, con nombre y fecha de nacimiento. Llevá el pasaporte. A veces cierra por limpieza.",
- "tags":["gratis","vista","arquitectura","historia","fotos"],"top":true,"q":3,
- "sources":["https://www.bundestag.de/besuche/kuppel-dachterrasseunddachgartenrestaurant","https://www.bundestag.de/besuch/anmeldung"],
- "check":"abierta según bundestag.de (calendario de cierres por mantenimiento 2026)"},
-
-{"cat":"tours","sub":"Visita guiada","name":"Free walking tours en castellano (a la gorra)","barrio":"Mitte","address":"Pariser Platz","price":0,
- "desc":"Caminatas guiadas en castellano por el centro histórico: Puerta de Brandeburgo, memorial del Holocausto, búnker de Hitler y restos del Muro. Pagás lo que te parezca.",
- "tip":"Reservá lugar por Civitatis o GuruWalk. Casi todos salen de Pariser Platz, pero confirmá el punto de encuentro en tu reserva. Llevá efectivo para la propina.",
- "tags":["gratis","caminar","historia","céntrico","mochileros"],
- "sources":["https://www.civitatis.com/es/berlin/free-tour-berlin/","https://freewalkingtour.com/es/berlin/bienvenido-a-berlin/"],
- "check":"tours en castellano activos en Civitatis, GuruWalk y freewalkingtour.com (2026)"},
-
-{"cat":"tours","sub":"Visita guiada","name":"Berliner Unterwelten (búnkeres subterráneos)","barrio":"Wedding","address":"Brunnenstraße 105","price":2,
- "desc":"Una asociación que te baja a búnkeres antiaéreos de la Segunda Guerra y a túneles de la Guerra Fría, debajo de la estación Gesundbrunnen.",
- "tip":"Las entradas se venden solo por internet, no en el lugar. Fijate en la web qué recorridos hay en inglés o castellano. Llevá abrigo: abajo hace frío.",
- "tags":["historia","guerra fría","curiosidad","lluvia"],"top":true,"q":3,
- "sources":["https://www.berliner-unterwelten.de/fileadmin/user_upload/berlinerunterwelten/F%C3%BChrungen_Ausstellungen/BUeV_Flyer_ENG_2026-01_WEB.pdf","https://www.visitberlin.de/de/berliner-unterwelten"],
- "check":"programa 2026 publicado en su web; venta solo online"},
-
-{"cat":"tours","sub":"Visita guiada","name":"Memorial del Muro: visita guiada","barrio":"Mitte","address":"Bernauer Straße 119","price":1,
- "desc":"Recorrido guiado por el único tramo donde se ve el Muro completo, con franja de la muerte y torre de vigilancia. Sale del centro de visitantes.",
- "tip":"El memorial al aire libre es gratis y se puede ver por tu cuenta. Las visitas guiadas públicas tienen fechas puntuales: mirá el calendario en la web.",
- "tags":["muro","guerra fría","memoria","historia","aire libre"],
- "sources":["https://www.stiftung-berliner-mauer.de/de/node/320","https://www.museumsportal-berlin.de/en/events/ueberblicksfuehrung-in-englischer-sprache-5/"],
- "check":"visitas guiadas 2026 listadas por la fundación y museumsportal"},
-
-{"cat":"tours","sub":"Visita guiada","name":"Cárcel de la Stasi en Hohenschönhausen","barrio":"Lichtenberg","address":"Genslerstraße 66","price":1,
- "desc":"La antigua prisión de la policía secreta de la RDA. Las visitas las guían historiadores y ex presos políticos, y se entra a las celdas y salas de interrogatorio.",
- "tip":"Hay audioguía en castellano. Llegás con el tranvía M5 o M6. Mirá en la web los horarios de las visitas en inglés antes de ir.",
- "tags":["historia","guerra fría","memoria","museo"],"q":3,
- "sources":["https://www.stiftung-hsh.de/en/visit/practical-information","https://www.berlin.de/en/museums/3109402-3104050-gedenkstaette-berlin-hohenschoenhausen.en.html"],
- "check":"abierta según su web y berlin.de; audioguía en castellano según su folleto"},
-
-{"cat":"tours","sub":"Visita guiada","name":"Estadio Olímpico: visita guiada","barrio":"Charlottenburg","address":"Olympischer Platz 3","price":2,
- "desc":"El estadio de los Juegos de 1936 y de la final del Mundial 2006. La visita guiada pasa por vestuarios, palcos y la arquitectura monumental de la época nazi.",
- "tip":"Los días de partido o recital no hay visitas: mirá el calendario antes. Llegás con la U2 o la S-Bahn hasta Olympiastadion.",
- "tags":["estadio","historia","arquitectura"],
- "sources":[],
- "check":"SIN VERIFICAR en esta sesión (se acabó el cupo de búsquedas): dato de conocimiento previo, revisar antes de publicar"},
-
-{"cat":"tours","sub":"Temático","name":"Paseo en barco por el Spree","barrio":"Mitte","address":"Reichstagufer 18","price":2,
- "desc":"Una hora navegando por el centro: Isla de los Museos, Catedral, Reichstag y el barrio del gobierno vistos desde el agua.",
- "tip":"Empresas: Reederei Riedel o Stern und Kreis. Salen de Friedrichstraße, Nikolaiviertel y Hauptbahnhof. En invierno hay menos salidas.",
- "tags":["río","clásico","fotos","relajado","arquitectura"],"top":true,"q":3,
- "sources":["https://www.visitberlin.de/de/tickets-schifffahrt-spreefahrt-berlin","https://www.berliner-zeitung.de/article/berlin-schifffahrt-1-stunde-tickets-xqz-2322822"],
- "check":"paseos 2026 a la venta en visitberlin; muelle de Riedel en Reichstagufer 18 según listado"},
-
-{"cat":"tours","sub":"Temático","name":"Bus 100: el city tour barato","barrio":"Charlottenburg","address":"Hardenbergplatz","price":1,
- "desc":"Un colectivo de línea que va del Zoo a Alexanderplatz pasando por la Columna de la Victoria, el Reichstag, la Puerta de Brandeburgo y Unter den Linden.",
- "tip":"Se viaja con el boleto común de transporte (zona AB). Sentate arriba y adelante si el coche es de dos pisos. Evitá la hora pico.",
- "tags":["económico","clásico","fotos","lluvia","céntrico"],"q":3,
- "sources":["https://www.bvg.de/de/touristen/sightseeing","https://www.travelbook.de/ziele/staedte/bus-100-berlin-sightseeing"],
- "check":"recorrido confirmado en bvg.de"},
-
-{"cat":"tours","sub":"Temático","name":"Bus 300: de la Filarmónica a la East Side Gallery","barrio":"Tiergarten","address":"Herbert-von-Karajan-Straße 1","price":1,
- "desc":"La otra línea turística del transporte público: Potsdamer Platz, Puerta de Brandeburgo, Unter den Linden, Alexanderplatz y termina junto al Muro pintado.",
- "tip":"Va con el boleto común (zona AB). Combinalo con el 100: ida en uno y vuelta en el otro, y ves casi todo el centro.",
- "tags":["económico","muro","fotos","lluvia"],
- "sources":["https://www.bvg.de/en/tourists/sightseeing","https://www.tip-berlin.de/berlin-besucher/nahverkehr/buslinie-300-berlin-strecke/"],
- "check":"recorrido Philharmonie - Warschauer Straße confirmado en bvg.de"},
-
-{"cat":"tours","sub":"Temático","name":"Tour en bici por Berlín","barrio":"Mitte","address":"Panoramastraße 1a","price":2,
- "desc":"Berlín es chata y llena de bicisendas: en unas horas pedaleando ves el Muro, el Tiergarten y el barrio del gobierno, con paradas y explicación.",
- "tip":"Empresa: Fat Tire Tours, al pie de la Torre de TV en Alexanderplatz. Los tours son en inglés. Conviene reservar, sobre todo de abril a octubre.",
- "tags":["bici","aire libre","historia","muro"],
- "sources":["https://www.fattiretours.com/berlin/faq/","https://www.fattiretours.com/berlin/tours/city-tour-with-beer-garden/"],
- "check":"punto de encuentro y tours vigentes en fattiretours.com"},
-
-{"cat":"tours","sub":"Temático","name":"Trabi Safari","barrio":"Mitte","address":"Zimmerstraße 97","price":3,
- "desc":"Manejás vos mismo un Trabant, el autito de plástico de la Alemania Oriental, en caravana por la ciudad con un guía que habla por radio.",
- "tip":"Empresa: TrabiWorld, cerca de Checkpoint Charlie. El que maneja necesita licencia de conducir. Entran hasta cuatro personas por auto.",
- "tags":["curiosidad","guerra fría","fotos","historia"],
- "sources":["https://www.berlin.de/tickets/freizeit/berlin-compact-trabi-safari-deutsch-1h-15min-721e8d73-77b2-473f-bf1d-a3a1752d371a/"],
- "check":"entradas 2026 a la venta en berlin.de"},
-
-{"cat":"tours","sub":"Temático","name":"Tour de street art y Berlín alternativo","barrio":"Friedrichshain","address":"Warschauer Straße 53","price":2,
- "desc":"Caminata por murales, patios ocupados y rincones de la contracultura de Friedrichshain y Kreuzberg, contada por gente de la escena.",
- "tip":"Empresa: Alternative Berlin Tours (en inglés). El punto de encuentro cambió en 2026: confirmalo al reservar. Hay versiones a la gorra en freewalkingtour.com.",
- "tags":["street art","arte","caminar","vida de barrio"],
- "sources":["https://www.top10berlin.de/en/cat/leisure-258/unique-city-walks-1511/alternative-berlin-tours","https://freewalkingtour.com/es/berlin/berlin-alternativo/"],
- "check":"activo con reseñas de octubre de 2026; las fuentes no coinciden del todo en el punto de encuentro"},
-
-{"cat":"tours","sub":"Temático","name":"Tour gastronómico por Kreuzberg","barrio":"Kreuzberg","address":"Kottbusser Tor","price":3,
- "desc":"Unas tres horas probando lo que come Berlín de verdad: döner, currywurst, cocina turca y algo dulce, mientras te cuentan la historia del barrio.",
- "tip":"Empresas: Secret Food Tours, entre otras. Cada una sale de un lugar distinto de Kreuzberg: mirá el punto de encuentro en tu reserva. Andá con hambre.",
- "tags":["degustación","döner","currywurst","vida de barrio","caminar"],
- "sources":["https://freewalkingtour.com/berlin/berlin-food-tour/","https://www.berlin.de/en/tickets/education-lectures/food-tour-kreuzberg-culinary/2026-10-21-xfood-tour-kreuzberg-kulinarisch-80640835-4d1f-4ba7-bdd1-401247db57fa/"],
- "check":"tours con fechas de 2026 en berlin.de; el punto de encuentro depende de la empresa"},
-
-{"cat":"tours","sub":"Temático","name":"Tercer Reich y Guerra Fría a pie","barrio":"Mitte","address":"Pariser Platz","price":2,
- "desc":"Caminata temática por los lugares del nazismo y de la ciudad dividida: el barrio del gobierno, el sitio del búnker de Hitler, el Muro y Checkpoint Charlie.",
- "tip":"Empresa: Insider Tour Berlin (en inglés); en castellano hay versiones por Civitatis. Suele salir de la oficina de turismo de la Puerta de Brandeburgo.",
- "tags":["historia","guerra fría","muro","memoria","caminar"],
- "sources":["https://www.civitatis.com/en/berlin/third-reich-tour","https://www.headout.com/walking-tours/cold-war-berlin-e-18154/"],
- "check":"tours a la venta en 2026 en varios revendedores; punto de encuentro según la reserva"},
-
-{"cat":"tours","sub":"Temático","name":"Aeropuerto de Tempelhof: visita al edificio","barrio":"Kreuzberg","address":"Platz der Luftbrücke 5","price":2,
- "desc":"Uno de los edificios más grandes de Europa: el aeropuerto nazi que después fue la base del puente aéreo. Se recorre el hall, los hangares y los búnkeres.",
- "tip":"Solo se entra con visita guiada (hay en inglés). Salen del centro de visitantes CHECK-IN: llegá un rato antes. Después caminá por la pista, que es parque.",
- "tags":["historia","arquitectura","guerra fría","curiosidad"],"q":3,
- "sources":["https://www.berlin.de/sehenswuerdigkeiten/3561482-3558930-flughafen-tempelhof.html","https://www.thf-berlin.de/fileadmin/user_upload/01_Aktuelles/Presse/Pressemitteilungen/2026/PM_04_20260427_THF_Erinnerungsmonat_Mai.pdf"],
- "check":"visitas 2026 según thf-berlin.de y visitberlin; queda en Tempelhof, que no está en la lista de barrios"},
-
-{"cat":"escapadas","sub":"Ciudad","name":"Potsdam","barrio":"Fuera de Berlín","address":"Alter Markt, Potsdam","price":1,
- "desc":"La ciudad de los reyes de Prusia, a media hora: palacios, parques enormes, un centro barroco y lagos por todos lados. La excursión número uno desde Berlín.",
- "tip":"Llegás con la S7 o un tren regional hasta Potsdam Hauptbahnhof; necesitás boleto de zona ABC. Dedicale el día entero.",
- "tags":["palacio","historia","arquitectura","tren","jardín"],"top":true,"q":3,
- "sources":["https://www.visitberlin.de/de/tickets/sanssouci-tagesticket-fuer-schloesser-gaerten","https://thebettervacation.com/de/Berlin/Die-besten-Tagesausfl%C3%BCge-ab-Berlin/"],
- "check":"destino vigente; palacios abiertos según spsg.de salvo Cecilienhof"},
-
-{"cat":"escapadas","sub":"Ciudad","name":"Barrio Holandés de Potsdam","barrio":"Fuera de Berlín","address":"Mittelstraße, Potsdam","price":0,
- "desc":"Cuatro manzanas de casitas de ladrillo rojo construidas en el siglo XVIII para artesanos holandeses. Hoy están llenas de cafés, anticuarios y tiendas chicas.",
- "tip":"Queda a unos minutos a pie del centro de Potsdam, camino a Sanssouci. Ideal para almorzar o merendar en la escapada.",
- "tags":["arquitectura","café","caminar","fotos","compras"],
- "sources":["https://thebettervacation.com/de/Berlin/Die-besten-Tagesausfl%C3%BCge-ab-Berlin/"],
- "check":"barrio histórico; no se verificó cada local"},
-
-{"cat":"escapadas","sub":"Ciudad","name":"Dresde","barrio":"Fuera de Berlín","address":"Neumarkt, Dresde","price":2,
- "desc":"La \"Florencia del Elba\": la Frauenkirche reconstruida, el palacio Zwinger y un casco barroco que renació después de la guerra.",
- "tip":"En tren rápido es menos de dos horas desde Berlin Hauptbahnhof. Salí temprano y volvé a la noche; sacá el pasaje con anticipación, que es más barato.",
- "tags":["arquitectura","historia","arte","tren","río"],"q":3,
- "sources":["https://thebettervacation.com/de/Berlin/Dresden/","https://everyrail.com/de/zuege/berlin-nach-dresden/"],
- "check":"tiempos de tren 2026 según guías de trenes"},
-
-{"cat":"escapadas","sub":"Ciudad","name":"Leipzig","barrio":"Fuera de Berlín","address":"Markt, Leipzig","price":2,
- "desc":"La ciudad de Bach y de las marchas que tumbaron a la RDA: iglesias históricas, pasajes comerciales elegantes y una movida joven y creativa.",
- "tip":"En tren rápido es poco más de una hora desde Berlin Hauptbahnhof. El centro se recorre todo a pie desde la estación.",
- "tags":["música","historia","arquitectura","tren","cultura"],
- "sources":["https://thebettervacation.com/de/Berlin/Die-besten-Tagesausfl%C3%BCge-ab-Berlin/"],
- "check":"recomendada como excursión de un día en guía 2026; duración del tren de conocimiento previo"},
-
-{"cat":"escapadas","sub":"Ciudad","name":"Wittenberg, la ciudad de Lutero","barrio":"Fuera de Berlín","address":"Schlossplatz, Lutherstadt Wittenberg","price":2,
- "desc":"El pueblo donde Lutero clavó sus 95 tesis y empezó la Reforma. Se ven la iglesia del castillo, su casa y un casco antiguo chico y prolijo.",
- "tip":"En tren rápido tardás unos 40 minutos; en regional, alrededor de una hora. De la estación al centro hay una caminata corta.",
- "tags":["historia","religioso","pueblo","tren","arquitectura"],
- "sources":["https://thebettervacation.com/de/Berlin/Die-besten-Tagesausfl%C3%BCge-ab-Berlin/","https://www.nordkurier.de/regional/brandenburg/fahrplanwechsel-bringt-viele-aenderungen-eine-uebersicht-4190238"],
- "check":"tiempos de tren según guía y nota de prensa"},
-
-{"cat":"escapadas","sub":"Palacios y jardines","name":"Palacio de Sanssouci","barrio":"Fuera de Berlín","address":"Maulbeerallee, Potsdam","price":2,
- "desc":"El palacio de verano de Federico el Grande, arriba de unas terrazas de viñedos. Chico, rococó y rodeado de un parque inmenso con fuentes y pabellones.",
- "tip":"Las entradas son con horario y se agotan: compralas antes por internet. El parque es gratis. Desde Potsdam Hbf tomá el bus 695.",
- "tags":["palacio","jardín","historia","arquitectura","fotos"],"top":true,"q":3,"award":"Patrimonio UNESCO",
- "sources":["https://www.spsg.de/en/palaces-gardens/","https://www.visitberlin.de/de/tickets/sanssouci-tagesticket-fuer-schloesser-gaerten"],
- "check":"abierto según spsg.de y entradas 2026 en visitberlin"},
-
-{"cat":"escapadas","sub":"Palacios y jardines","name":"Nuevo Palacio de Potsdam","barrio":"Fuera de Berlín","address":"Am Neuen Palais, Potsdam","price":2,
- "desc":"El palacio más grande del parque de Sanssouci, hecho para impresionar: salones de mármol, una gruta de caracoles y cientos de habitaciones.",
- "tip":"Está en la otra punta del parque: es una linda caminata desde Sanssouci. En invierno solo se entra con visita guiada. Cierra los martes.",
- "tags":["palacio","arquitectura","historia","jardín"],"closed":[2],
- "sources":["https://www.spsg.de/en/palaces-gardens/object/new-palace/","https://www.spsg.de/fileadmin/user_upload/pdf/Gruppenpreise/20251201_SPSG_Gruppenpreise_2026.pdf"],
- "check":"abierto según spsg.de (tarifas y días 2026)"},
-
-{"cat":"escapadas","sub":"Palacios y jardines","name":"Isla de los Pavos Reales (Pfaueninsel)","barrio":"Zehlendorf","address":"Nikolskoer Weg","price":1,
- "desc":"Una isla sin autos en el río Havel, con pavos reales sueltos, bosque y un castillito blanco de cuento que reabrió después de años de obra.",
- "tip":"S-Bahn hasta Wannsee, bus 218 y un ferry que cruza en pocos minutos. No se puede fumar ni llevar bicis ni perros. El castillo se ve con visita guiada.",
- "tags":["isla","naturaleza","palacio","tranquilo","chicos"],"award":"Patrimonio UNESCO",
- "sources":["https://www.berlin.de/tourismus/dampferfahrten/faehren/1828176-1824660-faehre-zur-pfaueninsel.html","https://www.entwicklungsstadt.de/aus-dem-dornroeschenschlaf-schloss-pfaueninsel-nach-sanierung-wieder-geoeffnet/"],
- "check":"ferry con horario de invierno 2026-27 en berlin.de; castillo reabierto tras la obra, con visitas guiadas"},
-
-{"cat":"escapadas","sub":"Palacios y jardines","name":"Parque de Babelsberg","barrio":"Fuera de Berlín","address":"Park Babelsberg 10, Potsdam","price":0,
- "desc":"Un parque inglés sobre el río Havel con un castillo neogótico y vistas al puente de los espías. Mucho más tranquilo que Sanssouci.",
- "tip":"El parque es gratis. El interior del castillo sigue en obra y solo abre con visitas especiales. S7 hasta Babelsberg y un tramo en bus o a pie.",
- "tags":["jardín","palacio","río","tranquilo","caminar"],
- "sources":["https://www.museumsportal-berlin.de/en/events/schloss-babelsberg-zeit-ge-schichten-2/","https://www.spsg.de/en/palaces-gardens/"],
- "check":"parque abierto; interior del castillo solo con visitas especiales según museumsportal 2026"},
-
-{"cat":"escapadas","sub":"Palacios y jardines","name":"Palacio de Oranienburg","barrio":"Fuera de Berlín","address":"Schloßplatz 1, Oranienburg","price":1,
- "desc":"El palacio barroco más antiguo de la región, con una colección de porcelana y platería de la corte. Se combina bien con el memorial de Sachsenhausen.",
- "tip":"S1 o tren regional hasta Oranienburg (zona ABC) y unos minutos a pie. Por dentro se recorre con visita guiada: fijate antes qué días abre.",
- "tags":["palacio","historia","museo","tren"],
- "sources":["https://www.museumsportal-berlin.de/de/museen/schlossmuseum-oranienburg/","https://www.spsg.de/fileadmin/user_upload/pdf/Gruppenpreise/20251201_SPSG_Gruppenpreise_2026.pdf"],
- "check":"abierto en 2026 según museumsportal y spsg.de; días de invierno sin confirmar"},
-
-{"cat":"escapadas","sub":"Palacios y jardines","name":"Palacio de Rheinsberg","barrio":"Fuera de Berlín","address":"Schloss 2, Rheinsberg","price":1,
- "desc":"Un palacio que se refleja en un lago, donde Federico el Grande pasó sus años más felices. Pueblo chico, bosque y paseos en barco alrededor.",
- "tip":"Es lejos: unas dos horas en tren regional con trasbordo, o en auto. Mejor de abril a octubre; cierra los lunes y en invierno abre menos.",
- "tags":["palacio","lago","pueblo","naturaleza","tranquilo"],"closed":[1],
- "sources":["https://www.museumsportal-berlin.de/de/museen/schloss-rheinsberg/","https://www.spsg.de/fileadmin/user_upload/pdf/Gruppenpreise/20251201_SPSG_Gruppenpreise_2026.pdf"],
- "check":"temporada 2026 y dirección según museumsportal; cómo llegar en tren es de conocimiento previo"},
-
-{"cat":"escapadas","sub":"Naturaleza y lagos","name":"Spreewald (Lübbenau)","barrio":"Fuera de Berlín","address":"Großer Spreewaldhafen, Dammstraße, Lübbenau","price":2,
- "desc":"Un laberinto de canales entre bosques donde te llevan en bote a pértiga, como en una Venecia campestre. Famoso por sus pepinos en vinagre.",
- "tip":"Tren regional RE2 hasta Lübbenau, alrededor de una hora, y unos minutos a pie hasta el puerto. Los botes funcionan sobre todo de marzo a octubre.",
- "tags":["naturaleza","río","pueblo","tren","tradición"],"q":3,"award":"Reserva de la Biosfera UNESCO",
- "sources":["https://www.reiseland-brandenburg.de/poi/spreewald/kahnfahrten/grosser-spreewaldhafen-luebbenau/","https://www.berlin.de/tourismus/brandenburg/1160734-1098592-l%C3%BCbbenauundlehde.html"],
- "check":"puerto y temporada según berlin.de y reiseland-brandenburg; número de puerta sin confirmar"},
-
-{"cat":"escapadas","sub":"Naturaleza y lagos","name":"Playa de Wannsee (Strandbad Wannsee)","barrio":"Zehlendorf","address":"Wannseebadweg 25","price":1,
- "desc":"La playa de lago más grande de Europa tierra adentro: más de un kilómetro de arena, sillones de mimbre y edificios de los años 30.",
- "tip":"Solo abre en temporada de verano. S1 o S7 hasta Nikolassee y una caminata. En 2026 los baños y duchas funcionaron limitados por un arreglo.",
- "tags":["lago","aire libre","chicos","picnic","clásico"],
- "sources":["https://www.berliner-kurier.de/berlin/krasse-temperaturen-wochenende-drei-berliner-freibaeder-geoeffnet-li.10033179","https://www.entwicklungsstadt.de/strandbad-wannsee-sanierter-weg-zum-strand-wieder-geoeffnet/"],
- "check":"abrió la temporada 2026 según prensa; cerrado en invierno"},
-
-{"cat":"escapadas","sub":"Naturaleza y lagos","name":"Müggelsee","barrio":"Köpenick","address":"Müggelseedamm, Friedrichshagen","price":0,
- "desc":"El lago más grande de Berlín, en el sudeste: costanera, cervecerías con vista al agua, barquitos y bosque para caminar o andar en bici.",
- "tip":"S3 hasta Friedrichshagen y bajás caminando por la Bölschestraße hasta la orilla. El balneario de Rahnsdorf estuvo en obra durante 2026.",
- "tags":["lago","naturaleza","aire libre","bici","fin de semana"],
- "sources":["https://www.entwicklungsstadt.de/strandbad-mueggelsee-so-laeuft-die-sanierung-in-rahnsdorf/","https://www.berliner-zeitung.de/article/berlins-groesster-see-hier-kostet-der-badetag-6-euro-und-im-august-fliegen-bmx-raeder-vom-steg-10248726"],
- "check":"lago de acceso libre; obra del balneario según prensa 2026; cómo llegar de conocimiento previo"},
-
-{"cat":"escapadas","sub":"Naturaleza y lagos","name":"Schlachtensee","barrio":"Zehlendorf","address":"Am Schlachtensee","price":0,
- "desc":"Un lago angosto rodeado de bosque, con agua limpia y un sendero que le da toda la vuelta. El preferido de los berlineses para nadar y correr.",
- "tip":"La S1 te deja en la estación Schlachtensee, a metros del agua (zona AB). La vuelta completa a pie lleva algo más de una hora.",
- "tags":["lago","naturaleza","correr","picnic","tranquilo"],
- "sources":[],
- "check":"SIN VERIFICAR en esta sesión (se acabó el cupo de búsquedas): lago público, dato de conocimiento previo"},
-
-{"cat":"escapadas","sub":"Naturaleza y lagos","name":"Werder (Havel)","barrio":"Fuera de Berlín","address":"Inselstadt, Werder (Havel)","price":1,
- "desc":"Un pueblito de pescadores sobre una isla del río Havel, rodeado de frutales. En primavera se llena por la fiesta de los árboles en flor y el vino de fruta.",
- "tip":"Tren regional RE1 desde Berlin Hauptbahnhof, pasando Potsdam (zona C). De la estación a la isla hay un tramo en bus o una caminata larga.",
- "tags":["pueblo","isla","río","naturaleza","tren"],
- "sources":[],
- "check":"SIN VERIFICAR en esta sesión (se acabó el cupo de búsquedas): dato de conocimiento previo, revisar antes de publicar"},
-
-{"cat":"escapadas","sub":"Naturaleza y lagos","name":"Suiza Sajona y el puente de Bastei","barrio":"Fuera de Berlín","address":"Basteistraße, Lohmen","price":2,
- "desc":"Torres de roca arenisca sobre el río Elba y un puente de piedra colgado entre ellas. El paisaje más espectacular a tiro de tren de Berlín.",
- "tip":"Es excursión larga: tren a Dresde, después la S1 hasta Kurort Rathen, cruzás el río en ferry y subís a pie. El acceso al puente es libre.",
- "tags":["naturaleza","mirador","caminar","fotos","tren"],
- "sources":["https://www.saechsische-schweiz.de/urlaubsregion/highlights/bastei","https://www.saechsische-schweiz.de/wanderungen/kurort-rathen-bastei-schwedenloecher"],
- "check":"accesible todo el año según la web oficial; un sitio de senderos marcaba un tramo cerrado en octubre de 2026"},
-
-{"cat":"escapadas","sub":"Historia y memoria","name":"Memorial de Sachsenhausen","barrio":"Fuera de Berlín","address":"Straße der Nationen 22, Oranienburg","price":0,
- "desc":"El campo de concentración que los nazis usaron como modelo, al norte de Berlín. Hoy es memorial y museo: una visita dura, pero necesaria.",
- "tip":"Entrada libre. S1 o tren regional hasta Oranienburg (zona ABC) y de ahí bus o unos 20 minutos a pie. Calculá medio día y abrigate: es todo abierto.",
- "tags":["memoria","historia","gratis","museo","tren"],"top":true,"q":3,
- "sources":["https://www.visitberlin.de/de/gedenkstaette-sachsenhausen","https://www.stiftung-bg.de/en/news/bus-stop-relocated/"],
- "check":"abierto según la fundación (avisos de 2026); la parada del bus se mudó en julio de 2026"},
-
-{"cat":"escapadas","sub":"Historia y memoria","name":"Casa de la Conferencia de Wannsee","barrio":"Zehlendorf","address":"Am Großen Wannsee 56-58","price":0,
- "desc":"La villa junto al lago donde en 1942 los jerarcas nazis organizaron el exterminio de los judíos de Europa. Hoy es un museo sobrio y muy bien hecho.",
- "tip":"Entrada libre. S1 o S7 hasta Wannsee y el bus 114 te deja en la puerta. Cierra algunos feriados.",
- "tags":["memoria","historia","gratis","museo","lago"],"q":3,
- "sources":["https://www.visitberlin.de/de/node/15900","https://www.ghwk.de/en/exhibition"],
- "check":"abierta según visitberlin y su web (2026)"},
-
-{"cat":"escapadas","sub":"Historia y memoria","name":"Puente Glienicke (puente de los espías)","barrio":"Zehlendorf","address":"Königstraße","price":0,
- "desc":"El puente de hierro entre Berlín y Potsdam donde las dos Alemanias intercambiaban espías en la Guerra Fría. La frontera pasaba justo por el medio.",
- "tip":"Llegás en bus desde la estación Wannsee o en tranvía desde Potsdam Hauptbahnhof. Buscá en el piso la línea que marca la antigua frontera.",
- "tags":["guerra fría","historia","río","fotos","gratis"],
- "sources":["https://berlin.de/mauer/en/wall-trail/western-route/from-griebnitzsee-to-wannsee/house-of-the-wannsee-conference-473100.en.php"],
- "check":"puente público sobre la ruta del Muro (berlin.de); cómo llegar de conocimiento previo"},
-
-{"cat":"escapadas","sub":"Historia y memoria","name":"Memorial de Ravensbrück","barrio":"Fuera de Berlín","address":"Straße der Nationen, Fürstenberg/Havel","price":0,
- "desc":"El mayor campo de concentración para mujeres del nazismo, a orillas de un lago. Menos visitado que Sachsenhausen y muy conmovedor.",
- "tip":"Entrada libre. Tren regional RE5 hasta Fürstenberg/Havel, alrededor de una hora y media, y después una caminata señalizada.",
- "tags":["memoria","historia","gratis","museo","tren"],
- "sources":["https://www.berlin.de/tourismus/brandenburg/1179066-1098592-ravensbr%C3%BCckgedenkst%C3%A4ttefrauenkonzentra.html","https://www.brandenburg-tourism.com/poi/ruppiner-seenland/museums/ravensbrueck-memorial-site-fuerstenberg-strich-havel"],
- "check":"abierto con actos y visitas en 2026 según la fundación y berlin.de"},
-
-{"cat":"dormir","sub":"Hostel","name":"The Circus Hostel","barrio":"Mitte","address":"Weinbergsweg 1a","price":1,
- "desc":"El hostel más querido de Berlín: limpio, con buena onda, cervecería propia en el sótano y actividades todos los días.",
- "tip":"Está sobre Rosenthaler Platz, con subte y tranvía en la puerta. Los cuartos a la calle son ruidosos por el tranvía: pedí uno al fondo.",
- "tags":["mochileros","económico","céntrico","cerveza"],"q":3,
- "sources":["https://www.hostelworld.com/hostels/p/703/circus-hostel/","https://hostelgeeks.com/party-hostels-in-berlin/"],
- "check":"abierto, con reseñas de 2026 en Hostelworld"},
-
-{"cat":"dormir","sub":"Hostel","name":"EastSeven Berlin Hostel","barrio":"Prenzlauer Berg","address":"Schwedter Straße 7","price":1,
- "desc":"Hostel chico e independiente, con jardín, cocina y fama de ser el mejor para viajar solo y hacer amigos sin que sea una fiesta eterna.",
- "tip":"Se llena rápido porque tiene pocas camas: reservá con tiempo. Queda cerca de la estación Senefelderplatz de la U2.",
- "tags":["mochileros","económico","jardín","relajado"],
- "sources":["https://www.hostelworld.com/hostels/p/11286/eastseven-berlin-hostel/"],
- "check":"abierto, con reseñas de agosto y septiembre de 2026 en Hostelworld; número de calle de conocimiento previo"},
-
-{"cat":"dormir","sub":"Hostel","name":"Pfefferbett Hostel","barrio":"Prenzlauer Berg","address":"Christinenstraße 18-19","price":1,
- "desc":"Un hostel dentro de una antigua cervecería de ladrillo del siglo XIX, con patio, bar y chimenea. Tranquilo y bien ubicado.",
- "tip":"Ideal si querés dormir bien: es más calmo que otros. Está a pasos de la estación Senefelderplatz y de los bares de Kastanienallee.",
- "tags":["mochileros","económico","patio","tranquilo"],
- "sources":["https://www.hostelworld.com/hostels/p/8999/pfefferbett-hostel/","https://www.hostelz.com/hostel/94221-Pfefferbett-Hostel"],
- "check":"abierto según Hostelworld y Hostelz (2026)"},
-
-{"cat":"dormir","sub":"Hostel","name":"Generator Berlin Mitte","barrio":"Mitte","address":"Oranienburger Straße 65","price":1,
- "desc":"Hostel grande y de diseño de una cadena europea, con bar propio, cuartos compartidos y privados, en plena zona de galerías y bares de Mitte.",
- "tip":"Bueno para grupos y para quien busca ambiente. Las opiniones sobre el mantenimiento son dispares: mirá reseñas recientes antes de reservar.",
- "tags":["mochileros","económico","céntrico","bar","diseño"],
- "sources":["https://www.hostelworld.com/hostels/p/63287/generator-berlin-mitte/","https://www.timeout.com/berlin/hotels/generator-berlin-mitte"],
- "check":"abierto, con reseñas de marzo de 2026 en Hostelworld"},
-
-{"cat":"dormir","sub":"Hostel","name":"Grand Hostel Berlin Classic","barrio":"Kreuzberg","address":"Tempelhofer Ufer 14","price":1,
- "desc":"Un edificio señorial de 1874 frente al canal, con techos altos, biblioteca-bar y camas de verdad en vez de cuchetas. Social sin ser ruidoso.",
- "tip":"Está al lado de la estación Möckernbrücke (U1 y U7), que te conecta rápido con todo. No aceptan mascotas.",
- "tags":["mochileros","económico","arquitectura","relajado"],
- "sources":["https://www.timetomomo.com/en/visit/berlin/accommodation/grand-hostel-berlin-classic","https://hostelgeeks.com/party-hostels-in-berlin/"],
- "check":"abierto, con tarifas de 2026 en buscadores"},
-
-{"cat":"dormir","sub":"Hostel","name":"St Christopher's Inn Berlin Alexanderplatz","barrio":"Mitte","address":"Rosa-Luxemburg-Straße 41","price":1,
- "desc":"Hostel fiestero de una cadena inglesa, con bar grande abajo y descuentos en comida y tragos para los huéspedes. A cuadras de Alexanderplatz.",
- "tip":"Elegilo si querés salir y conocer gente, no si buscás silencio. La estación Rosa-Luxemburg-Platz de la U2 queda enfrente.",
- "tags":["mochileros","económico","fiesta","bar","céntrico"],
- "sources":["https://st-christophers.co.uk/berlin/hostels","https://www.st-christophers.co.uk/travel-blog/berlin-hostel-accommodation/"],
- "check":"abierto según su web oficial (guía 2026)"},
-
-{"cat":"dormir","sub":"Hostel","name":"MEININGER Berlin Hauptbahnhof","barrio":"Moabit","address":"Ella-Trebe-Straße 9","price":1,
- "desc":"Mitad hotel, mitad hostel, pegado a la estación central: cuartos privados y compartidos, cocina para huéspedes y todo muy prolijo.",
- "tip":"Práctico si llegás tarde o salís temprano en tren. No tiene aire acondicionado: en pleno verano los cuartos se calientan.",
- "tags":["mochileros","económico","tren","chicos"],
- "sources":["https://www.hostelworld.com/hostels/p/35885/meininger-berlin-central-station/"],
- "check":"abierto según Hostelworld y buscadores (2026)"},
-
-{"cat":"dormir","sub":"Hotel","name":"Motel One Berlin-Alexanderplatz","barrio":"Mitte","address":"Grunerstraße 11","price":2,
- "desc":"La cadena alemana de hoteles económicos con diseño: cuartos chicos pero impecables, buen bar y una ubicación inmejorable al lado de Alexanderplatz.",
- "tip":"Pedí un piso alto con vista a la Torre de TV. Motel One tiene varios hoteles más en la ciudad, todos parecidos y confiables.",
- "tags":["hotel","económico","céntrico","diseño"],
- "sources":["https://www.motel-one.com/en/hotels/berlin/hotel-berlin-alexanderplatz/","https://www.berlin.de/hotels/8930187-1686962-motel-one-berlinalexanderplatz.html"],
- "check":"abierto según motel-one.com y berlin.de"},
-
-{"cat":"dormir","sub":"Hotel","name":"The Circus Hotel","barrio":"Mitte","address":"Rosenthaler Straße 1","price":2,
- "desc":"El hermano hotelero del Circus Hostel: cuartos coloridos, patio interior, desayuno rico y un personal que te arma el viaje.",
- "tip":"Los cuartos al patio son los silenciosos. Está sobre Rosenthaler Platz, con la U8 y los tranvías M1 y M8 en la esquina.",
- "tags":["hotel","céntrico","patio","desayuno"],
- "sources":["https://circus-berlin.de/?p=7719","https://circus-berlin.de/?p=410"],
- "check":"abierto según el sitio oficial del grupo Circus"},
-
-{"cat":"dormir","sub":"Hotel","name":"Park Inn by Radisson Berlin Alexanderplatz","barrio":"Mitte","address":"Alexanderplatz 7","price":2,
- "desc":"La torre de más de mil habitaciones sobre Alexanderplatz, herencia de la Berlín oriental. Nada íntimo, pero la ubicación y las vistas son imbatibles.",
- "tip":"Pedí piso alto mirando a la Torre de TV. Desde agosto de 2026 lo maneja Radisson directamente y hay planes de obra en la base del edificio.",
- "tags":["hotel","céntrico","vista"],
- "sources":["https://www.tageskarte.io/hotellerie/detail/radisson-hotel-group-uebernimmt-management-des-park-inn-berlin-alexanderplatz.html","https://www.radissonhotels.com/de-de/hotels/park-inn-berlin-alexanderplatz/services"],
- "check":"abierto; cambio de gestión en agosto de 2026 según prensa del sector"},
-
-{"cat":"dormir","sub":"Hotel","name":"Hotel Indigo Berlin - East Side Gallery","barrio":"Friedrichshain","address":"Mühlenstraße 13-19","price":2,
- "desc":"Hotel moderno de cadena justo enfrente del tramo pintado del Muro y al lado del estadio cubierto, con terraza en la azotea.",
- "tip":"Estás a pasos de las estaciones Warschauer Straße y Ostbahnhof. Las noches de recital en el estadio la zona se llena y suben los precios.",
- "tags":["hotel","muro","moderno","terraza"],
- "sources":["https://www.berlin.de/hotels/8917323-1686962-hotel-indigo-berlin-east-side-gallery.html"],
- "check":"listado vigente en berlin.de (actualizado en agosto de 2025)"},
-
-{"cat":"dormir","sub":"Hotel","name":"nhow Berlin","barrio":"Friedrichshain","address":"Stralauer Allee 3","price":3,
- "desc":"El \"hotel de la música\" sobre el río Spree: diseño rosa y futurista, estudios de grabación y guitarras que te llevan al cuarto si las pedís.",
- "tip":"Pedí cuarto con vista al río. Queda a una caminata corta de la East Side Gallery y de la estación Warschauer Straße.",
- "tags":["hotel","diseño","música","río","moderno"],
- "sources":["https://hotelsvetted.pages.dev/germany/berlin/"],
- "check":"listado con tarifas en guía de hoteles; número de calle de conocimiento previo"},
-
-{"cat":"dormir","sub":"Hotel","name":"Lulu Guldsmeden","barrio":"Tiergarten","address":"Potsdamer Straße 67","price":2,
- "desc":"Hotel danés con onda ecológica en un edificio de 1850: camas con dosel, madera, productos orgánicos y un restaurante lindo en el patio.",
- "tip":"Está en la zona de galerías de Potsdamer Straße, a una caminata de Potsdamer Platz. Aceptan mascotas con un cargo extra.",
- "tags":["hotel","diseño","patio","tranquilo"],
- "sources":["https://www.visitberlin.de/en/hotel-lulu-guldsmeden-potsdamer-platz","https://guide.michelin.com/ch/fr/hotels-stays/berlin/lulu-guldsmeden-11084"],
- "check":"abierto según visitberlin y la Guía Michelin de hoteles"},
-
-{"cat":"dormir","sub":"Hotel","name":"Hotel AMANO","barrio":"Mitte","address":"Auguststraße 43","price":2,
- "desc":"Hotel de diseño sobrio en la calle de las galerías de Mitte, con un bar de cócteles muy concurrido y terraza en la azotea en verano.",
- "tip":"Los cuartos son chicos: si viajás con mucha valija, pedí una categoría más. Estás a dos cuadras de Rosenthaler Platz y de Hackescher Markt.",
- "tags":["hotel","diseño","céntrico","cócteles","terraza"],
- "sources":["https://hotelsvetted.pages.dev/germany/berlin/"],
- "check":"figura en guía de hoteles de 2026 como AMANO Berlin en Mitte; dirección de conocimiento previo"},
-
-{"cat":"dormir","sub":"Boutique","name":"Michelberger Hotel","barrio":"Friedrichshain","address":"Warschauer Straße 39-40","price":2,
- "desc":"Una vieja fábrica convertida en el hotel más berlinés de todos: cuartos creativos, patio con música, restaurante de granja propia y cero formalidad.",
- "tip":"Está frente a la estación Warschauer Straße, ideal para salir de noche. Los cuartos al patio son más silenciosos que los de la avenida.",
- "tags":["boutique","diseño","patio","música","noche"],"q":3,
- "sources":["https://guide.michelin.com/ca/fr/hotels-stays/berlin/michelberger-hotel-7077","https://www.timeout.com/berlin/hotels/michelberger-hotel"],
- "check":"abierto, listado en la Guía Michelin de hoteles y Time Out"},
-
-{"cat":"dormir","sub":"Boutique","name":"Hotel Oderberger","barrio":"Prenzlauer Berg","address":"Oderberger Straße 57","price":3,
- "desc":"Un baño público de 1898 restaurado como hotel: la pileta histórica, bajo arcos de piedra, sigue ahí y los huéspedes pueden nadar en ella.",
- "tip":"Confirmá que la pileta esté habilitada en tus fechas: cierra por mantenimiento y por eventos. La calle es de las más lindas del barrio.",
- "tags":["boutique","pileta","arquitectura","historia"],
- "sources":["https://www.travelocity.com/Berlin-Hotels-Hotel-Oderberger-Berlin.h9713869.Hotel-Information"],
- "check":"abierto según buscadores; la pileta cerró por mantenimiento en julio y agosto de 2026"},
-
-{"cat":"dormir","sub":"Boutique","name":"25hours Hotel Bikini Berlin","barrio":"Charlottenburg","address":"Budapester Straße 40","price":3,
- "desc":"Onda \"jungla urbana\" con cuartos que miran directo a los monos del Zoo, hamacas, bicis y arriba el Monkey Bar con una de las mejores vistas.",
- "tip":"Pedí cuarto del lado \"Jungle\" para ver el zoológico. Renovaron baños y cuartos en 2025. Al atardecer el bar de la terraza se llena: subí temprano.",
- "tags":["boutique","diseño","vista","terraza","bar"],"q":3,
- "sources":["https://www.tageskarte.io/hotellerie/detail/25hours-hotel-sichert-sich-standort-im-bikini-berlin-bis-2044.html","https://guide.michelin.com/de/de/hotels-stays/berlin/25hours-hotel-bikini-berlin-7128"],
- "check":"abierto y renovado en 2025; contrato extendido hasta 2044 según prensa del sector"},
-
-{"cat":"dormir","sub":"Boutique","name":"Provocateur Berlin","barrio":"Wilmersdorf","address":"Brandenburgische Straße 21","price":3,
- "desc":"Un edificio de 1911 decorado como el París de los años 20: terciopelo rojo, ascensor antiguo y un bar oscuro y sensual.",
- "tip":"Queda a unos minutos a pie de la Kurfürstendamm. Es para parejas más que para familias.",
- "tags":["boutique","diseño","bar","cócteles"],
- "sources":["https://www.schlemmer-atlas.de/hotels/deutschland/berlin/provocateur-hotel-berlin/","https://www.travelocity.com/Berlin-Hotels-Provocateur.h12718359.Hotel-Reviews"],
- "check":"abierto, con tarifas de 2026 en buscadores; ahora parte de Sircle Collection"},
-
-{"cat":"dormir","sub":"Boutique","name":"Orania.Berlin","barrio":"Kreuzberg","address":"Oranienstraße 40","price":3,
- "desc":"Un hotel elegante y cálido en pleno Kreuzberg, con chimenea, piano de cola, conciertos en el salón y un restaurante famoso por su pato.",
- "tip":"Está sobre Oranienplatz, rodeado de bares y restaurantes. Mirá la agenda de música en vivo: suele ser abierta al público.",
- "tags":["boutique","música","jazz","diseño"],"award":"Guía Michelin 2025 · 1 Llave",
- "sources":["https://guide.michelin.com/ch/de/article/travel/alle-michelin-key-hotels-in-deutschland"],
- "check":"abierto; figura con 1 Llave en la selección Michelin de hoteles 2025"},
-
-{"cat":"dormir","sub":"Boutique","name":"Hotel Zoo Berlin","barrio":"Charlottenburg","address":"Kurfürstendamm 25","price":3,
- "desc":"El hotel donde paraban las estrellas del festival de cine en los años 50, renovado con aire de club neoyorquino, alfombra verde y terraza en invierno.",
- "tip":"Está sobre la Ku'damm, la avenida de compras del oeste. Los cuartos al patio son los más tranquilos.",
- "tags":["boutique","diseño","historia","compras","cine"],"award":"Guía Michelin 2025 · 1 Llave",
- "sources":["https://guide.michelin.com/ch/de/article/travel/alle-michelin-key-hotels-in-deutschland","https://guide.michelin.com/no/en/hotels-stays/berlin/hotel-zoo-7579"],
- "check":"abierto; sumado a las Llaves Michelin en octubre de 2025"},
-
-{"cat":"dormir","sub":"Boutique","name":"SO/ Berlin Das Stue","barrio":"Tiergarten","address":"Drakestraße 1","price":4,
- "desc":"La antigua embajada de Dinamarca de los años 30, pegada al Zoo: desde algunos cuartos y desde el bar se ven los avestruces. Diseño de Patricia Urquiola.",
- "tip":"Es de lo más tranquilo del centro, con el parque Tiergarten en la puerta. Hay versiones de que cambia de nombre a Sofitel en 2027.",
- "tags":["boutique","diseño","lujo","tranquilo","5 estrellas"],
- "sources":["https://www.visitberlin.de/en/hotel/so-berlin-das-stue","https://hospitality-on.com/en/brand/das-stue-danish-salon-under-french-flag"],
- "check":"abierto según visitberlin; posible cambio de marca en 2027 según una sola fuente"},
-
-{"cat":"dormir","sub":"Boutique","name":"Telegraphenamt","barrio":"Mitte","address":"Monbijoustraße 11","price":4,
- "desc":"La vieja central de telégrafos de la ciudad convertida en hotel: ladrillo, techos altísimos y cuartos sobrios, entre la Isla de los Museos y Oranienburger Straße.",
- "tip":"Tiene pocos cuartos y se llena: reservá con anticipación. Abajo hay restaurante y bar muy concurridos.",
- "tags":["boutique","arquitectura","historia","diseño","céntrico"],"award":"Guía Michelin 2025 · 2 Llaves",
- "sources":["https://guide.michelin.com/ca/en/article/travel/historic-gems-key-hotels-berlin-michelin-guide"],
- "check":"figura con 2 Llaves en la Guía Michelin de hoteles; dirección de conocimiento previo, sin confirmar en esta sesión"},
-
-{"cat":"dormir","sub":"Boutique","name":"Wilmina","barrio":"Charlottenburg","address":"Kantstraße 79","price":3,
- "desc":"Una cárcel de mujeres del siglo XIX escondida en un patio, transformada en un hotel luminoso y silencioso con jardín, sauna y pileta chica en la terraza.",
- "tip":"Desde la calle no se ve: se entra por el antiguo juzgado. El restaurante Lovis, en el mismo patio, vale la cena.",
- "tags":["boutique","joya oculta","arquitectura","jardín","tranquilo"],"award":"Guía Michelin 2025 · 1 Llave",
- "sources":["https://guide.michelin.com/ch/de/article/travel/alle-michelin-key-hotels-in-deutschland"],
- "check":"figura con 1 Llave Michelin según nota de la guía; dirección de conocimiento previo, sin confirmar en esta sesión"},
-
-{"cat":"dormir","sub":"Lujo","name":"Hotel Adlon Kempinski","barrio":"Mitte","address":"Unter den Linden 77","price":4,
- "desc":"El gran hotel de Berlín desde 1907, reconstruido frente a la Puerta de Brandeburgo. Por su lobby pasaron reyes, presidentes y estrellas.",
- "tip":"Aunque no te alojes, podés tomar un café o el té de la tarde en el lobby, con la fuente de los elefantes. Conviene reservar mesa.",
- "tags":["lujo","5 estrellas","clásico","historia","céntrico"],"top":true,"q":3,"award":"Guía Michelin 2025 · 1 Llave",
- "sources":["https://guide.michelin.com/de/de/hotels-stays/berlin/hotel-adlon-kempinski-6421","https://www.kempinski.com/en/hotel-adlon/overview/hotel-information/awards"],
- "check":"abierto; 1 Llave Michelin 2025 según Michelin y la web del hotel"},
-
-{"cat":"dormir","sub":"Lujo","name":"The Ritz-Carlton, Berlin","barrio":"Tiergarten","address":"Potsdamer Platz 3","price":4,
- "desc":"Una torre estilo rascacielos de Chicago sobre Potsdamer Platz, renovada con aire de los años 20: mármol, bar de cócteles y spa con pileta.",
- "tip":"Estás a pasos de la Filarmónica, el Tiergarten y el memorial del Holocausto. Buena opción si viajás por conciertos o por el festival de cine.",
- "tags":["lujo","5 estrellas","pileta","cócteles"],"q":3,"award":"Guía Michelin 2025 · 2 Llaves",
- "sources":["https://guide.michelin.com/de/de/hotels-stays/berlin/the-ritz-carlton-berlin-9027","https://www.forbestravelguide.com/hotels/berlin-germany/the-ritz-carlton-berlin"],
- "check":"abierto; 2 Llaves según su ficha en la Guía Michelin"},
-
-{"cat":"dormir","sub":"Lujo","name":"The Mandala Hotel","barrio":"Tiergarten","address":"Potsdamer Straße 3","price":4,
- "desc":"Cinco estrellas discreto y manejado por sus dueños, con las habitaciones más grandes de la ciudad, spa en la azotea y un restaurante de alta cocina.",
- "tip":"La entrada pasa casi desapercibida, frente al ex Sony Center. Ideal para estadías largas: muchas habitaciones tienen cocina.",
- "tags":["lujo","5 estrellas","tranquilo","alta cocina"],
- "sources":["https://www.top10berlin.de/en/cat/hotels-2485/luxury-hotels-2173/mandala-hotel-2494-2","https://www.berlin.de/hotels/5-sterne-hotels/"],
- "check":"abierto según top10berlin y el listado de 5 estrellas de berlin.de"},
-
-{"cat":"dormir","sub":"Lujo","name":"Waldorf Astoria Berlin","barrio":"Charlottenburg","address":"Hardenbergstraße 28","price":4,
- "desc":"Un rascacielos art déco al lado de la iglesia del Recuerdo, con vistas abiertas al oeste de la ciudad y al Zoo, spa y un café vienés muy elegante.",
- "tip":"Pedí piso alto: la vista es lo mejor del hotel. La estación Zoologischer Garten queda a dos minutos caminando.",
- "tags":["lujo","5 estrellas","vista","compras"],
- "sources":["https://www.berlin.de/hotels/5-sterne-hotels/","https://www.top10berlin.de/de/cat/hotels-2473/luxushotels-1819"],
- "check":"figura en listados de lujo vigentes; número de calle de conocimiento previo, sin confirmar en esta sesión"},
-
-{"cat":"dormir","sub":"Lujo","name":"Patrick Hellmann Schlosshotel","barrio":"Wilmersdorf","address":"Brahmsstraße 10","price":4,
- "desc":"Un palacete de 1914 en el barrio de mansiones de Grunewald, con apenas medio centenar de cuartos, jardín y decoración de sastre de alta costura.",
- "tip":"Es un retiro lejos del centro: conviene si buscás calma y bosque, no si querés salir caminando a los museos.",
- "tags":["lujo","5 estrellas","palacio","jardín","tranquilo"],"award":"Guía Michelin 2025 · 2 Llaves",
- "sources":["https://guide.michelin.com/de/de/hotels-stays/berlin/patrick-hellmann-schlosshotel-4892"],
- "check":"2 Llaves según su ficha en la Guía Michelin; dirección de conocimiento previo, sin confirmar en esta sesión"}
+ {
+  "cat": "tours",
+  "sub": "Visita guiada",
+  "name": "Free walking tours en castellano (a la gorra)",
+  "barrio": "Mitte",
+  "address": "Pariser Platz",
+  "price": 0,
+  "desc": "Caminatas guiadas en castellano por el centro histórico: Puerta de Brandeburgo, memorial del Holocausto, búnker de Hitler y restos del Muro. Pagás lo que te parezca.",
+  "tip": "Reservá lugar por Civitatis o GuruWalk. Casi todos salen de Pariser Platz, pero confirmá el punto de encuentro en tu reserva. Llevá efectivo para la propina.",
+  "tags": [
+   "gratis",
+   "caminar",
+   "historia",
+   "céntrico",
+   "mochileros"
+  ],
+  "sources": [
+   "https://www.civitatis.com/es/berlin/free-tour-berlin/",
+   "https://freewalkingtour.com/es/berlin/bienvenido-a-berlin/"
+  ],
+  "check": "tours en castellano activos en Civitatis, GuruWalk y freewalkingtour.com (2026)"
+ },
+ {
+  "cat": "tours",
+  "sub": "Visita guiada",
+  "name": "Berliner Unterwelten (búnkeres subterráneos)",
+  "barrio": "Wedding",
+  "address": "Brunnenstraße 105",
+  "price": 2,
+  "desc": "Una asociación que te baja a búnkeres antiaéreos de la Segunda Guerra y a túneles de la Guerra Fría, debajo de la estación Gesundbrunnen.",
+  "tip": "Las entradas se venden solo por internet, no en el lugar. Fijate en la web qué recorridos hay en inglés o castellano. Llevá abrigo: abajo hace frío.",
+  "tags": [
+   "historia",
+   "guerra fría",
+   "curiosidad",
+   "lluvia"
+  ],
+  "top": true,
+  "q": 3,
+  "sources": [
+   "https://www.berliner-unterwelten.de/fileadmin/user_upload/berlinerunterwelten/F%C3%BChrungen_Ausstellungen/BUeV_Flyer_ENG_2026-01_WEB.pdf",
+   "https://www.visitberlin.de/de/berliner-unterwelten"
+  ],
+  "check": "programa 2026 publicado en su web; venta solo online"
+ },
+ {
+  "cat": "tours",
+  "sub": "Visita guiada",
+  "name": "Memorial del Muro: visita guiada",
+  "barrio": "Mitte",
+  "address": "Bernauer Straße 119",
+  "price": 1,
+  "desc": "Recorrido guiado por el único tramo donde se ve el Muro completo, con franja de la muerte y torre de vigilancia. Sale del centro de visitantes.",
+  "tip": "El memorial al aire libre es gratis y se puede ver por tu cuenta. Las visitas guiadas públicas tienen fechas puntuales: mirá el calendario en la web.",
+  "tags": [
+   "muro",
+   "guerra fría",
+   "memoria",
+   "historia",
+   "aire libre"
+  ],
+  "sources": [
+   "https://www.stiftung-berliner-mauer.de/de/node/320",
+   "https://www.museumsportal-berlin.de/en/events/ueberblicksfuehrung-in-englischer-sprache-5/"
+  ],
+  "check": "visitas guiadas 2026 listadas por la fundación y museumsportal"
+ },
+ {
+  "cat": "tours",
+  "sub": "Visita guiada",
+  "name": "Cárcel de la Stasi en Hohenschönhausen",
+  "barrio": "Lichtenberg",
+  "address": "Genslerstraße 66",
+  "price": 1,
+  "desc": "La antigua prisión de la policía secreta de la RDA. Las visitas las guían historiadores y ex presos políticos, y se entra a las celdas y salas de interrogatorio.",
+  "tip": "Hay audioguía en castellano. Llegás con el tranvía M5 o M6. Mirá en la web los horarios de las visitas en inglés antes de ir.",
+  "tags": [
+   "historia",
+   "guerra fría",
+   "memoria",
+   "museo"
+  ],
+  "q": 3,
+  "sources": [
+   "https://www.stiftung-hsh.de/en/visit/practical-information",
+   "https://www.berlin.de/en/museums/3109402-3104050-gedenkstaette-berlin-hohenschoenhausen.en.html"
+  ],
+  "check": "abierta según su web y berlin.de; audioguía en castellano según su folleto"
+ },
+ {
+  "cat": "tours",
+  "sub": "Visita guiada",
+  "name": "Estadio Olímpico: visita guiada",
+  "barrio": "Charlottenburg",
+  "address": "Olympischer Platz 3",
+  "price": 2,
+  "desc": "El estadio de los Juegos de 1936 y de la final del Mundial 2006. La visita guiada pasa por vestuarios, palcos y la arquitectura monumental de la época nazi.",
+  "tip": "Los días de partido o recital no hay visitas: mirá el calendario antes. Llegás con la U2 o la S-Bahn hasta Olympiastadion.",
+  "tags": [
+   "estadio",
+   "historia",
+   "arquitectura"
+  ],
+  "sources": [
+   "https://www.berlin.de/tourismus/insidertipps/3132866-2339440-olympiastadion-fuehrungen-durch-kabinen-.html"
+  ],
+  "check": "visitas guiadas vigentes; desde la temporada 2026/27 también hay visitas los días de partido (revisado el 14/11/2026)"
+ },
+ {
+  "cat": "tours",
+  "sub": "Temático",
+  "name": "Paseo en barco por el Spree",
+  "barrio": "Mitte",
+  "address": "Reichstagufer 18",
+  "price": 2,
+  "desc": "Una hora navegando por el centro: Isla de los Museos, Catedral, Reichstag y el barrio del gobierno vistos desde el agua.",
+  "tip": "Empresas: Reederei Riedel o Stern und Kreis. Salen de Friedrichstraße, Nikolaiviertel y Hauptbahnhof. En invierno hay menos salidas.",
+  "tags": [
+   "río",
+   "clásico",
+   "fotos",
+   "relajado",
+   "arquitectura"
+  ],
+  "top": true,
+  "q": 3,
+  "sources": [
+   "https://www.visitberlin.de/de/tickets-schifffahrt-spreefahrt-berlin",
+   "https://www.berliner-zeitung.de/article/berlin-schifffahrt-1-stunde-tickets-xqz-2322822"
+  ],
+  "check": "paseos 2026 a la venta en visitberlin; muelle de Riedel en Reichstagufer 18 según listado"
+ },
+ {
+  "cat": "tours",
+  "sub": "Temático",
+  "name": "Bus 100: el city tour barato",
+  "barrio": "Charlottenburg",
+  "address": "Hardenbergplatz",
+  "price": 1,
+  "desc": "Un colectivo de línea que va del Zoo a Alexanderplatz pasando por la Columna de la Victoria, el Reichstag, la Puerta de Brandeburgo y Unter den Linden.",
+  "tip": "Se viaja con el boleto común de transporte (zona AB). Sentate arriba y adelante si el coche es de dos pisos. Evitá la hora pico.",
+  "tags": [
+   "económico",
+   "clásico",
+   "fotos",
+   "lluvia",
+   "céntrico"
+  ],
+  "q": 3,
+  "sources": [
+   "https://www.bvg.de/de/touristen/sightseeing",
+   "https://www.travelbook.de/ziele/staedte/bus-100-berlin-sightseeing"
+  ],
+  "check": "recorrido confirmado en bvg.de"
+ },
+ {
+  "cat": "tours",
+  "sub": "Temático",
+  "name": "Bus 300: de la Filarmónica a la East Side Gallery",
+  "barrio": "Tiergarten",
+  "address": "Herbert-von-Karajan-Straße 1",
+  "price": 1,
+  "desc": "La otra línea turística del transporte público: Potsdamer Platz, Puerta de Brandeburgo, Unter den Linden, Alexanderplatz y termina junto al Muro pintado.",
+  "tip": "Va con el boleto común (zona AB). Combinalo con el 100: ida en uno y vuelta en el otro, y ves casi todo el centro.",
+  "tags": [
+   "económico",
+   "muro",
+   "fotos",
+   "lluvia"
+  ],
+  "sources": [
+   "https://www.bvg.de/en/tourists/sightseeing",
+   "https://www.tip-berlin.de/berlin-besucher/nahverkehr/buslinie-300-berlin-strecke/"
+  ],
+  "check": "recorrido Philharmonie - Warschauer Straße confirmado en bvg.de"
+ },
+ {
+  "cat": "tours",
+  "sub": "Temático",
+  "name": "Tour en bici por Berlín",
+  "barrio": "Mitte",
+  "address": "Panoramastraße 1a",
+  "price": 2,
+  "desc": "Berlín es chata y llena de bicisendas: en unas horas pedaleando ves el Muro, el Tiergarten y el barrio del gobierno, con paradas y explicación.",
+  "tip": "Empresa: Fat Tire Tours, al pie de la Torre de TV en Alexanderplatz. Los tours son en inglés. Conviene reservar, sobre todo de abril a octubre.",
+  "tags": [
+   "bici",
+   "aire libre",
+   "historia",
+   "muro"
+  ],
+  "sources": [
+   "https://www.fattiretours.com/berlin/faq/",
+   "https://www.fattiretours.com/berlin/tours/city-tour-with-beer-garden/"
+  ],
+  "check": "punto de encuentro y tours vigentes en fattiretours.com"
+ },
+ {
+  "cat": "tours",
+  "sub": "Temático",
+  "name": "Trabi Safari",
+  "barrio": "Mitte",
+  "address": "Zimmerstraße 97",
+  "price": 3,
+  "desc": "Manejás vos mismo un Trabant, el autito de plástico de la Alemania Oriental, en caravana por la ciudad con un guía que habla por radio.",
+  "tip": "Empresa: TrabiWorld, cerca de Checkpoint Charlie. El que maneja necesita licencia de conducir. Entran hasta cuatro personas por auto.",
+  "tags": [
+   "curiosidad",
+   "guerra fría",
+   "fotos",
+   "historia"
+  ],
+  "sources": [
+   "https://www.berlin.de/tickets/freizeit/berlin-compact-trabi-safari-deutsch-1h-15min-721e8d73-77b2-473f-bf1d-a3a1752d371a/"
+  ],
+  "check": "entradas 2026 a la venta en berlin.de"
+ },
+ {
+  "cat": "tours",
+  "sub": "Temático",
+  "name": "Tour de street art y Berlín alternativo",
+  "barrio": "Friedrichshain",
+  "address": "Warschauer Straße 53",
+  "price": 2,
+  "desc": "Caminata por murales, patios ocupados y rincones de la contracultura de Friedrichshain y Kreuzberg, contada por gente de la escena.",
+  "tip": "Empresa: Alternative Berlin Tours (en inglés). El punto de encuentro cambió en 2026: confirmalo al reservar. Hay versiones a la gorra en freewalkingtour.com.",
+  "tags": [
+   "street art",
+   "arte",
+   "caminar",
+   "vida de barrio"
+  ],
+  "sources": [
+   "https://www.top10berlin.de/en/cat/leisure-258/unique-city-walks-1511/alternative-berlin-tours",
+   "https://freewalkingtour.com/es/berlin/berlin-alternativo/"
+  ],
+  "check": "activo con reseñas de octubre de 2026; las fuentes no coinciden del todo en el punto de encuentro"
+ },
+ {
+  "cat": "tours",
+  "sub": "Temático",
+  "name": "Tour gastronómico por Kreuzberg",
+  "barrio": "Kreuzberg",
+  "address": "Kottbusser Tor",
+  "price": 3,
+  "desc": "Unas tres horas probando lo que come Berlín de verdad: döner, currywurst, cocina turca y algo dulce, mientras te cuentan la historia del barrio.",
+  "tip": "Empresas: Secret Food Tours, entre otras. Cada una sale de un lugar distinto de Kreuzberg: mirá el punto de encuentro en tu reserva. Andá con hambre.",
+  "tags": [
+   "degustación",
+   "döner",
+   "currywurst",
+   "vida de barrio",
+   "caminar"
+  ],
+  "sources": [
+   "https://freewalkingtour.com/berlin/berlin-food-tour/",
+   "https://www.berlin.de/en/tickets/education-lectures/food-tour-kreuzberg-culinary/2026-10-21-xfood-tour-kreuzberg-kulinarisch-80640835-4d1f-4ba7-bdd1-401247db57fa/"
+  ],
+  "check": "tours con fechas de 2026 en berlin.de; el punto de encuentro depende de la empresa"
+ },
+ {
+  "cat": "tours",
+  "sub": "Temático",
+  "name": "Tercer Reich y Guerra Fría a pie",
+  "barrio": "Mitte",
+  "address": "Pariser Platz",
+  "price": 2,
+  "desc": "Caminata temática por los lugares del nazismo y de la ciudad dividida: el barrio del gobierno, el sitio del búnker de Hitler, el Muro y Checkpoint Charlie.",
+  "tip": "Empresa: Insider Tour Berlin (en inglés); en castellano hay versiones por Civitatis. Suele salir de la oficina de turismo de la Puerta de Brandeburgo.",
+  "tags": [
+   "historia",
+   "guerra fría",
+   "muro",
+   "memoria",
+   "caminar"
+  ],
+  "sources": [
+   "https://www.civitatis.com/en/berlin/third-reich-tour",
+   "https://www.headout.com/walking-tours/cold-war-berlin-e-18154/"
+  ],
+  "check": "tours a la venta en 2026 en varios revendedores; punto de encuentro según la reserva"
+ },
+ {
+  "cat": "escapadas",
+  "sub": "Ciudad",
+  "name": "Potsdam",
+  "barrio": "Fuera de Berlín",
+  "address": "Alter Markt, Potsdam",
+  "price": 1,
+  "desc": "La ciudad de los reyes de Prusia, a media hora: palacios, parques enormes, un centro barroco y lagos por todos lados. La excursión número uno desde Berlín.",
+  "tip": "Llegás con la S7 o un tren regional hasta Potsdam Hauptbahnhof; necesitás boleto de zona ABC. Dedicale el día entero.",
+  "tags": [
+   "palacio",
+   "historia",
+   "arquitectura",
+   "tren",
+   "jardín"
+  ],
+  "top": true,
+  "q": 3,
+  "sources": [
+   "https://www.visitberlin.de/de/tickets/sanssouci-tagesticket-fuer-schloesser-gaerten",
+   "https://thebettervacation.com/de/Berlin/Die-besten-Tagesausfl%C3%BCge-ab-Berlin/"
+  ],
+  "check": "destino vigente; palacios abiertos según spsg.de salvo Cecilienhof"
+ },
+ {
+  "cat": "escapadas",
+  "sub": "Ciudad",
+  "name": "Barrio Holandés de Potsdam",
+  "barrio": "Fuera de Berlín",
+  "address": "Mittelstraße, Potsdam",
+  "price": 0,
+  "desc": "Cuatro manzanas de casitas de ladrillo rojo construidas en el siglo XVIII para artesanos holandeses. Hoy están llenas de cafés, anticuarios y tiendas chicas.",
+  "tip": "Queda a unos minutos a pie del centro de Potsdam, camino a Sanssouci. Ideal para almorzar o merendar en la escapada.",
+  "tags": [
+   "arquitectura",
+   "café",
+   "caminar",
+   "fotos",
+   "compras"
+  ],
+  "sources": [
+   "https://thebettervacation.com/de/Berlin/Die-besten-Tagesausfl%C3%BCge-ab-Berlin/"
+  ],
+  "check": "barrio histórico; no se verificó cada local"
+ },
+ {
+  "cat": "escapadas",
+  "sub": "Ciudad",
+  "name": "Dresde",
+  "barrio": "Fuera de Berlín",
+  "address": "Neumarkt, Dresde",
+  "price": 2,
+  "desc": "La «Florencia del Elba»: la Frauenkirche reconstruida, el palacio Zwinger y un casco barroco que renació después de la guerra.",
+  "tip": "En tren rápido es menos de dos horas desde Berlin Hauptbahnhof. Salí temprano y volvé a la noche; sacá el pasaje con anticipación, que es más barato.",
+  "tags": [
+   "arquitectura",
+   "historia",
+   "arte",
+   "tren",
+   "río"
+  ],
+  "q": 3,
+  "sources": [
+   "https://thebettervacation.com/de/Berlin/Dresden/",
+   "https://everyrail.com/de/zuege/berlin-nach-dresden/"
+  ],
+  "check": "tiempos de tren 2026 según guías de trenes"
+ },
+ {
+  "cat": "escapadas",
+  "sub": "Ciudad",
+  "name": "Leipzig",
+  "barrio": "Fuera de Berlín",
+  "address": "Markt, Leipzig",
+  "price": 2,
+  "desc": "La ciudad de Bach y de las marchas que tumbaron a la RDA: iglesias históricas, pasajes comerciales elegantes y una movida joven y creativa.",
+  "tip": "En tren rápido es poco más de una hora desde Berlin Hauptbahnhof. El centro se recorre todo a pie desde la estación.",
+  "tags": [
+   "música",
+   "historia",
+   "arquitectura",
+   "tren",
+   "cultura"
+  ],
+  "sources": [
+   "https://thebettervacation.com/de/Berlin/Die-besten-Tagesausfl%C3%BCge-ab-Berlin/"
+  ],
+  "check": "recomendada como excursión de un día en guía 2026; duración del tren de conocimiento previo"
+ },
+ {
+  "cat": "escapadas",
+  "sub": "Ciudad",
+  "name": "Wittenberg, la ciudad de Lutero",
+  "barrio": "Fuera de Berlín",
+  "address": "Schlossplatz, Lutherstadt Wittenberg",
+  "price": 2,
+  "desc": "El pueblo donde Lutero clavó sus 95 tesis y empezó la Reforma. Se ven la iglesia del castillo, su casa y un casco antiguo chico y prolijo.",
+  "tip": "En tren rápido tardás unos 40 minutos; en regional, alrededor de una hora. De la estación al centro hay una caminata corta.",
+  "tags": [
+   "historia",
+   "religioso",
+   "pueblo",
+   "tren",
+   "arquitectura"
+  ],
+  "sources": [
+   "https://thebettervacation.com/de/Berlin/Die-besten-Tagesausfl%C3%BCge-ab-Berlin/",
+   "https://www.nordkurier.de/regional/brandenburg/fahrplanwechsel-bringt-viele-aenderungen-eine-uebersicht-4190238"
+  ],
+  "check": "tiempos de tren según guía y nota de prensa"
+ },
+ {
+  "cat": "escapadas",
+  "sub": "Palacios y jardines",
+  "name": "Palacio de Sanssouci",
+  "barrio": "Fuera de Berlín",
+  "address": "Maulbeerallee, Potsdam",
+  "price": 2,
+  "desc": "El palacio de verano de Federico el Grande, arriba de unas terrazas de viñedos. Chico, rococó y rodeado de un parque inmenso con fuentes y pabellones.",
+  "tip": "Las entradas son con horario y se agotan: compralas antes por internet. El parque es gratis. Desde Potsdam Hbf tomá el bus 695.",
+  "tags": [
+   "palacio",
+   "jardín",
+   "historia",
+   "arquitectura",
+   "fotos"
+  ],
+  "top": true,
+  "q": 3,
+  "award": "Patrimonio UNESCO",
+  "sources": [
+   "https://www.spsg.de/en/palaces-gardens/",
+   "https://www.visitberlin.de/de/tickets/sanssouci-tagesticket-fuer-schloesser-gaerten"
+  ],
+  "check": "abierto según spsg.de y entradas 2026 en visitberlin"
+ },
+ {
+  "cat": "escapadas",
+  "sub": "Palacios y jardines",
+  "name": "Nuevo Palacio de Potsdam",
+  "barrio": "Fuera de Berlín",
+  "address": "Am Neuen Palais, Potsdam",
+  "price": 2,
+  "desc": "El palacio más grande del parque de Sanssouci, hecho para impresionar: salones de mármol, una gruta de caracoles y cientos de habitaciones.",
+  "tip": "Está en la otra punta del parque: es una linda caminata desde Sanssouci. En invierno solo se entra con visita guiada. Cierra los martes.",
+  "tags": [
+   "palacio",
+   "arquitectura",
+   "historia",
+   "jardín"
+  ],
+  "closed": [
+   2
+  ],
+  "sources": [
+   "https://www.spsg.de/en/palaces-gardens/object/new-palace/",
+   "https://www.spsg.de/fileadmin/user_upload/pdf/Gruppenpreise/20251201_SPSG_Gruppenpreise_2026.pdf"
+  ],
+  "check": "abierto según spsg.de (tarifas y días 2026)"
+ },
+ {
+  "cat": "escapadas",
+  "sub": "Palacios y jardines",
+  "name": "Isla de los Pavos Reales (Pfaueninsel)",
+  "barrio": "Zehlendorf",
+  "address": "Nikolskoer Weg",
+  "price": 1,
+  "desc": "Una isla sin autos en el río Havel, con pavos reales sueltos, bosque y un castillito blanco de cuento que reabrió después de años de obra.",
+  "tip": "S-Bahn hasta Wannsee, bus 218 y un ferry que cruza en pocos minutos. No se puede fumar ni llevar bicis ni perros. El castillo se ve con visita guiada.",
+  "tags": [
+   "isla",
+   "naturaleza",
+   "palacio",
+   "tranquilo",
+   "chicos"
+  ],
+  "award": "Patrimonio UNESCO",
+  "sources": [
+   "https://www.berlin.de/tourismus/dampferfahrten/faehren/1828176-1824660-faehre-zur-pfaueninsel.html",
+   "https://www.entwicklungsstadt.de/aus-dem-dornroeschenschlaf-schloss-pfaueninsel-nach-sanierung-wieder-geoeffnet/"
+  ],
+  "check": "ferry con horario de invierno 2026-27 en berlin.de; castillo reabierto tras la obra, con visitas guiadas"
+ },
+ {
+  "cat": "escapadas",
+  "sub": "Palacios y jardines",
+  "name": "Parque de Babelsberg",
+  "barrio": "Fuera de Berlín",
+  "address": "Park Babelsberg 10, Potsdam",
+  "price": 0,
+  "desc": "Un parque inglés sobre el río Havel con un castillo neogótico y vistas al puente de los espías. Mucho más tranquilo que Sanssouci.",
+  "tip": "El parque es gratis. El interior del castillo sigue en obra y solo abre con visitas especiales. S7 hasta Babelsberg y un tramo en bus o a pie.",
+  "tags": [
+   "jardín",
+   "palacio",
+   "río",
+   "tranquilo",
+   "caminar"
+  ],
+  "sources": [
+   "https://www.museumsportal-berlin.de/en/events/schloss-babelsberg-zeit-ge-schichten-2/",
+   "https://www.spsg.de/en/palaces-gardens/"
+  ],
+  "check": "parque abierto; interior del castillo solo con visitas especiales según museumsportal 2026"
+ },
+ {
+  "cat": "escapadas",
+  "sub": "Palacios y jardines",
+  "name": "Palacio de Oranienburg",
+  "barrio": "Fuera de Berlín",
+  "address": "Schloßplatz 1, Oranienburg",
+  "price": 1,
+  "desc": "El palacio barroco más antiguo de la región, con una colección de porcelana y platería de la corte. Se combina bien con el memorial de Sachsenhausen.",
+  "tip": "S1 o tren regional hasta Oranienburg (zona ABC) y unos minutos a pie. Por dentro se recorre con visita guiada: fijate antes qué días abre.",
+  "tags": [
+   "palacio",
+   "historia",
+   "museo",
+   "tren"
+  ],
+  "sources": [
+   "https://www.museumsportal-berlin.de/de/museen/schlossmuseum-oranienburg/",
+   "https://www.spsg.de/fileadmin/user_upload/pdf/Gruppenpreise/20251201_SPSG_Gruppenpreise_2026.pdf"
+  ],
+  "check": "abierto en 2026 según museumsportal y spsg.de; días de invierno sin confirmar"
+ },
+ {
+  "cat": "escapadas",
+  "sub": "Palacios y jardines",
+  "name": "Palacio de Rheinsberg",
+  "barrio": "Fuera de Berlín",
+  "address": "Schloss 2, Rheinsberg",
+  "price": 1,
+  "desc": "Un palacio que se refleja en un lago, donde Federico el Grande pasó sus años más felices. Pueblo chico, bosque y paseos en barco alrededor.",
+  "tip": "Es lejos: unas dos horas en tren regional con trasbordo, o en auto. Mejor de abril a octubre; cierra los lunes y en invierno abre menos.",
+  "tags": [
+   "palacio",
+   "lago",
+   "pueblo",
+   "naturaleza",
+   "tranquilo"
+  ],
+  "closed": [
+   1
+  ],
+  "sources": [
+   "https://www.museumsportal-berlin.de/de/museen/schloss-rheinsberg/",
+   "https://www.spsg.de/fileadmin/user_upload/pdf/Gruppenpreise/20251201_SPSG_Gruppenpreise_2026.pdf"
+  ],
+  "check": "temporada 2026 y dirección según museumsportal; cómo llegar en tren es de conocimiento previo"
+ },
+ {
+  "cat": "escapadas",
+  "sub": "Naturaleza y lagos",
+  "name": "Spreewald (Lübbenau)",
+  "barrio": "Fuera de Berlín",
+  "address": "Großer Spreewaldhafen, Dammstraße, Lübbenau",
+  "price": 2,
+  "desc": "Un laberinto de canales entre bosques donde te llevan en bote a pértiga, como en una Venecia campestre. Famoso por sus pepinos en vinagre.",
+  "tip": "Tren regional RE2 hasta Lübbenau, alrededor de una hora, y unos minutos a pie hasta el puerto. Los botes funcionan sobre todo de marzo a octubre.",
+  "tags": [
+   "naturaleza",
+   "río",
+   "pueblo",
+   "tren",
+   "tradición"
+  ],
+  "q": 3,
+  "award": "Reserva de la Biosfera UNESCO",
+  "sources": [
+   "https://www.reiseland-brandenburg.de/poi/spreewald/kahnfahrten/grosser-spreewaldhafen-luebbenau/",
+   "https://www.berlin.de/tourismus/brandenburg/1160734-1098592-l%C3%BCbbenauundlehde.html"
+  ],
+  "check": "puerto y temporada según berlin.de y reiseland-brandenburg; número de puerta sin confirmar"
+ },
+ {
+  "cat": "escapadas",
+  "sub": "Naturaleza y lagos",
+  "name": "Müggelsee",
+  "barrio": "Köpenick",
+  "address": "Müggelseedamm, Friedrichshagen",
+  "price": 0,
+  "desc": "El lago más grande de Berlín, en el sudeste: costanera, cervecerías con vista al agua, barquitos y bosque para caminar o andar en bici.",
+  "tip": "S3 hasta Friedrichshagen y bajás caminando por la Bölschestraße hasta la orilla. El balneario de Rahnsdorf estuvo en obra durante 2026.",
+  "tags": [
+   "lago",
+   "naturaleza",
+   "aire libre",
+   "bici",
+   "fin de semana"
+  ],
+  "sources": [
+   "https://www.entwicklungsstadt.de/strandbad-mueggelsee-so-laeuft-die-sanierung-in-rahnsdorf/",
+   "https://www.berliner-zeitung.de/article/berlins-groesster-see-hier-kostet-der-badetag-6-euro-und-im-august-fliegen-bmx-raeder-vom-steg-10248726"
+  ],
+  "check": "lago de acceso libre; obra del balneario según prensa 2026; cómo llegar de conocimiento previo"
+ },
+ {
+  "cat": "escapadas",
+  "sub": "Naturaleza y lagos",
+  "name": "Schlachtensee",
+  "barrio": "Zehlendorf",
+  "address": "Am Schlachtensee",
+  "price": 0,
+  "desc": "Un lago angosto rodeado de bosque, con agua limpia y un sendero que le da toda la vuelta. El preferido de los berlineses para nadar y correr.",
+  "tip": "La S1 te deja en la estación Schlachtensee, a metros del agua (zona AB). La vuelta completa a pie lleva algo más de una hora.",
+  "tags": [
+   "lago",
+   "naturaleza",
+   "correr",
+   "picnic",
+   "tranquilo"
+  ],
+  "sources": [
+   "https://www.visitberlin.de/de/schlachtensee"
+  ],
+  "check": "lago público, con camino alrededor y S-Bahn propia (revisado el 14/11/2026)"
+ },
+ {
+  "cat": "escapadas",
+  "sub": "Naturaleza y lagos",
+  "name": "Werder (Havel)",
+  "barrio": "Fuera de Berlín",
+  "address": "Inselstadt, Werder (Havel)",
+  "price": 1,
+  "desc": "Un pueblito de pescadores sobre una isla del río Havel, rodeado de frutales. En primavera se llena por la fiesta de los árboles en flor y el vino de fruta.",
+  "tip": "Tren regional RE1 desde Berlin Hauptbahnhof, pasando Potsdam (zona C). De la estación a la isla hay un tramo en bus o una caminata larga.",
+  "tags": [
+   "pueblo",
+   "isla",
+   "río",
+   "naturaleza",
+   "tren"
+  ],
+  "sources": [
+   "https://www.reiseland-brandenburg.de/orte-regionen/top-orte/werder-havel/"
+  ],
+  "check": "pueblo sobre una isla del Havel, con tren regional desde Berlín (revisado el 14/11/2026)"
+ },
+ {
+  "cat": "escapadas",
+  "sub": "Naturaleza y lagos",
+  "name": "Suiza Sajona y el puente de Bastei",
+  "barrio": "Fuera de Berlín",
+  "address": "Basteistraße, Lohmen",
+  "price": 2,
+  "desc": "Torres de roca arenisca sobre el río Elba y un puente de piedra colgado entre ellas. El paisaje más espectacular a tiro de tren de Berlín.",
+  "tip": "Es excursión larga: tren a Dresde, después la S1 hasta Kurort Rathen, cruzás el río en ferry y subís a pie. El acceso al puente es libre.",
+  "tags": [
+   "naturaleza",
+   "mirador",
+   "caminar",
+   "fotos",
+   "tren"
+  ],
+  "sources": [
+   "https://www.saechsische-schweiz.de/urlaubsregion/highlights/bastei",
+   "https://www.saechsische-schweiz.de/wanderungen/kurort-rathen-bastei-schwedenloecher"
+  ],
+  "check": "accesible todo el año según la web oficial; un sitio de senderos marcaba un tramo cerrado en octubre de 2026"
+ },
+ {
+  "cat": "escapadas",
+  "sub": "Historia y memoria",
+  "name": "Memorial de Sachsenhausen",
+  "barrio": "Fuera de Berlín",
+  "address": "Straße der Nationen 22, Oranienburg",
+  "price": 0,
+  "desc": "El campo de concentración que los nazis usaron como modelo, al norte de Berlín. Hoy es memorial y museo: una visita dura, pero necesaria.",
+  "tip": "Entrada libre. S1 o tren regional hasta Oranienburg (zona ABC) y de ahí bus o unos 20 minutos a pie. Calculá medio día y abrigate: es todo abierto.",
+  "tags": [
+   "memoria",
+   "historia",
+   "gratis",
+   "museo",
+   "tren"
+  ],
+  "top": true,
+  "q": 3,
+  "sources": [
+   "https://www.visitberlin.de/de/gedenkstaette-sachsenhausen",
+   "https://www.stiftung-bg.de/en/news/bus-stop-relocated/"
+  ],
+  "check": "abierto según la fundación (avisos de 2026); la parada del bus se mudó en julio de 2026"
+ },
+ {
+  "cat": "escapadas",
+  "sub": "Historia y memoria",
+  "name": "Casa de la Conferencia de Wannsee",
+  "barrio": "Zehlendorf",
+  "address": "Am Großen Wannsee 56-58",
+  "price": 0,
+  "desc": "La villa junto al lago donde en 1942 los jerarcas nazis organizaron el exterminio de los judíos de Europa. Hoy es un museo sobrio y muy bien hecho.",
+  "tip": "Entrada libre. S1 o S7 hasta Wannsee y el bus 114 te deja en la puerta. Cierra algunos feriados.",
+  "tags": [
+   "memoria",
+   "historia",
+   "gratis",
+   "museo",
+   "lago"
+  ],
+  "q": 3,
+  "sources": [
+   "https://www.visitberlin.de/de/node/15900",
+   "https://www.ghwk.de/en/exhibition"
+  ],
+  "check": "abierta según visitberlin y su web (2026)"
+ },
+ {
+  "cat": "escapadas",
+  "sub": "Historia y memoria",
+  "name": "Puente Glienicke (puente de los espías)",
+  "barrio": "Zehlendorf",
+  "address": "Königstraße",
+  "price": 0,
+  "desc": "El puente de hierro entre Berlín y Potsdam donde las dos Alemanias intercambiaban espías en la Guerra Fría. La frontera pasaba justo por el medio.",
+  "tip": "Llegás en bus desde la estación Wannsee o en tranvía desde Potsdam Hauptbahnhof. Buscá en el piso la línea que marca la antigua frontera.",
+  "tags": [
+   "guerra fría",
+   "historia",
+   "río",
+   "fotos",
+   "gratis"
+  ],
+  "sources": [
+   "https://berlin.de/mauer/en/wall-trail/western-route/from-griebnitzsee-to-wannsee/house-of-the-wannsee-conference-473100.en.php"
+  ],
+  "check": "puente público sobre la ruta del Muro (berlin.de); cómo llegar de conocimiento previo"
+ },
+ {
+  "cat": "escapadas",
+  "sub": "Historia y memoria",
+  "name": "Memorial de Ravensbrück",
+  "barrio": "Fuera de Berlín",
+  "address": "Straße der Nationen, Fürstenberg/Havel",
+  "price": 0,
+  "desc": "El mayor campo de concentración para mujeres del nazismo, a orillas de un lago. Menos visitado que Sachsenhausen y muy conmovedor.",
+  "tip": "Entrada libre. Tren regional RE5 hasta Fürstenberg/Havel, alrededor de una hora y media, y después una caminata señalizada.",
+  "tags": [
+   "memoria",
+   "historia",
+   "gratis",
+   "museo",
+   "tren"
+  ],
+  "sources": [
+   "https://www.berlin.de/tourismus/brandenburg/1179066-1098592-ravensbr%C3%BCckgedenkst%C3%A4ttefrauenkonzentra.html",
+   "https://www.brandenburg-tourism.com/poi/ruppiner-seenland/museums/ravensbrueck-memorial-site-fuerstenberg-strich-havel"
+  ],
+  "check": "abierto con actos y visitas en 2026 según la fundación y berlin.de"
+ },
+ {
+  "cat": "dormir",
+  "sub": "Hostel",
+  "name": "The Circus Hostel",
+  "barrio": "Mitte",
+  "address": "Weinbergsweg 1a",
+  "price": 1,
+  "desc": "El hostel más querido de Berlín: limpio, con buena onda, cervecería propia en el sótano y actividades todos los días.",
+  "tip": "Está sobre Rosenthaler Platz, con subte y tranvía en la puerta. Los cuartos a la calle son ruidosos por el tranvía: pedí uno al fondo.",
+  "tags": [
+   "mochileros",
+   "económico",
+   "céntrico",
+   "cerveza"
+  ],
+  "q": 3,
+  "sources": [
+   "https://www.hostelworld.com/hostels/p/703/circus-hostel/",
+   "https://hostelgeeks.com/party-hostels-in-berlin/"
+  ],
+  "check": "abierto, con reseñas de 2026 en Hostelworld"
+ },
+ {
+  "cat": "dormir",
+  "sub": "Hostel",
+  "name": "EastSeven Berlin Hostel",
+  "barrio": "Prenzlauer Berg",
+  "address": "Schwedter Straße 7",
+  "price": 1,
+  "desc": "Hostel chico e independiente, con jardín, cocina y fama de ser el mejor para viajar solo y hacer amigos sin que sea una fiesta eterna.",
+  "tip": "Se llena rápido porque tiene pocas camas: reservá con tiempo. Queda cerca de la estación Senefelderplatz de la U2.",
+  "tags": [
+   "mochileros",
+   "económico",
+   "jardín",
+   "relajado"
+  ],
+  "sources": [
+   "https://www.hostelworld.com/hostels/p/11286/eastseven-berlin-hostel/"
+  ],
+  "check": "abierto, con reseñas de agosto y septiembre de 2026 en Hostelworld; número de calle de conocimiento previo"
+ },
+ {
+  "cat": "dormir",
+  "sub": "Hostel",
+  "name": "Pfefferbett Hostel",
+  "barrio": "Prenzlauer Berg",
+  "address": "Christinenstraße 18-19",
+  "price": 1,
+  "desc": "Un hostel dentro de una antigua cervecería de ladrillo del siglo XIX, con patio, bar y chimenea. Tranquilo y bien ubicado.",
+  "tip": "Ideal si querés dormir bien: es más calmo que otros. Está a pasos de la estación Senefelderplatz y de los bares de Kastanienallee.",
+  "tags": [
+   "mochileros",
+   "económico",
+   "patio",
+   "tranquilo"
+  ],
+  "sources": [
+   "https://www.hostelworld.com/hostels/p/8999/pfefferbett-hostel/",
+   "https://www.hostelz.com/hostel/94221-Pfefferbett-Hostel"
+  ],
+  "check": "abierto según Hostelworld y Hostelz (2026)"
+ },
+ {
+  "cat": "dormir",
+  "sub": "Hostel",
+  "name": "Generator Berlin Mitte",
+  "barrio": "Mitte",
+  "address": "Oranienburger Straße 65",
+  "price": 1,
+  "desc": "Hostel grande y de diseño de una cadena europea, con bar propio, cuartos compartidos y privados, en plena zona de galerías y bares de Mitte.",
+  "tip": "Bueno para grupos y para quien busca ambiente. Las opiniones sobre el mantenimiento son dispares: mirá reseñas recientes antes de reservar.",
+  "tags": [
+   "mochileros",
+   "económico",
+   "céntrico",
+   "bar",
+   "diseño"
+  ],
+  "sources": [
+   "https://www.hostelworld.com/hostels/p/63287/generator-berlin-mitte/",
+   "https://www.timeout.com/berlin/hotels/generator-berlin-mitte"
+  ],
+  "check": "abierto, con reseñas de marzo de 2026 en Hostelworld"
+ },
+ {
+  "cat": "dormir",
+  "sub": "Hostel",
+  "name": "Grand Hostel Berlin Classic",
+  "barrio": "Kreuzberg",
+  "address": "Tempelhofer Ufer 14",
+  "price": 1,
+  "desc": "Un edificio señorial de 1874 frente al canal, con techos altos, biblioteca-bar y camas de verdad en vez de cuchetas. Social sin ser ruidoso.",
+  "tip": "Está al lado de la estación Möckernbrücke (U1 y U7), que te conecta rápido con todo. No aceptan mascotas.",
+  "tags": [
+   "mochileros",
+   "económico",
+   "arquitectura",
+   "relajado"
+  ],
+  "sources": [
+   "https://www.timetomomo.com/en/visit/berlin/accommodation/grand-hostel-berlin-classic",
+   "https://hostelgeeks.com/party-hostels-in-berlin/"
+  ],
+  "check": "abierto, con tarifas de 2026 en buscadores"
+ },
+ {
+  "cat": "dormir",
+  "sub": "Hostel",
+  "name": "St Christopher's Inn Berlin Alexanderplatz",
+  "barrio": "Mitte",
+  "address": "Rosa-Luxemburg-Straße 41",
+  "price": 1,
+  "desc": "Hostel fiestero de una cadena inglesa, con bar grande abajo y descuentos en comida y tragos para los huéspedes. A cuadras de Alexanderplatz.",
+  "tip": "Elegilo si querés salir y conocer gente, no si buscás silencio. La estación Rosa-Luxemburg-Platz de la U2 queda enfrente.",
+  "tags": [
+   "mochileros",
+   "económico",
+   "fiesta",
+   "bar",
+   "céntrico"
+  ],
+  "sources": [
+   "https://st-christophers.co.uk/berlin/hostels",
+   "https://www.st-christophers.co.uk/travel-blog/berlin-hostel-accommodation/"
+  ],
+  "check": "abierto según su web oficial (guía 2026)"
+ },
+ {
+  "cat": "dormir",
+  "sub": "Hostel",
+  "name": "MEININGER Berlin Hauptbahnhof",
+  "barrio": "Moabit",
+  "address": "Ella-Trebe-Straße 9",
+  "price": 1,
+  "desc": "Mitad hotel, mitad hostel, pegado a la estación central: cuartos privados y compartidos, cocina para huéspedes y todo muy prolijo.",
+  "tip": "Práctico si llegás tarde o salís temprano en tren. No tiene aire acondicionado: en pleno verano los cuartos se calientan.",
+  "tags": [
+   "mochileros",
+   "económico",
+   "tren",
+   "chicos"
+  ],
+  "sources": [
+   "https://www.hostelworld.com/hostels/p/35885/meininger-berlin-central-station/"
+  ],
+  "check": "abierto según Hostelworld y buscadores (2026)"
+ },
+ {
+  "cat": "dormir",
+  "sub": "Hotel",
+  "name": "Motel One Berlin-Alexanderplatz",
+  "barrio": "Mitte",
+  "address": "Grunerstraße 11",
+  "price": 2,
+  "desc": "La cadena alemana de hoteles económicos con diseño: cuartos chicos pero impecables, buen bar y una ubicación inmejorable al lado de Alexanderplatz.",
+  "tip": "Pedí un piso alto con vista a la Torre de TV. Motel One tiene varios hoteles más en la ciudad, todos parecidos y confiables.",
+  "tags": [
+   "hotel",
+   "económico",
+   "céntrico",
+   "diseño"
+  ],
+  "sources": [
+   "https://www.motel-one.com/en/hotels/berlin/hotel-berlin-alexanderplatz/",
+   "https://www.berlin.de/hotels/8930187-1686962-motel-one-berlinalexanderplatz.html"
+  ],
+  "check": "abierto según motel-one.com y berlin.de"
+ },
+ {
+  "cat": "dormir",
+  "sub": "Hotel",
+  "name": "The Circus Hotel",
+  "barrio": "Mitte",
+  "address": "Rosenthaler Straße 1",
+  "price": 2,
+  "desc": "El hermano hotelero del Circus Hostel: cuartos coloridos, patio interior, desayuno rico y un personal que te arma el viaje.",
+  "tip": "Los cuartos al patio son los silenciosos. Está sobre Rosenthaler Platz, con la U8 y los tranvías M1 y M8 en la esquina.",
+  "tags": [
+   "hotel",
+   "céntrico",
+   "patio",
+   "desayuno"
+  ],
+  "sources": [
+   "https://circus-berlin.de/?p=7719",
+   "https://circus-berlin.de/?p=410"
+  ],
+  "check": "abierto según el sitio oficial del grupo Circus"
+ },
+ {
+  "cat": "dormir",
+  "sub": "Hotel",
+  "name": "Park Inn by Radisson Berlin Alexanderplatz",
+  "barrio": "Mitte",
+  "address": "Alexanderplatz 7",
+  "price": 2,
+  "desc": "La torre de más de mil habitaciones sobre Alexanderplatz, herencia de la Berlín oriental. Nada íntimo, pero la ubicación y las vistas son imbatibles.",
+  "tip": "Pedí piso alto mirando a la Torre de TV. Desde agosto de 2026 lo maneja Radisson directamente y hay planes de obra en la base del edificio.",
+  "tags": [
+   "hotel",
+   "céntrico",
+   "vista"
+  ],
+  "sources": [
+   "https://www.tageskarte.io/hotellerie/detail/radisson-hotel-group-uebernimmt-management-des-park-inn-berlin-alexanderplatz.html",
+   "https://www.radissonhotels.com/de-de/hotels/park-inn-berlin-alexanderplatz/services"
+  ],
+  "check": "abierto; cambio de gestión en agosto de 2026 según prensa del sector"
+ },
+ {
+  "cat": "dormir",
+  "sub": "Hotel",
+  "name": "Hotel Indigo Berlin - East Side Gallery",
+  "barrio": "Friedrichshain",
+  "address": "Mühlenstraße 13-19",
+  "price": 2,
+  "desc": "Hotel moderno de cadena justo enfrente del tramo pintado del Muro y al lado del estadio cubierto, con terraza en la azotea.",
+  "tip": "Estás a pasos de las estaciones Warschauer Straße y Ostbahnhof. Las noches de recital en el estadio la zona se llena y suben los precios.",
+  "tags": [
+   "hotel",
+   "muro",
+   "moderno",
+   "terraza"
+  ],
+  "sources": [
+   "https://www.berlin.de/hotels/8917323-1686962-hotel-indigo-berlin-east-side-gallery.html"
+  ],
+  "check": "listado vigente en berlin.de (actualizado en agosto de 2025)"
+ },
+ {
+  "cat": "dormir",
+  "sub": "Hotel",
+  "name": "nhow Berlin",
+  "barrio": "Friedrichshain",
+  "address": "Stralauer Allee 3",
+  "price": 3,
+  "desc": "El «hotel de la música» sobre el río Spree: diseño rosa y futurista, estudios de grabación y guitarras que te llevan al cuarto si las pedís.",
+  "tip": "Pedí cuarto con vista al río. Queda a una caminata corta de la East Side Gallery y de la estación Warschauer Straße.",
+  "tags": [
+   "hotel",
+   "diseño",
+   "música",
+   "río",
+   "moderno"
+  ],
+  "sources": [
+   "https://hotelsvetted.pages.dev/germany/berlin/"
+  ],
+  "check": "listado con tarifas en guía de hoteles; número de calle de conocimiento previo"
+ },
+ {
+  "cat": "dormir",
+  "sub": "Hotel",
+  "name": "Lulu Guldsmeden",
+  "barrio": "Tiergarten",
+  "address": "Potsdamer Straße 67",
+  "price": 2,
+  "desc": "Hotel danés con onda ecológica en un edificio de 1850: camas con dosel, madera, productos orgánicos y un restaurante lindo en el patio.",
+  "tip": "Está en la zona de galerías de Potsdamer Straße, a una caminata de Potsdamer Platz. Aceptan mascotas con un cargo extra.",
+  "tags": [
+   "hotel",
+   "diseño",
+   "patio",
+   "tranquilo"
+  ],
+  "sources": [
+   "https://www.visitberlin.de/en/hotel-lulu-guldsmeden-potsdamer-platz",
+   "https://guide.michelin.com/ch/fr/hotels-stays/berlin/lulu-guldsmeden-11084"
+  ],
+  "check": "abierto según visitberlin y la Guía Michelin de hoteles"
+ },
+ {
+  "cat": "dormir",
+  "sub": "Hotel",
+  "name": "Hotel AMANO",
+  "barrio": "Mitte",
+  "address": "Auguststraße 43",
+  "price": 2,
+  "desc": "Hotel de diseño sobrio en la calle de las galerías de Mitte, con un bar de cócteles muy concurrido y terraza en la azotea en verano.",
+  "tip": "Los cuartos son chicos: si viajás con mucha valija, pedí una categoría más. Estás a dos cuadras de Rosenthaler Platz y de Hackescher Markt.",
+  "tags": [
+   "hotel",
+   "diseño",
+   "céntrico",
+   "cócteles",
+   "terraza"
+  ],
+  "sources": [
+   "https://www.amanogroup.com/en/hotels/berlin-mitte-hotel-amano",
+   "https://hotelsvetted.pages.dev/germany/berlin/"
+  ],
+  "check": "Auguststraße 43 confirmada en su web (revisado el 14/11/2026)"
+ },
+ {
+  "cat": "dormir",
+  "sub": "Boutique",
+  "name": "Michelberger Hotel",
+  "barrio": "Friedrichshain",
+  "address": "Warschauer Straße 39-40",
+  "price": 2,
+  "desc": "Una vieja fábrica convertida en el hotel más berlinés de todos: cuartos creativos, patio con música, restaurante de granja propia y cero formalidad.",
+  "tip": "Está frente a la estación Warschauer Straße, ideal para salir de noche. Los cuartos al patio son más silenciosos que los de la avenida.",
+  "tags": [
+   "boutique",
+   "diseño",
+   "patio",
+   "música",
+   "noche"
+  ],
+  "q": 3,
+  "sources": [
+   "https://guide.michelin.com/ca/fr/hotels-stays/berlin/michelberger-hotel-7077",
+   "https://www.timeout.com/berlin/hotels/michelberger-hotel"
+  ],
+  "check": "abierto, listado en la Guía Michelin de hoteles y Time Out"
+ },
+ {
+  "cat": "dormir",
+  "sub": "Boutique",
+  "name": "Hotel Oderberger",
+  "barrio": "Prenzlauer Berg",
+  "address": "Oderberger Straße 57",
+  "price": 3,
+  "desc": "Un baño público de 1898 restaurado como hotel: la pileta histórica, bajo arcos de piedra, sigue ahí y los huéspedes pueden nadar en ella.",
+  "tip": "Confirmá que la pileta esté habilitada en tus fechas: cierra por mantenimiento y por eventos. La calle es de las más lindas del barrio.",
+  "tags": [
+   "boutique",
+   "pileta",
+   "arquitectura",
+   "historia"
+  ],
+  "sources": [
+   "https://www.travelocity.com/Berlin-Hotels-Hotel-Oderberger-Berlin.h9713869.Hotel-Information"
+  ],
+  "check": "abierto según buscadores; la pileta cerró por mantenimiento en julio y agosto de 2026"
+ },
+ {
+  "cat": "dormir",
+  "sub": "Boutique",
+  "name": "25hours Hotel Bikini Berlin",
+  "barrio": "Charlottenburg",
+  "address": "Budapester Straße 40",
+  "price": 3,
+  "desc": "Onda «jungla urbana» con cuartos que miran directo a los monos del Zoo, hamacas, bicis y arriba el Monkey Bar con una de las mejores vistas.",
+  "tip": "Pedí cuarto del lado «Jungle» para ver el zoológico. Renovaron baños y cuartos en 2025. Al atardecer el bar de la terraza se llena: subí temprano.",
+  "tags": [
+   "boutique",
+   "diseño",
+   "vista",
+   "terraza",
+   "bar"
+  ],
+  "q": 3,
+  "sources": [
+   "https://www.tageskarte.io/hotellerie/detail/25hours-hotel-sichert-sich-standort-im-bikini-berlin-bis-2044.html",
+   "https://guide.michelin.com/de/de/hotels-stays/berlin/25hours-hotel-bikini-berlin-7128"
+  ],
+  "check": "abierto y renovado en 2025; contrato extendido hasta 2044 según prensa del sector"
+ },
+ {
+  "cat": "dormir",
+  "sub": "Boutique",
+  "name": "Provocateur Berlin",
+  "barrio": "Wilmersdorf",
+  "address": "Brandenburgische Straße 21",
+  "price": 3,
+  "desc": "Un edificio de 1911 decorado como el París de los años 20: terciopelo rojo, ascensor antiguo y un bar oscuro y sensual.",
+  "tip": "Queda a unos minutos a pie de la Kurfürstendamm. Es para parejas más que para familias.",
+  "tags": [
+   "boutique",
+   "diseño",
+   "bar",
+   "cócteles"
+  ],
+  "sources": [
+   "https://www.schlemmer-atlas.de/hotels/deutschland/berlin/provocateur-hotel-berlin/",
+   "https://www.travelocity.com/Berlin-Hotels-Provocateur.h12718359.Hotel-Reviews"
+  ],
+  "check": "abierto, con tarifas de 2026 en buscadores; ahora parte de Sircle Collection"
+ },
+ {
+  "cat": "dormir",
+  "sub": "Boutique",
+  "name": "Orania.Berlin",
+  "barrio": "Kreuzberg",
+  "address": "Oranienstraße 40",
+  "price": 3,
+  "desc": "Un hotel elegante y cálido en pleno Kreuzberg, con chimenea, piano de cola, conciertos en el salón y un restaurante famoso por su pato.",
+  "tip": "Está sobre Oranienplatz, rodeado de bares y restaurantes. Mirá la agenda de música en vivo: suele ser abierta al público.",
+  "tags": [
+   "boutique",
+   "música",
+   "jazz",
+   "diseño"
+  ],
+  "award": "Guía Michelin 2025 · 1 Llave",
+  "sources": [
+   "https://guide.michelin.com/ch/de/article/travel/alle-michelin-key-hotels-in-deutschland"
+  ],
+  "check": "abierto; figura con 1 Llave en la selección Michelin de hoteles 2025"
+ },
+ {
+  "cat": "dormir",
+  "sub": "Boutique",
+  "name": "Hotel Zoo Berlin",
+  "barrio": "Charlottenburg",
+  "address": "Kurfürstendamm 25",
+  "price": 3,
+  "desc": "El hotel donde paraban las estrellas del festival de cine en los años 50, renovado con aire de club neoyorquino, alfombra verde y terraza en invierno.",
+  "tip": "Está sobre la Ku'damm, la avenida de compras del oeste. Los cuartos al patio son los más tranquilos.",
+  "tags": [
+   "boutique",
+   "diseño",
+   "historia",
+   "compras",
+   "cine"
+  ],
+  "award": "Guía Michelin 2025 · 1 Llave",
+  "sources": [
+   "https://guide.michelin.com/ch/de/article/travel/alle-michelin-key-hotels-in-deutschland",
+   "https://guide.michelin.com/no/en/hotels-stays/berlin/hotel-zoo-7579"
+  ],
+  "check": "abierto; sumado a las Llaves Michelin en octubre de 2025"
+ },
+ {
+  "cat": "dormir",
+  "sub": "Boutique",
+  "name": "SO/ Berlin Das Stue",
+  "barrio": "Tiergarten",
+  "address": "Drakestraße 1",
+  "price": 4,
+  "desc": "La antigua embajada de Dinamarca de los años 30, pegada al Zoo: desde algunos cuartos y desde el bar se ven los avestruces. Diseño de Patricia Urquiola.",
+  "tip": "Es de lo más tranquilo del centro, con el parque Tiergarten en la puerta. Hay versiones de que cambia de nombre a Sofitel en 2027.",
+  "tags": [
+   "boutique",
+   "diseño",
+   "lujo",
+   "tranquilo",
+   "5 estrellas"
+  ],
+  "sources": [
+   "https://www.visitberlin.de/en/hotel/so-berlin-das-stue",
+   "https://hospitality-on.com/en/brand/das-stue-danish-salon-under-french-flag"
+  ],
+  "check": "abierto según visitberlin; posible cambio de marca en 2027 según una sola fuente"
+ },
+ {
+  "cat": "dormir",
+  "sub": "Boutique",
+  "name": "Telegraphenamt",
+  "barrio": "Mitte",
+  "address": "Monbijoustraße 11",
+  "price": 4,
+  "desc": "La vieja central de telégrafos de la ciudad convertida en hotel: ladrillo, techos altísimos y cuartos sobrios, entre la Isla de los Museos y Oranienburger Straße.",
+  "tip": "Tiene pocos cuartos y se llena: reservá con anticipación. Abajo hay restaurante y bar muy concurridos.",
+  "tags": [
+   "boutique",
+   "arquitectura",
+   "historia",
+   "diseño",
+   "céntrico"
+  ],
+  "award": "Guía Michelin 2025 · 2 Llaves",
+  "sources": [
+   "https://guide.michelin.com/en/hotels-stays/berlin/telegraphenamt-13032",
+   "https://guide.michelin.com/ca/en/article/travel/historic-gems-key-hotels-berlin-michelin-guide"
+  ],
+  "check": "dos Llaves en la Guía Michelin; Monbijoustraße 11 confirmada (revisado el 14/11/2026)"
+ },
+ {
+  "cat": "dormir",
+  "sub": "Boutique",
+  "name": "Wilmina",
+  "barrio": "Charlottenburg",
+  "address": "Kantstraße 79",
+  "price": 3,
+  "desc": "Una cárcel de mujeres del siglo XIX escondida en un patio, transformada en un hotel luminoso y silencioso con jardín, sauna y pileta chica en la terraza.",
+  "tip": "Desde la calle no se ve: se entra por el antiguo juzgado. El restaurante Lovis, en el mismo patio, vale la cena.",
+  "tags": [
+   "boutique",
+   "joya oculta",
+   "arquitectura",
+   "jardín",
+   "tranquilo"
+  ],
+  "award": "Guía Michelin 2025 · 1 Llave",
+  "sources": [
+   "https://guide.michelin.com/hr/en/hotels-stays/berlin/wilmina-hotel-12967",
+   "https://guide.michelin.com/ch/de/article/travel/alle-michelin-key-hotels-in-deutschland"
+  ],
+  "check": "Llave Michelin; Kantstraße 79 confirmada (revisado el 14/11/2026)"
+ },
+ {
+  "cat": "dormir",
+  "sub": "Lujo",
+  "name": "Hotel Adlon Kempinski",
+  "barrio": "Mitte",
+  "address": "Unter den Linden 77",
+  "price": 4,
+  "desc": "El gran hotel de Berlín desde 1907, reconstruido frente a la Puerta de Brandeburgo. Por su lobby pasaron reyes, presidentes y estrellas.",
+  "tip": "Aunque no te alojes, podés tomar un café o el té de la tarde en el lobby, con la fuente de los elefantes. Conviene reservar mesa.",
+  "tags": [
+   "lujo",
+   "5 estrellas",
+   "clásico",
+   "historia",
+   "céntrico"
+  ],
+  "top": true,
+  "q": 3,
+  "award": "Guía Michelin 2025 · 1 Llave",
+  "sources": [
+   "https://guide.michelin.com/de/de/hotels-stays/berlin/hotel-adlon-kempinski-6421",
+   "https://www.kempinski.com/en/hotel-adlon/overview/hotel-information/awards"
+  ],
+  "check": "abierto; 1 Llave Michelin 2025 según Michelin y la web del hotel"
+ },
+ {
+  "cat": "dormir",
+  "sub": "Lujo",
+  "name": "The Ritz-Carlton, Berlin",
+  "barrio": "Tiergarten",
+  "address": "Potsdamer Platz 3",
+  "price": 4,
+  "desc": "Una torre estilo rascacielos de Chicago sobre Potsdamer Platz, renovada con aire de los años 20: mármol, bar de cócteles y spa con pileta.",
+  "tip": "Estás a pasos de la Filarmónica, el Tiergarten y el memorial del Holocausto. Buena opción si viajás por conciertos o por el festival de cine.",
+  "tags": [
+   "lujo",
+   "5 estrellas",
+   "pileta",
+   "cócteles"
+  ],
+  "q": 3,
+  "award": "Guía Michelin 2025 · 2 Llaves",
+  "sources": [
+   "https://guide.michelin.com/de/de/hotels-stays/berlin/the-ritz-carlton-berlin-9027",
+   "https://www.forbestravelguide.com/hotels/berlin-germany/the-ritz-carlton-berlin"
+  ],
+  "check": "abierto; 2 Llaves según su ficha en la Guía Michelin"
+ },
+ {
+  "cat": "dormir",
+  "sub": "Lujo",
+  "name": "The Mandala Hotel",
+  "barrio": "Tiergarten",
+  "address": "Potsdamer Straße 3",
+  "price": 4,
+  "desc": "Cinco estrellas discreto y manejado por sus dueños, con las habitaciones más grandes de la ciudad, spa en la azotea y un restaurante de alta cocina.",
+  "tip": "La entrada pasa casi desapercibida, frente al ex Sony Center. Ideal para estadías largas: muchas habitaciones tienen cocina.",
+  "tags": [
+   "lujo",
+   "5 estrellas",
+   "tranquilo",
+   "alta cocina"
+  ],
+  "sources": [
+   "https://www.top10berlin.de/en/cat/hotels-2485/luxury-hotels-2173/mandala-hotel-2494-2",
+   "https://www.berlin.de/hotels/5-sterne-hotels/"
+  ],
+  "check": "abierto según top10berlin y el listado de 5 estrellas de berlin.de"
+ },
+ {
+  "cat": "dormir",
+  "sub": "Lujo",
+  "name": "Waldorf Astoria Berlin",
+  "barrio": "Charlottenburg",
+  "address": "Hardenbergstraße 28",
+  "price": 4,
+  "desc": "Un rascacielos art déco al lado de la iglesia del Recuerdo, con vistas abiertas al oeste de la ciudad y al Zoo, spa y un café vienés muy elegante.",
+  "tip": "Pedí piso alto: la vista es lo mejor del hotel. La estación Zoologischer Garten queda a dos minutos caminando.",
+  "tags": [
+   "lujo",
+   "5 estrellas",
+   "vista",
+   "compras"
+  ],
+  "sources": [
+   "https://www.hilton.com/en/hotels/berwawa-waldorf-astoria-berlin/hotel-location/",
+   "https://www.berlin.de/hotels/5-sterne-hotels/",
+   "https://www.top10berlin.de/de/cat/hotels-2473/luxushotels-1819"
+  ],
+  "check": "Hardenbergstraße 28 confirmada en la web de Hilton (revisado el 14/11/2026)"
+ },
+ {
+  "cat": "dormir",
+  "sub": "Lujo",
+  "name": "Patrick Hellmann Schlosshotel",
+  "barrio": "Wilmersdorf",
+  "address": "Brahmsstraße 10",
+  "price": 4,
+  "desc": "Un palacete de 1914 en el barrio de mansiones de Grunewald, con apenas medio centenar de cuartos, jardín y decoración de sastre de alta costura.",
+  "tip": "Es un retiro lejos del centro: conviene si buscás calma y bosque, no si querés salir caminando a los museos.",
+  "tags": [
+   "lujo",
+   "5 estrellas",
+   "palacio",
+   "jardín",
+   "tranquilo"
+  ],
+  "award": "Guía Michelin 2025 · 2 Llaves",
+  "sources": [
+   "https://guide.Michelin.com/en/hotels-stays/berlin/patrick-hellmann-schlosshotel-4892",
+   "https://guide.michelin.com/de/de/hotels-stays/berlin/patrick-hellmann-schlosshotel-4892"
+  ],
+  "check": "dos Llaves Michelin; Brahmsstraße 10 confirmada (revisado el 14/11/2026)"
+ }
 ]

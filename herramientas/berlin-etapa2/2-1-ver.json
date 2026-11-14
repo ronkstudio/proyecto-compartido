@@ -324,8 +324,10 @@
    "chicos",
    "lluvia"
   ],
-  "sources": [],
-  "check": "sin verificar en esta sesión (se agotó el cupo de búsquedas); lugar de larga data, sin señales de cierre conocidas"
+  "sources": [
+   "https://www.ddr-museum.de/en/press/20-years-ddr-museum-two-decades-of-living-history-in-berlin"
+  ],
+  "check": "abierto: cumplió 20 años en julio de 2026 y tiene programa hasta diciembre (revisado el 14/11/2026)"
  },
  {
   "cat": "ver",
@@ -435,8 +437,10 @@
   ],
   "top": true,
   "q": 3,
-  "sources": [],
-  "check": "sin verificar en esta sesión (se agotó el cupo de búsquedas); lugar de larga data, sin señales de cierre conocidas"
+  "sources": [
+   "https://www.berlin.de/en/tickets/search/venues/gedenkstaette-berliner-mauer-208efd71-1def-433d-83c6-d549b550678f/"
+  ],
+  "check": "abierto, entrada libre, visitas guiadas agendadas en 2026 (revisado el 14/11/2026)"
  },
  {
   "cat": "ver",
@@ -456,8 +460,10 @@
   ],
   "top": true,
   "q": 3,
-  "sources": [],
-  "check": "espacio público; no se buscó fuente web (se agotó el cupo de búsquedas)"
+  "sources": [
+   "https://www.stiftung-berliner-mauer.de/en/east-side-gallery"
+  ],
+  "check": "espacio público abierto siempre; la cuida la Fundación Muro de Berlín (revisado el 14/11/2026)"
  },
  {
   "cat": "ver",
@@ -474,8 +480,10 @@
    "historia",
    "céntrico"
   ],
-  "sources": [],
-  "check": "espacio público; no se buscó fuente web (se agotó el cupo de búsquedas)"
+  "sources": [
+   "https://www.visitberlin.de/en/checkpoint-charlie"
+  ],
+  "check": "espacio público; la garita es una reconstrucción (revisado el 14/11/2026)"
  },
  {
   "cat": "ver",
@@ -496,8 +504,10 @@
   "closed": [
    1
   ],
-  "sources": [],
-  "check": "sin verificar en esta sesión (se agotó el cupo de búsquedas); lugar de larga data, sin señales de cierre conocidas"
+  "sources": [
+   "https://www.berlin.de/museum/3186698-2926344-traenenpalast.html"
+  ],
+  "check": "abierto, entrada libre, visitas guiadas agendadas en noviembre y diciembre de 2026 (revisado el 14/11/2026)"
  },
  {
   "cat": "ver",
@@ -515,8 +525,10 @@
    "domingo",
    "aire libre"
   ],
-  "sources": [],
-  "check": "espacio público; no se buscó fuente web (se agotó el cupo de búsquedas)"
+  "sources": [
+   "https://www.berlin.de/tourismus/parks-und-gaerten/3561684-1740419-mauerpark.html"
+  ],
+  "check": "parque público; el mercado de pulgas sigue los domingos (revisado el 14/11/2026)"
  },
  {
   "cat": "ver",
@@ -534,9 +546,10 @@
    "lluvia"
   ],
   "sources": [
+   "https://www.berlin.de/ausstellungen/2748374-2739799-die-mauer-das-asisi-panorama-zum-geteilt.html",
    "https://www.top10berlin.de/de/cat/freizeit-268/deutsch-deutsche-geschichte-2203/die-mauer-asisi-panorama-berlin-2550"
   ],
-  "check": "guías de 2026 lo dan abierto; no pude confirmarlo en su web oficial"
+  "check": "sigue en Friedrichstraße 205 según berlin.de y guías de 2026 (revisado el 14/11/2026)"
  },
  {
   "cat": "ver",
@@ -556,8 +569,10 @@
   ],
   "top": true,
   "q": 3,
-  "sources": [],
-  "check": "espacio público; no se buscó fuente web (se agotó el cupo de búsquedas)"
+  "sources": [
+   "https://www.visitberlin.de/de/brandenburger-tor"
+  ],
+  "check": "espacio público, sin entrada (revisado el 14/11/2026)"
  },
  {
   "cat": "ver",
@@ -600,8 +615,10 @@
   ],
   "top": true,
   "q": 3,
-  "sources": [],
-  "check": "espacio público; no se buscó fuente web (se agotó el cupo de búsquedas)"
+  "sources": [
+   "https://www.museumsportal-berlin.de/en/museums/denkmal-fur-die-ermordeten-juden-europas-ort-der-information/"
+  ],
+  "check": "memorial abierto siempre; el centro de información subterráneo es gratis y cierra los lunes (revisado el 14/11/2026)"
  },
  {
   "cat": "ver",
@@ -619,8 +636,10 @@
    "gratis"
   ],
   "q": 3,
-  "sources": [],
-  "check": "sin verificar en esta sesión (se agotó el cupo de búsquedas); lugar de larga data, sin señales de cierre conocidas"
+  "sources": [
+   "https://www.berlin.de/en/tickets/search/venues/topographie-des-terrors-dokumentationszentrum-3017096f-7863-4c1f-a572-e83d08ca5191/"
+  ],
+  "check": "abierta, entrada libre, con muestra temporal hasta enero de 2027 (revisado el 14/11/2026)"
  },
  {
   "cat": "ver",
@@ -657,8 +676,10 @@
    "arquitectura",
    "gratis"
   ],
-  "sources": [],
-  "check": "espacio público; no se buscó fuente web (se agotó el cupo de búsquedas)"
+  "sources": [
+   "https://www.berlin.de/tourismus/insidertipps/3054987-2339440-bebelplatz-wo-die-nazis-buecher-verbrann.html"
+  ],
+  "check": "plaza pública con el memorial de la quema de libros, accesible siempre (revisado el 14/11/2026)"
  },
  {
   "cat": "ver",
@@ -676,8 +697,10 @@
    "gratis",
    "aire libre"
   ],
-  "sources": [],
-  "check": "espacio público; no se buscó fuente web (se agotó el cupo de búsquedas)"
+  "sources": [
+   "https://www.berlin.de/sen/uvk/natur-und-gruen/stadtgruen/friedhoefe-und-begraebnisstaetten/sowjetische-ehrenmale/treptower-park/"
+  ],
+  "check": "memorial público dentro del Treptower Park (revisado el 14/11/2026)"
  },
  {
   "cat": "ver",
@@ -694,29 +717,10 @@
    "arquitectura",
    "gratis"
   ],
-  "sources": [],
-  "check": "espacio público; no se buscó fuente web (se agotó el cupo de búsquedas)"
- },
- {
-  "cat": "ver",
-  "sub": "Histórico",
-  "name": "Memorial de Hohenschönhausen",
-  "barrio": "Lichtenberg",
-  "address": "Genslerstraße 66",
-  "price": 1,
-  "desc": "La cárcel secreta de la Stasi, que no figuraba en los mapas. Las visitas las guían historiadores y ex presos políticos.",
-  "tip": "Las celdas se recorren solo con visita guiada: reservá antes la de inglés. Llegás en el tranvía M5 desde Alexanderplatz.",
-  "tags": [
-   "historia",
-   "guerra fría",
-   "memoria"
-  ],
-  "q": 3,
   "sources": [
-   "https://www.visitberlin.de/de/gedenkstaette-berlin-hohenschoenhausen",
-   "https://www.berlin.de/museum/3109402-2926344-gedenkstaette-berlin-hohenschoenhausen.html"
+   "https://www.berlin.de/sehenswuerdigkeiten/3561353-3558930-neue-wache.html"
   ],
-  "check": "abierto con visitas guiadas según visitberlin y berlin.de"
+  "check": "abierta, entrada libre (revisado el 14/11/2026)"
  },
  {
   "cat": "ver",
@@ -747,7 +751,7 @@
   "address": "Panoramastraße 1A",
   "price": 3,
   "desc": "La construcción más alta de Alemania, orgullo de la Berlín comunista. Desde la esfera se ve toda la ciudad.",
-  "tip": "Comprá la entrada con horario por internet para no hacer cola. En 2026 se habló de un cierre largo por obras: confirmá antes de ir.",
+  "tip": "Comprá la entrada con horario por internet para no hacer cola. Se habló de un cierre largo por obras: confirmá en su web antes de ir.",
   "tags": [
    "vista",
    "mirador",
@@ -758,10 +762,11 @@
   "top": true,
   "q": 3,
   "sources": [
+   "https://www.berlin.de/sehenswuerdigkeiten/3560707-3558930-fernsehturm.html",
    "https://tv-turm.de/en/",
    "https://www.entwicklungsstadt.de/drei-jahre-schliessung-fernsehturm-soll-ab-november-2026-saniert-werden/"
   ],
-  "check": "abierta según su web (solo anuncia un día de cierre por mantenimiento en noviembre de 2026); el cierre de tres años por obras no está confirmado"
+  "check": "abierta; berlin.de anuncia un día de cierre el 23/11/2026. Un cierre largo por obras desde noviembre de 2026 se publicó en la prensa pero no está confirmado (revisado el 14/11/2026)"
  },
  {
   "cat": "ver",
@@ -820,8 +825,10 @@
    "atardecer",
    "gratis"
   ],
-  "sources": [],
-  "check": "espacio público; no se buscó fuente web (se agotó el cupo de búsquedas)"
+  "sources": [
+   "https://www.visitberlin.de/de/oberbaumbruecke"
+  ],
+  "check": "espacio público (revisado el 14/11/2026)"
  },
  {
   "cat": "ver",
@@ -839,8 +846,10 @@
    "gratis",
    "céntrico"
   ],
-  "sources": [],
-  "check": "espacio público; no se buscó fuente web (se agotó el cupo de búsquedas)"
+  "sources": [
+   "https://www.berlin.de/sehenswuerdigkeiten/3561749-3558930-world-clock.html"
+  ],
+  "check": "espacio público (revisado el 14/11/2026)"
  },
  {
   "cat": "ver",
@@ -935,8 +944,10 @@
   "closed": [
    2
   ],
-  "sources": [],
-  "check": "sin verificar en esta sesión (se agotó el cupo de búsquedas); lugar de larga data, sin señales de cierre conocidas"
+  "sources": [
+   "https://www.stadtmuseum.de/en/exhibition/berlin-global"
+  ],
+  "check": "abierto; la muestra BERLIN GLOBAL cierra los martes; entrar al edificio es gratis (revisado el 14/11/2026)"
  },
  {
   "cat": "ver",
@@ -1014,7 +1025,7 @@
   "address": "Breitscheidplatz",
   "price": 0,
   "desc": "La torre rota por las bombas de 1943, dejada así como recuerdo de la guerra, junto a una iglesia moderna de vidrios azules.",
-  "tip": "Ojo: la torre en ruinas cerró por obras en el otoño de 2026 y la iglesia nueva cierra en 2027. Por fuera se ve siempre.",
+  "tip": "La torre en ruinas está en obra desde el otoño de 2026; la iglesia nueva sigue abierta. Por fuera se ve siempre.",
   "tags": [
    "religioso",
    "historia",
@@ -1022,10 +1033,11 @@
    "arquitectura"
   ],
   "sources": [
+   "https://www.entwicklungsstadt.de/gedaechtniskirche-berlin-wie-der-glockenturm-denkmalgerecht-instand-gesetzt-wird/",
    "https://www.volksstimme.de/panorama/wegen-sanierung-berliner-gedachtnis-kirche-muss-schliessen-4308696",
    "https://www.entwicklungsstadt.de/gedaechtniskirche-am-breitscheidplatz-das-ist-fuer-die-kommenden-jahre-geplant/"
   ],
-  "check": "DUDOSA: ruina cerrada por obras desde el otoño de 2026; iglesia nueva abierta hasta 2027 según notas de agosto de 2026"
+  "check": "la torre en ruinas está en obra desde el otoño de 2026; la iglesia nueva sigue abierta según notas de agosto de 2026 (revisado el 14/11/2026)"
  },
  {
   "cat": "ver",
@@ -1217,8 +1229,10 @@
   ],
   "top": true,
   "q": 3,
-  "sources": [],
-  "check": "espacio público; no se buscó fuente web (se agotó el cupo de búsquedas)"
+  "sources": [
+   "https://www.berlin.de/ba-mitte/ueber-den-bezirk/sehenswertes/parks-und-gaerten/"
+  ],
+  "check": "parque público (revisado el 14/11/2026)"
  },
  {
   "cat": "ver",
@@ -1238,8 +1252,10 @@
   ],
   "top": true,
   "q": 3,
-  "sources": [],
-  "check": "espacio público; no se buscó fuente web (se agotó el cupo de búsquedas)"
+  "sources": [
+   "https://www.berlin.de/en/parks-and-gardens/3561883-4407152-park-tempelhofer-feld.en.html"
+  ],
+  "check": "parque público, abre de la salida a la puesta del sol; hay entradas en obra (revisado el 14/11/2026)"
  },
  {
   "cat": "ver",
@@ -1257,8 +1273,10 @@
    "picnic",
    "gratis"
   ],
-  "sources": [],
-  "check": "espacio público; no se buscó fuente web (se agotó el cupo de búsquedas)"
+  "sources": [
+   "https://www.berlin.de/tourismus/parks-und-gaerten/3561249-1740419-treptower-park.html"
+  ],
+  "check": "parque público (revisado el 14/11/2026)"
  },
  {
   "cat": "ver",
@@ -1276,8 +1294,10 @@
    "correr",
    "gratis"
   ],
-  "sources": [],
-  "check": "espacio público; no se buscó fuente web (se agotó el cupo de búsquedas)"
+  "sources": [
+   "https://www.visitberlin.de/de/volkspark-friedrichshain"
+  ],
+  "check": "parque público (revisado el 14/11/2026)"
  },
  {
   "cat": "ver",
@@ -1294,8 +1314,10 @@
    "tranquilo",
    "fotos"
   ],
-  "sources": [],
-  "check": "sin verificar en esta sesión (se agotó el cupo de búsquedas); lugar de larga data, sin señales de cierre conocidas"
+  "sources": [
+   "https://bo.berlin/en/visit-us/how-get-here"
+  ],
+  "check": "abierto, con actividades en 2026; el Museo Botánico está cerrado por obras hasta 2027 (revisado el 14/11/2026)"
  },
  {
   "cat": "ver",
@@ -1313,31 +1335,10 @@
    "picnic",
    "gratis"
   ],
-  "sources": [],
-  "check": "espacio público; no se buscó fuente web (se agotó el cupo de búsquedas)"
- },
- {
-  "cat": "ver",
-  "sub": "Naturaleza",
-  "name": "Isla de los Pavos Reales",
-  "barrio": "Zehlendorf",
-  "address": "Nikolskoer Weg",
-  "price": 1,
-  "desc": "Una isla en el río Havel con pavos reales sueltos, un castillito blanco de cuento y senderos sin autos ni bicis.",
-  "tip": "Se cruza en una balsa que sale cada pocos minutos. El castillo se visita con guía solo en los meses cálidos.",
-  "tags": [
-   "naturaleza",
-   "isla",
-   "palacio",
-   "tranquilo",
-   "lago"
-  ],
-  "award": "Patrimonio Mundial UNESCO",
   "sources": [
-   "https://www.berlin.de/museum/3109872-2926344-schloss-und-landschaftsgarten-pfaueninse.html",
-   "https://www.spsg.de/fileadmin/user_upload/pdf/Gruppenpreise/20251201_SPSG_Gruppenpreise_2026.pdf"
+   "https://www.berlin.de/tourismus/parks-und-gaerten/3560783-1740419-viktoriapark.html"
   ],
-  "check": "isla y balsa en la lista 2026 de SPSG; visitas al castillo de mayo a octubre"
+  "check": "parque público (revisado el 14/11/2026)"
  },
  {
   "cat": "ver",
@@ -1355,8 +1356,10 @@
    "clásico",
    "céntrico"
   ],
-  "sources": [],
-  "check": "espacio público; no se buscó fuente web (se agotó el cupo de búsquedas)"
+  "sources": [
+   "https://www.berlin.de/sehenswuerdigkeiten/3561743-3558930-pariser-platz.html"
+  ],
+  "check": "avenida pública que termina en el Pariser Platz (revisado el 14/11/2026)"
  },
  {
   "cat": "ver",
@@ -1374,27 +1377,10 @@
    "moderno",
    "gratis"
   ],
-  "sources": [],
-  "check": "espacio público; no se buscó fuente web (se agotó el cupo de búsquedas)"
- },
- {
-  "cat": "ver",
-  "sub": "Paseo",
-  "name": "Landwehrkanal",
-  "barrio": "Kreuzberg",
-  "address": "Paul-Lincke-Ufer",
-  "price": 0,
-  "desc": "El canal arbolado que cruza Kreuzberg y Neukölln, con cisnes, cafés y gente sentada en la orilla con una cerveza.",
-  "tip": "Caminá del Paul-Lincke-Ufer al Maybachufer. En el puente Admiralbrücke se junta gente a ver caer el sol.",
-  "tags": [
-   "caminar",
-   "vida de barrio",
-   "atardecer",
-   "bici",
-   "relajado"
+  "sources": [
+   "https://www.visitberlin.de/de/regierungsviertel"
   ],
-  "sources": [],
-  "check": "espacio público; no se buscó fuente web (se agotó el cupo de búsquedas)"
+  "check": "espacio público; visitBerlin describe el paseo por la orilla del Spree hasta el palacio Bellevue (revisado el 14/11/2026)"
  },
  {
   "cat": "ver",
@@ -1411,8 +1397,10 @@
    "clásico",
    "arquitectura"
   ],
-  "sources": [],
-  "check": "espacio público; no se buscó fuente web (se agotó el cupo de búsquedas)"
+  "sources": [
+   "https://www.berlin.de/sehenswuerdigkeiten/3561166-3558930-kurfuerstendamm.html"
+  ],
+  "check": "avenida pública (revisado el 14/11/2026)"
  },
  {
   "cat": "ver",
@@ -1451,8 +1439,10 @@
    "historia",
    "fotos"
   ],
-  "sources": [],
-  "check": "espacio público; no se buscó fuente web (se agotó el cupo de búsquedas)"
+  "sources": [
+   "https://www.berlin.de/en/attractions-and-sights/3559790-3104052-karl-marx-allee.en.html"
+  ],
+  "check": "avenida pública (revisado el 14/11/2026)"
  },
  {
   "cat": "ver",
@@ -1470,8 +1460,10 @@
    "céntrico",
    "río"
   ],
-  "sources": [],
-  "check": "espacio público; no se buscó fuente web (se agotó el cupo de búsquedas)"
+  "sources": [
+   "https://www.visitberlin.de/es/sitio/nikolaiviertel-el-barrio-de-nikolai"
+  ],
+  "check": "barrio público (revisado el 14/11/2026)"
  },
  {
   "cat": "ver",
@@ -1489,8 +1481,10 @@
    "memoria",
    "café"
   ],
-  "sources": [],
-  "check": "espacio público; no se buscó fuente web (se agotó el cupo de búsquedas)"
+  "sources": [
+   "https://www.berlin.de/special/stadtteile/mitte/919904-5170833-spandauer-vorstadt.html"
+  ],
+  "check": "barrio público (parte este de la Spandauer Vorstadt) (revisado el 14/11/2026)"
  },
  {
   "cat": "ver",
@@ -1508,8 +1502,10 @@
    "mercado",
    "caminar"
   ],
-  "sources": [],
-  "check": "espacio público; no se buscó fuente web (se agotó el cupo de búsquedas)"
+  "sources": [
+   "https://www.berlin.de/special/stadtteile/kieze/7582053-7429665-kollwitzkiez.html"
+  ],
+  "check": "barrio público (revisado el 14/11/2026)"
  },
  {
   "cat": "ver",
@@ -1527,8 +1523,10 @@
    "mercado",
    "caminar"
   ],
-  "sources": [],
-  "check": "espacio público; no se buscó fuente web (se agotó el cupo de búsquedas)"
+  "sources": [
+   "https://www.berlin.de/tourismus/touren/5175170-956960-bergmannkiez.html"
+  ],
+  "check": "barrio público (revisado el 14/11/2026)"
  },
  {
   "cat": "ver",
@@ -1546,8 +1544,10 @@
    "café",
    "moderno"
   ],
-  "sources": [],
-  "check": "espacio público; no se buscó fuente web (se agotó el cupo de búsquedas)"
+  "sources": [
+   "https://www.berlin.de/special/stadtteile/kieze/7603242-7429665-reuterkiez.html"
+  ],
+  "check": "barrio público (revisado el 14/11/2026)"
  },
  {
   "cat": "ver",
@@ -1565,8 +1565,10 @@
    "feria",
    "street art"
   ],
-  "sources": [],
-  "check": "espacio público; no se buscó fuente web (se agotó el cupo de búsquedas)"
+  "sources": [
+   "https://www.visitberlin.de/de/ausgehen-der-simon-dach-strasse"
+  ],
+  "check": "barrio público (revisado el 14/11/2026)"
  },
  {
   "cat": "ver",
@@ -1584,8 +1586,10 @@
    "caminar",
    "atardecer"
   ],
-  "sources": [],
-  "check": "espacio público; no se buscó fuente web (se agotó el cupo de búsquedas)"
+  "sources": [
+   "https://www.berlin.de/special/stadtteile/kieze/"
+  ],
+  "check": "barrio público; berlin.de lo describe en su lista de Kieze (revisado el 14/11/2026)"
  },
  {
   "cat": "ver",
@@ -1603,8 +1607,10 @@
    "pueblo",
    "tranquilo"
   ],
-  "sources": [],
-  "check": "espacio público; no se buscó fuente web (se agotó el cupo de búsquedas)"
+  "sources": [
+   "https://www.visitberlin.de/en/rixdorf-berlin-neukolln"
+  ],
+  "check": "barrio público (revisado el 14/11/2026)"
  },
  {
   "cat": "ver",
@@ -1715,7 +1721,9 @@
   "closed": [
    2
   ],
-  "sources": [],
-  "check": "sin verificar en esta sesión (se agotó el cupo de búsquedas); lugar de larga data, sin señales de cierre conocidas"
+  "sources": [
+   "https://www.museumsportal-berlin.de/de/museen/kw-institute-for-contemporary-art/"
+  ],
+  "check": "abierto, con muestras y visitas guiadas en noviembre de 2026 (revisado el 14/11/2026)"
  }
 ]

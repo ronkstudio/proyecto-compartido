@@ -63,11 +63,11 @@
   "q": 3,
   "award": "Mixology Bar Awards 2026 · Bar del año",
   "sources": [
+   "https://www.timeout.com/berlin/bars-and-pubs/green-door",
    "https://www.tageskarte.io/gastronomie/detail/bar-des-jahres-2026-das-sind-die-gewinner-der-mixology-bar-awards.html",
-   "https://www.meininger.de/service/presse/its-wrap-mixology-bar-awards-2026-berlin-verliehen",
-   "https://berlinecho.de/berliner-bars-empfehlungen-cocktail-wein/"
+   "https://www.meininger.de/service/presse/its-wrap-mixology-bar-awards-2026-berlin-verliehen"
   ],
-  "check": "premio confirmado en dos notas; abierta según guía de 2026; el número de la calle (50) no apareció en las búsquedas, es el que conozco"
+  "check": "número 50 confirmado; puesto 283 en la lista World's 500 Best Bars 2025 (revisado el 14/11/2026)"
  },
  {
   "cat": "noche",
@@ -107,11 +107,11 @@
    "tranquilo"
   ],
   "sources": [
+   "https://www.timeout.com/berlin/bars-and-pubs/becketts-kopf",
    "https://www.enprimeurclub.com/bars/becketts-kopf-berlin-bar",
-   "https://www.merian.de/bar/de/berlin/becketts-kopf-c5",
-   "https://www.timeout.com/berlin/bars-and-pubs/becketts-kopf"
+   "https://www.merian.de/bar/de/berlin/becketts-kopf-c5"
   ],
-  "check": "DUDOSO: figura en el Top 500 Bars 2025 y en fichas activas, pero no encontré confirmación fechada en 2026; sin señales de cierre"
+  "check": "guía de turismo de 2026 lo da abierto (revisado el 14/11/2026)"
  },
  {
   "cat": "noche",
@@ -219,9 +219,10 @@
    "cine"
   ],
   "sources": [
+   "https://www.timeout.com/berlin/bars-and-pubs/wuergeengel",
    "https://joinpearl.co/bars/berlin/wurgeengel"
   ],
-  "check": "figura con puntaje Falstaff 2026 en una ficha; la dirección no apareció en las búsquedas, es la que conozco"
+  "check": "dirección confirmada (revisado el 14/11/2026)"
  },
  {
   "cat": "noche",
@@ -239,10 +240,11 @@
    "noche"
   ],
   "sources": [
+   "https://www.visitberlin.de/en/blog/best-gay-bars-berlin",
    "https://www.travelgay.com/berlin-gay-bars",
    "https://www.gayout.com/de/europe/germany/berlin/gay-heritage"
   ],
-  "check": "DUDOSO: listado con esa dirección en guía actualizada en febrero de 2026, sin otra confirmación"
+  "check": "dirección confirmada (Motzstraße 5) (revisado el 14/11/2026)"
  },
  {
   "cat": "noche",
@@ -260,10 +262,11 @@
    "económico"
   ],
   "sources": [
+   "https://www.top10berlin.de/en/cat/night-life-259/lgbt-bars-2860/moebel-olfe-3991",
    "https://www.gayout.com/de/europe/germany/berlin/gay-heritage",
    "https://www.top10berlin.de/de/cat/nachtleben-269/szene-bars-fuer-schwule-und-lesben-1815"
   ],
-  "check": "DUDOSO: nombrado en guía verificada en octubre de 2026; la dirección no apareció en las búsquedas, es la que conozco"
+  "check": "dirección confirmada (revisado el 14/11/2026)"
  },
  {
   "cat": "noche",
@@ -417,10 +420,11 @@
   ],
   "q": 3,
   "sources": [
+   "https://www.top10berlin.de/en/cat/eating-257/wine-bars-2911/freundschaft",
    "https://starwinelist.com/wine-story/star-wine-list-of-the-year-germany-2026-winners",
    "https://www.top10berlin.de/de/cat/essen-267/weinbars-2889"
   ],
-  "check": "premiado en Star Wine List 2026 y en listado de junio de 2026; el número de la calle no apareció, es el que conozco"
+  "check": "Mittelstraße 1; Star Wine List de 2021 a 2026 (revisado el 14/11/2026)"
  },
  {
   "cat": "noche",
@@ -438,10 +442,11 @@
    "degustación"
   ],
   "sources": [
+   "https://www.timeout.com/berlin/en/restaurants-and-cafes/weinbar-rutz",
    "https://www.top10berlin.de/de/cat/essen-267/weinbars-2889",
    "https://tablejourney.com/germany/berlin/wine-bars/"
   ],
-  "check": "figura en listado actualizado en junio de 2026; la dirección no apareció, es la que conozco"
+  "check": "Chausseestraße 8, en el mismo edificio que el restaurante Rutz (revisado el 14/11/2026)"
  },
  {
   "cat": "noche",
@@ -459,9 +464,10 @@
    "relajado"
   ],
   "sources": [
+   "https://www.top10berlin.de/en/cat/eating-257/wine-bars-2911/ottorink-4262",
    "https://punchdrink.com/articles/the-best-places-to-drink-wine-in-berlin/"
   ],
-  "check": "DUDOSO: recomendado en guías, pero sin confirmación fechada en 2026 ni dirección en las búsquedas (es la que conozco)"
+  "check": "Dresdener Straße 124 confirmada (revisado el 14/11/2026)"
  },
  {
   "cat": "noche",
@@ -480,9 +486,10 @@
    "joya oculta"
   ],
   "sources": [
+   "https://www.enprimeurclub.com/bars/briefmarken-weine-berlin",
    "https://punchdrink.com/articles/the-best-places-to-drink-wine-in-berlin/"
   ],
-  "check": "DUDOSO: recomendado en guías, pero sin confirmación fechada en 2026 ni dirección en las búsquedas (es la que conozco)"
+  "check": "Karl-Marx-Allee 99 confirmada; puntaje Falstaff 2026 (revisado el 14/11/2026)"
  },
  {
   "cat": "noche",
@@ -501,10 +508,11 @@
    "relajado"
   ],
   "sources": [
+   "https://www.timeout.com/berlin/bars-and-pubs/forum",
    "https://starwinelist.com/wine-guide/new-wine-places-in-berlin",
    "https://duitsewijn.nl/toerisme-evenementen/wine-places-in-berlin"
   ],
-  "check": "DUDOSO: figura en guías de vino, sin confirmación fechada en 2026 ni dirección en las búsquedas (es la que conozco); confirmar si sigue el sistema de pago a voluntad"
+  "check": "Fehrbelliner Straße 57 confirmada (revisado el 14/11/2026)"
  },
  {
   "cat": "noche",
@@ -683,11 +691,11 @@
    "noche"
   ],
   "sources": [
+   "https://www.berlin.de/en/clubs/8871648-4469452-kitkatclub.en.html",
    "https://www.visitberlin.de/en/kitkatclub",
-   "https://www.technoairlines.com/blog/inside-kitkatclub-berlin-photos-videos",
-   "https://www.songkick.com/venues/939241-kitkatclub"
+   "https://www.technoairlines.com/blog/inside-kitkatclub-berlin-photos-videos"
   ],
-  "check": "una guía de 2026 describe programa regular en otoño de 2026; no encontré novedades sobre su contrato de alquiler"
+  "check": "abierto; su contrato de alquiler está en discusión hace años (revisado el 14/11/2026)"
  },
  {
   "cat": "noche",
@@ -705,11 +713,11 @@
    "patio"
   ],
   "sources": [
+   "https://top10berlin.de/en/cat/night-life-259/electro-clubs-1383/ritter-butzke-778",
    "https://ra.co/events/2368373",
-   "https://www.technoairlines.com/event/bunte-traumerei-w-marten-lou-ritter-butzke-2026-11-13",
-   "https://songkick.com/venues/699736-ritter-butzke"
+   "https://www.technoairlines.com/event/bunte-traumerei-w-marten-lou-ritter-butzke-2026-11-13"
   ],
-  "check": "fiestas programadas en noviembre de 2026; las fuentes dan número 24, 26 o 24-27 de la misma calle"
+  "check": "abierto (ficha de septiembre de 2026) (revisado el 14/11/2026)"
  },
  {
   "cat": "noche",
@@ -981,10 +989,11 @@
    "teatro"
   ],
   "sources": [
+   "https://www.berlin.de/tickets/theater/tipps/buehnen/2225261-2903274-bar-jeder-vernunft.html",
    "https://www.top10berlin.de/de/cat/nachtleben-269/variete-berlin",
    "https://www.berlin.de/tickets/theater/tipps/buehnen/revue-variete-theater/"
   ],
-  "check": "DUDOSO: figura en listados de varieté vigentes, pero no encontré la cartelera actual ni la dirección (es la que conozco)"
+  "check": "cartelera de noviembre y diciembre de 2026 publicada; Schaperstraße 24 (revisado el 14/11/2026)"
  },
  {
   "cat": "noche",
@@ -1327,26 +1336,6 @@
  {
   "cat": "ocio",
   "sub": "Cine",
-  "name": "Astor Film Lounge",
-  "barrio": "Charlottenburg",
-  "address": "Kurfürstendamm 225",
-  "price": 3,
-  "desc": "Cine de lujo en plena Ku'damm: sillones reclinables, trago de bienvenida y servicio en la butaca.",
-  "tip": "Para darse un gusto un día de lluvia. Reservá el asiento por internet.",
-  "tags": [
-   "cine",
-   "lujo",
-   "lluvia",
-   "clásico"
-  ],
-  "sources": [
-   "https://www.top10berlin.de/de/cat/freizeit-268/besondere-kinos-1514"
-  ],
-  "check": "figura con esa dirección en guía de cines; sin nota fechada en 2026"
- },
- {
-  "cat": "ocio",
-  "sub": "Cine",
   "name": "Freiluftkino Friedrichshain",
   "barrio": "Friedrichshain",
   "address": "Landsberger Allee 15",
@@ -1401,10 +1390,11 @@
    "vida de barrio"
   ],
   "sources": [
+   "https://www.yorck.de/en/cinemas/rollberg",
    "https://www.berlin.de/kino/_bin/azfilm.php/ov/F",
    "https://www.cinematic-berlin.com/kinoprogramm/en/berlin/film_kino"
   ],
-  "check": "figura en la cartelera de versiones originales de berlin.de; la dirección no apareció en las búsquedas, es la que conozco"
+  "check": "cine de la cadena Yorck, en funcionamiento (revisado el 14/11/2026)"
  },
  {
   "cat": "ocio",
@@ -1422,10 +1412,11 @@
    "vida de barrio"
   ],
   "sources": [
+   "https://www.yorck.de/en/cinemas/odeon",
    "https://www.berlin.de/kino/_bin/azkino.php?firstchar=O",
    "https://www.berlin.de/kino/_bin/azfilm.php/ov/F"
   ],
-  "check": "figura con esa dirección en la cartelera de berlin.de; sin nota fechada en 2026"
+  "check": "cine de la cadena Yorck, en funcionamiento (revisado el 14/11/2026)"
  },
  {
   "cat": "ocio",
@@ -1500,17 +1491,18 @@
   "address": "Potsdamer Straße 4",
   "price": 3,
   "desc": "Parque cubierto de LEGO en Potsdamer Platz: una Berlín en miniatura, juegos, cine 4D y zonas para construir.",
-  "tip": "Pensado para chicos de 3 a 10 años; los adultos solo entran acompañando a un chico. Conviene reservar horario.",
+  "tip": "Pensado para chicos entre 3 y 10 años; los adultos solo entran acompañando a un chico. Conviene reservar horario.",
   "tags": [
    "chicos",
    "lluvia",
    "céntrico"
   ],
   "sources": [
+   "https://www.visitberlin.de/de/tickets/legolandr-discovery-centre-berlin-ticket",
    "https://legolanddiscoverycentre.com/berlin/en/plan-your-day/before-you-visit/directions",
    "https://www.freizeitpark-welt.de/freizeitparks/legoland_b/"
   ],
-  "check": "DUDOSO: dirección en su web y ficha actualizada en enero de 2026; no pude confirmar que siga abierto en noviembre de 2026 (el complejo donde está se reformó)"
+  "check": "entradas a la venta en visitBerlin; el cierre de 2024 fue el del Sea Life, no este (revisado el 14/11/2026)"
  },
  {
   "cat": "ocio",
@@ -1519,7 +1511,7 @@
   "barrio": "Wedding",
   "address": "Osloer Straße 12",
   "price": 1,
-  "desc": "Museo para tocar, treparse y experimentar dentro de una vieja fábrica, con muestras que cambian. Para chicos de 3 a 11 años.",
+  "desc": "Museo para tocar, treparse y experimentar dentro de una vieja fábrica, con muestras que cambian. Para chicos entre 3 y 11 años.",
   "tip": "Abre sobre todo viernes, fines de semana y vacaciones escolares: revisá antes de ir. Llevá medias, adentro van sin zapatos.",
   "tags": [
    "chicos",
@@ -1541,7 +1533,7 @@
   "address": "Senefelderstraße 5",
   "price": 1,
   "desc": "Una iglesia convertida en museo infantil, con un laberinto de madera de varios pisos para trepar y talleres.",
-  "tip": "Ideal para chicos de 4 a 12 años. Entre semana abre solo por la tarde; cerca hay varias plazas con juegos.",
+  "tip": "Ideal para chicos entre 4 y 12 años. Entre semana abre solo por la tarde; cerca hay varias plazas con juegos.",
   "tags": [
    "chicos",
    "museo",
