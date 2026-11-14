@@ -1,0 +1,28 @@
+1|Cette semaine
+2|Janvier
+3|Plus rien pour aujourd'hui. Voici ce qui arrive.
+4|Ouvert tard : nocturne du mercredi et du vendredi
+5|Ouvert tard : nocturne du jeudi
+6|Ouvert tard : nocturne du vendredi
+7|Ouvert tard : nocturne du samedi
+8|La jam du lundi : un concert d'abord, puis scène ouverte
+9|Nocturne gratuite le premier vendredi du mois
+10|Gratuit le premier dimanche du mois, sur réservation
+11|Gratuit le premier dimanche du mois
+12|Nocturne le premier jeudi du mois
+13|Concert gratuit à midi dans le foyer
+14|Jam session du mardi
+15|Jam session de fin de soirée, après le concert
+16|Klubnacht : commence le samedi à minuit et continue le dimanche
+17|Dimanche en famille : activités pour les enfants
+18|Semaine verte (Grüne Woche)
+19|La grande foire de l'alimentation et de l'agriculture au parc des expositions : des stands de toutes les régions d'Allemagne et d'autres pays pour tout goûter.
+20|Festival de musique contemporaine des Berliner Festspiele, avec concerts et créations pendant dix jours.
+21|Demain
+22|Ce mois-ci et à venir
+23|Illuminations de Noël sur les Champs-Élysées
+24|Le marché de Noël des Champs-Élysées est de retour
+25|Ouvert 30 heures d'affilée, entrée gratuite
+26|Marché de Noël du Gendarmenmarkt (WeihnachtsZauber)
+27|Marché de Noël du château de Charlottenburg
+28|Le soir

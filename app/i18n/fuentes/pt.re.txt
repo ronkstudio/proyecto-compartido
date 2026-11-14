@@ -47,3 +47,4 @@ Suas primeiras horas em {1}
 Tudo pronto! Aproveite {1}.
 Guia de {1}
 1 $1 ≈ $2 euros
+A partir de $1

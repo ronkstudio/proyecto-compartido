@@ -27,7 +27,7 @@ function armar(lang) {
     }
     console.log(nombre + " : " + n);
   };
-  ["ui", "extra", "desc", "tip"].forEach(numeradas);
+  ["ui", "extra", "desc", "tip", "hoy"].forEach(numeradas);
   /* Listas propias de cada ciudad (tarjeta #98). Si una ciudad todavía no tiene lista, se saltea. */
   ["berlin", "madrid", "roma", "paris"].forEach(c => { if (fs.existsSync(path.join(trad, c + ".txt"))) numeradas(c); });
   const tk = leer(path.join(trad, "tags.txt")).filter(l => l.length > 0);

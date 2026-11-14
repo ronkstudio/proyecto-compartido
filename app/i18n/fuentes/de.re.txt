@@ -47,3 +47,4 @@ Deine ersten Stunden in {1}
 Alles bereit! Genieß {1}.
 {1} Reiseführer
 1 $1 ≈ $2 Euro
+Ab $1

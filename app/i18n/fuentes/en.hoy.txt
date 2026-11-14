@@ -1,0 +1,28 @@
+1|This week
+2|January
+3|Nothing more for today. Here's what's coming up.
+4|Open late: Wednesday and Friday evenings
+5|Open late: Thursday evenings
+6|Open late: Friday evenings
+7|Open late: Saturday evenings
+8|Monday jam: a concert first, then an open stage
+9|Free late opening on the first Friday of the month
+10|Free on the first Sunday of the month, booking required
+11|Free on the first Sunday of the month
+12|Late opening on the first Thursday of the month
+13|Free lunchtime concert in the foyer
+14|Tuesday jam session
+15|Late-night jam session after the concert
+16|Klubnacht: starts Saturday at midnight and runs into Sunday
+17|Family Sunday: activities for kids
+18|Green Week (Grüne Woche)
+19|The big food and farming fair at the exhibition grounds: stalls from every region of Germany and other countries to taste everything.
+20|Contemporary music festival of the Berliner Festspiele, with concerts and new works over ten days.
+21|Tomorrow
+22|This month and coming up
+23|Christmas lights on the Champs-Élysées
+24|The Champs-Élysées Christmas market is back
+25|Open 30 hours straight, free entry
+26|Gendarmenmarkt Christmas market (WeihnachtsZauber)
+27|Charlottenburg Palace Christmas market
+28|At night

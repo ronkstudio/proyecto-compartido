@@ -753,3 +753,9 @@ a.tile { color: inherit; text-decoration: none; }
 .perfil-viaje[open] > summary::after { transform: rotate(180deg); }
 .perfil-n { font-style: normal; font-size: 12px; font-weight: 700; background: var(--accent); color: var(--accent-ink); border-radius: 999px; padding: 1px 8px; }
 .perfil-viaje .wiz { padding-bottom: 12px; }
+
+/* Hoy en carruseles: mañana, esta semana y este mes (tarjeta #172). */
+.media .hoy-tag { inset: auto auto 8px 8px; display: block; z-index: 2; background: rgba(10, 16, 24, .72); padding: 3px 9px; border-radius: 999px; }
+.tile-media .hoy-tag { font-size: 12.5px; line-height: 1.3; max-width: calc(100% - 16px); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.hoy-cal { display: grid; place-items: center; }
+.hoy-cal em { font-style: normal; font-size: 52px; line-height: 1; filter: drop-shadow(0 2px 6px rgba(0, 0, 0, .25)); }

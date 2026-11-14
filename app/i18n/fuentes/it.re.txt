@@ -47,3 +47,4 @@ Le tue prime ore a {1}
 Tutto pronto! Goditi {1}.
 Guida di {1}
 1 $1 ≈ $2 euro
+Dal $1

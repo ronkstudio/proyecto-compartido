@@ -157,7 +157,9 @@ window.CITY_EXTRA.berlin = {
 
   /* Calendario: fechas habituales, a confirmar cada año. m = meses (1-12). */
   events: [
+    { m: [1], when: "Enero", icon: "🥨", name: "Semana Verde (Grüne Woche)", desc: "La gran feria de comida y campo en el predio ferial: puestos de todas las regiones de Alemania y de otros países para probar de todo." },
     { m: [2], when: "Febrero", icon: "🎬", name: "Berlinale", desc: "El festival internacional de cine de Berlín, con funciones abiertas al público en toda la ciudad." },
+    { m: [3], when: "Marzo", icon: "🎻", name: "MaerzMusik", desc: "Festival de música contemporánea de los Berliner Festspiele, con conciertos y obras nuevas durante diez días." },
     { m: [4, 5], when: "Fines de abril o mayo", icon: "🖼️", name: "Gallery Weekend", desc: "Un fin de semana en que las galerías de arte abren sus muestras nuevas, con entrada libre." },
     { m: [5], when: "1 de mayo", icon: "✊", name: "Día del Trabajador", desc: "Feriado con fiestas en la calle y manifestaciones, sobre todo en Kreuzberg. Hay cortes de tránsito." },
     { m: [5, 6], when: "Mayo o junio", icon: "🎉", name: "Carnaval de las Culturas", desc: "Cuatro días de desfile, música y comida de todo el mundo en Kreuzberg, el fin de semana de Pentecostés." },

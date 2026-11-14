@@ -408,16 +408,27 @@
   /* ── Hoy en Buenos Aires (tarjetas #64 y #65): solo lo que pasa hoy. Lo que ya pasó desaparece solo y al otro día aparece lo nuevo. ── */
   let liveHoy = null;   // eventos de la agenda oficial de la Ciudad (data/hoy.json), si se pudieron cargar
   const ymd = d => d.getFullYear() + "-" + (d.getMonth() + 1) + "-" + d.getDate();
-  const hoyItems = () => {
+  const isoD = d => d.getFullYear() + "-" + String(d.getMonth() + 1).padStart(2, "0") + "-" + String(d.getDate()).padStart(2, "0");
+  /* "sábado 21/11": el traductor lo arma solo en cada idioma. */
+  const DIAS_ES = ["domingo", "lunes", "martes", "miércoles", "jueves", "viernes", "sábado"];
+  const diaCorto = d => DIAS_ES[d.getDay()] + " " + d.getDate() + "/" + (d.getMonth() + 1);
+  const dm = iso => +iso.slice(8, 10) + "/" + +iso.slice(5, 7);
+  /* El día "de la guía": de madrugada sigue siendo la noche de ayer. */
+  const hoyBase = () => { const now = cityNow(), b = new Date(now); if (now.getHours() < 6) b.setDate(b.getDate() - 1); b.setHours(12, 0, 0, 0); return b; };
+  /* ¿Una fila de agenda toca ese día? dias: días de la semana; n: solo esa semana del mes (1 = el primer domingo, jueves…); meses: solo en esos meses. */
+  const agendaToca = (a, d) => a.dias.indexOf(d.getDay()) > -1 && (!a.n || Math.ceil(d.getDate() / 7) === a.n) && (!a.meses || a.meses.indexOf(d.getMonth() + 1) > -1);
+  /* Lo que pasa un día: off = 0 es hoy (sin lo que ya pasó), 1 es mañana. */
+  const hoyItems = off => {
+    off = off || 0;
     const now = cityNow(), h = now.getHours();
-    const base = new Date(now);
-    if (h < 6) base.setDate(base.getDate() - 1);   // de madrugada sigue siendo "la noche de ayer"
-    const dow = base.getDay(), showDia = h >= 6 && h < 20;
+    const base = hoyBase();
+    base.setDate(base.getDate() + off);
+    const dow = base.getDay(), showDia = off > 0 || (h >= 6 && h < 20);
     const out = [], seen = {};
     const add = it => { if (it.franja === "dia" && !showDia) return; out.push(it); };
     (X.agenda || []).forEach(a => {
       const p = byId[a.lugar];
-      if (!p || a.dias.indexOf(dow) < 0) return;
+      if (!p || !agendaToca(a, base)) return;
       seen[p.id] = 1;
       add({ franja: a.franja, p, que: a.que });
     });
@@ -426,8 +437,7 @@
       if (!o || seen[p.id] || o.indexOf(dow) < 0) return;
       add({ franja: p.cat === "noche" ? "noche" : "dia", p });
     });
-    const iso = d => d.getFullYear() + "-" + String(d.getMonth() + 1).padStart(2, "0") + "-" + String(d.getDate()).padStart(2, "0");
-    const hoyIso = iso(base);
+    const hoyIso = isoD(base);
     (X.destacados || []).forEach(d => {   // elegidos a mano de agendas y redes (data/caba-hoy.js)
       if (!d.url || hoyIso < d.desde || hoyIso > (d.hasta || d.desde)) return;
       add({ franja: d.franja || "noche", dest: d, rango: 0 });
@@ -437,7 +447,7 @@
       const ini = new Date(e.ini);
       if (isNaN(ini)) return;
       const fin = e.fin ? new Date(e.fin).getTime() : ini.getTime() + (e.serie ? 3 : 1) * 3600e3;
-      if (Date.now() > fin) return;   // ya empezó hace rato o ya terminó: no se muestra
+      if (!off && Date.now() > fin) return;   // ya empezó hace rato o ya terminó: no se muestra
       let local;
       try { local = new Date(ini.toLocaleString("en-US", { timeZone: X.tz || city.tz || "UTC" })); } catch (err) { local = ini; }
       const lb = new Date(local);
@@ -462,36 +472,106 @@
   /* Tarjeta de carrusel para Hoy (tarjeta #138). Un lugar de la guía usa su foto; un evento usa la foto del lugar donde se hace
      si ese lugar está en la guía, y si no, una portada con el ícono y la hora. */
   const hoyTile = it => {
+    /* Fecha del calendario del mes (data/<ciudad>-extra.js, events): lleva a Info → Calendario. */
+    if (it.cal) {
+      const e = it.cal;
+      return '<a class="tile" style="--c:#7c5cbf" href="#/info/calendario"><span class="media noph tile-media hoy-cal" style="--c:#7c5cbf"><em aria-hidden="true">' + e.icon + '</em><i class="hoy-tag">' + esc(e.when) + "</i></span>" +
+        '<span class="tile-body"><b>' + esc(e.name) + "</b><span>" + esc(e.desc) + "</span></span></a>";
+    }
     if (it.p) {
       const p = it.p;
-      return '<button class="tile" style="--c:' + cats[p.cat].color + '" data-open="' + p.id + '">' + media(p, 500, "tile-media") +
+      let m = media(p, 500, "tile-media");
+      if (it.tag) m = m.replace(/<\/span>$/, '<i class="hoy-tag">' + esc(it.tag) + "</i></span>");
+      return '<button class="tile" style="--c:' + cats[p.cat].color + '" data-open="' + p.id + '">' + m +
         '<span class="tile-body"><b>' + esc(it.que || p.name) + "</b><span>" + (it.que ? '<i data-notr>' + esc(p.name) + "</i> · " + esc(p.barrio) : esc(p.sub) + " · " + esc(p.barrio)) + "</span></span></button>";
     }
     const d = it.dest, e = it.ev;
     const t = d ? d.t : e.t, href = d ? d.url : e.url, lugar = d ? d.lugar : e.lugar, barrio = d ? d.barrio : e.barrio;
     const lp = lugar && byId[slug(lugar)];
     const c = (cats[it.franja === "noche" ? "noche" : "ver"] || {}).color || "#5b6b7c";
-    const tag = d ? "⭐ Destacado" : it.lugares ? "🎉" : (e.serie ? "🖼️ " : "📅 ") + esc(it.hora);
+    const tag = d ? "⭐ " + esc(it.tag || "Destacado") : it.lugares ? "🎉" : (e.serie ? "🖼️ " : "📅 ") + esc(it.hora);
     const cover = lp && lp.photo ? '<span class="media tile-media"><img src="' + esc(photo(lp.photo, 500)) + '" alt="" loading="lazy" decoding="async"><i class="hoy-tag">' + tag + "</i></span>"
       : '<span class="media noph tile-media" style="--c:' + c + '"><span class="ph-name"><b>' + tag + "</b></span></span>";
     const sub = it.lugares ? "<span>En muchos lugares</span> <span>(" + it.lugares + ")</span>" : [lugar ? '<i data-notr>' + esc(lugar) + "</i>" : "", barrio ? esc(barrio) : ""].filter(Boolean).join(" · ");
     return '<a class="tile' + (d ? " hoy-dest" : "") + '" style="--c:' + c + '" href="' + esc(href) + '" target="_blank" rel="noopener">' + cover +
-      '<span class="tile-body"><b data-notr>' + esc(t) + "</b><span>" + sub + ((d ? d.gratis : e.gratis) ? " · Gratis" : "") + "</span></span></a>";
+      '<span class="tile-body"><b' + (d ? "" : " data-notr") + '>' + esc(t) + "</b><span>" + sub + ((d ? d.gratis : e.gratis) ? " · Gratis" : "") + "</span></span></a>";
   };
   /* Otras agendas para buscar planes: están en data/<ciudad>-local.js (agendas). Instagram no se puede leer automáticamente; lo que se vea ahí se suma a mano en data/<ciudad>-hoy.js. */
   const MAS_AGENDAS = LOC.agendas || [];
+  /* Esta semana (tarjeta #172): de pasado mañana en adelante, lo fijo de la agenda, los lugares que abren algunos días
+     y los destacados que empiezan ese día. Cada cosa aparece una vez, con el primer día en que pasa. */
+  const semanaItems = skip => {
+    const out = [], seen = Object.assign({}, skip), base = hoyBase();
+    for (let off = 2; off <= 6; off++) {
+      const d = new Date(base);
+      d.setDate(d.getDate() + off);
+      const tag = diaCorto(d), iso = isoD(d);
+      (X.agenda || []).forEach(a => {
+        const p = byId[a.lugar], k = p && p.id + "|" + a.que;
+        if (!p || seen[k] || !agendaToca(a, d)) return;
+        seen[k] = seen[p.id] = 1;
+        out.push({ franja: a.franja, p, que: a.que, tag, orden: off });
+      });
+      places.forEach(p => {
+        const o = X.only && X.only[p.id];
+        if (!o || seen[p.id] || o.indexOf(d.getDay()) < 0) return;
+        seen[p.id] = 1;
+        out.push({ franja: p.cat === "noche" ? "noche" : "dia", p, tag, orden: off });
+      });
+      (X.destacados || []).forEach(x => {
+        if (!x.url || x.desde !== iso || seen[x.url]) return;
+        seen[x.url] = 1;
+        out.push({ franja: x.franja || "noche", dest: x, tag, orden: off });
+      });
+    }
+    return out;
+  };
+  /* Este mes (tarjeta #172): lo que pasa una vez por mes (primer domingo gratis, nocturnas), los destacados que siguen
+     en lo que queda del mes y las fechas del calendario de la ciudad. */
+  const mesItems = () => {
+    /* Hasta fin de mes, y como mínimo las próximas tres semanas (a fin de mes ya se ve el primer domingo del que viene). */
+    const base = hoyBase(), mes = base.getMonth(), out = [], seen = {};
+    const tope = new Date(Math.max(new Date(base.getFullYear(), mes + 1, 0, 12).getTime(), base.getTime() + 21 * 864e5));
+    const d0 = new Date(base);
+    d0.setDate(d0.getDate() + 7);   // lo de esta semana ya está en su carrusel
+    for (const d = new Date(d0); d <= tope; d.setDate(d.getDate() + 1)) {
+      (X.agenda || []).forEach(a => {
+        const p = byId[a.lugar], k = p && p.id + "|" + a.que;
+        if (!a.n || !p || seen[k] || !agendaToca(a, d)) return;
+        seen[k] = 1;
+        out.push({ franja: a.franja, p, que: a.que, tag: diaCorto(d), orden: d.getTime() });
+      });
+    }
+    const desde = isoD(d0), fin = isoD(tope);
+    (X.destacados || []).forEach(x => {
+      if (!x.url || x.desde < desde || x.desde > fin) return;   // lo que ya empezó está en Hoy, y lo de esta semana en su carrusel
+      out.push({ franja: x.franja || "noche", dest: x, tag: "Desde el " + dm(x.desde), orden: new Date(x.desde + "T12:00").getTime() });
+    });
+    /* Fechas del calendario de este mes; las de un día fijo que ya pasó ("9 de noviembre") no se muestran. */
+    const pasada = e => { const m = /^(\d{1,2}) de /.exec(e.when); return !!m && e.m.length === 1 && +m[1] < base.getDate(); };
+    (X.events || []).filter(e => e.m.indexOf(mes + 1) > -1 && !pasada(e)).forEach(e => out.push({ cal: e, orden: 9e15 }));
+    return out;
+  };
   const hoyHtml = () => {
-    const items = hoyItems();
-    const grp = (title, arr) => {
+    const items = hoyItems(0);
+    /* Mañana: lo de la agenda y los destacados primero; de la agenda oficial, los primeros. */
+    const man = hoyItems(1).map(it => it.p ? Object.assign({ tag: it.franja === "noche" ? "De noche" : "De día" }, it) : it);
+    /* Lo que ya está en Mañana no se repite en Esta semana. */
+    const ya = {};
+    man.forEach(it => { if (it.p) ya[it.p.id] = ya[it.p.id + "|" + it.que] = 1; if (it.dest) ya[it.dest.url] = 1; });
+    const sem = semanaItems(ya), mes = mesItems();
+    const grp = (title, arr, max) => {
       if (!arr.length) return "";
       arr.sort((a, b) => (a.rango === undefined ? 1 : a.rango) - (b.rango === undefined ? 1 : b.rango) || (a.orden || 0) - (b.orden || 0));
       /* En carrusel, una al lado de la otra con foto y nombre, como "No te lo podés perder" (tarjeta #138). */
-      return '<h3 class="hoy-h">' + title + '</h3><div class="rail">' + arr.map(hoyTile).join("") + "</div>";
+      return '<h3 class="hoy-h">' + title + '</h3><div class="rail">' + arr.slice(0, max || 40).map(hoyTile).join("") + "</div>";
     };
+    const todo = items.concat(man, sem, mes);
     return '<section class="section" id="hoy">' + head("Hoy en " + esc(city.name)) +
-      (items.length ? grp("De día", items.filter(i => i.franja === "dia")) + grp("A la noche", items.filter(i => i.franja === "noche")) : '<p class="hint">Por ahora no hay nada cargado para hoy. Mirá estas agendas.</p>') +
-      (() => { const m = cityNow().getMonth() + 1, ev = (X.events || []).filter(e => e.m.indexOf(m) > -1); return ev.length ? '<a class="hoy-mes" href="#/info/calendario"><em aria-hidden="true">🗓️</em><span><small>Este mes</small>' + ev.map(e => "<b>" + esc(e.name) + "</b>").join("") + '</span><i aria-hidden="true">→</i></a>' : ""; })() +
-      (items.some(i => i.ev || i.dest) ? '<p class="hint hoy-nota">' + (LOC.hoyNota || "⭐ Destacados de la semana. 📅 Agenda oficial de la Ciudad. 🖼️ Muestras y ciclos. Confirmá en su página antes de ir.") + "</p>" : "") +
+      (items.length ? grp("De día", items.filter(i => i.franja === "dia")) + grp("A la noche", items.filter(i => i.franja === "noche"))
+        : '<p class="hint">' + (todo.length ? "Por hoy ya no queda nada cargado. Mirá lo que viene." : "Por ahora no hay nada cargado para hoy. Mirá estas agendas.") + "</p>") +
+      grp("Para mañana", man, 16) + grp("Esta semana", sem) + grp("Este mes y lo que viene", mes) +
+      (todo.some(i => i.ev || i.dest) ? '<p class="hint hoy-nota">' + (LOC.hoyNota || "⭐ Destacados de la semana. 📅 Agenda oficial de la Ciudad. 🖼️ Muestras y ciclos. Confirmá en su página antes de ir.") + "</p>" : "") +
       (MAS_AGENDAS.length ? '<details class="hoy-mas hoy-agendas"><summary>Buscar más planes</summary><div class="acts">' +
       MAS_AGENDAS.map(a => '<a class="act" href="' + a[2] + '" target="_blank" rel="noopener"><em aria-hidden="true">' + a[0] + "</em><span><b>" + a[1] + "</b></span></a>").join("") +
       "</div></details>" : "") + "</section>";

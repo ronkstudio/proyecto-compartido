@@ -1,0 +1,28 @@
+1|Esta semana
+2|Janeiro
+3|Por hoje não há mais nada. Veja o que vem por aí.
+4|Aberto até a noite: quartas e sextas
+5|Aberto até a noite: quintas
+6|Aberto até a noite: sextas
+7|Aberto até a noite: sábados
+8|A jam das segundas: primeiro um show, depois palco aberto
+9|Noite grátis na primeira sexta do mês
+10|Grátis no primeiro domingo do mês, com reserva
+11|Grátis no primeiro domingo do mês
+12|Noite estendida na primeira quinta do mês
+13|Concerto grátis na hora do almoço no foyer
+14|Jam session das terças
+15|Jam session de madrugada, depois do show
+16|Klubnacht: começa sábado à meia-noite e segue no domingo
+17|Domingo em família: atividades para crianças
+18|Semana Verde (Grüne Woche)
+19|A grande feira de comida e agricultura no centro de exposições: estandes de todas as regiões da Alemanha e de outros países para provar de tudo.
+20|Festival de música contemporânea do Berliner Festspiele, com concertos e obras novas durante dez dias.
+21|Amanhã
+22|Este mês e o que vem
+23|Luzes de Natal na Champs-Élysées
+24|Volta o mercado de Natal da Champs-Élysées
+25|Aberto 30 horas seguidas, entrada grátis
+26|Mercado de Natal do Gendarmenmarkt (WeihnachtsZauber)
+27|Mercado de Natal do Palácio de Charlottenburg
+28|À noite
