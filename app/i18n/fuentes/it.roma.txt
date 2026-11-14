@@ -1,0 +1,874 @@
+1|Tutto quello che ti serve per girare la città
+2|Rovine antiche, chiese, musei e piazze
+3|Trattorie, pizza, gelato, caffè e cucina romana
+4|Bar, enoteche, cocktail e musica dal vivo
+5|Mercati, vie dello shopping e mercatini delle pulci
+6|Opera, concerti, cinema e attività con i bambini
+7|Centro storico
+8|Il cuore di Roma
+9|Il Pantheon, piazza Navona, Campo de' Fiori, la Fontana di Trevi e l'antico Ghetto ebraico, con vicoli in cui perdersi.
+10|La base migliore per una prima visita: quasi tutto si fa a piedi.
+11|Colosseo e Fori
+12|La Roma antica
+13|Il Colosseo, il Foro Romano, il Palatino e il colle del Campidoglio con i suoi musei.
+14|Molto centrale, ma la sera c'è poco movimento fuori da Monti.
+15|Bohémien e di quartiere
+16|Il rione più antico di Roma, accanto al Colosseo, con negozi di design, enoteche e la piazza della Madonna dei Monti.
+17|Affascinante e centrale, con una bella vita notturna.
+18|Pittoresco e notturno
+19|Vicoli acciottolati coperti d'edera, la basilica di Santa Maria in Trastevere e tante trattorie e bar dall'altra parte del Tevere.
+20|Pieno di fascino, ideale per uscire a cena; la sera può essere rumoroso.
+21|Vaticano e Prati
+22|Monumentale e ordinato
+23|La basilica e la piazza di San Pietro, i Musei Vaticani e Castel Sant'Angelo; accanto, Prati, con strade larghe e negozi.
+24|Tranquillo e sicuro, ben collegato con la linea A della metro.
+25|Piazza di Spagna e Tridente
+26|Elegante e commerciale
+27|La scalinata di Piazza di Spagna, via del Corso, via Condotti con le grandi firme e piazza del Popolo.
+28|Centrale e con hotel di categoria; di solito caro.
+29|Villa Borghese
+30|Verde e pieno di musei
+31|Il grande parco della città, con la Galleria Borghese, lo zoo e la terrazza del Pincio su piazza del Popolo.
+32|Esquilino e Termini
+33|Pratico e multiculturale
+34|La stazione Termini, la basilica di Santa Maria Maggiore, il mercato Esquilino e cibo da tutto il mondo.
+35|Tanti hotel e ostelli economici e tutto collegato; di sera, intorno alla stazione, bisogna stare attenti.
+36|Popolare e gastronomico
+37|Il quartiere della cucina romana di sempre, con il suo mercato, il Cimitero Acattolico e la Piramide Cestia.
+38|Autentico e tranquillo, con ottimo cibo.
+39|Tranquillo e panoramico
+40|Un colle residenziale con il Giardino degli Aranci e il famoso buco della serratura dei Cavalieri di Malta, di fronte al Circo Massimo.
+41|Molto silenzioso; meglio per passeggiare che per alloggiare.
+42|Universitario e notturno
+43|Il quartiere degli studenti, accanto all'università La Sapienza, con street art, bar economici e trattorie.
+44|Economico e con tanta vita notturna; non è la zona più bella.
+45|Alternativo e di tendenza
+46|Una strada pedonale con bar, street art e la Roma dei film di Pasolini.
+47|Per chi conosce già il centro e cerca qualcosa di diverso.
+48|Industriale e moderno
+49|Vecchie fabbriche trasformate in spazi d'arte, la Basilica di San Paolo fuori le Mura e vita notturna.
+50|Meglio per uscire la sera che per alloggiare.
+51|Via Appia
+52|Campagna romana e catacombe
+53|L'antica Via Appia, con le sue catacombe, tombe e pini, ideale da percorrere in bicicletta.
+54|Roma in 1 giorno
+55|Prenota l'orario sul sito ufficiale e vai per primo.
+56|Stesso biglietto.
+57|Guarda il Foro dalla terrazza sul retro.
+58|Pizza al taglio veloce.
+59|Un gelato lungo la strada.
+60|Lancia la moneta dando le spalle alla fontana.
+61|Cena romana; prenota per tempo.
+62|Giorno 1 · mattina
+63|Vini a Monti.
+64|Giorno 2 · mattina
+65|Prenota su museivaticani.va.
+66|Giorno 2 · mezzogiorno
+67|Attraversa per cenare a Trastevere.
+68|Giorno 3 · mattina
+69|Solo su prenotazione.
+70|Prenota.
+71|Giorno di pioggia
+72|Pranzo al coperto a Termini.
+73|Guarda la pioggia cadere dall'oculo.
+74|Roma gratis
+75|Il meglio senza spendere in biglietti.
+76|L'ingresso è gratuito; la cupola si paga.
+77|Tre Caravaggio gratis.
+78|Una giornata pensata per i bambini.
+79|Biciclette, barche e risciò a pedali.
+80|Prenota il turno.
+81|Vaticano (Ottaviano), Piazza di Spagna, Piazza del Popolo (Flaminio), Termini e San Giovanni in Laterano
+82|Termini, Colosseo, Circo Massimo, Piramide (Testaccio e Ostiense) e San Paolo fuori le Mura
+83|Da Pigneto e San Giovanni fino al Colosseo; continua a essere prolungata verso il centro
+84|Paga con la carta
+85|Ai tornelli della metro e su autobus e tram puoi pagare avvicinando la carta contactless o il telefono (Tap & Go). Usa sempre la stessa carta per entrare e per ogni corsa.
+86|Biglietto BIT
+87|Vale 100 minuti dalla convalida: in quel tempo puoi prendere autobus e tram senza limiti, ma la metro una sola volta.
+88|Abbonamenti per turisti
+89|Roma 24H, 48H e 72H, e il settimanale CIS: corse illimitate su metro, autobus, tram e treni urbani. Partono dalla prima convalida.
+90|Alle macchinette delle stazioni della metro, nelle edicole e nei tabaccai (insegna con la T) e nelle app MyCicero o Tabnet.
+91|Convalida sempre
+92|Sull'autobus il biglietto di carta si convalida nella macchinetta gialla appena sali. Ci sono controllori e la multa è alta.
+93|14 novembre 2026, con i siti di ATAC, Trenitalia e Aeroporti di Roma. Se qualcosa non coincide, valgono i cartelli dei trasporti.
+94|Roma ha solo tre linee: A (arancione), B (blu) e C (verde). Si incrociano a Termini (A e B), San Giovanni (A e C) e Colosseo (B e C).
+95|Cosa non copre
+96|La metro quasi non entra nel centro storico, per via delle rovine sottoterra. Al Pantheon, a piazza Navona o a Trastevere si arriva a piedi, in autobus o in tram.
+97|Funziona da presto fino alle 23:30 circa, e più tardi il venerdì e il sabato. Di notte ci sono gli autobus notturni.
+98|Ogni direzione prende il nome del capolinea. Segui i cartelli con la lettera e il nome di quel capolinea.
+99|Autobus e tram
+100|Sono il modo per arrivare nel centro storico. Ci sono molte linee e a volte sono pieni: attento alle tue cose.
+101|Tram 8
+102|Collega piazza Venezia, largo Argentina e Trastevere: utilissimo per passare dall'altra parte del Tevere.
+103|Quando chiude la metro circolano gli autobus notturni (con la lettera N).
+104|Usa Google Maps, Moovit o l'app di ATAC: indicano linea, fermata e quanto manca.
+105|Fiumicino (FCO)
+106|L'aeroporto principale. Il treno Leonardo Express va diretto a Termini in poco più di mezz'ora; il regionale FL1 ferma a Trastevere, Ostiense e Tiburtina.
+107|Ciampino (CIA)
+108|Quello delle low cost. Non ha un treno diretto: ci sono autobus per Termini e per alcune stazioni della metro.
+109|Taxi a tariffa fissa
+110|Da entrambi gli aeroporti a qualsiasi punto dentro le Mura Aureliane (il centro), i taxi bianchi di Roma applicano una tariffa fissa. Chiedila prima di salire.
+111|Stazioni
+112|Roma Termini è la principale; anche Roma Tiburtina ha treni veloci. Da lì partono per Firenze, Napoli, Milano e Venezia.
+113|Treni veloci
+114|Frecciarossa (Trenitalia) e Italo. Conviene comprare in anticipo: il prezzo sale avvicinandosi alla data.
+115|Hanno prezzo fisso e non serve prenotare. Il biglietto cartaceo si convalida prima di salire.
+116|Sono bianchi, con l'insegna TAXI sul tetto e lo stemma di Roma sulla portiera. Si prendono ai posteggi o si chiamano per telefono o app.
+117|FREENOW, itTaxi e Uber (a Roma Uber lavora con auto con conducente e taxi). Mostrano il prezzo o una stima prima di ordinare.
+118|In aeroporto e a Termini usa solo la fila dei taxi ufficiale. Non accettare offerte da chi ti si avvicina.
+119|A piedi e in bicicletta
+120|Il centro si gira a piedi: quasi tutto è a 20 o 30 minuti. Porta scarpe comode: ci sono sampietrini e salite.
+121|Bici e monopattini
+122|Ci sono bici e monopattini elettrici a noleggio tramite app. In centro il traffico è caotico: vai con prudenza.
+123|Zona a traffico limitato
+124|Nel centro storico le auto non possono entrare senza permesso (ZTL). Se noleggi un'auto, lasciala fuori: le multe arrivano da sole.
+125|Emergenze (numero unico europeo)
+126|Ambulanza
+127|Informazioni turistiche (Roma Capitale)
+128|Succede soprattutto in metro e sugli autobus affollati (la linea 64 per il Vaticano è famosa), a Termini e nei luoghi pieni di gente.
+129|Porta lo zaino davanti e le tasche chiuse, soprattutto salendo e scendendo dalla metro.
+130|Alla Fontana di Trevi, al Colosseo, a Piazza di Spagna e in piazza San Pietro agiscono gruppi organizzati: attento al telefono mentre scatti foto.
+131|Sui dehors e nei bar, non lasciare il telefono sul tavolo né lo zaino appeso alla sedia.
+132|Roma è una città sicura da girare; questi sono i posti dove conviene stare più attenti, soprattutto di sera.
+133|Le zone intorno alla stazione Termini di sera, soprattutto piazza dei Cinquecento e le vie dal lato di via Giolitti.
+134|Le banchine e le scale della metro a Termini e Spagna nelle ore di punta.
+135|Le zone dei bar di Trastevere, San Lorenzo e Campo de' Fiori a notte fonda.
+136|I finti centurioni del Colosseo: ti offrono una foto e poi chiedono molti soldi. Se vuoi la foto, concorda prima il prezzo.
+137|I braccialetti e le rose: ti legano un braccialetto o ti mettono un fiore in mano e poi pretendono soldi. Non porgere la mano.
+138|Bagarini nella fila dei Musei Vaticani e del Colosseo: compra solo sui siti ufficiali.
+139|Taxi abusivi negli aeroporti e a Termini: usa solo la fila ufficiale o un'app.
+140|Se subisci un furto, sporgi denuncia in qualsiasi commissariato della Polizia o stazione dei Carabinieri. Ti servirà per l'assicurazione e i documenti.
+141|Fai un'assicurazione di viaggio: le cure d'urgenza sono buone, ma senza copertura possono costare care.
+142|Si accettano quasi ovunque, anche contactless e con il telefono. Conviene avere un po' di contanti per i caffè al banco e i mercati.
+143|Usa quelli delle banche (Bancomat). Se ti propongono di addebitare nella tua valuta, scegli sempre gli euro: il cambio del bancomat è peggiore.
+144|Il coperto
+145|Molti ristoranti fanno pagare un "coperto" a persona (pane e posate). È legale se è indicato nel menù.
+146|Non è obbligatoria. Di solito si arrotonda o si lascia qualche euro se il servizio è stato buono.
+147|Tassa di soggiorno
+148|Gli hotel fanno pagare una tassa di soggiorno a persona e a notte, oltre alla tariffa. Si paga nella struttura.
+149|Orari romani
+150|Pranzo dalle 13 alle 15 e cena dalle 20 alle 23. Fuori da questi orari molte cucine chiudono: cerca una pizza al taglio o un bar.
+151|Il caffè
+152|Il caffè si beve veloce e in piedi al banco, e costa meno che seduti al tavolo. Il cappuccino è da mattina.
+153|Aperitivo
+154|Tra le 18 e le 20 molti bar servono l'aperitivo: un drink con qualcosa da stuzzicare.
+155|Molti musei statali chiudono il lunedì. I Musei Vaticani chiudono la domenica, tranne l'ultima domenica del mese.
+156|Per il Colosseo, i Musei Vaticani e la Galleria Borghese bisogna prenotare l'orario sul sito ufficiale, a volte con settimane di anticipo.
+157|Mite e soleggiato: la stagione migliore, ma anche la più affollata.
+158|Molto caldo, oltre i 30 °C. I romani partono ad agosto e alcuni negozi chiudono.
+159|Piacevole fino a ottobre; a novembre piove parecchio.
+160|Fresco, tra i 5 e i 15 °C, con meno turisti. A Natale ci sono presepi e mercatini.
+161|230 V. Prese di tipo F e L (due o tre spinotti tondi). Se vieni dall'Argentina, porta un adattatore.
+162|L'acqua delle fontanelle di strada (i "nasoni") è potabile e fresca: porta una borraccia da riempire.
+163|Per avere dati, la cosa più semplice è una eSIM o una SIM locale.
+164|Italiano. Nelle zone turistiche molti parlano inglese; un "buongiorno" entrando cambia molto l'accoglienza.
+165|Chiese
+166|Per entrare nelle chiese e in Vaticano spalle e ginocchia devono essere coperte. Porta un foulard.
+167|Le farmacie hanno una croce verde. Emergenze: 112 o 118.
+168|Entrando in un negozio si dice "Buongiorno" (o "Buonasera" il pomeriggio) e "Grazie, arrivederci" uscendo.
+169|Il conto non arriva da solo: chiedilo con "Il conto, per favore". Antipasto, primo e secondo sono facoltativi: nessuno ordina tutto.
+170|Fontane
+171|Alla Fontana di Trevi e nelle altre fontane è vietato entrare o sedersi sul bordo: ci sono multe.
+172|Le quattro paste romane (carbonara, cacio e pepe, amatriciana e gricia), i supplì, la pizza al taglio, la porchetta, i carciofi alla giudia e il gelato artigianale.
+173|Romano antico
+174|3 luoghi della Roma antica
+175|Di chiesa in chiesa
+176|3 chiese
+177|Carbonara e compagnia
+178|2 trattorie
+179|Gelato
+180|2 gelaterie
+181|Romano onorario
+182|Adattatore per prese tipo F o L (230 V)
+183|Prenotare il Colosseo, i Musei Vaticani e la Galleria Borghese
+184|Prendere il Leonardo Express o il taxi a tariffa fissa da Fiumicino
+185|Pagare i mezzi con la carta contactless, o comprare un abbonamento
+186|Portare un foulard per entrare in chiesa con le spalle coperte
+187|Classici romani
+188|Belvedere
+189|Chiese con capolavori
+190|Pasta romana
+191|Pizza
+192|Gelato artigianale
+193|Cucina giudaico-romanesca
+194|Vini e cocktail
+195|Colosseo e Roma antica
+196|Vaticano
+197|Piazza di Spagna e Villa Borghese
+198|Trastevere e Testaccio
+199|Esquilino e San Giovanni
+200|6 gennaio
+201|La Befana
+202|La festa dell'Epifania: la fiera di dolci e giocattoli a piazza Navona, allestita da dicembre.
+203|Maratona di Roma
+204|Passa per il Colosseo, San Pietro e il centro; quella domenica ci sono molte strade chiuse.
+205|Settimana Santa
+206|Pasqua in Vaticano
+207|La Via Crucis del Venerdì Santo al Colosseo e la messa di Pasqua in piazza San Pietro. C'è tantissima gente.
+208|21 aprile
+209|Compleanno di Roma
+210|Il Natale di Roma: sfilate di persone vestite da antichi romani al Circo Massimo e musei con attività.
+211|Maggio
+212|Internazionali d'Italia di tennis
+213|Uno dei grandi tornei sulla terra rossa, al Foro Italico.
+214|2 giugno
+215|Festa della Repubblica
+216|Parata militare in via dei Fori Imperiali e le Frecce Tricolori che dipingono il cielo di verde, bianco e rosso.
+217|29 giugno
+218|Santi Pietro e Paolo
+219|La festa dei santi patroni di Roma, con la messa a San Pietro e i fuochi d'artificio a Castel Sant'Angelo.
+220|Da giugno a settembre
+221|Estate romana
+222|Cinema all'aperto, concerti, opera alle Terme di Caracalla e bancarelle lungo il Tevere (Lungo il Tevere).
+223|Festa de' Noantri
+224|La festa popolare di Trastevere, con processione sul fiume e bancarelle nelle strade.
+225|Festa del Cinema di Roma
+226|Festival del cinema all'Auditorium Parco della Musica, con star internazionali.
+227|8 dicembre
+228|L'Immacolata
+229|Il papa rende omaggio alla colonna dell'Immacolata vicino a Piazza di Spagna. Iniziano le feste.
+230|Da dicembre a gennaio
+231|Natale a Roma
+232|Presepi nelle chiese, il grande albero e il presepe di piazza San Pietro e il mercatino di piazza Navona.
+233|Festa con concerti gratuiti al Circo Massimo. C'è molta gente: attento alle tue cose.
+234|Entrata · Uscita
+235|Aperto · Chiuso
+236|Binario
+237|Binario, nelle stazioni ferroviarie.
+238|Biglietto · Convalidare
+239|Il biglietto e la sua convalida, sui mezzi pubblici.
+240|Coperto
+241|Il costo a persona che si paga in molti ristoranti.
+242|Sciopero
+243|Sciopero: se lo vedi sui mezzi, controlla come spostarti quel giorno.
+244|ZTL
+245|Zona a traffico limitato: le auto non possono entrare senza permesso.
+246|Chiama il 112 o il 118. I grandi ospedali hanno il Pronto Soccorso aperto 24 ore su 24.
+247|Molto consigliata: senza copertura, le cure possono costare care.
+248|La guida include solo luoghi con una reputazione solida: riconoscimenti ufficiali, guide autorevoli e buon consenso nelle recensioni pubbliche.
+249|Gratis la prima domenica del mese (Colosseo, Foro Romano e Palatino), con tantissima gente
+250|Gratis la prima domenica del mese, con prenotazione obbligatoria
+251|Udienza generale del papa al mattino, quando è a Roma (ingresso gratuito, su richiesta)
+252|Angelus del papa a mezzogiorno dalla finestra, quando è a Roma
+253|Tourist Infopoint · Fori Imperiali
+254|Ufficio turistico di Roma Capitale davanti ai Fori. Informazioni, mappe e la Roma Pass.
+255|Tourist Infopoint · Minghetti
+256|A due passi dalla Fontana di Trevi.
+257|Tourist Infopoint · Termini
+258|Dentro la stazione, al piano dei binari.
+259|Tourist Infopoint · Aeroporto di Fiumicino
+260|Informazioni appena arrivi.
+261|Questura di Roma
+262|La sede centrale della Polizia. Denunce e documenti.
+263|Commissariato Trevi · Campo Marzio
+264|Il più vicino al Pantheon, alla Fontana di Trevi e a via del Corso.
+265|Commissariato Trastevere
+266|Per Trastevere e la zona dei locali.
+267|Polizia · Ispettorato Vaticano
+268|Vicino a piazza San Pietro.
+269|Commissariato Viminale
+270|Il più vicino a Termini e a Santa Maria Maggiore.
+271|Commissariato Esquilino
+272|Per l'Esquilino e la zona sud di Termini.
+273|Polizia Ferroviaria · Termini
+274|Dentro la stazione: per furti sui treni e a Termini.
+275|Carabinieri · Piazza Venezia
+276|Anche i Carabinieri ricevono denunce.
+277|Carabinieri · Piazza Farnese
+278|La più vicina a Campo de' Fiori.
+279|Carabinieri · San Lorenzo
+280|Per San Lorenzo e la sua zona dei locali.
+281|Ospedale Santo Spirito in Sassia
+282|Pubblico. Pronto Soccorso 24 ore; il più vicino al Vaticano.
+283|Ospedale Fatebenefratelli · Isola Tiberina
+284|Pronto Soccorso 24 ore, sull'isola del Tevere: il più vicino al centro storico e a Trastevere.
+285|Policlinico Umberto I
+286|Ospedale universitario. Pronto Soccorso 24 ore; vicino a Termini e San Lorenzo.
+287|Ospedale San Giovanni Addolorata
+288|Pubblico. Pronto Soccorso 24 ore; il più vicino al Colosseo e a San Giovanni in Laterano.
+289|Ospedale San Camillo
+290|Pubblico. Pronto Soccorso 24 ore; per Monteverde e il sud di Trastevere.
+291|Policlinico Gemelli
+292|Grande ospedale universitario. Pronto Soccorso 24 ore; a nord del Vaticano.
+293|Ospedale pediatrico Bambino Gesù
+294|Ospedale per bambini. Pronto Soccorso pediatrico 24 ore, sul Gianicolo.
+295|Ospedale Sandro Pertini
+296|Pubblico. Pronto Soccorso 24 ore; per la zona est della città.
+297|Passaporti, documenti e assistenza ai propri cittadini. Indirizzo confermato nella lista ufficiale del Ministero degli Affari Esteri italiano e su cancilleria.gob.ar.
+298|Passaporti, documenti e assistenza ai propri cittadini. Indirizzo confermato nella lista ufficiale del Ministero degli Affari Esteri italiano.
+299|Roma Termini
+300|La stazione principale: treni per tutta Italia, il Leonardo Express per Fiumicino e le linee A e B della metro.
+301|Roma Tiburtina
+302|Treni veloci, il regionale per l'aeroporto e il terminal dei pullman a lunga percorrenza.
+303|Roma Trastevere
+304|Treni regionali, anche per l'aeroporto di Fiumicino (FL1).
+305|Aeroporto di Fiumicino (FCO)
+306|L'aeroporto principale. Leonardo Express per Termini o regionale FL1.
+307|Aeroporto di Ciampino (CIA)
+308|Voli economici. Autobus per Termini e per la metro.
+309|Farmacie aperte oggi a Roma (in italiano).
+310|Informazioni turistiche e sulla città di Roma Capitale, al telefono e online.
+311|Dove sono e quando aprono, su Turismo Roma.
+312|Fuori Roma
+313|Passaporto romano
+314|Segna i posti che hai visitato e guadagna timbri: rovine, pasta, gelato, esploratore di quartieri…
+315|Nottata romana
+316|Nessuna stazione vicina: meglio a piedi, in autobus o in tram
+317|Cosa cerchi? Carbonara, gelato, museo, Trastevere…
+318|Es.: Colosseo, Pantheon, Vaticano…
+319|Es.: Colosseo, Pantheon, Termini…
+320|Es.: ITA Airways, Iberia, Ryanair…
+321|Pasta
+322|Gelato
+323|Fino al centro (Pantheon)
+324|Dall'aeroporto di Fiumicino (FCO)
+325|Dall'aeroporto di Ciampino (CIA)
+326|Fiumicino: treni, autobus e taxi
+327|Sito ufficiale di Aeroporti di Roma
+328|Fiumicino: Leonardo Express e FL1
+329|Treni per il centro
+330|Ciampino: autobus per il centro
+331|Da Fiumicino la cosa più semplice è il Leonardo Express: arriva a Termini in poco più di mezz'ora, senza fermate.
+332|Anche il regionale FL1 parte da Fiumicino e ferma a Trastevere, Ostiense e Tiburtina: conviene se alloggi da quella parte.
+333|Da Ciampino non c'è un treno diretto: ci sono autobus per Termini e per alcune stazioni della metro.
+334|I taxi bianchi di Roma hanno una tariffa fissa da entrambi gli aeroporti fino al centro (dentro le Mura Aureliane). Usa la fila ufficiale.
+335|SIM prepagata, si attiva alle macchinette nei negozi
+336|In Italia, per attivare una SIM chiedono il passaporto.
+337|Molti bar e musei hanno il Wi-Fi gratuito.
+338|Preleva agli sportelli delle banche (Bancomat): gli sportelli isolati nelle zone turistiche costano di più.
+339|Biglietti e abbonamenti
+340|Sito ufficiale di ATAC
+341|Linee della metro
+342|In metro, sugli autobus e sui tram puoi pagare avvicinando la carta contactless: non serve comprare il biglietto.
+343|Se viaggerai molto, confronta con gli abbonamenti Roma 24H, 48H o 72H.
+344|Percorsi in metro, autobus e tram, con orari in tempo reale.
+345|Per chiamare i taxi ufficiali di Roma.
+346|Taxi e auto con conducente, con prezzo stimato.
+347|Taxi e auto con conducente. Vedi il prezzo prima di ordinare.
+348|Per viaggiare fuori Roma
+349|Treni veloci e regionali in tutta Italia: orari, biglietti e ritardi.
+350|ATAC: metro, autobus e tram
+351|Notizie sul servizio, lavori e scioperi. In italiano e inglese.
+352|Roma Servizi per la Mobilità
+353|Traffico, chiusure e stato dei trasporti in tempo reale. In italiano.
+354|Scioperi e manifestazioni nelle notizie del giorno.
+355|⭐ In evidenza questa settimana. Verifica sulla loro pagina prima di andare.
+356|Turismo Roma: eventi
+357|060608: informazioni turistiche e culturali di Roma
+358|Roma ha due aeroporti: Fiumicino (FCO), il grande, per quasi tutti i voli internazionali, e Ciampino (CIA), più piccolo, per i voli low cost. Controlla bene qual è il tuo e da quale terminal parte il volo.
+359|💳 Come pagare e cos'è il coperto
+360|🎫 Come pagare metro e autobus con la carta
+361|Roma antica
+362|Il più grande anfiteatro dell'Impero romano, dove combattevano i gladiatori. Quasi duemila anni dopo è ancora in piedi nel centro della città.
+363|Prenota il biglietto con orario sul sito ufficiale del Parco del Colosseo: include il Foro Romano e il Palatino. Vai presto o a fine giornata.
+364|rovine
+365|Il cuore politico della Roma antica: templi, archi di trionfo e la Via Sacra, tra il Campidoglio e il Colosseo.
+366|Il biglietto è lo stesso del Colosseo. Porta acqua e cappello: c'è poca ombra.
+367|Il colle dove, secondo la leggenda, nacque Roma e dove vivevano gli imperatori. Dall'alto si vedono il Foro e il Circo Massimo.
+368|Stesso biglietto del Colosseo. È la parte più tranquilla e verde della visita.
+369|Un enorme complesso di negozi e uffici di 1.900 anni fa, con dentro il Museo dei Fori Imperiali.
+370|Dalla terrazza si vedono i Fori Imperiali dall'alto. Di solito è meno affollato del Colosseo.
+371|Le gigantesche rovine di terme pubbliche per migliaia di persone, con mosaici e muri di oltre 30 metri.
+372|D'estate l'Opera di Roma fa spettacoli all'aperto nelle terme.
+373|La valle dove si correvano le corse dei carri, con posto per 250.000 persone. Oggi è un grande parco aperto.
+374|È gratuito e sempre aperto. Ideale per vedere il Palatino al tramonto.
+375|Quattro templi della Repubblica romana in mezzo a una piazza trafficata. Qui fu ucciso Giulio Cesare, e oggi ci vivono decine di gatti.
+376|Si vede gratis dal marciapiede. Per scendere tra le rovine sulla passerella c'è un biglietto.
+377|Un teatro romano più antico del Colosseo, con un palazzo costruito sopra nel Rinascimento.
+378|D'estate ci sono concerti all'aperto. È accanto all'antico Ghetto ebraico.
+379|La tomba circolare del primo imperatore romano, riaperta dopo decenni di lavori.
+380|Prenota la visita sul sito ufficiale: i posti sono pochi.
+381|Una piramide in stile egizio di 36 metri, la tomba di un magistrato romano, inglobata nelle mura della città.
+382|Accanto c'è il Cimitero Acattolico, dove riposano Keats e Shelley. Stazione della metro Piramide (linea B).
+383|Il tempio romano meglio conservato al mondo, con la sua cupola di calcestruzzo e il foro aperto verso il cielo. Oggi è una chiesa.
+384|Il biglietto costa poco e si paga all'ingresso o online. Se piove, guarda l'acqua cadere dall'oculo.
+385|La fontana barocca più famosa del mondo. La tradizione dice che se lanci una moneta di spalle, tornerai a Roma.
+386|Dalla piazza si vede gratis; per scendere fino al bordo della fontana c'è un piccolo biglietto. Vai prestissimo o a tarda sera.
+387|La scalinata barocca che sale alla chiesa di Trinità dei Monti, con la fontana della Barcaccia in basso.
+388|È vietato sedersi sui gradini e mangiare lì: ci sono multe.
+389|Il gigantesco monumento bianco a Vittorio Emanuele II e al Milite Ignoto, in piazza Venezia. I romani lo chiamano "la macchina da scrivere".
+390|Sali con l'ascensore panoramico fino alla terrazza: una delle viste più belle di Roma.
+391|Il mascherone di marmo che, secondo la leggenda, morde la mano dei bugiardi. Si trova nel portico della chiesa di Santa Maria in Cosmedin.
+392|Di solito c'è la fila per la foto: vai presto. Si lascia una piccola offerta.
+393|Il mausoleo dell'imperatore Adriano trasformato in fortezza papale, collegato al Vaticano da un passaggio. In cima c'è una terrazza panoramica.
+394|Attraversa a piedi ponte Sant'Angelo, con i suoi angeli del Bernini. La terrazza al tramonto è il meglio.
+395|La grande piazza del Bernini con il colonnato che abbraccia i fedeli, davanti alla basilica di San Pietro.
+396|La domenica a mezzogiorno il papa di solito recita l'Angelus dalla finestra. Ci sono controlli di sicurezza.
+397|Piazza e fontana
+398|La più bella piazza barocca di Roma, sopra un antico stadio, con la Fontana dei Quattro Fiumi del Bernini.
+399|I ristoranti sulla piazza sono cari: bevi qualcosa nei vicoli intorno.
+400|Piazza con mercato di frutta e fiori la mattina e locali la sera, con la statua di Giordano Bruno al centro.
+401|Il mercato è dal lunedì al sabato la mattina. La sera si riempie di giovani.
+402|La grande piazza d'ingresso a Roma da nord, con un obelisco egizio e due chiese gemelle.
+403|Sali la rampa fino alla terrazza del Pincio per vederla dall'alto.
+404|La piazza progettata da Michelangelo sul colle del Campidoglio, con la statua di Marco Aurelio.
+405|Dietro il palazzo del Comune c'è un balcone con vista sul Foro Romano, gratis.
+406|Una piccola e incantevole fontana rinascimentale, con quattro giovani e tartarughe di bronzo, nascosta nel Ghetto.
+407|Abbinala a una passeggiata nel Ghetto ebraico e a un dolce da Boccione.
+408|Una delle collezioni d'arte più grandi del mondo, con le Stanze di Raffaello e la Cappella Sistina dipinta da Michelangelo.
+409|Prenota sul sito ufficiale (museivaticani.va). Chiudono la domenica, tranne l'ultima del mese, gratuita e affollatissima.
+410|Una villa piena di sculture del Bernini e quadri di Caravaggio, Raffaello e Tiziano, in mezzo al parco.
+411|Si entra solo con prenotazione e a turni di due ore. Prenota con settimane di anticipo.
+412|Il museo pubblico più antico del mondo: la Lupa capitolina, il Marco Aurelio originale e una vista incredibile sul Foro.
+413|Non perdere la galleria sotterranea che porta al Tabularium. Controlla gli orari sul sito.
+414|Il meglio del Museo Nazionale Romano: affreschi di ville antiche, mosaici e il Pugile in riposo in bronzo.
+415|Chiuso il lunedì. È davanti a Termini: buon programma se hai tempo prima del treno.
+416|Un palazzo privato con un'enorme collezione d'arte, con Caravaggio, Tiziano e il ritratto di papa Innocenzo X di Velázquez.
+417|L'audioguida è narrata da uno dei proprietari della famiglia. Di solito c'è poca gente.
+418|La Galleria Nazionale d'Arte Antica in un palazzo barocco, con Caravaggio, Raffaello e un enorme soffitto affrescato.
+419|Chiuso il lunedì. C'è un biglietto combinato con la Galleria Corsini, a Trastevere.
+420|Il museo d'arte contemporanea e architettura, in un edificio di curve di cemento di Zaha Hadid.
+421|Chiuso il lunedì. La piazza esterna è pubblica e bella per riposarsi.
+422|Flaminio e Foro Italico
+423|Il grande museo degli Etruschi, il popolo che viveva in Italia prima dei Romani, in una villa rinascimentale.
+424|Chiuso il lunedì. Non perdere il Sarcofago degli Sposi.
+425|Statue romane di marmo tra le macchine di una vecchia centrale elettrica: un mix unico.
+426|È a Ostiense, da abbinare alla street art del quartiere. Controlla gli orari sul sito.
+427|Un palazzo rinascimentale con celebri sculture antiche, come il Trono Ludovisi, a due passi da piazza Navona.
+428|Chiuso il lunedì. Fa parte del Museo Nazionale Romano: il biglietto combinato vale per più sedi.
+429|L'Ara Pacis di Augusto, un altare di marmo scolpito del 9 a.C., dentro una moderna teca di vetro.
+430|È davanti al Mausoleo di Augusto: si visitano insieme.
+431|La storia della comunità ebraica più antica d'Europa e la grande sinagoga dalla cupola quadrata, con visita guidata.
+432|Ci sono controlli di sicurezza. Chiuso il sabato e nelle festività ebraiche.
+433|Arte dell'Ottocento e del Novecento in un palazzo bianco ai margini di Villa Borghese: Klimt, Van Gogh e gli italiani.
+434|Chiuso il lunedì. Ha un caffè con terrazza molto bello.
+435|Cappelle decorate con le ossa di migliaia di frati, con un museo sull'ordine. Impressiona.
+436|Non si possono fare foto. Potrebbe non essere adatto ai bambini piccoli.
+437|La chiesa più grande del mondo, con la Pietà di Michelangelo e il baldacchino del Bernini. Si può salire sulla cupola.
+438|L'ingresso è gratuito; la salita alla cupola si paga. Spalle e ginocchia coperte. Vai presto per evitare la fila.
+439|Una delle quattro basiliche maggiori, con mosaici del V secolo e il soffitto dorato con il primo oro arrivato dall'America.
+440|A pochi isolati da Termini. Qui è sepolto papa Francesco.
+441|La cattedrale di Roma, più antica di San Pietro, con statue gigantesche degli apostoli e un chiostro medievale.
+442|Di fronte c'è la Scala Santa, che i fedeli salgono in ginocchio.
+443|La seconda basilica più grande di Roma, sopra la tomba di San Paolo, con i ritratti di tutti i papi.
+444|Ha un chiostro con colonne a mosaico. Metro B, stazione Basilica San Paolo.
+445|Una delle chiese più antiche di Roma, con mosaici dorati che brillano nell'abside.
+446|La piazza davanti, con la sua fontana, è il cuore di Trastevere.
+447|La chiesa dei francesi a Roma, con tre enormi quadri di Caravaggio sulla vita di San Matteo.
+448|Tieni una moneta per accendere la luce della cappella. A due passi dal Pantheon.
+449|L'unica chiesa gotica di Roma, con il soffitto blu stellato e un Cristo di Michelangelo.
+450|Di fronte c'è l'elefantino con l'obelisco, del Bernini.
+451|La chiesa del Mosè di Michelangelo e delle catene che, secondo la tradizione, legarono San Pietro.
+452|A cinque minuti dal Colosseo, salendo le scale da via Cavour.
+453|Una chiesa piena d'arte: due Caravaggio, una cappella di Raffaello e sculture del Bernini.
+454|Le cappelle con i Caravaggio sono a sinistra dell'altare.
+455|Tre piani di storia: una chiesa del XII secolo sopra un'altra del IV secolo, e sotto un tempio romano.
+456|La chiesa è gratuita; per scendere negli scavi c'è un biglietto.
+457|Chiesa gesuita con un soffitto dipinto che crea una finta cupola: un incredibile gioco prospettico.
+458|Al centro c'è uno specchio per guardare il soffitto senza storcere il collo.
+459|La chiesa madre dei gesuiti, modello del barocco, con uno spettacolare soffitto dorato e affrescato.
+460|Nel pomeriggio di solito c'è una rappresentazione con musica e luci all'altare di Sant'Ignazio.
+461|Una piccola chiesa con la cappella di San Zenone, tutta ricoperta di mosaici dorati del IX secolo.
+462|È dietro l'angolo di Santa Maria Maggiore e quasi nessuno la conosce.
+463|Una basilica del V secolo, semplice e luminosa, con una porta di legno intagliato della stessa epoca.
+464|È accanto al Giardino degli Aranci.
+465|La terrazza su piazza del Popolo, con una delle viste più belle sui tetti e le cupole di Roma.
+466|Il momento migliore è il tramonto.
+467|Un giardino di aranci sul colle Aventino, con vista sul Tevere e sulla cupola di San Pietro.
+468|Abbinalo al buco della serratura dei Cavalieri di Malta, a due isolati.
+469|Il colle sopra Trastevere con la vista più ampia sulla città. Ogni giorno a mezzogiorno si spara un colpo di cannone.
+470|Si sale a piedi da Trastevere per le scalinate, o con l'autobus 115.
+471|Dal buco di una serratura si vede la cupola di San Pietro perfettamente incorniciata da un giardino.
+472|Di solito c'è la fila; scorre veloce. È gratis.
+473|Il grande parco del centro, con laghetti, tempietti, bici a noleggio, musei e lo zoo.
+474|Noleggia una barca sul laghetto o un risciò a pedali per girarlo.
+475|Il parco più grande di Roma, con pini, giardini e una villa, ideale per correre o fare un picnic.
+476|È lontano dal circuito turistico: una vera boccata di verde.
+477|Archi di acquedotti romani in piena campagna, a sud-est della città. Compare in molti film.
+478|Metro A fino a Giulio Agricola o Subaugusta. Ideale al tramonto.
+479|Un parco con curiosi villini, come la Casina delle Civette, e la villa dove visse Mussolini.
+480|Le case del parco sono musei con biglietto a parte.
+481|L'antica strada romana con i suoi basoli originali, tombe, pini e catacombe. La domenica è chiusa al traffico.
+482|Noleggia una bici all'Appia Antica Caffè e percorrila la domenica.
+483|Un orto botanico ai piedi del Gianicolo, con bambù, un giardino giapponese e serre.
+484|Un buon rifugio dal caldo d'estate.
+485|Vicoli acciottolati con i panni stesi, edera sulle facciate e trattorie, dall'altra parte del Tevere.
+486|Giralo nel pomeriggio e resta a cena. La parte più tranquilla è a nord di viale di Trastevere.
+487|Il quartiere ebraico di Roma, con la via principale piena di ristoranti di cucina giudaico-romanesca e rovine antiche.
+488|Assaggia i carciofi alla giudia e la crostata di ricotta e visciole di Boccione.
+489|Un angolo da fiaba: palazzi con torri, archi e decorazioni stravaganti degli anni Venti.
+490|È piccolo: si gira in mezz'ora. Abbinalo a Villa Torlonia.
+491|Un quartiere operaio degli anni Venti con cortili, giardini e case basse: la vera Roma di quartiere.
+492|Metro B, stazione Garbatella. Abbinalo a Ostiense.
+493|Una via rinascimentale dritta con palazzi, chiese e antiquari, parallela al Tevere.
+494|In fondo c'è l'arco coperto d'edera che attraversa la strada.
+495|La via degli artisti, con studi, gallerie e cortili verdi, dove fu girato Vacanze romane.
+496|Tra piazza del Popolo e Piazza di Spagna.
+497|Catacombe
+498|Chilometri di gallerie sotterranee dove venivano sepolti i primi cristiani, tra cui diversi papi.
+499|Solo con visita guidata, che parte spesso ed esiste anche in spagnolo. Porta una giacca: sotto fa freddo.
+500|religione
+501|Catacombe con tombe romane dipinte e una basilica sopra, sulla Via Appia.
+502|Visita guidata obbligatoria. Abbinala a un giro in bici sulla Via Appia.
+503|Le catacombe più estese di Roma, con una basilica sotterranea del IV secolo.
+504|Visita guidata obbligatoria. Di solito meno affollate di San Callisto.
+505|Chiamate "la regina delle catacombe", con la più antica pittura conosciuta della Vergine col Bambino.
+506|Sono a nord, accanto a Villa Ada. Visita guidata obbligatoria.
+507|Trattoria
+508|Trattoria piccolissima di cucina romana di una volta: carbonara, cacio e pepe e carciofi.
+509|Non accetta prenotazioni: vai prima dell'apertura e mettiti in lista.
+510|pasta
+511|cucina romana
+512|Trattoria di famiglia dal 1961 a due passi dal Pantheon, con piatti romani fatti benissimo.
+513|Prenota con molto anticipo sul loro sito. Chiuso la domenica.
+514|Salumeria e formaggeria con ristorante: una delle carbonare più famose di Roma e tanti vini.
+515|Prenota. Se non trovi posto, compra qualcosa al banco.
+516|Trattoria storica di Testaccio, famosa per la cacio e pepe mantecata al tavolo.
+517|Prenota: è sempre piena.
+518|Cucina romana in un locale scavato nel Monte Testaccio, un colle fatto di anfore romane rotte.
+519|Chiedi di vedere la parete di anfore in fondo.
+520|Trattoria di quartiere in una piazzetta tranquilla di Trastevere, con tavoli all'aperto e piatti del giorno.
+521|Ordina i carciofi in stagione (da novembre ad aprile).
+522|Una trattoria di famiglia con cucina marchigiana, a due passi da Santa Maria Maggiore.
+523|Assaggia il tortello con il tuorlo d'uovo. Meglio prenotare.
+524|Trattoria grande e allegra di Trastevere, con la pasta servita nella padella.
+525|Non prende prenotazioni: di solito c'è la fila, ma scorre veloce.
+526|Una delle trattorie più amate dai romani, con fritti, paste e vini naturali.
+527|Lontano dal centro: prendi il tram 8 fino al capolinea Casaletto.
+528|Trattoria storica di San Lorenzo, con carni alla brace e piatti romani.
+529|Una delle migliori opzioni per cenare prima di uscire a San Lorenzo.
+530|Piccola trattoria dell'Esquilino, famosa per la cacio e pepe servita nella forma di formaggio.
+531|Prenota. È vicino a piazza Vittorio.
+532|La casa della cucina del "quinto quarto" (le frattaglie), di fronte al vecchio mattatoio di Testaccio.
+533|Assaggia la coda alla vaccinara. Ha una cantina scavata nel monte.
+534|Pasta fresca che le signore tirano a vista nella vetrina, a due passi da Campo de' Fiori.
+535|Di solito c'è la fila. Ordina la pasta del giorno.
+536|Trattoria moderna di Ostiense con cucina romana di stagione e buoni vini.
+537|Buona opzione per cenare dopo aver girato Ostiense.
+538|Trattoria di Prati con cucina romana curata, famosa per i supplì e l'amatriciana.
+539|Buona opzione dopo il Vaticano, lontano dalle trappole per turisti.
+540|Cucina giudaico-romanesca nel Ghetto: carciofi alla giudia, fiori di zucca e pesce fritto.
+541|È kosher secondo lo stesso ristorante; verifica se per te è importante.
+542|carciofi
+543|Uno dei ristoranti più noti del Ghetto, con tavoli all'aperto accanto alle rovine del Portico d'Ottavia.
+544|Ordina i carciofi fritti e qualcosa della cucina ebraica libica.
+545|Ristorante storico del Ghetto, con tavoli accanto alle colonne romane e la cucina ebraica di sempre.
+546|I carciofi alla giudia si mangiano interi, croccanti come un fiore.
+547|Uno dei ristoranti più antichi di Roma, aperto nel 1860, in una piazzetta nascosta del Ghetto.
+548|Il dolce tipico sono le palle del nonno, palline fritte di ricotta.
+549|La pizzeria romana di sempre: pizza sottile e croccante, tavoli di marmo e supplì.
+550|I romani la chiamano "l'obitorio" per i tavoli di marmo. Aperta solo la sera.
+551|Pizzeria moderna dei Roscioli, con farine speciali e salumi di prima scelta.
+552|Buona opzione per mangiare una pizza a qualsiasi ora vicino a Campo de' Fiori.
+553|Pizza napoletana d'autore con ingredienti che cambiano con le stagioni. Tra le più premiate d'Italia.
+554|Prenota: è sempre piena. È a sud di Trastevere.
+555|Pizzeria di Trastevere con una pizza a metà tra romana e napoletana, e un calzone alla Nutella come dolce.
+556|Non prende prenotazioni: vai presto.
+557|Pizzeria popolare a due passi da piazza Navona, con pizza sottile e prezzi di quartiere.
+558|C'è la fila, ma i tavoli si liberano in fretta.
+559|Pizza al taglio
+560|La pizza al taglio più famosa di Roma, di Gabriele Bonci, con abbinamenti che cambiano di continuo.
+561|Si mangia in piedi o sul marciapiede. Vicino alla stazione Cipro, ideale dopo il Vaticano.
+562|Forno storico con pizza bianca e rossa al taglio, e pane di prima qualità.
+563|Ordina la pizza rossa: la più semplice e la migliore.
+564|Il forno di Campo de' Fiori, con la pizza bianca ripiena di mortadella e altri classici.
+565|Comprala e mangiala in piazza.
+566|Pizza al taglio di quartiere a due passi da largo Argentina, con tanta scelta e buoni prezzi.
+567|Ideale per un pranzo veloce tra un monumento e l'altro.
+568|Supplì gourmet: le crocchette di riso romane con il classico ripieno di pomodoro e mozzarella, e versioni nuove.
+569|Assaggia il classico e uno cacio e pepe.
+570|Il triangolo di pizza bianca ripieno di piatti romani in umido, come il pollo alla cacciatora o le polpette.
+571|Ha diversi locali; questo è ai piedi di ponte Sisto.
+572|Rosticceria di quartiere di Trastevere famosa per i supplì e la pizza al taglio.
+573|Si mangia in piedi. Chiuso la domenica.
+574|Un locale minuscolo che vende panini con la porchetta da più di cent'anni.
+575|Vicino a Termini: un buon pranzo veloce prima del treno.
+576|Un banco del Mercato di Testaccio con panini ripieni di piatti romani, come il bollito o le polpette.
+577|È dentro il mercato, che chiude il pomeriggio e la domenica.
+578|La gelateria storica di Roma, aperta dal 1900, con un salone d'epoca e la panna sopra.
+579|Si paga prima alla cassa e poi si ordina. Assaggia il gusto marron glacé.
+580|Gelato artigianale con gusti originali e opzioni senza glutine, in una piazzetta di Monti.
+581|Prova un gusto insolito: cioccolato al tabacco o pera e formaggio.
+582|Gelateria con laboratorio a vista nella bella via dei Coronari, vicino a piazza Navona.
+583|Salvia e lamponi è il suo gusto più famoso.
+584|Gelateria d'autore (il nome è gelato al contrario) con gusti creativi.
+585|Accanto a piazza San Cosimato, lontano dalla Trastevere più turistica.
+586|Gelato alla crema con cioccolato fuso sul fondo del cono, vicino a Porta Pia.
+587|Chiedi la crema al cioccolato sul fondo: il cono arriva pieno.
+588|Il "Palazzo del Freddo", gelateria aperta nel 1880, con un salone enorme e prezzi bassi.
+589|Vicino a piazza Vittorio. Assaggia il sanpietrino, un cioccolatino gelato.
+590|Uno dei caffè più famosi di Roma, aperto nel 1938, con caffè tostato a legna.
+591|Il caffè arriva già zuccherato: se lo vuoi amaro, chiedilo "amaro".
+592|Torrefazione storica a due passi dal Pantheon, famosa per la granita di caffè con panna.
+593|D'estate ordina la granita di caffè con panna.
+594|Caffè dentro l'antico studio di scultura del Canova, tra statue di gesso.
+595|Sedersi costa caro: prendi qualcosa al banco per vedere il locale.
+596|Una sala da tè inglese aperta nel 1893 ai piedi della scalinata di Piazza di Spagna.
+597|È caro, ma l'atmosfera vale. Ideale per un tè con scones.
+598|Caffè e pasticceria
+599|La caffetteria dei Roscioli, con maritozzi, pasticceria e buon caffè.
+600|Assaggia il maritozzo con la panna, la colazione romana per eccellenza.
+601|Pasticceria del 1916, famosa per i maritozzi con la panna e la crostata di fragoline.
+602|Vai la mattina: i maritozzi finiscono.
+603|Il forno del Ghetto, con la crostata di ricotta e visciole e la pizza ebraica, una barretta di frutta secca.
+604|Non ha insegna né tavoli: cerca la fila all'angolo.
+605|Bar storico del Pigneto, frequentato da Pasolini, con un cortile alberato per la colazione o un drink.
+606|Il cortile è il meglio; servono anche pasti.
+607|Caffè del 1919 a Prati, con bancone d'epoca e un caffè con il cioccolato dentro la tazzina.
+608|Ordina il caffè al cioccolato.
+609|Caffè con poltrone e atmosfera rilassata vicino a Campo de' Fiori; la sera serve cocktail.
+610|Bello per una colazione tranquilla o per lavorare un po'.
+611|Caffè specialty, con chicchi tostati da loro e metodi di filtraggio, cosa rara a Roma.
+612|Se ti manca il caffè filtro, questo è il posto.
+613|L'alta cucina di Heinz Beck all'ultimo piano dell'hotel Rome Cavalieri, con vista su tutta la città. Riconosciuto dalla Guida Michelin.
+614|Prenota con molto anticipo e chiedi un tavolo vicino alla finestra.
+615|Ristorante di alta cucina nel centro storico, con menù degustazione creativi. Riconosciuto dalla Guida Michelin.
+616|Prenota in anticipo.
+617|Cucina creativa di Cristina Bowerman in un locale moderno di vetro e acciaio a Trastevere. Riconosciuto dalla Guida Michelin.
+618|Aperto solo la sera. Meglio prenotare.
+619|Alta cucina con piatti romani reinventati, tra cui una carbonara famosissima. Riconosciuto dalla Guida Michelin.
+620|Prenota; ordina la carbonara anche se scegli il menù degustazione.
+621|Alta cucina nel salone di una villa liberty sul Tevere. Riconosciuto dalla Guida Michelin.
+622|Ideale per un'occasione speciale.
+623|Ristorante e caffè vegano in pieno centro, con versioni vegetali di piatti italiani.
+624|Secondo OpenStreetMap, è tutto vegano.
+625|Trattoria vegana vicino a Termini, con carbonara e altri classici romani senza prodotti animali.
+626|Buona opzione se arrivi o parti in treno.
+627|Buffet vegano a peso, con tanti piatti caldi e freddi, vicino a Porta Pia.
+628|Si paga in base a quello che ti servi: abbondante ed economico.
+629|Bistrot vegano con gatti liberi nella sala, a Ostiense.
+630|Se non ti piacciono i gatti, non fa per te.
+631|Pizzeria e ristorante napoletano con cucina separata senza glutine: pizza, pasta e fritti per celiaci.
+632|Secondo OpenStreetMap e le guide per celiaci, è tutto senza glutine. Verifica sempre nel locale.
+633|Pizzeria senza glutine a due passi da Campo de' Fiori, certificata dall'Associazione Italiana Celiachia.
+634|Verifica sempre nel locale prima di ordinare.
+635|Forno e caffè senza glutine in centro, con pane, pizza e dolci per celiaci.
+636|Ideale per la colazione o per portarti qualcosa per la giornata. Verifica sempre nel locale.
+637|Pasticceria senza glutine e senza lattosio, con torte, pasticcini e colazioni.
+638|Lontano dal centro, vicino alla Basilica di San Paolo. Verifica sempre nel locale.
+639|Bar nascosto in stile Proibizionismo, tra i più premiati d'Italia, con cocktail classici.
+640|Bisogna prenotare e chiedere la parola d'ordine sul loro sito. Nessuna insegna sulla porta.
+641|Un'ex officina meccanica trasformata in bar, con aperitivo e gente nella piazza davanti.
+642|All'ora dell'aperitivo si riempie: prendi il drink ed esci in piazza.
+643|aperitivo
+644|Bar dal design scandinavo davanti alle colonne del Tempio di Adriano.
+645|I tavoli fuori, di fronte al tempio, sono il meglio.
+646|Cocktail bar d'autore al Pigneto, tra i più noti della nuova movida romana.
+647|Abbinalo a un giro nella via pedonale del Pigneto.
+648|Terrazza in quota con vista sulla cupola di Sant'Agnese e su piazza Navona.
+649|Una delle prime enoteche di Roma, con una carta dei vini enorme e piatti da stuzzicare.
+650|È accanto alla statua di Pasquino, dove i romani affiggevano le loro critiche.
+651|Enoteca di quartiere con vini al calice, formaggi e salumi.
+652|Ideale per l'aperitivo; la sera si riempie di romani.
+653|Enoteca di Monti coperta d'edera, con vini e piatti semplici.
+654|Arriva presto: è piccola e si riempie.
+655|Bar di vini naturali e mezcal a Monteverde, con piatti da condividere.
+656|È in cima al Gianicolo: abbinalo al tramonto al belvedere.
+657|Piccolissimo pub di birra artigianale a Trastevere, famoso tra gli appassionati.
+658|Si beve fuori, sul marciapiede.
+659|Birreria con oltre cento birre italiane e hamburger, vicino a Campo de' Fiori.
+660|Buona opzione per provare le birre artigianali italiane.
+661|Birreria con tante spine di birra artigianale e cucina, a sud di Trastevere.
+662|Vicino a Porta Portese.
+663|Birreria con tante spine di birra artigianale italiana e cibo da accompagnare, vicino alla stazione Trastevere.
+664|Buona tappa dopo Porta Portese.
+665|Il jazz club più antico di Roma, con musicisti italiani e internazionali.
+666|Conviene prenotare un tavolo per la cena con spettacolo.
+667|musica dal vivo
+668|Locale blues di Trastevere, con musica dal vivo quasi tutte le sere.
+669|Controlla la programmazione sul loro sito.
+670|blues
+671|Jazz club intimo a due passi da Piazza di Spagna, con cena e musica dal vivo.
+672|I concerti iniziano tardi; prenota.
+673|Piccolo bar di Monti con jazz dal vivo e atmosfera rilassata.
+674|Arriva presto per trovare posto vicino al palco.
+675|Club in pieno centro con più sale, ristorante e musica per ballare.
+676|Aperto nel fine settimana; controlla la programmazione.
+677|club
+678|ballare
+679|Un vecchio lanificio trasformato in club e spazio culturale, con serate di musica elettronica.
+680|È lontano: torna in taxi o con un'app.
+681|Club storico della notte elettronica romana, nella zona di Ostiense.
+682|Aperto soprattutto nel fine settimana: controlla la serata prima.
+683|Club all'aperto accanto allo Stadio Olimpico, con serate in stagione.
+684|Controlla la programmazione: apre secondo la stagione.
+685|Visita guidata nei corridoi sotterranei dove aspettavano gladiatori e belve, con uscita sull'arena.
+686|Si prenota solo sul sito ufficiale del Parco del Colosseo e i posti finiscono in fretta.
+687|Una visita sotto la basilica di San Pietro lungo una strada di tombe romane, fino alla tomba dell'apostolo.
+688|Pochissimi posti: si chiede via e-mail all'Ufficio Scavi con mesi di anticipo.
+689|Resti di case romane sotto un palazzo, raccontati con proiezioni di luce che le ricostruiscono.
+690|Visita a orario: prenota. Ottima per i bambini.
+691|tecnologia
+692|Passeggiate a piedi nel centro con guide che lavorano a offerta: ognuno lascia quello che ritiene giusto.
+693|Prenota online; ci sono diverse agenzie. Di solito si lascia qualcosa alla fine.
+694|Noleggio di bici normali ed elettriche per percorrere la Via Appia, gli acquedotti e le catacombe.
+695|La domenica la Via Appia è chiusa al traffico: è il giorno migliore.
+696|Visite guidate al mercato e ai locali storici di Testaccio, assaggiando la cucina romana.
+697|Lo propongono diverse agenzie; prenota online.
+698|Corsi per imparare a fare la pasta fresca e i sughi romani, con pasto incluso.
+699|Ce ne sono tanti; scegline uno con buone recensioni recenti.
+700|Giri in Vespa con autista per la città, come nei film.
+701|Se non guidi la moto, scegline uno con autista.
+702|La culla del Rinascimento: il Duomo con la cupola del Brunelleschi, gli Uffizi e il David di Michelangelo.
+703|Con il treno veloce è circa un'ora e mezza. Prenota gli Uffizi e l'Accademia in anticipo.
+704|La città della pizza, caotica e affascinante, con il Vesuvio di fronte e un centro storico patrimonio UNESCO.
+705|Con il treno veloce è poco più di un'ora. Abbinala a Pompei.
+706|Una città medievale su una rupe, con un duomo dalla facciata dorata e pozzi sotterranei.
+707|Treno regionale da Termini e funicolare fino al centro.
+708|"La città che muore": un borgo su una collina che si sgretola, collegato al mondo da un ponte pedonale.
+709|Abbinala a Orvieto. Bisogna pagare un piccolo biglietto per attraversare il ponte.
+710|La città di San Francesco, di pietra rosa su una collina, con la sua basilica piena di affreschi.
+711|In treno sono circa due ore. Scarpe comode: è tutto in salita.
+712|Un paese dei Castelli Romani, famoso per il vino bianco, le ville e le fraschette.
+713|Treno regionale da Termini in mezz'ora. Ideale per pranzo.
+714|L'antico porto di Roma, un'intera città di rovine con strade, case, teatro e terme.
+715|Treno dalla stazione Porta San Paolo (Piramide) con il normale biglietto di Roma.
+716|La città romana sepolta dal Vesuvio nel 79, ferma nel tempo.
+717|Treno veloce per Napoli e poi la Circumvesuviana. È una giornata lunga: parti presto.
+718|L'enorme villa dell'imperatore Adriano, con piscine, teatri e giardini in rovina.
+719|Abbinala a Villa d'Este a Tivoli nello stesso giorno.
+720|Una città di tombe etrusche a forma di case, patrimonio UNESCO.
+721|Si arriva in pullman dalla stazione Cornelia della metro A.
+722|Un giardino rinascimentale con centinaia di fontane, cascate e giochi d'acqua.
+723|In pullman o treno regionale fino a Tivoli. Abbinala a Villa Adriana.
+724|Un giardino romantico tra le rovine di un borgo medievale, con ruscelli e piante di tutto il mondo.
+725|Aperto solo alcuni giorni dalla primavera all'autunno e su prenotazione.
+726|Un bosco del Cinquecento pieno di sculture giganti e bizzarre scolpite nella roccia.
+727|Meglio andarci in auto. Divertentissimo con i bambini.
+728|Paese sul lago Albano con il palazzo estivo dei papi, oggi museo.
+729|Treno regionale da Termini. Il treno storico del Vaticano a volte fa questo percorso.
+730|Natura e mare
+731|Un lago vulcanico dall'acqua pulita con un castello medievale, a un'ora da Roma.
+732|Treno regionale da Ostiense o Trastevere. D'estate ci sono spiagge per fare il bagno.
+733|Il lago vulcanico dei Castelli Romani, circondato da boschi e con Castel Gandolfo sopra.
+734|Abbinalo a Castel Gandolfo.
+735|Un borgo bianco sul mare con spiagge di sabbia, a metà strada tra Roma e Napoli.
+736|Treno fino a Fondi e autobus fino al paese. Ideale d'estate.
+737|spiaggia
+738|La spiaggia dei romani, a meno di un'ora di treno con il normale biglietto di Roma.
+739|Gli stabilimenti fanno pagare lettini e ombrelloni; ci sono tratti di spiaggia libera gratuita.
+740|Ostello e piccolo hotel vicino a Termini, con giardino, caffè vegetariano e atmosfera tranquilla.
+741|Buono per chi cerca un ostello senza feste.
+742|ostello
+743|Grande ostello di design con camere condivise e private, vicino a Termini.
+744|Ha bar e terrazza; ideale per conoscere gente.
+745|Ostello famoso per il bar e la vita sociale, a pochi isolati da Termini.
+746|È per uscire e conoscere gente: se vuoi dormire presto, scegline un altro.
+747|Ostello moderno in un palazzo di uffici ristrutturato, vicino a via Nazionale.
+748|Ha una cucina in comune e un cortile.
+749|Ostello allegro vicino al Colosseo, con terrazza e aperitivo incluso.
+750|A dieci minuti a piedi dal Colosseo.
+751|Hotel classico su via Nazionale, con terrazza sul tetto e un ottimo servizio.
+752|Ben posizionato tra Termini e il centro.
+753|Hotel ricoperto d'edera a due passi da piazza Navona, con terrazza con vista sulle cupole.
+754|Anche se non alloggi qui, puoi salire in terrazza a bere qualcosa.
+755|Hotel in un antico convento con terrazza affacciata sui Fori Imperiali.
+756|La terrazza al tramonto è indimenticabile.
+757|Hotel classico davanti al Pantheon, con terrazza sul tetto e vista sulla cupola.
+758|Chiedi una camera con vista sulla piazza.
+759|Hotel di famiglia di lunga tradizione dietro il Pantheon, tranquillo e centralissimo.
+760|Tutto il centro storico si gira a piedi da qui.
+761|Hotel dal design industriale vicino al Ghetto, con bar e terrazza.
+762|Posizione ottima per girare a piedi il centro e Trastevere.
+763|Hotel art déco del 1925 vicino a piazza del Popolo, con bar e giardino.
+764|Il suo bar è molto noto per l'aperitivo.
+765|Hotel di design ai Parioli, con lobby ampia, caffè e ristorante.
+766|Lontano dal centro, ma ben collegato in tram.
+767|Piccolo hotel in una casa del Cinquecento accanto alla scalinata di Piazza di Spagna, con terrazza.
+768|Poche camere: prenota per tempo.
+769|Hotel di lusso in cima alla scalinata di Piazza di Spagna, con ristorante panoramico.
+770|Il bar al primo piano è un'esperienza anche se non alloggi qui.
+771|Hotel di lusso accanto a piazza del Popolo, con un giardino segreto a terrazze.
+772|Bevi qualcosa allo Stravinskij Bar, nel cortile.
+773|Hotel di lusso vicino a Villa Borghese, con terrazza e ristorante con vista su tutta la città.
+774|Hotel di lusso del marchio di gioielli, di fronte al Mausoleo di Augusto.
+775|Carissimo; il suo bar è aperto al pubblico.
+776|Grand hotel del 1894 vicino a piazza della Repubblica, con saloni d'epoca.
+777|La sala da tè è bella quanto l'hotel.
+778|Hotel di lusso con spa in un palazzo vicino a via del Corso.
+779|La spa ha bagni ispirati alle terme romane.
+780|spa
+781|Il mercato rionale di Testaccio, con frutta, formaggi, carni e banchi di street food.
+782|Aperto dal lunedì al sabato fino al pomeriggio. Il migliore per un pranzo economico.
+783|Il mercato coperto più grande di Roma, vicino al Vaticano, con centinaia di banchi.
+784|Ideale per comprare formaggi, olio o qualcosa per un picnic.
+785|Un mercato gastronomico dentro la stazione Termini, con banchi di pizza, pasta, trapizzini e altro.
+786|Ideale per mangiare bene prima di prendere il treno.
+787|Mercato dei produttori agricoli accanto al Circo Massimo: formaggi, vini, olio e cibo.
+788|Aperto nel fine settimana. Ci sono banchi per mangiare sul posto.
+789|Il grande mercato delle pulci della domenica: vestiti, antiquariato, dischi e un po' di tutto.
+790|Solo la domenica mattina. Attento al portafoglio: c'è tanta gente.
+791|mercatino delle pulci
+792|Mercato di abiti usati, vintage e pelle vicino a San Giovanni in Laterano.
+793|Aperto la mattina, dal lunedì al sabato.
+794|Mercato coperto multiculturale vicino a piazza Vittorio, con spezie, frutta e prodotti da tutto il mondo.
+795|Aperto dal lunedì al sabato la mattina.
+796|La grande via dello shopping che collega piazza del Popolo a piazza Venezia, con negozi di ogni tipo.
+797|Nel fine settimana è piena: vai in un giorno feriale.
+798|La via delle grandi firme del lusso, che sbocca sulla scalinata di Piazza di Spagna.
+799|Anche senza comprare, si passeggia per guardare le vetrine.
+800|Una via rinascimentale piena di antiquari, gallerie e piccoli negozi, vicino a piazza Navona.
+801|Abbinala a un gelato alla Gelateria del Teatro.
+802|Via di negozi vintage, design indipendente e bar, a due passi da piazza Navona.
+803|Ideale per cercare abiti vintage.
+804|Il viale dello shopping di Prati, con marchi noti e prezzi più ragionevoli del centro.
+805|Buono per fare acquisti dopo il Vaticano.
+806|Grande magazzino di lusso con i resti di un acquedotto romano nel seminterrato e una terrazza panoramica.
+807|Scendi a vedere l'acquedotto (gratis) e sali sulla terrazza gastronomica.
+808|Una galleria commerciale del 1922 con soffitti di vetro e mosaici, su via del Corso.
+809|Buona tappa per ripararsi dalla pioggia.
+810|Quattro piani di cibo italiano: alimentari, ristoranti e prodotti di tutte le regioni.
+811|Accanto alla stazione Ostiense. Ideale per comprare regali gastronomici.
+812|Grande magazzino con abbigliamento, casa e cosmetici, accanto a Termini.
+813|Utile se ti manca qualcosa per il viaggio.
+814|pratico
+815|Alimentari e gastronomie
+816|La gastronomia più famosa di Roma: formaggi, salumi, tartufi e prodotti italiani.
+817|Ti fanno assaggiare prima di comprare. Confezionano sottovuoto per il viaggio.
+818|Negozio storico di prodotti importati e specialità italiane, con bancone del caffè.
+819|Buono per i regali e per un caffè veloce.
+820|Formaggeria di quartiere del 1900, famosa per la ricotta fresca e il pecorino romano.
+821|Chiedi di mettere il formaggio sottovuoto per portarlo via.
+822|Formaggeria con formaggi di produzione propria dal Piemonte e da tutta Italia, con tavoli per degustare, nel Ghetto.
+823|Ordina un tagliere di degustazione con un calice di vino.
+824|Lo stadio di Roma e Lazio, e della nazionale italiana di rugby.
+825|I biglietti si comprano solo con un documento, sui siti ufficiali dei club.
+826|Una pista di atletica circondata da 60 statue di marmo di atleti, degli anni Trenta.
+827|È gratis e ci si può passeggiare intorno.
+828|Il palazzetto coperto di Pier Luigi Nervi per le Olimpiadi del 1960, con una cupola famosa.
+829|Guarda la cupola da fuori: è un'opera d'ingegneria.
+830|Il grande palazzetto coperto del quartiere EUR, per concerti e sport.
+831|Controlla il programma dei concerti.
+832|concerti
+833|Una valle verde con pecore, rovine e sentieri, tra la città e la Via Appia.
+834|Ideale per correre o passeggiare la mattina.
+835|Un lago artificiale circondato da un parco con un percorso per correre e ciliegi giapponesi.
+836|In primavera i ciliegi fioriscono: è uno spettacolo.
+837|Un grande parco con boschi, lago e sentieri, il preferito dei runner del nord di Roma.
+838|D'estate ci sono concerti al festival Roma Incontra il Mondo.
+839|Una pista ciclabile lungo il fiume, sotto il livello della strada, che attraversa la città da nord a sud.
+840|Si scende dalle scale dei ponti. Evitala quando piove: si allaga.
+841|L'Opera di Roma, con la stagione d'opera e di balletto; d'estate si sposta alle Terme di Caracalla.
+842|Ci sono biglietti più economici nei palchi alti.
+843|Tre sale a forma di scarabeo di Renzo Piano, sede dell'Accademia di Santa Cecilia.
+844|Ci sono concerti di ogni genere: classica, jazz e pop.
+845|Grande teatro per concerti, danza e spettacoli.
+846|danza
+847|Un oratorio del Cinquecento affrescato da parete a parete, dove si tengono concerti di musica da camera.
+848|I concerti circondati dagli affreschi sono un'esperienza unica.
+849|Teatro del Settecento dove debuttò Il barbiere di Siviglia, oggi sede del Teatro di Roma.
+850|Gli spettacoli sono in italiano.
+851|Teatro storico a due passi dalla Fontana di Trevi, con spettacoli classici e commedie.
+852|Il teatro dei musical a Roma, vicino a Piazza di Spagna.
+853|I musical sono una buona opzione anche se non parli italiano.
+854|Teatro indipendente di Monteverde, con teatro contemporaneo e danza.
+855|Cinema di quartiere ristrutturato a Trastevere, con sala studio e bar, e proiezioni in lingua originale.
+856|Cerca le proiezioni in versione originale (VO) con sottotitoli.
+857|Il cinema del regista Nanni Moretti, con cinema d'autore e proiezioni in lingua originale.
+858|D'estate proietta all'aperto nel suo cortile.
+859|Cinema storico a una sala a Campo de' Fiori, con cinema d'autore.
+860|Controlla se c'è qualche film in versione originale.
+861|Multisala in piazza della Repubblica, con le novità e alcune proiezioni in inglese.
+862|Cerca le proiezioni in versione originale.
+863|Lo zoo di Roma, dentro Villa Borghese, con animali di tutto il mondo.
+864|Abbinalo a un giro in bici o in barca a Villa Borghese.
+865|Un museo per bambini dove toccare, giocare e sperimentare, pensato per i minori di 12 anni.
+866|Le visite sono a turni: prenota.
+867|Il più antico parco divertimenti d'Italia, rinnovato per i bambini piccoli.
+868|Pensato per bambini fino a 12 anni.
+869|Un museo della scienza e della tecnologia per bambini dentro Villa Torlonia.
+870|Abbinalo al parco di Villa Torlonia.
+871|Un parco divertimenti a tema cinema, negli ex studi di Dino De Laurentiis.
+872|Apre a stagioni: controlla sul loro sito. Ci sono pullman da Roma.
+873|Saluto entrando in qualsiasi negozio (il pomeriggio, "Buonasera")
+874|Al banco: è un espresso
