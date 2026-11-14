@@ -93,7 +93,6 @@ window.CITY_COORDS.paris = {
   "boot-cafe": [48.86117, 2.36533],
   "ten-belles": [48.87349, 2.36474],
   "holybelly": [48.87100, 2.35976],
-  "fragments": [48.85797, 2.36735],
   "cafe-kitsune": [48.86500, 2.33730],
   "du-pain-et-des-idees": [48.87125, 2.36290],
   "poilane": [48.86243, 2.36416],

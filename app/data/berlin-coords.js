@@ -119,7 +119,6 @@ window.CITY_COORDS.berlin = {
   "distrikt-coffee": [52.53161, 13.39417],
   "schwarzes-cafe": [52.50556, 13.32416],
   "tadshikische-teestube": [52.52508, 13.39507],
-  "roamers": [52.48550, 13.42944],
   "zeit-fur-brot": [52.52794, 13.40859],
   "du-bonheur": [52.53627, 13.39780],
   "konditorei-buchwald": [52.52123, 13.34768],
