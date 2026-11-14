@@ -875,3 +875,10 @@
 875|Emergências da Cidade (Defesa Civil)
 876|Defensoria do Turista (também WhatsApp)
 877|Use os caixas eletrônicos de bancos (redes Banelco e Link). Com cartão do exterior há uma tarifa fixa por saque e um valor máximo por vez: vale a pena sacar menos vezes e mais quantia.
+878|Aluguel de carro
+879|Site oficial para alugar
+880|Para alugar pedem carteira de motorista válida, passaporte e um cartão de crédito no nome de quem vai dirigir, para a caução.
+881|Antes de sair, confira o carro e tire fotos: se tiver algum amassado, peça para anotar no contrato.
+882|Para circular pela cidade não precisa: o trânsito é intenso e é difícil estacionar. Serve para sair de Buenos Aires, por exemplo ao Delta, ao litoral ou a uma estância.
+883|Com carteira de outro país você pode dirigir como turista. Se não estiver em espanhol, leve também a Permissão Internacional para Dirigir: algumas locadoras pedem.
+884|As autoestradas da cidade cobram pedágio sem cancelas, com TelePASE: pergunte na locadora se o carro tem e como se paga.

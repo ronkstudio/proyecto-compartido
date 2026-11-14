@@ -875,3 +875,10 @@
 875|City emergencies (Civil Defense)
 876|Tourist Ombudsman (also WhatsApp)
 877|Use bank ATMs (the Banelco and Link networks). With a foreign card there is a fixed fee per withdrawal and a maximum amount each time: it is better to withdraw less often and more at once.
+878|Car rental
+879|Official website to book
+880|To rent a car you need a valid driving licence, your passport and a credit card in the driver's name for the deposit.
+881|Before you leave, check the car and take photos: any dent should be noted in the contract.
+882|You don't need one to get around the city: traffic is heavy and parking is hard. It's useful for leaving Buenos Aires, for example to the Delta, the coast or an estancia.
+883|You can drive as a tourist with a licence from another country. If it isn't in Spanish, also bring an International Driving Permit: some agencies ask for it.
+884|The city's motorways charge tolls without barriers, through TelePASE: ask the agency whether the car has it and how it's paid.

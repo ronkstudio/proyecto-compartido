@@ -875,3 +875,7 @@
 875|High-speed trains to Italy's major cities: timetables and tickets.
 876|Regional trains, including to Fiumicino airport (FL1), and metro line B (Piramide).
 877|Regional train station a few blocks from the Vatican.
+878|You don't need one to get around Rome, and you can't drive into the centre. It's useful for leaving the city, for example to Tuscany, Tivoli or the coast.
+879|If your licence isn't from the European Union, in Italy you must also carry an International Driving Permit or an official translation.
+880|Don't drive into the historic centre: it's a limited traffic zone (ZTL) with cameras, and fines are charged to your card later. Pick up the car at the airport or at Termini.
+881|Motorways have tolls: you pay when you exit, by card or in cash.

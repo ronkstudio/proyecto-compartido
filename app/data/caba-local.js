@@ -55,6 +55,22 @@
         "En el subte y en muchos colectivos también podés pagar con tu tarjeta sin contacto."]
     },
     moverseSub: "SUBE, subte, taxis",
+    /* Alquiler de auto (tarjeta #185): agencias con oficinas en la ciudad y en el aeropuerto. Cada web se abrió y revisó el 14/11/2026. */
+    autos: {
+      intro: "Para moverte por la ciudad no hace falta: hay mucho tránsito y es difícil estacionar. Sirve para salir de Buenos Aires, por ejemplo al Delta, a la costa o a una estancia.",
+      acts: [
+        ["🚗", "Localiza", "https://www.localiza.com/argentina/es-ar", "Web oficial para alquilar"],
+        ["🚗", "Hertz", "https://www.hertz.com.ar/", "Web oficial para alquilar"],
+        ["🚗", "Avis", "https://avis.com.ar/", "Web oficial para alquilar"],
+        ["🚗", "Budget", "https://budget.com.ar/", "Web oficial para alquilar"],
+        ["🚗", "Europcar", "https://www.europcar.com.ar/", "Web oficial para alquilar"],
+        ["🚗", "Sixt", "https://www.sixt.com.ar/", "Web oficial para alquilar"]
+      ],
+      tips: ["Para alquilar te piden licencia de conducir vigente, pasaporte y una tarjeta de crédito a nombre de quien maneja, para la garantía.",
+"Con licencia de otro país podés manejar como turista. Si no está en español, llevá también el Permiso Internacional de Conducir: algunas agencias lo piden.",
+"Las autopistas de la ciudad cobran el peaje sin barreras, con TelePASE: preguntá en la agencia si el auto lo tiene y cómo se paga.",
+"Antes de salir, revisá el auto y sacale fotos: si tiene algún golpe, que quede anotado en el contrato."]
+    },
     /* Hoy: el archivo de eventos que arma herramientas/armar-hoy.ps1 todos los días, y otras agendas para buscar más planes (revisadas el 12/11/2026) */
     /* Apps útiles (tarjeta #137): las que más se usan en la Argentina. Cada una con su página en el App Store (número "ios") y en
        Google Play (nombre "android"); revisadas una por una el 13/11/2026. Si la app ya está instalada, la tienda muestra "Abrir". */

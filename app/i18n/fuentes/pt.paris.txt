@@ -891,3 +891,7 @@
 891|Perto da Gare de Lyon. Atende 24 horas.
 892|Portugal · Consulado-Geral
 893|Passaportes, documentos e ajuda aos seus cidadãos. Endereço confirmado no site oficial do governo de Portugal (gov.pt).
+894|Para circular por Paris não precisa: o transporte chega a todo lugar e estacionar é caro. Serve para sair da cidade, por exemplo ao vale do Loire, à Normandia ou a Giverny.
+895|Se a sua carteira não for da União Europeia e não estiver em francês, a lei exige que ela esteja acompanhada da Permissão Internacional para Dirigir ou de uma tradução oficial.
+896|Paris é zona de baixas emissões: os carros precisam do selo Crit'Air. Os de aluguel já vêm com ele.
+897|As autoestradas da França têm pedágio: paga-se com cartão nas cabines.

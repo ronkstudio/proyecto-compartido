@@ -62,6 +62,22 @@
         "Para ir o volver de los aeropuertos necesitás el boleto Aeropuertos o un pase que los incluya."]
     },
     moverseSub: "Boletos, metro, taxis",
+    /* Alquiler de auto (tarjeta #185): agencias con oficinas en la ciudad y en el aeropuerto. Cada web se abrió y revisó el 14/11/2026. */
+    autos: {
+      intro: "Para moverte por París no hace falta: el transporte llega a todos lados y estacionar es caro. Sirve para salir de la ciudad, por ejemplo al valle del Loira, a Normandía o a Giverny.",
+      acts: [
+        ["🚗", "Europcar", "https://www.europcar.fr/fr-fr", "Web oficial para alquilar"],
+        ["🚗", "Hertz", "https://www.hertz.fr/", "Web oficial para alquilar"],
+        ["🚗", "Avis", "https://www.avis.fr/", "Web oficial para alquilar"],
+        ["🚗", "Sixt", "https://www.sixt.fr/", "Web oficial para alquilar"],
+        ["🚗", "Enterprise", "https://www.enterprise.fr/", "Web oficial para alquilar"]
+      ],
+      tips: ["Para alquilar te piden licencia de conducir vigente, pasaporte y una tarjeta de crédito a nombre de quien maneja, para la garantía.",
+"Si tu licencia no es de la Unión Europea y no está en francés, la ley pide que la acompañes con el Permiso Internacional de Conducir o una traducción oficial.",
+"París es zona de bajas emisiones: los autos necesitan la etiqueta Crit'Air. Los de alquiler ya la traen.",
+"Las autopistas de Francia tienen peaje: se paga con tarjeta en las cabinas.",
+"Antes de salir, revisá el auto y sacale fotos: si tiene algún golpe, que quede anotado en el contrato."]
+    },
     /* Apps útiles (tarjeta #137). Páginas del App Store ("ios") y Google Play ("android") revisadas el 13/11/2026. */
     apps: [
       ["🚇", "Para moverse", [

@@ -875,3 +875,10 @@
 875|Emergenze della Città (Protezione civile)
 876|Difensore del turista (anche WhatsApp)
 877|Usa i bancomat delle banche (circuiti Banelco e Link). Con una carta estera si paga una commissione fissa per ogni prelievo e c'è un importo massimo per volta: conviene prelevare meno spesso e di più.
+878|Noleggio auto
+879|Sito ufficiale per noleggiare
+880|Per noleggiare servono una patente valida, il passaporto e una carta di credito intestata a chi guida, per la cauzione.
+881|Prima di partire controlla l'auto e fai delle foto: ogni ammaccatura deve risultare nel contratto.
+882|Per muoverti in città non serve: c'è molto traffico ed è difficile parcheggiare. È utile per uscire da Buenos Aires, per esempio verso il Delta, la costa o un'estancia.
+883|Con una patente di un altro paese puoi guidare come turista. Se non è in spagnolo, porta anche il permesso internazionale di guida: alcune agenzie lo chiedono.
+884|Le autostrade della città riscuotono il pedaggio senza barriere, con TelePASE: chiedi all'agenzia se l'auto ce l'ha e come si paga.

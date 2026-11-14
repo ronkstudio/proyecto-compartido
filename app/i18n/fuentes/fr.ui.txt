@@ -875,3 +875,10 @@
 875|Urgences de la Ville (Protection civile)
 876|Défenseur du touriste (aussi sur WhatsApp)
 877|Utilisez les distributeurs des banques (réseaux Banelco et Link). Avec une carte étrangère, chaque retrait est facturé d'un montant fixe et il y a un plafond par retrait : mieux vaut retirer moins souvent et davantage à la fois.
+878|Location de voiture
+879|Site officiel pour réserver
+880|Pour louer, il faut un permis de conduire valide, le passeport et une carte de crédit au nom du conducteur pour la caution.
+881|Avant de partir, vérifiez la voiture et prenez des photos : chaque rayure doit être notée dans le contrat.
+882|Pas besoin pour se déplacer en ville : la circulation est dense et se garer est difficile. C'est utile pour sortir de Buenos Aires, par exemple vers le Delta, la côte ou une estancia.
+883|Avec un permis étranger, vous pouvez conduire en tant que touriste. S'il n'est pas en espagnol, prenez aussi le permis international : certaines agences le demandent.
+884|Les autoroutes urbaines perçoivent le péage sans barrières, avec TelePASE : demandez à l'agence si la voiture en est équipée et comment on paie.
