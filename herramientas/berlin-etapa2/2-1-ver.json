@@ -1,0 +1,1721 @@
+[
+ {
+  "cat": "ver",
+  "sub": "Museo",
+  "name": "Isla de los Museos",
+  "barrio": "Mitte",
+  "address": "Bodestraße 1-3",
+  "price": 2,
+  "desc": "Cinco museos monumentales en una isla del Spree, con dos siglos de historia. Hoy se visitan el Neues Museum, el Altes Museum, la Alte Nationalgalerie y el Bode.",
+  "tip": "El Museo de Pérgamo sigue cerrado por obras hasta 2027. Entrá por la James-Simon-Galerie y sacá el pase combinado si vas a ver más de uno.",
+  "tags": [
+   "museo",
+   "historia",
+   "arquitectura",
+   "clásico",
+   "isla"
+  ],
+  "top": true,
+  "q": 3,
+  "award": "Patrimonio Mundial UNESCO",
+  "closed": [
+   1
+  ],
+  "sources": [
+   "https://www.smb.museum/besuch-planen/oeffnungszeiten/",
+   "https://www.smb.museum/nachrichten/detail/das-pergamonmuseum-kehrt-zurueck-eroeffnung-am-4-juni-2027/",
+   "https://www.visitberlin.de/de/200-jahre-museumsinsel-berlin"
+  ],
+  "check": "horarios 2026 en smb.museum; Pérgamo cerrado, reabre en junio de 2027; no encontré el estado puntual del Altes Museum"
+ },
+ {
+  "cat": "ver",
+  "sub": "Museo",
+  "name": "Neues Museum",
+  "barrio": "Mitte",
+  "address": "Bodestraße 1-3",
+  "price": 2,
+  "desc": "El museo del busto de Nefertiti: Egipto antiguo y prehistoria en un edificio bombardeado que Chipperfield reconstruyó dejando las cicatrices a la vista.",
+  "tip": "Cierra los lunes. A Nefertiti no se le pueden sacar fotos; andá a primera hora para verla con menos gente.",
+  "tags": [
+   "museo",
+   "historia",
+   "arquitectura",
+   "lluvia"
+  ],
+  "q": 3,
+  "closed": [
+   1
+  ],
+  "sources": [
+   "https://www.smb.museum/besuch-planen/oeffnungszeiten/"
+  ],
+  "check": "figura abierto en la grilla 2026 de smb.museum (cerró solo dos días en febrero por una falla técnica)"
+ },
+ {
+  "cat": "ver",
+  "sub": "Museo",
+  "name": "Alte Nationalgalerie",
+  "barrio": "Mitte",
+  "address": "Bodestraße 1-3",
+  "price": 2,
+  "desc": "Un templo sobre la isla lleno de pintura del siglo XIX: Caspar David Friedrich, Menzel y los impresionistas franceses.",
+  "tip": "Cierra los lunes. En 2026 cumple 150 años y hay actividades especiales.",
+  "tags": [
+   "museo",
+   "arte",
+   "clásico",
+   "lluvia"
+  ],
+  "closed": [
+   1
+  ],
+  "sources": [
+   "https://www.smb.museum/besuch-planen/oeffnungszeiten/"
+  ],
+  "check": "abierta según smb.museum 2026"
+ },
+ {
+  "cat": "ver",
+  "sub": "Museo",
+  "name": "Museo Bode",
+  "barrio": "Mitte",
+  "address": "Am Kupfergraben 3",
+  "price": 2,
+  "desc": "El edificio con cúpula en la punta de la isla guarda esculturas, arte bizantino y una colección enorme de monedas.",
+  "tip": "Cierra los lunes. La mejor foto del edificio es desde el puente Monbijou, al atardecer.",
+  "tags": [
+   "museo",
+   "arte",
+   "arquitectura",
+   "fotos"
+  ],
+  "closed": [
+   1
+  ],
+  "sources": [
+   "https://www.smb.museum/besuch-planen/oeffnungszeiten/"
+  ],
+  "check": "abierto según smb.museum 2026"
+ },
+ {
+  "cat": "ver",
+  "sub": "Museo",
+  "name": "Pergamonmuseum. Das Panorama",
+  "barrio": "Mitte",
+  "address": "Am Kupfergraben 2",
+  "price": 2,
+  "desc": "Mientras el Museo de Pérgamo está en obras, acá se ve un panorama gigante de 360° de la ciudad antigua y piezas originales del museo.",
+  "tip": "Cierra los lunes. Queda enfrente de la isla, cruzando el canal; no lo busques dentro del museo cerrado.",
+  "tags": [
+   "museo",
+   "historia",
+   "lluvia",
+   "curiosidad"
+  ],
+  "closed": [
+   1
+  ],
+  "sources": [
+   "https://www.smb.museum/besuch-planen/oeffnungszeiten/",
+   "https://www.smb.museum/museen-einrichtungen/pergamonmuseum-das-panorama/ueber-uns/nachrichten/"
+  ],
+  "check": "abierto según smb.museum 2026"
+ },
+ {
+  "cat": "ver",
+  "sub": "Museo",
+  "name": "Museo Judío de Berlín",
+  "barrio": "Kreuzberg",
+  "address": "Lindenstraße 9-14",
+  "price": 0,
+  "desc": "Dos mil años de vida judía en Alemania dentro del edificio en zigzag de Daniel Libeskind, que emociona antes de leer un solo cartel.",
+  "tip": "La muestra permanente es gratis, pero conviene reservar el turno por internet. Calculá tiempo para el control de seguridad.",
+  "tags": [
+   "museo",
+   "historia",
+   "arquitectura",
+   "memoria",
+   "lluvia"
+  ],
+  "q": 3,
+  "sources": [
+   "https://www.berlin.de/museum/3108776-2926344-juedisches-museum-berlin.html"
+  ],
+  "check": "abierto según berlin.de (actualizado en 2026) y visitas guiadas agendadas para fines de 2026"
+ },
+ {
+  "cat": "ver",
+  "sub": "Museo",
+  "name": "Museo Histórico Alemán",
+  "barrio": "Mitte",
+  "address": "Hinter dem Gießhaus 3",
+  "price": 2,
+  "desc": "El gran museo de historia alemana. El edificio barroco está en obras por años, pero el anexo de vidrio de I. M. Pei sigue con muestras temporales.",
+  "tip": "No esperes la colección permanente: el Zeughaus sigue cerrado al menos hasta 2031. Fijate qué muestra hay antes de ir.",
+  "tags": [
+   "museo",
+   "historia",
+   "arquitectura",
+   "lluvia"
+  ],
+  "sources": [
+   "https://www.dhm.de/besuch",
+   "https://www.dhm.de/journal/beitrag/fuenf-fragen-und-antworten-zur-sanierung-des-zeughauses"
+  ],
+  "check": "Pei-Bau abierto según dhm.de (2026); Zeughaus cerrado por obras"
+ },
+ {
+  "cat": "ver",
+  "sub": "Museo",
+  "name": "Museo Alemán de la Técnica",
+  "barrio": "Kreuzberg",
+  "address": "Trebbiner Straße 9",
+  "price": 2,
+  "desc": "Locomotoras, barcos, aviones y un bombardero colgado del techo: el museo más divertido de la ciudad para ir con chicos.",
+  "tip": "Cierra los lunes. Comprá la entrada por internet, que sale más barata, y llegá en subte hasta Gleisdreieck.",
+  "tags": [
+   "museo",
+   "ciencia",
+   "chicos",
+   "tren",
+   "lluvia"
+  ],
+  "q": 3,
+  "closed": [
+   1
+  ],
+  "sources": [
+   "https://www.museumsportal-berlin.de/de/museen/deutsches-technikmuseum/",
+   "https://www.berlin.de/museum/3108600-2926344-deutsches-technikmuseum-berlin-mit-scien.html"
+  ],
+  "check": "abierto según museumsportal y berlin.de (datos 2026)"
+ },
+ {
+  "cat": "ver",
+  "sub": "Museo",
+  "name": "Museo de Historia Natural",
+  "barrio": "Mitte",
+  "address": "Invalidenstraße 43",
+  "price": 2,
+  "desc": "El esqueleto de dinosaurio armado más alto del mundo te recibe en el hall. También hay un T. rex y una pared con miles de animales.",
+  "tip": "El museo está en plena reforma: puede haber salas cerradas. Las entradas para las visitas guiadas se sacan en el día, en la caja.",
+  "tags": [
+   "museo",
+   "ciencia",
+   "chicos",
+   "lluvia"
+  ],
+  "sources": [
+   "https://www.museumfuernaturkunde.berlin/en/plan-your-visit/exhibition/the-world-of-dinosaurs/",
+   "https://www.museumsportal-berlin.de/de/ausstellungen/dinosaurier/"
+  ],
+  "check": "abierto durante la reforma, con actividades agendadas en octubre de 2026; no confirmé qué salas están cerradas"
+ },
+ {
+  "cat": "ver",
+  "sub": "Museo",
+  "name": "Neue Nationalgalerie",
+  "barrio": "Tiergarten",
+  "address": "Potsdamer Straße 50",
+  "price": 2,
+  "desc": "El pabellón de vidrio y acero de Mies van der Rohe, una joya de la arquitectura moderna, con arte del siglo XX adentro.",
+  "tip": "Cierra los lunes. Aunque no entres, vale rodear el edificio. Al lado está la Gemäldegalerie.",
+  "tags": [
+   "museo",
+   "arte",
+   "arquitectura",
+   "moderno"
+  ],
+  "q": 3,
+  "closed": [
+   1
+  ],
+  "sources": [
+   "https://www.smb.museum/besuch-planen/oeffnungszeiten/",
+   "https://www.visitberlin.de/de/neue-nationalgalerie"
+  ],
+  "check": "abierta según smb.museum y visitberlin (2026)"
+ },
+ {
+  "cat": "ver",
+  "sub": "Museo",
+  "name": "Hamburger Bahnhof",
+  "barrio": "Moabit",
+  "address": "Invalidenstraße 50-51",
+  "price": 2,
+  "desc": "Una vieja estación de tren convertida en el museo de arte contemporáneo de Berlín: Beuys, Warhol e instalaciones enormes.",
+  "tip": "Cierra los lunes. Queda a pocos minutos a pie de la estación central.",
+  "tags": [
+   "museo",
+   "arte",
+   "moderno",
+   "lluvia"
+  ],
+  "closed": [
+   1
+  ],
+  "sources": [
+   "https://www.smb.museum/besuch-planen/oeffnungszeiten/"
+  ],
+  "check": "figura en la grilla de horarios de smb.museum; no hice una búsqueda propia de este museo"
+ },
+ {
+  "cat": "ver",
+  "sub": "Museo",
+  "name": "Gemäldegalerie",
+  "barrio": "Tiergarten",
+  "address": "Matthäikirchplatz",
+  "price": 2,
+  "desc": "Una de las grandes pinacotecas de Europa: Rembrandt, Caravaggio, Botticelli, Vermeer y Durero, casi sin colas.",
+  "tip": "Cierra los lunes. Es enorme: elegí dos o tres salas en vez de querer verla entera.",
+  "tags": [
+   "museo",
+   "arte",
+   "clásico",
+   "tranquilo",
+   "lluvia"
+  ],
+  "closed": [
+   1
+  ],
+  "sources": [
+   "https://www.smb.museum/besuch-planen/oeffnungszeiten/"
+  ],
+  "check": "figura en la grilla de horarios de smb.museum; no hice una búsqueda propia de este museo"
+ },
+ {
+  "cat": "ver",
+  "sub": "Museo",
+  "name": "Berlinische Galerie",
+  "barrio": "Kreuzberg",
+  "address": "Alte Jakobstraße 124-128",
+  "price": 2,
+  "desc": "El museo de arte hecho en Berlín: dadá, expresionismo, fotografía y arquitectura desde 1870 hasta hoy.",
+  "tip": "Cierra los martes. Queda a diez minutos a pie del Museo Judío: se hacen bien juntos.",
+  "tags": [
+   "museo",
+   "arte",
+   "moderno",
+   "lluvia"
+  ],
+  "closed": [
+   2
+  ],
+  "sources": [
+   "https://www.museumsportal-berlin.de/de/museen/berlinische-galerie/",
+   "https://berlinischegalerie.de/50-jahre-bg/ausstellungen"
+  ],
+  "check": "abierta, con muestra programada de octubre de 2026 a enero de 2027"
+ },
+ {
+  "cat": "ver",
+  "sub": "Museo",
+  "name": "DDR Museum",
+  "barrio": "Mitte",
+  "address": "Karl-Liebknecht-Straße 1",
+  "price": 2,
+  "desc": "La vida cotidiana en la Alemania comunista, para tocar todo: un departamento amueblado, un Trabant para manejar y cajones para revolver.",
+  "tip": "Es chico y se llena. Andá a primera hora o al final de la tarde.",
+  "tags": [
+   "museo",
+   "historia",
+   "guerra fría",
+   "chicos",
+   "lluvia"
+  ],
+  "sources": [],
+  "check": "sin verificar en esta sesión (se agotó el cupo de búsquedas); lugar de larga data, sin señales de cierre conocidas"
+ },
+ {
+  "cat": "ver",
+  "sub": "Museo",
+  "name": "Museo de la Stasi",
+  "barrio": "Lichtenberg",
+  "address": "Normannenstraße 20",
+  "price": 2,
+  "desc": "El cuartel general de la policía secreta de la RDA, con el despacho del jefe intacto y los aparatos para espiar a la gente.",
+  "tip": "Queda lejos del centro: llegás en subte hasta Magdalenenstraße. Hay visitas guiadas en inglés.",
+  "tags": [
+   "museo",
+   "historia",
+   "guerra fría",
+   "memoria"
+  ],
+  "sources": [
+   "https://www.museumsportal-berlin.de/de/museen/stasimuseum/",
+   "https://www.berlin.de/museum/3109393-2926344-stasimuseum-forschungs-und-gedenkstaette.html"
+  ],
+  "check": "abierto según museumsportal y berlin.de (actualizado en enero de 2026)"
+ },
+ {
+  "cat": "ver",
+  "sub": "Museo",
+  "name": "Futurium",
+  "barrio": "Mitte",
+  "address": "Alexanderufer 2",
+  "price": 0,
+  "desc": "La casa de los futuros: muestras interactivas sobre cómo vamos a vivir, comer y movernos, con un laboratorio para experimentar.",
+  "tip": "Entrada libre. Cierra los martes. Subí a la terraza, que tiene vista al Spree y al barrio del gobierno.",
+  "tags": [
+   "museo",
+   "ciencia",
+   "gratis",
+   "chicos",
+   "moderno"
+  ],
+  "closed": [
+   2
+  ],
+  "sources": [
+   "https://futurium.de/uploads/documents/Futurium_Besuchsflyer_APR26_DE_RZ.pdf"
+  ],
+  "check": "abierto y gratis según su folleto de visita 2026"
+ },
+ {
+  "cat": "ver",
+  "sub": "Museo",
+  "name": "Computerspielemuseum",
+  "barrio": "Friedrichshain",
+  "address": "Karl-Marx-Allee 93a",
+  "price": 2,
+  "desc": "El museo de los videojuegos: del Pong a hoy, con decenas de máquinas y consolas viejas para jugar.",
+  "tip": "Ideal para un día de lluvia. Sigue en su sede de siempre sobre la Karl-Marx-Allee.",
+  "tags": [
+   "museo",
+   "chicos",
+   "curiosidad",
+   "lluvia"
+  ],
+  "sources": [
+   "https://www.computerspielemuseum.de/en/",
+   "https://www.gamesmarket.global/berlins-computerspielemuseum-will-remain-at-its-current-location/"
+  ],
+  "check": "sigue en Karl-Marx-Allee 93a; la mudanza al House of Games no está prevista (documento del Senado de junio de 2026)"
+ },
+ {
+  "cat": "ver",
+  "sub": "Museo",
+  "name": "Urban Nation",
+  "barrio": "Schöneberg",
+  "address": "Bülowstraße 7",
+  "price": 0,
+  "desc": "El museo de arte urbano de Berlín: murales, stencils e instalaciones de artistas de todo el mundo, adentro y en las fachadas de la cuadra.",
+  "tip": "La entrada es a voluntad. Cierra los lunes. Mirá también los murales de la Bülowstraße, bajo el viaducto del subte.",
+  "tags": [
+   "museo",
+   "street art",
+   "arte",
+   "gratis"
+  ],
+  "closed": [
+   1
+  ],
+  "sources": [
+   "https://urban-nation.com/plan-your-visit/",
+   "https://www.museumsportal-berlin.de/de/museen/urban-nation/"
+  ],
+  "check": "abierto según su web, con novedades de octubre de 2026"
+ },
+ {
+  "cat": "ver",
+  "sub": "Muro de Berlín",
+  "name": "Memorial del Muro de Berlín",
+  "barrio": "Mitte",
+  "address": "Bernauer Straße 111",
+  "price": 0,
+  "desc": "El único tramo donde se entiende el Muro completo: los dos paredones, la franja de la muerte y una torre de vigilancia, sobre la calle que partió en dos.",
+  "tip": "Entrada libre. Subí a la torre del centro de documentación para verlo desde arriba. El centro cierra los lunes; el recorrido al aire libre, no.",
+  "tags": [
+   "muro",
+   "guerra fría",
+   "historia",
+   "memoria",
+   "gratis"
+  ],
+  "top": true,
+  "q": 3,
+  "sources": [],
+  "check": "sin verificar en esta sesión (se agotó el cupo de búsquedas); lugar de larga data, sin señales de cierre conocidas"
+ },
+ {
+  "cat": "ver",
+  "sub": "Muro de Berlín",
+  "name": "East Side Gallery",
+  "barrio": "Friedrichshain",
+  "address": "Mühlenstraße 3-100",
+  "price": 0,
+  "desc": "El tramo más largo que queda del Muro, más de un kilómetro pintado por artistas de todo el mundo en 1990. Acá está el famoso beso.",
+  "tip": "Andá temprano a la mañana para sacar fotos sin gente. Terminá cruzando el puente Oberbaum.",
+  "tags": [
+   "muro",
+   "street art",
+   "fotos",
+   "gratis",
+   "río"
+  ],
+  "top": true,
+  "q": 3,
+  "sources": [],
+  "check": "espacio público; no se buscó fuente web (se agotó el cupo de búsquedas)"
+ },
+ {
+  "cat": "ver",
+  "sub": "Muro de Berlín",
+  "name": "Checkpoint Charlie",
+  "barrio": "Mitte",
+  "address": "Friedrichstraße 43-45",
+  "price": 0,
+  "desc": "El paso fronterizo más famoso de la Guerra Fría, donde se enfrentaron tanques soviéticos y estadounidenses en 1961.",
+  "tip": "La casilla es una réplica y hay mucho turista: pasá, mirá los paneles al aire libre y seguí. El Museo del Muro, al lado, es pago.",
+  "tags": [
+   "muro",
+   "guerra fría",
+   "historia",
+   "céntrico"
+  ],
+  "sources": [],
+  "check": "espacio público; no se buscó fuente web (se agotó el cupo de búsquedas)"
+ },
+ {
+  "cat": "ver",
+  "sub": "Muro de Berlín",
+  "name": "Palacio de las Lágrimas",
+  "barrio": "Mitte",
+  "address": "Reichstagufer 17",
+  "price": 0,
+  "desc": "El pabellón de la estación Friedrichstraße donde los berlineses del Este despedían a sus visitas del Oeste. Hoy cuenta cómo era cruzar la frontera.",
+  "tip": "Entrada libre y se ve en menos de una hora. Cierra los lunes.",
+  "tags": [
+   "muro",
+   "guerra fría",
+   "historia",
+   "gratis",
+   "lluvia"
+  ],
+  "closed": [
+   1
+  ],
+  "sources": [],
+  "check": "sin verificar en esta sesión (se agotó el cupo de búsquedas); lugar de larga data, sin señales de cierre conocidas"
+ },
+ {
+  "cat": "ver",
+  "sub": "Muro de Berlín",
+  "name": "Mauerpark",
+  "barrio": "Prenzlauer Berg",
+  "address": "Bernauer Straße 63-64",
+  "price": 0,
+  "desc": "La antigua franja de la muerte hoy es un parque con un paredón para grafiteros. Los domingos hay mercado de pulgas y karaoke al aire libre.",
+  "tip": "El domingo es el día. El karaoke del anfiteatro se hace solo con buen tiempo, en los meses cálidos.",
+  "tags": [
+   "muro",
+   "street art",
+   "feria",
+   "domingo",
+   "aire libre"
+  ],
+  "sources": [],
+  "check": "espacio público; no se buscó fuente web (se agotó el cupo de búsquedas)"
+ },
+ {
+  "cat": "ver",
+  "sub": "Muro de Berlín",
+  "name": "Panorama del Muro de Asisi",
+  "barrio": "Mitte",
+  "address": "Friedrichstraße 205",
+  "price": 2,
+  "desc": "Una imagen gigante de 360° que te para en un día cualquiera de los años 80, mirando el Muro desde Kreuzberg.",
+  "tip": "Queda a metros de Checkpoint Charlie. Es una buena opción para un día de lluvia.",
+  "tags": [
+   "muro",
+   "guerra fría",
+   "arte",
+   "lluvia"
+  ],
+  "sources": [
+   "https://www.top10berlin.de/de/cat/freizeit-268/deutsch-deutsche-geschichte-2203/die-mauer-asisi-panorama-berlin-2550"
+  ],
+  "check": "guías de 2026 lo dan abierto; no pude confirmarlo en su web oficial"
+ },
+ {
+  "cat": "ver",
+  "sub": "Histórico",
+  "name": "Puerta de Brandeburgo",
+  "barrio": "Mitte",
+  "address": "Pariser Platz",
+  "price": 0,
+  "desc": "El símbolo de Berlín y de la reunificación: durante 28 años quedó encerrada en tierra de nadie, pegada al Muro.",
+  "tip": "De noche está iluminada y hay mucha menos gente. A un paso tenés el Reichstag y el Monumento del Holocausto.",
+  "tags": [
+   "historia",
+   "clásico",
+   "fotos",
+   "gratis",
+   "céntrico"
+  ],
+  "top": true,
+  "q": 3,
+  "sources": [],
+  "check": "espacio público; no se buscó fuente web (se agotó el cupo de búsquedas)"
+ },
+ {
+  "cat": "ver",
+  "sub": "Histórico",
+  "name": "Reichstag y su cúpula",
+  "barrio": "Tiergarten",
+  "address": "Platz der Republik 1",
+  "price": 0,
+  "desc": "El Parlamento alemán, con una cúpula de vidrio de Norman Foster por la que subís en espiral mirando la ciudad y a los diputados.",
+  "tip": "Es gratis, pero hay que anotarse antes por internet con nombre y fecha de nacimiento, y llevar el pasaporte.",
+  "tags": [
+   "historia",
+   "arquitectura",
+   "vista",
+   "mirador",
+   "gratis"
+  ],
+  "top": true,
+  "q": 3,
+  "sources": [
+   "https://www.bundestag.de/besuche/kuppel-dachterrasseunddachgartenrestaurant",
+   "https://www.bundestag.de/besuch/anmeldung"
+  ],
+  "check": "abierta según bundestag.de; cierra algunos días por limpieza y mantenimiento"
+ },
+ {
+  "cat": "ver",
+  "sub": "Histórico",
+  "name": "Monumento a los Judíos Asesinados de Europa",
+  "barrio": "Mitte",
+  "address": "Cora-Berliner-Straße 1",
+  "price": 0,
+  "desc": "2.711 bloques de hormigón en un terreno ondulado, a metros de la Puerta de Brandeburgo. Caminás hacia adentro y el ruido de la ciudad se apaga.",
+  "tip": "Abajo hay un centro de información gratuito, que cierra los lunes. No te subas a los bloques.",
+  "tags": [
+   "memoria",
+   "historia",
+   "arquitectura",
+   "gratis"
+  ],
+  "top": true,
+  "q": 3,
+  "sources": [],
+  "check": "espacio público; no se buscó fuente web (se agotó el cupo de búsquedas)"
+ },
+ {
+  "cat": "ver",
+  "sub": "Histórico",
+  "name": "Topografía del Terror",
+  "barrio": "Kreuzberg",
+  "address": "Niederkirchnerstraße 8",
+  "price": 0,
+  "desc": "Donde estaban los cuarteles de la Gestapo y las SS hoy hay un centro de documentación sobre el terror nazi, junto a un tramo original del Muro.",
+  "tip": "Entrada libre. Es mucho texto y es duro: calculá un par de horas.",
+  "tags": [
+   "historia",
+   "memoria",
+   "muro",
+   "gratis"
+  ],
+  "q": 3,
+  "sources": [],
+  "check": "sin verificar en esta sesión (se agotó el cupo de búsquedas); lugar de larga data, sin señales de cierre conocidas"
+ },
+ {
+  "cat": "ver",
+  "sub": "Histórico",
+  "name": "Gendarmenmarkt",
+  "barrio": "Mitte",
+  "address": "Gendarmenmarkt",
+  "price": 0,
+  "desc": "La plaza más elegante de Berlín: dos catedrales gemelas y la sala de conciertos en el medio. Renovada hace poco.",
+  "tip": "Subí a la torre de la Catedral Francesa para verla desde arriba. En diciembre hay mercado navideño.",
+  "tags": [
+   "arquitectura",
+   "clásico",
+   "fotos",
+   "céntrico"
+  ],
+  "sources": [
+   "https://www.visitberlin.de/de/franzoesischer-dom"
+  ],
+  "check": "plaza pública; las dos catedrales figuran abiertas en 2026"
+ },
+ {
+  "cat": "ver",
+  "sub": "Histórico",
+  "name": "Bebelplatz",
+  "barrio": "Mitte",
+  "address": "Bebelplatz",
+  "price": 0,
+  "desc": "La plaza donde los nazis quemaron miles de libros en 1933. En el piso, un vidrio deja ver una biblioteca subterránea con los estantes vacíos.",
+  "tip": "El memorial es un vidrio en el suelo, en el centro de la plaza: de noche está iluminado y se ve mejor.",
+  "tags": [
+   "historia",
+   "memoria",
+   "arquitectura",
+   "gratis"
+  ],
+  "sources": [],
+  "check": "espacio público; no se buscó fuente web (se agotó el cupo de búsquedas)"
+ },
+ {
+  "cat": "ver",
+  "sub": "Histórico",
+  "name": "Memorial Soviético de Treptow",
+  "barrio": "Treptow",
+  "address": "Puschkinallee",
+  "price": 0,
+  "desc": "Un cementerio de guerra descomunal dentro del parque: una estatua de 12 metros y una avenida de mármol donde descansan miles de soldados soviéticos.",
+  "tip": "Está en medio del Treptower Park: combinalo con una caminata por la orilla del Spree.",
+  "tags": [
+   "historia",
+   "memoria",
+   "guerra fría",
+   "gratis",
+   "aire libre"
+  ],
+  "sources": [],
+  "check": "espacio público; no se buscó fuente web (se agotó el cupo de búsquedas)"
+ },
+ {
+  "cat": "ver",
+  "sub": "Histórico",
+  "name": "Neue Wache",
+  "barrio": "Mitte",
+  "address": "Unter den Linden 4",
+  "price": 0,
+  "desc": "Un antiguo cuerpo de guardia que hoy es el memorial de Alemania a las víctimas de la guerra y la tiranía: una sala vacía, una escultura y un hueco al cielo.",
+  "tip": "Entrás, mirás en silencio y en cinco minutos seguís viaje. Entrada libre.",
+  "tags": [
+   "memoria",
+   "historia",
+   "arquitectura",
+   "gratis"
+  ],
+  "sources": [],
+  "check": "espacio público; no se buscó fuente web (se agotó el cupo de búsquedas)"
+ },
+ {
+  "cat": "ver",
+  "sub": "Histórico",
+  "name": "Memorial de Hohenschönhausen",
+  "barrio": "Lichtenberg",
+  "address": "Genslerstraße 66",
+  "price": 1,
+  "desc": "La cárcel secreta de la Stasi, que no figuraba en los mapas. Las visitas las guían historiadores y ex presos políticos.",
+  "tip": "Las celdas se recorren solo con visita guiada: reservá antes la de inglés. Llegás en el tranvía M5 desde Alexanderplatz.",
+  "tags": [
+   "historia",
+   "guerra fría",
+   "memoria"
+  ],
+  "q": 3,
+  "sources": [
+   "https://www.visitberlin.de/de/gedenkstaette-berlin-hohenschoenhausen",
+   "https://www.berlin.de/museum/3109402-2926344-gedenkstaette-berlin-hohenschoenhausen.html"
+  ],
+  "check": "abierto con visitas guiadas según visitberlin y berlin.de"
+ },
+ {
+  "cat": "ver",
+  "sub": "Histórico",
+  "name": "Aeropuerto de Tempelhof",
+  "barrio": "Schöneberg",
+  "address": "Platz der Luftbrücke 5",
+  "price": 2,
+  "desc": "Uno de los edificios más grandes del mundo, levantado por los nazis y célebre por el puente aéreo de 1948. Se recorre por dentro con guía.",
+  "tip": "Hay varias visitas temáticas; reservá antes. La torre (THF Tower) tiene muestra y terraza con vista a la pista, y se visita por tu cuenta.",
+  "tags": [
+   "historia",
+   "arquitectura",
+   "guerra fría",
+   "vista"
+  ],
+  "sources": [
+   "https://www.berlin.de/sehenswuerdigkeiten/3561482-3558930-flughafen-tempelhof.html",
+   "https://www.berlin.de/en/attractions-and-sights/8320170-3104052-thf-tower-flughafen-tempelhof.en.html"
+  ],
+  "check": "visitas guiadas y THF Tower activos según berlin.de y comunicados de 2026; el barrio real es Tempelhof, que no está en la lista permitida"
+ },
+ {
+  "cat": "ver",
+  "sub": "Ícono",
+  "name": "Torre de Televisión",
+  "barrio": "Mitte",
+  "address": "Panoramastraße 1A",
+  "price": 3,
+  "desc": "La construcción más alta de Alemania, orgullo de la Berlín comunista. Desde la esfera se ve toda la ciudad.",
+  "tip": "Comprá la entrada con horario por internet para no hacer cola. En 2026 se habló de un cierre largo por obras: confirmá antes de ir.",
+  "tags": [
+   "vista",
+   "mirador",
+   "clásico",
+   "guerra fría",
+   "fotos"
+  ],
+  "top": true,
+  "q": 3,
+  "sources": [
+   "https://tv-turm.de/en/",
+   "https://www.entwicklungsstadt.de/drei-jahre-schliessung-fernsehturm-soll-ab-november-2026-saniert-werden/"
+  ],
+  "check": "abierta según su web (solo anuncia un día de cierre por mantenimiento en noviembre de 2026); el cierre de tres años por obras no está confirmado"
+ },
+ {
+  "cat": "ver",
+  "sub": "Ícono",
+  "name": "Columna de la Victoria",
+  "barrio": "Tiergarten",
+  "address": "Großer Stern 1",
+  "price": 1,
+  "desc": "La columna con el ángel dorado en el medio del Tiergarten. Subís 285 escalones y tenés el parque entero a tus pies.",
+  "tip": "Se llega por los túneles peatonales de la rotonda: no cruces la calle. No hay ascensor.",
+  "tags": [
+   "mirador",
+   "vista",
+   "clásico",
+   "fotos"
+  ],
+  "sources": [
+   "https://www.visitberlin.de/de/siegessaeule",
+   "https://www.berlin.de/sehenswuerdigkeiten/3560160-3558930-siegessaeule.html"
+  ],
+  "check": "abierta todos los días según visitberlin y berlin.de (2026)"
+ },
+ {
+  "cat": "ver",
+  "sub": "Ícono",
+  "name": "Potsdamer Platz",
+  "barrio": "Tiergarten",
+  "address": "Potsdamer Platz",
+  "price": 0,
+  "desc": "Fue un baldío partido por el Muro y hoy es la Berlín de los rascacielos. Quedan tramos originales del Muro en la vereda.",
+  "tip": "Mirá la cúpula del antiguo Sony Center iluminada de noche. Es un buen punto de partida hacia el Kulturforum y el Tiergarten.",
+  "tags": [
+   "arquitectura",
+   "moderno",
+   "muro",
+   "céntrico"
+  ],
+  "sources": [
+   "https://www.berlin.de/sehenswuerdigkeiten/3560117-3155522-potsdamer-platz.html"
+  ],
+  "check": "espacio público; ficha vigente en berlin.de"
+ },
+ {
+  "cat": "ver",
+  "sub": "Ícono",
+  "name": "Puente Oberbaum",
+  "barrio": "Kreuzberg",
+  "address": "Oberbaumbrücke",
+  "price": 0,
+  "desc": "El puente de ladrillo rojo con dos torres por donde pasa el subte amarillo. Fue paso fronterizo y hoy une Kreuzberg con Friedrichshain.",
+  "tip": "La mejor hora es el atardecer, con el Spree y la Torre de Televisión de fondo. Está pegado a la East Side Gallery.",
+  "tags": [
+   "arquitectura",
+   "fotos",
+   "río",
+   "atardecer",
+   "gratis"
+  ],
+  "sources": [],
+  "check": "espacio público; no se buscó fuente web (se agotó el cupo de búsquedas)"
+ },
+ {
+  "cat": "ver",
+  "sub": "Ícono",
+  "name": "Reloj Mundial de Alexanderplatz",
+  "barrio": "Mitte",
+  "address": "Alexanderplatz 1",
+  "price": 0,
+  "desc": "Un reloj de 1969 que marca la hora de todo el mundo, con un sistema solar que gira arriba. Es el punto de encuentro clásico de los berlineses.",
+  "tip": "Buscá Buenos Aires en el cilindro. La plaza no es linda, pero es la postal de la Berlín del Este.",
+  "tags": [
+   "clásico",
+   "guerra fría",
+   "fotos",
+   "gratis",
+   "céntrico"
+  ],
+  "sources": [],
+  "check": "espacio público; no se buscó fuente web (se agotó el cupo de búsquedas)"
+ },
+ {
+  "cat": "ver",
+  "sub": "Ícono",
+  "name": "Funkturm",
+  "barrio": "Charlottenburg",
+  "address": "Hammarskjöldplatz",
+  "price": 1,
+  "desc": "La «Torre Eiffel» berlinesa: una torre de radio de acero de 1926 con mirador, recién reabierta tras la reforma por sus cien años.",
+  "tip": "Cierra los lunes y, si hay mucho viento o hielo, el mirador no abre. Está en el predio ferial, al oeste.",
+  "tags": [
+   "mirador",
+   "vista",
+   "arquitectura",
+   "clásico"
+  ],
+  "closed": [
+   1
+  ],
+  "sources": [
+   "https://www.visitberlin.de/de/funkturm",
+   "https://www.messe-berlin.de/en/press/press-releases/news_21504.html"
+  ],
+  "check": "reabrió en marzo de 2026 tras unos diez meses de obras; no confirmé si el restaurante funciona"
+ },
+ {
+  "cat": "ver",
+  "sub": "Ícono",
+  "name": "Teufelsberg",
+  "barrio": "Wilmersdorf",
+  "address": "Teufelsseechaussee 10",
+  "price": 2,
+  "desc": "Una colina hecha con escombros de la guerra y, arriba, una estación de espionaje estadounidense abandonada, toda cubierta de grafitis.",
+  "tip": "Hay que caminar un buen rato cuesta arriba por el bosque desde la estación. Si hay nieve o hielo puede cerrar.",
+  "tags": [
+   "guerra fría",
+   "street art",
+   "vista",
+   "curiosidad",
+   "naturaleza"
+  ],
+  "sources": [
+   "https://www.berlin.de/sehenswuerdigkeiten/3560349-3558930-teufelsberg.html",
+   "https://www.berlin.de/tourismus/insidertipps/1772036-2339440-teufelsberg-besichtigen-dem-kalten-krieg.html"
+  ],
+  "check": "abierto todos los días según berlin.de y visitberlin (2026), con visitas nocturnas desde noviembre"
+ },
+ {
+  "cat": "ver",
+  "sub": "Palacio",
+  "name": "Palacio de Charlottenburg",
+  "barrio": "Charlottenburg",
+  "address": "Spandauer Damm 10-22",
+  "price": 2,
+  "desc": "El palacio más grande de Berlín, residencia de verano de los reyes de Prusia, con salones barrocos y un parque enorme sobre el Spree.",
+  "tip": "Cierra los lunes. El parque es gratis y vale la pena solo. Hay obras en los exteriores hasta 2027.",
+  "tags": [
+   "palacio",
+   "historia",
+   "jardín",
+   "arquitectura",
+   "clásico"
+  ],
+  "top": true,
+  "q": 3,
+  "closed": [
+   1
+  ],
+  "sources": [
+   "https://www.spsg.de/en/palaces-gardens/object/charlottenburg-palace-new-wing",
+   "https://www.entwicklungsstadt.de/noch-jahrelang-baustelle-neuer-zeitplan-fuer-schloss-charlottenburg/"
+  ],
+  "check": "palacio viejo y ala nueva abiertos según museumsportal y SPSG (invierno 2026-27); obras solo afuera"
+ },
+ {
+  "cat": "ver",
+  "sub": "Palacio",
+  "name": "Humboldt Forum",
+  "barrio": "Mitte",
+  "address": "Schloßplatz",
+  "price": 0,
+  "desc": "El palacio real de Berlín, reconstruido con tres fachadas barrocas y una moderna. Adentro hay museos de arte de Asia, África y América.",
+  "tip": "Buena parte de las muestras es gratis. Cierra los martes. Subí a la terraza: tiene una de las mejores vistas del centro.",
+  "tags": [
+   "palacio",
+   "museo",
+   "arquitectura",
+   "vista",
+   "lluvia"
+  ],
+  "q": 3,
+  "closed": [
+   2
+  ],
+  "sources": [],
+  "check": "sin verificar en esta sesión (se agotó el cupo de búsquedas); lugar de larga data, sin señales de cierre conocidas"
+ },
+ {
+  "cat": "ver",
+  "sub": "Palacio",
+  "name": "Palacio de Köpenick",
+  "barrio": "Köpenick",
+  "address": "Schloßinsel 1",
+  "price": 2,
+  "desc": "Un palacio barroco en una islita donde se juntan dos ríos, con muebles y objetos de lujo del Museo de Artes Decorativas.",
+  "tip": "Combinalo con una vuelta por el casco viejo de Köpenick. Tiene un café con terraza al agua.",
+  "tags": [
+   "palacio",
+   "museo",
+   "río",
+   "isla",
+   "tranquilo"
+  ],
+  "sources": [
+   "https://www.museumsportal-berlin.de/de/museen/schloss-koepenick/",
+   "https://www.smb.museum/besuch-planen/oeffnungszeiten/"
+  ],
+  "check": "abierto según museumsportal, con horario de invierno 2026-27 publicado"
+ },
+ {
+  "cat": "ver",
+  "sub": "Palacio",
+  "name": "Palacio de Schönhausen",
+  "barrio": "Pankow",
+  "address": "Tschaikowskistraße 1",
+  "price": 2,
+  "desc": "Un palacio barroco con dos vidas: residencia de una reina prusiana y después casa de huéspedes del gobierno de la RDA.",
+  "tip": "En invierno abre solo los fines de semana y feriados. El jardín es de entrada libre.",
+  "tags": [
+   "palacio",
+   "historia",
+   "guerra fría",
+   "jardín",
+   "joya oculta"
+  ],
+  "sources": [
+   "https://www.spsg.de/fileadmin/user_upload/pdf/Gruppenpreise/20251201_SPSG_Gruppenpreise_2026.pdf",
+   "https://www.berliner-kurier.de/article/jagdschloss-grunewald-schliesst-10452545"
+  ],
+  "check": "abierto según la lista 2026 de SPSG y una nota de 2026"
+ },
+ {
+  "cat": "ver",
+  "sub": "Iglesia",
+  "name": "Catedral de Berlín",
+  "barrio": "Mitte",
+  "address": "Am Lustgarten",
+  "price": 2,
+  "desc": "La iglesia más imponente de la ciudad, con su cúpula verde sobre la isla. Adentro, un órgano enorme y la cripta de los Hohenzollern, reabierta en 2026.",
+  "tip": "La entrada incluye la subida a la cúpula y la cripta. Durante los servicios religiosos no se puede visitar.",
+  "tags": [
+   "religioso",
+   "arquitectura",
+   "vista",
+   "historia",
+   "clásico"
+  ],
+  "top": true,
+  "q": 3,
+  "sources": [
+   "https://www.berlin.de/sehenswuerdigkeiten/3559744-3558930-berliner-dom.html",
+   "https://www.evangelisch.de/inhalte/253249/01-03-2026/festgottesdienst-zur-wiedereroeffnung-der-hohenzollerngruft"
+  ],
+  "check": "abierta; la cripta reabrió el 1 de marzo de 2026; no confirmé el acceso a la cúpula"
+ },
+ {
+  "cat": "ver",
+  "sub": "Iglesia",
+  "name": "Iglesia del Recuerdo",
+  "barrio": "Charlottenburg",
+  "address": "Breitscheidplatz",
+  "price": 0,
+  "desc": "La torre rota por las bombas de 1943, dejada así como recuerdo de la guerra, junto a una iglesia moderna de vidrios azules.",
+  "tip": "Ojo: la torre en ruinas cerró por obras en el otoño de 2026 y la iglesia nueva cierra en 2027. Por fuera se ve siempre.",
+  "tags": [
+   "religioso",
+   "historia",
+   "memoria",
+   "arquitectura"
+  ],
+  "sources": [
+   "https://www.volksstimme.de/panorama/wegen-sanierung-berliner-gedachtnis-kirche-muss-schliessen-4308696",
+   "https://www.entwicklungsstadt.de/gedaechtniskirche-am-breitscheidplatz-das-ist-fuer-die-kommenden-jahre-geplant/"
+  ],
+  "check": "DUDOSA: ruina cerrada por obras desde el otoño de 2026; iglesia nueva abierta hasta 2027 según notas de agosto de 2026"
+ },
+ {
+  "cat": "ver",
+  "sub": "Iglesia",
+  "name": "Catedral de Santa Eduviges",
+  "barrio": "Mitte",
+  "address": "Bebelplatz",
+  "price": 0,
+  "desc": "La catedral católica de Berlín, redonda como el Panteón de Roma. Reabrió a fines de 2024 con un interior blanco y despojado que dio que hablar.",
+  "tip": "Entrada libre. Está en una esquina de Bebelplatz: asomate dos minutos aunque no seas de iglesias.",
+  "tags": [
+   "religioso",
+   "arquitectura",
+   "moderno",
+   "gratis"
+  ],
+  "sources": [
+   "https://www.berlin.de/sehenswuerdigkeiten/3561411-3558930-st-hedwigskathedrale.html",
+   "https://www.evangelisch.de/inhalte/236435/24-11-2024/berliner-hedwigs-kathedrale-wiedereroeffnet"
+  ],
+  "check": "reabierta en noviembre de 2024; ficha de berlin.de actualizada en junio de 2026; no confirmé si la cripta reabrió"
+ },
+ {
+  "cat": "ver",
+  "sub": "Iglesia",
+  "name": "Catedral Francesa",
+  "barrio": "Mitte",
+  "address": "Gendarmenmarkt 5",
+  "price": 1,
+  "desc": "La iglesia de los hugonotes que huyeron de Francia. Su torre tiene un mirador sobre el Gendarmenmarkt y un museo chico sobre esa historia.",
+  "tip": "Se sube por escalera. En invierno el mirador cierra los lunes y abre menos horas.",
+  "tags": [
+   "religioso",
+   "mirador",
+   "vista",
+   "historia"
+  ],
+  "sources": [
+   "https://www.visitberlin.de/de/franzoesischer-dom",
+   "https://www.berlin.de/sehenswuerdigkeiten/3560117-3558930-franzoesischer-dom.html"
+  ],
+  "check": "mirador y museo abiertos según fichas de 2026"
+ },
+ {
+  "cat": "ver",
+  "sub": "Iglesia",
+  "name": "Catedral Alemana",
+  "barrio": "Mitte",
+  "address": "Gendarmenmarkt 1",
+  "price": 0,
+  "desc": "La gemela de la Catedral Francesa. Ya no es iglesia: adentro hay una muestra gratuita del Parlamento sobre la historia de la democracia alemana.",
+  "tip": "Entrada libre. Cierra los lunes. Hay visitas guiadas cortas durante el día.",
+  "tags": [
+   "historia",
+   "arquitectura",
+   "gratis",
+   "lluvia"
+  ],
+  "closed": [
+   1
+  ],
+  "sources": [
+   "https://www.berlin.de/museum/3109333-2926344-deutscher-dom.html"
+  ],
+  "check": "abierta según berlin.de (enero de 2026)"
+ },
+ {
+  "cat": "ver",
+  "sub": "Iglesia",
+  "name": "Nikolaikirche",
+  "barrio": "Mitte",
+  "address": "Nikolaikirchplatz",
+  "price": 1,
+  "desc": "La iglesia más vieja de Berlín, de dos torres puntiagudas. Hoy es un museo sobre los orígenes de la ciudad y sala de conciertos.",
+  "tip": "Está en el corazón del Nikolaiviertel. Fijate si hay concierto de órgano el día que vas.",
+  "tags": [
+   "religioso",
+   "historia",
+   "museo",
+   "música"
+  ],
+  "sources": [
+   "https://www.berlin.de/museum/3109808-2926344-nikolaikirche.html",
+   "https://www.stadtmuseum.de/en/museum/museum-nikolaikirche.md"
+  ],
+  "check": "abierta, con visitas guiadas agendadas en 2026"
+ },
+ {
+  "cat": "ver",
+  "sub": "Templo",
+  "name": "Nueva Sinagoga",
+  "barrio": "Mitte",
+  "address": "Oranienburger Straße 28-30",
+  "price": 1,
+  "desc": "La cúpula dorada que domina la Oranienburger Straße. Fue la sinagoga más grande de Alemania; hoy es un museo sobre la vida judía en Berlín.",
+  "tip": "Cierra los sábados. A la cúpula se sube solo en los meses cálidos. Hay control de seguridad en la entrada.",
+  "tags": [
+   "religioso",
+   "historia",
+   "memoria",
+   "arquitectura"
+  ],
+  "closed": [
+   6
+  ],
+  "sources": [
+   "https://www.museumsportal-berlin.de/de/museen/neue-synagoge-berlin-centrum-judaicum/",
+   "https://centrumjudaicum.de/en/museum-dauerausstellung/"
+  ],
+  "check": "muestra permanente abierta; cúpula solo de abril a septiembre"
+ },
+ {
+  "cat": "ver",
+  "sub": "Templo",
+  "name": "Sinagoga de la Rykestraße",
+  "barrio": "Prenzlauer Berg",
+  "address": "Rykestraße 53",
+  "price": null,
+  "desc": "La sinagoga más grande de Alemania, escondida en un patio interno. Se salvó en 1938 por estar pegada a las casas vecinas.",
+  "tip": "No tiene visitas libres: se entra en los servicios o en conciertos, como los de las Jornadas de Cultura Judía de noviembre.",
+  "tags": [
+   "religioso",
+   "historia",
+   "arquitectura",
+   "joya oculta"
+  ],
+  "sources": [
+   "https://www.berlin.de/events/2097190-2229501-juedische-kulturtage.html"
+  ],
+  "check": "en uso: conciertos del 12 y el 21 de noviembre de 2026; no encontré un régimen de visitas guiadas"
+ },
+ {
+  "cat": "ver",
+  "sub": "Templo",
+  "name": "Mezquita Şehitlik",
+  "barrio": "Neukölln",
+  "address": "Columbiadamm 128",
+  "price": 0,
+  "desc": "La mezquita más linda de Berlín, de estilo otomano, con dos minaretes y una cúpula pintada, al lado de un cementerio turco del siglo XIX.",
+  "tip": "Se puede visitar fuera de los horarios de rezo, con ropa que cubra hombros y piernas. Queda al borde del Tempelhofer Feld.",
+  "tags": [
+   "religioso",
+   "arquitectura",
+   "gratis",
+   "joya oculta"
+  ],
+  "sources": [
+   "https://www.visitberlin.de/de/sehitlik-moschee",
+   "https://www.berlin.de/en/attractions-and-sights/3560303-3104052-islamischer-friedhof-am-columbiadamm.en.html"
+  ],
+  "check": "ficha vigente en visitberlin; no pude confirmar los horarios de visitas guiadas de 2026"
+ },
+ {
+  "cat": "ver",
+  "sub": "Templo",
+  "name": "Templo Sri Ganesha",
+  "barrio": "Neukölln",
+  "address": "Hasenheide 106",
+  "price": 0,
+  "desc": "El templo hindú más grande de Alemania, con una torre de 17 metros llena de dioses de colores. Se inauguró en junio de 2026 tras veinte años de obra.",
+  "tip": "Entrada libre y abierto a todos. Hay que sacarse los zapatos. Está en el borde del parque Hasenheide.",
+  "tags": [
+   "religioso",
+   "arquitectura",
+   "gratis",
+   "curiosidad"
+  ],
+  "sources": [
+   "https://www.berlin.de/sehenswuerdigkeiten/10424686-3558930-sriganeshahindutempel.html",
+   "https://www.evangelisch.de/inhalte/256078/07-06-2026/berliner-hindu-tempel-mit-ganges-wasser-geweiht"
+  ],
+  "check": "consagrado el 7 de junio de 2026 y abierto a visitantes"
+ },
+ {
+  "cat": "ver",
+  "sub": "Naturaleza",
+  "name": "Tiergarten",
+  "barrio": "Tiergarten",
+  "address": "Straße des 17. Juni",
+  "price": 0,
+  "desc": "El pulmón verde de Berlín: un bosque en pleno centro, con lagos, senderos y claros donde los berlineses toman sol.",
+  "tip": "Alquilá una bici y cruzalo de la Puerta de Brandeburgo a la Columna de la Victoria. En verano, cerveza en el biergarten del lago.",
+  "tags": [
+   "naturaleza",
+   "bici",
+   "caminar",
+   "picnic",
+   "gratis"
+  ],
+  "top": true,
+  "q": 3,
+  "sources": [],
+  "check": "espacio público; no se buscó fuente web (se agotó el cupo de búsquedas)"
+ },
+ {
+  "cat": "ver",
+  "sub": "Naturaleza",
+  "name": "Tempelhofer Feld",
+  "barrio": "Neukölln",
+  "address": "Herrfurthstraße",
+  "price": 0,
+  "desc": "Un aeropuerto cerrado convertido en parque: las pistas quedaron tal cual y ahora son de las bicis, los patines y los barriletes.",
+  "tip": "Entrá por el lado de Neukölln al atardecer. Abre de la salida a la puesta del sol y no hay sombra: llevá agua.",
+  "tags": [
+   "aire libre",
+   "bici",
+   "atardecer",
+   "picnic",
+   "gratis"
+  ],
+  "top": true,
+  "q": 3,
+  "sources": [],
+  "check": "espacio público; no se buscó fuente web (se agotó el cupo de búsquedas)"
+ },
+ {
+  "cat": "ver",
+  "sub": "Naturaleza",
+  "name": "Treptower Park",
+  "barrio": "Treptow",
+  "address": "Puschkinallee",
+  "price": 0,
+  "desc": "Un parque largo sobre el Spree, con embarcadero, una islita con puente y el gigantesco memorial soviético escondido entre los árboles.",
+  "tip": "Caminá por la orilla hasta la Insel der Jugend. Desde el puerto salen los paseos en barco.",
+  "tags": [
+   "naturaleza",
+   "río",
+   "caminar",
+   "picnic",
+   "gratis"
+  ],
+  "sources": [],
+  "check": "espacio público; no se buscó fuente web (se agotó el cupo de búsquedas)"
+ },
+ {
+  "cat": "ver",
+  "sub": "Naturaleza",
+  "name": "Volkspark Friedrichshain",
+  "barrio": "Friedrichshain",
+  "address": "Am Friedrichshain 1",
+  "price": 0,
+  "desc": "El parque más antiguo de Berlín, con una fuente de cuentos de hadas y dos lomas hechas con escombros de la guerra.",
+  "tip": "Arrancá por la Märchenbrunnen, la fuente de la entrada. En verano hay cine al aire libre.",
+  "tags": [
+   "naturaleza",
+   "chicos",
+   "picnic",
+   "correr",
+   "gratis"
+  ],
+  "sources": [],
+  "check": "espacio público; no se buscó fuente web (se agotó el cupo de búsquedas)"
+ },
+ {
+  "cat": "ver",
+  "sub": "Naturaleza",
+  "name": "Jardín Botánico",
+  "barrio": "Steglitz",
+  "address": "Königin-Luise-Straße 6-8",
+  "price": 1,
+  "desc": "Uno de los jardines botánicos más grandes del mundo, con miles de especies y unos invernaderos de vidrio y hierro de principios del siglo XX.",
+  "tip": "Los invernaderos son un plan ideal para el frío. Calculá medio día: queda lejos del centro.",
+  "tags": [
+   "naturaleza",
+   "jardín",
+   "tranquilo",
+   "fotos"
+  ],
+  "sources": [],
+  "check": "sin verificar en esta sesión (se agotó el cupo de búsquedas); lugar de larga data, sin señales de cierre conocidas"
+ },
+ {
+  "cat": "ver",
+  "sub": "Naturaleza",
+  "name": "Viktoriapark",
+  "barrio": "Kreuzberg",
+  "address": "Kreuzbergstraße",
+  "price": 0,
+  "desc": "La loma que le da el nombre a Kreuzberg, con una cascada artificial y un monumento arriba desde donde se ve todo el sur de la ciudad.",
+  "tip": "Subí al atardecer. A la vuelta, bajá a la Bergmannstraße a comer algo.",
+  "tags": [
+   "naturaleza",
+   "vista",
+   "atardecer",
+   "picnic",
+   "gratis"
+  ],
+  "sources": [],
+  "check": "espacio público; no se buscó fuente web (se agotó el cupo de búsquedas)"
+ },
+ {
+  "cat": "ver",
+  "sub": "Naturaleza",
+  "name": "Isla de los Pavos Reales",
+  "barrio": "Zehlendorf",
+  "address": "Nikolskoer Weg",
+  "price": 1,
+  "desc": "Una isla en el río Havel con pavos reales sueltos, un castillito blanco de cuento y senderos sin autos ni bicis.",
+  "tip": "Se cruza en una balsa que sale cada pocos minutos. El castillo se visita con guía solo en los meses cálidos.",
+  "tags": [
+   "naturaleza",
+   "isla",
+   "palacio",
+   "tranquilo",
+   "lago"
+  ],
+  "award": "Patrimonio Mundial UNESCO",
+  "sources": [
+   "https://www.berlin.de/museum/3109872-2926344-schloss-und-landschaftsgarten-pfaueninse.html",
+   "https://www.spsg.de/fileadmin/user_upload/pdf/Gruppenpreise/20251201_SPSG_Gruppenpreise_2026.pdf"
+  ],
+  "check": "isla y balsa en la lista 2026 de SPSG; visitas al castillo de mayo a octubre"
+ },
+ {
+  "cat": "ver",
+  "sub": "Paseo",
+  "name": "Unter den Linden",
+  "barrio": "Mitte",
+  "address": "Unter den Linden",
+  "price": 0,
+  "desc": "El bulevar histórico de Berlín: de la Puerta de Brandeburgo a la Isla de los Museos pasás por la ópera, la universidad y la Neue Wache.",
+  "tip": "Hacelo a pie de oeste a este: es un kilómetro y medio y terminás frente a la Catedral.",
+  "tags": [
+   "caminar",
+   "historia",
+   "arquitectura",
+   "clásico",
+   "céntrico"
+  ],
+  "sources": [],
+  "check": "espacio público; no se buscó fuente web (se agotó el cupo de búsquedas)"
+ },
+ {
+  "cat": "ver",
+  "sub": "Paseo",
+  "name": "Orillas del Spree en el barrio del gobierno",
+  "barrio": "Tiergarten",
+  "address": "Paul-Löbe-Allee 2",
+  "price": 0,
+  "desc": "Una caminata junto al río entre el Reichstag, la Cancillería y los edificios de vidrio del Parlamento, unidos por puentes sobre el agua.",
+  "tip": "En verano, al anochecer, proyectan una película sobre la historia del Parlamento en las fachadas. También es lindo en bici.",
+  "tags": [
+   "caminar",
+   "río",
+   "arquitectura",
+   "moderno",
+   "gratis"
+  ],
+  "sources": [],
+  "check": "espacio público; no se buscó fuente web (se agotó el cupo de búsquedas)"
+ },
+ {
+  "cat": "ver",
+  "sub": "Paseo",
+  "name": "Landwehrkanal",
+  "barrio": "Kreuzberg",
+  "address": "Paul-Lincke-Ufer",
+  "price": 0,
+  "desc": "El canal arbolado que cruza Kreuzberg y Neukölln, con cisnes, cafés y gente sentada en la orilla con una cerveza.",
+  "tip": "Caminá del Paul-Lincke-Ufer al Maybachufer. En el puente Admiralbrücke se junta gente a ver caer el sol.",
+  "tags": [
+   "caminar",
+   "vida de barrio",
+   "atardecer",
+   "bici",
+   "relajado"
+  ],
+  "sources": [],
+  "check": "espacio público; no se buscó fuente web (se agotó el cupo de búsquedas)"
+ },
+ {
+  "cat": "ver",
+  "sub": "Paseo",
+  "name": "Kurfürstendamm",
+  "barrio": "Charlottenburg",
+  "address": "Kurfürstendamm",
+  "price": 0,
+  "desc": "La gran avenida de la Berlín occidental: tres kilómetros de vidrieras, cafés de época y edificios señoriales.",
+  "tip": "Arrancá en la Iglesia del Recuerdo y caminá hacia el oeste; las calles laterales son más lindas que la avenida.",
+  "tags": [
+   "caminar",
+   "compras",
+   "clásico",
+   "arquitectura"
+  ],
+  "sources": [],
+  "check": "espacio público; no se buscó fuente web (se agotó el cupo de búsquedas)"
+ },
+ {
+  "cat": "ver",
+  "sub": "Paseo",
+  "name": "Hackesche Höfe",
+  "barrio": "Mitte",
+  "address": "Rosenthaler Straße 40-41",
+  "price": 0,
+  "desc": "Ocho patios conectados entre sí, con fachadas art nouveau de azulejos de colores, locales de diseño, un cine y un teatro.",
+  "tip": "Entrada libre. El primer patio es el más lindo. Después seguí al pasaje de al lado, que es puro grafiti.",
+  "tags": [
+   "arquitectura",
+   "patio",
+   "diseño",
+   "compras",
+   "caminar"
+  ],
+  "sources": [
+   "https://www.hackesche-hoefe.de/en/story/mitten-im-berliner-dschungel-452"
+  ],
+  "check": "sitio oficial activo"
+ },
+ {
+  "cat": "ver",
+  "sub": "Paseo",
+  "name": "Karl-Marx-Allee",
+  "barrio": "Friedrichshain",
+  "address": "Karl-Marx-Allee",
+  "price": 0,
+  "desc": "La avenida monumental de la Berlín socialista: dos kilómetros de «palacios para obreros» de los años 50, anchísima para los desfiles.",
+  "tip": "Caminá de Strausberger Platz a Frankfurter Tor. De paso tenés el museo de los videojuegos.",
+  "tags": [
+   "arquitectura",
+   "guerra fría",
+   "caminar",
+   "historia",
+   "fotos"
+  ],
+  "sources": [],
+  "check": "espacio público; no se buscó fuente web (se agotó el cupo de búsquedas)"
+ },
+ {
+  "cat": "ver",
+  "sub": "Barrio",
+  "name": "Nikolaiviertel",
+  "barrio": "Mitte",
+  "address": "Propststraße",
+  "price": 0,
+  "desc": "El lugar donde nació Berlín: callecitas empedradas y casas bajas reconstruidas por la RDA en los años 80 alrededor de la iglesia más vieja.",
+  "tip": "Es chico: en media hora lo caminás. Es turístico, pero sirve para probar cocina berlinesa de la de antes.",
+  "tags": [
+   "historia",
+   "caminar",
+   "tradición",
+   "céntrico",
+   "río"
+  ],
+  "sources": [],
+  "check": "espacio público; no se buscó fuente web (se agotó el cupo de búsquedas)"
+ },
+ {
+  "cat": "ver",
+  "sub": "Barrio",
+  "name": "Scheunenviertel",
+  "barrio": "Mitte",
+  "address": "Auguststraße",
+  "price": 0,
+  "desc": "El viejo barrio judío, hoy lleno de galerías de arte, patios escondidos y cafés. En las veredas, las placas doradas recuerdan a los vecinos deportados.",
+  "tip": "Caminá la Auguststraße y la Große Hamburger Straße, y metete en los patios que veas abiertos.",
+  "tags": [
+   "vida de barrio",
+   "arte",
+   "historia",
+   "memoria",
+   "café"
+  ],
+  "sources": [],
+  "check": "espacio público; no se buscó fuente web (se agotó el cupo de búsquedas)"
+ },
+ {
+  "cat": "ver",
+  "sub": "Barrio",
+  "name": "Kollwitzkiez",
+  "barrio": "Prenzlauer Berg",
+  "address": "Kollwitzplatz",
+  "price": 0,
+  "desc": "El Prenzlauer Berg de postal: edificios antiguos restaurados, veredas anchas, cochecitos de bebé y cafés con mesas afuera.",
+  "tip": "Los sábados hay mercado en la plaza. La Rykestraße y la torre de agua están a dos cuadras.",
+  "tags": [
+   "vida de barrio",
+   "café",
+   "brunch",
+   "mercado",
+   "caminar"
+  ],
+  "sources": [],
+  "check": "espacio público; no se buscó fuente web (se agotó el cupo de búsquedas)"
+ },
+ {
+  "cat": "ver",
+  "sub": "Barrio",
+  "name": "Bergmannkiez",
+  "barrio": "Kreuzberg",
+  "address": "Bergmannstraße",
+  "price": 0,
+  "desc": "El Kreuzberg más tranquilo: una calle de cafés, librerías y tiendas de segunda mano que termina en un mercado cubierto.",
+  "tip": "Entrá a la Marheineke Markthalle a comer algo y seguí hasta la plaza Chamissoplatz, que parece de otro siglo.",
+  "tags": [
+   "vida de barrio",
+   "café",
+   "vintage",
+   "mercado",
+   "caminar"
+  ],
+  "sources": [],
+  "check": "espacio público; no se buscó fuente web (se agotó el cupo de búsquedas)"
+ },
+ {
+  "cat": "ver",
+  "sub": "Barrio",
+  "name": "Reuterkiez",
+  "barrio": "Neukölln",
+  "address": "Weserstraße",
+  "price": 0,
+  "desc": "El norte de Neukölln, donde conviven verdulerías turcas, bares chiquitos y gente joven de todo el mundo.",
+  "tip": "Andá a la tardecita: la Weserstraße se arma de noche. De día, seguí hasta el canal.",
+  "tags": [
+   "vida de barrio",
+   "bar",
+   "noche",
+   "café",
+   "moderno"
+  ],
+  "sources": [],
+  "check": "espacio público; no se buscó fuente web (se agotó el cupo de búsquedas)"
+ },
+ {
+  "cat": "ver",
+  "sub": "Barrio",
+  "name": "Simon-Dach-Kiez",
+  "barrio": "Friedrichshain",
+  "address": "Boxhagener Platz",
+  "price": 0,
+  "desc": "El corazón de Friedrichshain: bares uno al lado del otro, murales, locales alternativos y una plaza con feria los fines de semana.",
+  "tip": "Los sábados hay mercado de comida y los domingos, mercado de pulgas en Boxhagener Platz.",
+  "tags": [
+   "vida de barrio",
+   "bar",
+   "noche",
+   "feria",
+   "street art"
+  ],
+  "sources": [],
+  "check": "espacio público; no se buscó fuente web (se agotó el cupo de búsquedas)"
+ },
+ {
+  "cat": "ver",
+  "sub": "Barrio",
+  "name": "Graefekiez",
+  "barrio": "Kreuzberg",
+  "address": "Graefestraße",
+  "price": 0,
+  "desc": "Un rincón arbolado de Kreuzberg pegado al canal, con edificios de 1900 y restaurantes chicos en casi todas las esquinas.",
+  "tip": "Terminá en el puente Admiralbrücke, donde los vecinos se sientan a charlar cuando cae el sol.",
+  "tags": [
+   "vida de barrio",
+   "café",
+   "tranquilo",
+   "caminar",
+   "atardecer"
+  ],
+  "sources": [],
+  "check": "espacio público; no se buscó fuente web (se agotó el cupo de búsquedas)"
+ },
+ {
+  "cat": "ver",
+  "sub": "Barrio",
+  "name": "Rixdorf",
+  "barrio": "Neukölln",
+  "address": "Richardplatz",
+  "price": 0,
+  "desc": "Un pueblito del siglo XVIII que quedó adentro de Neukölln: una plaza con herrería, casitas bajas y calles empedradas.",
+  "tip": "Caminá del Richardplatz al pasaje Kirchgasse. En diciembre hay un mercado navideño muy querido, un solo fin de semana.",
+  "tags": [
+   "vida de barrio",
+   "joya oculta",
+   "historia",
+   "pueblo",
+   "tranquilo"
+  ],
+  "sources": [],
+  "check": "espacio público; no se buscó fuente web (se agotó el cupo de búsquedas)"
+ },
+ {
+  "cat": "ver",
+  "sub": "Cultura",
+  "name": "C/O Berlin",
+  "barrio": "Charlottenburg",
+  "address": "Hardenbergstraße 22-24",
+  "price": 2,
+  "desc": "La casa de la fotografía en Berlín, en el antiguo centro cultural de Estados Unidos. Muestras de primer nivel que cambian varias veces al año.",
+  "tip": "Abre todos los días. Avisan que el ascensor está fuera de servicio. Enfrente está el Museo de Fotografía.",
+  "tags": [
+   "arte",
+   "cultura",
+   "moderno",
+   "lluvia"
+  ],
+  "q": 3,
+  "sources": [
+   "https://co-berlin.org/en"
+  ],
+  "check": "abierto, con muestra de septiembre de 2026 a febrero de 2027"
+ },
+ {
+  "cat": "ver",
+  "sub": "Cultura",
+  "name": "Colección Boros",
+  "barrio": "Mitte",
+  "address": "Reinhardtstraße 20",
+  "price": 3,
+  "desc": "Arte contemporáneo dentro de un búnker de la guerra que después fue depósito de frutas y club de techno. Solo se entra con visita guiada.",
+  "tip": "Las visitas son para grupos chicos y se agotan con semanas de anticipación: reservá apenas tengas fecha.",
+  "tags": [
+   "arte",
+   "historia",
+   "curiosidad",
+   "moderno",
+   "techno"
+  ],
+  "q": 3,
+  "sources": [
+   "https://www.sammlung-boros.de/en",
+   "https://www.berlin.de/museum/3128127-2926344-sammlung-boros.html"
+  ],
+  "check": "quinta presentación en curso desde mayo de 2026"
+ },
+ {
+  "cat": "ver",
+  "sub": "Cultura",
+  "name": "Haus der Kulturen der Welt",
+  "barrio": "Tiergarten",
+  "address": "John-Foster-Dulles-Allee 10",
+  "price": 1,
+  "desc": "La «ostra embarazada»: un edificio de techo curvo de los años 50 sobre el Spree, dedicado al arte y la música de todo el mundo.",
+  "tip": "Cierra los martes. Aunque no veas la muestra, la terraza sobre el río vale la parada.",
+  "tags": [
+   "cultura",
+   "arte",
+   "arquitectura",
+   "música",
+   "río"
+  ],
+  "closed": [
+   2
+  ],
+  "sources": [
+   "https://www.museumsportal-berlin.de/de/museen/haus-der-kulturen-der-welt/",
+   "https://www.hkw.de/en/the-house/press/press-releases/2026/16-02-2026-Jahresprogramm"
+  ],
+  "check": "programa 2026 publicado y actividades en otoño de 2026"
+ },
+ {
+  "cat": "ver",
+  "sub": "Cultura",
+  "name": "Haus Schwarzenberg",
+  "barrio": "Mitte",
+  "address": "Rosenthaler Straße 39",
+  "price": 0,
+  "desc": "Un pasaje sin restaurar, cubierto de grafitis de arriba abajo, con un cine, un bar y dos museos chicos sobre los años del nazismo.",
+  "tip": "Al fondo está el Museo del Taller de Ciegos de Otto Weidt, gratuito y conmovedor. En el primer patio, el Centro Ana Frank.",
+  "tags": [
+   "street art",
+   "historia",
+   "memoria",
+   "joya oculta",
+   "gratis"
+  ],
+  "sources": [
+   "https://www.top10berlin.de/de/cat/freizeit-268/ueberraschende-kulturorte-1636/haus-schwarzenberg-1270",
+   "https://www.museumsportal-berlin.de/de/museen/anne-frank-zentrum/"
+  ],
+  "check": "Centro Ana Frank y museo Otto Weidt activos en 2026"
+ },
+ {
+  "cat": "ver",
+  "sub": "Cultura",
+  "name": "KW Institute for Contemporary Art",
+  "barrio": "Mitte",
+  "address": "Auguststraße 69",
+  "price": 1,
+  "desc": "Una vieja fábrica de margarina donde nació la escena de arte contemporáneo de Mitte. Muestras arriesgadas y un patio con café.",
+  "tip": "Cierra los martes. Combinalo con las galerías de la Auguststraße.",
+  "tags": [
+   "arte",
+   "cultura",
+   "moderno",
+   "patio"
+  ],
+  "closed": [
+   2
+  ],
+  "sources": [],
+  "check": "sin verificar en esta sesión (se agotó el cupo de búsquedas); lugar de larga data, sin señales de cierre conocidas"
+ }
+]
