@@ -7,7 +7,8 @@
    - Este archivo se carga antes que js/app.js y trae solo los archivos de datos de la ciudad elegida.
    - Al cambiar de ciudad se recarga la página. El viaje, el perfil y el pasaporte se guardan aparte para cada ciudad.
 
-   Desde el código: GUIA_CIUDAD.id (ciudad elegida), GUIA_CIUDAD.abrir() (muestra la lista), GUIA_CIUDAD.elegir(id). */
+   Desde el código: GUIA_CIUDAD.id (ciudad elegida), GUIA_CIUDAD.abrir() (muestra la lista), GUIA_CIUDAD.elegir(id).
+   La primera vez y al tocar el nombre de la ciudad se abre el globo (js/globo.js, tarjeta #167); esta lista queda por si el globo no carga. */
 (() => {
   "use strict";
   const LISTA = window.GUIA_CIUDADES || [];
@@ -19,6 +20,8 @@
   let delEnlace = null;
   try { delEnlace = new URLSearchParams(location.search).get("ciudad"); } catch (e) { /* navegador viejo */ }
   if (existe(delEnlace)) guardar(delEnlace); else delEnlace = null;
+  /* "nueva": es la primera vez (no hay ciudad guardada ni enlace). Ahí js/globo.js muestra el globo para elegir destino (tarjeta #167). */
+  const nueva = !delEnlace && !existe(guardada());
   const id = delEnlace || (existe(guardada()) ? guardada() : (LISTA[0] || {}).id);
   const actual = LISTA.find(c => c.id === id) || { id: id, files: [] };
 
@@ -56,7 +59,11 @@
     }
     if (typeof dialogo.showModal === "function") dialogo.showModal(); else dialogo.setAttribute("open", "");
   };
-  document.addEventListener("click", e => { if (e.target.closest && e.target.closest("#city-btn")) abrir(); });
+  /* El nombre de la ciudad, arriba, abre el globo para cambiar de destino (js/globo.js); si el globo no está, esta lista. */
+  document.addEventListener("click", e => {
+    if (!(e.target.closest && e.target.closest("#city-btn"))) return;
+    if (window.GUIA_GLOBO) window.GUIA_GLOBO.abrir("cambiar"); else abrir();
+  });
 
-  window.GUIA_CIUDAD = { id: id, actual: actual, lista: LISTA, elegir: elegir, abrir: abrir };
+  window.GUIA_CIUDAD = { id: id, actual: actual, lista: LISTA, nueva: nueva, elegir: elegir, abrir: abrir, guardar: guardar };
 })();

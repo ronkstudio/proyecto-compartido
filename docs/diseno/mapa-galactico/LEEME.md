@@ -2,6 +2,8 @@
 
 Globo terráqueo en azul galáctico con los bordes de los continentes en blanco, visto en diagonal desde arriba (como desde un satélite). Llena la pantalla y solo asoma el horizonte curvo arriba. Mientras lo recorrés se va acercando, y el continente que queda en el centro se levanta, se agranda un poco y muestra su nombre. Tarjeta #113.
 
+**Ya está en la app** (tarjeta #167): es la entrada de la guía y entra directo a la ciudad, sin el botón "Entrar a la guía". El código de la app está en `app/js/globo.js`; este boceto queda como referencia de diseño.
+
 Los bocetos anteriores quedaron en la historia de la rama: el 1 era un mapa plano y el 2, un globo más lejos.
 
 **Para abrirlo:** doble clic en `index.html`. Necesita internet: el dibujo del globo usa la biblioteca d3 desde cdnjs y las letras vienen de Google Fonts.
