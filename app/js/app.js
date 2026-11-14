@@ -389,11 +389,12 @@
   const seeded = (id, seed) => { let h = seed; for (let i = 0; i < id.length; i++) h = (h * 31 + id.charCodeAt(i)) % 9973; return h; };
   const nowPicks = () => {
     const t = cityNow(), h = t.getHours(), rain = isRain();
-    const meal = p => p.cat === "comer" && !/Café|Helad/.test(p.sub);
+    /* Panaderías y dulces van a la mañana o a la tarde, no al almuerzo ni a la cena (tarjeta #126). */
+    const meal = p => p.cat === "comer" && !/Café|Helad|Panader|Dulce/.test(p.sub);
     let title, test;
-    if (h >= 6 && h < 11) { title = "Para arrancar la mañana"; test = p => p.sub === "Café notable" || (p.cat === "ver" && p.q === 3); }
+    if (h >= 6 && h < 11) { title = "Para arrancar la mañana"; test = p => (p.cat === "comer" && /^Café|Panader/.test(p.sub)) || (p.cat === "ver" && p.q === 3); }
     else if (h >= 11 && h < 15) { title = "Para almorzar ahora"; test = meal; }
-    else if (h >= 15 && h < 19) { title = "Para esta tarde"; test = p => p.cat === "ver" || /Café|Helad/.test(p.sub); }
+    else if (h >= 15 && h < 19) { title = "Para esta tarde"; test = p => p.cat === "ver" || /Café|Helad|Panader|Dulce/.test(p.sub); }
     else if (h >= 19) { title = "Para esta noche"; test = p => (meal(p) && p.sub !== "Al paso") || p.cat === "noche"; }
     else { title = (LOC.trasnoche || "Trasnoche"); test = p => p.cat === "noche" || p.sub === "Pizzería"; }
     let items = places.filter(p => p.inCity && test(p) && openToday(p) && (!rain || p.cat !== "ver" || (p.tags || []).indexOf("lluvia") > -1) &&

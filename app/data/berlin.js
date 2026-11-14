@@ -1,5 +1,5 @@
 /* Datos de la ciudad: Berlín (tarjeta #99, etapa 1 de la expansión).
-   Por ahora tiene la estructura y toda la información de "Info". Los lugares se cargan en la etapa 2.
+   Tiene la estructura, toda la información de "Info" y los planes armados. Los lugares están en data/berlin-lugares.js (etapa 2, tarjeta #126).
    price: 0 = gratis, 1 = $, 2 = $$, 3 = $$$, 4 = $$$$, null = no aplica.
 
    De dónde salen los datos de transporte, emergencias y dinero (revisados el 13/11/2026):
@@ -28,7 +28,7 @@ window.CITY_DATA.berlin = {
     { id: "ocio", name: "Entretenimiento", icon: "🎡", color: "#e8590c", desc: "Cine, teatro, juegos y planes con chicos" }
   ],
 
-  /* Los lugares se cargan en la etapa 2 (una fila por lugar, con el mismo formato que data/caba.js o data/caba-mas.js). */
+  /* Los lugares están en data/berlin-lugares.js (etapa 2), que los suma a esta lista. */
   places: [],
 
   barrios: [
@@ -42,8 +42,67 @@ window.CITY_DATA.berlin = {
     { name: "Tiergarten", vibe: "Verde y de embajadas", desc: "El gran parque del centro, el Reichstag, la Columna de la Victoria y Potsdamer Platz.", stay: "Hoteles grandes cerca del parque y de la estación central." }
   ],
 
-  /* Los itinerarios se arman en la etapa 2, cuando estén cargados los lugares. */
-  itineraries: [],
+  /* Planes armados (tarjeta #134). Cada paso nombra un lugar de data/berlin-lugares.js ("ref" = nombre exacto). */
+  itineraries: [
+    { id: "1-dia", name: "Berlín en 1 día", icon: "⚡", desc: "Lo esencial si tenés solo una jornada.", steps: [
+      { when: "Mañana", ref: "Reichstag y su cúpula", note: "La visita es gratis pero hay que anotarse antes en el sitio del Bundestag." },
+      { when: "Mañana", ref: "Puerta de Brandeburgo" },
+      { when: "Mañana", ref: "Monumento a los Judíos Asesinados de Europa" },
+      { when: "Mediodía", ref: "Checkpoint Charlie" },
+      { when: "Tarde", ref: "Gendarmenmarkt" },
+      { when: "Tarde", ref: "Unter den Linden", note: "Caminala hasta la Isla de los Museos." },
+      { when: "Tarde", ref: "Neues Museum", note: "El busto de Nefertiti. Cierra los lunes." },
+      { when: "Atardecer", ref: "Torre de Televisión", note: "Reservá horario por internet." },
+      { when: "Noche", ref: "Zur letzten Instanz", note: "Cena alemana en el bodegón más viejo de la ciudad." }
+    ] },
+    { id: "3-dias", name: "3 días clásicos", icon: "🗓️", desc: "El recorrido completo para una primera visita.", steps: [
+      { when: "Día 1 · Mañana", ref: "Reichstag y su cúpula", note: "Anotate antes para la cúpula." },
+      { when: "Día 1 · Mañana", ref: "Puerta de Brandeburgo" },
+      { when: "Día 1 · Mañana", ref: "Monumento a los Judíos Asesinados de Europa" },
+      { when: "Día 1 · Mediodía", ref: "Gendarmenmarkt" },
+      { when: "Día 1 · Tarde", ref: "Isla de los Museos", note: "Elegí uno o dos museos: no da para todos." },
+      { when: "Día 1 · Tarde", ref: "Catedral de Berlín" },
+      { when: "Día 1 · Noche", ref: "Zur letzten Instanz" },
+      { when: "Día 2 · Mañana", ref: "Memorial del Muro de Berlín" },
+      { when: "Día 2 · Mediodía", ref: "Checkpoint Charlie" },
+      { when: "Día 2 · Mediodía", ref: "Topografía del Terror" },
+      { when: "Día 2 · Almuerzo", ref: "Curry 36", note: "La currywurst de Kreuzberg." },
+      { when: "Día 2 · Tarde", ref: "Museo Judío de Berlín" },
+      { when: "Día 2 · Atardecer", ref: "East Side Gallery" },
+      { when: "Día 2 · Noche", ref: "Simon-Dach-Kiez", note: "Bares uno al lado del otro." },
+      { when: "Día 3 · Mañana", ref: "Palacio de Charlottenburg", note: "Cierra los lunes." },
+      { when: "Día 3 · Mediodía", ref: "Kurfürstendamm" },
+      { when: "Día 3 · Mediodía", ref: "Iglesia del Recuerdo" },
+      { when: "Día 3 · Tarde", ref: "Tiergarten", note: "Cruzalo hasta la Columna de la Victoria." },
+      { when: "Día 3 · Merienda", ref: "Café am Neuen See" },
+      { when: "Día 3 · Noche", ref: "Filarmónica de Berlín", note: "Si hay concierto, conseguí entrada con tiempo." }
+    ] },
+    { id: "lluvia", name: "Plan para día de lluvia", icon: "🌧️", desc: "Todo bajo techo y cerca.", steps: [
+      { when: "Mañana", ref: "Neues Museum", note: "Cierra los lunes: ese día cambialo por el DDR Museum." },
+      { when: "Mediodía", ref: "DDR Museum" },
+      { when: "Almuerzo", ref: "Monsieur Vuong" },
+      { when: "Tarde", ref: "Palacio de las Lágrimas", note: "Entrada libre. Cierra los lunes." },
+      { when: "Tarde", ref: "Dussmann das KulturKaufhaus", note: "Libros y discos en cinco pisos." },
+      { when: "Noche", ref: "Friedrichstadt-Palast" }
+    ] },
+    { id: "gratis", name: "Berlín gratis", icon: "💸", desc: "Un gran día sin pagar entradas.", steps: [
+      { when: "Mañana", ref: "Memorial del Muro de Berlín" },
+      { when: "Mañana", ref: "Reichstag y su cúpula", note: "Gratis, con inscripción previa." },
+      { when: "Mediodía", ref: "Puerta de Brandeburgo" },
+      { when: "Mediodía", ref: "Monumento a los Judíos Asesinados de Europa" },
+      { when: "Tarde", ref: "Topografía del Terror" },
+      { when: "Tarde", ref: "Museo Judío de Berlín", note: "La muestra permanente es gratis." },
+      { when: "Atardecer", ref: "East Side Gallery" },
+      { when: "Atardecer", ref: "Puente Oberbaum" }
+    ] },
+    { id: "chicos", name: "Con chicos", icon: "🧒", desc: "Planes que funcionan en familia.", steps: [
+      { when: "Mañana", ref: "Zoológico de Berlín" },
+      { when: "Almuerzo", ref: "Kantini (Bikini Berlin)", note: "Desde el ventanal se ven los monos del zoológico." },
+      { when: "Tarde", ref: "Museo Alemán de la Técnica", note: "Trenes, barcos y aviones. Cierra los lunes." },
+      { when: "Merienda", ref: "Jones Ice Cream" },
+      { when: "Atardecer", ref: "Tempelhofer Feld", note: "Llevá bici, patines o un barrilete." }
+    ] }
+  ],
 
   /* ───────────── TRANSPORTE ───────────── */
   subte: [
