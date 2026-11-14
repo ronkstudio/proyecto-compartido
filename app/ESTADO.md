@@ -2,7 +2,7 @@
 
 Para los dos Claude: acá está escrito qué se hizo, qué se probó y qué falta. **Actualizalo cada vez que cambies algo de `app/`.**
 
-Última actualización: 13 de noviembre de 2026, Claude de `ronkstudio` (tarjeta #158).
+Última actualización: 14 de noviembre de 2026, Claude de `ezebesserr` (tarjeta #167).
 
 Todo lo que se describe acá está en `main`.
 
@@ -10,6 +10,7 @@ Todo lo que se describe acá está en `main`.
 
 - **El prototipo es la base de la app** (`ezebesserr`, 10/11, pedido #29).
 - **El mapa de seguridad en colores se sacó** (`ezebesserr`, 11/11, pedido #44). Quedan los consejos escritos de Info → Seguridad.
+- **La guía arranca con el globo azul y la ruta de vuelo** (`ezebesserr`, 14/11, tarjetas #113 y #167): al elegir destino entra "pum" directo a la guía, sin botón, y hay "Cambiar destino".
 - **La app tiene de todo** (`ezebesserr`, 11/11; coincide con Bautista). Con un mínimo de locales por tipo en cada zona turística: tarjeta #45. Hoy no se llega en ninguna zona.
 - **Tiene que quedar simple y poco cargada**, aunque tenga mucho contenido (`ezebesserr`, 11/11).
 - **Muchos idiomas**, no dos o tres (`ezebesserr`, 11/11). Tarjetas #11 y #39.
@@ -176,3 +177,11 @@ Hasta el 13/11 estuvo en `ronkstudio/menu-3d-publico/guia-buenos-aires/`. Ese re
   - Los avisos de Seguridad y los consejos, que en modo oscuro se veían amarillos, ahora son coral.
   - Sigue amarillo lo que es de los lugares: el color de la categoría Hospedaje, la etiqueta "★ Destacado" de cada lugar y la línea H del subte, que es su color real.
   - Probado en celular (390 px), en modo claro y oscuro, sin errores en la consola: inicio, Hoy, Info (Recién llegado, Moverse, Seguridad), pasaporte, Explorar y la ficha de un lugar.
+- **Globo de entrada y "Cambiar destino" (#167):** la primera vez que alguien abre la guía (sin ciudad guardada ni `?ciudad=` en el enlace) aparece el globo azul galáctico del boceto de la tarjeta #113, con "¿A dónde viajás?". Al tocar un destino (o el punto rojo de la ciudad en el globo) se dibuja la ruta de vuelo desde donde sale la persona, la cámara la sigue y entra "pum" a la ciudad: termina adentro de la guía sin tocar ningún botón. Si es la ciudad que ya estaba cargada, el globo se abre hacia la pantalla y aparece la guía; si es otra, se guarda y la página se recarga con un fundido azul.
+  - **De dónde sale:** se calcula por la zona horaria del dispositivo (18 ciudades: Argentina, Uruguay, Chile, Brasil, Perú, Colombia, México, Estados Unidos, Europa, Tokio y Sídney); no pide permiso ni manda nada. Si no coincide, sale de Buenos Aires. Se puede cambiar en "Salís desde".
+  - **Cambiar destino:** el nombre de la ciudad en la barra de arriba y un botón nuevo "✈️ Cambiar destino" en la portada del inicio abren el globo desde la ciudad en la que estás ("Estás acá"). Se cierra con ✕ o Escape.
+  - Madrid y Roma aparecen como "pronto" (no se pueden tocar). Quien ya eligió ciudad no ve el globo al abrir: va directo a su guía.
+  - Si el globo no carga, sale la lista de ciudades de antes. Los textos del globo están traducidos a los 8 idiomas dentro de `js/globo.js` (no pasan por los diccionarios).
+  - **Archivos:** `js/globo.js`, `css/globo.css`, `data/globo-continentes.js` (contornos de Natural Earth, 129 KB) y `js/vendor/` (d3-array y d3-geo, licencia ISC). Los tres últimos se bajan solo cuando se abre el globo. El boceto y cómo se armaron los contornos: `docs/diseno/mapa-galactico/`.
+  - **Para sumar una ciudad al globo:** su ubicación va en `GEO`, al principio de `js/globo.js` (está en `NUEVA-CIUDAD.md`).
+  - Probado en la compu (1280 px) y en celular (390 px), en castellano e inglés, sin errores en la consola: primera vez hacia Berlín (recarga y llega a Berlín) y hacia Buenos Aires (entra sin recargar), cambiar destino desde la barra y desde el inicio (Berlín → París), cerrar con ✕ y Escape, elegir la misma ciudad, sin animaciones (pedido del sistema), y con d3 bloqueado (sale la lista). Zonas horarias probadas: Buenos Aires, Madrid y Ciudad de México. **No se probó** en un celular de verdad (fluidez del globo).
