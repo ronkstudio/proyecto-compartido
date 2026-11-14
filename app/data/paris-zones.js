@@ -2,8 +2,8 @@
 
    PUNTOS DE AYUDA (13/11/2026):
    - Hospitales con guardia: los de la red pública AP-HP, ubicados con OpenStreetMap ("emergency=yes"). El American Hospital es privado y atiende en inglés.
-   - Comisarías: las comisarías de distrito de la Prefectura de Policía, con dirección y ubicación de OpenStreetMap.
-   - Consulados y embajadas: 14 países, cada dirección confirmada en el sitio oficial de ese país (cancillería, embajada o consulado), 13 y 14/11/2026.
+   - Comisarías: las comisarías de distrito de la Prefectura de Policía, con dirección y ubicación de OpenStreetMap. Las 5 del centro y el este se sumaron el 14/11/2026 (tarjeta #183).
+   - Consulados y embajadas: 15 países (Portugal sumado el 14/11/2026, tarjeta #183), cada dirección confirmada en el sitio oficial de ese país (cancillería, embajada o consulado), 13 y 14/11/2026.
      Perú se mudó en mayo de 2026: se usa la dirección nueva que da su consulado. Venezuela: dirección de la embajada según su cancillería.
      El canal "¿Tu país no está en la lista?" busca los demás en el mapa.
    - Oficina de turismo: la sede principal de Paris je t'aime, que se mudó en abril de 2024 (sitio de la Ciudad de París, paris.fr).
@@ -36,6 +36,17 @@ window.CITY_ZONES.paris = {
       note: "Cerca de Montparnasse." },
     { id: "p-17", type: "policia", name: "Comisaría del distrito 17", address: "19-21 Rue Truffaut, 75017", ll: [48.88505, 2.32211],
       note: "Batignolles, al norte del Arco del Triunfo." },
+    /* Tarjeta #183: comisarías centrales con guardia 24 h según la guía de la Ciudad de París para víctimas (octubre de 2025). Ubicación: OpenStreetMap. */
+    { id: "p-centro", type: "policia", name: "Comisaría de París Centro (distritos 1 a 4)", address: "1 Rue Gabriel Vicaire, 75003", ll: [48.86501, 2.36160],
+      note: "Para el Louvre, el Marais, Châtelet y la isla de la Cité. Atiende las 24 horas." },
+    { id: "p-8", type: "policia", name: "Comisaría del distrito 8", address: "1 Avenue de Selves, 75008", ll: [48.86680, 2.31064],
+      note: "La más cercana a los Campos Elíseos y la plaza de la Concordia. Atiende las 24 horas." },
+    { id: "p-10", type: "policia", name: "Comisaría del distrito 10", address: "26 Rue Louis Blanc, 75010", ll: [48.88071, 2.36600],
+      note: "Cerca de la Gare du Nord y la Gare de l'Est. Atiende las 24 horas." },
+    { id: "p-11", type: "policia", name: "Comisaría del distrito 11", address: "12-14 Passage Charles Dallery, 75011", ll: [48.85430, 2.37840],
+      note: "Para Bastilla y la zona de bares de Oberkampf. Atiende las 24 horas." },
+    { id: "p-12", type: "policia", name: "Comisaría del distrito 12", address: "80 Avenue Daumesnil, 75012", ll: [48.84422, 2.38118],
+      note: "Cerca de la Gare de Lyon. Atiende las 24 horas." },
     { id: "h-hoteldieu", type: "salud", name: "Hôtel-Dieu", address: "1 Parvis Notre-Dame, 75004", ll: [48.85463, 2.34885],
       note: "Hospital público frente a Notre-Dame, en pleno centro. Guardia para adultos." },
     { id: "h-lariboisiere", type: "salud", name: "Hôpital Lariboisière", address: "2 Rue Ambroise-Paré, 75010", ll: [48.88290, 2.35331],
@@ -72,6 +83,7 @@ window.CITY_ZONES.paris = {
     { id: "cons-bo", type: "consul", name: "Bolivia · Embajada y sección consular", address: "12 Avenue du Président Kennedy, 75016", ll: [48.85746, 2.28704], note: "Pasaportes, documentos y ayuda a sus ciudadanos. Dirección confirmada en el sitio oficial de la embajada." },
     { id: "cons-ve", type: "consul", name: "Venezuela · Embajada", address: "11 Rue Copernic, 75116", ll: [48.86882, 2.29008], note: "Pasaportes, documentos y ayuda a sus ciudadanos. Dirección confirmada en el sitio oficial de la embajada." },
     { id: "cons-it", type: "consul", name: "Italia · Consulado General", address: "5 Boulevard Émile Augier, 75116", ll: [48.85897, 2.27302], note: "Pasaportes, documentos y ayuda a sus ciudadanos. Dirección confirmada en el sitio oficial del consulado." },
+    { id: "cons-pt", type: "consul", name: "Portugal · Consulado General", address: "6 Rue Georges Berger, 75017", ll: [48.88115, 2.31048], note: "Pasaportes, documentos y ayuda a sus ciudadanos. Dirección confirmada en el sitio oficial del gobierno de Portugal (gov.pt)." },
     { id: "ti-paris", type: "info", name: "Oficina de Turismo de París", address: "101 Quai Jacques Chirac, 75015", ll: [48.85574, 2.29004], note: "La oficina principal de turismo de la ciudad, a pasos de la Torre Eiffel. Información, mapas y entradas." },
     { id: "t-nord", type: "transporte", name: "Gare du Nord", address: "Rue de Dunkerque, 75010", ll: [48.88032, 2.35517],
       note: "Trenes a Londres, Bruselas y Ámsterdam. RER B al aeropuerto Charles de Gaulle." },

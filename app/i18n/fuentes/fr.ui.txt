@@ -872,3 +872,6 @@
 872|Regarde tes e-mails !
 873|On t'a envoyé un lien. Ouvre-le sur ce même appareil et tu seras connecté.
 874|Continuer en attendant
+875|Urgences de la Ville (Protection civile)
+876|Défenseur du touriste (aussi sur WhatsApp)
+877|Utilisez les distributeurs des banques (réseaux Banelco et Link). Avec une carte étrangère, chaque retrait est facturé d'un montant fixe et il y a un plafond par retrait : mieux vaut retirer moins souvent et davantage à la fois.

@@ -876,3 +876,18 @@
 876|Laut offizieller Website im Mai 2026 an diese Adresse umgezogen. Vor dem Besuch bitte prüfen.
 877|Das wichtigste Touristenbüro der Stadt, nur wenige Schritte vom Eiffelturm. Infos, Karten und Tickets.
 878|Pässe, Dokumente und Hilfe für die eigenen Staatsbürger. Adresse vom Auswärtigen Amt bestätigt.
+879|Mit der Karte: nach und nach
+880|Kontaktlos mit der Bankkarte zahlen geht in fast der ganzen Metro noch nicht: Bisher klappt es in vielen Bussen, in der Standseilbahn von Montmartre und in der Linie 14 ab dem Flughafen Orly. In den nächsten Jahren kommen Linie für Linie weitere dazu.
+881|Züge in ganz Frankreich und nach Versailles: Fahrpläne, Tickets und Verspätungen.
+882|Polizeirevier Paris Centre (Bezirke 1 bis 4)
+883|Für den Louvre, das Marais, Châtelet und die Île de la Cité. Rund um die Uhr geöffnet.
+884|Polizeirevier des 8. Bezirks
+885|Am nächsten an den Champs-Élysées und der Place de la Concorde. Rund um die Uhr geöffnet.
+886|Polizeirevier des 10. Bezirks
+887|In der Nähe der Gare du Nord und der Gare de l'Est. Rund um die Uhr geöffnet.
+888|Polizeirevier des 11. Bezirks
+889|Für die Bastille und das Kneipenviertel Oberkampf. Rund um die Uhr geöffnet.
+890|Polizeirevier des 12. Bezirks
+891|In der Nähe der Gare de Lyon. Rund um die Uhr geöffnet.
+892|Portugal · Generalkonsulat
+893|Reisepässe, Dokumente und Hilfe für die eigenen Staatsangehörigen. Adresse auf der offiziellen Website der portugiesischen Regierung (gov.pt) bestätigt.

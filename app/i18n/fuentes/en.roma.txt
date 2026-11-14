@@ -872,3 +872,6 @@
 872|Open seasonally: check their website. There are buses from Rome.
 873|Greeting when entering any shop (in the afternoon, "Buonasera")
 874|At the bar: it means an espresso
+875|High-speed trains to Italy's major cities: timetables and tickets.
+876|Regional trains, including to Fiumicino airport (FL1), and metro line B (Piramide).
+877|Regional train station a few blocks from the Vatican.

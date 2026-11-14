@@ -872,3 +872,6 @@
 872|Apre a stagioni: controlla sul loro sito. Ci sono pullman da Roma.
 873|Saluto entrando in qualsiasi negozio (il pomeriggio, "Buonasera")
 874|Al banco: è un espresso
+875|Treni veloci per le grandi città italiane: orari e biglietti.
+876|Treni regionali, anche per l'aeroporto di Fiumicino (FL1), e la linea B della metro (Piramide).
+877|Stazione di treni regionali a pochi isolati dal Vaticano.

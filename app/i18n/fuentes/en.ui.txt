@@ -872,3 +872,6 @@
 872|Check your email!
 873|We sent you a link. Open it on this same device and you'll be in.
 874|Keep going meanwhile
+875|City emergencies (Civil Defense)
+876|Tourist Ombudsman (also WhatsApp)
+877|Use bank ATMs (the Banelco and Link networks). With a foreign card there is a fixed fee per withdrawal and a maximum amount each time: it is better to withdraw less often and more at once.

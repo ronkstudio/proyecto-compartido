@@ -872,3 +872,6 @@
 872|Saisonal geöffnet: Prüf die Website. Es gibt Busse ab Rom.
 873|Gruß beim Betreten eines Geschäfts (nachmittags „Buonasera“)
 874|An der Theke: Das ist ein Espresso
+875|Schnellzüge in die großen Städte Italiens: Fahrpläne und Tickets.
+876|Regionalzüge, auch zum Flughafen Fiumicino (FL1), und die Metrolinie B (Piramide).
+877|Bahnhof für Regionalzüge, wenige Straßen vom Vatikan entfernt.

@@ -872,3 +872,6 @@
 872|Abre por temporadas: confira no site. Há ônibus desde Roma.
 873|Cumprimento ao entrar em qualquer loja (à tarde, "Buonasera")
 874|No balcão: é um espresso
+875|Trens rápidos para as grandes cidades da Itália: horários e passagens.
+876|Trens regionais, inclusive para o aeroporto de Fiumicino (FL1), e a linha B do metrô (Piramide).
+877|Estação de trens regionais a poucas quadras do Vaticano.

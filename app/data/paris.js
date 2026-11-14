@@ -69,12 +69,13 @@ window.CITY_DATA.paris = {
     { line: "RER C", color: "#ffce00", route: "Cruza París por la orilla del Sena", useful: "Torre Eiffel (Champ de Mars), Museo de Orsay y Versalles" }
   ],
   transport: [
-    /* Revisado el 13/11/2026 contra iledefrance-mobilites.fr y parisaeroport.fr. */
+    /* Revisado el 13/11/2026 contra iledefrance-mobilites.fr y parisaeroport.fr. Pago con tarjeta sin contacto: calendario de IDFM del 16/06/2026, según la prensa (tarjeta #183). */
     { icon: "💳", title: "Cómo pagar: lo primero", items: [
       { t: "Dos boletos sueltos", d: "El boleto de metro, tren y RER sirve en toda la región, menos para ir a los aeropuertos. El de bus y tranvía es otro boleto, aparte." },
       { t: "Al aeropuerto, boleto propio", d: "Para ir o volver de Charles de Gaulle u Orly en RER, metro o bus hace falta el boleto Aeropuertos (Paris Région <> Aéroports)." },
       { t: "Dónde se compra", d: "En las máquinas y boleterías de las estaciones, o en la app oficial Île-de-France Mobilités, que carga los boletos en el celular." },
       { t: "Navigo Easy", d: "Es una tarjeta recargable sin nombre: se compra una vez en las estaciones y se le cargan boletos o pases. Reemplaza a los boletos de cartón." },
+      { t: "Con la tarjeta, de a poco", d: "Pagar apoyando la tarjeta sin contacto todavía no sirve en casi todo el metro: por ahora funciona en muchos buses, en el funicular de Montmartre y en la línea 14 desde el aeropuerto de Orly. Se va a ir sumando línea por línea en los próximos años." },
       { t: "Si te quedás varios días", d: "Comparalo con tu plan: el pase de un día (Navigo Jour), el semanal (Navigo Semaine, de lunes a domingo) o el pase turístico Paris Visite. El semanal y el Paris Visite incluyen los aeropuertos." },
       { t: "Guardá el boleto", d: "Hay molinetes a la entrada y a veces a la salida, y pasan inspectores. Sin boleto válido, la multa es alta." },
       { t: "Última revisión", d: "13 de noviembre de 2026, con los sitios de Île-de-France Mobilités y de los aeropuertos de París. Si algo no coincide, valen los carteles del transporte." }
