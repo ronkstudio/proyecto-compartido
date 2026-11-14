@@ -14,6 +14,7 @@ window.CITY_ZONES.berlin = {
     info: { name: "Información turística", icon: "ℹ️", color: "#1a73c8" },
     policia: { name: "Policía y denuncias", icon: "👮", color: "#364fc7" },
     salud: { name: "Hospitales con guardia 24 h", icon: "🏥", color: "#e03131" },
+    consul: { name: "Consulados y embajadas", icon: "🛂", color: "#0b7285" },
     transporte: { name: "Terminales y aeropuertos", icon: "🚉", color: "#5f3dc4" }
   },
   help: [
@@ -49,6 +50,23 @@ window.CITY_ZONES.berlin = {
       note: "Guardia 24 h; el más cercano al Palacio de Charlottenburg." },
     { id: "h-virchow", type: "salud", name: "Charité · Campus Virchow-Klinikum", address: "Augustenburger Platz 1, Wedding", ll: [52.54215, 13.34286],
       note: "Hospital universitario. Guardia 24 h, también pediátrica." },
+    /* Consulados y embajadas (tarjeta #170): direcciones de la lista oficial del Ministerio de Relaciones Exteriores de Alemania
+       (auswaertiges-amt.de, página de cada país, consultada el 14/11/2026). Ubicación: OpenStreetMap. */
+    { id: "cons-ar", type: "consul", name: "Argentina · Embajada y sección consular", address: "Von-der-Heydt-Straße 2, 10785", ll: [52.50704, 13.35440], note: "Pasaportes, documentos y ayuda a sus ciudadanos. Dirección confirmada en el Ministerio de Relaciones Exteriores de Alemania." },
+    { id: "cons-uy", type: "consul", name: "Uruguay · Embajada y sección consular", address: "Budapester Straße 39, 10787", ll: [52.50499, 13.34067], note: "Pasaportes, documentos y ayuda a sus ciudadanos. Dirección confirmada en el Ministerio de Relaciones Exteriores de Alemania." },
+    { id: "cons-cl", type: "consul", name: "Chile · Embajada y sección consular", address: "Anton-Wilhelm-Amo-Straße 42, 10117", ll: [52.51262, 13.39448], note: "Pasaportes, documentos y ayuda a sus ciudadanos. Dirección confirmada en el Ministerio de Relaciones Exteriores de Alemania." },
+    { id: "cons-br", type: "consul", name: "Brasil · Embajada y sección consular", address: "Wallstraße 57, 10179", ll: [52.51362, 13.41363], note: "Pasaportes, documentos y ayuda a sus ciudadanos. Dirección confirmada en el Ministerio de Relaciones Exteriores de Alemania." },
+    { id: "cons-mx", type: "consul", name: "México · Embajada y sección consular", address: "Klingelhöferstraße 3, 10785", ll: [52.50812, 13.35126], note: "Pasaportes, documentos y ayuda a sus ciudadanos. Dirección confirmada en el Ministerio de Relaciones Exteriores de Alemania." },
+    { id: "cons-co", type: "consul", name: "Colombia · Embajada y sección consular", address: "Taubenstraße 23, 10117", ll: [52.51323, 13.39484], note: "Pasaportes, documentos y ayuda a sus ciudadanos. Dirección confirmada en el Ministerio de Relaciones Exteriores de Alemania." },
+    { id: "cons-pe", type: "consul", name: "Perú · Embajada y sección consular", address: "Taubenstraße 20, 10117", ll: [52.51320, 13.39436], note: "Pasaportes, documentos y ayuda a sus ciudadanos. Dirección confirmada en el Ministerio de Relaciones Exteriores de Alemania." },
+    { id: "cons-py", type: "consul", name: "Paraguay · Embajada y sección consular", address: "Hardenbergstraße 12, 10623", ll: [52.50838, 13.32690], note: "Pasaportes, documentos y ayuda a sus ciudadanos. Dirección confirmada en el Ministerio de Relaciones Exteriores de Alemania." },
+    { id: "cons-bo", type: "consul", name: "Bolivia · Embajada y sección consular", address: "Wichmannstraße 6, 10787", ll: [52.50529, 13.34817], note: "Pasaportes, documentos y ayuda a sus ciudadanos. Dirección confirmada en el Ministerio de Relaciones Exteriores de Alemania." },
+    { id: "cons-ec", type: "consul", name: "Ecuador · Embajada y sección consular", address: "Joachimsthaler Straße 12, 10719", ll: [52.50260, 13.33085], note: "Pasaportes, documentos y ayuda a sus ciudadanos. Dirección confirmada en el Ministerio de Relaciones Exteriores de Alemania." },
+    { id: "cons-ve", type: "consul", name: "Venezuela · Embajada y sección consular", address: "Lietzenburger Straße 107, 10707", ll: [52.49931, 13.31708], note: "Pasaportes, documentos y ayuda a sus ciudadanos. Dirección confirmada en el Ministerio de Relaciones Exteriores de Alemania." },
+    { id: "cons-es", type: "consul", name: "España · Embajada y sección consular", address: "Lichtensteinallee 1, 10787", ll: [52.51033, 13.34525], note: "Pasaportes, documentos y ayuda a sus ciudadanos. Dirección confirmada en el Ministerio de Relaciones Exteriores de Alemania." },
+    { id: "cons-us", type: "consul", name: "Estados Unidos · Embajada", address: "Pariser Platz 2, 10117", ll: [52.51529, 13.37817], note: "Pasaportes, documentos y ayuda a sus ciudadanos. Dirección confirmada en el Ministerio de Relaciones Exteriores de Alemania." },
+    { id: "cons-it", type: "consul", name: "Italia · Embajada y sección consular", address: "Hiroshimastraße 1, 10785", ll: [52.50933, 13.35974], note: "Pasaportes, documentos y ayuda a sus ciudadanos. Dirección confirmada en el Ministerio de Relaciones Exteriores de Alemania." },
+    { id: "cons-pt", type: "consul", name: "Portugal · Embajada y sección consular", address: "Kurfürstenstraße 57, 10785", ll: [52.50198, 13.35538], note: "Pasaportes, documentos y ayuda a sus ciudadanos. Dirección confirmada en el Ministerio de Relaciones Exteriores de Alemania." },
     { id: "t-hbf", type: "transporte", name: "Berlin Hauptbahnhof (estación central)", address: "Europaplatz 1, Moabit", ll: [52.5251, 13.3694], aprox: true,
       note: "Trenes a toda Alemania y Europa, y al aeropuerto. S-Bahn y U5." },
     { id: "t-zob", type: "transporte", name: "Terminal de ómnibus (ZOB)", address: "Masurenallee 4-6, Charlottenburg", ll: [52.50775, 13.27981],

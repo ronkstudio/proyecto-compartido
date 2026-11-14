@@ -3,9 +3,10 @@
    PUNTOS DE AYUDA (13/11/2026):
    - Hospitales con guardia: los de la red pública AP-HP, ubicados con OpenStreetMap ("emergency=yes"). El American Hospital es privado y atiende en inglés.
    - Comisarías: las comisarías de distrito de la Prefectura de Policía, con dirección y ubicación de OpenStreetMap.
-   - Consulados y embajadas: solo los que pude confirmar en el sitio oficial de cada país (Argentina, Chile, España y Estados Unidos).
-     Los demás países (Uruguay, Brasil, México, Colombia, Perú…) quedan para revisar: sus sitios no se pudieron leer.
-     Mientras tanto, el canal "¿Tu país no está en la lista?" los busca en el mapa.
+   - Consulados y embajadas: 14 países, cada dirección confirmada en el sitio oficial de ese país (cancillería, embajada o consulado), 13 y 14/11/2026.
+     Perú se mudó en mayo de 2026: se usa la dirección nueva que da su consulado. Venezuela: dirección de la embajada según su cancillería.
+     El canal "¿Tu país no está en la lista?" busca los demás en el mapa.
+   - Oficina de turismo: la sede principal de Paris je t'aime, que se mudó en abril de 2024 (sitio de la Ciudad de París, paris.fr).
    - Estaciones y aeropuertos: OpenStreetMap. Los marcados "aprox" se ubicaron a mano.
 
    LÍMITES DE BARRIOS Y CAPAS: todavía no están (son opcionales). Si se suman, cada punto son 8 dígitos "AAAABBBB":
@@ -16,6 +17,7 @@ window.CITY_ZONES.paris = {
   layers: [],
 
   helpTypes: {
+    info: { name: "Información turística", icon: "ℹ️", color: "#1a73c8" },
     policia: { name: "Policía y denuncias", icon: "👮", color: "#364fc7" },
     salud: { name: "Hospitales con guardia 24 h", icon: "🏥", color: "#e03131" },
     consul: { name: "Consulados y embajadas", icon: "🛂", color: "#0b7285" },
@@ -60,6 +62,17 @@ window.CITY_ZONES.paris = {
       note: "Pasaportes, documentos y ayuda a sus ciudadanos. Dirección confirmada en el sitio oficial del consulado." },
     { id: "cons-us", type: "consul", name: "Estados Unidos · Servicios consulares", address: "4 Avenue Gabriel, 75008", ll: [48.86774, 2.32038],
       note: "Pasaportes y ayuda a sus ciudadanos. La embajada está al lado, en el 2 de la misma avenida." },
+    { id: "cons-uy", type: "consul", name: "Uruguay · Embajada y sección consular", address: "33 Rue Jean Giraudoux, 75116", ll: [48.87057, 2.29461], note: "Pasaportes, documentos y ayuda a sus ciudadanos. Dirección confirmada en el sitio oficial de la embajada." },
+    { id: "cons-br", type: "consul", name: "Brasil · Consulado General", address: "65 Avenue Franklin Delano Roosevelt, 75008", ll: [48.87201, 2.30972], note: "Pasaportes, documentos y ayuda a sus ciudadanos. Dirección confirmada en el sitio oficial del consulado." },
+    { id: "cons-mx", type: "consul", name: "México · Sección consular", address: "4 Rue Notre-Dame-des-Victoires, 75002", ll: [48.86665, 2.34128], note: "Pasaportes, documentos y ayuda a sus ciudadanos. Dirección confirmada en el sitio oficial de la embajada." },
+    { id: "cons-co", type: "consul", name: "Colombia · Consulado General", address: "12 Rue de Berri, 75008", ll: [48.87253, 2.30452], note: "Pasaportes, documentos y ayuda a sus ciudadanos. Dirección confirmada en el sitio oficial del consulado." },
+    { id: "cons-pe", type: "consul", name: "Perú · Consulado General", address: "14 Rue de Siam, 75116", ll: [48.86239, 2.27459], note: "Se mudó a esta dirección en mayo de 2026, según su sitio oficial. Confirmá antes de ir." },
+    { id: "cons-ec", type: "consul", name: "Ecuador · Embajada y sección consular", address: "50 Rue Copernic, 75116", ll: [48.86958, 2.28652], note: "Pasaportes, documentos y ayuda a sus ciudadanos. Dirección confirmada en el sitio oficial de la embajada." },
+    { id: "cons-py", type: "consul", name: "Paraguay · Embajada y sección consular", address: "1 Rue Saint-Dominique, 75007", ll: [48.85733, 2.32316], note: "Pasaportes, documentos y ayuda a sus ciudadanos. Dirección confirmada en el sitio oficial de la embajada." },
+    { id: "cons-bo", type: "consul", name: "Bolivia · Embajada y sección consular", address: "12 Avenue du Président Kennedy, 75016", ll: [48.85746, 2.28704], note: "Pasaportes, documentos y ayuda a sus ciudadanos. Dirección confirmada en el sitio oficial de la embajada." },
+    { id: "cons-ve", type: "consul", name: "Venezuela · Embajada", address: "11 Rue Copernic, 75116", ll: [48.86882, 2.29008], note: "Pasaportes, documentos y ayuda a sus ciudadanos. Dirección confirmada en el sitio oficial de la embajada." },
+    { id: "cons-it", type: "consul", name: "Italia · Consulado General", address: "5 Boulevard Émile Augier, 75116", ll: [48.85897, 2.27302], note: "Pasaportes, documentos y ayuda a sus ciudadanos. Dirección confirmada en el sitio oficial del consulado." },
+    { id: "ti-paris", type: "info", name: "Oficina de Turismo de París", address: "101 Quai Jacques Chirac, 75015", ll: [48.85574, 2.29004], note: "La oficina principal de turismo de la ciudad, a pasos de la Torre Eiffel. Información, mapas y entradas." },
     { id: "t-nord", type: "transporte", name: "Gare du Nord", address: "Rue de Dunkerque, 75010", ll: [48.88032, 2.35517],
       note: "Trenes a Londres, Bruselas y Ámsterdam. RER B al aeropuerto Charles de Gaulle." },
     { id: "t-lyon", type: "transporte", name: "Gare de Lyon", address: "Place Louis-Armand, 75012", ll: [48.84438, 2.37480],

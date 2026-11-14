@@ -868,3 +868,11 @@
 868|Bistrot
 869|marché
 870|sans gluten
+871|Uruguay
+872|Pérou
+873|Section consulaire
+874|Information touristique
+875|Office de Tourisme de Paris
+876|A déménagé à cette adresse en mai 2026, selon son site officiel. Vérifiez avant d'y aller.
+877|Le principal office de tourisme de la ville, à deux pas de la tour Eiffel. Informations, plans et billets.
+878|Passeports, documents et aide à ses ressortissants. Adresse confirmée par le ministère allemand des Affaires étrangères.
