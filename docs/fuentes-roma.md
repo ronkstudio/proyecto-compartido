@@ -33,3 +33,7 @@ Si un lugar cierra o se muda, corregilo en `app/data/roma-lugares.js` y `app/dat
 - Audiencia de los miércoles y Ángelus de los domingos: press.vatican.va y vatican.va.
 - Quedaron afuera: el domingo gratis de los Museos Vaticanos (es el último del mes y la guía no sabe marcar "el último") y el mercado de Navidad de Piazza Navona (las fechas 2026 no están publicadas).
 - Roma no tiene una agenda oficial que se pueda leer de forma automática: en "Buscar más planes" están Turismo Roma y el 060608.
+
+## Revisión de que sigan abiertos (tarjeta #179, 14/11/2026)
+
+Los 104 lugares de comida, noche y hospedaje se cruzaron otra vez con OpenStreetMap: 103 coincidieron y el otro (Co.So) figura como "Cocktails & Social CO.SO" en la misma dirección.
