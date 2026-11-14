@@ -1,0 +1,874 @@
+1|Tudo o que você precisa para percorrer a cidade
+2|Ruínas antigas, igrejas, museus e praças
+3|Trattorias, pizza, gelato, cafés e cozinha romana
+4|Bares, enotecas, coquetéis e música ao vivo
+5|Mercados, ruas comerciais e brechós
+6|Ópera, concertos, cinema e programas com crianças
+7|Centro Histórico
+8|O coração de Roma
+9|O Panteão, a Piazza Navona, o Campo de' Fiori, a Fontana di Trevi e o antigo Gueto judeu, com ruelas para se perder.
+10|A melhor base para uma primeira visita: quase tudo se faz a pé.
+11|Coliseu e Foros
+12|A Roma antiga
+13|O Coliseu, o Fórum Romano, o Palatino e a colina do Capitólio com seus museus.
+14|Muito central, mas à noite há pouco movimento fora de Monti.
+15|Boêmio e de bairro
+16|O bairro mais antigo de Roma, colado ao Coliseu, com lojas de design, bares de vinho e a praça da Madonna dei Monti.
+17|Encantador e central, com boa vida noturna.
+18|Pitoresco e noturno
+19|Ruas de pedra com hera, a basílica de Santa Maria in Trastevere e muitas trattorias e bares do outro lado do Tibre.
+20|Com muito charme, ideal para sair para comer; pode ser barulhento à noite.
+21|Vaticano e Prati
+22|Monumental e organizado
+23|A basílica e a praça de São Pedro, os Museus Vaticanos e o Castelo Sant'Angelo; ao lado, Prati, com ruas largas e comércio.
+24|Tranquilo e seguro, bem conectado pela linha A do metrô.
+25|Praça de Espanha e Tridente
+26|Elegante e comercial
+27|A escadaria da Praça de Espanha, a Via del Corso, a Via Condotti com as marcas de luxo e a Piazza del Popolo.
+28|Central e com hotéis de categoria; costuma ser caro.
+29|Villa Borghese
+30|Verde e de museus
+31|O grande parque da cidade, com a Galeria Borghese, o zoológico e o terraço do Pincio sobre a Piazza del Popolo.
+32|Esquilino e Termini
+33|Prático e multicultural
+34|A estação Termini, a basílica de Santa Maria Maior, o mercado Esquilino e muita comida do mundo.
+35|Muitos hotéis e hostels baratos e tudo conectado; à noite, ao redor da estação, é preciso ficar atento.
+36|Popular e gastronômico
+37|O bairro da cozinha romana de sempre, com seu mercado, o Cemitério Protestante e a Pirâmide de Céstio.
+38|Autêntico e tranquilo, com comida muito boa.
+39|Tranquilo e com vista
+40|Uma colina residencial com o Jardim das Laranjeiras e a famosa fechadura dos Cavaleiros de Malta, em frente ao Circo Máximo.
+41|Muito silencioso; melhor para passear do que para se hospedar.
+42|Universitário e noturno
+43|O bairro dos estudantes, junto à universidade La Sapienza, com arte urbana, bares baratos e trattorias.
+44|Barato e com muita vida noturna; não é a área mais bonita.
+45|Alternativo e da moda
+46|Uma rua de pedestres com bares, arte urbana e a Roma dos filmes de Pasolini.
+47|Para quem já conhece o centro e busca algo diferente.
+48|Industrial e moderno
+49|Antigas fábricas transformadas em espaços de arte, a Basílica de São Paulo Extramuros e vida noturna.
+50|Melhor para sair à noite do que para se hospedar.
+51|Via Ápia
+52|Campo romano e catacumbas
+53|A antiga Via Ápia, com suas catacumbas, túmulos e pinheiros, ideal para percorrer de bicicleta.
+54|Roma em 1 dia
+55|Reserve horário no site oficial e vá logo cedo.
+56|Vale o mesmo ingresso.
+57|Veja o Fórum da varanda dos fundos.
+58|Pizza al taglio rápida.
+59|Um gelato no caminho.
+60|Jogue a moeda de costas.
+61|Jantar romano; reserve com antecedência.
+62|Dia 1 · manhã
+63|Vinhos em Monti.
+64|Dia 2 · manhã
+65|Reserve em museivaticani.va.
+66|Dia 2 · meio-dia
+67|Atravesse para Trastevere para jantar.
+68|Dia 3 · manhã
+69|Só com reserva.
+70|Reserve.
+71|Dia de chuva
+72|Almoço coberto em Termini.
+73|Veja a chuva cair pelo óculo.
+74|Roma grátis
+75|O melhor sem gastar com ingressos.
+76|Entrar é grátis; a cúpula é paga.
+77|Três Caravaggio grátis.
+78|Um dia pensado para crianças.
+79|Bicicletas, barcos e carrinhos a pedal.
+80|Reserve o horário.
+81|Vaticano (Ottaviano), Praça de Espanha, Piazza del Popolo (Flaminio), Termini e São João de Latrão
+82|Termini, Coliseu, Circo Máximo, Pirâmide (Testaccio e Ostiense) e São Paulo Extramuros
+83|Pigneto e San Giovanni até o Coliseu; continua sendo ampliada em direção ao centro
+84|Pague com o cartão
+85|Nas catracas do metrô e nos ônibus e bondes você pode pagar aproximando o cartão por aproximação ou o celular (Tap & Go). Use sempre o mesmo cartão para entrar e em cada viagem.
+86|Bilhete BIT
+87|Vale 100 minutos desde a validação: nesse tempo você pode pegar ônibus e bondes sem limite, mas o metrô só uma vez.
+88|Passes para turistas
+89|Roma 24H, 48H e 72H, e o semanal CIS: viagens ilimitadas em metrô, ônibus, bondes e trens urbanos. Contam a partir da primeira validação.
+90|Nas máquinas das estações de metrô, nas bancas de jornal e tabacarias (placa com um T) e no app MyCicero ou Tabnet.
+91|Valide sempre
+92|No ônibus, o bilhete de papel é validado na maquininha amarela assim que você sobe. Há fiscais e a multa é alta.
+93|14 de novembro de 2026, com os sites da ATAC, Trenitalia e Aeroportos de Roma. Se algo não coincidir, valem as placas do transporte.
+94|Roma tem só três linhas: A (laranja), B (azul) e C (verde). Cruzam-se em Termini (A e B), San Giovanni (A e C) e Colosseo (B e C).
+95|O que não cobre
+96|O metrô quase não entra no centro histórico, por causa das ruínas no subsolo. Ao Panteão, à Piazza Navona ou a Trastevere se chega a pé, de ônibus ou de bonde.
+97|Funciona desde cedo até perto das 23h30, e mais tarde às sextas e sábados. À noite há ônibus noturnos.
+98|Cada direção leva o nome da estação final da linha. Siga as placas com a letra e o nome dessa última estação.
+99|Ônibus e bondes
+100|São a forma de chegar ao centro histórico. Há muitas linhas e às vezes vão lotados: cuide das suas coisas.
+101|Bonde 8
+102|Liga a Piazza Venezia, o Largo Argentina e Trastevere: muito útil para cruzar para o outro lado do Tibre.
+103|Quando o metrô fecha funcionam os ônibus noturnos (com a letra N).
+104|Use Google Maps, Moovit ou o app da ATAC: indicam linha, parada e quanto falta.
+105|Fiumicino (FCO)
+106|O aeroporto principal. O trem Leonardo Express vai direto a Termini em pouco mais de meia hora; o trem regional FL1 para em Trastevere, Ostiense e Tiburtina.
+107|Ciampino (CIA)
+108|O das low cost. Não tem trem direto: há ônibus para Termini e para estações de metrô.
+109|Táxi com preço fixo
+110|Dos dois aeroportos até qualquer ponto dentro das Muralhas Aurelianas (o centro), os táxis brancos de Roma cobram uma tarifa fixa. Pergunte antes de subir.
+111|Estações
+112|Roma Termini é a principal; Roma Tiburtina também tem trens rápidos. De lá saem para Florença, Nápoles, Milão e Veneza.
+113|Trens rápidos
+114|Frecciarossa (Trenitalia) e Italo. Vale a pena comprar com antecedência: o preço sobe perto da data.
+115|Têm preço fixo e não é preciso reservar. O bilhete de papel é validado antes de subir.
+116|São brancos, com a placa TAXI no teto e o brasão de Roma na porta. Pegam-se nos pontos ou se pedem por telefone ou app.
+117|FREENOW, itTaxi e Uber (em Roma, a Uber trabalha com carros com motorista e táxis). Mostram o preço ou uma estimativa antes de pedir.
+118|No aeroporto e em Termini use só a fila de táxis oficial. Não aceite ofertas de quem se aproximar.
+119|A pé e de bicicleta
+120|O centro se percorre a pé: quase tudo fica a 20 ou 30 minutos. Use calçado confortável: há paralelepípedos e subidas.
+121|Bicicletas e patinetes
+122|Há bicicletas e patinetes elétricos de aluguel por app. No centro o trânsito é caótico: vá com cuidado.
+123|Zona de trânsito limitado
+124|No centro histórico não podem entrar carros sem permissão (ZTL). Se alugar carro, deixe-o fora: as multas chegam sozinhas.
+125|Emergências (número único europeu)
+126|Ambulância
+127|Informação turística (Roma Capitale)
+128|Acontece sobretudo no metrô e nos ônibus lotados (a linha 64 para o Vaticano é famosa), em Termini e nos lugares com muita gente.
+129|Leve a mochila na frente e os bolsos fechados, sobretudo ao subir e descer do metrô.
+130|Na Fontana di Trevi, no Coliseu, na Praça de Espanha e na praça de São Pedro agem grupos organizados: cuide do celular ao tirar fotos.
+131|Em terraços e bares, não deixe o celular sobre a mesa nem a mochila pendurada na cadeira.
+132|Roma é uma cidade segura para percorrer; estes são lugares onde convém ficar mais atento, sobretudo à noite.
+133|Os arredores da estação Termini à noite, sobretudo a Piazza dei Cinquecento e as ruas do lado da Via Giolitti.
+134|As plataformas e escadas do metrô em Termini e Spagna no horário de pico.
+135|As áreas de bares de Trastevere, San Lorenzo e Campo de' Fiori de madrugada.
+136|Os falsos centuriões do Coliseu: oferecem uma foto e depois pedem muito dinheiro. Se quiser a foto, combine o preço antes.
+137|As pulseirinhas e as rosas: amarram uma pulseira em você ou colocam uma flor na sua mão e depois exigem dinheiro. Não estenda a mão.
+138|Cambistas na fila dos Museus Vaticanos e do Coliseu: compre só nos sites oficiais.
+139|Táxis piratas nos aeroportos e em Termini: use só a fila oficial ou um app.
+140|Se for roubado, registre a ocorrência em qualquer delegacia da Polícia ou dos Carabinieri. Você vai precisar dela para o seguro e os documentos.
+141|Contrate um seguro de viagem: o atendimento médico de urgência é bom, mas sem cobertura pode sair caro.
+142|São aceitos quase em todo lugar, também por aproximação e com o celular. Convém ter algum dinheiro em espécie para cafés rápidos e mercados.
+143|Use os de bancos (dizem Bancomat). Se oferecerem cobrar na sua moeda, escolha sempre pagar em euros: o câmbio do caixa é pior.
+144|O couvert
+145|Muitos restaurantes cobram um "coperto" por pessoa (pão e talheres). É legal se constar no cardápio.
+146|Não é obrigatória. Costuma-se arredondar ou deixar alguns euros se o atendimento foi bom.
+147|Taxa turística
+148|Os hotéis cobram uma taxa de estadia por pessoa e por noite, além da tarifa. Paga-se na hospedagem.
+149|Horários romanos
+150|Almoço das 13 às 15 e jantar das 20 às 23. Fora desses horários muitas cozinhas fecham: procure pizza al taglio ou um bar.
+151|O café
+152|O café se toma rápido e em pé no balcão, e sai mais barato do que sentado à mesa. O cappuccino é coisa da manhã.
+153|Aperitivo
+154|Entre as 18 e as 20 muitos bares servem o aperitivo: um drinque com algo para beliscar.
+155|Muitos museus estatais fecham às segundas. Os Museus Vaticanos fecham aos domingos, exceto no último domingo do mês.
+156|Para o Coliseu, os Museus Vaticanos e a Galeria Borghese é preciso reservar horário no site oficial, às vezes com semanas de antecedência.
+157|Ameno e ensolarado: a melhor época, mas também a de mais gente.
+158|Muito quente, com mais de 30 °C. Os romanos viajam em agosto e alguns comércios fecham.
+159|Agradável até outubro; em novembro chove bastante.
+160|Fresco, entre 5 e 15 °C, com menos turistas. No Natal há presépios e mercados.
+161|230 V. Tomadas tipo F e L (dois ou três pinos redondos). Se você vem da Argentina, leve adaptador.
+162|A água das fontes da rua (os "nasoni") é potável e fresca: leve uma garrafa para encher.
+163|Para ter dados, o mais simples é um eSIM ou um chip local.
+164|Italiano. Nas áreas turísticas muitos falam inglês; um "buongiorno" ao entrar muda muito o atendimento.
+165|Igrejas
+166|Para entrar em igrejas e no Vaticano, ombros e joelhos precisam estar cobertos. Leve um lenço.
+167|As farmácias têm uma cruz verde. Emergências: 112 ou 118.
+168|Ao entrar em uma loja se diz "Buongiorno" (ou "Buonasera" à tarde) e "Grazie, arrivederci" ao sair.
+169|A conta não vem sozinha: peça com "Il conto, per favore". Antipasto, primo e secondo são opcionais: ninguém pede tudo.
+170|Fontes
+171|Na Fontana di Trevi e em outras fontes é proibido entrar ou sentar na borda: há multas.
+172|As quatro massas romanas (carbonara, cacio e pepe, amatriciana e gricia), os supplì, a pizza al taglio, a porchetta, as alcachofras à judia e o gelato artesanal.
+173|Romano antigo
+174|3 lugares da Roma antiga
+175|De igreja em igreja
+176|3 igrejas
+177|Carbonara e companhia
+178|2 trattorias
+179|Gelato
+180|2 gelaterias
+181|Romano honorário
+182|Adaptador de tomada tipo F ou L (230 V)
+183|Reservar o Coliseu, os Museus Vaticanos e a Galeria Borghese
+184|Pegar o Leonardo Express ou o táxi com preço fixo em Fiumicino
+185|Pagar o transporte com o cartão por aproximação, ou comprar um passe
+186|Levar um lenço para entrar nas igrejas com os ombros cobertos
+187|Clássicos romanos
+188|Mirantes
+189|Igrejas com obras-primas
+190|Massa romana
+191|Pizza
+192|Gelato artesanal
+193|Cozinha judaica romana
+194|Vinhos e coquetéis
+195|Coliseu e Roma antiga
+196|Vaticano
+197|Praça de Espanha e Villa Borghese
+198|Trastevere e Testaccio
+199|Esquilino e São João
+200|6 de janeiro
+201|La Befana
+202|A festa de Reis italiana: feira de doces e brinquedos na Piazza Navona, montada desde dezembro.
+203|Maratona de Roma
+204|Passa pelo Coliseu, São Pedro e o centro; nesse domingo há muitas interdições de trânsito.
+205|Semana Santa
+206|Páscoa no Vaticano
+207|A Via-Sacra da Sexta-feira Santa no Coliseu e a missa de Páscoa na praça de São Pedro. Há muitíssima gente.
+208|21 de abril
+209|Aniversário de Roma
+210|O Natale di Roma: desfiles de pessoas vestidas de romanos antigos no Circo Máximo e museus com atividades.
+211|Maio
+212|Aberto da Itália de tênis
+213|Um dos grandes torneios no saibro, no Foro Italico.
+214|2 de junho
+215|Festa da República
+216|Desfile militar na Via dei Fori Imperiali e a esquadrilha de aviões pintando o céu de verde, branco e vermelho.
+217|29 de junho
+218|São Pedro e São Paulo
+219|O feriado dos santos padroeiros de Roma, com missa em São Pedro e fogos de artifício no Castelo Sant'Angelo.
+220|Junho a setembro
+221|Verão romano
+222|Cinema ao ar livre, concertos, ópera nas Termas de Caracalla e barracas às margens do Tibre (Lungo il Tevere).
+223|Festa de' Noantri
+224|A festa popular de Trastevere, com procissão pelo rio e barracas nas ruas.
+225|Festa do Cinema de Roma
+226|Festival de cinema no Auditorium Parco della Musica, com estrelas internacionais.
+227|8 de dezembro
+228|A Imaculada
+229|O papa visita a coluna da Imaculada junto à Praça de Espanha. Começam as festas.
+230|Dezembro a janeiro
+231|Natal em Roma
+232|Presépios nas igrejas, a grande árvore e o presépio da praça de São Pedro e o mercado da Piazza Navona.
+233|Festa com concertos grátis no Circo Máximo. Há muita gente: cuide das suas coisas.
+234|Entrata · Uscita
+235|Aperto · Chiuso
+236|Binario
+237|Plataforma, nas estações de trem.
+238|Biglietto · Convalidare
+239|Bilhete e validá-lo, no transporte.
+240|Coperto
+241|O couvert cobrado por pessoa em muitos restaurantes.
+242|Sciopero
+243|Greve: se vir no transporte, veja como se deslocar nesse dia.
+244|ZTL
+245|Zona de trânsito limitado: os carros não podem entrar sem permissão.
+246|Ligue para o 112 ou o 118. Os hospitais grandes têm pronto-socorro (Pronto Soccorso) 24 horas.
+247|Muito recomendável: sem cobertura, o atendimento pode sair caro.
+248|O guia inclui só lugares com reputação sólida: distinções oficiais, guias reconhecidos e bom consenso em avaliações públicas.
+249|Grátis no primeiro domingo do mês (Coliseu, Fórum Romano e Palatino), com muitíssima gente
+250|Grátis no primeiro domingo do mês, com reserva obrigatória
+251|Audiência geral do papa pela manhã, quando ele está em Roma (entrada grátis, com pedido prévio)
+252|Angelus do papa ao meio-dia da janela, quando ele está em Roma
+253|Tourist Infopoint · Foros Imperiais
+254|Escritório de turismo de Roma Capitale em frente aos Foros. Informação, mapas e o Roma Pass.
+255|Tourist Infopoint · Minghetti
+256|A poucos passos da Fontana di Trevi.
+257|Tourist Infopoint · Termini
+258|Dentro da estação, no nível das plataformas.
+259|Tourist Infopoint · Aeroporto de Fiumicino
+260|Informação logo que você chega.
+261|Questura de Roma
+262|A chefatura central da Polícia. Ocorrências e documentos.
+263|Delegacia Trevi · Campo Marzio
+264|A mais próxima do Panteão, da Fontana di Trevi e da Via del Corso.
+265|Delegacia Trastevere
+266|Para Trastevere e a área de bares.
+267|Polícia · Inspetoria Vaticano
+268|Perto da praça de São Pedro.
+269|Delegacia Viminale
+270|A mais próxima de Termini e de Santa Maria Maior.
+271|Delegacia Esquilino
+272|Para o Esquilino e a zona sul de Termini.
+273|Polícia Ferroviária · Termini
+274|Dentro da estação: para roubos em trens e em Termini.
+275|Carabinieri · Piazza Venezia
+276|Os Carabinieri também registram ocorrências.
+277|Carabinieri · Piazza Farnese
+278|A mais próxima do Campo de' Fiori.
+279|Carabinieri · San Lorenzo
+280|Para San Lorenzo e sua área de bares.
+281|Hospital Santo Spirito in Sassia
+282|Público. Pronto-socorro 24 h; o mais próximo do Vaticano.
+283|Hospital Fatebenefratelli · Isola Tiberina
+284|Pronto-socorro 24 h, na ilha do Tibre: o mais próximo do centro histórico e de Trastevere.
+285|Policlinico Umberto I
+286|Hospital universitário. Pronto-socorro 24 h; perto de Termini e San Lorenzo.
+287|Hospital San Giovanni Addolorata
+288|Público. Pronto-socorro 24 h; o mais próximo do Coliseu e de São João de Latrão.
+289|Hospital San Camillo
+290|Público. Pronto-socorro 24 h; para Monteverde e o sul de Trastevere.
+291|Policlinico Gemelli
+292|Grande hospital universitário. Pronto-socorro 24 h; ao norte do Vaticano.
+293|Hospital pediátrico Bambino Gesù
+294|Hospital infantil. Pronto-socorro pediátrico 24 h, sobre o Janículo.
+295|Hospital Sandro Pertini
+296|Público. Pronto-socorro 24 h; para o leste da cidade.
+297|Passaportes, documentos e ajuda aos seus cidadãos. Endereço confirmado na lista oficial do Ministério das Relações Exteriores da Itália e em cancilleria.gob.ar.
+298|Passaportes, documentos e ajuda aos seus cidadãos. Endereço confirmado na lista oficial do Ministério das Relações Exteriores da Itália.
+299|Roma Termini
+300|A estação principal: trens para toda a Itália, Leonardo Express para Fiumicino e as linhas A e B do metrô.
+301|Roma Tiburtina
+302|Trens rápidos, o trem regional para o aeroporto e o terminal de ônibus de longa distância.
+303|Roma Trastevere
+304|Trens regionais, inclusive para o aeroporto de Fiumicino (FL1).
+305|Aeroporto de Fiumicino (FCO)
+306|O aeroporto principal. Leonardo Express até Termini ou trem regional FL1.
+307|Aeroporto de Ciampino (CIA)
+308|Voos baratos. Ônibus para Termini e para o metrô.
+309|Farmácias abertas hoje em Roma (em italiano).
+310|Informação turística e da cidade de Roma Capitale, por telefone e na web.
+311|Onde ficam e quando abrem, no Turismo Roma.
+312|Fora de Roma
+313|Passaporte romano
+314|Marque os lugares que você conhece e ganhe selos: ruínas, massa, gelato, explorador de bairros…
+315|Madrugada romana
+316|Sem estação perto: melhor a pé, de ônibus ou de bonde
+317|O que você procura? Carbonara, gelato, museu, Trastevere…
+318|Ex.: Coliseu, Panteão, Vaticano…
+319|Ex.: Coliseu, Panteão, Termini…
+320|Ex.: ITA Airways, Iberia, Ryanair…
+321|Massa
+322|Gelato
+323|Até o centro (Panteão)
+324|Do aeroporto de Fiumicino (FCO)
+325|Do aeroporto de Ciampino (CIA)
+326|Fiumicino: trens, ônibus e táxis
+327|Site oficial dos Aeroportos de Roma
+328|Fiumicino: Leonardo Express e FL1
+329|Trens para o centro
+330|Ciampino: ônibus para o centro
+331|De Fiumicino, o mais simples é o Leonardo Express: chega a Termini em pouco mais de meia hora, sem paradas.
+332|O trem regional FL1 também sai de Fiumicino e para em Trastevere, Ostiense e Tiburtina: compensa se você se hospedar desse lado.
+333|De Ciampino não há trem direto: há ônibus para Termini e para estações de metrô.
+334|Os táxis brancos de Roma têm tarifa fixa dos dois aeroportos até o centro (dentro das Muralhas Aurelianas). Use a fila oficial.
+335|Chip pré-pago, ativado em máquinas nas lojas
+336|Na Itália, para ativar um chip pedem o passaporte.
+337|Muitos bares e museus têm Wi-Fi grátis.
+338|Saque dinheiro em caixas de bancos (Bancomat): os caixas avulsos das áreas turísticas cobram mais.
+339|Bilhetes e passes
+340|Site oficial da ATAC
+341|Linhas de metrô
+342|No metrô, nos ônibus e nos bondes você pode pagar aproximando o cartão: não é preciso comprar bilhete.
+343|Se for viajar muito, compare com os passes Roma 24H, 48H ou 72H.
+344|Trajetos de metrô, ônibus e bonde, com horários ao vivo.
+345|Para pedir táxis oficiais de Roma.
+346|Táxis e carros com motorista, com preço estimado.
+347|Táxis e carros com motorista. Você vê o preço antes de pedir.
+348|Para viajar para fora de Roma
+349|Trens rápidos e regionais para toda a Itália: horários, bilhetes e atrasos.
+350|ATAC: metrô, ônibus e bondes
+351|Notícias do serviço, obras e greves (sciopero). Em italiano e inglês.
+352|Roma Servizi per la Mobilità
+353|Trânsito, interdições e situação do transporte ao vivo. Em italiano.
+354|Greves (sciopero) e manifestações (manifestazione) nas notícias do dia.
+355|⭐ Destaques da semana. Confirme na página antes de ir.
+356|Turismo Roma: eventos
+357|060608: informação turística e cultural de Roma
+358|Roma tem dois aeroportos: Fiumicino (FCO), o grande, para quase todos os voos internacionais, e Ciampino (CIA), menor, para voos baratos. Confira bem qual é o seu e de qual terminal sai o seu voo.
+359|💳 Como pagar e o que é o couvert
+360|🎫 Como pagar o metrô e o ônibus com o cartão
+361|Roma antiga
+362|O maior anfiteatro do Império Romano, onde lutavam os gladiadores. Quase dois mil anos depois continua de pé no centro da cidade.
+363|Reserve o ingresso no site oficial do Parque do Coliseu, com horário: inclui o Fórum Romano e o Palatino. Vá cedo ou no fim do dia.
+364|ruínas
+365|O coração político da Roma antiga: templos, arcos do triunfo e a Via Sacra, entre o Capitólio e o Coliseu.
+366|O ingresso é o mesmo do Coliseu. Leve água e boné: há pouca sombra.
+367|A colina onde, segundo a lenda, Roma nasceu e onde viviam os imperadores. Lá de cima se veem o Fórum e o Circo Máximo.
+368|Vale o mesmo ingresso do Coliseu. É a parte mais tranquila e verde do passeio.
+369|Um enorme conjunto de lojas e escritórios de 1.900 anos atrás, com o museu dos Foros Imperiais dentro.
+370|Do terraço se veem os Foros Imperiais de cima. Costuma ter menos gente que o Coliseu.
+371|As ruínas gigantes de banhos públicos para milhares de pessoas, com mosaicos e muros de mais de 30 metros.
+372|No verão, a Ópera de Roma faz apresentações ao ar livre nas termas.
+373|O vale onde se faziam as corridas de bigas, com lugar para 250.000 pessoas. Hoje é um grande parque aberto.
+374|É grátis e está sempre aberto. Ideal para ver o Palatino ao entardecer.
+375|Quatro templos da República romana no meio de uma praça com trânsito. Aqui mataram Júlio César, e hoje vivem dezenas de gatos.
+376|Dá para ver de graça da calçada. Para descer às ruínas pela passarela há ingresso.
+377|Um teatro romano mais antigo que o Coliseu, com um palácio construído em cima no Renascimento.
+378|No verão há concertos ao ar livre. Fica colado ao antigo Gueto judeu.
+379|O túmulo circular do primeiro imperador romano, reaberto depois de décadas de obras.
+380|Reserve a visita no site oficial: as vagas são poucas.
+381|Uma pirâmide de estilo egípcio de 36 metros, o túmulo de um magistrado romano, encaixada na muralha da cidade.
+382|Ao lado fica o Cemitério Protestante, onde estão Keats e Shelley. Estação de metrô Piramide (linha B).
+383|O templo romano mais bem conservado do mundo, com sua cúpula de concreto e o buraco aberto para o céu. Hoje é uma igreja.
+384|O ingresso é barato e se paga na porta ou pela internet. Se chover, veja como a água cai pelo óculo.
+385|A fonte barroca mais famosa do mundo. A tradição diz que, se você jogar uma moeda de costas, volta a Roma.
+386|Da praça se vê de graça; para descer até a borda da fonte há um ingresso barato. Vá muito cedo ou tarde da noite.
+387|A escadaria barroca que sobe até a igreja de Trinità dei Monti, com a fonte da Barcaccia embaixo.
+388|É proibido sentar nos degraus e comer ali: há multas.
+389|O monumento branco e gigante a Vítor Emanuel II e ao soldado desconhecido, na Piazza Venezia. Os romanos o chamam de "a máquina de escrever".
+390|Suba no elevador panorâmico até o terraço: uma das melhores vistas de Roma.
+391|A máscara de mármore que, segundo a lenda, morde a mão dos mentirosos. Fica no pórtico da igreja de Santa Maria in Cosmedin.
+392|Costuma haver fila para a foto: vá cedo. Deixa-se uma pequena doação.
+393|O mausoléu do imperador Adriano transformado em fortaleza papal, ligado ao Vaticano por uma passagem. No alto há um terraço com vista.
+394|Atravesse a pé a ponte Sant'Angelo, com seus anjos de Bernini. O terraço ao entardecer é o melhor.
+395|A grande praça de Bernini com sua colunata abraçando os fiéis, em frente à basílica de São Pedro.
+396|Aos domingos ao meio-dia o papa costuma rezar o Angelus da janela. Há controles de segurança.
+397|Praça e fonte
+398|A praça barroca mais bonita de Roma, sobre um antigo estádio, com a Fonte dos Quatro Rios de Bernini.
+399|Os restaurantes da praça são caros: tome algo nas ruelas ao redor.
+400|Praça com mercado de frutas e flores de manhã e bares à noite, com a estátua de Giordano Bruno no centro.
+401|O mercado é de segunda a sábado de manhã. À noite se enche de gente jovem.
+402|A grande praça de entrada em Roma pelo norte, com um obelisco egípcio e duas igrejas gêmeas.
+403|Suba a rampa até o terraço do Pincio para vê-la de cima.
+404|A praça desenhada por Michelangelo na colina do Capitólio, com a estátua de Marco Aurélio.
+405|Atrás do palácio da prefeitura há uma varanda com vista para o Fórum Romano, grátis.
+406|Uma fonte renascentista pequena e encantadora, com quatro jovens e tartarugas de bronze, escondida no Gueto.
+407|Combine com um passeio pelo Gueto judeu e um doce no Boccione.
+408|Uma das maiores coleções de arte do mundo, com as salas de Rafael e a Capela Sistina pintada por Michelangelo.
+409|Reserve no site oficial (museivaticani.va). Fecham aos domingos, exceto no último do mês, que é grátis e fica lotado.
+410|Uma villa cheia de esculturas de Bernini e quadros de Caravaggio, Rafael e Ticiano, no meio do parque.
+411|Só se entra com reserva e em turnos de duas horas. Reserve com semanas de antecedência.
+412|O museu público mais antigo do mundo: a Loba capitolina, o Marco Aurélio original e uma vista incrível do Fórum.
+413|Não perca a galeria subterrânea que leva ao Tabularium. Confira o horário no site.
+414|O melhor do Museu Nacional Romano: afrescos de villas antigas, mosaicos e o Pugilista em repouso de bronze.
+415|Fecha às segundas. Fica em frente a Termini: bom programa se você tiver um tempo antes do trem.
+416|Um palácio particular com uma enorme coleção de arte, com Caravaggio, Ticiano e o retrato do papa Inocêncio X de Velázquez.
+417|O audioguia é narrado por um dos donos da família. Costuma ter pouca gente.
+418|A Galeria Nacional de Arte Antiga em um palácio barroco, com Caravaggio, Rafael e um enorme teto pintado.
+419|Fecha às segundas. Há ingresso combinado com a Galleria Corsini, em Trastevere.
+420|O museu de arte contemporânea e arquitetura, em um edifício de curvas de concreto de Zaha Hadid.
+421|Fecha às segundas. A praça de fora é pública e boa para descansar.
+422|Flaminio e Foro Italico
+423|O grande museu dos etruscos, o povo que vivia na Itália antes dos romanos, em uma villa renascentista.
+424|Fecha às segundas. Não perca o Sarcófago dos Esposos.
+425|Estátuas romanas de mármore entre as máquinas de uma antiga usina elétrica: uma mistura única.
+426|Fica em Ostiense, dá para combinar com a arte urbana do bairro. Confira o horário no site.
+427|Um palácio renascentista com esculturas antigas famosas, como o Trono Ludovisi, a poucos passos da Piazza Navona.
+428|Fecha às segundas. Faz parte do Museu Nacional Romano: o ingresso combinado vale para várias sedes.
+429|O Altar da Paz de Augusto, um monumento de mármore esculpido do ano 9 a.C., dentro de uma caixa de vidro moderna.
+430|Fica em frente ao Mausoléu de Augusto: visitam-se juntos.
+431|A história da comunidade judaica mais antiga da Europa e a grande sinagoga de cúpula quadrada, com visita guiada.
+432|Há controles de segurança. Fecha aos sábados e nas festas judaicas.
+433|Arte dos séculos XIX e XX em um palácio branco na borda da Villa Borghese: Klimt, Van Gogh e os italianos.
+434|Fecha às segundas. Tem um café com terraço muito bonito.
+435|Capelas decoradas com os ossos de milhares de frades, com um museu sobre a ordem. Impressiona.
+436|Não é permitido tirar fotos. Pode não ser para crianças pequenas.
+437|A maior igreja do mundo, com a Pietà de Michelangelo e o baldaquino de Bernini. Dá para subir na cúpula.
+438|A entrada é grátis; a subida à cúpula é paga. Ombros e joelhos cobertos. Vá cedo para evitar a fila.
+439|Uma das quatro basílicas maiores, com mosaicos do século V e o teto dourado com o primeiro ouro chegado da América.
+440|Fica a poucas quadras de Termini. Aqui está enterrado o papa Francisco.
+441|A catedral de Roma, mais antiga que São Pedro, com estátuas gigantes dos apóstolos e um claustro medieval.
+442|Em frente fica a Escada Santa, que os fiéis sobem de joelhos.
+443|A segunda maior basílica de Roma, sobre o túmulo de São Paulo, com retratos de todos os papas.
+444|Tem um claustro com colunas de mosaico. Metrô B, estação Basilica San Paolo.
+445|Uma das igrejas mais antigas de Roma, com mosaicos dourados que brilham na abside.
+446|A praça em frente, com sua fonte, é o coração de Trastevere.
+447|A igreja dos franceses em Roma, com três enormes quadros de Caravaggio sobre a vida de São Mateus.
+448|Tenha uma moeda para acender a luz da capela. A poucos passos do Panteão.
+449|A única igreja gótica de Roma, com teto azul estrelado e um Cristo de Michelangelo.
+450|Em frente fica o elefante com o obelisco, de Bernini.
+451|A igreja do Moisés de Michelangelo e das correntes que, segundo a tradição, prenderam São Pedro.
+452|Fica a cinco minutos do Coliseu, subindo as escadas da Via Cavour.
+453|Uma igreja cheia de arte: dois Caravaggio, uma capela de Rafael e esculturas de Bernini.
+454|As capelas com os Caravaggio ficam à esquerda do altar.
+455|Três andares de história: uma igreja do século XII sobre outra do século IV, e embaixo um templo romano.
+456|A igreja é grátis; para descer às escavações há ingresso.
+457|Igreja jesuíta com um teto pintado que cria uma cúpula falsa: um truque de perspectiva incrível.
+458|Há um espelho no centro para olhar o teto sem torcer o pescoço.
+459|A igreja mãe dos jesuítas, modelo do barroco, com um teto dourado e pintado espetacular.
+460|À tarde costuma haver uma apresentação com música e luzes no altar de Santo Inácio.
+461|Uma igreja pequena com a capela de São Zenão, toda coberta de mosaicos dourados do século IX.
+462|Fica na esquina de Santa Maria Maior e quase ninguém conhece.
+463|Uma basílica do século V, simples e luminosa, com uma porta de madeira entalhada da mesma época.
+464|Fica ao lado do Jardim das Laranjeiras.
+465|O terraço sobre a Piazza del Popolo, com uma das vistas mais bonitas dos telhados e cúpulas de Roma.
+466|O melhor momento é o entardecer.
+467|Um jardim com laranjeiras na colina do Aventino, com vista do Tibre e da cúpula de São Pedro.
+468|Combine com a fechadura dos Cavaleiros de Malta, a duas quadras.
+469|A colina sobre Trastevere com a vista mais ampla da cidade. Todos os dias ao meio-dia se dispara um tiro de canhão.
+470|Sobe-se a pé desde Trastevere por escadas, ou no ônibus 115.
+471|Pelo buraco de uma fechadura se vê a cúpula de São Pedro perfeitamente emoldurada por um jardim.
+472|Costuma haver fila; anda rápido. É grátis.
+473|O grande parque do centro, com lagos, templinhos, bicicletas para alugar, museus e o zoológico.
+474|Alugue um barco no lago ou um carrinho a pedal para percorrê-lo.
+475|O maior parque de Roma, com pinheiros, jardins e uma villa, ideal para correr ou fazer piquenique.
+476|Fica longe do circuito turístico: um respiro verde de verdade.
+477|Arcos de aquedutos romanos no meio do campo, a sudeste da cidade. Aparece em muitos filmes.
+478|Metrô A até Giulio Agricola ou Subaugusta. Ideal ao entardecer.
+479|Um parque com palacetes curiosos, como a Casina delle Civette, e a villa onde viveu Mussolini.
+480|As casas do parque são museus com ingresso à parte.
+481|A antiga estrada romana com seus paralelepípedos originais, túmulos, pinheiros e catacumbas. Aos domingos fecha para o trânsito.
+482|Alugue uma bicicleta no Appia Antica Caffè e percorra-a no domingo.
+483|Um jardim botânico ao pé do Janículo, com bambus, um jardim japonês e estufas.
+484|Um bom refúgio do calor no verão.
+485|Ruas de pedra com roupa pendurada, hera nas fachadas e trattorias, do outro lado do Tibre.
+486|Percorra à tarde e fique para jantar. O mais tranquilo fica ao norte da Viale di Trastevere.
+487|O bairro judeu de Roma, com sua rua principal cheia de restaurantes de cozinha judaica romana e ruínas antigas.
+488|Prove as alcachofras à judia e a torta de ricota e ginjas do Boccione.
+489|Um cantinho de conto de fadas: prédios com torres, arcos e decorações extravagantes dos anos vinte.
+490|É pequeno: dá para percorrer em meia hora. Combine com a Villa Torlonia.
+491|Um bairro operário dos anos vinte com pátios, jardins e casas baixas: a Roma de bairro de verdade.
+492|Metrô B, estação Garbatella. Combine com Ostiense.
+493|Uma rua reta do Renascimento com palácios, igrejas e antiquários, paralela ao Tibre.
+494|No final fica o arco coberto de hera que cruza a rua.
+495|A rua dos artistas, com ateliês, galerias e pátios verdes, onde foi filmado A Princesa e o Plebeu.
+496|Fica entre a Piazza del Popolo e a Praça de Espanha.
+497|Catacumbas
+498|Quilômetros de galerias subterrâneas onde eram enterrados os primeiros cristãos, entre eles vários papas.
+499|Só com visita guiada, que sai com frequência e existe em espanhol. Leve um agasalho: lá embaixo faz frio.
+500|religião
+501|Catacumbas com túmulos romanos pintados e uma basílica em cima, na Via Ápia.
+502|Visita guiada obrigatória. Combine com um passeio de bicicleta pela Via Ápia.
+503|As catacumbas mais extensas de Roma, com uma basílica subterrânea do século IV.
+504|Visita guiada obrigatória. Costumam ter menos gente que San Callisto.
+505|As chamadas "rainhas das catacumbas", com a pintura mais antiga conhecida da Virgem com o menino.
+506|Ficam ao norte, junto à Villa Ada. Visita guiada obrigatória.
+507|Trattoria
+508|Trattoria pequenininha de cozinha romana de sempre: carbonara, cacio e pepe e alcachofras.
+509|Não aceita reservas: vá antes de abrir e coloque seu nome na lista.
+510|massa
+511|cozinha romana
+512|Trattoria familiar desde 1961 a poucos passos do Panteão, com pratos romanos muito bem feitos.
+513|Reserve com muita antecedência no site. Fecha aos domingos.
+514|Empório de queijos e frios com restaurante: uma das carbonaras mais famosas de Roma e muitos vinhos.
+515|Reserve. Se não conseguir mesa, compre algo no balcão.
+516|Trattoria histórica de Testaccio, famosa pelo cacio e pepe que misturam na mesa.
+517|Reserve: está sempre cheia.
+518|Cozinha romana em um espaço escavado no Monte Testaccio, uma colina feita de ânforas romanas quebradas.
+519|Peça que mostrem a parede de ânforas no fundo.
+520|Trattoria de bairro em uma pracinha tranquila de Trastevere, com mesas ao ar livre e pratos do dia.
+521|Peça as alcachofras na temporada (de novembro a abril).
+522|Uma trattoria familiar com cozinha da região das Marcas, a poucos passos de Santa Maria Maior.
+523|Prove o tortello com gema de ovo. Convém reservar.
+524|Trattoria grande e alegre de Trastevere, com massas servidas na própria frigideira.
+525|Não aceita reservas: costuma haver fila, mas anda rápido.
+526|Uma das trattorias mais queridas pelos romanos, com frituras, massas e vinhos naturais.
+527|Fica longe do centro: chega-se com o bonde 8 até o ponto final Casaletto.
+528|Trattoria histórica de San Lorenzo, com carnes na grelha e pratos romanos.
+529|Uma das melhores opções para jantar antes de sair por San Lorenzo.
+530|Trattoria pequena do Esquilino, famosa pelo cacio e pepe servido em uma forma de queijo.
+531|Reserve. Fica perto da Piazza Vittorio.
+532|A casa da cozinha do "quinto quarto" (os miúdos), em frente ao antigo matadouro de Testaccio.
+533|Prove a coda alla vaccinara, o rabo de boi ensopado. Tem uma adega escavada no monte.
+534|Massas frescas que as senhoras preparam à vista na janela, a poucos passos do Campo de' Fiori.
+535|Costuma haver fila. Peça a massa do dia.
+536|Trattoria moderna de Ostiense com cozinha romana da estação e bons vinhos.
+537|Boa opção para jantar depois de percorrer Ostiense.
+538|Trattoria de Prati com cozinha romana caprichada, famosa por seus supplì e sua amatriciana.
+539|Boa opção depois do Vaticano, longe das armadilhas para turistas.
+540|Cozinha judaica romana no Gueto: alcachofras à judia, flores de abobrinha e peixe frito.
+541|É kosher segundo o próprio restaurante; confirme se isso importa para você.
+542|alcachofras
+543|Um dos restaurantes mais conhecidos do Gueto, com mesas ao ar livre junto às ruínas do Pórtico de Otávia.
+544|Peça as alcachofras fritas e algo da cozinha judaica líbia.
+545|Restaurante histórico do Gueto, com mesas junto às colunas romanas e a cozinha judaica de sempre.
+546|As alcachofras à judia se comem inteiras, crocantes como uma flor.
+547|Um dos restaurantes mais antigos de Roma, aberto em 1860, em uma pracinha escondida do Gueto.
+548|A sobremesa típica são as palle del nonno, bolinhas fritas de ricota.
+549|A pizzaria romana de sempre: pizza fininha e crocante, mesas de mármore e supplì.
+550|Os romanos a chamam de "l'obitorio" (o necrotério) por suas mesas de mármore. Abre só à noite.
+551|Pizzaria moderna dos Roscioli, com farinhas especiais e frios de primeira.
+552|Boa opção para comer pizza a qualquer hora perto do Campo de' Fiori.
+553|Pizza napolitana de autor com ingredientes que mudam conforme a estação. Das mais premiadas da Itália.
+554|Reserve: está sempre cheia. Fica ao sul de Trastevere.
+555|Pizzaria de Trastevere com pizza no meio do caminho entre a romana e a napolitana, e um calzone de Nutella de sobremesa.
+556|Não aceita reservas: vá cedo.
+557|Pizzaria popular a poucos passos da Piazza Navona, com pizza fininha e preços de bairro.
+558|Há fila, mas as mesas giram rápido.
+559|Pizza al taglio
+560|A pizza al taglio mais famosa de Roma, de Gabriele Bonci, com combinações que mudam o tempo todo.
+561|Come-se em pé ou na calçada. Fica perto da estação Cipro, ideal depois do Vaticano.
+562|Padaria histórica com pizza branca e vermelha al taglio, e pão de primeira.
+563|Peça a pizza rossa: a mais simples e a melhor.
+564|A padaria do Campo de' Fiori, com pizza branca recheada de mortadela e outros clássicos.
+565|Compre e coma na praça.
+566|Pizza al taglio de bairro a poucos passos do Largo Argentina, com muitas opções e bons preços.
+567|Ideal para um almoço rápido entre monumentos.
+568|Supplì gourmet: os bolinhos de arroz romanos com recheio clássico de tomate e muçarela, e versões novas.
+569|Prove o clássico e um de cacio e pepe.
+570|O triângulo de pizza branca recheado com ensopados romanos, como frango à cacciatora ou almôndegas.
+571|Tem várias lojas; esta fica ao pé da ponte Sisto.
+572|Rotisseria de bairro de Trastevere famosa por seus supplì e pela pizza al taglio.
+573|Come-se em pé. Fecha aos domingos.
+574|Um local minúsculo que vende porchetta (porco assado com ervas) em sanduíche há mais de cem anos.
+575|Fica perto de Termini: bom almoço rápido antes do trem.
+576|Uma banca do Mercado de Testaccio com sanduíches recheados de pratos romanos, como o bollito ou as almôndegas.
+577|Fica dentro do mercado, que fecha à tarde e aos domingos.
+578|A gelateria histórica de Roma, aberta desde 1900, com um salão de época e chantilly por cima.
+579|Paga-se primeiro no caixa e depois se pede. Prove o sabor marrom glacê.
+580|Gelato artesanal com sabores originais e opções sem glúten, em uma pracinha de Monti.
+581|Peça um sabor diferente: chocolate com tabaco ou pera com queijo.
+582|Gelateria com laboratório à vista na bonita Via dei Coronari, perto da Piazza Navona.
+583|O de sálvia e framboesa é seu sabor mais conhecido.
+584|Gelateria de autor (seu nome é gelato ao contrário) com sabores criativos.
+585|Fica junto à praça de San Cosimato, longe da Trastevere mais turística.
+586|Gelato de creme com chocolate derretido no fundo da casquinha, perto da Porta Pia.
+587|Peça o creme de chocolate no fundo: a casquinha vem cheia.
+588|O "Palácio do Frio", gelateria aberta em 1880, com um salão enorme e preços baixos.
+589|Fica perto da Piazza Vittorio. Prove o sanpietrino, um bombom gelado.
+590|Um dos cafés mais famosos de Roma, aberto em 1938, com café torrado a lenha.
+591|O café já vem com açúcar: se quiser amargo, peça "amaro".
+592|Torrefação histórica a poucos passos do Panteão, famosa pela granita de café com chantilly.
+593|No verão peça a granita di caffè con panna.
+594|Café dentro do antigo ateliê de escultura de Canova, entre estátuas de gesso.
+595|Sentar é caro: tome algo no balcão para ver o lugar.
+596|Uma casa de chá inglesa aberta em 1893 ao pé da escadaria da Praça de Espanha.
+597|É caro, mas o ambiente vale. Ideal para um chá com scones.
+598|Café e confeitaria
+599|A cafeteria dos Roscioli, com maritozzi (pães de creme), confeitaria e bom café.
+600|Prove o maritozzo con panna, o café da manhã romano por excelência.
+601|Confeitaria de 1916, famosa por seus maritozzi com creme e a torta de morangos silvestres.
+602|Vá de manhã: os maritozzi acabam.
+603|A padaria do Gueto, com a torta de ricota e ginjas e a pizza ebraica, uma barra de frutas secas.
+604|Não tem placa nem mesas: procure a fila na esquina.
+605|Bar histórico do Pigneto, frequentado por Pasolini, com um pátio arborizado para o café da manhã ou um drinque.
+606|O pátio é o melhor; também servem refeições.
+607|Café de 1919 em Prati, com balcão de época e um café com chocolate dentro da xícara.
+608|Peça o caffè al cioccolato.
+609|Café com poltronas e ambiente descontraído perto do Campo de' Fiori; à noite serve coquetéis.
+610|Bom para tomar café da manhã com calma ou trabalhar um pouco.
+611|Café especial, com grãos torrados por eles e métodos de filtragem, algo pouco comum em Roma.
+612|Se você sente falta do café coado, este é o lugar.
+613|Alta gastronomia de Heinz Beck no último andar do hotel Rome Cavalieri, com vista para a cidade inteira. Reconhecido pelo Guia Michelin.
+614|Reserve com muita antecedência e peça mesa junto à janela.
+615|Restaurante de alta gastronomia no centro histórico, com menus degustação criativos. Reconhecido pelo Guia Michelin.
+616|Reserve com antecedência.
+617|Cozinha criativa de Cristina Bowerman em um espaço moderno de vidro e aço em Trastevere. Reconhecido pelo Guia Michelin.
+618|Abre só à noite. Convém reservar.
+619|Alta gastronomia com pratos romanos reinventados, entre eles uma carbonara muito famosa. Reconhecido pelo Guia Michelin.
+620|Reserve; peça a carbonara mesmo se escolher o menu degustação.
+621|Alta gastronomia no salão de uma villa art nouveau junto ao Tibre. Reconhecido pelo Guia Michelin.
+622|Ideal para uma ocasião especial.
+623|Restaurante e café vegano em pleno centro, com versões vegetais de pratos italianos.
+624|Segundo o OpenStreetMap, tudo é vegano.
+625|Trattoria vegana perto de Termini, com carbonara e outros clássicos romanos sem produtos de origem animal.
+626|Boa opção se você chega ou parte de trem.
+627|Bufê vegano por quilo, com muitos pratos quentes e frios, perto da Porta Pia.
+628|Paga-se pelo que você se serve: rende e é barato.
+629|Bistrô vegano com gatos soltos pelo salão, em Ostiense.
+630|Se você não gosta de gatos, não é para você.
+631|Pizzaria e restaurante napolitano com cozinha separada sem glúten: pizza, massa e frituras para celíacos.
+632|Segundo o OpenStreetMap e guias para celíacos, tudo é sem glúten. Confirme sempre no local.
+633|Pizzaria sem glúten a poucos passos do Campo de' Fiori, com certificação da Associação Italiana de Celíacos.
+634|Confirme sempre no local antes de pedir.
+635|Padaria e café sem glúten no centro, com pão, pizza e doces para celíacos.
+636|Ideal para o café da manhã ou levar algo para o dia. Confirme sempre no local.
+637|Confeitaria sem glúten e sem lactose, com tortas, doces e cafés da manhã.
+638|Fica longe do centro, perto da Basílica de São Paulo. Confirme sempre no local.
+639|Bar escondido no estilo da Lei Seca, dos mais premiados da Itália, com coquetéis clássicos.
+640|É preciso reservar e pedir a senha pelo site. Sem placa na porta.
+641|Uma antiga oficina mecânica transformada em bar, com aperitivo e gente na praça de fora.
+642|Na hora do aperitivo enche: pegue o drinque e saia para a praça.
+643|aperitivo
+644|Bar com design escandinavo em frente às colunas do Templo de Adriano.
+645|As mesas de fora, de frente para o templo, são o melhor.
+646|Bar de coquetéis autorais no Pigneto, dos mais conhecidos da nova cena romana.
+647|Combine com uma volta pela rua de pedestres do Pigneto.
+648|Terraço no alto com vista para a cúpula de Sant'Agnese e para a Piazza Navona.
+649|Uma das primeiras enotecas de Roma, com uma carta enorme de vinhos e pratos para petiscar.
+650|Fica junto à estátua de Pasquino, onde os romanos colavam suas críticas.
+651|Enoteca de bairro com vinhos em taça, queijos e frios.
+652|Ideal para o aperitivo; à noite se enche de romanos.
+653|Enoteca de Monti coberta de hera, com vinhos e pratos simples.
+654|Chegue cedo: é pequena e enche.
+655|Bar de vinhos naturais e mezcal em Monteverde, com pratos para compartilhar.
+656|Fica no alto do Janículo: combine com o entardecer no mirante.
+657|Bar pequenininho de cerveja artesanal em Trastevere, famoso entre os amantes de cerveja.
+658|Toma-se do lado de fora, na calçada.
+659|Cervejaria com mais de cem cervejas italianas e hambúrgueres, perto do Campo de' Fiori.
+660|Boa opção para provar cervejas artesanais italianas.
+661|Cervejaria com muitas torneiras de cerveja artesanal e comida, ao sul de Trastevere.
+662|Fica perto da Porta Portese.
+663|Cervejaria com muitas torneiras de cerveja artesanal italiana e comida para acompanhar, perto da estação Trastevere.
+664|Boa parada depois da Porta Portese.
+665|O clube de jazz mais antigo de Roma, com músicos italianos e internacionais.
+666|Convém reservar mesa para o jantar com show.
+667|música ao vivo
+668|Clube de blues de Trastevere, com música ao vivo quase todas as noites.
+669|Confira a programação no site.
+670|blues
+671|Clube de jazz intimista a poucos passos da Praça de Espanha, com jantar e música ao vivo.
+672|Os shows começam tarde; reserve.
+673|Bar pequeno de Monti com jazz ao vivo e ambiente descontraído.
+674|Chegue cedo para conseguir lugar perto do palco.
+675|Clube em pleno centro com várias salas, restaurante e música para dançar.
+676|Abre nos fins de semana; confira a programação.
+677|clube
+678|dançar
+679|Uma antiga fábrica de lã transformada em clube e espaço cultural, com festas de música eletrônica.
+680|Fica longe: volte de táxi ou app.
+681|Clube clássico da noite eletrônica de Roma, na região de Ostiense.
+682|Abre sobretudo nos fins de semana: confira a festa antes.
+683|Clube ao ar livre junto ao Estádio Olímpico, com festas na temporada.
+684|Confira a programação: abre conforme a temporada.
+685|Visita guiada que entra nos corredores subterrâneos onde esperavam os gladiadores e as feras, e sai na arena.
+686|Reserva-se só no site oficial do Parque do Coliseu e as vagas esgotam rápido.
+687|Uma visita sob a basílica de São Pedro por uma rua de túmulos romanos, até o túmulo do apóstolo.
+688|Pouquíssimas vagas: pede-se por e-mail ao Escritório de Escavações com meses de antecedência.
+689|Restos de casas romanas sob um palácio, contados com projeções de luz que as reconstroem.
+690|Visita com horário: reserve. Muito bom para crianças.
+691|tecnologia
+692|Passeios a pé pelo centro com guias que trabalham por gorjeta: cada um deixa o que acha justo.
+693|Reserve pela internet; há várias empresas. Costuma-se deixar algo no final.
+694|Aluguel de bicicletas comuns e elétricas para percorrer a Via Ápia, os aquedutos e as catacumbas.
+695|No domingo a Via Ápia fecha para o trânsito: é o melhor dia.
+696|Passeios guiados pelo mercado e pelos locais históricos de Testaccio, provando a cozinha romana.
+697|Várias empresas oferecem; reserve pela internet.
+698|Aulas para aprender a fazer massa fresca e molhos romanos, com refeição incluída.
+699|Há muitas; escolha uma com boas avaliações recentes.
+700|Passeios de Vespa com motorista pela cidade, como nos filmes.
+701|Se você não pilota moto, escolha um com motorista.
+702|O berço do Renascimento: a catedral com a cúpula de Brunelleschi, os Uffizi e o Davi de Michelangelo.
+703|De trem rápido é cerca de uma hora e meia. Reserve os Uffizi e a Academia com antecedência.
+704|A cidade da pizza, caótica e fascinante, com o Vesúvio em frente e um centro histórico patrimônio da UNESCO.
+705|De trem rápido é pouco mais de uma hora. Combine com Pompeia.
+706|Uma cidade medieval sobre uma rocha, com uma catedral de fachada dourada e poços subterrâneos.
+707|Trem regional desde Termini e funicular até o centro.
+708|"A cidade que morre": um vilarejo sobre uma colina que vai desmoronando, ligado ao mundo por uma ponte de pedestres.
+709|Combine com Orvieto. É preciso pagar um ingresso barato para cruzar a ponte.
+710|A cidade de São Francisco, de pedra rosada sobre uma colina, com sua basílica cheia de afrescos.
+711|De trem são umas duas horas. Calçado confortável: tudo é subida.
+712|Uma cidade dos Castelos Romanos, famosa por seu vinho branco, suas villas e suas fraschette (tabernas).
+713|Trem regional desde Termini em meia hora. Ideal para almoçar.
+714|O antigo porto de Roma, uma cidade inteira de ruínas com ruas, casas, teatro e banhos.
+715|Trem desde a estação Porta San Paolo (Piramide) com o bilhete comum de Roma.
+716|A cidade romana soterrada pelo Vesúvio no ano 79, congelada no tempo.
+717|Trem rápido até Nápoles e depois a Circumvesuviana. É um dia longo: saia cedo.
+718|A enorme villa do imperador Adriano, com piscinas, teatros e jardins em ruínas.
+719|Combine com a Villa d'Este em Tivoli no mesmo dia.
+720|Uma cidade de túmulos etruscos em forma de casas, patrimônio da UNESCO.
+721|Chega-se de ônibus desde a estação Cornelia do metrô A.
+722|Um jardim renascentista com centenas de fontes, cascatas e jogos de água.
+723|De ônibus ou trem regional até Tivoli. Combine com a Villa Adriana.
+724|Um jardim romântico entre as ruínas de uma cidade medieval, com riachos e plantas do mundo inteiro.
+725|Abre só alguns dias da primavera ao outono e com reserva.
+726|Um bosque do século XVI cheio de esculturas gigantes e estranhas esculpidas na rocha.
+727|O melhor é ir de carro. Muito divertido com crianças.
+728|Cidade sobre o lago Albano com o palácio de verão dos papas, hoje museu.
+729|Trem regional desde Termini. O trem histórico do Vaticano às vezes faz esse trajeto.
+730|Natureza e praia
+731|Um lago vulcânico de água limpa com um castelo medieval, a uma hora de Roma.
+732|Trem regional desde Ostiense ou Trastevere. No verão há praias para nadar.
+733|O lago vulcânico dos Castelos Romanos, cercado de bosques e com Castel Gandolfo no alto.
+734|Combine com Castel Gandolfo.
+735|Uma cidade branca sobre o mar com praias de areia, no meio do caminho entre Roma e Nápoles.
+736|Trem até Fondi e ônibus até a cidade. Ideal no verão.
+737|praia
+738|A praia dos romanos, a menos de uma hora de trem com o bilhete comum de Roma.
+739|As praias privadas cobram espreguiçadeira e guarda-sol; há trechos públicos grátis.
+740|Hostel e hotel pequeno perto de Termini, com jardim, café vegetariano e ambiente tranquilo.
+741|Bom para quem busca um hostel sem festa.
+742|hostel
+743|Hostel grande de design com quartos compartilhados e privativos, perto de Termini.
+744|Tem bar e terraço; ideal para conhecer gente.
+745|Hostel famoso por seu bar e sua vida social, a poucas quadras de Termini.
+746|É para sair e conhecer gente: se você quer dormir cedo, escolha outro.
+747|Hostel moderno em um prédio de escritórios reformado, perto da Via Nazionale.
+748|Tem cozinha compartilhada e pátio.
+749|Hostel alegre perto do Coliseu, com terraço e aperitivo incluído.
+750|Fica a dez minutos a pé do Coliseu.
+751|Hotel clássico na Via Nazionale, com terraço na cobertura e atendimento muito bom.
+752|Bem localizado entre Termini e o centro.
+753|Hotel coberto de hera a poucos passos da Piazza Navona, com terraço com vista para as cúpulas.
+754|Mesmo sem se hospedar, dá para subir ao terraço para tomar algo.
+755|Hotel em um antigo convento com terraço com vista para os Foros Imperiais.
+756|O terraço ao entardecer é inesquecível.
+757|Hotel clássico em frente ao Panteão, com terraço na cobertura e vista para a cúpula.
+758|Peça um quarto com vista para a praça.
+759|Hotel familiar de longa trajetória atrás do Panteão, tranquilo e muito central.
+760|Todo o centro histórico se percorre a pé daqui.
+761|Hotel de design industrial perto do Gueto, com bar e terraço.
+762|Muito bem localizado para percorrer a pé o centro e Trastevere.
+763|Hotel art déco de 1925 perto da Piazza del Popolo, com bar e jardim.
+764|Seu bar é muito conhecido para o aperitivo.
+765|Hotel de design em Parioli, com lobby amplo, café e restaurante.
+766|Fica longe do centro, mas bem conectado por bonde.
+767|Hotel pequeno em uma casa do século XVI junto à escadaria da Praça de Espanha, com terraço.
+768|Poucos quartos: reserve com tempo.
+769|Hotel de luxo no alto da escadaria da Praça de Espanha, com restaurante panorâmico.
+770|O bar do primeiro andar é uma experiência mesmo sem se hospedar.
+771|Hotel de luxo junto à Piazza del Popolo, com um jardim secreto em terraços.
+772|Tome algo no Stravinskij Bar, no pátio.
+773|Hotel de luxo perto da Villa Borghese, com terraço e restaurante com vista para a cidade inteira.
+774|Hotel de luxo da marca de joias, em frente ao Mausoléu de Augusto.
+775|Muito caro; seu bar é aberto ao público.
+776|Grande hotel de 1894 perto da Piazza della Repubblica, com salões de época.
+777|O salão de chá é tão bonito quanto o hotel.
+778|Hotel de luxo com spa em um palácio perto da Via del Corso.
+779|O spa tem banhos inspirados nas termas romanas.
+780|spa
+781|O mercado de bairro de Testaccio, com frutas, queijos, carnes e barracas de comida rápida.
+782|Abre de segunda a sábado até a tarde. É o melhor para almoçar algo barato.
+783|O maior mercado coberto de Roma, perto do Vaticano, com centenas de barracas.
+784|Ideal para comprar queijos, azeite ou algo para um piquenique.
+785|Um mercado gastronômico dentro da estação Termini, com barracas de pizza, massa, trapizzini e mais.
+786|Ideal para comer bem antes de pegar o trem.
+787|Mercado de produtores rurais junto ao Circo Máximo: queijos, vinhos, azeite e comida.
+788|Abre nos fins de semana. Há barracas para comer ali mesmo.
+789|O grande mercado de pulgas dos domingos: roupas, antiguidades, discos e um pouco de tudo.
+790|Só aos domingos de manhã. Cuide da carteira: há muita gente.
+791|brechó
+792|Mercado de roupa usada, vintage e couro perto de São João de Latrão.
+793|Abre de manhã, de segunda a sábado.
+794|Mercado coberto multicultural perto da Piazza Vittorio, com especiarias, frutas e produtos do mundo inteiro.
+795|Abre de segunda a sábado de manhã.
+796|A grande rua comercial que liga a Piazza del Popolo à Piazza Venezia, com lojas de todo tipo.
+797|Nos fins de semana enche: vá durante a semana.
+798|A rua das grandes marcas de luxo, que desemboca na escadaria da Praça de Espanha.
+799|Mesmo sem comprar, vale caminhar para ver as vitrines.
+800|Uma rua renascentista cheia de antiquários, galerias e lojinhas, perto da Piazza Navona.
+801|Combine com um gelato na Gelateria del Teatro.
+802|Rua de lojas vintage, design independente e bares, a poucos passos da Piazza Navona.
+803|Ideal para procurar roupa vintage.
+804|A avenida comercial de Prati, com lojas de marcas conhecidas e preços mais razoáveis que o centro.
+805|Boa para comprar depois do Vaticano.
+806|Grande loja de luxo com ruínas de um aqueduto romano no subsolo e um terraço com vista.
+807|Desça para ver o aqueduto (grátis) e suba ao terraço gastronômico.
+808|Uma galeria comercial de 1922 com tetos de vidro e mosaicos, na Via del Corso.
+809|Boa parada para se abrigar da chuva.
+810|Quatro andares de comida italiana: empório, restaurantes e produtos de todas as regiões.
+811|Fica junto à estação Ostiense. Ideal para comprar presentes de comida.
+812|Loja de departamentos com roupas, casa e cosméticos, ao lado de Termini.
+813|Útil se faltar algo para a viagem.
+814|prático
+815|Empório e delicatessen
+816|O empório gourmet mais famoso de Roma: queijos, frios, trufas e produtos italianos.
+817|Deixam provar antes de comprar. Embalam a vácuo para a viagem.
+818|Empório histórico de produtos importados e especialidades italianas, com balcão de café.
+819|Bom para presentes e para um café rápido.
+820|Queijaria de bairro de 1900, famosa pela ricota fresca e pelo pecorino romano.
+821|Peça para embalar o queijo a vácuo para levar.
+822|Queijaria com queijos de produção própria do Piemonte e de toda a Itália, com mesas para degustar, no Gueto.
+823|Peça uma tábua de degustação com um vinho.
+824|O estádio da Roma e da Lazio, e da seleção italiana de rúgbi.
+825|Os ingressos se compram só com documento, nos sites oficiais dos clubes.
+826|Uma pista de atletismo cercada por 60 estátuas de mármore de atletas, dos anos trinta.
+827|É grátis e dá para caminhar ao redor.
+828|O ginásio coberto de Pier Luigi Nervi para os Jogos Olímpicos de 1960, com uma cúpula famosa.
+829|Olhe a cúpula de fora: é uma obra de engenharia.
+830|O grande ginásio coberto do bairro EUR, para shows e esportes.
+831|Confira a programação de shows.
+832|concertos
+833|Um vale verde com ovelhas, ruínas e trilhas, entre a cidade e a Via Ápia.
+834|Ideal para correr ou passear de manhã.
+835|Um lago artificial cercado por um parque com circuito para correr e cerejeiras japonesas.
+836|Na primavera as cerejeiras florescem: é um espetáculo.
+837|Um grande parque com bosques, lago e trilhas, o preferido dos corredores do norte de Roma.
+838|No verão há shows no festival Roma Incontra il Mondo.
+839|Uma ciclovia junto ao rio, abaixo do nível da rua, que cruza a cidade de norte a sul.
+840|Desce-se pelas escadas das pontes. Evite com chuva: alaga.
+841|A ópera de Roma, com temporada de ópera e balé; no verão se muda para as Termas de Caracalla.
+842|Há ingressos mais baratos nos camarotes altos.
+843|Três salas em forma de besouro de Renzo Piano, sede da Academia de Santa Cecília.
+844|Há concertos de todo tipo: clássica, jazz e pop.
+845|Teatro grande para concertos, dança e espetáculos.
+846|dança
+847|Um oratório do século XVI com afrescos de parede a parede, onde se fazem concertos de música de câmara.
+848|Os concertos cercados de afrescos são uma experiência única.
+849|Teatro do século XVIII onde estreou O Barbeiro de Sevilha, hoje sede do Teatro di Roma.
+850|As peças são em italiano.
+851|Teatro histórico a poucos passos da Fontana di Trevi, com peças clássicas e comédias.
+852|O teatro dos musicais em Roma, perto da Praça de Espanha.
+853|Os musicais são uma boa opção mesmo sem falar italiano.
+854|Teatro independente de Monteverde, com teatro contemporâneo e dança.
+855|Cinema de bairro reformado em Trastevere, com sala de estudo e bar, e sessões em versão original.
+856|Procure as sessões em versão original (VO) com legendas.
+857|O cinema do diretor Nanni Moretti, com cinema de autor e sessões em versão original.
+858|No verão projeta ao ar livre no seu pátio.
+859|Cinema histórico de uma sala no Campo de' Fiori, com cinema de autor.
+860|Veja se passam algum filme em versão original.
+861|Cinema com várias salas na Piazza della Repubblica, com estreias e algumas sessões em inglês.
+862|Procure as sessões em versão original.
+863|O zoológico de Roma, dentro da Villa Borghese, com animais do mundo inteiro.
+864|Combine com um passeio de bicicleta ou de barco pela Villa Borghese.
+865|Museu infantil para tocar, brincar e experimentar, pensado para menores de 12 anos.
+866|As visitas são por horário: reserve.
+867|O parque de diversões mais antigo da Itália, renovado para crianças pequenas.
+868|Pensado para crianças de até 12 anos.
+869|Um museu de ciência e tecnologia para crianças dentro da Villa Torlonia.
+870|Combine com o parque da Villa Torlonia.
+871|Um parque de diversões sobre o cinema, nos antigos estúdios de Dino De Laurentiis.
+872|Abre por temporadas: confira no site. Há ônibus desde Roma.
+873|Cumprimento ao entrar em qualquer loja (à tarde, "Buonasera")
+874|No balcão: é um espresso

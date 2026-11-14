@@ -22,7 +22,7 @@
   /* Ubicación de cada ciudad: [longitud, latitud]. */
   const GEO = { caba: [-58.38, -34.60], berlin: [13.40, 52.52], paris: [2.35, 48.86], madrid: [-3.70, 40.42], roma: [12.50, 41.90] };
   /* Ciudades que vienen (tarjetas #100 y #101): se ven en el globo con un círculo vacío y "pronto". */
-  const PRONTO = [{ id: "madrid", name: "Madrid", country: "España" }, { id: "roma", name: "Roma", country: "Italia" }];
+  const PRONTO = [{ id: "madrid", name: "Madrid", country: "España" }];
 
   /* Desde dónde sale la persona: se busca su zona horaria en esta lista. Si no está, arranca en Buenos Aires. */
   const ORIGINS = [
