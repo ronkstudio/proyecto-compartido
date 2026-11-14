@@ -71,7 +71,8 @@
         ["Uber", "Taxis y autos con chofer. Ves el precio antes de pedir.", 368677368, "com.ubercab"]
       ]],
       ["🚆", "Para viajar fuera de Roma", [
-        ["Trenitalia", "Trenes rápidos y regionales a toda Italia: horarios, boletos y demoras.", 331050847, "com.lynxspa.prontotreno"]
+        ["Trenitalia", "Trenes rápidos y regionales a toda Italia: horarios, boletos y demoras.", 331050847, "com.lynxspa.prontotreno"],
+        ["Italo", "Trenes rápidos a las grandes ciudades de Italia: horarios y boletos.", 804056898, "it.italotreno"]
       ]],
       ["🍔", "Para comer", [
         ["TheFork", "Reservas en restaurantes, a veces con descuento.", 424850908, "com.lafourchette.lafourchette"],

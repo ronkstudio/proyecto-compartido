@@ -68,6 +68,7 @@
         ["Île-de-France Mobilités", "La app oficial: recorridos y boletos en el celular.", 484527651, "com.applidium.vianavigo"],
         ["Bonjour RATP", "Recorridos y estado del metro, RER y buses.", 507107090, "com.fabernovel.ratp"],
         ["Citymapper", "Recorridos en transporte, con salida de vagón recomendada.", 469463298, "com.citymapper.app.release"],
+        ["SNCF Connect", "Trenes a toda Francia y a Versalles: horarios, boletos y demoras.", 343889987, "com.vsct.vsc.mobile.horaireetresa.android"],
         ["Google Maps", "Mapas y recorridos en transporte y a pie.", 585027354, "com.google.android.apps.maps"],
         ["G7 Taxi", "Para pedir taxis oficiales.", 402196027, "fr.taxisg7.grandpublic"],
         ["Uber", "Viajes en auto. Ves el precio antes de pedir.", 368677368, "com.ubercab"],

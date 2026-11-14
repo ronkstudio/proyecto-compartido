@@ -872,3 +872,6 @@
 872|Controlla la tua email!
 873|Ti abbiamo mandato un link. Aprilo su questo stesso dispositivo e sarai dentro.
 874|Continua nel frattempo
+875|Emergenze della Città (Protezione civile)
+876|Difensore del turista (anche WhatsApp)
+877|Usa i bancomat delle banche (circuiti Banelco e Link). Con una carta estera si paga una commissione fissa per ogni prelievo e c'è un importo massimo per volta: conviene prelevare meno spesso e di più.

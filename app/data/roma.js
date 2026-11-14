@@ -113,7 +113,7 @@ window.CITY_DATA.roma = {
   /* ───────────── TRANSPORTE ───────────── */
   subte: [
     { line: "A", color: "#f28c28", route: "Battistini ↔ Anagnina", useful: "Vaticano (Ottaviano), Plaza de España, Piazza del Popolo (Flaminio), Termini y San Juan de Letrán" },
-    { line: "B", color: "#2a5caa", route: "Laurentina / Jonio / Rebibbia ↔ Termini", useful: "Termini, Coliseo, Circo Máximo, Pirámide (Testaccio y Ostiense) y San Pablo Extramuros" },
+    { line: "B", color: "#2a5caa", route: "Laurentina ↔ Rebibbia / Jonio", useful: "Termini, Coliseo, Circo Máximo, Pirámide (Testaccio y Ostiense) y San Pablo Extramuros" },
     { line: "C", color: "#2a9d4b", route: "Monte Compatri / Pantano ↔ Colosseo-Fori Imperiali", useful: "Pigneto y San Giovanni hasta el Coliseo; se sigue extendiendo hacia el centro" }
   ],
   transport: [

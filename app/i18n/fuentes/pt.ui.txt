@@ -872,3 +872,6 @@
 872|Confira seu e-mail!
 873|Mandamos um link. Abra neste mesmo dispositivo e você já vai estar dentro.
 874|Continuar enquanto isso
+875|Emergências da Cidade (Defesa Civil)
+876|Defensoria do Turista (também WhatsApp)
+877|Use os caixas eletrônicos de bancos (redes Banelco e Link). Com cartão do exterior há uma tarifa fixa por saque e um valor máximo por vez: vale a pena sacar menos vezes e mais quantia.

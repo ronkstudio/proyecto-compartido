@@ -876,3 +876,18 @@
 876|Moved to this address in May 2026, according to its official website. Check before you go.
 877|The city's main tourist office, a short walk from the Eiffel Tower. Information, maps and tickets.
 878|Passports, documents and help for its citizens. Address confirmed by the German Federal Foreign Office.
+879|Paying by card, little by little
+880|Paying by tapping a contactless card still doesn't work on most of the metro: for now it works on many buses, the Montmartre funicular and line 14 from Orly airport. It will be added line by line over the coming years.
+881|Trains across France and to Versailles: timetables, tickets and delays.
+882|Paris Centre police station (arrondissements 1 to 4)
+883|For the Louvre, the Marais, Châtelet and the Île de la Cité. Open 24 hours.
+884|8th arrondissement police station
+885|The closest to the Champs-Élysées and Place de la Concorde. Open 24 hours.
+886|10th arrondissement police station
+887|Near Gare du Nord and Gare de l'Est. Open 24 hours.
+888|11th arrondissement police station
+889|For Bastille and the Oberkampf bar area. Open 24 hours.
+890|12th arrondissement police station
+891|Near Gare de Lyon. Open 24 hours.
+892|Portugal · Consulate General
+893|Passports, documents and help for its citizens. Address confirmed on the official website of the Portuguese government (gov.pt).

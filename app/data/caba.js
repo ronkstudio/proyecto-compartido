@@ -876,13 +876,16 @@ window.CITY_DATA.caba = {
   ],
 
   /* ───────────── SEGURIDAD ───────────── */
+  /* Revisado el 14/11/2026 contra turismo.buenosaires.gob.ar (Seguridad y salud): 911, 103, 107, Comisaría del Turista y Defensoría del Turista (tarjeta #183). */
   emergencies: [
     { n: "911", t: "Policía y emergencias" },
     { n: "107", t: "SAME · ambulancias" },
     { n: "100", t: "Bomberos" },
     { n: "+54 11 5050-9260", t: "Comisaría del Turista" },
     { n: "144", t: "Violencia de género" },
-    { n: "147", t: "Atención ciudadana" }
+    { n: "147", t: "Atención ciudadana" },
+    { n: "103", t: "Emergencias de la Ciudad (Defensa Civil)" },
+    { n: "+54 9 11 5026-1318", t: "Defensoría del Turista (también WhatsApp)" }
   ],
   safety: [
     { icon: "📵", title: "Lo más común: robo de celulares", tone: "warn", items: [
@@ -922,6 +925,7 @@ window.CITY_DATA.caba = {
       { t: "Moneda", d: "Peso argentino (ARS). Los precios cambian seguido: tomá cualquier valor como orientativo." },
       { t: "Tarjetas", d: "Se aceptan en casi todos lados, incluso con el celular. Para ferias, kioscos y propinas conviene llevar algo de efectivo." },
       { t: "Cambio", d: "Cambiá en casas de cambio oficiales o bancos. Compará la cotización antes: suele haber diferencias entre opciones." },
+      { t: "Cajeros", d: "Usá los de bancos (redes Banelco y Link). Con tarjeta del exterior cobran una comisión fija por cada extracción y hay un monto máximo por vez: conviene sacar pocas veces y más cantidad." },
       { t: "Propina", d: "En restaurantes se deja alrededor del 10 %, normalmente en efectivo. En taxis no es obligatoria; se suele redondear." },
       { t: "Cubierto", d: "Muchos restaurantes cobran un cargo fijo por persona llamado 'cubierto'. No es propina." }
     ] },

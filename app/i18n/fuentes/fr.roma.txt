@@ -872,3 +872,6 @@
 872|Ouvert par saisons : consultez leur site. Il y a des bus depuis Rome.
 873|Salutation en entrant dans un commerce (l'après-midi, « Buonasera »)
 874|Au comptoir : c'est un expresso
+875|Trains à grande vitesse vers les grandes villes d'Italie : horaires et billets.
+876|Trains régionaux, y compris vers l'aéroport de Fiumicino (FL1), et la ligne B du métro (Piramide).
+877|Gare de trains régionaux à quelques rues du Vatican.

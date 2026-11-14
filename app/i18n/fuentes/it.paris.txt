@@ -876,3 +876,18 @@
 876|Si è trasferito a questo indirizzo a maggio 2026, secondo il suo sito ufficiale. Verifica prima di andare.
 877|Il principale ufficio turistico della città, a due passi dalla Torre Eiffel. Informazioni, mappe e biglietti.
 878|Passaporti, documenti e assistenza ai propri cittadini. Indirizzo confermato dal Ministero degli Esteri tedesco.
+879|Con la carta, un po' alla volta
+880|Pagare avvicinando la carta contactless non funziona ancora in quasi tutta la metro: per ora si può su molti autobus, sulla funicolare di Montmartre e sulla linea 14 dall'aeroporto di Orly. Verrà esteso linea per linea nei prossimi anni.
+881|Treni per tutta la Francia e per Versailles: orari, biglietti e ritardi.
+882|Commissariato di Parigi Centro (arrondissement dal 1 al 4)
+883|Per il Louvre, il Marais, Châtelet e l'Île de la Cité. Aperto 24 ore su 24.
+884|Commissariato dell'8° arrondissement
+885|Il più vicino agli Champs-Élysées e a Place de la Concorde. Aperto 24 ore su 24.
+886|Commissariato del 10° arrondissement
+887|Vicino alla Gare du Nord e alla Gare de l'Est. Aperto 24 ore su 24.
+888|Commissariato dell'11° arrondissement
+889|Per la Bastiglia e la zona dei locali di Oberkampf. Aperto 24 ore su 24.
+890|Commissariato del 12° arrondissement
+891|Vicino alla Gare de Lyon. Aperto 24 ore su 24.
+892|Portogallo · Consolato generale
+893|Passaporti, documenti e assistenza ai propri cittadini. Indirizzo confermato sul sito ufficiale del governo portoghese (gov.pt).

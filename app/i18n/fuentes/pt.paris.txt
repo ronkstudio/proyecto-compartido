@@ -876,3 +876,18 @@
 876|Mudou-se para este endereço em maio de 2026, segundo o site oficial. Confirme antes de ir.
 877|O principal escritório de turismo da cidade, a poucos passos da Torre Eiffel. Informações, mapas e ingressos.
 878|Passaportes, documentos e ajuda aos seus cidadãos. Endereço confirmado pelo Ministério das Relações Exteriores da Alemanha.
+879|Com o cartão, aos poucos
+880|Pagar aproximando o cartão por aproximação ainda não funciona em quase todo o metrô: por enquanto funciona em muitos ônibus, no funicular de Montmartre e na linha 14 a partir do aeroporto de Orly. Vai ser ampliado linha por linha nos próximos anos.
+881|Trens para toda a França e para Versalhes: horários, passagens e atrasos.
+882|Delegacia de Paris Centro (distritos 1 a 4)
+883|Para o Louvre, o Marais, Châtelet e a Île de la Cité. Atende 24 horas.
+884|Delegacia do 8º distrito
+885|A mais próxima da Champs-Élysées e da Praça da Concórdia. Atende 24 horas.
+886|Delegacia do 10º distrito
+887|Perto da Gare du Nord e da Gare de l'Est. Atende 24 horas.
+888|Delegacia do 11º distrito
+889|Para a Bastilha e a região de bares de Oberkampf. Atende 24 horas.
+890|Delegacia do 12º distrito
+891|Perto da Gare de Lyon. Atende 24 horas.
+892|Portugal · Consulado-Geral
+893|Passaportes, documentos e ajuda aos seus cidadãos. Endereço confirmado no site oficial do governo de Portugal (gov.pt).

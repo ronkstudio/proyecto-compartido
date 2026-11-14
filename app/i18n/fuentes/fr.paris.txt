@@ -876,3 +876,18 @@
 876|A déménagé à cette adresse en mai 2026, selon son site officiel. Vérifiez avant d'y aller.
 877|Le principal office de tourisme de la ville, à deux pas de la tour Eiffel. Informations, plans et billets.
 878|Passeports, documents et aide à ses ressortissants. Adresse confirmée par le ministère allemand des Affaires étrangères.
+879|Par carte bancaire, petit à petit
+880|Payer en présentant sa carte sans contact ne fonctionne pas encore dans la plupart du métro : pour l'instant, c'est possible dans de nombreux bus, au funiculaire de Montmartre et sur la ligne 14 depuis l'aéroport d'Orly. Le service sera étendu ligne par ligne dans les prochaines années.
+881|Trains dans toute la France et vers Versailles : horaires, billets et retards.
+882|Commissariat de Paris Centre (1er à 4e arrondissements)
+883|Pour le Louvre, le Marais, Châtelet et l'île de la Cité. Ouvert 24 h/24.
+884|Commissariat du 8e arrondissement
+885|La plus proche des Champs-Élysées et de la place de la Concorde. Ouvert 24 h/24.
+886|Commissariat du 10e arrondissement
+887|Près de la gare du Nord et de la gare de l'Est. Ouvert 24 h/24.
+888|Commissariat du 11e arrondissement
+889|Pour Bastille et le quartier des bars d'Oberkampf. Ouvert 24 h/24.
+890|Commissariat du 12e arrondissement
+891|Près de la gare de Lyon. Ouvert 24 h/24.
+892|Portugal · Consulat général
+893|Passeports, documents et aide à ses ressortissants. Adresse confirmée sur le site officiel du gouvernement portugais (gov.pt).

@@ -872,3 +872,6 @@
 872|Schau in dein E-Mail-Postfach!
 873|Wir haben dir einen Link geschickt. Öffne ihn auf diesem Gerät und du bist drin.
 874|Inzwischen weitermachen
+875|Notfälle der Stadt (Zivilschutz)
+876|Touristen-Ombudsstelle (auch WhatsApp)
+877|Nutze Geldautomaten von Banken (Netze Banelco und Link). Mit einer ausländischen Karte fällt pro Abhebung eine feste Gebühr an, und es gibt einen Höchstbetrag pro Vorgang: Hebe lieber selten und dafür mehr ab.
