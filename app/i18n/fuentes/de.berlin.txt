@@ -1059,3 +1059,143 @@
 1059|Ideal für Kinder zwischen 4 und 12 Jahren. Unter der Woche nur nachmittags geöffnet; in der Nähe gibt es mehrere Spielplätze.
 1060|Am Wochenende gibt es Themenprogramme. An den Parkeingängen wird gebaut: Folge den Schildern.
 1061|Kauf das Zeitfensterticket online. Ein guter kurzer Plan für einen Regentag.
+1062|In dem Gebäude, in dem die Verschwörer des Hitler-Attentats von 1944 erschossen wurden: eine Ausstellung über die Menschen, die dem Nationalsozialismus Widerstand leisteten.
+1063|Der Eintritt ist frei. Schau dir den Hof an, dort steht das Denkmal für die Hingerichteten.
+1064|Ein Betonblock am Rand des Tiergartens mit einem kleinen Fenster, in dem ein Video von zwei Menschen läuft, die sich küssen.
+1065|Es liegt gegenüber dem Denkmal für die ermordeten Juden Europas: am besten zusammen besuchen.
+1066|Ein dunkles, rundes Becken mit einem Stein in der Mitte, auf den jeden Tag eine frische Blume gelegt wird, neben dem Reichstag.
+1067|Ein Ort der Stille. Wenige Schritte vom Reichstag und vom Brandenburger Tor entfernt.
+1068|Das Rathaus Berlins, aus rotem Backstein und mit einem 74 Meter hohen Turm, gegenüber dem Neptunbrunnen.
+1069|An Werktagen kann man die Halle und einige Säle betreten: frag am Eingang.
+1070|Der große Barockbrunnen mit Neptun und vier Frauen, die die Flüsse Preußens darstellen, zwischen Rotem Rathaus und Marienkirche.
+1071|Schönes Foto mit dem Fernsehturm im Hintergrund.
+1072|Eine der ältesten Kirchen Berlins, aus dem 13. Jahrhundert, am Fuß des Fernsehturms. Innen gibt es ein mittelalterliches Totentanz-Gemälde.
+1073|Der Eintritt ist frei. An manchen Tagen gibt es Orgelkonzerte.
+1074|Barockkirche mit dem ältesten erhaltenen Kirchturm Berlins, versteckt in einem grünen Hof im Scheunenviertel.
+1075|Kombiniere sie mit einem Spaziergang durch die Große Hamburger Straße und die Hackeschen Höfe.
+1076|Kleiner, baumreicher Friedhof, auf dem Bertolt Brecht, Hegel, Fichte und viele Berliner Künstler begraben sind.
+1077|Am Eingang gibt es einen Plan mit den bekannten Gräbern. Nebenan steht das Brecht-Haus.
+1078|Das Einzige, was vom einst größten Bahnhof Berlins übrig ist: ein Stück Fassade, das den Krieg überstanden hat.
+1079|Zwei Blocks von der Topographie des Terrors und dem Deutschen Technikmuseum entfernt.
+1080|Krieg
+1081|Eine Renaissancefestung, umgeben von Wasser, eine der besterhaltenen Europas, mit Museen und dem mittelalterlichen Juliusturm.
+1082|Mit der U7 bis Zitadelle. Im Sommer gibt es Open-Air-Konzerte im Hof.
+1083|Das weiße Schloss aus dem 18. Jahrhundert, in dem der deutsche Bundespräsident wohnt und arbeitet, am Rand des Tiergartens.
+1084|Man sieht es von außen. Wenn die Flagge gehisst ist, ist der Bundespräsident in Berlin.
+1085|Drei 30 Meter hohe Aluminiumfiguren, die sich mitten in der Spree treffen, dort wo drei Bezirke aus Ost und West aneinanderstießen.
+1086|Am besten sieht man ihn von der Elsenbrücke oder von einem Boot auf der Spree.
+1087|Ein riesiger Park mit Gärten verschiedener Kulturen: chinesisch, japanisch, koreanisch, orientalisch und italienisch, dazu eine Seilbahn.
+1088|Mit der U5 bis Kienberg. Plane einen halben Tag ein; im Frühling ist er am schönsten.
+1089|In einem alten Offizierskasino neben dem Bahnhof Zoo, mit der Sammlung von Helmut Newton und Fotoausstellungen.
+1090|Montags geschlossen. Wenige Schritte vom Bahnhof Zoologischer Garten entfernt.
+1091|Zeichnungen, Drucke und Skulpturen von Käthe Kollwitz, der großen Berliner Künstlerin, im Theaterbau des Schlosses Charlottenburg.
+1092|Es liegt gegenüber dem Schloss Charlottenburg: am besten zusammen besuchen.
+1093|Café im Wiener Stil Unter den Linden, ein Klassiker bei Politikern und Journalisten: Apfelstrudel, Schnitzel und Zeitungen zum Lesen.
+1094|Guter Stopp zwischen Brandenburger Tor und Museumsinsel. Bestell den Apfelstrudel.
+1095|Historisches Café an der Karl-Marx-Allee, seit 1953 geöffnet, mit einer kleinen Ausstellung über die Prachtstraße der DDR.
+1096|Guter Stopp zum Ausruhen, während du die Allee entlanggehst.
+1097|Café und Blumenladen in Prenzlauer Berg, bekannt für Frühstück auf Etageren.
+1098|Am Wochenende ist es zum Frühstück voll: komm früh.
+1099|Eine winzige Espressobar in Schöneberg mit Schlange auf dem Gehweg: für viele einer der besten Kaffees der Stadt.
+1100|Man trinkt schnell und im Stehen. Bestell den Latte des Hauses.
+1101|Spezialität
+1102|Café im Hof eines Ballsaals aus dem 19. Jahrhundert, mitten im ältesten Teil von Neukölln.
+1103|Der Hof ist ideal an schönen Tagen. In der Nähe von Rixdorf, dem Böhmischen Dorf.
+1104|Specialty Coffee mit Magazinen aus aller Welt, im Norden von Kreuzberg.
+1105|Etwa zehn Minuten zu Fuß vom Jüdischen Museum und vom Checkpoint Charlie.
+1106|Pionier der Kaffeerösterei in Berlin, mit Bagels, Cheesecake und Brownies in der Bergmannstraße.
+1107|Das Wochenendfrühstück ist seine Stärke.
+1108|Café und Konditorei am Kollwitzplatz, bekannt für riesige hausgemachte Torten.
+1109|Ideal für Kaffee und Kuchen nach dem Samstagsmarkt am Kollwitzplatz.
+1110|Konditorei und Café in Neukölln, in dem alles pflanzlich ist (ohne tierische Produkte, laut seiner Website): Torten, Tartes und Gebäck.
+1111|In der Nähe des Tempelhofer Felds: guter Stopp vor oder nach dem Spaziergang.
+1112|Nahöstliche Küche zum Teilen im obersten Stock des 25hours Hotels, mit Blick auf den Zoo.
+1113|Reservier und frag nach einem Fensterplatz: Man sieht den Zoo von oben.
+1114|Aussicht
+1115|Naher Osten
+1116|Nahöstliche Küche am Landwehrkanal: Hummus, Shakshuka und ausgiebiges Frühstück.
+1117|Ideal zum Frühstück oder für ein spätes Mittagessen. Am Wochenende voll.
+1118|Türkisches Restaurant mit Tischen am Landwehrkanal: Meze, Fisch und Ofengerichte.
+1119|Im Sommer einen Tisch draußen am Kanal reservieren.
+1120|türkisch
+1121|Kanal
+1122|Rheinische Kneipe am Spreeufer voller Fotos der deutschen Politik, mit Kölsch und Hausmannskost.
+1123|Bestell ein Kölsch: Es kommt in kleinen Gläsern, die immer wieder nachgefüllt werden.
+1124|deutsche Küche
+1125|Elsässische Küche am Kollwitzplatz: Flammkuchen, Choucroute und Weine aus der Region.
+1126|Bestell den Flammkuchen, einen dünnen Teig mit Schmand, Zwiebeln und Speck.
+1127|Brathähnchen mit Knoblauchsoße, ein Klassiker der „arabischen Straße“ in Neukölln.
+1128|Schnell und günstig. Bestell das Hähnchen mit Pommes und Knoblauchsoße.
+1129|Kiezgasthaus mit langen Gemeinschaftstischen, Flammkuchen und deutscher und elsässischer Küche, im Sommer mit Garten.
+1130|Wenn ihr nur wenige seid, sitzt ihr vielleicht an einem geteilten Tisch: Das gehört zum Charme.
+1131|Luxushotel im ehemaligen Bankgebäude am Bebelplatz, mit Pool im Tresorraum und Dachterrasse.
+1132|Auch ohne Übernachtung kannst du im Sommer etwas auf der Terrasse trinken.
+1133|Hotel im Jugendstilgebäude von 1913 des ehemaligen Hotels am Steinplatz, mit eigener Bar und eigenem Restaurant, nahe Bahnhof Zoo.
+1134|Gut gelegen, um den Westen zu erkunden: Kurfürstendamm, Zoo und Gedächtniskirche.
+1135|Hotel für LGBT+-Gäste und offen für alle, nahe Nollendorfplatz, mit Dachterrasse.
+1136|Es liegt im LGBT+-Ausgehviertel von Schöneberg.
+1137|Das größte Hotel Deutschlands, an einem Kanal, mit eigener Show von Star-Doubles.
+1138|Es liegt weit vom Zentrum, aber mit der S-Bahn kommst du überallhin.
+1139|Shows
+1140|Boutiquehotel in zwei Altbauten mit Innengarten, in einer ruhigen Straße in Prenzlauer Berg.
+1141|Sehr ruhig und nahe Kollwitzplatz. Ideal für Paare.
+1142|Großes Hotel am Tiergarten und am Zoo, mit Spa und einem Restaurant im 14. Stock mit Blick über die Stadt.
+1143|Praktisch für Familien: Zoo und Park liegen direkt gegenüber.
+1144|Park
+1145|Klassisches Hotel am Kurfürstendamm, wenige Blocks von der Gedächtniskirche.
+1146|Ideal zum Einkaufen am Ku'damm und im KaDeWe.
+1147|Kleine Pension mit individuell eingerichteten Zimmern, gegenüber dem Mauerpark.
+1148|Wenige Schritte vom Sonntagsflohmarkt und der U2 Eberswalder Straße.
+1149|Hotel eines privaten Clubs in einem historischen Gebäude aus den 1920er-Jahren, mit Dachpool für Gäste.
+1150|Gäste können die Terrasse und den Pool oben nutzen.
+1151|Apartments mit Küche und Hotelservice an der East Side Gallery und der Spree.
+1152|Gut für längere Aufenthalte oder zum Selberkochen.
+1153|Küche
+1154|Großes Hostel neben dem S-Bahnhof Landsberger Allee, mit Mehrbett- und Einzelzimmern.
+1155|Mit der Ringbahn bist du schnell in Friedrichshain und im Zentrum.
+1156|Modernes Hotel an der Spree, nahe Ostbahnhof und East Side Gallery.
+1157|Gut gelegen für das Nachtleben in Friedrichshain und Kreuzberg.
+1158|Die zweitgrößte Stadt Deutschlands: ein riesiger Hafen, Kanäle, die Speicherstadt aus Backstein (UNESCO) und die Elbphilharmonie.
+1159|Mit dem ICE in weniger als zwei Stunden. Geh auf die Plaza der Elbphilharmonie, sie ist kostenlos.
+1160|Hafen
+1161|Die Stadt, die der Region ihren Namen gab, umgeben von Flüssen und Seen, mit einem über 800 Jahre alten Dom.
+1162|Mit dem Regionalzug unter einer Stunde. Ideal im Sommer zusammen mit einer Bootsfahrt.
+1163|Die Ruinen eines gotischen Backsteinklosters aus dem 13. Jahrhundert, mitten im Wald und an einem See.
+1164|Im Sommer gibt es klassische Konzerte in den Ruinen. Erreichbar mit dem Regionalzug.
+1165|Das Landhaus im englischen Stil, in dem sich 1945 Truman, Stalin und Churchill (später ersetzt durch Attlee) trafen, um über die Zukunft Nachkriegsdeutschlands zu entscheiden.
+1166|Kombiniere es mit dem Neuen Garten und dem Rest von Potsdam an einem Tag.
+1167|Das älteste erhaltene Schloss der Potsdamer Gegend, am Seeufer, mit barocken Sälen voller Fliesen.
+1168|In der Nähe steht das Sommerhaus von Albert Einstein. Erreichbar mit dem Bus ab Potsdam.
+1169|Ein Kurort am Ufer eines der größten Seen der Region, mit Stränden, Therme und Spazierwegen.
+1170|Mit dem Regionalzug in anderthalb Stunden. Im Sommer ideal zum Schwimmen.
+1171|Therme
+1172|Ein Baumkronenpfad über einer alten, verlassenen Heilstätte mit überwucherten Backsteinbauten.
+1173|Mit dem Regionalzug bis Beelitz-Heilstätten. Die Ruinen sieht man nur vom Pfad aus oder mit einer Führung.
+1174|Die Porzellanstadt an der Elbe, mit einer gotischen Burg und einem Dom hoch oben auf dem Hügel.
+1175|Kombiniere sie mit Dresden: eine halbe Stunde mit dem Regionalzug.
+1176|Polizeiabschnitt 15
+1177|Am nächsten zum Mauerpark und zur Kastanienallee.
+1178|Polizeiwache Kottbusser Tor
+1179|Kleine Wache direkt am Kottbusser Tor, einer Gegend, in der nachts viel los ist.
+1180|Polizeiabschnitt 54
+1181|Am nächsten zum Kneipenviertel von Neukölln.
+1182|Polizeiabschnitt 41
+1183|Am nächsten zu Schöneberg und zum Nollendorfplatz.
+1184|Öffentlich. Notaufnahme rund um die Uhr; am nächsten zum Süden von Schöneberg.
+1185|Notaufnahme rund um die Uhr; nahe dem Tempelhofer Park.
+1186|Notaufnahme rund um die Uhr; am nächsten zu Wilmersdorf.
+1187|Universitätsklinikum. Notaufnahme rund um die Uhr; für den Südwesten der Stadt.
+1188|Fernzüge Richtung Süden (Leipzig, München, Dresden) und S-Bahn zum Flughafen.
+1189|Fernzüge Richtung Norden (Hamburg, Rostock, Ostsee), S-Bahn und U8.
+1190|Großer Knotenpunkt im Zentrum: S-Bahn, Regionalzüge zum Flughafen, U2, U5 und U8, Straßenbahnen und Busse.
+1191|Fernzüge Richtung Westen (Hamburg, Hannover), die Zitadelle Spandau liegt in der Nähe.
+1192|Für Reisen außerhalb Berlins
+1193|Züge der Deutschen Bahn in ganz Deutschland: Fahrpläne, Tickets und Verspätungen live.
+1194|Günstige Fernbusse und Fernzüge.
+1195|Die andere große Essenslieferdienst-App in Deutschland.
+1196|Überraschungstüten mit übrig gebliebenem Essen von Bäckereien und Restaurants, günstig.
+1197|Um Deutsch zu verstehen
+1198|Übersetzt Schilder und Speisekarten mit der Kamera, auch offline, wenn du Deutsch herunterlädst.
+1199|Sehr natürliche Übersetzungen von Texten und Gesprächen.
+1200|Günstige Prepaid-SIM: gibt es an der Kasse jedes Lidl
+1201|Vergiftungen (Giftnotruf, 24 h)

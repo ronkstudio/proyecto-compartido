@@ -1059,3 +1059,143 @@
 1059|Ideale per bambini tra 4 e 12 anni. Nei giorni feriali apre solo il pomeriggio; vicino ci sono diversi parchi giochi.
 1060|Nei fine settimana ci sono programmi a tema. Ci sono lavori agli ingressi del parco: segui i cartelli.
 1061|Compra il biglietto con orario online. Buon programma breve per una giornata di pioggia.
+1062|Nell'edificio dove furono fucilati i congiurati dell'attentato a Hitler del 1944, una mostra su chi resistette al nazismo.
+1063|L'ingresso è libero. Guarda il cortile, dove si trova il monumento ai fucilati.
+1064|Un blocco di cemento al margine del Tiergarten con una piccola finestra in cui si vede un video di due persone che si baciano.
+1065|Si trova di fronte al Memoriale agli ebrei assassinati d'Europa: si visitano insieme.
+1066|Una vasca circolare scura con una pietra al centro dove ogni giorno si mette un fiore fresco, accanto al Reichstag.
+1067|È un luogo di silenzio. Si trova a pochi passi dal Reichstag e dalla Porta di Brandeburgo.
+1068|Il municipio di Berlino, in mattoni rossi e con una torre di 74 metri, di fronte alla Fontana di Nettuno.
+1069|Nei giorni feriali si può entrare nell'atrio e in alcune sale: chiedi all'ingresso.
+1070|La grande fontana barocca con Nettuno e quattro donne che rappresentano i fiumi della Prussia, tra il Municipio Rosso e la Marienkirche.
+1071|Bella foto con la Torre della Televisione sullo sfondo.
+1072|Una delle chiese più antiche di Berlino, del XIII secolo, ai piedi della Torre della Televisione. All'interno c'è un dipinto medievale della «danza macabra».
+1073|L'ingresso è libero. In alcuni giorni ci sono concerti d'organo.
+1074|Chiesa barocca con la torre più antica rimasta a Berlino, nascosta in un cortile verde dello Scheunenviertel.
+1075|Abbinala a una passeggiata lungo la Große Hamburger Straße e gli Hackesche Höfe.
+1076|Piccolo cimitero alberato dove sono sepolti Bertolt Brecht, Hegel, Fichte e molti artisti berlinesi.
+1077|All'ingresso c'è una mappa con le tombe famose. Accanto c'è la casa di Brecht.
+1078|L'unica cosa che resta di quella che fu la stazione più grande di Berlino: un pezzo di facciata sopravvissuto alla guerra.
+1079|Si trova a due isolati dalla Topografia del Terrore e dal Museo tedesco della tecnica.
+1080|guerra
+1081|Una fortezza rinascimentale circondata dall'acqua, una delle meglio conservate d'Europa, con musei e la torre medievale Juliusturm.
+1082|Prendi la U7 fino a Zitadelle. D'estate ci sono concerti all'aperto nel cortile.
+1083|Il palazzo bianco del XVIII secolo dove vive e lavora il presidente della Germania, al margine del Tiergarten.
+1084|Si vede da fuori. Se la bandiera è issata, il presidente è a Berlino.
+1085|Tre figure di alluminio di 30 metri che si uniscono in mezzo alla Sprea, dove si incrociavano tre quartieri dell'Est e dell'Ovest.
+1086|Si vede meglio dal ponte Elsenbrücke o da una barca sulla Sprea.
+1087|Un parco enorme con giardini di diverse culture: cinese, giapponese, coreano, orientale e italiano, e una funivia.
+1088|Prendi la U5 fino a Kienberg. Calcola mezza giornata; in primavera è al suo meglio.
+1089|In un vecchio circolo ufficiali accanto alla stazione Zoo, con la collezione di Helmut Newton e mostre di fotografia.
+1090|Chiuso il lunedì. Si trova a pochi passi dalla stazione Zoologischer Garten.
+1091|Disegni, incisioni e sculture di Käthe Kollwitz, la grande artista berlinese, nel teatro del Castello di Charlottenburg.
+1092|Si trova di fronte al Castello di Charlottenburg: si visitano insieme.
+1093|Caffè in stile viennese su Unter den Linden, classico di politici e giornalisti: strudel di mele, schnitzel e giornali da leggere.
+1094|Buona sosta tra la Porta di Brandeburgo e l'Isola dei Musei. Ordina lo strudel di mele.
+1095|Caffè storico della Karl-Marx-Allee, aperto dal 1953, con una piccola mostra sul viale della DDR.
+1096|Buona sosta per riposare mentre percorri il viale.
+1097|Caffè e fioraio a Prenzlauer Berg, famoso per le colazioni servite su vassoi a più piani.
+1098|Nei fine settimana si riempie per la colazione: vai presto.
+1099|Un minuscolo bancone di espresso a Schöneberg con la fila sul marciapiede: per molti, uno dei migliori caffè della città.
+1100|Si beve in fretta e in piedi. Ordina il latte della casa.
+1101|specialità
+1102|Caffè nel cortile di una sala da ballo del XIX secolo, nel cuore della Neukölln più antica.
+1103|Il cortile è ideale nelle belle giornate. È vicino a Rixdorf, il quartiere bohémien.
+1104|Caffè specialty con riviste da tutto il mondo, nel nord di Kreuzberg.
+1105|Si trova a una decina di minuti a piedi dal Museo ebraico e dal Checkpoint Charlie.
+1106|Pioniere del caffè tostato a Berlino, con bagel, cheesecake e brownie sulla Bergmannstraße.
+1107|Le colazioni del fine settimana sono il suo punto forte.
+1108|Caffè e pasticceria di fronte alla Kollwitzplatz, famoso per le sue enormi torte fatte in casa.
+1109|Ideale per la merenda dopo il mercato del sabato sulla Kollwitzplatz.
+1110|Pasticceria e caffè a Neukölln dove tutto è vegetale (senza prodotti animali, secondo il suo sito): torte, crostate e dolci.
+1111|Si trova vicino al Tempelhofer Feld: buona sosta prima o dopo la passeggiata.
+1112|Cucina mediorientale da condividere all'ultimo piano dell'hotel 25hours, con vista sullo Zoo.
+1113|Prenota e chiedi un tavolo vicino alla finestra: si vede lo Zoo dall'alto.
+1114|viste
+1115|Medio Oriente
+1116|Cucina mediorientale lungo il canale Landwehr: hummus, shakshuka e colazioni lunghe.
+1117|Ideale per colazione o un pranzo tardi. Nei fine settimana si riempie.
+1118|Ristorante turco con tavoli lungo il canale Landwehr: mezze, pesce e piatti al forno.
+1119|D'estate prenota un tavolo fuori, lungo il canale.
+1120|turco
+1121|canale
+1122|Birreria renana sulle rive della Sprea, piena di foto della politica tedesca, con birra Kölsch e cucina casalinga.
+1123|Ordina la birra Kölsch: la servono in bicchieri piccoli che ti continuano a riempire.
+1124|cucina tedesca
+1125|Cucina alsaziana sulla Kollwitzplatz: flammkuchen, choucroute e vini della regione.
+1126|Ordina la flammkuchen, una pasta sottile con panna, cipolla e pancetta.
+1127|Pollo arrosto con salsa all'aglio, un classico della «strada araba» di Neukölln.
+1128|Si mangia in fretta e si spende poco. Ordina il pollo con patatine e salsa all'aglio.
+1129|Taverna di quartiere con lunghi tavoli condivisi, flammkuchen e cucina tedesca e alsaziana, con giardino d'estate.
+1130|Se siete in pochi, possono farvi sedere a un tavolo condiviso: fa parte del fascino.
+1131|Hotel di lusso nel vecchio edificio di una banca di fronte alla Bebelplatz, con piscina nel caveau e terrazza sul tetto.
+1132|Anche se non alloggi qui, d'estate puoi bere qualcosa in terrazza.
+1133|Hotel nell'edificio liberty del 1913 dell'ex Hotel am Steinplatz, con bar e ristorante propri, vicino alla stazione Zoo.
+1134|Ben posizionato per girare l'ovest: Kurfürstendamm, lo Zoo e la chiesa della Memoria.
+1135|Hotel pensato per il pubblico LGBT+ e aperto a tutti, vicino alla Nollendorfplatz, con terrazza sul tetto.
+1136|Si trova nella zona della vita notturna LGBT+ di Schöneberg.
+1137|L'hotel più grande della Germania, lungo un canale, con il suo spettacolo di sosia di star.
+1138|È lontano dal centro, ma con la S-Bahn arrivi ovunque.
+1139|spettacoli
+1140|Hotel boutique in due case antiche con un giardino interno, in una via tranquilla di Prenzlauer Berg.
+1141|Molto tranquillo e vicino alla Kollwitzplatz. Ideale per le coppie.
+1142|Grande hotel accanto al Tiergarten e allo Zoo, con spa e un ristorante al 14° piano con vista sulla città.
+1143|Comodo per le famiglie: lo Zoo e il parco sono proprio di fronte.
+1144|parco
+1145|Hotel classico sul Kurfürstendamm, a pochi isolati dalla chiesa della Memoria.
+1146|Ideale per fare shopping sul Ku'damm e al KaDeWe.
+1147|Piccola pensione con camere arredate una per una, di fronte al Mauerpark.
+1148|Si trova a pochi passi dal mercatino delle pulci della domenica e dalla U2 Eberswalder Straße.
+1149|Hotel di un club privato in un edificio storico degli anni Venti, con piscina sul tetto per gli ospiti.
+1150|Gli ospiti possono usare la terrazza e la piscina in cima.
+1151|Appartamenti con cucina e servizi d'hotel accanto alla East Side Gallery e alla Sprea.
+1152|Buono per soggiorni lunghi o per cucinare da sé.
+1153|cucina
+1154|Grande ostello accanto alla stazione S-Bahn Landsberger Allee, con camere condivise e private.
+1155|Con la S-Bahn ad anello arrivi in fretta a Friedrichshain e in centro.
+1156|Hotel moderno lungo la Sprea, vicino alla stazione Ostbahnhof e alla East Side Gallery.
+1157|Ben posizionato per la vita notturna di Friedrichshain e Kreuzberg.
+1158|La seconda città della Germania: un porto enorme, canali, il quartiere dei magazzini in mattoni (UNESCO) e la sala da concerti Elbphilharmonie.
+1159|Con il treno veloce ci vogliono meno di due ore. Sali sulla terrazza panoramica dell'Elbphilharmonie, che è gratuita.
+1160|porto
+1161|La città che ha dato il nome alla regione, circondata da fiumi e laghi, con una cattedrale di oltre 800 anni.
+1162|Con il treno regionale ci vuole meno di un'ora. Ideale d'estate abbinata a un giro in barca.
+1163|Le rovine di un monastero gotico in mattoni rossi del XIII secolo, in mezzo al bosco e accanto a un lago.
+1164|D'estate ci sono concerti di musica classica tra le rovine. Si arriva in treno regionale.
+1165|La casa di campagna in stile inglese dove nel 1945 si riunirono Truman, Stalin e Churchill (poi sostituito da Attlee) per decidere il futuro della Germania del dopoguerra.
+1166|Abbinalo al Neuer Garten e al resto di Potsdam in giornata.
+1167|Il palazzo più antico conservato della zona di Potsdam, sulla riva del lago, con sale barocche decorate con piastrelle.
+1168|Vicino c'è la casa estiva di Albert Einstein. Si arriva in autobus da Potsdam.
+1169|Un paese termale sulla riva di uno dei laghi più grandi della regione, con spiagge, terme e passeggiate.
+1170|Si arriva in treno regionale in un'ora e mezza. D'estate è ideale per nuotare.
+1171|terme
+1172|Una passerella tra le chiome degli alberi sopra un vecchio sanatorio abbandonato, con edifici in mattoni coperti di vegetazione.
+1173|Prendi il treno regionale fino a Beelitz-Heilstätten. Gli edifici in rovina si vedono solo dalla passerella o con visita guidata.
+1174|La città della porcellana, sulle rive dell'Elba, con un castello gotico e una cattedrale in cima alla collina.
+1175|Abbinala a Dresda: è a mezz'ora di treno regionale.
+1176|Commissariato 15
+1177|Il più vicino al Mauerpark e alla Kastanienallee.
+1178|Posto di polizia di Kottbusser Tor
+1179|Piccolo posto proprio sulla piazza di Kottbusser Tor, una zona molto animata di notte.
+1180|Commissariato 54
+1181|Il più vicino alla zona dei bar di Neukölln.
+1182|Commissariato 41
+1183|Il più vicino a Schöneberg e alla Nollendorfplatz.
+1184|Pubblico. Pronto soccorso 24 ore; il più vicino al sud di Schöneberg.
+1185|Pronto soccorso 24 ore; vicino al parco di Tempelhof.
+1186|Pronto soccorso 24 ore; il più vicino a Wilmersdorf.
+1187|Ospedale universitario. Pronto soccorso 24 ore; per il sud-ovest della città.
+1188|Treni a lunga percorrenza verso sud (Lipsia, Monaco, Dresda) e S-Bahn per l'aeroporto.
+1189|Treni a lunga percorrenza verso nord (Amburgo, Rostock, il Baltico), S-Bahn e U8.
+1190|Grande nodo del centro: S-Bahn, regionali per l'aeroporto, U2, U5 e U8, tram e autobus.
+1191|Treni a lunga percorrenza verso ovest (Amburgo, Hannover), con la cittadella di Spandau vicina.
+1192|Per viaggiare fuori Berlino
+1193|Treni della Deutsche Bahn in tutta la Germania: orari, biglietti e ritardi in tempo reale.
+1194|Autobus e treni economici a lunga percorrenza.
+1195|L'altra grande app di consegna di cibo in Germania.
+1196|Sacchetti a sorpresa con gli avanzi del giorno di panetterie e ristoranti, a prezzo basso.
+1197|Per capire il tedesco
+1198|Traduce cartelli e menù con la fotocamera, anche offline se scarichi il tedesco.
+1199|Traduzioni molto naturali di testi e conversazioni.
+1200|SIM prepagata economica: si compra alla cassa di qualsiasi Lidl
+1201|Intossicazioni (Giftnotruf, 24 ore)

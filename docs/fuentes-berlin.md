@@ -389,3 +389,23 @@ Si un lugar cierra o se muda, corregilo en `app/data/berlin-lugares.js` y anotal
 - **Kimchi Princess**, **Princess Cheesecake** y **Café Wintergarten im Literaturhaus**: sin ninguna señal de que sigan abiertos en 2026.
 - **Cielo di Berlino**: no es 100 % sin gluten y las fuentes para celíacos no coinciden; con un tema de salud, mejor no ponerlo.
 - Repetidos (mismo lugar en dos categorías): la Isla de los Pavos Reales queda solo en Excursiones; el Memorial de Hohenschönhausen solo como visita guiada; la cúpula del Reichstag, el aeropuerto de Tempelhof y la playa de Wannsee, una sola vez cada uno. Los mercados cubiertos quedan en Compras; Hackesche Höfe, Tiergarten y Tempelhofer Feld en Imperdibles; Rausch en Dónde comer; el Landwehrkanal en Deportes.
+
+## Lugares sumados el 14/11/2026 (tarjeta #174, `app/data/berlin-mas.js`)
+
+Cada lugar se buscó en OpenStreetMap por nombre (Nominatim y Overpass) y su dirección tiene que coincidir con la de OpenStreetMap; de ahí sale su ubicación. **No se confirmó uno por uno que sigan abiertos en 2026** los cafés, restaurantes y hoteles: OpenStreetMap dice que existen, no que sigan abiertos.
+
+- **Monumentos e historia (15):** Memorial de la Resistencia Alemana, memoriales a los homosexuales y a los sinti y roma perseguidos por el nazismo, Ayuntamiento Rojo, Fuente de Neptuno, Marienkirche, Sophienkirche, Cementerio de Dorotheenstadt, Ruina de la Estación Anhalter, Ciudadela de Spandau, Palacio de Bellevue, Molecule Man, Jardines del Mundo, Museo de Fotografía (smb.museum) y Museo Käthe Kollwitz (kaethe-kollwitz.berlin, ahora en Spandauer Damm 10).
+- **Cafés (9):** Café Einstein Unter den Linden, Café Sibylle (cafe-sibylle.org), Anna Blume, Double Eye, Café Rix, Café Westberlin (se mudó a Alexandrinenstraße 118-121), Barcomi's, SowohlAlsAuch (sowohlalsauch.berlin) y Café Vux (vux-berlin.com dice que todo es vegetal; no se cargó como dieta porque no hay una fuente aparte).
+- **Restaurantes (7):** Neni Berlin, Café Mugrabi (cafemugrabi.com, ahora en Planufer 92d), Defne, Ständige Vertretung, Gugelhof, City Chicken (Sonnenallee) y Gasthaus Renger-Patzsch.
+- **Hospedaje (12):** Hotel de Rome, Roomers Berlin (el edificio del ex Hotel am Steinplatz), Axel Hotel, Estrel, Ackselhaus, InterContinental, Hotel Bristol, Linnen, Soho House, Locke at East Side Gallery, Generator Prenzlauer Berg y Me and All Hotel East Side.
+- **Excursiones (8):** Hamburgo (hamburg.de), Brandeburgo an der Havel, Monasterio de Chorin, Palacio Cecilienhof, Palacio de Caputh, Bad Saarow, Baum & Zeit en Beelitz-Heilstätten (baumundzeit.de) y Meissen (albrechtsburg-meissen.de).
+
+**Quedaron afuera** porque no aparecen en OpenStreetMap con ese nombre (pueden haber cerrado): Café Einstein Stammhaus, Lode & Stijn, Schneeweiß, Restauration 1900, el café del Literaturhaus, Hüttenpalast, Almodóvar Hotel, Wombat's y el hotel Riehmers Hofgarten.
+
+## Ayuda, apps y fotos (tarjetas #173 y #133, 14/11/2026)
+
+- **Comisarías y hospitales nuevos:** OpenStreetMap (`amenity=police` y `amenity=hospital` con `emergency=yes`). Estaciones de tren: OpenStreetMap.
+- **Centro de intoxicaciones:** +49 30 19240, confirmado en giftnotruf.de (atiende las 24 horas).
+- **Apps:** número del App Store (itunes.apple.com) y nombre en Google Play revisados uno por uno. Jelbi quedó afuera porque no encontré su nombre en Google Play.
+- **Chip de Lidl Connect:** lidl-connect.de.
+- **Fotos:** Wikidata (foto principal P18, de Wikimedia Commons) solo si el elemento está a menos de 1,5 km del lugar. Se sacaron 12 que mostraban otra cosa o estaban repetidas (por ejemplo, la del Teufelsberg era la Torre de Radio).

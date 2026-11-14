@@ -161,6 +161,7 @@ window.CITY_DATA.berlin = {
     { n: "110", t: "Policía" },
     { n: "116 117", t: "Médico de guardia (no urgente)" },
     { n: "116 016", t: "Violencia contra mujeres" },
+    { n: "+49 30 19240", t: "Intoxicaciones (Giftnotruf, 24 h)" },
     { n: "+49 30 25 00 25", t: "Información turística (visitBerlin)" }
   ],
   safety: [
