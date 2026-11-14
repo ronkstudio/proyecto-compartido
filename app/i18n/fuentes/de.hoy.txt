@@ -1,0 +1,28 @@
+1|Diese Woche
+2|Januar
+3|Für heute ist nichts mehr da. Das kommt als Nächstes.
+4|Abends länger geöffnet: mittwochs und freitags
+5|Abends länger geöffnet: donnerstags
+6|Abends länger geöffnet: freitags
+7|Abends länger geöffnet: samstags
+8|Montags-Jam: erst ein Konzert, dann offene Bühne
+9|Kostenloser Abend am ersten Freitag im Monat
+10|Am ersten Sonntag im Monat kostenlos, mit Reservierung
+11|Am ersten Sonntag im Monat kostenlos
+12|Langer Abend am ersten Donnerstag im Monat
+13|Kostenloses Mittagskonzert im Foyer
+14|Jam-Session am Dienstag
+15|Late-Night-Jam-Session nach dem Konzert
+16|Klubnacht: beginnt Samstag um Mitternacht und geht bis Sonntag
+17|Familiensonntag: Angebote für Kinder
+18|Grüne Woche
+19|Die große Messe für Ernährung und Landwirtschaft auf dem Messegelände: Stände aus allen Regionen Deutschlands und anderen Ländern zum Probieren.
+20|Festival für zeitgenössische Musik der Berliner Festspiele, mit Konzerten und neuen Werken über zehn Tage.
+21|Morgen
+22|Dieser Monat und mehr
+23|Weihnachtsbeleuchtung auf den Champs-Élysées
+24|Der Weihnachtsmarkt auf den Champs-Élysées ist zurück
+25|30 Stunden am Stück geöffnet, Eintritt frei
+26|Weihnachtsmarkt am Gendarmenmarkt (WeihnachtsZauber)
+27|Weihnachtsmarkt am Schloss Charlottenburg
+28|Abends

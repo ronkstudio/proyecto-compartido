@@ -1,0 +1,28 @@
+1|Questa settimana
+2|Gennaio
+3|Per oggi non c'è più niente. Ecco cosa arriva.
+4|Aperto fino a sera: mercoledì e venerdì
+5|Aperto fino a sera: giovedì
+6|Aperto fino a sera: venerdì
+7|Aperto fino a sera: sabato
+8|La jam del lunedì: prima un concerto, poi palco aperto
+9|Apertura serale gratuita il primo venerdì del mese
+10|Gratis la prima domenica del mese, con prenotazione
+11|Gratis la prima domenica del mese
+12|Apertura serale il primo giovedì del mese
+13|Concerto gratuito all'ora di pranzo nel foyer
+14|Jam session del martedì
+15|Jam session a tarda notte, dopo il concerto
+16|Klubnacht: inizia sabato a mezzanotte e continua la domenica
+17|Domenica in famiglia: attività per bambini
+18|Settimana Verde (Grüne Woche)
+19|La grande fiera del cibo e dell'agricoltura nel quartiere fieristico: stand di tutte le regioni della Germania e di altri paesi per assaggiare di tutto.
+20|Festival di musica contemporanea dei Berliner Festspiele, con concerti e nuove opere per dieci giorni.
+21|Domani
+22|Questo mese e prossimamente
+23|Luci di Natale sugli Champs-Élysées
+24|Torna il mercatino di Natale degli Champs-Élysées
+25|Aperto 30 ore di fila, ingresso gratuito
+26|Mercatino di Natale del Gendarmenmarkt (WeihnachtsZauber)
+27|Mercatino di Natale del Castello di Charlottenburg
+28|Di sera

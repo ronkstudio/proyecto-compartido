@@ -275,3 +275,927 @@
 275|Neukölln und Schöneberg
 276|Mitte und Tiergarten
 277|Kreuzberg, Friedrichshain und Prenzlauer Berg
+278|Schloss
+279|Deutsche Küche
+280|Currywurst und Döner
+281|Café
+282|Bäckereien und Süßes
+283|Bar
+284|Brauhäuser und Biergärten
+285|Kabarett und Varieté
+286|Schlösser und Gärten
+287|Natur und Seen
+288|Geschichte und Erinnerung
+289|Flohmarkt
+290|Läden
+291|Bäder und Seen
+292|Oper und Konzerte
+293|Guide Michelin 2026 · 3 Sterne
+294|Guide Michelin 2026 · 2 Sterne
+295|Guide Michelin 2026 · 1 Stern
+296|Guide Michelin 2026 · Bib Gourmand
+297|Europe's 50 Best Bars 2026 · Platz 17 (beste Bar Deutschlands)
+298|Mixology Bar Awards 2026 · Bar des Jahres
+299|Time Out 2026 · bester Club Europas
+300|UNESCO-Welterbe
+301|UNESCO-Biosphärenreservat
+302|Guide Michelin 2025 · 1 Schlüssel
+303|Guide Michelin 2025 · 2 Schlüssel
+304|Berliner Klassiker
+305|Auf den Spuren der Mauer
+306|Kalter Krieg
+307|Berlin gratis
+308|Aussichtspunkte und Ausblicke
+309|Cafés
+310|Biergärten und Brauhäuser
+311|Clubs und Techno
+312|LGBT+-Nachtleben
+313|Märkte
+314|Tagesausflüge
+315|Entlang der Mauer
+316|3 Orte der Berliner Mauer
+317|2 Currywurst- oder Dönerbuden
+318|Kaffeeliebhaber
+319|2 Cafés
+320|Biergarten
+321|Ein Brauhaus oder ein Biergarten
+322|Von Schloss zu Schloss
+323|2 Schlösser
+324|Clubnacht
+325|Ein Club zum Tanzen
+326|Berlin an 1 Tag
+327|Der Besuch ist kostenlos, aber man muss sich vorher auf der Website des Bundestags anmelden.
+328|Lauf sie bis zur Museumsinsel entlang.
+329|Die Büste der Nofretete. Montags geschlossen.
+330|Buch online ein Zeitfenster.
+331|Deutsches Abendessen in der ältesten Gaststätte der Stadt.
+332|Tag 1 · Morgen
+333|Melde dich vorher für die Kuppel an.
+334|Tag 1 · Mittag
+335|Tag 1 · Nachmittag
+336|Wähl ein oder zwei Museen: Für alle reicht die Zeit nicht.
+337|Tag 1 · Abend
+338|Tag 2 · Morgen
+339|Tag 2 · Mittag
+340|Tag 2 · Mittagessen
+341|Die Currywurst von Kreuzberg.
+342|Tag 2 · Nachmittag
+343|Tag 2 · Sonnenuntergang
+344|Tag 2 · Abend
+345|Eine Bar neben der anderen.
+346|Tag 3 · Morgen
+347|Montags geschlossen.
+348|Tag 3 · Mittag
+349|Tag 3 · Nachmittag
+350|Durchquer ihn bis zur Siegessäule.
+351|Tag 3 · Kaffee und Kuchen
+352|Tag 3 · Abend
+353|Wenn ein Konzert ist, besorg dir rechtzeitig Karten.
+354|Alles drinnen und nah beieinander.
+355|Montags geschlossen: Tausch es an dem Tag gegen das DDR Museum.
+356|Eintritt frei. Montags geschlossen.
+357|Bücher und Platten auf fünf Etagen.
+358|Ein toller Tag ohne Eintrittsgeld.
+359|Kostenlos, mit vorheriger Anmeldung.
+360|Die Dauerausstellung ist kostenlos.
+361|Vom großen Fenster aus sieht man die Affen des Zoos.
+362|Züge, Schiffe und Flugzeuge. Montags geschlossen.
+363|Bring Fahrrad, Rollschuhe oder einen Drachen mit.
+364|Jazz-Jam-Session am Mittwoch
+365|Mittwochsnacht mit neuen DJs
+366|Street Food Thursday: Essensstände aus aller Welt
+367|Fünf monumentale Museen auf einer Spreeinsel, mit zwei Jahrhunderten Geschichte. Heute besucht man das Neue Museum, das Alte Museum, die Alte Nationalgalerie und das Bode-Museum.
+368|Das Museum der Nofretete-Büste: altes Ägypten und Vorgeschichte in einem zerbombten Gebäude, das Chipperfield wiederaufgebaut hat, ohne die Narben zu verstecken.
+369|Ein Tempel auf der Insel voller Malerei des 19. Jahrhunderts: Caspar David Friedrich, Menzel und die französischen Impressionisten.
+370|Der Kuppelbau an der Inselspitze zeigt Skulpturen, byzantinische Kunst und eine riesige Münzsammlung.
+371|Solange das Pergamonmuseum saniert wird, sieht man hier ein riesiges 360°-Panorama der antiken Stadt und Originalstücke des Museums.
+372|Zweitausend Jahre jüdisches Leben in Deutschland im Zickzack-Bau von Daniel Libeskind, der berührt, bevor man auch nur ein Schild gelesen hat.
+373|Das große Museum der deutschen Geschichte. Der Barockbau ist auf Jahre eine Baustelle, aber der Glasanbau von I. M. Pei zeigt weiter Wechselausstellungen.
+374|Lokomotiven, Schiffe, Flugzeuge und ein Bomber, der von der Decke hängt: das lustigste Museum der Stadt für einen Besuch mit Kindern.
+375|Das höchste aufgebaute Dinosaurierskelett der Welt empfängt dich in der Halle. Es gibt auch einen T. rex und eine Wand mit Tausenden Tieren.
+376|Der Glas- und Stahlpavillon von Mies van der Rohe, ein Juwel der modernen Architektur, mit Kunst des 20. Jahrhunderts im Inneren.
+377|Ein alter Bahnhof, der zum Berliner Museum für Gegenwartskunst wurde: Beuys, Warhol und riesige Installationen.
+378|Eine der großen Gemäldegalerien Europas: Rembrandt, Caravaggio, Botticelli, Vermeer und Dürer, fast ohne Warteschlangen.
+379|Das Museum für in Berlin entstandene Kunst: Dada, Expressionismus, Fotografie und Architektur von 1870 bis heute.
+380|Der Alltag in der DDR zum Anfassen: eine eingerichtete Wohnung, ein Trabant zum Selbstfahren und Schubladen zum Stöbern.
+381|Die Zentrale der DDR-Geheimpolizei, mit dem unveränderten Büro des Chefs und den Geräten, mit denen die Menschen bespitzelt wurden.
+382|Das Haus der Zukünfte: interaktive Ausstellungen darüber, wie wir leben, essen und uns fortbewegen werden, mit einem Labor zum Experimentieren.
+383|Das Museum der Videospiele: von Pong bis heute, mit Dutzenden alten Automaten und Konsolen zum Spielen.
+384|Berlins Museum für urbane Kunst: Wandbilder, Schablonen und Installationen von Künstlern aus aller Welt, drinnen und an den Fassaden des Blocks.
+385|Der einzige Abschnitt, an dem man die ganze Mauer versteht: beide Mauern, der Todesstreifen und ein Wachturm, an der Straße, die sie zweiteilte.
+386|Das längste erhaltene Stück der Mauer, mehr als ein Kilometer, 1990 von Künstlern aus aller Welt bemalt. Hier ist der berühmte Kuss.
+387|Der berühmteste Grenzübergang des Kalten Krieges, an dem sich 1961 sowjetische und amerikanische Panzer gegenüberstanden.
+388|Die Halle am Bahnhof Friedrichstraße, in der sich Ostberliner von ihrem Westbesuch verabschiedeten. Heute erzählt sie, wie der Grenzübertritt ablief.
+389|Der ehemalige Todesstreifen ist heute ein Park mit einer Wand für Sprayer. Sonntags gibt es Flohmarkt und Karaoke unter freiem Himmel.
+390|Ein riesiges 360°-Bild, das dich an einen ganz normalen Tag in den 80ern versetzt, mit Blick auf die Mauer von Kreuzberg aus.
+391|Das Symbol Berlins und der Wiedervereinigung: 28 Jahre lang stand es eingeschlossen im Niemandsland, direkt an der Mauer.
+392|Der Deutsche Bundestag mit einer Glaskuppel von Norman Foster, in der man spiralförmig nach oben geht und auf die Stadt und die Abgeordneten blickt.
+393|2.711 Betonblöcke auf welligem Gelände, wenige Meter vom Brandenburger Tor. Man geht hinein und der Lärm der Stadt verstummt.
+394|Wo die Zentralen von Gestapo und SS standen, ist heute ein Dokumentationszentrum über den NS-Terror, neben einem Originalstück der Mauer.
+395|Der eleganteste Platz Berlins: zwei Zwillingsdome mit dem Konzerthaus in der Mitte. Vor Kurzem renoviert.
+396|Der Platz, auf dem die Nazis 1933 Tausende Bücher verbrannten. Im Boden zeigt eine Glasplatte eine unterirdische Bibliothek mit leeren Regalen.
+397|Ein gewaltiger Kriegsfriedhof im Park: eine 12 Meter hohe Statue und eine Allee aus Marmor, wo Tausende sowjetische Soldaten ruhen.
+398|Eine ehemalige Wache, heute Deutschlands Gedenkstätte für die Opfer von Krieg und Gewaltherrschaft: ein leerer Raum, eine Skulptur und eine Öffnung zum Himmel.
+399|Eines der größten Gebäude der Welt, von den Nazis errichtet und berühmt durch die Luftbrücke von 1948. Innen besichtigt man es mit Führung.
+400|Das höchste Bauwerk Deutschlands, der Stolz des kommunistischen Berlins. Von der Kugel aus sieht man die ganze Stadt.
+401|Die Säule mit dem goldenen Engel mitten im Tiergarten. Du steigst 285 Stufen hinauf und hast den ganzen Park zu deinen Füßen.
+402|Früher eine von der Mauer geteilte Brache, heute das Berlin der Hochhäuser. Auf dem Gehweg stehen noch Originalstücke der Mauer.
+403|Die Brücke aus rotem Backstein mit zwei Türmen, über die die gelbe U-Bahn fährt. Früher Grenzübergang, verbindet sie heute Kreuzberg mit Friedrichshain.
+404|Eine Uhr von 1969, die die Zeit auf der ganzen Welt anzeigt, mit einem Sonnensystem, das sich oben dreht. Der klassische Berliner Treffpunkt.
+405|Berlins »Eiffelturm«: ein Stahl-Funkturm von 1926 mit Aussichtsplattform, gerade nach der Sanierung zum hundertsten Geburtstag wiedereröffnet.
+406|Ein Hügel aus Kriegstrümmern und oben eine verlassene amerikanische Abhörstation, über und über mit Graffiti bedeckt.
+407|Das größte Schloss Berlins, Sommerresidenz der preußischen Könige, mit Barocksälen und einem riesigen Park an der Spree.
+408|Das Berliner Schloss, wiederaufgebaut mit drei barocken Fassaden und einer modernen. Drinnen sind Museen für Kunst aus Asien, Afrika und Amerika.
+409|Ein Barockschloss auf einer kleinen Insel am Zusammenfluss zweier Flüsse, mit Möbeln und Luxusobjekten des Kunstgewerbemuseums.
+410|Ein Barockschloss mit zwei Leben: Residenz einer preußischen Königin und später Gästehaus der DDR-Regierung.
+411|Die imposanteste Kirche der Stadt, mit ihrer grünen Kuppel auf der Insel. Drinnen eine riesige Orgel und die Hohenzollerngruft, 2026 wiedereröffnet.
+412|Der von den Bomben 1943 zerstörte Turm, als Mahnmal so belassen, neben einer modernen Kirche aus blauem Glas.
+413|Die katholische Kathedrale Berlins, rund wie das Pantheon in Rom. Ende 2024 wurde sie mit einem schlichten weißen Innenraum wiedereröffnet, über den viel diskutiert wurde.
+414|Die Kirche der aus Frankreich geflohenen Hugenotten. Ihr Turm hat eine Aussichtsplattform über dem Gendarmenmarkt und ein kleines Museum zu dieser Geschichte.
+415|Der Zwilling des Französischen Doms. Er ist keine Kirche mehr: Drinnen zeigt der Bundestag eine kostenlose Ausstellung zur Geschichte der deutschen Demokratie.
+416|Die älteste Kirche Berlins, mit zwei spitzen Türmen. Heute ein Museum über die Anfänge der Stadt und ein Konzertsaal.
+417|Die goldene Kuppel, die die Oranienburger Straße prägt. Sie war die größte Synagoge Deutschlands; heute ist sie ein Museum über jüdisches Leben in Berlin.
+418|Die größte Synagoge Deutschlands, versteckt in einem Hinterhof. Sie überstand 1938, weil sie an die Nachbarhäuser grenzte.
+419|Die schönste Moschee Berlins, im osmanischen Stil, mit zwei Minaretten und einer bemalten Kuppel, neben einem türkischen Friedhof aus dem 19. Jahrhundert.
+420|Der größte Hindutempel Deutschlands, mit einem 17 Meter hohen Turm voller bunter Gottheiten. Er wurde im Juni 2026 nach zwanzig Jahren Bauzeit eingeweiht.
+421|Berlins grüne Lunge: ein Wald mitten im Zentrum, mit Seen, Wegen und Lichtungen, auf denen die Berliner sich sonnen.
+422|Ein stillgelegter Flughafen, der zum Park wurde: Die Rollbahnen sind geblieben und gehören jetzt den Fahrrädern, Skates und Drachen.
+423|Ein langer Park an der Spree, mit Anleger, einer kleinen Insel mit Brücke und dem gewaltigen sowjetischen Ehrenmal versteckt zwischen den Bäumen.
+424|Der älteste Park Berlins, mit einem Märchenbrunnen und zwei Hügeln aus Kriegstrümmern.
+425|Einer der größten botanischen Gärten der Welt, mit Tausenden Arten und Gewächshäusern aus Glas und Eisen vom Anfang des 20. Jahrhunderts.
+426|Der Hügel, der Kreuzberg den Namen gibt, mit einem künstlichen Wasserfall und einem Denkmal auf dem Gipfel, von dem man den ganzen Süden der Stadt sieht.
+427|Berlins historischer Boulevard: Vom Brandenburger Tor zur Museumsinsel kommst du an der Oper, der Universität und der Neuen Wache vorbei.
+428|Ein Spaziergang am Fluss zwischen Reichstag, Kanzleramt und den gläsernen Parlamentsbauten, verbunden durch Brücken über das Wasser.
+429|Die große Allee des Westberlins: drei Kilometer Schaufenster, Traditionscafés und herrschaftliche Bauten.
+430|Acht miteinander verbundene Höfe mit Jugendstilfassaden aus bunten Kacheln, Designläden, einem Kino und einem Theater.
+431|Die Prachtstraße des sozialistischen Berlins: zwei Kilometer »Arbeiterpaläste« der 50er-Jahre, extra breit für die Paraden.
+432|Der Ort, an dem Berlin entstand: Kopfsteinpflastergassen und niedrige Häuser, die die DDR in den 80ern rund um die älteste Kirche wiederaufbaute.
+433|Das alte jüdische Viertel, heute voller Galerien, versteckter Höfe und Cafés. Auf den Gehwegen erinnern Stolpersteine an die deportierten Nachbarn.
+434|Prenzlauer Berg wie aus dem Bilderbuch: restaurierte Altbauten, breite Gehwege, Kinderwagen und Cafés mit Tischen draußen.
+435|Das ruhigere Kreuzberg: eine Straße mit Cafés, Buchläden und Secondhandläden, die an einer Markthalle endet.
+436|Nord-Neukölln, wo türkische Gemüseläden, winzige Bars und junge Leute aus aller Welt zusammenleben.
+437|Das Herz von Friedrichshain: eine Bar neben der anderen, Wandbilder, alternative Läden und ein Platz mit Markt am Wochenende.
+438|Eine grüne Ecke Kreuzbergs am Kanal, mit Häusern von 1900 und kleinen Restaurants an fast jeder Ecke.
+439|Ein Dörfchen aus dem 18. Jahrhundert mitten in Neukölln: ein Platz mit Schmiede, niedrige Häuschen und Kopfsteinpflaster.
+440|Berlins Haus der Fotografie, im ehemaligen Amerika Haus. Erstklassige Ausstellungen, die mehrmals im Jahr wechseln.
+441|Gegenwartskunst in einem Kriegsbunker, der später Obstlager und Technoclub war. Zutritt nur mit Führung.
+442|Die »Schwangere Auster«: ein Bau mit geschwungenem Dach aus den 50ern an der Spree, der Kunst und Musik aus aller Welt gewidmet.
+443|Eine unsanierte Passage, von oben bis unten voller Graffiti, mit einem Kino, einer Bar und zwei kleinen Museen über die NS-Zeit.
+444|Eine alte Margarinefabrik, in der die Kunstszene von Mitte entstand. Mutige Ausstellungen und ein Hof mit Café.
+445|Das älteste Restaurant Berlins, mit Ursprung im Jahr 1621: Holzstuben, Kachelofen und Berliner Gerichte wie Eisbein und Königsberger Klopse.
+446|Der älteste Biergarten Berlins unter Kastanien, daneben eine Gaststätte mit Berliner Küche das ganze Jahr über.
+447|Eine Berliner Gaststätte von 1902 mit alten Stuben, frisch gezapftem Bier und deftigen Gerichten wie Eisbein und Königsberger Klopsen.
+448|Eine über hundert Jahre alte Kneipe, berühmt für genau eine Sache: ein knusprig gebratenes halbes Hähnchen mit Krautsalat oder Kartoffelsalat.
+449|Süddeutsche Küche in entspannter Atmosphäre: Schnitzel, Maultaschen, Flammkuchen und Biere aus dem Schwarzwald.
+450|Eine Berliner Kneipe alter Schule, wenige Schritte vom Savignyplatz, mit Eintöpfen, Schnitzel und mehreren Bieren vom Fass.
+451|Küche aus Ostpreußen, Schlesien und Pommern in einer gemütlichen Stube, wie es sie kaum noch gibt.
+452|Eine Eckkneipe, die den Geist Ostberlins bewahrt: Hausmannskost, riesige Portionen und freundliche Preise.
+453|Nachbau einer Wirtschaft aus dem 16. Jahrhundert im Nikolaiviertel, mit einfacher Berliner Küche und einer kleinen Terrasse unter dem Nussbaum.
+454|Berliner Küche wie bei Oma in einem Keller voller Erinnerungsstücke, nahe dem Alexanderplatz.
+455|Die berühmteste Currywurstbude Westberlins: Wurst mit oder ohne Darm, Currysoße und Pommes, zu jeder Uhrzeit.
+456|Der Ostklassiker seit 1930 unter der Hochbahn der U2: Hier gab es die erste Currywurst Ostberlins.
+457|Currywurst vom Berliner Fleischer mit frischen Pommes, nahe dem Hackeschen Markt. Es gibt auch eine vegane Variante.
+458|Eine Kiezbude neben dem Bahnhof Gesundbrunnen, mit selbst gemachten Würsten und großem Ruf unter Berlinern.
+459|Bio-Currywurst gegenüber dem KaDeWe, mit belgischen Pommes und mehreren hausgemachten Soßen.
+460|Eine Institution im Berliner Süden seit 1959, mit eigener Soßenrezeptur und Würsten aus Familienherstellung.
+461|Der berühmteste Döner der Stadt: Hähnchen mit gegrilltem Gemüse, Feta, Zitrone und Soßen, aus einem Imbisshäuschen.
+462|Für viele Berliner der beste Gemüsedöner mit Hähnchen: selbst gebackenes Brot, saftiges Fleisch und eigene Soßen.
+463|Ein türkischer Familienbetrieb am Kottbusser Tor mit messergeschnittenem Kalbsdöner und frisch gebackenem Lahmacun.
+464|Ein historisches türkisches Restaurant in Kreuzberg, dessen Gründer für sich beansprucht, den Döner im Brot erfunden zu haben. Grill und Döner auf dem Teller.
+465|Traditioneller Kalbsdöner mit von Hand geschichtetem, gut gewürztem Fleisch. Ein Liebling der Nachbarschaft.
+466|Burger aus einem ehemaligen öffentlichen Toilettenhäuschen unter der Hochbahn der U1 am Schlesischen Tor. Eine Kreuzberger Ikone.
+467|Falafel und Halloumi nach sudanesischer Art, mit der Erdnusssoße, die ihn berühmt gemacht hat.
+468|Falafel und Schawarma in einem winzigen, bunten Laden an der Ecke beim Oranienburger Tor.
+469|Libanesischer Imbiss am Kottbusser Tor mit Schawarma, Falafel und reichlichen gemischten Tellern.
+470|Halbes Hähnchen vom Spieß mit Pommes und Salat, gegenüber dem Görlitzer Park. Ein günstiger Kreuzberger Klassiker.
+471|Pommes, ernst genommen von zwei Spitzenköchen: mit Trüffel, mit Currywurst oder mit Eintopf obendrauf.
+472|Frisch gebratenes Schnitzel, groß und günstig, in einem lockeren Laden unter den Gleisen an der Oberbaumbrücke.
+473|Eine große Food Hall am Potsdamer Platz, mit Dutzenden Küchen der Welt und Bars unter einem Dach.
+474|Der Food Court im Bikini Berlin, mit verschiedenen Ständen und großen Fenstern zum Affengehege des Zoos.
+475|Die Rösterei, die Berlin auf die Landkarte des Specialty Coffee brachte. Kleiner Laden, tadelloser Filterkaffee und hausgemachter Kuchen.
+476|Pioniere des Specialty Coffee in Berlin, wenige Schritte vom Mauerpark. Minimalistischer Laden und einer der besten Espressi.
+477|Kaffee und Brunch in einem ruhigen Innenhof, versteckt nahe dem Hackeschen Markt.
+478|Kiezrösterei und Konditorei, berühmt für ihren Cheesecake, einen der meistempfohlenen der Stadt.
+479|Berliner Röster mit gutem Kaffee und einer Brunchkarte, die den ganzen Tag serviert wird.
+480|Specialty Coffee mit sorgfältigem Frühstück und Brunch, in einem Raum mit Sichtmauerwerk.
+481|Ein Westberliner Bohème-Klassiker, der fast rund um die Uhr geöffnet hat: Frühstück zu jeder Zeit auf zwei Etagen.
+482|Ein tadschikisches Teehaus, ein sowjetisches Geschenk aus den Siebzigern: Teppiche, Kissen, Samowar und russische Teezeremonie.
+483|Ein winziges Café voller Pflanzen, mit üppigem Brunch, selbst gebackenem Brot und gutem Kaffee.
+484|Bio-Bäckerei mit offenem Ofen, berühmt für ihre frischen Zimtschnecken, auch in anderen Sorten.
+485|Französische Pâtisserie mit erstklassigen Croissants, Éclairs und Tartes.
+486|Eine Konditorei von 1852, spezialisiert auf Baumkuchen, nach geheimem Hausrezept gebacken.
+487|Handwerksbäckerei mit Sauerteigbrot und einigen der besten Viennoiserien der Stadt: Croissants, Kouign-amann und mehr.
+488|Bäckerei in einem Hof in Mitte, die mit Urgetreide arbeitet: Sauerteigbrote und nordisches Gebäck.
+489|Eine Handwerksbäckerei in Moabit mit offenem Ofen und hoch angesehenen, lang geführten Broten.
+490|Ein riesiges Schokoladenhaus am Gendarmenmarkt, mit Schokoladenskulpturen Berliner Wahrzeichen und einem Café im Obergeschoss.
+491|Eis von einem gelernten Konditor, cremig und mit ausgefeilten Sorten. Die bekannteste Eisdiele im Kiez.
+492|Eis nach amerikanischer Art mit frisch gebackenen Waffeln und Cookie-Sandwiches.
+493|Berliner Eismanufaktur mit natürlichen Zutaten und sehr gelungenen Fruchtsorten.
+494|Kiez-Eisdiele im Reuterkiez mit originellen Sorten wie Gurke, Zitrone und Minze.
+495|Selbst gemachtes Bio-Eis mit kreativen Sorten und veganen Optionen.
+496|Echtes sizilianisches Eis: Pistazie aus Bronte, Granita und Brioche mit Eis.
+497|Italienische Eisdiele mit gläserner Manufaktur, wenigen Sorten, alle sehr gut gemacht.
+498|Das einzige Dreisternerestaurant Berlins: Marco Müllers Menü mit regionalen Produkten und eine große Weinkarte.
+499|Die asiatisch inspirierte Küche des berühmtesten Kochs Berlins, wenige Meter vom Checkpoint Charlie. Intensive, süße und scharfe Aromen.
+500|Ein Glaspavillon mit Garten im fünften Stock des Hotels The Mandala am Potsdamer Platz. Moderne, leichte Küche.
+501|Ein Menü aus der Patisserie heraus, mit Desserttechniken und fast ohne zugesetzten Zucker, begleitet von Drinks. Einzigartig.
+502|Österreichische Küche, neu erfunden von Sebastian Frank am Kanal, mit Gemüse in der Hauptrolle.
+503|»Brutal lokale« Küche: nur Produkte aus Berlin und Umgebung, serviert an einem langen Tresen vor der Küche.
+504|Spitzenküche ohne Steifheit: Max Strohes opulente Gerichte und ein warmer Raum mit einem der besten Services der Stadt.
+505|Das Gourmetrestaurant des Hotel Adlon, mit klassischem Saal und Blick auf das Brandenburger Tor.
+506|Autorenküche im 14. Stock des InterContinental mit Panoramablick über den Tiergarten und die Stadt.
+507|Ein ehemaliger Dönerladen, der zum Sternerestaurant wurde: minimalistischer Raum, offene Küche und französisch inspiriertes Menü.
+508|Ein Kiezbistro mit Stern: kurze Karte, saisonale Produkte und guter Wein in familiärer Atmosphäre.
+509|Sehr sorgfältige saisonale Küche im ruhigen Rixdorf, Neuköllns Dorfecke.
+510|Zeitgemäße französische Küche mit Stern und starker Weinkarte, an der Galerienmeile der Potsdamer Straße.
+511|Kleine Teller zum Teilen mit regionalen Produkten, in einem schlichten Raum im Schillerkiez. Mit das Beste in Neukölln.
+512|Moderne, geradlinige Küche in einem hellen Raum mit offener Küche, von zwei niederländischen Köchen.
+513|Der Vietnamese, der Pho in Berlin in Mode brachte: kurze, oft wechselnde Karte, Suppen, Nudelsalate und frische Säfte.
+514|Türkischer Holzkohlegrill mit Lammspießen, Adana-Kebab und Vorspeisen zum Teilen.
+515|Südindisches Streetfood: knusprige Dosas, Thalis und Currys in einem bunten Laden.
+516|Neapolitanische Pizza aus dem Holzofen mit lang geführtem Teig, eine der angesehensten der Stadt.
+517|Sauerteigpizza mit Zutaten regionaler Erzeuger und guten veganen Optionen.
+518|Neapolitanische Pizza in einem versteckten Hof am Kanal, mit luftigem Teig und Holzofen.
+519|Der berühmteste Hummus der Sonnenallee, Berlins »arabischer Straße«: frisch gemacht, mit Falafel und warmem Brot.
+520|Eine minimalistische Ramenbar mit dicker Tonkotsu-Brühe und Nudeln auf den Punkt. Die Referenz für Ramen in Berlin.
+521|Taiwanische Nudelsuppen und Teigtaschen in einem Familienlokal in der Kantstraße, Berlins asiatischer Meile.
+522|Libanesische Küche mit Mezze und Grill, vom Guide Michelin für ihr Preis-Leistungs-Verhältnis ausgezeichnet.
+523|Ein georgisches Familienrestaurant: Chatschapuri, Chinkali und Weine aus Georgien.
+524|Österreichische Hausmannskost: Wiener Schnitzel, Tafelspitz, Kaiserschmarrn und österreichische Weine.
+525|Japanische Küche mit regionalen Produkten in einem erneuerten Klassiker im Kollwitzkiez.
+526|Vegetarische Sterneküche, versteckt am Ende einer Lieferantengasse hinter einem Hotel.
+527|Vegetarische Sterneküche und Signature-Cocktails in einem entspannten Bistro in Schöneberg.
+528|Ein 100 % veganes Menü, kreativ und sehr sorgfältig, mitten im Kollwitzkiez.
+529|Vegane Donuts mit originellen Glasuren, gegenüber dem Kanal. Es gibt mehrere Filialen in der Stadt.
+530|Der Original-Veggie-Döner Berlins, von einem Spieß aus Seitan und Gemüse, dazu Burger und Pommes.
+531|Vegane vietnamesische Küche in kleinen Schälchen zum Teilen, gegenüber dem Boxhagener Platz.
+532|Bio-Bäckerei und Café, 100 % glutenfrei: Brot, Croissants, Kuchen und Sandwiches.
+533|Eine Bäckerei, in der alles glutenfrei gebacken wird, einen Block vom Kurfürstendamm.
+534|Handwerksbäckerei in Friedrichshain, 100 % glutenfrei, mit Sauerteigbrot und Gebäck.
+535|Komplett glutenfreies japanisches Café, bekannt für seine Zimtschnecken und Süßes.
+536|Berlins berühmteste Speakeasy-Bar: eine Tür ohne Schild, wenige Plätze und klassische Cocktails mit obsessiver Präzision.
+537|Zur besten Bar Deutschlands gewählt: hochtechnische Cocktails, die schlicht aussehen, in einem entspannten Laden in der Weserstraße.
+538|Ein Klassiker seit den Neunzigern hinter einer grünen Tür: karierte Wände, gedämpftes Licht und tadellose Cocktails.
+539|Eine Autorenbar, die ihre Karte jede Woche ändert, je nachdem, was in Wäldern und Gärten der Region gesammelt wird.
+540|Eine intime, ruhige Bar ohne Schild: Man erkennt sie am beleuchteten Porträt von Samuel Beckett im Fenster.
+541|Die Bar im 10. Stock des 25hours Hotel, mit großen Fenstern und einer Terrasse mit Blick auf die Affen im Zoo und die Gedächtniskirche.
+542|Eine Dachterrasse mit Gemüsegarten, Sand und DJs auf dem obersten Parkdeck eines Einkaufszentrums, mit einem der besten Ausblicke Berlins.
+543|Ein langer Tresen, Kunst an den Wänden und Barkeeper der alten Schule: die klassische Bar der Potsdamer Straße, nach einem Brand wiedereröffnet.
+544|Eine winzige, exzentrische Bar mit nur einer Handvoll Plätzen und einem Wirt in Weste und Fliege, der entscheidet, was er dir mixt.
+545|Eine Bar in rotem Samt und gedämpftem Licht, benannt nach einem Buñuel-Film, neben dem Kino Babylon Kreuzberg.
+546|Klassische Bar und Lounge im schwulen Kiez von Schöneberg, mit Sesseln, guter Musik und gemischtem, freundlichem Publikum.
+547|Ein ehemaliges Möbelgeschäft, heute queere Kiezbar mitten am Kottbusser Tor: laut, günstig und sehr beliebt.
+548|Der älteste Biergarten Berlins, von 1837: lange Tische unter Kastanien, Bier aus eigener Brauerei und Würstchen.
+549|Ein riesiger Biergarten am Seeufer mitten im Tiergarten, mit Pizza aus dem Ofen und Ruderbooten zum Ausleihen.
+550|Ein einfacher Biergarten an einer Kanalschleuse zwischen Zoo und Tiergarten: Man schaut den Booten beim Bier zu.
+551|Craft-Brauerei aus Schiffscontainern am Rand des Parks am Gleisdreieck, mit großem Biergarten und Essen vom Grill.
+552|Bayerischer Biergarten unter einer hundertjährigen Kastanie, an der Spree direkt gegenüber dem Kanzleramt.
+553|Historischer Biergarten im Viktoriapark, mit mehreren Terrassen, Grill und Tanzfläche, wenn es dunkel wird.
+554|Eine kleine, sehr gepflegte Weinbar um die Ecke von Unter den Linden, mit riesiger Karte und kleinen Tellern zum Teilen.
+555|Das Erdgeschoss des meistausgezeichneten Restaurants Berlins: ein riesiger Weinkeller mit Fokus auf deutschen Riesling und einfacherer Küche.
+556|Eine Kiezweinbar ohne Allüren, in der dich der Wirt nach deinem Geschmack berät und die Preise freundlich sind.
+557|Ein ehemaliges Briefmarkengeschäft an der sozialistischen Prachtstraße, heute eine italienische Weinbar mit den Originalmöbeln und hausgemachter Pasta.
+558|Tagsüber Café, abends Weinbar, mit zusammengewürfelten Sesseln: berühmt dafür, dass man zahlt, was man für fair hält.
+559|Der berühmteste Technoclub der Welt, in einem alten Heizkraftwerk: gewaltiger Sound und Partys, die das ganze Wochenende dauern.
+560|Der Club, der 1991 den Detroit-Techno nach Berlin brachte, heute in einem Heizkraftwerk mit Tunnel und einem Keller voller Schließfächer.
+561|Eine alte Hundekuchenfabrik, die zum kleinen Festival wurde: mehrere Floors, Sand, ein See und Partys, die tagelang gehen.
+562|Club am Spreeufer mit Boot, Feuerstelle und Holz-Dancefloors: freundlicherer House und Techno, bei Tag und Nacht.
+563|Ein Holzsteg unter einer Trauerweide am Kanal: House und Minimal unter freiem Himmel ab dem Nachmittag, mit endloser Afterhour-Stimmung.
+564|Der historische Punkladen Kreuzbergs, in dem Bowie und Iggy Pop verkehrten: Konzerte, queere Partys und sogar Rollschuhdisco.
+565|Ein Ballsaal von 1913 mit blinden Spiegeln und einem Garten davor: Hier tanzt man Swing, Tango und Walzer wie vor hundert Jahren.
+566|Berlins bekanntester Fetisch- und Hedonistenclub: Techno und Trance, Pool und völlige Freiheit hinter der Tür.
+567|Eine alte Fabrik in einem Kreuzberger Hinterhof, mit mehreren Floors für House und melodischen Techno und ständig wechselnder Deko.
+568|Ein Club in preußischen Pferdeställen mit Säulen und Gewölben: Hip-Hop, Drum and Bass, Jazz und Elektronik jenseits der Techno-Schablone.
+569|Berlins renommiertester Jazzclub: ein Saal für etwa hundert Leute, in dem schon Herbie Hancock und Wynton Marsalis spielten.
+570|Historischer Keller unter dem Kino Delphi, mit Livemusik seit Jahrzehnten: Jazz, Blues, Funk und Soul.
+571|Kleiner, unkomplizierter Jazzclub nahe dem Hackeschen Markt, mit Musik fast jeden Abend.
+572|Berlins »Wohnzimmer des Jazz« in Friedenau: ein intimer Saal mit internationalen Größen und der neuen lokalen Generation.
+573|Ein Kino aus den Fünfzigern, das zur Konzerthalle wurde: Indie, Rock und aufstrebende Bands, mit gutem Sound.
+574|Halle für rund 3.500 Leute in der ehemaligen Sporthalle des US-Luftwaffenstützpunkts: internationale Rock- und Poptourneen.
+575|Konzerthalle mit dem Charme eines DDR-Kulturhauses auf dem RAW-Gelände: Rock, Indie und Metal fast jeden Abend.
+576|Das ehemalige Kesselhaus einer Backsteinbrauerei aus dem 19. Jahrhundert, heute Bühne für Konzerte, Festivals und Partys.
+577|Die größte Theaterbühne der Welt: riesige Revuen mit über hundert Künstlern, Federn, Akrobatik und der berühmten Girlreihe.
+578|Klassisches Varieté mit Sternenhimmel, Tischchen mit Lampen und Nummern aus Akrobatik, Zauberei und Humor.
+579|Zeitgenössischer Zirkus der Spitzenklasse in einem Jugendstil-Ballsaal in den Hackeschen Höfen.
+580|Ein Spiegelzelt aus den Zwanzigern mit Samtlogen: Kabarett, Chanson und musikalischer Humor mit Abendessen.
+581|Das größte feste Zelt Europas, zwischen Kanzleramt und Tiergarten: Musicals, Kabarett und Konzerte mit Tischen und Abendessen.
+582|Geführte Spaziergänge auf Spanisch durch das historische Zentrum: Brandenburger Tor, Holocaust-Mahnmal, Hitlers Bunker und Mauerreste. Du zahlst, was du für fair hältst.
+583|Ein Verein, der dich hinunter in Luftschutzbunker des Zweiten Weltkriegs und Tunnel des Kalten Krieges führt, unter dem Bahnhof Gesundbrunnen.
+584|Führung am einzigen Abschnitt, an dem man die vollständige Mauer sieht, mit Todesstreifen und Wachturm. Start am Besucherzentrum.
+585|Das ehemalige Gefängnis der DDR-Staatssicherheit. Historiker und ehemalige politische Häftlinge führen durch die Zellen und Verhörräume.
+586|Das Stadion der Spiele von 1936 und des WM-Finales 2006. Die Führung geht durch Kabinen, Logen und die monumentale Architektur der NS-Zeit.
+587|Eine Stunde auf dem Wasser durch das Zentrum: Museumsinsel, Dom, Reichstag und Regierungsviertel vom Fluss aus.
+588|Ein normaler Linienbus vom Zoo zum Alexanderplatz, vorbei an Siegessäule, Reichstag, Brandenburger Tor und Unter den Linden.
+589|Die andere Touristenlinie des Nahverkehrs: Potsdamer Platz, Brandenburger Tor, Unter den Linden, Alexanderplatz und Endstation an der bemalten Mauer.
+590|Berlin ist flach und voller Radwege: In ein paar Stunden auf dem Rad siehst du die Mauer, den Tiergarten und das Regierungsviertel, mit Stopps und Erklärungen.
+591|Du fährst selbst einen Trabant, das kleine Plastikauto der DDR, im Konvoi durch die Stadt, während ein Guide per Funk erzählt.
+592|Ein Spaziergang durch Wandbilder, besetzte Höfe und Ecken der Gegenkultur in Friedrichshain und Kreuzberg, erzählt von Leuten aus der Szene.
+593|Rund drei Stunden probieren, was Berlin wirklich isst: Döner, Currywurst, türkische Küche und etwas Süßes, dazu die Geschichte des Kiezes.
+594|Thematischer Spaziergang zu den Orten des Nationalsozialismus und der geteilten Stadt: Regierungsviertel, Ort von Hitlers Bunker, Mauer und Checkpoint Charlie.
+595|Die Stadt der preußischen Könige, eine halbe Stunde entfernt: Schlösser, riesige Parks, ein barockes Zentrum und überall Seen. Der Ausflug Nummer eins von Berlin.
+596|Vier Blöcke mit Häuschen aus rotem Backstein, im 18. Jahrhundert für holländische Handwerker gebaut. Heute voller Cafés, Antiquitätenläden und kleiner Geschäfte.
+597|Das »Elbflorenz«: die wiederaufgebaute Frauenkirche, der Zwinger und eine barocke Altstadt, die nach dem Krieg wiedererstand.
+598|Die Stadt Bachs und der Demonstrationen, die die DDR zu Fall brachten: historische Kirchen, elegante Passagen und eine junge, kreative Szene.
+599|Die Stadt, in der Luther seine 95 Thesen anschlug und die Reformation begann. Zu sehen sind die Schlosskirche, sein Haus und eine kleine, gepflegte Altstadt.
+600|Das Sommerschloss Friedrichs des Großen über Weinbergterrassen. Klein, im Rokokostil und umgeben von einem riesigen Park mit Brunnen und Pavillons.
+601|Das größte Schloss im Park Sanssouci, gebaut, um zu beeindrucken: Marmorsäle, eine Muschelgrotte und Hunderte Räume.
+602|Eine autofreie Insel in der Havel, mit frei laufenden Pfauen, Wald und einem weißen Märchenschlösschen, das nach Jahren der Sanierung wiedereröffnet hat.
+603|Ein englischer Landschaftspark an der Havel mit neugotischem Schloss und Blick auf die Agentenbrücke. Viel ruhiger als Sanssouci.
+604|Das älteste Barockschloss der Region, mit einer Sammlung höfischen Porzellans und Silbers. Lässt sich gut mit der Gedenkstätte Sachsenhausen verbinden.
+605|Ein Schloss, das sich in einem See spiegelt und in dem Friedrich der Große seine glücklichsten Jahre verbrachte. Kleine Stadt, Wald und Bootsfahrten ringsum.
+606|Ein Labyrinth aus Kanälen zwischen Wäldern, durch das man im Kahn gestakt wird, wie ein ländliches Venedig. Berühmt für seine Gewürzgurken.
+607|Der größte See Berlins, im Südosten: Uferpromenade, Ausflugslokale mit Blick aufs Wasser, Boote und Wald zum Wandern oder Radfahren.
+608|Ein schmaler See umgeben von Wald, mit sauberem Wasser und einem Weg rundherum. Der Liebling der Berliner zum Schwimmen und Laufen.
+609|Ein kleines Fischerstädtchen auf einer Havelinsel, umgeben von Obstplantagen. Im Frühling füllt es sich zum Baumblütenfest mit Obstwein.
+610|Sandsteintürme über der Elbe und eine Steinbrücke, die zwischen ihnen hängt. Die spektakulärste Landschaft, die man von Berlin aus per Zug erreicht.
+611|Das Konzentrationslager, das den Nazis als Modell diente, nördlich von Berlin. Heute Gedenkstätte und Museum: ein schwerer, aber notwendiger Besuch.
+612|Die Villa am See, in der NS-Funktionäre 1942 die Vernichtung der europäischen Juden organisierten. Heute ein nüchternes, sehr gut gemachtes Museum.
+613|Die Eisenbrücke zwischen Berlin und Potsdam, auf der die beiden deutschen Staaten im Kalten Krieg Agenten austauschten. Die Grenze verlief genau in der Mitte.
+614|Das größte Frauen-Konzentrationslager der NS-Zeit, am Ufer eines Sees. Weniger besucht als Sachsenhausen und sehr bewegend.
+615|Berlins beliebtestes Hostel: sauber, mit guter Stimmung, eigener Brauerei im Keller und täglich Aktivitäten.
+616|Kleines unabhängiges Hostel mit Garten und Küche, bekannt als das beste für Alleinreisende, um Leute kennenzulernen, ohne dass es eine Dauerparty ist.
+617|Ein Hostel in einer alten Backsteinbrauerei aus dem 19. Jahrhundert, mit Hof, Bar und Kamin. Ruhig und gut gelegen.
+618|Großes Design-Hostel einer europäischen Kette, mit eigener Bar, Schlafsälen und Privatzimmern, mitten im Galerien- und Barviertel von Mitte.
+619|Ein herrschaftlicher Bau von 1874 am Kanal, mit hohen Decken, Bibliotheksbar und echten Betten statt Stockbetten. Gesellig, ohne laut zu sein.
+620|Partyhostel einer britischen Kette, mit großer Bar im Erdgeschoss und Rabatten auf Essen und Drinks für Gäste. Wenige Blocks vom Alexanderplatz.
+621|Halb Hotel, halb Hostel, direkt am Hauptbahnhof: Privatzimmer und Schlafsäle, Gästeküche und alles sehr ordentlich.
+622|Die deutsche Kette günstiger Designhotels: kleine, aber makellose Zimmer, eine gute Bar und eine unschlagbare Lage am Alexanderplatz.
+623|Der Hotelbruder des Circus Hostel: bunte Zimmer, Innenhof, leckeres Frühstück und ein Team, das dir die Reise mitplant.
+624|Der Turm mit über tausend Zimmern am Alexanderplatz, ein Erbe Ostberlins. Gar nicht intim, aber Lage und Ausblick sind unschlagbar.
+625|Modernes Kettenhotel direkt gegenüber dem bemalten Mauerabschnitt und neben der Arena, mit Dachterrasse.
+626|Das »Musikhotel« an der Spree: pinkes, futuristisches Design, Tonstudios und Gitarren, die man sich aufs Zimmer bringen lassen kann.
+627|Ein dänisches Hotel mit Ökoanspruch in einem Bau von 1850: Himmelbetten, Holz, Bioprodukte und ein schönes Restaurant im Hof.
+628|Schlichtes Designhotel in der Galerienstraße von Mitte, mit sehr beliebter Cocktailbar und Dachterrasse im Sommer.
+629|Eine alte Fabrik, die zum berlinerischsten Hotel von allen wurde: kreative Zimmer, Hof mit Musik, Restaurant mit Produkten vom eigenen Hof und null Förmlichkeit.
+630|Ein öffentliches Stadtbad von 1898, restauriert als Hotel: Das historische Becken unter Steinbögen ist noch da und Gäste können darin schwimmen.
+631|»Urban Jungle«-Stimmung mit Zimmern direkt mit Blick auf die Affen im Zoo, Hängematten, Fahrrädern und oben die Monkey Bar mit einem der besten Ausblicke.
+632|Ein Bau von 1911, eingerichtet wie das Paris der 20er: roter Samt, alter Aufzug und eine dunkle, sinnliche Bar.
+633|Ein elegantes, warmes Hotel mitten in Kreuzberg, mit Kamin, Flügel, Konzerten im Salon und einem Restaurant, das für seine Ente berühmt ist.
+634|Das Hotel, in dem in den 50ern die Stars des Filmfestivals wohnten, renoviert im Stil eines New Yorker Clubs, mit grünem Teppich und Winterterrasse.
+635|Die ehemalige dänische Botschaft aus den 30ern, direkt am Zoo: Von einigen Zimmern und von der Bar sieht man die Strauße. Design von Patricia Urquiola.
+636|Das alte Telegrafenamt der Stadt, heute ein Hotel: Backstein, sehr hohe Decken und schlichte Zimmer, zwischen Museumsinsel und Oranienburger Straße.
+637|Ein Frauengefängnis aus dem 19. Jahrhundert in einem Hinterhof, heute ein helles, stilles Hotel mit Garten, Sauna und kleinem Pool auf dem Dach.
+638|Berlins Grandhotel seit 1907, gegenüber dem Brandenburger Tor wiederaufgebaut. Durch seine Lobby gingen Könige, Präsidenten und Stars.
+639|Ein Turm im Stil eines Chicagoer Wolkenkratzers am Potsdamer Platz, renoviert im Flair der 20er: Marmor, Cocktailbar und Spa mit Pool.
+640|Ein diskretes, inhabergeführtes Fünfsternehotel mit den größten Zimmern der Stadt, Spa auf dem Dach und einem Gourmetrestaurant.
+641|Ein Art-déco-Hochhaus neben der Gedächtniskirche, mit freiem Blick über den Westen der Stadt und den Zoo, Spa und einem sehr eleganten Wiener Café.
+642|Ein kleines Palais von 1914 im Villenviertel Grunewald, mit nur rund fünfzig Zimmern, Garten und Einrichtung von einem Haute-Couture-Schneider.
+643|Eine Markthalle aus dem 19. Jahrhundert, von den Nachbarn wiederbelebt: regionale Erzeuger, Brot, Käse, Wein und Stände für einen schnellen Happen.
+644|Berlins größter und beliebtester Wochenmarkt: Blumen, Gemüse, Käse, Gewürze und Essensstände rund um die Kirche.
+645|Zweimal pro Woche füllt sich das Kanalufer mit Ständen voller Obst, Oliven, Brot, Stoffe und frischem türkischem Essen. Berlin, bunt gemischt.
+646|Der Markt am schönsten Platz von Prenzlauer Berg: donnerstags Bio, samstags zusätzlich Feinkost, Blumen und Kunsthandwerk.
+647|Markthalle aus Backstein von 1891, halb Kiezstände, halb Plätze zum Essen und Trinken. Viel weniger touristisch als andere.
+648|Die Markthalle auf der ruhigen Seite Kreuzbergs: Gemüsehändler, Fisch, Käse, Blumen und mehrere Stände für ein gutes Mittagessen.
+649|Berlins berühmtester Flohmarkt, auf dem ehemaligen Mauerstreifen: Vintagekleidung, Vinyl, Möbel, junges Design und viel zu essen.
+650|Der Markt der Friedrichshainer: Bücher, Vinyl, Secondhandkleidung und DDR-Objekte rund um einen grünen Platz.
+651|Klein und mit gutem Auge: Möbel und Lampen aus der Jahrhundertmitte, Geschirr, Platten und Erinnerungsstücke aus der DDR.
+652|Der traditionsreichste Antikmarkt der Stadt: Porzellan, Silber, alte Bücher, Münzen und Möbel, dazu ein Kunsthandwerkerteil.
+653|Floh- und Designmarkt am Kanalufer, mit gut ausgewählter Secondhandkleidung, jungen Kunsthandwerkern und Essensständen.
+654|Flohmarkt zwischen graffitibedeckten Bahnhallen: Kleidung, Platten, Krimskrams und Streetfood auf dem alternativsten Gelände des Kiezes.
+655|Die große Einkaufsmeile des Westens: von den Ketten nahe der kaputten Kirche bis zu den Luxusmarken Richtung Olivaer Platz.
+656|Die historische Einkaufsstraße im Zentrum. Sie hat an Glanz und einige große Läden verloren, hat aber noch Dussmann, Chocolatiers und bekannte Marken.
+657|Zwei kurze Straßen mit dem Besten der Berliner und skandinavischen Mode, Sneakern, Brillen und Designläden, ohne riesige Ketten.
+658|Die freundlichste Straße Kreuzbergs: Buchläden, Secondhandmode, Plattenläden, Geschenkläden und ein Café neben dem anderen.
+659|Die Kastanienstraße verbindet Mitte mit Prenzlauer Berg, vorbei an Läden Berliner Designer, Vintagemode, Plattenläden und Straßencafés.
+660|Berlins großes Luxuskaufhaus seit 1907. Auch wenn du nichts kaufst, fahr in den sechsten Stock: eine ganze Etage Feinkost und Tresen zum Essen.
+661|Das größte Einkaufszentrum im Zentrum, mit rund 300 Läden unter einer Glaspassage, einen Block vom Potsdamer Platz.
+662|Ein anderes Einkaufszentrum in einem Bau aus den 50ern: Designmarken, Pop-up-Läden in Holzboxen und ein großes Fenster zum Affengehege des Zoos.
+663|Das rosa Einkaufszentrum am Alexanderplatz: rund 170 Läden bekannter Ketten, Elektronik und ein großer Food Court.
+664|Dreistöckiges Einkaufszentrum mit rund 100 Läden direkt am Bahnhof Warschauer Straße, zwischen East Side Gallery und Uber Arena.
+665|Fünf Etagen Bücher, Musik, Noten und Filme, mit riesiger englischer Abteilung, vertikalem Garten und kostenlosen Lesungen und Konzerten.
+666|Der Laden des DDR-Ampelmännchens, das zum Berliner Symbol wurde: T-Shirts, Tassen, Süßigkeiten und alles Mögliche.
+667|Der Plattenladen, in dem der Berliner Techno-Sound entstand, seit 1989 geöffnet. Techno-, House-, Dub- und Reggae-Vinyl mit Sachverstand ausgewählt.
+668|Ein Laden für »die guten Dinge, es gibt sie noch«: Werkzeug, Notizbücher, Kleidung und Küchengeräte, die Jahrzehnte halten.
+669|Berlins bekanntester Designermodeladen, versteckt im Hof einer ehemaligen Schlosserei: Kleidung, Sneaker, Magazine und ein Café.
+670|Das monumentale Stadion der Spiele von 1936, Heimat von Hertha BSC und Austragungsort des DFB-Pokalfinales. Beeindruckend, auch wenn es leer ist.
+671|Das Stadion von Union Berlin, mitten im Wald und mit fast nur Stehplätzen. Die intensivste Atmosphäre im deutschen Fußball.
+672|Die große Arena an der Spree (früher Mercedes-Benz Arena): Hier spielen die Basketballer von Alba Berlin und die Eishockeyspieler der Eisbären.
+673|Die Halle direkt am Mauerpark, Heimat der Füchse Berlin (Handball) und der BR Volleys (Volleyball), zwei deutsche Spitzenteams.
+674|Ein halb versenktes Velodrom unter einem runden Stahldach, einer der ungewöhnlichsten Bauten Berlins. Hier findet das klassische Sechstagerennen statt.
+675|Rund 160 ausgeschilderte Kilometer entlang des Mauerverlaufs um Westberlin, durch Kieze, Wälder und an Seen vorbei. Am besten in Etappen mit dem Rad.
+676|Eine flache, schattige Strecke an beiden Ufern des Kanals durch Kreuzberg und Neukölln, zwischen Weiden, Brücken und Schwänen.
+677|Der größte Wald im Westen: kilometerlange Wege zwischen Kiefern, Seen zum Abkühlen und der Teufelsberg für ein paar Höhenmeter.
+678|Ein kegelförmiger Kriegsbunker, der zum Kletterturm unter freiem Himmel wurde, dem höchsten Berlins, mitten auf dem RAW-Gelände.
+679|Renovierte Freiluft-Eisbahn direkt am Tempelhofer Feld. Beliebt, günstig und voller Familien.
+680|Berlins größte Eisbahn: ein 400-Meter-Ring unter freiem Himmel zum Rundendrehen, dazu eine Hockeyfläche in der Mitte.
+681|Geführte Kajaktouren auf dem Landwehrkanal und der Spree, um Kreuzberg und seine Brücken vom Wasser aus zu sehen. Keine Erfahrung nötig.
+682|Indoor-Surfen auf einer künstlichen stehenden Welle, mit Lehrern für Anfänger, Shop, Restaurant und Biergarten.
+683|Die größte Beachvolleyball-Anlage der Stadt: Dutzende Sandfelder, eine Bar mit Liegestühlen und ein Hochseilgarten.
+684|Ein Schwimmbecken in einem Schiff, das auf der Spree schwimmt, mit Sandstrand, Bar und Blick auf den Fernsehturm.
+685|Das klassischste Seebad Europas: über einen Kilometer Sand, Strandkörbe und Gebäude aus den 30ern am Wannsee.
+686|Ein Hallenbad von 1914, das aussieht wie ein römischer Tempel: Säulen, Mosaike und Statuen rund ums Wasser. Eines der schönsten Europas.
+687|Das berlinerischste Freibad: lange Bahnen für ernsthaftes Schwimmen, Wiese zum Liegen und ganz Kreuzberg bunt gemischt.
+688|Ein kleiner See mitten in der Stadt, von Bäumen umgeben, mit Sandstrand, Bar und entspannter Stimmung. Näher kommt man einem See im Zentrum nicht.
+689|Ein Stadt-Spa mit einem Salzwasserbecken unter einer dunklen Kuppel: Du schwebst zwischen farbigen Lichtern und Musik, die man unter Wasser hört.
+690|Die Heimat eines der besten Orchester der Welt, in einem goldenen Saal, in dem das Publikum die Bühne umgibt.
+691|Berlins historisches Opernhaus von 1742, vollständig restauriert: großes Repertoire in einem Rokokosaal gegenüber dem Bebelplatz.
+692|Das größte Opernhaus der Stadt, modern und mit hervorragender Akustik, stark bei Wagner, Verdi und Strauss.
+693|Berlins unbefangenste Oper: Operette, Musicals und mutige Inszenierungen. Während das Stammhaus saniert wird, spielt sie im Schillertheater.
+694|Schinkels klassizistischer Konzertsaal am schönsten Platz Berlins: Sinfonie- und Kammermusik.
+695|Ein ovaler Saal, entworfen von Frank Gehry für Daniel Barenboims Akademie: Kammermusik mit dem Publikum wenige Meter von den Musikern.
+696|Das von Bertolt Brecht gegründete Theater, in einem neobarocken Saal an der Spree. Lebendige Theatergeschichte des 20. Jahrhunderts.
+697|Thomas Ostermeiers Theater: intensive zeitgenössische Inszenierungen, die weltweit touren, in einem Bau von Mendelsohn.
+698|Das »Volkstheater« am Rosa-Luxemburg-Platz, berühmt für seine experimentellen und provokanten Inszenierungen.
+699|Eines der großen deutschsprachigen Theater, fast 150 Jahre alt: Klassiker und neue Autoren in einem wunderschönen Saal.
+700|Das kleinste und vielfältigste der Staatstheater, mit einem Ensemble sehr unterschiedlicher Herkunft und Stücken über das Berlin von heute.
+701|Das einzige Theater der Stadt, das sich ganz englischsprachigen Stücken widmet: Eigenproduktionen und Gastspiele.
+702|Das Premierenkino der DDR von 1963: Glasfassade, Kronleuchter und Panoramabar. Nach einer kompletten Restaurierung 2026 wiedereröffnet.
+703|Ein Kino von 1929 mit seiner Originalorgel: Retrospektiven, Festivals und Stummfilme mit Livemusik.
+704|Das Kino der großen Premieren Westberlins und historische Heimat der Berlinale, renoviert mit riesigen Sesseln.
+705|Freiluftkino im Amphitheater des Volksparks Friedrichshain, mit Platz für über tausend Leute auf Rängen und Rasen.
+706|Sommerkino im Hof des Bethanien, eines ehemaligen Krankenhauses, das zum Kunstzentrum wurde. Fast alles in Originalfassung.
+707|Kiezkino der Yorck-Gruppe, in dem fast alles in Originalfassung läuft, vieles auf Englisch.
+708|Ein Kino mit nur einem Saal, in den Fünfzigern eröffnet, spezialisiert auf englischsprachige Filme in Originalfassung.
+709|Der älteste Zoo Deutschlands und einer der artenreichsten der Welt, mit Großen Pandas als Stars.
+710|Drei Etagen mit Fischen, Quallen, Reptilien und Insekten in einem historischen Gebäude direkt am Zoo.
+711|Der Zoo des Ostens: der größte Tierpark Europas, mit riesigen Gehegen, einem Schloss und viel Grün.
+712|Ein Indoor-LEGO-Park am Potsdamer Platz: ein Berlin im Miniaturformat, Fahrgeschäfte, 4D-Kino und Bauecken.
+713|Ein Museum zum Anfassen, Klettern und Experimentieren in einer alten Fabrik, mit wechselnden Ausstellungen. Für Kinder zwischen 3 und 11 Jahren.
+714|Eine Kirche, die zum Kindermuseum wurde, mit einem mehrstöckigen Holzlabyrinth zum Klettern und Werkstätten.
+715|Das größte Freizeitzentrum für Kinder und Familien in Europa, in der Wuhlheide: Schwimmbad, Theater, Werkstätten und eine Parkeisenbahn.
+716|Wachsfigurenkabinett wenige Schritte vom Brandenburger Tor, mit Figuren von Musikern, Sportlern, Politikern und Filmfiguren.
+717|Das Pergamonmuseum bleibt bis 2027 wegen Bauarbeiten geschlossen. Geh durch die James-Simon-Galerie hinein und hol dir das Kombiticket, wenn du mehr als ein Museum siehst.
+718|Montags geschlossen. Nofretete darf nicht fotografiert werden; komm gleich zur Öffnung, um sie mit weniger Leuten zu sehen.
+719|Montags geschlossen. 2026 wird sie 150 Jahre alt, mit besonderen Veranstaltungen.
+720|Montags geschlossen. Das beste Foto des Gebäudes gelingt von der Monbijoubrücke bei Sonnenuntergang.
+721|Montags geschlossen. Es liegt gegenüber der Insel, auf der anderen Seite des Kanals; such es nicht im geschlossenen Museum.
+722|Die Dauerausstellung ist kostenlos, aber man sollte online ein Zeitfenster buchen. Plan Zeit für die Sicherheitskontrolle ein.
+723|Erwarte keine Dauerausstellung: Das Zeughaus bleibt mindestens bis 2031 geschlossen. Schau vorher, welche Ausstellung läuft.
+724|Montags geschlossen. Kauf das Ticket online, das ist günstiger, und fahr mit der U-Bahn bis Gleisdreieck.
+725|Das Museum wird gerade saniert: Einzelne Säle können geschlossen sein. Tickets für Führungen gibt es am selben Tag an der Kasse.
+726|Montags geschlossen. Auch ohne reinzugehen lohnt es sich, einmal ums Gebäude zu gehen. Daneben liegt die Gemäldegalerie.
+727|Montags geschlossen. Nur wenige Gehminuten vom Hauptbahnhof.
+728|Montags geschlossen. Sie ist riesig: Such dir zwei oder drei Säle aus, statt alles sehen zu wollen.
+729|Dienstags geschlossen. Zehn Gehminuten vom Jüdischen Museum: Beides lässt sich gut verbinden.
+730|Es ist klein und schnell voll. Komm zur Öffnung oder am späten Nachmittag.
+731|Es liegt weit vom Zentrum: Fahr mit der U-Bahn bis Magdalenenstraße. Es gibt Führungen auf Englisch.
+732|Eintritt frei. Dienstags geschlossen. Geh auf die Terrasse, mit Blick auf die Spree und das Regierungsviertel.
+733|Ideal für einen Regentag. Es ist weiter an seinem angestammten Ort an der Karl-Marx-Allee.
+734|Eintritt auf Spendenbasis. Montags geschlossen. Schau dir auch die Wandbilder in der Bülowstraße unter dem U-Bahn-Viadukt an.
+735|Eintritt frei. Steig auf den Turm des Dokumentationszentrums, um alles von oben zu sehen. Das Zentrum ist montags geschlossen, der Außenrundgang nicht.
+736|Komm früh am Morgen, um ohne Leute zu fotografieren. Zum Schluss über die Oberbaumbrücke gehen.
+737|Das Häuschen ist ein Nachbau und es ist sehr touristisch: Kurz anschauen, die Tafeln im Freien lesen und weitergehen. Das Mauermuseum nebenan kostet Eintritt.
+738|Eintritt frei, in weniger als einer Stunde gesehen. Montags geschlossen.
+739|Sonntag ist der Tag. Das Karaoke im Amphitheater gibt es nur bei gutem Wetter in den warmen Monaten.
+740|Wenige Meter vom Checkpoint Charlie. Eine gute Option für einen Regentag.
+741|Nachts ist es beleuchtet und es sind viel weniger Leute da. Reichstag und Holocaust-Mahnmal liegen gleich nebenan.
+742|Kostenlos, aber man muss sich vorher online mit Namen und Geburtsdatum anmelden und den Pass mitbringen.
+743|Darunter gibt es einen kostenlosen Ort der Information, montags geschlossen. Nicht auf die Stelen steigen.
+744|Eintritt frei. Viel Text und schwerer Stoff: Plan ein paar Stunden ein.
+745|Steig auf den Turm des Französischen Doms, um ihn von oben zu sehen. Im Dezember gibt es einen Weihnachtsmarkt.
+746|Das Denkmal ist eine Glasplatte im Boden, in der Mitte des Platzes: Nachts ist es beleuchtet und besser zu sehen.
+747|Es liegt mitten im Treptower Park: Verbinde es mit einem Spaziergang an der Spree.
+748|Du gehst hinein, schaust still und gehst nach fünf Minuten weiter. Eintritt frei.
+749|Es gibt mehrere Themenführungen; vorher buchen. Der Turm (THF Tower) hat eine Ausstellung und eine Terrasse mit Blick aufs Rollfeld und ist auf eigene Faust zu besichtigen.
+750|Kauf das Zeitfensterticket online, um nicht anzustehen. Es war von einer langen Schließung wegen Bauarbeiten die Rede: Schau vorher auf der Website nach.
+751|Man erreicht sie durch die Fußgängertunnel am Kreisverkehr: Überquer nicht die Straße. Es gibt keinen Aufzug.
+752|Schau dir nachts die beleuchtete Kuppel des ehemaligen Sony Centers an. Ein guter Ausgangspunkt für Kulturforum und Tiergarten.
+753|Die beste Zeit ist der Sonnenuntergang, mit der Spree und dem Fernsehturm im Hintergrund. Direkt neben der East Side Gallery.
+754|Such Buenos Aires auf dem Zylinder. Der Platz ist nicht schön, aber er ist die Postkarte Ostberlins.
+755|Montags geschlossen, und bei starkem Wind oder Eis öffnet die Plattform nicht. Er steht auf dem Messegelände im Westen.
+756|Vom Bahnhof aus geht es eine ganze Weile bergauf durch den Wald. Bei Schnee oder Eis kann geschlossen sein.
+757|Montags geschlossen. Der Park ist kostenlos und lohnt sich schon allein. Außen wird bis 2027 gebaut.
+758|Ein Großteil der Ausstellungen ist kostenlos. Dienstags geschlossen. Geh auf die Dachterrasse: einer der besten Ausblicke im Zentrum.
+759|Verbinde es mit einem Bummel durch die Köpenicker Altstadt. Es gibt ein Café mit Terrasse am Wasser.
+760|Im Winter nur am Wochenende und an Feiertagen geöffnet. Der Garten ist frei zugänglich.
+761|Der Eintritt umfasst den Aufstieg zur Kuppel und die Gruft. Während der Gottesdienste keine Besichtigung.
+762|Die Turmruine ist seit Herbst 2026 eingerüstet; die neue Kirche bleibt geöffnet. Von außen sieht man sie immer.
+763|Eintritt frei. Sie steht an einer Ecke des Bebelplatzes: Schau zwei Minuten hinein, auch wenn Kirchen nicht dein Ding sind.
+764|Man steigt über Treppen hinauf. Im Winter ist die Aussicht montags geschlossen und kürzer geöffnet.
+765|Eintritt frei. Montags geschlossen. Tagsüber gibt es kurze Führungen.
+766|Sie liegt mitten im Nikolaiviertel. Schau, ob an deinem Tag ein Orgelkonzert ist.
+767|Samstags geschlossen. Die Kuppel ist nur in den warmen Monaten zugänglich. Am Eingang gibt es eine Sicherheitskontrolle.
+768|Keine freien Besichtigungen: Man kommt zu Gottesdiensten oder Konzerten hinein, etwa zu den Jüdischen Kulturtagen im November.
+769|Außerhalb der Gebetszeiten zu besichtigen, mit Kleidung, die Schultern und Beine bedeckt. Sie liegt am Rand des Tempelhofer Felds.
+770|Eintritt frei und für alle offen. Die Schuhe muss man ausziehen. Er liegt am Rand der Hasenheide.
+771|Leih dir ein Rad und fahr vom Brandenburger Tor zur Siegessäule. Im Sommer ein Bier im Biergarten am See.
+772|Geh bei Sonnenuntergang von der Neuköllner Seite hinein. Geöffnet von Sonnenaufgang bis Sonnenuntergang, ohne Schatten: Nimm Wasser mit.
+773|Geh am Ufer entlang bis zur Insel der Jugend. Vom Hafen fahren die Ausflugsschiffe ab.
+774|Fang am Märchenbrunnen am Eingang an. Im Sommer gibt es Freiluftkino.
+775|Die Gewächshäuser sind ideal bei Kälte. Plan einen halben Tag ein: Er liegt weit vom Zentrum.
+776|Geh bei Sonnenuntergang hinauf. Auf dem Rückweg runter in die Bergmannstraße, etwas essen.
+777|Lauf sie von West nach Ost: anderthalb Kilometer, und du stehst vor dem Dom.
+778|Im Sommer wird in der Dämmerung ein Film über die Geschichte des Parlaments auf die Fassaden projiziert. Auch mit dem Rad schön.
+779|Starte an der Gedächtniskirche und geh nach Westen; die Seitenstraßen sind schöner als die Allee.
+780|Eintritt frei. Der erste Hof ist der schönste. Geh danach in die Passage nebenan, die ganz voller Graffiti ist.
+781|Lauf vom Strausberger Platz zum Frankfurter Tor. Unterwegs liegt das Computerspielemuseum.
+782|Es ist klein: In einer halben Stunde bist du durch. Touristisch, aber gut, um Berliner Küche von früher zu probieren.
+783|Geh die Auguststraße und die Große Hamburger Straße entlang und schau in jeden offenen Hof.
+784|Samstags ist Markt auf dem Platz. Rykestraße und Wasserturm sind zwei Blocks entfernt.
+785|Iss etwas in der Marheineke Markthalle und geh weiter zum Chamissoplatz, der wie aus einem anderen Jahrhundert wirkt.
+786|Komm am frühen Abend: Die Weserstraße erwacht nachts. Tagsüber geh weiter bis zum Kanal.
+787|Samstags gibt es einen Lebensmittelmarkt und sonntags Flohmarkt auf dem Boxhagener Platz.
+788|Hör an der Admiralbrücke auf, wo sich die Nachbarn bei Sonnenuntergang zum Plaudern hinsetzen.
+789|Geh vom Richardplatz zur Kirchgasse. Im Dezember gibt es einen sehr beliebten Weihnachtsmarkt, nur an einem Wochenende.
+790|Täglich geöffnet. Der Aufzug ist laut Hinweis außer Betrieb. Gegenüber liegt das Museum für Fotografie.
+791|Die Führungen sind für kleine Gruppen und Wochen im Voraus ausgebucht: Buch, sobald du ein Datum hast.
+792|Dienstags geschlossen. Auch ohne Ausstellung lohnt sich ein Halt auf der Terrasse am Fluss.
+793|Hinten liegt das Museum Blindenwerkstatt Otto Weidt, kostenlos und bewegend. Im ersten Hof das Anne Frank Zentrum.
+794|Dienstags geschlossen. Verbinde es mit den Galerien der Auguststraße.
+795|Reservier, vor allem abends. Für denselben Tag nehmen sie Reservierungen nur telefonisch an.
+796|Der Biergarten öffnet nur bei gutem Wetter und nimmt keine Reservierungen; in der Gaststätte kann man reservieren.
+797|Nimm sicherheitshalber Bargeld mit und komm hungrig: Die Portionen sind groß.
+798|Reservier telefonisch Tage im Voraus; ohne Reservierung bekommt man schwer einen Tisch.
+799|Gute Option nach einem Bummel durch die Auguststraße; abends besser reservieren.
+800|Probier einen der Hausliköre. Kiezatmosphäre, ideal für ein Abendessen ohne Eile.
+801|Bestell die Königsberger Klopse. Reservier: Der Raum ist klein.
+802|Einen Block von der Eberswalder Straße; verbinde es mit Konnopke oder dem Mauerpark.
+803|Sehr klein: Komm außerhalb der Stoßzeiten. Ein guter Stopp nach der Museumsinsel.
+804|Die Portionen sind sehr groß: Man kann teilen. An manchen Wochenenden gibt es Livemusik.
+805|Gegessen wird im Stehen auf dem Gehweg. Bestell sie »ohne Darm«, wie in Berlin üblich.
+806|Ein guter Stopp zwischen Museumsinsel und Hackeschen Höfen.
+807|Liegt auf dem Weg, wenn du zu den Bunkern der Berliner Unterwelten oder in den Humboldthain gehst.
+808|Gute Wahl, wenn du Biofleisch suchst; meist gibt es auch eine vegetarische Wurst.
+809|Weit vom Zentrum: lohnt sich, wenn du in Steglitz oder im Botanischen Garten bist.
+810|Die Schlange kann sehr lang sein: Komm am Vormittag oder Nachmittag oder bestell die vegetarische Variante.
+811|Weniger Schlange als bei Mustafa's und ähnlich gut oder besser. Drinnen gibt es Tische.
+812|Probier das gerollte Lahmacun mit Salat: lecker und sehr günstig.
+813|Hier isst man im Sitzen: Bestell den Döner auf dem Teller oder eine Grillplatte zum Teilen.
+814|Neben dem Döner probier Köfte oder Linsensuppe. Es gibt weitere Filialen in Neukölln.
+815|Man isst im Stehen oder an Stehtischen. Verbinde es mit einem Spaziergang zur East Side Gallery.
+816|Bestell den gemischten Teller mit Erdnusssoße. Wenige Tische: ideal zum Mitnehmen.
+817|Ein guter schneller Stopp, wenn du abends in Mitte unterwegs bist.
+818|Der gemischte vegetarische Teller reicht für zwei.
+819|Es gibt einen Kiosk zum Mitnehmen und gegenüber einen Laden mit Tischen.
+820|Die Portionen sind groß: Eine reicht für zwei zum Snacken.
+821|Wenige Meter von der East Side Gallery. Nimm Bargeld mit.
+822|Praktisch, wenn ihr mehrere seid und jeder etwas anderes will. Oft gibt es Musik und Events.
+823|Such dir einen Tisch am Fenster oder geh auf die Terrasse des Bikini.
+824|Es gibt mehrere Filialen; die in der Auguststraße ist das Original. Zum Kaffeetrinken, nicht zum Arbeiten.
+825|An Mauerpark-Sonntagen ist es voll: Komm früh. Die Rösterei ist in Kreuzberg.
+826|Geh durch die Passage bis in den Hof. Am Wochenende gibt es Wartezeiten.
+827|Bestell Kaffee und ein Stück Cheesecake. Es gibt auch eine Filiale in Mitte.
+828|Es gibt weitere Filialen, zum Beispiel in der Schlesischen Straße (Kreuzberg).
+829|Nahe der Gedenkstätte Berliner Mauer in der Bernauer Straße: gutes Frühstück vor dem Besuch.
+830|Perfekt für einen Happen in den frühen Morgenstunden oder ein spätes Frühstück.
+831|Für die niedrigen Tische zieht man die Schuhe aus. Besser reservieren.
+832|Keine Reservierungen und am Wochenende immer eine Schlange: Komm direkt zur Öffnung.
+833|Bestell die warme Zimtschnecke. Es gibt eine Schlange, aber sie geht schnell.
+834|Komm morgens: Die Croissants sind schnell weg. Meist montags und dienstags geschlossen.
+835|Setz dich in den alten Salon und bestell Baumkuchen. Nahe der Moabiter Brücke.
+836|Am Wochenende ist früh alles ausverkauft.
+837|Geh in den Hof der Sophie-Gips-Höfe. Draußen gibt es Tische.
+838|Brot und Gebäck zum Mitnehmen; nachmittags ist nur noch wenig da.
+839|Eintritt frei zum Schauen. Oben gibt es heiße Schokolade mit Blick auf den Platz.
+840|Im Sommer reicht die Schlange bis zur Ecke, aber es lohnt sich.
+841|Bestell die hausgemachte Waffel, die vor deinen Augen gebacken wird.
+842|Es gibt mehrere Filialen in der Stadt. Diese liegt nahe dem Viktoriapark.
+843|Ein gutes Dessert nach einem Spaziergang am Landwehrkanal.
+844|Im Bötzowviertel, einem schönen Kiez zum Spazieren.
+845|Bestell die Brioche mit Eis, wie auf Sizilien.
+846|Kleiner, zentraler Laden, ein paar Blocks vom Alexanderplatz.
+847|Reservier Wochen im Voraus. Nur an einigen Abenden pro Woche geöffnet.
+848|Das Mittagsmenü ist der erschwinglichste Weg, es kennenzulernen. Rechtzeitig reservieren.
+849|Mittags gibt es ein kürzeres Menü. Meist am Wochenende geschlossen.
+850|Lass dir die Getränkebegleitung servieren: Sie gehört zum Erlebnis.
+851|Reservier im Voraus. Die alkoholfreie Begleitung wird sehr gelobt.
+852|Zum Hineinkommen muss man klingeln. Fotos sind nicht erlaubt.
+853|Ideal, wenn du einen Michelin-Stern in entspannter Atmosphäre willst. Rechtzeitig reservieren.
+854|Zieh dich schick an und frag nach einem Fenstertisch.
+855|Reservier gegen Sonnenuntergang, um die Aussicht zu genießen.
+856|Sehr wenige Tische: lange im Voraus reservieren.
+857|Ein guter Einstieg in Berlins Spitzenküche ohne viel Förmlichkeit.
+858|Vor dem Essen über den Richardplatz und durch das Böhmische Dorf in Rixdorf spazieren.
+859|Verbinde es mit einem Nachmittag in den Galerien der Gegend.
+860|Setz dich an den Tresen vor der Küche und bestell mehrere Gerichte zum Teilen.
+861|Das Mittagsmenü hat ein sehr gutes Preis-Leistungs-Verhältnis.
+862|Keine Reservierungen: Komm außerhalb der Stoßzeiten.
+863|Bestell eine gemischte Grillplatte zum Teilen. Abends ist es voll: reservieren.
+864|Probier die Masala Dosa. Laut visitBerlin sind die meisten Gerichte glutenfrei: frag vor Ort nach.
+865|Fang mit der Margherita an. Abends besser reservieren.
+866|Bestell eine der Soßen zum Eintunken des Rands.
+867|Geh bis in den zweiten Hof. Zu Stoßzeiten gibt es Wartezeiten.
+868|Schnell, reichlich und günstig. Teil dir Hummus, Musabaha und einen Teller Falafel.
+869|Keine Reservierungen und der Laden ist klein: Komm zur Öffnung. Es gibt eine größere Filiale in Kreuzberg.
+870|Bestell die Rindfleisch-Nudelsuppe und die Wan Tan in Chiliöl.
+871|Stell dir eine Tafel mit kalten und warmen Mezze zum Teilen zusammen.
+872|Bestell Chatschapuri zum Teilen und probier einen georgischen Wein.
+873|Das Schnitzel ist eines der besten Berlins. Reservier: Der Raum ist klein.
+874|Gute Option für ein besonderes Abendessen nach einem Bummel am Kollwitzplatz.
+875|Den Eingang zu finden gehört dazu: Such die Gasse und den Kronleuchter. Reservieren.
+876|Bestell die Cocktailbegleitung. Am Wochenende gibt es Brunch.
+877|Nur abends und an einigen Tagen geöffnet. Im Voraus reservieren.
+878|Dienstags und freitags ist gleich nebenan der türkische Markt am Maybachufer.
+879|Günstig und schnell, ein paar Blocks vom Boxhagener Platz.
+880|Bestell mehrere Tapas zum Teilen. Am Wochenende gibt es Wartezeiten.
+881|Komm früh: Das Beliebteste ist schnell weg.
+882|Nimm Brot für die Reise mit: Es hält sich gut ein paar Tage.
+883|Die Ruhetage unterscheiden sich je nach Quelle: Schau vorher nach.
+884|Direkt am Viktoriapark. Prüf die Öffnungstage vor dem Besuch.
+885|Klingeln und warten. Besser reservieren; drinnen wird gebeten, das Handy nicht zu benutzen.
+886|Komm früh: Die Bar ist klein und schnell voll. Von dort kannst du in derselben Straße von Bar zu Bar ziehen.
+887|Zum Hineinkommen klingeln. Wenige Schritte vom Nollendorfplatz und den Bars in Schöneberg.
+888|Frag nach den Drinks der Woche: Für die lohnt sich der Weg. Nahe dem Bahnhof Rathaus Neukölln.
+889|Klingeln. Hier redet man leise bei einem guten Klassiker, nicht für große Gruppen.
+890|Komm bei Sonnenuntergang und unter der Woche: Am Wochenende steht man am Aufzug an.
+891|Geh in die Neukölln Arcaden und fahr mit dem Aufzug aufs Parkdeck 5. Am besten bei Sonnenuntergang; im Winter kürzer geöffnet.
+892|Gute Idee nach einer Vorstellung in der Philharmonie oder im Wintergarten, die in der Nähe liegen.
+893|Es gibt keine Karte: Sag, welche Spirituose du magst, und lass dich überraschen. Nimm Bargeld mit, Karten werden nicht akzeptiert.
+894|Ideal vor oder nach dem Kino. Am Wochenende voll: Komm früh.
+895|Praktischer Ausgangspunkt für Motzstraße und Fuggerstraße, das Herz des LGBT+-Kiezes.
+896|Der Eingang ist in der Passage des Gebäudes am Kottbusser Tor. Immer voll: Geduld am Tresen.
+897|Der Garten ist in den warmen Monaten geöffnet; den Rest des Jahres bleibt das Restaurant. Im Garten Bargeld mitnehmen.
+898|Verbinde es mit einem Spaziergang oder einer Radtour durch den Park. Das Restaurant ist ganzjährig geöffnet.
+899|Wenige Gehminuten vom Bahnhof Zoologischer Garten. Auch außerhalb des Sommers geöffnet.
+900|Bestell ein Probierbrett, um mehrere zu kosten. Rund ums Gleisdreieck wird gebaut: Prüf den Zugang.
+901|Ein guter Stopp nach dem Reichstag oder wenn du am Hauptbahnhof ankommst, ein paar Minuten entfernt.
+902|Geh zuerst hinauf zum Kreuzberg-Denkmal für den Blick über die Stadt und dann runter auf einen Drink. Im Winter wetterabhängig geöffnet.
+903|Lass dich glasweise beraten: Das ist ihre Stärke. Besser reservieren.
+904|Der erschwinglichste Weg, das Haus kennenzulernen. Es gibt auch Flaschen zum Mitnehmen.
+905|Keine lange Karte: Erzähl, was du magst, und probier. Im selben Block wie mehrere Kreuzberger Bars.
+906|Klein: reservieren. Nutz die Gelegenheit, die Karl-Marx-Allee und ihre Architektur zu erkunden.
+907|Sei großzügig beim Bezahlen: Das System lebt vom guten Willen der Gäste.
+908|Die Tür ist sehr streng: Komm in einer kleinen Gruppe, ruhig und ohne Verkleidung. Die Handykamera wird abgeklebt: Fotos verboten.
+909|Entspanntere Tür als bei anderen Clubs. Drinnen keine Fotos. Mittwochs gibt es Nächte mit neuen DJs.
+910|Öffnet an manchen Wochenenden, nicht an allen: Schau in den Kalender. Strenge Tür und Fotoverbot; im Winter Pause.
+911|Seit 2025 heißt er nur noch Kater. Strenge Tür auch mit Ticket und keine Fotos. Im Sommer öffnet der Garten.
+912|Vor allem in den warmen Monaten geöffnet. Ideal, um den Abend bei Sonnenuntergang ohne den Stress einer harten Tür zu beginnen.
+913|Halt Ausschau nach der Party Gayhane (türkischer und arabischer Pop, LGBT+-Publikum) oder der Roller Disco. Keine harte Tür: Es zählt das Programm.
+914|Geh hinauf zum Spiegelsaal. Es gibt Tanzabende und Kurse für Anfänger: Schau vorher ins Programm.
+915|Es gibt einen Dresscode (Leder, Latex, Dessous oder wenig Kleidung) und er wird durchgesetzt. Fotos verboten, ohne Ausnahme.
+916|Die Tür ist zugänglicher als bei den berühmten Clubs. Drinnen Fotoverbot.
+917|Schau ins Programm: Viele Abende beginnen mit einem Konzert und gehen als Party weiter. Gut, wenn Techno nicht dein Ding ist.
+918|Reservier einen Tisch auf der Website und komm früh, um deinen Platz zu wählen.
+919|Oben gibt es ein Café mit Terrasse, um die Zeit vor der Show zu überbrücken.
+920|Die Jam-Sessions am Mittwoch sind ein Klassiker und meist bei freiem Eintritt.
+921|Reservier im Voraus. Die großen Konzerte finden in der ZigZag Hall auf dem EUREF-Campus statt.
+922|Kauf das Ticket vorher: Die Shows sind ausverkauft. Wenige Schritte vom Bahnhof Schlesisches Tor.
+923|Gegenüber dem alten Flughafen Tempelhof (genau genommen im Ortsteil Tempelhof). Komm früh wegen der Schlange an der Garderobe.
+924|Auf dem RAW-Gelände gibt es Bars, Street Art und Essensstände für davor und danach.
+925|Geh durch den Hof der Kulturbrauerei hinein: Es gibt ein Kino, Bars und im Dezember einen Weihnachtsmarkt.
+926|Man muss kein Deutsch können, um sie zu genießen. Kauf die Tickets rechtzeitig.
+927|Während der Vorstellung kann man essen. Rund um die Feiertage gibt es Familienshows.
+928|Fast kein Text: ideal, wenn du kein Deutsch sprichst. Erkunde vorher die Höfe.
+929|Fast alles ist auf Deutsch: Wähl Musikabende, wenn du die Sprache nicht sprichst. Man erreicht es über den Parkplatz.
+930|Die große Schwester der Bar jeder Vernunft. Komm früh, wenn du vor der Show essen willst.
+931|Buch deinen Platz über Civitatis oder GuruWalk. Fast alle starten am Pariser Platz, aber prüf den Treffpunkt in deiner Buchung. Bargeld fürs Trinkgeld mitnehmen.
+932|Tickets gibt es nur online, nicht vor Ort. Schau auf der Website, welche Touren es auf Englisch oder Spanisch gibt. Nimm eine Jacke mit: Unten ist es kalt.
+933|Die Gedenkstätte im Freien ist kostenlos und auf eigene Faust zu besichtigen. Öffentliche Führungen gibt es an bestimmten Terminen: Schau in den Kalender auf der Website.
+934|Es gibt einen Audioguide auf Spanisch. Mit der Tram M5 oder M6 erreichbar. Schau vorher auf der Website nach den Zeiten der englischen Führungen.
+935|An Spiel- oder Konzerttagen keine Führungen: Schau vorher in den Kalender. Mit der U2 oder S-Bahn bis Olympiastadion.
+936|Reedereien: Reederei Riedel oder Stern und Kreis. Abfahrt an der Friedrichstraße, im Nikolaiviertel und am Hauptbahnhof. Im Winter weniger Fahrten.
+937|Man fährt mit dem normalen Nahverkehrsticket (Tarifbereich AB). Setz dich oben vorne, wenn es ein Doppeldecker ist. Meide die Rushhour.
+938|Gilt mit dem normalen Ticket (Tarifbereich AB). Kombinier ihn mit dem 100er: hin mit dem einen, zurück mit dem anderen, und du siehst fast das ganze Zentrum.
+939|Anbieter: Fat Tire Tours, am Fuß des Fernsehturms am Alexanderplatz. Die Touren sind auf Englisch. Besser reservieren, vor allem von April bis Oktober.
+940|Anbieter: TrabiWorld, nahe dem Checkpoint Charlie. Wer fährt, braucht einen Führerschein. Bis zu vier Personen passen in ein Auto.
+941|Anbieter: Alternative Berlin Tours (auf Englisch). Der Treffpunkt hat sich 2026 geändert: Bestätige ihn bei der Buchung. Auf freewalkingtour.com gibt es Varianten auf Trinkgeldbasis.
+942|Anbieter: unter anderem Secret Food Tours. Jeder startet an einem anderen Ort in Kreuzberg: Schau in deiner Buchung nach dem Treffpunkt. Komm hungrig.
+943|Anbieter: Insider Tour Berlin (auf Englisch); auf Spanisch gibt es Varianten über Civitatis. Start meist an der Touristeninfo am Brandenburger Tor.
+944|Mit der S7 oder einem Regionalzug bis Potsdam Hauptbahnhof; du brauchst ein Ticket für den Tarifbereich ABC. Plan den ganzen Tag ein.
+945|Wenige Gehminuten vom Potsdamer Zentrum, auf dem Weg nach Sanssouci. Ideal zum Mittagessen oder für Kaffee und Kuchen beim Ausflug.
+946|Mit dem schnellen Zug weniger als zwei Stunden ab Berlin Hauptbahnhof. Früh los und abends zurück; kauf das Ticket im Voraus, das ist günstiger.
+947|Mit dem schnellen Zug gut eine Stunde ab Berlin Hauptbahnhof. Das Zentrum ist vom Bahnhof aus komplett zu Fuß erreichbar.
+948|Mit dem schnellen Zug etwa 40 Minuten, mit dem Regionalzug rund eine Stunde. Vom Bahnhof ins Zentrum ist es ein kurzer Fußweg.
+949|Die Tickets haben Zeitfenster und sind schnell weg: online im Voraus kaufen. Der Park ist kostenlos. Ab Potsdam Hbf mit dem Bus 695.
+950|Es liegt am anderen Ende des Parks: ein schöner Spaziergang von Sanssouci. Im Winter nur mit Führung. Dienstags geschlossen.
+951|S-Bahn bis Wannsee, Bus 218 und eine Fähre, die in wenigen Minuten übersetzt. Rauchen, Fahrräder und Hunde sind verboten. Das Schloss sieht man mit Führung.
+952|Der Park ist kostenlos. Das Schlossinnere ist noch eine Baustelle und öffnet nur bei Sonderführungen. S7 bis Babelsberg und ein Stück mit Bus oder zu Fuß.
+953|S1 oder Regionalzug bis Oranienburg (Tarifbereich ABC) und ein paar Minuten zu Fuß. Innen mit Führung: Schau vorher, an welchen Tagen geöffnet ist.
+954|Es ist weit: rund zwei Stunden mit dem Regionalzug und Umstieg, oder mit dem Auto. Am besten von April bis Oktober; montags geschlossen und im Winter kürzer geöffnet.
+955|Regionalzug RE2 bis Lübbenau, etwa eine Stunde, und ein paar Minuten zu Fuß zum Hafen. Die Kähne fahren vor allem von März bis Oktober.
+956|S3 bis Friedrichshagen und dann die Bölschestraße hinunter zum Ufer. Das Strandbad Rahnsdorf war 2026 eine Baustelle.
+957|Die S1 hält am Bahnhof Schlachtensee, wenige Meter vom Wasser (Tarifbereich AB). Die ganze Runde zu Fuß dauert gut eine Stunde.
+958|Regionalzug RE1 ab Berlin Hauptbahnhof über Potsdam (Tarifbereich C). Vom Bahnhof zur Insel mit dem Bus oder ein längerer Fußweg.
+959|Ein langer Ausflug: Zug nach Dresden, dann S1 bis Kurort Rathen, mit der Fähre über den Fluss und zu Fuß hinauf. Der Zugang zur Brücke ist frei.
+960|Eintritt frei. S1 oder Regionalzug bis Oranienburg (Tarifbereich ABC), von dort Bus oder etwa 20 Minuten zu Fuß. Plan einen halben Tag ein und zieh dich warm an: Alles ist draußen.
+961|Eintritt frei. S1 oder S7 bis Wannsee, der Bus 114 hält vor der Tür. An einigen Feiertagen geschlossen.
+962|Mit dem Bus ab Bahnhof Wannsee oder mit der Tram ab Potsdam Hauptbahnhof. Such auf dem Boden die Linie, die die alte Grenze markiert.
+963|Eintritt frei. Regionalzug RE5 bis Fürstenberg/Havel, etwa anderthalb Stunden, dann ein ausgeschilderter Fußweg.
+964|Am Rosenthaler Platz, mit U-Bahn und Tram vor der Tür. Die Zimmer zur Straße sind wegen der Tram laut: Frag nach einem nach hinten.
+965|Wegen der wenigen Betten schnell ausgebucht: rechtzeitig reservieren. Nahe dem U2-Bahnhof Senefelderplatz.
+966|Ideal, wenn du gut schlafen willst: ruhiger als andere. Wenige Schritte vom Bahnhof Senefelderplatz und den Bars der Kastanienallee.
+967|Gut für Gruppen und wer Trubel sucht. Die Meinungen zum Zustand sind gemischt: Lies vor der Buchung aktuelle Bewertungen.
+968|Direkt am Bahnhof Möckernbrücke (U1 und U7), von wo du schnell überall hinkommst. Keine Haustiere.
+969|Wähl es, wenn du ausgehen und Leute kennenlernen willst, nicht wenn du Ruhe suchst. Der U2-Bahnhof Rosa-Luxemburg-Platz liegt gegenüber.
+970|Praktisch, wenn du spät ankommst oder früh mit dem Zug weiterfährst. Keine Klimaanlage: Im Hochsommer werden die Zimmer warm.
+971|Frag nach einer hohen Etage mit Blick auf den Fernsehturm. Motel One hat noch mehrere Hotels in der Stadt, alle ähnlich und verlässlich.
+972|Die Zimmer zum Hof sind die ruhigen. Am Rosenthaler Platz, mit der U8 und den Trams M1 und M8 an der Ecke.
+973|Frag nach einer hohen Etage mit Blick auf den Fernsehturm. Seit August 2026 führt Radisson das Haus direkt, am Sockel des Gebäudes sind Bauarbeiten geplant.
+974|Wenige Schritte von den Bahnhöfen Warschauer Straße und Ostbahnhof. An Konzertabenden in der Arena ist die Gegend voll und die Preise steigen.
+975|Frag nach einem Zimmer mit Flussblick. Ein kurzer Spaziergang zur East Side Gallery und zum Bahnhof Warschauer Straße.
+976|Im Galerienviertel der Potsdamer Straße, zu Fuß zum Potsdamer Platz. Haustiere gegen Aufpreis erlaubt.
+977|Die Zimmer sind klein: Wenn du viel Gepäck hast, nimm eine Kategorie höher. Zwei Blocks vom Rosenthaler Platz und vom Hackeschen Markt.
+978|Gegenüber dem Bahnhof Warschauer Straße, ideal zum Ausgehen. Die Zimmer zum Hof sind ruhiger als die zur Straße.
+979|Prüf, ob der Pool an deinen Tagen geöffnet ist: Er schließt für Wartung und Events. Die Straße ist eine der schönsten im Kiez.
+980|Frag nach einem Zimmer auf der »Jungle«-Seite, um den Zoo zu sehen. Bäder und Zimmer wurden 2025 renoviert. Bei Sonnenuntergang ist die Dachbar voll: früh hochgehen.
+981|Wenige Gehminuten vom Kurfürstendamm. Eher für Paare als für Familien.
+982|Am Oranienplatz, umgeben von Bars und Restaurants. Schau ins Livemusikprogramm: Es ist meist öffentlich.
+983|Am Ku'damm, der Einkaufsmeile des Westens. Die Zimmer zum Hof sind die ruhigsten.
+984|Einer der ruhigsten Orte im Zentrum, mit dem Tiergarten vor der Tür. Es heißt, es werde 2027 zum Sofitel.
+985|Wenige Zimmer und schnell ausgebucht: im Voraus reservieren. Unten gibt es ein sehr beliebtes Restaurant und eine Bar.
+986|Von der Straße aus nicht zu sehen: Der Eingang ist durch das alte Amtsgericht. Das Restaurant Lovis im selben Hof lohnt ein Abendessen.
+987|Auch ohne Übernachtung kannst du in der Lobby mit dem Elefantenbrunnen einen Kaffee oder den Nachmittagstee nehmen. Besser einen Tisch reservieren.
+988|Wenige Schritte von Philharmonie, Tiergarten und Holocaust-Mahnmal. Gut, wenn du für Konzerte oder das Filmfestival anreist.
+989|Der Eingang ist leicht zu übersehen, gegenüber dem ehemaligen Sony Center. Ideal für längere Aufenthalte: Viele Zimmer haben eine Küche.
+990|Frag nach einer hohen Etage: Die Aussicht ist das Beste am Hotel. Der Bahnhof Zoologischer Garten ist zwei Gehminuten entfernt.
+991|Ein Rückzugsort fern vom Zentrum: richtig, wenn du Ruhe und Wald suchst, nicht wenn du zu Fuß zu den Museen willst.
+992|Samstag ist der große Markttag. Donnerstagabends gibt es den Street Food Thursday: Komm hungrig und mit Geduld.
+993|Der Samstagsmarkt ist größer und länger als der am Mittwoch. Komm am Vormittag und bleib zum Mittagessen an den Ständen.
+994|Nimm Bargeld mit: Viele Stände nehmen keine Karte. Kurz vor Schluss werden Obst und Gemüse billig verkauft.
+995|Der Samstagsmarkt ist größer und eher zum Bummeln; der Donnerstagsmarkt mehr für Bio-Erzeuger. Ringsum gibt es genug Cafés zum Weitermachen.
+996|Sonntags geschlossen. An manchen Samstagen gibt es drinnen einen lokalen Designmarkt (Makers Market).
+997|Sonntags geschlossen. Am Ende der Bergmannstraße: Verbinde beides bei einem Spaziergang.
+998|Samstags und sonntags. Teurer als die anderen: Handel respektvoll. Steig am S-Bahnhof Tiergarten aus.
+999|Nicht jeden Sonntag: meist alle zwei Wochen, vom Frühling bis Anfang Dezember. Schau vorher nach den Terminen.
+1000|Fang am KaDeWe (Wittenbergplatz) an und geh nach Westen. Sonntags ist fast alles geschlossen, wie überall in Deutschland.
+1001|Die Galeries Lafayette haben geschlossen und das Quartier 206 steht fast leer: Erwarte keine große Einkaufsmeile. Das Beste liegt in Bahnhofsnähe.
+1002|Geh weiter durch die Mulackstraße und die Rosenthaler Straße, die mehr kleine Läden haben. Unter der Woche ist es viel ruhiger.
+1003|Fang am Mehringdamm an und hör zum Mittagessen in der Marheineke Markthalle auf. Sonntags sind die Läden zu, die Cafés aber nicht.
+1004|Mach es an einem Sonntag zusammen mit dem Mauerpark nebenan: Die Läden sind zu, aber die Straße ist voller Leben.
+1005|Sonntags geschlossen. Wird schrittweise renoviert: Manche Bereiche können Baustelle sein. Ganz oben gibt es ein Restaurant mit Aussicht.
+1006|Gute Zuflucht an einem Regentag zwischen Potsdamer Platz und Checkpoint Charlie. Der Food Court ist im obersten Stock.
+1007|Geh auf die frei zugängliche Dachterrasse. Drinnen ist Kantini, ein Food Court mit Küchen aus aller Welt.
+1008|Praktisch, wenn du etwas im Koffer vergessen hast oder es regnet. Samstagnachmittags voll: lieber unter der Woche.
+1009|Gut für einen Happen oder um die Zeit vor einem Konzert oder Spiel in der Uber Arena gegenüber zu überbrücken.
+1010|Bis sehr spät geöffnet, ideal nach dem Abendessen. Sonntags geschlossen. Hinten gibt es ein Café am vertikalen Garten.
+1011|Das berlinerischste Mitbringsel. Dies ist der größte Laden; das Original ist in den Hackeschen Höfen.
+1012|Er ist aus Kreuzberg weggezogen: Jetzt ist er im Kraftwerk, demselben Gebäude wie der Club Tresor. Nachmittags geöffnet und sonntags geschlossen.
+1013|Nebenan hat er eine eigene Bäckerei und einen Lebensmittelladen, gut für ein schnelles Mittagessen. Nahe dem Bahnhof Ernst-Reuter-Platz.
+1014|Von der Straße aus nicht zu sehen: Durchs Tor in den Hof gehen. Auch ohne Einkauf lohnt das Café drinnen einen Halt.
+1015|Man kann es allein oder mit Führung besichtigen, außer an Veranstaltungstagen. Karten für Hertha gibt es meist; an Spieltagen gibt es Führungen.
+1016|Karten zu bekommen ist sehr schwer: Mitglieder haben Vorrang und alles ist sofort weg. Behalte den offiziellen Vorverkauf des Vereins rechtzeitig im Blick.
+1017|Ein Eisbären-Spiel ist ein toller Winterplan, auch wenn du nichts von Eishockey verstehst. Für Alba bekommt man meist leichter einen Platz.
+1018|Tickets gibt es online und meist zu fairen Preisen. Passt gut zu einem Nachmittag im Mauerpark.
+1019|Das große Ereignis ist das Wochenende des Sechstagerennens Ende Januar: Bahnradsport, Musik und Bier. Den Rest des Jahres gibt es Konzerte.
+1020|Beim ersten Mal den innerstädtischen Abschnitt fahren: von der Bernauer Straße zur East Side Gallery. Leih dir ein Rad für den Tag.
+1021|Früh los: Nachmittags füllen sich die Ufer mit Spaziergängern. An Markttagen das Maybachufer meiden.
+1022|Mit der S-Bahn bis Bahnhof Grunewald. Rennradfahrer nutzen den Kronprinzessinnenweg, eine asphaltierte Gerade fast ohne Autos.
+1023|Ausrüstung kann vor Ort geliehen werden, es gibt Kurse für Anfänger. Daneben gibt es auch einen Boulderbereich.
+1024|Nur im Winter, etwa von November bis Mitte März. Schlittschuhverleih vor Ort; Laufzeiten in Blöcken.
+1025|Nur im Winter, ab Mitte November. Am Wochenende voll: Unter der Woche läuft es sich viel bequemer.
+1026|Vorher buchen: Es geht in kleinen Gruppen und in der warmen Jahreszeit los. Treffpunkt ist ein blauer Lieferwagen am Urbanhafen.
+1027|Buch dein Zeitfenster online; die Ausrüstung ist inklusive. Wenn du dich nicht traust, kannst du von der Bar aus zuschauen.
+1028|Von Mai bis September geöffnet. Plätze werden stundenweise gebucht; es gibt offene Treffen, wenn du allein kommst.
+1029|Nur im Sommer. Einlass in Zeitfenstern, Tickets online nur wenige Tage im Voraus: Ohne Ticket kein Einlass.
+1030|Von Mai bis Mitte September geöffnet. An heißen Wochenenden voll: früh kommen und das Ticket online kaufen.
+1031|Schau vorher nach den Zeiten fürs öffentliche Schwimmen: Manche Zeiten sind für Kurse und Vereine reserviert. Es gibt auch eine frisch renovierte Sauna.
+1032|Von Mai bis Ende September geöffnet. An heißen Tagen muss man das Ticket online im Voraus kaufen.
+1033|Schwimmen ist nur im Strandbad erlaubt, das privat ist und eigene Preise hat. Schau vorher auf die Website.
+1034|Ganzjährig und bis spät geöffnet. Die Saunen sind gemischt und textilfrei, wie in Deutschland üblich. An manchen Abenden legt ein DJ live auf.
+1035|Die Karten sind schnell weg: Kauf sie, sobald der Verkauf beginnt. Frag nach den kostenlosen Lunchkonzerten im Foyer.
+1036|Es gibt englische Übertitel. Meist sind günstige Karten mit eingeschränkter Sicht übrig.
+1037|Der U-Bahnhof Deutsche Oper liegt direkt vor der Tür. Es gibt englische Übertitel.
+1038|Achtung: Nicht zum alten Haus in der Behrenstraße gehen, das saniert wird. Manche Vorstellungen sind an anderen Orten: Schau auf dein Ticket.
+1039|Auch ohne Konzert lohnt der Platz einen Besuch. Es gibt Führungen durch das Gebäude.
+1040|Es gibt keine schlechten Plätze: Auch die günstigsten Karten lohnen sich sehr.
+1041|Such im Spielplan nach Vorstellungen mit englischen Übertiteln.
+1042|Es gibt Vorstellungen mit englischen (und manchmal französischen) Übertiteln: Sie sind im Kalender markiert.
+1043|Lange, unkonventionelle Inszenierungen: Lies vor dem Ticketkauf, worum es geht.
+1044|Mehrere Vorstellungen haben englische Übertitel. Am selben Platz gibt es ein paar Bars für danach.
+1045|Am bequemsten für Touristen: Fast alle Vorstellungen haben englische Übertitel.
+1046|Die sichere Wahl, wenn du kein Deutsch sprichst. Nahe der Bergmannstraße, schön zum Abendessen davor.
+1047|Trink etwas in der Bar im ersten Stock mit Blick auf die Allee. Montags gibt es meist einen queeren Filmabend.
+1048|Halt Ausschau nach Stummfilmen mit Orgel; manche sind bei freiem Eintritt.
+1049|Saal 1 mit Vorhang und Lichtshow ist der, der sich lohnt. Schau, ob die Vorstellung in Originalfassung (OV) läuft.
+1050|Nur in der Saison, von Mai bis September. Nimm eine Jacke und eine Decke mit; viele Filme laufen im Original mit Untertiteln.
+1051|Nur in der Saison, von Mai bis September. Die Liegestühle sind schnell belegt: früh kommen.
+1052|Im Programm bedeutet OV Originalfassung ohne Untertitel und OmU Original mit deutschen Untertiteln.
+1053|Am verlässlichsten für neue Filme auf Englisch. In derselben Straße, in der David Bowie wohnte.
+1054|Kauf das Ticket online, um nicht anzustehen. Es gibt ein Kombiticket mit dem Aquarium.
+1055|Perfekt für einen Regentag. Das einzige Aquarium, das in der Stadt geblieben ist: Das Sea Life hat 2024 geschlossen.
+1056|Er ist riesig: Plan den ganzen Tag und bequeme Schuhe ein. Die U5 hält vor der Tür.
+1057|Für Kinder zwischen 3 und 10 Jahren gedacht; Erwachsene kommen nur in Begleitung eines Kindes hinein. Besser ein Zeitfenster buchen.
+1058|Geöffnet vor allem freitags, am Wochenende und in den Schulferien: Schau vorher nach. Nimm Socken mit, drinnen geht man ohne Schuhe.
+1059|Ideal für Kinder zwischen 4 und 12 Jahren. Unter der Woche nur nachmittags geöffnet; in der Nähe gibt es mehrere Spielplätze.
+1060|Am Wochenende gibt es Themenprogramme. An den Parkeingängen wird gebaut: Folge den Schildern.
+1061|Kauf das Zeitfensterticket online. Ein guter kurzer Plan für einen Regentag.
+1062|In dem Gebäude, in dem die Verschwörer des Hitler-Attentats von 1944 erschossen wurden: eine Ausstellung über die Menschen, die dem Nationalsozialismus Widerstand leisteten.
+1063|Der Eintritt ist frei. Schau dir den Hof an, dort steht das Denkmal für die Hingerichteten.
+1064|Ein Betonblock am Rand des Tiergartens mit einem kleinen Fenster, in dem ein Video von zwei Menschen läuft, die sich küssen.
+1065|Es liegt gegenüber dem Denkmal für die ermordeten Juden Europas: am besten zusammen besuchen.
+1066|Ein dunkles, rundes Becken mit einem Stein in der Mitte, auf den jeden Tag eine frische Blume gelegt wird, neben dem Reichstag.
+1067|Ein Ort der Stille. Wenige Schritte vom Reichstag und vom Brandenburger Tor entfernt.
+1068|Das Rathaus Berlins, aus rotem Backstein und mit einem 74 Meter hohen Turm, gegenüber dem Neptunbrunnen.
+1069|An Werktagen kann man die Halle und einige Säle betreten: frag am Eingang.
+1070|Der große Barockbrunnen mit Neptun und vier Frauen, die die Flüsse Preußens darstellen, zwischen Rotem Rathaus und Marienkirche.
+1071|Schönes Foto mit dem Fernsehturm im Hintergrund.
+1072|Eine der ältesten Kirchen Berlins, aus dem 13. Jahrhundert, am Fuß des Fernsehturms. Innen gibt es ein mittelalterliches Totentanz-Gemälde.
+1073|Der Eintritt ist frei. An manchen Tagen gibt es Orgelkonzerte.
+1074|Barockkirche mit dem ältesten erhaltenen Kirchturm Berlins, versteckt in einem grünen Hof im Scheunenviertel.
+1075|Kombiniere sie mit einem Spaziergang durch die Große Hamburger Straße und die Hackeschen Höfe.
+1076|Kleiner, baumreicher Friedhof, auf dem Bertolt Brecht, Hegel, Fichte und viele Berliner Künstler begraben sind.
+1077|Am Eingang gibt es einen Plan mit den bekannten Gräbern. Nebenan steht das Brecht-Haus.
+1078|Das Einzige, was vom einst größten Bahnhof Berlins übrig ist: ein Stück Fassade, das den Krieg überstanden hat.
+1079|Zwei Blocks von der Topographie des Terrors und dem Deutschen Technikmuseum entfernt.
+1080|Krieg
+1081|Eine Renaissancefestung, umgeben von Wasser, eine der besterhaltenen Europas, mit Museen und dem mittelalterlichen Juliusturm.
+1082|Mit der U7 bis Zitadelle. Im Sommer gibt es Open-Air-Konzerte im Hof.
+1083|Das weiße Schloss aus dem 18. Jahrhundert, in dem der deutsche Bundespräsident wohnt und arbeitet, am Rand des Tiergartens.
+1084|Man sieht es von außen. Wenn die Flagge gehisst ist, ist der Bundespräsident in Berlin.
+1085|Drei 30 Meter hohe Aluminiumfiguren, die sich mitten in der Spree treffen, dort wo drei Bezirke aus Ost und West aneinanderstießen.
+1086|Am besten sieht man ihn von der Elsenbrücke oder von einem Boot auf der Spree.
+1087|Ein riesiger Park mit Gärten verschiedener Kulturen: chinesisch, japanisch, koreanisch, orientalisch und italienisch, dazu eine Seilbahn.
+1088|Mit der U5 bis Kienberg. Plane einen halben Tag ein; im Frühling ist er am schönsten.
+1089|In einem alten Offizierskasino neben dem Bahnhof Zoo, mit der Sammlung von Helmut Newton und Fotoausstellungen.
+1090|Montags geschlossen. Wenige Schritte vom Bahnhof Zoologischer Garten entfernt.
+1091|Zeichnungen, Drucke und Skulpturen von Käthe Kollwitz, der großen Berliner Künstlerin, im Theaterbau des Schlosses Charlottenburg.
+1092|Es liegt gegenüber dem Schloss Charlottenburg: am besten zusammen besuchen.
+1093|Café im Wiener Stil Unter den Linden, ein Klassiker bei Politikern und Journalisten: Apfelstrudel, Schnitzel und Zeitungen zum Lesen.
+1094|Guter Stopp zwischen Brandenburger Tor und Museumsinsel. Bestell den Apfelstrudel.
+1095|Historisches Café an der Karl-Marx-Allee, seit 1953 geöffnet, mit einer kleinen Ausstellung über die Prachtstraße der DDR.
+1096|Guter Stopp zum Ausruhen, während du die Allee entlanggehst.
+1097|Café und Blumenladen in Prenzlauer Berg, bekannt für Frühstück auf Etageren.
+1098|Am Wochenende ist es zum Frühstück voll: komm früh.
+1099|Eine winzige Espressobar in Schöneberg mit Schlange auf dem Gehweg: für viele einer der besten Kaffees der Stadt.
+1100|Man trinkt schnell und im Stehen. Bestell den Latte des Hauses.
+1101|Spezialität
+1102|Café im Hof eines Ballsaals aus dem 19. Jahrhundert, mitten im ältesten Teil von Neukölln.
+1103|Der Hof ist ideal an schönen Tagen. In der Nähe von Rixdorf, dem Böhmischen Dorf.
+1104|Specialty Coffee mit Magazinen aus aller Welt, im Norden von Kreuzberg.
+1105|Etwa zehn Minuten zu Fuß vom Jüdischen Museum und vom Checkpoint Charlie.
+1106|Pionier der Kaffeerösterei in Berlin, mit Bagels, Cheesecake und Brownies in der Bergmannstraße.
+1107|Das Wochenendfrühstück ist seine Stärke.
+1108|Café und Konditorei am Kollwitzplatz, bekannt für riesige hausgemachte Torten.
+1109|Ideal für Kaffee und Kuchen nach dem Samstagsmarkt am Kollwitzplatz.
+1110|Konditorei und Café in Neukölln, in dem alles pflanzlich ist (ohne tierische Produkte, laut seiner Website): Torten, Tartes und Gebäck.
+1111|In der Nähe des Tempelhofer Felds: guter Stopp vor oder nach dem Spaziergang.
+1112|Nahöstliche Küche zum Teilen im obersten Stock des 25hours Hotels, mit Blick auf den Zoo.
+1113|Reservier und frag nach einem Fensterplatz: Man sieht den Zoo von oben.
+1114|Aussicht
+1115|Naher Osten
+1116|Nahöstliche Küche am Landwehrkanal: Hummus, Shakshuka und ausgiebiges Frühstück.
+1117|Ideal zum Frühstück oder für ein spätes Mittagessen. Am Wochenende voll.
+1118|Türkisches Restaurant mit Tischen am Landwehrkanal: Meze, Fisch und Ofengerichte.
+1119|Im Sommer einen Tisch draußen am Kanal reservieren.
+1120|türkisch
+1121|Kanal
+1122|Rheinische Kneipe am Spreeufer voller Fotos der deutschen Politik, mit Kölsch und Hausmannskost.
+1123|Bestell ein Kölsch: Es kommt in kleinen Gläsern, die immer wieder nachgefüllt werden.
+1124|deutsche Küche
+1125|Elsässische Küche am Kollwitzplatz: Flammkuchen, Choucroute und Weine aus der Region.
+1126|Bestell den Flammkuchen, einen dünnen Teig mit Schmand, Zwiebeln und Speck.
+1127|Brathähnchen mit Knoblauchsoße, ein Klassiker der „arabischen Straße“ in Neukölln.
+1128|Schnell und günstig. Bestell das Hähnchen mit Pommes und Knoblauchsoße.
+1129|Kiezgasthaus mit langen Gemeinschaftstischen, Flammkuchen und deutscher und elsässischer Küche, im Sommer mit Garten.
+1130|Wenn ihr nur wenige seid, sitzt ihr vielleicht an einem geteilten Tisch: Das gehört zum Charme.
+1131|Luxushotel im ehemaligen Bankgebäude am Bebelplatz, mit Pool im Tresorraum und Dachterrasse.
+1132|Auch ohne Übernachtung kannst du im Sommer etwas auf der Terrasse trinken.
+1133|Hotel im Jugendstilgebäude von 1913 des ehemaligen Hotels am Steinplatz, mit eigener Bar und eigenem Restaurant, nahe Bahnhof Zoo.
+1134|Gut gelegen, um den Westen zu erkunden: Kurfürstendamm, Zoo und Gedächtniskirche.
+1135|Hotel für LGBT+-Gäste und offen für alle, nahe Nollendorfplatz, mit Dachterrasse.
+1136|Es liegt im LGBT+-Ausgehviertel von Schöneberg.
+1137|Das größte Hotel Deutschlands, an einem Kanal, mit eigener Show von Star-Doubles.
+1138|Es liegt weit vom Zentrum, aber mit der S-Bahn kommst du überallhin.
+1139|Shows
+1140|Boutiquehotel in zwei Altbauten mit Innengarten, in einer ruhigen Straße in Prenzlauer Berg.
+1141|Sehr ruhig und nahe Kollwitzplatz. Ideal für Paare.
+1142|Großes Hotel am Tiergarten und am Zoo, mit Spa und einem Restaurant im 14. Stock mit Blick über die Stadt.
+1143|Praktisch für Familien: Zoo und Park liegen direkt gegenüber.
+1144|Park
+1145|Klassisches Hotel am Kurfürstendamm, wenige Blocks von der Gedächtniskirche.
+1146|Ideal zum Einkaufen am Ku'damm und im KaDeWe.
+1147|Kleine Pension mit individuell eingerichteten Zimmern, gegenüber dem Mauerpark.
+1148|Wenige Schritte vom Sonntagsflohmarkt und der U2 Eberswalder Straße.
+1149|Hotel eines privaten Clubs in einem historischen Gebäude aus den 1920er-Jahren, mit Dachpool für Gäste.
+1150|Gäste können die Terrasse und den Pool oben nutzen.
+1151|Apartments mit Küche und Hotelservice an der East Side Gallery und der Spree.
+1152|Gut für längere Aufenthalte oder zum Selberkochen.
+1153|Küche
+1154|Großes Hostel neben dem S-Bahnhof Landsberger Allee, mit Mehrbett- und Einzelzimmern.
+1155|Mit der Ringbahn bist du schnell in Friedrichshain und im Zentrum.
+1156|Modernes Hotel an der Spree, nahe Ostbahnhof und East Side Gallery.
+1157|Gut gelegen für das Nachtleben in Friedrichshain und Kreuzberg.
+1158|Die zweitgrößte Stadt Deutschlands: ein riesiger Hafen, Kanäle, die Speicherstadt aus Backstein (UNESCO) und die Elbphilharmonie.
+1159|Mit dem ICE in weniger als zwei Stunden. Geh auf die Plaza der Elbphilharmonie, sie ist kostenlos.
+1160|Hafen
+1161|Die Stadt, die der Region ihren Namen gab, umgeben von Flüssen und Seen, mit einem über 800 Jahre alten Dom.
+1162|Mit dem Regionalzug unter einer Stunde. Ideal im Sommer zusammen mit einer Bootsfahrt.
+1163|Die Ruinen eines gotischen Backsteinklosters aus dem 13. Jahrhundert, mitten im Wald und an einem See.
+1164|Im Sommer gibt es klassische Konzerte in den Ruinen. Erreichbar mit dem Regionalzug.
+1165|Das Landhaus im englischen Stil, in dem sich 1945 Truman, Stalin und Churchill (später ersetzt durch Attlee) trafen, um über die Zukunft Nachkriegsdeutschlands zu entscheiden.
+1166|Kombiniere es mit dem Neuen Garten und dem Rest von Potsdam an einem Tag.
+1167|Das älteste erhaltene Schloss der Potsdamer Gegend, am Seeufer, mit barocken Sälen voller Fliesen.
+1168|In der Nähe steht das Sommerhaus von Albert Einstein. Erreichbar mit dem Bus ab Potsdam.
+1169|Ein Kurort am Ufer eines der größten Seen der Region, mit Stränden, Therme und Spazierwegen.
+1170|Mit dem Regionalzug in anderthalb Stunden. Im Sommer ideal zum Schwimmen.
+1171|Therme
+1172|Ein Baumkronenpfad über einer alten, verlassenen Heilstätte mit überwucherten Backsteinbauten.
+1173|Mit dem Regionalzug bis Beelitz-Heilstätten. Die Ruinen sieht man nur vom Pfad aus oder mit einer Führung.
+1174|Die Porzellanstadt an der Elbe, mit einer gotischen Burg und einem Dom hoch oben auf dem Hügel.
+1175|Kombiniere sie mit Dresden: eine halbe Stunde mit dem Regionalzug.
+1176|Polizeiabschnitt 15
+1177|Am nächsten zum Mauerpark und zur Kastanienallee.
+1178|Polizeiwache Kottbusser Tor
+1179|Kleine Wache direkt am Kottbusser Tor, einer Gegend, in der nachts viel los ist.
+1180|Polizeiabschnitt 54
+1181|Am nächsten zum Kneipenviertel von Neukölln.
+1182|Polizeiabschnitt 41
+1183|Am nächsten zu Schöneberg und zum Nollendorfplatz.
+1184|Öffentlich. Notaufnahme rund um die Uhr; am nächsten zum Süden von Schöneberg.
+1185|Notaufnahme rund um die Uhr; nahe dem Tempelhofer Park.
+1186|Notaufnahme rund um die Uhr; am nächsten zu Wilmersdorf.
+1187|Universitätsklinikum. Notaufnahme rund um die Uhr; für den Südwesten der Stadt.
+1188|Fernzüge Richtung Süden (Leipzig, München, Dresden) und S-Bahn zum Flughafen.
+1189|Fernzüge Richtung Norden (Hamburg, Rostock, Ostsee), S-Bahn und U8.
+1190|Großer Knotenpunkt im Zentrum: S-Bahn, Regionalzüge zum Flughafen, U2, U5 und U8, Straßenbahnen und Busse.
+1191|Fernzüge Richtung Westen (Hamburg, Hannover), die Zitadelle Spandau liegt in der Nähe.
+1192|Für Reisen außerhalb Berlins
+1193|Züge der Deutschen Bahn in ganz Deutschland: Fahrpläne, Tickets und Verspätungen live.
+1194|Günstige Fernbusse und Fernzüge.
+1195|Die andere große Essenslieferdienst-App in Deutschland.
+1196|Überraschungstüten mit übrig gebliebenem Essen von Bäckereien und Restaurants, günstig.
+1197|Um Deutsch zu verstehen
+1198|Übersetzt Schilder und Speisekarten mit der Kamera, auch offline, wenn du Deutsch herunterlädst.
+1199|Sehr natürliche Übersetzungen von Texten und Gesprächen.
+1200|Günstige Prepaid-SIM: gibt es an der Kasse jedes Lidl
+1201|Vergiftungen (Giftnotruf, 24 h)

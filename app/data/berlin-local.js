@@ -39,7 +39,8 @@
     chips: [
       ["📱", "Telekom", "https://www.telekom.de/shop/tarife/magenta-mobil-prepaid", "Chip prepago"],
       ["📱", "Vodafone", "https://www.vodafone.de/freikarten/callya/", "Chip prepago"],
-      ["📱", "O2", "https://www.o2online.de/mobilfunk/prepaid/", "Chip prepago"]
+      ["📱", "O2", "https://www.o2online.de/mobilfunk/prepaid/", "Chip prepago"],
+      ["🛒", "Lidl Connect", "https://www.lidl-connect.de/", "Chip prepago barato: se compra en la caja de cualquier Lidl"]
     ],
     chipsBuscar: "Telekom Vodafone O2 Shop",
     internetTips: ["En Alemania, para activar un chip hay que verificar tu identidad con el pasaporte: puede llevar un rato.",
@@ -69,8 +70,19 @@
         ["Bolt", "Viajes en auto, también con precio de antemano.", 675033630, "ee.mtakso.client"],
         ["FREENOW", "Para pedir taxis.", 357852748, "taxi.android.client"]
       ]],
+      /* Tarjeta #173: apps sumadas el 14/11/2026, con su número en el App Store y su nombre en Google Play revisados. */
+      ["🚆", "Para viajar fuera de Berlín", [
+        ["DB Navigator", "Trenes de la Deutsche Bahn a toda Alemania: horarios, boletos y demoras en vivo.", 343555245, "de.hafas.android.db"],
+        ["FlixBus", "Micros y trenes baratos de larga distancia.", 778437357, "de.flixbus.app"]
+      ]],
       ["🍔", "Para pedir comida", [
-        ["Wolt", "Comida y compras a domicilio.", 943905271, "com.wolt.android"]
+        ["Wolt", "Comida y compras a domicilio.", 943905271, "com.wolt.android"],
+        ["Lieferando", "La otra app grande de comida a domicilio en Alemania.", 419724490, "com.yopeso.lieferando"],
+        ["Too Good To Go", "Bolsas sorpresa con lo que sobró del día en panaderías y restaurantes, a precio bajo.", 1060683933, "com.app.tgtg"]
+      ]],
+      ["🗣️", "Para entender el alemán", [
+        ["Google Traductor", "Traduce carteles y menús con la cámara, también sin internet si bajás el alemán.", 414706506, "com.google.android.apps.translate"],
+        ["DeepL", "Traducciones muy naturales de textos y conversaciones.", 1552407475, "com.deepl.mobiletranslator"]
       ]],
       ["💬", "Para comunicarte", [
         ["WhatsApp", "La más usada para escribir y llamar.", 310633997, "com.whatsapp"]

@@ -47,3 +47,4 @@
 ^¡Todo listo! Disfrutá (.+)\.$
 ^Guía de (.+)$
 ^1 ([A-Z]{3}) ≈ ([\d.,]+) euros$
+^Desde el (\d{1,2}/\d{1,2})$

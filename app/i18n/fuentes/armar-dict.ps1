@@ -24,6 +24,7 @@ Numeradas "ui"
 Numeradas "extra"
 Numeradas "desc"
 Numeradas "tip"
+Numeradas "hoy"   # Hoy en la ciudad: agenda fija y textos de los carruseles (tarjeta #172)
 # Listas propias de cada ciudad (tarjeta #98): <ciudad>.txt y <idioma>.<ciudad>.txt. Si una ciudad todavia no tiene lista, se saltea.
 foreach ($c in @("berlin", "madrid", "roma", "paris")) { if (Test-Path (Join-Path $trad "$c.txt")) { Numeradas $c } }
 $tk = @(Leer (Join-Path $trad "tags.txt") | Where-Object { $_.Length -gt 0 })
