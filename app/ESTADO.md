@@ -2,7 +2,7 @@
 
 Para los dos Claude: acá está escrito qué se hizo, qué se probó y qué falta. **Actualizalo cada vez que cambies algo de `app/`.**
 
-Última actualización: 13 de noviembre de 2026, Claude de `ronkstudio` (tarjeta #158).
+Última actualización: 13 de noviembre de 2026, Claude de `ronkstudio` (tarjeta #159).
 
 Todo lo que se describe acá está en `main`.
 
@@ -96,6 +96,7 @@ Estas pruebas las hizo el Claude de `ronkstudio` antes de que se sacara el mapa 
 - **París, Tours, excursiones, hospedaje, compras y deportes (#156 y #157):** 79 lugares. Tours: paseos en barco, visitas guiadas y temáticos. Excursiones: palacios (Versalles, Fontainebleau, Chantilly y Vaux-le-Vicomte), ciudades y pueblos, parques temáticos y naturaleza. Hospedaje: hostels, hoteles, boutique y lujo. Compras: grandes tiendas, mercados, pulgas, zonas comerciales y librerías. Deportes: estadios, para correr y pedalear, y piletas. Con esto París tiene 250 lugares y todos los tipos tienen al menos 4. Cinco tours no tienen dirección fija y no aparecen en el mapa. Las excursiones se ubicaron a mano.
 - **París, planes y recomendados (#159, parte 1):** 5 planes armados (1 día, 3 días, día de lluvia, gratis y con chicos), niveles de recomendación, 16 colecciones en el inicio y los días en que cierran los museos y funcionan los mercados y las pulgas, según sus sitios oficiales. Falta traducir los textos de los lugares.
 - **París, fotos y estaciones (#158):** 118 de los 250 lugares tienen foto: la foto principal de su elemento en Wikidata, de Wikimedia Commons con licencia libre, aceptada solo si la ubicación coincide a menos de 1,5 km. Se probó que las 118 cargan. El resto muestra la tarjeta con el nombre. Cada ficha muestra la estación de metro o RER más cercana: 21 líneas, sacadas de OpenStreetMap. Las líneas que no están en la lista de Moverse aparecen en gris.
+- **París, traducción de los lugares (#159):** 567 textos más de París en los 7 idiomas: descripciones y consejos de los 250 lugares, tipos, etiquetas, planes armados, colecciones y barrios (`i18n/fuentes/paris.txt`, ahora con 870 textos). Al armar los diccionarios no hubo problemas. Probado en inglés y japonés: las fichas y los barrios se ven traducidos. Los nombres propios de los lugares quedan como están, igual que en Buenos Aires. Ninguna traducción la revisó todavía una persona que hable el idioma.
 - **Barrio + categoría:** algunos barrios no tienen nada en ciertas categorías (por ejemplo, salidas de noche en La Boca o Belgrano). Es esperable en barrios residenciales y no se completó.
 - **Las plazas de barrio** (etiqueta "vida de barrio") tienen descripciones genéricas. Se sumaron para que cada barrio tenga algo, con nombre y ubicación reales, pero sin conocer cada una.
 - **No está todo lo que se puede hacer en la ciudad.** Son 534 lugares. Bautista pidió (11/11) llegar a 5 por categoría en cada barrio, sin inventar: hoy solo Centro, Palermo, Recoleta y San Telmo se acercan. En los barrios residenciales no hay 5 hoteles ni 5 excursiones reales, así que esa meta ahí no se va a cumplir. La tarjeta #45 propone un mínimo de locales por tipo en cada zona turística.
