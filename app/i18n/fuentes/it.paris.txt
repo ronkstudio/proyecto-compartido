@@ -301,3 +301,570 @@
 301|Per i voli low cost, a più di un'ora da Parigi in pullman.
 302|Pre-denuncia di furto sul sito ufficiale del Ministero dell'Interno (in francese). Poi va firmata in un commissariato.
 303|Cerca sulla mappa le farmacie di turno vicino a te.
+304|Il simbolo di Parigi. Si sale in ascensore o a piedi fino al secondo piano, e in ascensore fino in cima.
+305|Compra il biglietto in anticipo sul sito ufficiale. Di notte, ogni ora in punto, brilla per qualche minuto: la vista migliore è dal Trocadéro.
+306|Il grande arco voluto da Napoleone, con la tomba del Milite Ignoto sotto e una terrazza in cima con vista sui dodici viali che partono dalla piazza.
+307|Non attraversare la rotonda: si arriva dal sottopassaggio dagli Champs-Élysées. Al tramonto la vista è la migliore.
+308|Il viale più famoso di Parigi, dall'Arco di Trionfo a Place de la Concorde, con negozi, cinema e caffè.
+309|Percorrila in discesa, dall'Arco verso la Concorde. Di notte, con vetrine e luci accese, dà il meglio di sé.
+310|Il teatro dell'opera dell'Ottocento, con il grande scalone di marmo, il foyer dorato e il soffitto dipinto da Chagall.
+311|La visita libera di giorno non richiede guida. Se puoi, guarda anche un balletto.
+312|Il ponte più decorato di Parigi, con lampioni, statue dorate e vista sugli Invalides e sulla Torre Eiffel.
+313|Al tramonto e di notte, con i lampioni accesi, è uno dei posti più belli per le foto.
+314|La terrazza del 56° piano e il tetto del grattacielo di Montparnasse: la vista di Parigi con la Torre Eiffel inclusa.
+315|Per molti la vista migliore della città, proprio perché da qui si vede la Torre Eiffel. Vai al tramonto.
+316|La terrazza dei grandi magazzini, con vista sull'Opéra, sui tetti di Parigi e sulla Torre Eiffel in lontananza.
+317|È gratis: si sale con le scale mobili fino all'ultimo piano. Guarda anche la cupola di vetro dell'edificio.
+318|La terrazza all'ultimo piano di questo edificio moderno sulla Senna, con vista su Notre-Dame e sull'Île Saint-Louis.
+319|La terrazza è gratis. La facciata ha pannelli che si aprono e si chiudono con la luce, come un diaframma.
+320|Circa 300 gradini portano alla cupola della basilica, il punto più alto di Montmartre, con vista su tutta la città.
+321|Non c'è ascensore e la scala è stretta. Se non vuoi salire, anche la vista dalla scalinata esterna è molto bella.
+322|Il museo più visitato al mondo, nell'antico palazzo dei re: la Gioconda, la Venere di Milo, la Nike di Samotracia e migliaia di opere.
+323|Prenota l'orario sul sito ufficiale e scegli cosa vedere: non si visita tutto in un giorno. Chiuso il martedì.
+324|Un'antica stazione ferroviaria diventata museo, con la più grande collezione di impressionisti: Monet, Renoir, Degas e Van Gogh.
+325|Sali prima all'ultimo piano: lì ci sono gli impressionisti e il grande orologio con vista sulla Senna. Chiuso il lunedì.
+326|Un piccolo museo nel Giardino delle Tuileries, famoso per le sale ovali con le grandi Ninfee di Monet.
+327|È breve: abbinalo al Louvre o a una passeggiata alle Tuileries. Chiuso il martedì.
+328|La casa e il giardino dove lavorava lo scultore, con Il Pensatore, Il Bacio e La Porta dell'Inferno tra le rose.
+329|Il giardino è bello quanto il museo: fermati un po'. È a due passi dagli Invalides.
+330|La collezione più completa di Picasso, in un palazzo del Seicento nel cuore del Marais.
+331|Abbinalo a una passeggiata nel Marais e in Place des Vosges.
+332|Il museo della storia di Parigi, dalla preistoria a oggi, in due palazzi del Marais. La collezione permanente è gratis.
+333|Ideale all'inizio del viaggio per capire la città. Ha un cortile-giardino molto tranquillo.
+334|Il museo di Belle Arti della città, in un palazzo del 1900 con un cortile-giardino interno. La collezione permanente è gratis.
+335|Il caffè del giardino interno è uno dei segreti meglio custoditi del centro.
+336|Arte di Africa, Asia, Oceania e Americhe in un edificio moderno con un giardino selvaggio e una parete coperta di piante.
+337|È a pochi isolati dalla Torre Eiffel: utile per un giorno di pioggia in zona.
+338|Una villa con la più grande collezione di opere di Monet, compresa quella che ha dato il nome all'impressionismo.
+339|È lontano dal centro, accanto a un parco: tranquillo e poco affollato.
+340|La residenza di una coppia di collezionisti dell'Ottocento, con pittura italiana e francese e saloni intatti.
+341|La sala da tè del museo è tra le più belle di Parigi.
+342|Arte contemporanea della collezione Pinault nell'antica Borsa del commercio, con una grande cupola restaurata da Tadao Ando.
+343|Anche se l'arte contemporanea non ti piace, l'edificio merita la visita.
+344|Un edificio di Frank Gehry come una nave dalle vele di vetro, con grandi mostre di arte moderna e contemporanea.
+345|Prenota l'orario. Abbinalo al Jardin d'Acclimatation, che è accanto.
+346|Il museo del Medioevo, in un palazzo gotico costruito su terme romane. Ospita gli arazzi della Dama e l'Unicorno.
+347|Le terme romane si vedono dalla strada, all'angolo con il Boulevard Saint-Germain.
+348|Il museo di storia naturale, con una sfilata di animali impagliati sotto una navata di ferro e vetro.
+349|Ottimo con i bambini. È dentro il Jardin des Plantes.
+350|La casa più antica della collina, dove vissero Renoir e altri pittori, con giardini e vista sui vigneti.
+351|Una pausa da Place du Tertre, a due isolati e sempre affollata.
+352|Un'antica fonderia dove si proiettano opere di grandi pittori su pareti e pavimento, con musica.
+353|Prenota l'orario. È un'esperienza di circa 45 minuti, buona per un giorno di pioggia.
+354|Mobili, gioielli, moda e giocattoli dal Medioevo a oggi, in un'ala del palazzo del Louvre.
+355|Le mostre di moda sono di solito ottime: controlla cosa c'è prima di andare.
+356|La cattedrale gotica del XII secolo, riaperta a dicembre 2024 dopo il restauro seguito all'incendio. L'ingresso è gratuito.
+357|Puoi prenotare gratis un orario sul sito ufficiale per evitare la fila. La vista degli archi rampanti dal giardino dietro è spettacolare.
+358|Una cappella gotica del XIII secolo con pareti quasi interamente di vetrate: più di mille scene colorate.
+359|Vai in una giornata di sole verso mezzogiorno per vedere le vetrate accese. Prenota: il controllo di sicurezza richiede tempo.
+360|La basilica bianca in cima a Montmartre, con una delle viste più famose di Parigi dalla scalinata.
+361|Si sale a piedi o in funicolare. Attenzione ai braccialetti che ti offrono sulle scale.
+362|Un'enorme chiesa con due torri diverse, murales di Delacroix e un grande organo.
+363|Cerca i murales di Delacroix nella prima cappella a destra.
+364|La chiesa più antica di Parigi, che ha dato il nome al quartiere, con l'interno dipinto di blu e stelle.
+365|È di fronte ai caffè Les Deux Magots e Café de Flore.
+366|Una chiesa a forma di tempio greco, con colonne enormi, tra la Concorde e l'Opéra.
+367|Intorno alla piazza ci sono negozi di gastronomia da curiosare.
+368|Una gigantesca chiesa gotica accanto a Les Halles, con uno dei più grandi organi di Francia.
+369|La domenica pomeriggio c'è spesso un concerto d'organo gratuito.
+370|Il grande ospedale militare di Luigi XIV, con la cupola dorata che custodisce la tomba di Napoleone e il Museo dell'Esercito.
+371|La spianata davanti è gratis e ha una bella vista sul ponte Alessandro III.
+372|Il tempio neoclassico dove riposano Victor Hugo, Voltaire, Marie Curie e altri grandi di Francia.
+373|Guarda il pendolo di Foucault al centro. In stagione si può salire al colonnato della cupola.
+374|Chilometri di gallerie sotterranee con le ossa di milioni di parigini, disposte in pareti.
+375|Prenota con molto anticipo: i posti sono limitati. Ci sono molte scale e sotto fa fresco.
+376|Il palazzo medievale che fu prigione durante la Rivoluzione: qui fu rinchiusa Maria Antonietta.
+377|C'è un biglietto combinato con la Sainte-Chapelle, che è accanto.
+378|Il cimitero più famoso al mondo, con colline alberate e le tombe di Jim Morrison, Édith Piaf, Oscar Wilde e Chopin.
+379|Prendi la mappa all'ingresso o sul telefono: è enorme ed è facile perdersi.
+380|Le rive del fiume tra la Torre Eiffel e l'Île Saint-Louis, patrimonio dell'umanità, con le bancarelle di libri usati (bouquinistes).
+381|Scendi fino alla riva: dal Louvre a Notre-Dame ci sono tratti pedonali lungo l'acqua.
+382|L'isola dietro Notre-Dame: strade tranquille, palazzi del Seicento e la gelateria Berthillon.
+383|Attraversa da Notre-Dame sul ponte Saint-Louis, dove spesso ci sono musicisti.
+384|Il passaggio coperto più bello di Parigi, dell'Ottocento, con pavimento a mosaico, tetto di vetro, librerie e caffè.
+385|Abbinalo al giardino del Palais-Royal, che è di fronte.
+386|Il passaggio coperto più antico di Parigi, con negozi di francobolli, stampe e piccoli ristoranti.
+387|Dall'altra parte del boulevard prosegue il Passage Jouffroy, con il museo delle cere.
+388|Un antico viadotto ferroviario trasformato in passeggiata verde sopraelevata, che parte vicino alla Bastiglia e corre per diversi chilometri.
+389|Sotto il primo tratto, gli archi del Viaduc des Arts ospitano botteghe artigiane.
+390|Un canale con chiuse e passerelle di ferro, fiancheggiato da alberi, bar e negozi indipendenti.
+391|Al tramonto la gente si siede sul bordo del canale: compra qualcosa e unisciti.
+392|Il giardino più amato di Parigi, di fronte al Senato, con fontane, statue, sedie verdi e barchette a vela per i bambini.
+393|Prendi una delle sedie di metallo vicino alla fontana e fermati un po', come fanno i parigini.
+394|Il grande giardino tra il Louvre e la Concorde, con fontane, statue e sedie per riposare.
+395|È la passeggiata naturale dopo il Louvre, verso l'Orangerie e la Concorde.
+396|Il giardino botanico di Parigi, con serre, un piccolo zoo e i musei di storia naturale.
+397|Le serre e lo zoo si pagano a parte; il giardino è gratis.
+398|Un parco con colline, un lago e un tempio su una rupe, con vista su Montmartre.
+399|Nei fine settimana si riempie di picnic. Sali al tempio della Sibilla per la vista.
+400|Un parco in pendenza con una delle migliori viste gratuite di Parigi, con la Torre Eiffel sullo sfondo.
+401|Vai al tramonto e poi scendi a mangiare a Belleville.
+402|Un parco elegante con un colonnato, uno stagno e rovine decorative, circondato da palazzi.
+403|Molto tranquillo e bello per un picnic lontano dai turisti.
+404|Il parco più grande all'interno di Parigi, con giardini tematici, la Philharmonie e la Città delle Scienze.
+405|In estate c'è cinema all'aperto gratuito.
+406|La piazza più antica di Parigi, del 1612, circondata da case identiche in mattoni rossi con portici.
+407|In un angolo c'è la casa di Victor Hugo, visitabile gratis.
+408|La piazza più grande di Parigi, con l'obelisco egizio di Luxor e due fontane, dove fu ghigliottinato Luigi XVI.
+409|Dal centro della piazza si vedono l'Arco di Trionfo, le Tuileries e la Torre Eiffel.
+410|Una piazza ottagonale perfetta con una colonna di bronzo al centro e le gioiellerie e gli hotel più lussuosi.
+411|Passaci andando dall'Opéra alle Tuileries: è proprio a metà strada.
+412|La piazza dei pittori di Montmartre, piena di cavalletti, ritrattisti e dehors.
+413|È molto turistica: guarda i quadri e mangia nelle strade intorno, più tranquille.
+414|Dove sorgeva la prigione presa nel 1789, oggi con la Colonna di Luglio e l'Opéra moderna.
+415|Il giovedì e la domenica mattina, accanto c'è il mercato del Boulevard Richard-Lenoir.
+416|La strada dell'antico quartiere ebraico del Marais, con panetterie, negozi di design e falafel da mangiare al volo.
+417|Il sabato molti negozi ebraici chiudono; la domenica la strada è affollata.
+418|Una collina dall'aria di paese, case basse, street art e bar economici, lontano dai turisti.
+419|Abbinalo al quartiere cinese, a pochi isolati.
+420|Una piccola strada di Belleville con i muri completamente dipinti, che cambiano di continuo.
+421|È a un isolato dalla stazione Belleville. Prosegui a piedi fino al Parco di Belleville.
+422|Una strada pedonale con case dipinte in colori pastello, vicinissima alla Gare de Lyon.
+423|È una strada dove vive gente: mantieni il silenzio e non salire sui gradini.
+424|Uno dei più grandi quartieri asiatici d'Europa, tra torri degli anni '70, con ristoranti vietnamiti e cinesi e supermercati.
+425|Prova una zuppa phở. Al Capodanno cinese ci sono sfilate.
+426|Scalinate, case con giardino, il vigneto del Clos Montmartre, la casa rosa La Maison Rose e il Moulin de la Galette.
+427|Scendi per Rue de l'Abreuvoir e Rue des Saules, sul retro della collina: non ci sono quasi turisti.
+428|Bistrot provenzale a due passi da Place des Vosges, con dehors e una lista enorme di pastis.
+429|Ordina la mousse al cioccolato: la servono in una ciotola grande da cui servirti. Meglio prenotare.
+430|Il bistrot di Yves Camdeborde, uno dei cuochi che hanno rinnovato la cucina da bistrot, con dehors sull'Odéon.
+431|Accanto c'è L'Avant Comptoir, per tapas in piedi, dello stesso proprietario.
+432|Uno dei bistrot più antichi di Parigi, con tavoli condivisi e cucina casalinga. Compare nel film Midnight in Paris.
+433|È economico per la zona. Porta un po' di contanti per sicurezza.
+434|Bistrot con tovaglie a quadretti rossi e bianchi a pochi isolati dalla Torre Eiffel, con cucina del sud-ovest della Francia.
+435|Prenota, soprattutto per il dehors vicino alla fontana.
+436|Bistrot del Marais con dehors sempre pieno e cucina francese classica, aperto dalla colazione.
+437|Va bene per mangiare a qualsiasi ora, cosa rara a Parigi.
+438|Bistrot basco rumoroso e abbondante, con un riso al latte famoso in tutta la città.
+439|Prenota e vai affamato: i piatti sono grandi.
+440|Bistrot di quartiere con lavagna che cambia ogni giorno, carni ottime e buona carta dei vini.
+441|Ideale per una cena tranquilla dopo aver girato la zona dell'Opéra.
+442|Bistrot di vini naturali della cuoca argentina Raquel Carena, con cucina di mercato che cambia ogni giorno.
+443|È piccolo: prenota. Abbinalo al Parco di Belleville, dietro l'angolo.
+444|Una sala del 1896 con cucina francese classica a prezzi bassi: il classico per mangiare economico a Parigi.
+445|Niente prenotazioni: si fa la fila, ma scorre veloce. Scrivono l'ordine sulla tovaglia di carta.
+446|Lo stesso concetto di Chartier in una sala liberty del 1906, con specchi e vetrate.
+447|Di solito ha meno fila di quello dei Grands Boulevards.
+448|Un bouillon moderno a Pigalle: piatti francesi di sempre, molto economici e in porzioni generose.
+449|Ideale prima o dopo Montmartre. All'ora di cena c'è fila.
+450|Una delle sale liberty più belle di Parigi, recuperata come bouillon a prezzi bassi.
+451|Guarda i pannelli di vetro e legno del soffitto e delle pareti.
+452|Una sala liberty del 1906 con specchi e ceramiche, vicino all'Odéon, con cucina francese tradizionale.
+453|Più tranquillo degli altri bouillon, e si può prenotare.
+454|Brasserie alsaziana del 1880, ritrovo di scrittori e politici, con choucroute e camerieri in grembiule.
+455|Ordina la choucroute, il piatto della casa. È di fronte al Café de Flore.
+456|Un'enorme brasserie art déco del 1927 frequentata da Picasso e Hemingway, con colonne dipinte da artisti.
+457|Prova il piatto di frutti di mare o il curry d'agnello, piatto storico della casa.
+458|Brasserie del 1864 a due passi dalla Bastiglia, con una cupola di vetro colorato e cucina alsaziana.
+459|Chiedi un tavolo sotto la cupola.
+460|Il ristorante della Gare de Lyon, del 1900, con soffitti dorati e pareti dipinte con paesaggi della Francia.
+461|Se non vuoi cenare, bevi qualcosa al bar: la sala si vede lo stesso.
+462|Brasserie dell'Ottocento accanto alla Galerie Vivienne, con mosaici e lampade d'epoca.
+463|Aperto tutto il giorno: buona opzione per mangiare tardi.
+464|Aperto nel 1686, si presenta come il caffè più antico di Parigi. Lo frequentavano Voltaire, Rousseau e Benjamin Franklin.
+465|Ordina il coq au vin, il piatto della casa.
+466|Il caffè di Sartre e Simone de Beauvoir, con il dehors sul boulevard.
+467|È caro per un caffè: paghi la storia e il dehors. La cioccolata calda è ottima.
+468|L'altro grande caffè letterario di Saint-Germain, di fronte alla chiesa, con le due statue di mandarini cinesi che gli danno il nome.
+469|Il dehors ha la vista migliore sulla piazza.
+470|Sala da tè del 1903 di fronte alle Tuileries, famosa per la cioccolata calda densa e il Mont-Blanc.
+471|C'è fila: vai presto o a metà pomeriggio in un giorno feriale.
+472|Il caffè d'angolo più fotografato di Montmartre; si dice che ci andassero Picasso e Van Gogh.
+473|Meglio per un caffè o un drink che per mangiare.
+474|La casetta rosa di Montmartre, dipinta da Utrillo, oggi caffè-ristorante.
+475|Scatta la foto dall'angolo di Rue des Saules.
+476|Un caffè minuscolo in un'ex calzoleria, con facciata blu e buon caffè specialty.
+477|Ci sono solo un paio di tavoli: prendilo da asporto e passeggia per il Marais.
+478|Caffè specialty a un isolato dal canale, con pane e pasticceria propri.
+479|Ideale per la colazione prima di passeggiare lungo il canale.
+480|Brunch famoso con pancake, uova e buon caffè, a due passi dal Canal Saint-Martin.
+481|Niente prenotazioni e c'è sempre fila: vai presto.
+482|Caffè piccolo e luminoso vicino a Place des Vosges, con toast e buon caffè.
+483|Una buona sosta dopo Place des Vosges.
+484|Il caffè del marchio Kitsuné, nelle gallerie del giardino del Palais-Royal.
+485|Bevilo in giardino, sulle sedie di metallo.
+486|Panetteria in un locale del 1875, famosa per il pain des amis e gli escargot al pistacchio e cioccolato.
+487|Chiuso nel fine settimana: vai dal lunedì al venerdì.
+488|La panetteria del famoso pane di campagna rotondo a lievito madre, con un negozio nel Marais.
+489|Portati via i biscotti al burro, le punitions.
+490|Panetteria d'autore a Oberkampf, con pani e viennoiserie creativi.
+491|Prova il pane nero al carbone di bambù, il più richiesto.
+492|Panetteria di quartiere con babka al cioccolato, brioche e baguette ottime.
+493|La babka finisce presto: vai al mattino.
+494|La pasticceria più antica di Parigi, del 1730, dove si dice sia nato il babà al rum.
+495|Abbinala a una passeggiata nella via pedonale Montorgueil.
+496|Il pasticcere dei macaron più famosi di Parigi, con gusti che cambiano a ogni stagione.
+497|Prova l'Ispahan: rosa, litchi e lampone.
+498|La sala da tè dei macaron colorati, con decorazioni ottocentesche in pieno viale.
+499|Da asporto si aspetta meno che per sedersi.
+500|La pasticceria dello chef famoso per i dolci a forma di frutta, a pochi metri dall'Opéra.
+501|C'è fila: vai presto. Vendono anche viennoiserie.
+502|Cioccolatini, caramelle e una delle migliori millefoglie di Parigi, montata al momento.
+503|Ordina la millefoglie da mangiare lì: viene montata al momento.
+504|La gelateria più famosa di Parigi, sull'Île Saint-Louis, con gelati e sorbetti artigianali.
+505|Chiude alcuni giorni della settimana e parte dell'estate: controlla prima di andare.
+506|Crêpes e galette bretoni di grano saraceno, con sidro artigianale, nel cuore del Marais.
+507|Prova la galette completa (prosciutto, formaggio e uovo) e un sidro.
+508|Un altro locale di Breizh Café, nella zona pedonale di Montorgueil.
+509|Di solito si aspetta meno che in quello del Marais.
+510|Crêperie piccola e familiare a Saint-Germain, con galette di grano saraceno.
+511|È piccolissima: prenota o vai presto.
+512|Crêperie vicino a Châtelet con galette e crêpes a buon prezzo.
+513|Pratica per mangiare qualcosa di veloce in centro.
+514|Il falafel più famoso di Parigi, nella pita con melanzane fritte e salse.
+515|La fila da asporto scorre veloce. Chiuso il sabato.
+516|Pite israeliane farcite e il famoso cavolfiore arrosto intero.
+517|Ordina il cavolfiore da condividere.
+518|Il mercato coperto più antico di Parigi, con banchi di cibo da tutto il mondo e tavoli condivisi.
+519|Chiuso il lunedì. Vai a pranzo e scegli un banco.
+520|Panini e crêpes enormi preparati al momento da un cuoco molto carismatico.
+521|C'è fila: abbi pazienza, ne vale la pena.
+522|Un classico del cuscus in una vecchia sala da bistrot.
+523|Niente prenotazioni: vai presto.
+524|Una delle zuppe phở più rinomate del quartiere cinese, in un locale piccolo e semplice.
+525|Abbinalo a una passeggiata nel quartiere cinese.
+526|Trattoria italiana su quattro piani pieni di piante, con carni e pasta.
+527|L'ultimo piano ha il tetto di vetro: chiedilo quando prenoti.
+528|Pizzeria napoletana grande e rumorosa a ottimo prezzo.
+529|C'è molta gente: vai presto.
+530|Ristorante italiano nell'ex negozio di Jean Paul Gaultier, con forno a legna.
+531|È a due passi dalla Galerie Vivienne.
+532|Uno dei ristoranti più ricercati di Parigi, con stella Michelin e menù di stagione.
+533|Le prenotazioni si aprono con settimane di anticipo sul loro sito.
+534|Il bar di pesce e frutti di mare di Septime, accanto, con ostriche e piatti da condividere.
+535|Il ristorante dello chef Grégory Marchand, con menù degustazione in una stradina del Sentier.
+536|Di fronte c'è il suo wine bar, più rilassato e senza prenotazione.
+537|Il ristorante dell'hotel Four Seasons George V, tra i più premiati di Francia dalla guida Michelin.
+538|È un'esperienza da occasione speciale: prenota con molto anticipo.
+539|Il ristorante di uno degli chef più famosi di Francia, dentro la Zecca, con vista sulla Senna.
+540|Ordina la zuppa di carciofi al tartufo, il suo piatto simbolo.
+541|Il ristorante di Alain Passard, famoso per cucinare soprattutto verdure dei suoi orti.
+542|Una delle grandi tavole di Parigi; ha anche opzioni vegane.
+543|Ristorante 100% vegetale con cucina francese creativa.
+544|Prenota per cena: è piccolo.
+545|Ristorante vegetariano dal 1978, di fronte a Notre-Dame.
+546|Una buona sosta dopo la visita alla cattedrale.
+547|Caffetteria vegana con succhi, bowl e colazioni, in una piazza tranquilla del centro.
+548|Ha diversi locali in città.
+549|Ristorante vegano con cucina francese tradizionale adattata, in una via tranquilla del Marais.
+550|Prova la versione vegana del bourguignon.
+551|Panetteria e caffè 100% senza glutine, con farine proprie di riso e legumi.
+552|Ideale per la colazione e per prendere il pane per la giornata.
+553|Panetteria e pasticceria 100% senza glutine, con diversi negozi a Parigi.
+554|Ha croissant senza glutine: cosa difficile da trovare.
+555|Mensa e drogheria 100% senza glutine, a due passi dai Giardini del Lussemburgo.
+556|Buona per il brunch dopo una passeggiata nel giardino.
+557|Mensa thailandese 100% vegana e senza glutine, nella zona di Montorgueil.
+558|I curry sono abbondanti ed economici.
+559|Uno dei cocktail bar più premiati al mondo, dietro una porticina rossa nel Marais.
+560|Arriva presto: non sempre accettano prenotazioni e si riempie.
+561|Bar di cocktail fatti solo con distillati francesi, dietro una facciata piena di manifesti.
+562|Non c'è insegna: cerca la serranda coperta di manifesti.
+563|Una piccola taqueria con una porta in fondo che porta a un cocktail bar nascosto con mezcal e tequila.
+564|Mangia qualche taco davanti e poi passa al bar.
+565|Il bar che ha avviato la scena dei cocktail d'autore a Parigi, in una stradina vicino a Montorgueil.
+566|Da mezzanotte in poi si riempie molto.
+567|Bar storico del 1911, con pannelli di legno, dove si dice sia stato inventato il Bloody Mary.
+568|Ordina un Bloody Mary o un French 75, inventato anch'esso lì.
+569|Wine bar di quartiere vicino al mercato di Aligre, con vino dalla botte e tanta gente sul marciapiede.
+570|La domenica mattina vendono ostriche alla porta, dopo il mercato.
+571|Enoteca e bistrot di vini naturali a un isolato dal Canal Saint-Martin.
+572|Puoi scegliere una bottiglia dagli scaffali e berla lì con qualcosa da stuzzicare.
+573|Il wine bar del ristorante Frenchie, con piattini da condividere e senza prenotazioni.
+574|Arriva appena apre per trovare posto.
+575|Un bancone minimo per tapas in piedi con un bicchiere di vino, accanto a Le Comptoir du Relais.
+576|Accanto c'è la versione di mare, L'Avant Comptoir de la Mer.
+577|Bar sul tetto di un edificio di Ménilmontant, con vista sui tetti di Parigi.
+578|Al tramonto c'è fila per salire: vai presto.
+579|Una guinguette dentro il parco delle Buttes-Chaumont, con drink, tapas e balli all'aperto.
+580|Nei fine settimana si riempie: arriva prima del tramonto.
+581|Un enorme bar nascosto vicino al canale, decorato con oggetti africani e piante.
+582|L'ingresso è da un lungo corridoio dalla banchina.
+583|Centro culturale con bar, terrazza sul canale e concerti.
+584|Controlla il calendario dei concerti sul loro sito.
+585|Una cantina medievale dove si balla swing dal 1946. Compare nel film La La Land.
+586|Qui si balla davvero: porta scarpe comode.
+587|Uno dei jazz club più rinomati di Parigi, vicino a Châtelet.
+588|La stessa via ha altri due club: il Sunset-Sunside e il Baiser Salé.
+589|Due sale jazz in una: acustico sopra ed elettrico sotto.
+590|Guarda la programmazione: di solito ci sono due spettacoli a sera.
+591|Piccolo jazz club con jam aperte alcune sere, più rilassato dei vicini.
+592|Le jam session sono spesso gratis o molto economiche.
+593|Una sala mitica dove hanno suonato grandi del jazz, del soul e della world music.
+594|Controlla il calendario: la programmazione è molto varia.
+595|Il cabaret del mulino rosso, dove nacque il can-can nel 1889, con la sua rivista di piume e paillettes.
+596|Prenota in anticipo. Se non vai allo spettacolo, la foto del mulino di notte è gratis.
+597|Cabaret di danza e giochi di luce, più artistico e moderno dei classici.
+598|È per maggiorenni. Prenota.
+599|Il cabaret più antico di Parigi, in un teatro la cui struttura è attribuita a Gustave Eiffel.
+600|Ci sono opzioni con cena inclusa.
+601|Un piccolo cabaret di canzone francese in una casetta di Montmartre, frequentato da Picasso e Modigliani.
+602|Non è uno spettacolo di piume: è una serata di canzoni tradizionali, in francese.
+603|Il club di musica elettronica più storico di Parigi, sotto il cinema Grand Rex.
+604|I migliori DJ suonano nel fine settimana: controlla il calendario.
+605|Club e sala concerti accanto al Moulin Rouge, con diverse piste.
+606|La programmazione va dalla techno all'hip hop: controlla prima.
+607|Piccolo club vicino alla Bastiglia, con buona elettronica e un bar al piano di sopra.
+608|Ideale per continuare dopo i bar della zona.
+609|Club house e disco vicino alla stazione Quai de la Gare, con un pubblico che va a ballare.
+610|La domenica pomeriggio spesso c'è una festa house.
+611|La sala concerti più famosa di Francia, con la sua insegna rossa, dove hanno cantato Édith Piaf e i Beatles.
+612|Guarda chi suona durante il tuo viaggio.
+613|Un teatro dell'Ottocento a Pigalle trasformato in sala concerti rock e pop.
+614|I biglietti per gli artisti noti finiscono presto.
+615|Sala concerti del 1865, con la sua facciata in stile cinese.
+616|Davanti alla sala c'è un memoriale in ricordo delle vittime del 2015.
+617|La grande sala sinfonica di Jean Nouvel nel Parco della Villette, con concerti di ogni tipo.
+618|Ci sono spesso biglietti economici dell'ultimo minuto.
+619|Il cinema più grande d'Europa, del 1932, con una sala art déco con cielo stellato.
+620|Ha una visita con effetti dietro lo schermo, adatta ai bambini.
+621|Cinema con una sola sala gigante e schermo enorme, tra i migliori per vedere un film a Parigi.
+622|Molti film sono in versione originale (VO) con sottotitoli in francese.
+623|Cinema di quartiere del 1928 a Montmartre, con lampade disegnate da Jean Cocteau e un giardino.
+624|Compare in Amélie. Ha un bar con cortile.
+625|Cinema del 1938 dedicato ai classici, nel cuore del Quartiere Latino.
+626|Cerca le rassegne di classici in versione originale.
+627|Il teatro nazionale di Francia, fondato nel 1680, con opere di Molière e altri classici.
+628|Gli spettacoli sono in francese. Ci sono spesso biglietti economici dell'ultimo minuto.
+629|La sede moderna dell'Opéra di Parigi, con le grandi produzioni d'opera.
+630|Le opere hanno sopratitoli in francese e inglese.
+631|Grande teatro dell'Ottocento, noto per i musical e gli spettacoli di danza.
+632|I musical di solito sono in inglese.
+633|Il teatro diretto da Sarah Bernhardt, riaperto nel 2023, con danza e teatro contemporanei.
+634|È di fronte al Châtelet, sulla stessa piazza.
+635|Parco divertimenti classico con giostre, fattoria e giardini, nel Bois de Boulogne.
+636|Abbinalo alla Fondazione Louis Vuitton, che è accanto.
+637|Museo della scienza interattivo, con planetario e spazi speciali per bambini.
+638|L'area bambini si prenota per fasce orarie.
+639|Il museo delle cere di Parigi, con celebrità di tutte le epoche.
+640|È accanto al Passage Jouffroy: abbinali.
+641|Uno degli zoo più antichi del mondo, piccolo e con animali insoliti.
+642|Abbinalo alla Grande Galleria dell'Evoluzione, nello stesso giardino.
+643|Acquario sotto i giardini del Trocadéro, con squali e meduse.
+644|Buon programma per un giorno di pioggia di fronte alla Torre Eiffel.
+645|I classici battelli panoramici della Senna, con un giro di circa un'ora tra i monumenti.
+646|Vai al tramonto o di notte, con la Torre Eiffel illuminata.
+647|Crociere sulla Senna che partono ai piedi della Torre Eiffel, anche con cena a bordo.
+648|Le opzioni con cena sono care: il giro semplice basta per vedere tutto.
+649|Piccoli battelli che partono dalla punta dell'Île de la Cité, con commento dal vivo.
+650|Di solito sono i più economici. Poi fermati nel giardino del Vert-Galant, a pelo d'acqua.
+651|Un battello-bus che ferma ai principali monumenti: sali e scendi quante volte vuoi durante il giorno.
+652|Funziona come trasporto e come gita allo stesso tempo.
+653|Crociera sul Canal Saint-Martin, tra chiuse e un tratto sotterraneo sotto la Bastiglia.
+654|È lento e tranquillo: dura circa due ore e mezza.
+655|Abitanti volontari che ti mostrano il loro quartiere gratis, in piccoli gruppi e in diverse lingue.
+656|Si richiede con diverse settimane di anticipo sul loro sito.
+657|Visite guidate a piedi del centro, in inglese o spagnolo, e alla fine si lascia quello che si vuole.
+658|Si prenotano online; il punto d'incontro cambia a seconda dell'azienda.
+659|In Francia le guide di musei e monumenti hanno un tesserino ufficiale (guide-conférencier). Ingaggiarne una conviene per il Louvre o Versailles.
+660|Chiedi il tesserino: solo le guide abilitate possono guidare nei musei nazionali.
+661|Tour guidati in bici per Parigi e anche fino a Versailles, in inglese.
+662|Quelli notturni, con la città illuminata, sono i più belli.
+663|Un percorso nelle gallerie delle fogne di Parigi, che seguono il tracciato delle strade sovrastanti.
+664|È breve e insolito: buono per bambini curiosi.
+665|Giri di Parigi su una Citroën 2CV d'epoca con autista.
+666|Ideale per un'occasione speciale e per le foto.
+667|Bus turistico a due piani, scoperto sopra, su cui sali e scendi alle fermate.
+668|Confrontalo con il Tootbus: i percorsi sono simili.
+669|Bus turistico elettrico hop-on hop-off con diversi percorsi.
+670|Utile se hai pochi giorni e vuoi vedere molto senza camminare troppo.
+671|La reggia di Luigi XIV, con la Galleria degli Specchi, i giardini enormi e il Trianon di Maria Antonietta.
+672|Prenota l'orario sul sito ufficiale. Si arriva con il RER C. Solo i giardini richiedono mezza giornata.
+673|Il castello usato dai re di Francia per otto secoli, circondato da una grande foresta.
+674|Si va in treno dalla Gare de Lyon e poi un breve tratto in bus.
+675|Un castello con una grande collezione di pittura e le scuderie più impressionanti di Francia.
+676|In treno dalla Gare du Nord in meno di mezz'ora.
+677|Il castello che ha ispirato Versailles, con giardini di André Le Nôtre e molta meno gente.
+678|Alcune sere d'estate viene illuminato con candele.
+679|La casa e il giardino di Monet, con lo stagno delle ninfee e il ponte giapponese.
+680|Aperto dalla primavera all'autunno. Treno fino a Vernon e poi bus.
+681|Il paese dove Van Gogh trascorse gli ultimi mesi e dipinse decine di quadri. È sepolto qui.
+682|Visita la locanda Ravoux, dove visse, e la chiesa che dipinse.
+683|Una città medievale con mura, torri e gallerie, patrimonio dell'umanità.
+684|In estate ci sono spettacoli medievali.
+685|La città dello champagne, con la sua cattedrale gotica e cantine da visitare.
+686|Con il treno veloce dalla Gare de l'Est ci arrivi in meno di un'ora.
+687|I parchi Disney in Europa, con attrazioni, parate e spettacoli.
+688|Si arriva con il RER A in circa 40 minuti. Compra i biglietti prima per risparmiare.
+689|Parco divertimenti di Asterix e Obelix, con grandi montagne russe.
+690|C'è un bus diretto dal centro di Parigi.
+691|I monumenti di Francia in miniatura, all'aperto.
+692|Meglio in una giornata di sole: quasi tutto è all'aperto.
+693|Parco divertimenti in mezzo a un deserto di sabbia, a tema Far West.
+694|Ideale con bambini piccoli.
+695|Una grande foresta con massi di arenaria famosi per l'arrampicata e sentieri per camminare.
+696|Abbinalo al castello di Fontainebleau.
+697|Un parco con un castello e giardini di Le Nôtre, famoso per i ciliegi in fiore in primavera.
+698|Si arriva con il RER B.
+699|Un grande parco su una collina con vista su Parigi, con cascate e giardini.
+700|La terrazza del parco ha una delle viste più ampie sulla città.
+701|Scogliere bianche con archi naturali sul mare, in Normandia.
+702|È un'escursione lunga: meglio con un tour o in auto, partendo presto.
+703|Ostello grande e moderno con terrazza e bar, vicino al Canal Saint-Martin.
+704|Ha camere private oltre ai dormitori.
+705|Ostello sul bacino della Villette, con bar e tanta atmosfera.
+706|Buono per giovani viaggiatori che vogliono conoscere gente.
+707|Ostello della gioventù in un palazzo del Seicento nel cuore del Marais.
+708|La posizione è imbattibile per il prezzo.
+709|Ostello con terrazza sul tetto e bar al piano terra, a Belleville.
+710|La terrazza ha vista sui tetti di Parigi.
+711|Hotel moderno con camere piccole ma ben pensate, accanto alla Gare de Lyon.
+712|Pratico se arrivi o parti in treno.
+713|Grande hotel sulla Senna, con camere con vista sulla Torre Eiffel.
+714|Chiedi una camera con vista sul fiume.
+715|Hotel semplice ed economico a pochi isolati dalla Torre Eiffel.
+716|È accanto alla metro Cambronne.
+717|Hotel di design con ristorante e bar molto frequentati, nell'est di Parigi.
+718|È vicino al Père-Lachaise.
+719|Boutique hotel con ristorante italiano e terrazza sul tetto.
+720|La terrazza va bene per un drink anche se non alloggi lì.
+721|Piccolo boutique hotel colorato con un cortile, in una via tranquilla.
+722|Buon rapporto prezzo-fascino, vicino al Quartiere Latino.
+723|Hotel in un'antica fabbrica tessile di Oberkampf, con arredamento industriale.
+724|La zona ha molti bar per uscire.
+725|Hotel con un giardino nascosto dietro Place des Vosges, con spa.
+726|Uno dei più romantici di Parigi.
+727|Palazzo di fronte al Giardino delle Tuileries, con saloni del Settecento e la pasticceria di Cédric Grolet.
+728|Anche se non alloggi, puoi prendere il tè nel salone.
+729|L'hotel più leggendario di Parigi, in Place Vendôme, con il Bar Hemingway.
+730|Il Bar Hemingway è piccolo e molto richiesto.
+731|Hotel di lusso con i balconi di gerani rossi, sul viale dell'alta moda.
+732|Da alcune camere si vede la Torre Eiffel.
+733|Hotel di lusso a un isolato dagli Champs-Élysées, famoso per le composizioni floreali.
+734|Il ristorante Le Cinq è all'interno.
+735|Hotel di lusso nell'edificio della Samaritaine, con vista sulla Senna e sul Pont Neuf.
+736|La terrazza ha una delle viste migliori del centro.
+737|I grandi magazzini più famosi di Parigi, sotto una cupola di vetro liberty.
+738|I turisti possono chiedere il rimborso delle tasse (détaxe) sugli acquisti importanti: chiedi in negozio.
+739|Grandi magazzini accanto alle Galeries Lafayette, con cupola di vetrate e terrazza.
+740|A Natale le vetrine animate sono uno spettacolo.
+741|I primi grandi magazzini del mondo, del 1852, con le scale mobili incrociate molto fotografate.
+742|Accanto c'è La Grande Épicerie, la sua gastronomia gourmet.
+743|Grandi magazzini liberty vicino al Pont Neuf, riaperti nel 2021 dopo un grande restauro.
+744|Sali a vedere lo scalone e la cupola di ferro e vetro.
+745|Un'enorme gastronomia gourmet, con prodotti francesi da portare come regalo.
+746|Buon posto per comprare formaggi, senapi e dolci da portare a casa.
+747|Mercato di quartiere con banchi di frutta e verdura all'aperto, un mercato coperto e un mercatino delle pulci.
+748|Chiuso il lunedì. Vai al mattino e poi al Baron Rouge.
+749|Uno dei più grandi mercati all'aperto di Parigi, il giovedì e la domenica mattina.
+750|La domenica è più grande e animato.
+751|Mercato all'aperto a Saint-Germain; la domenica è tutto di prodotti biologici.
+752|Quello della domenica è il più conosciuto.
+753|Mercato elegante vicino al Trocadéro, con produttori famosi di verdure e formaggi.
+754|Si tiene il mercoledì e il sabato mattina.
+755|Il più grande mercato delle pulci del mondo, con oltre mille banchi di antiquariato.
+756|Aperto nel fine settimana e il lunedì. Attento alle tue cose vicino all'uscita della metro.
+757|Mercatino delle pulci all'aperto, più piccolo e accessibile di quello di Saint-Ouen.
+758|Si tiene il sabato e la domenica mattina. Arriva presto.
+759|Un insieme di cortili con antiquari e negozi di design, nascosto nel Marais.
+760|L'ingresso è dai passaggi su Rue Saint-Paul.
+761|Mercato dei fiori sull'Île de la Cité, con padiglioni di ferro dell'Ottocento.
+762|È tra Notre-Dame e la Sainte-Chapelle.
+763|Strada pedonale con fruttivendoli, formaggerie, panetterie e dehors.
+764|Ideale per comprare un picnic.
+765|Strada in salita verso Montmartre, piena di negozi di gastronomia e pasticcerie.
+766|Percorrila a piedi fino a Montmartre.
+767|La via dello shopping del Marais, con marchi francesi e negozi aperti la domenica.
+768|È una delle poche zone di Parigi con negozi aperti la domenica.
+769|Il viale dell'alta moda: Dior, Chanel e i grandi marchi.
+770|Anche se non compri, le vetrine meritano uno sguardo.
+771|La libreria in inglese più famosa al mondo, di fronte a Notre-Dame, con angoli per leggere e un caffè accanto.
+772|Di solito c'è fila per entrare. Dentro non si possono fare foto.
+773|Considerata la libreria in inglese più antica del continente, di fronte alle Tuileries.
+774|Ha un'ottima sezione di libri d'arte.
+775|Enorme libreria di libri nuovi e usati, su più piani.
+776|Buona per cercare libri usati in francese a poco prezzo.
+777|Piccola libreria canadese traboccante di libri usati in inglese.
+778|Chiedi aiuto: il proprietario sa dove si trova ogni libro.
+779|Lo stadio del Paris Saint-Germain.
+780|Compra i biglietti solo sul sito ufficiale del club.
+781|Lo stadio nazionale, con partite della nazionale di calcio, rugby e grandi concerti.
+782|Si arriva con il RER B o D, o con la metro 13.
+783|Lo stadio del torneo di tennis sulla terra rossa. Fuori dal torneo si può visitare.
+784|Durante il torneo i biglietti finiscono presto.
+785|La grande arena coperta di Bercy, con basket, tennis e concerti, ricoperta d'erba all'esterno.
+786|Controlla il calendario degli eventi.
+787|Il grande bosco dell'ovest, con laghi, sentieri e piste ciclabili.
+788|Vai di giorno: di notte non è consigliabile.
+789|Il grande bosco dell'est, con laghi, un castello medievale e il Parc Floral.
+790|Il castello di Vincennes, al margine del bosco, si può visitare.
+791|Un percorso lungo il canale, piatto e lungo, ideale per correre o pedalare verso la periferia.
+792|Parti dal bacino della Villette.
+793|Parco all'inglese con lago e colline, molto frequentato dai runner del sud della città.
+794|Più tranquillo dei parchi del centro.
+795|Una piscina galleggiante sulla Senna, con tetto che si apre d'estate.
+796|Porta cuffia e costume: i pantaloncini da bagno non sono ammessi.
+797|Piscina coperta art déco degli anni '30, con cabine sui ballatoi intorno all'acqua.
+798|In Francia la cuffia è obbligatoria.
+799|Una piscina art déco restaurata dentro un hotel di lusso; si può andare in giornata.
+800|L'accesso giornaliero è caro: si prenota sul loro sito.
+801|La piscina olimpica dei Giochi del 1924, con tetto apribile.
+802|È una delle più grandi della città.
+803|Piazza
+804|Bouillon
+805|Brasserie
+806|Caffè storico
+807|Crêperie
+808|Cocktail bar
+809|Bar con terrazza
+810|Cabaret
+811|Giro in battello
+812|Palazzo
+813|Città e paese
+814|Parco a tema
+815|Grandi magazzini
+816|Mercatini delle pulci
+817|Libreria
+818|crêpes
+819|ballo
+820|elettronica
+821|fiori
+822|Parigi in 1 giorno
+823|Presto, con l'orario prenotato.
+824|È a due isolati.
+825|Cammina lungo la riva fino al Louvre.
+826|Scegli due o tre sale.
+827|Dalla Concorde fino all'Arco.
+828|Sali sulla terrazza.
+829|Guarda il luccichio allo scoccare dell'ora.
+830|Giorno 1
+831|Dolce da Berthillon.
+832|Giorno 2
+833|Giorno 3
+834|Oppure una cena a Montmartre.
+835|I passaggi coperti sono fatti per la pioggia.
+836|Cioccolata calda.
+837|Parigi gratis
+838|La collezione permanente è gratis.
+839|Vista della Torre Eiffel illuminata.
+840|Barchette nella fontana.
+841|Giro in battello sulla Senna.
+842|Classici parigini
+843|Bistrot
+844|Panetterie e dolci
+845|Caffè storici
+846|Jazz e cabaret
+847|Gite di un giorno
+848|L'origine di Parigi
+849|L'Île de la Cité, con Notre-Dame, la Sainte-Chapelle e la Conciergerie, e la tranquilla Île Saint-Louis, unite da ponti.
+850|Ci sono pochissimi hotel, ma tutto il resto è a un passo.
+851|Quartiere cinese e collina di paese
+852|Il quartiere cinese tra torri moderne e, accanto, la Butte-aux-Cailles, con case basse, street art e bar economici.
+853|Economico e ben collegato, lontano dal circuito turistico.
+854|Residenziale ed elegante
+855|L'ovest tranquillo della città, con il Museo Marmottan Monet, vie commerciali di quartiere e il Bois de Boulogne vicino.
+856|Molto sicuro e silenzioso, ma lontano dalla vita notturna.
+857|Verde ed enorme
+858|Il grande bosco a ovest di Parigi, con laghi, la Fondazione Louis Vuitton e il Jardin d'Acclimatation.
+859|Non è una zona dove alloggiare: è per passare la giornata.
+860|Moderno e all'aperto
+861|Il grande parco del nord-est, con la Città delle Scienze, la Philharmonie e canali lungo cui passeggiare.
+862|Meglio da visitare che per alloggiare.
+863|Isole della Senna
+864|13° arrondissement
+865|Bois de Boulogne
+866|Bois de Vincennes
+867|Piscine
+868|Bistrot
+869|mercato
+870|senza glutine

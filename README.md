@@ -31,6 +31,7 @@ Qué está hecho, qué se probó y qué falta: [app/ESTADO.md](app/ESTADO.md).
 | Ciudades nuevas | Berlín, Madrid, Roma y París, una por tarjeta. Primero la estructura (Info, Hoy, mapa) y después los lugares. Berlín y París están en marcha; París la pidió Bautista completa, igual que Buenos Aires (13/11) | Bautista, 13/11. Tarjetas #98 a #102 |
 | Agenda de Hoy en Berlín | Agenda cultural abierta de Berlín, solo los distritos céntricos y sin trámites de biblioteca. Títulos en alemán | 13/11. Tarjeta #99 |
 | Avisos de paros, marchas y cortes | Los carga a mano una persona en `app/data/avisos.json`, con fechas y fuente, y se apagan solos al terminar. La guía no los detecta sola. Siempre se muestran, en Info > Ayuda, links para fijarse antes de salir | Bautista, 13/11. Tarjeta #120 |
+| Entrada a la guía | Globo azul galáctico con fronteras blancas y las ciudades en rojo. Se elige destino, se dibuja la ruta de vuelo y entra "pum" directo a la guía, sin botón. "Cambiar destino" vuelve a abrir el globo. Quien ya eligió ciudad va directo a su guía | `ezebesserr`, 14/11. Tarjetas #113 y #167 |
 | Cuentas de usuario | **No hay.** La guía funciona sin usuario ni mail: todo queda guardado en el dispositivo. Se probaron con Supabase y se sacaron (pocos mails por hora en el plan gratis, el enlace del mail se trababa entre dispositivos, y guardar mails obliga a cumplir con los datos personales). Tampoco va un botón para pasar el viaje a otro dispositivo | Bautista, 13/11. Tarjetas #35, #140 y #148 |
 ## Lo que falta decidir
 

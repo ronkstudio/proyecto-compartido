@@ -48,4 +48,5 @@ Los textos van en castellano y los traduce `i18n/traductor.js` con los diccionar
 
 - Abrir cada dirección web y confirmar que funciona.
 - Nada de precios ni horarios exactos. Los datos de salud (sin TACC, kosher, halal, alergias) solo con una fuente.
+- Poner su ubicación (longitud y latitud) en `GEO`, al principio de `js/globo.js`, para que aparezca en el globo de entrada con su punto rojo y su ruta de vuelo (tarjeta #167). Si estaba en `PRONTO`, sacarla de ahí.
 - Agregar la ciudad a `data/ciudades.js` y subir la versión de `CACHE` en `sw.js`. No hace falta tocar `index.html` ni la lista `SHELL`: los archivos de cada ciudad se guardan en el celular la primera vez que alguien la elige.
