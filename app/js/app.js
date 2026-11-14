@@ -505,6 +505,8 @@
     /* Atajos del inicio propios de la ciudad (data/<ciudad>-local.js, "atajos"): [texto, filtro]. */
     const atajos = LOC.atajos || [["Tango", { q: "tango" }], ["Boliches", { cat: "noche", sub: "Para bailar" }]];
     return '<section class="hero"><small>' + esc(city.country) + " · " + DOW[dow] + " " + t.getDate() + " de " + MONTHS[t.getMonth()] + "</small><h1>" + esc(city.name) + "</h1>" +
+        /* Cambiar destino: abre el globo y vuela desde esta ciudad a la nueva (js/globo.js, tarjeta #167). */
+        (window.GUIA_GLOBO ? '<button type="button" class="cambiar-destino" data-globo data-notr><span aria-hidden="true">✈️</span>' + esc(window.GUIA_GLOBO.t("Cambiar destino")) + "</button>" : "") +
         '<p class="wx" id="wx"' + (wxFresh() ? "" : " hidden") + ">" + weatherHtml() + "</p>" +
         (!hay ? "" :
         '<form class="search" id="home-search" role="search"><input type="search" name="q" placeholder="' + esc(LOC.buscarEj || "¿Qué buscás? Parrilla, tango, museo, Palermo…") + '" aria-label="Buscar en la guía" autocomplete="off"><button>Buscar</button></form>' +
