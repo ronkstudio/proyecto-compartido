@@ -868,3 +868,11 @@
 868|Bistro
 869|market
 870|gluten-free
+871|Uruguay
+872|Peru
+873|Consular section
+874|Tourist information
+875|Paris Tourist Office
+876|Moved to this address in May 2026, according to its official website. Check before you go.
+877|The city's main tourist office, a short walk from the Eiffel Tower. Information, maps and tickets.
+878|Passports, documents and help for its citizens. Address confirmed by the German Federal Foreign Office.

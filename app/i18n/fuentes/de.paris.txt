@@ -868,3 +868,11 @@
 868|Bistro
 869|Markt
 870|glutenfrei
+871|Uruguay
+872|Peru
+873|Konsularabteilung
+874|Touristeninformation
+875|Touristeninformation Paris
+876|Laut offizieller Website im Mai 2026 an diese Adresse umgezogen. Vor dem Besuch bitte prüfen.
+877|Das wichtigste Touristenbüro der Stadt, nur wenige Schritte vom Eiffelturm. Infos, Karten und Tickets.
+878|Pässe, Dokumente und Hilfe für die eigenen Staatsbürger. Adresse vom Auswärtigen Amt bestätigt.
