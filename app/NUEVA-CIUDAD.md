@@ -42,7 +42,7 @@ Una ciudad puede estar en la lista sin lugares cargados: la guía muestra un car
 
 ## Traducciones
 
-Los textos van en castellano y los traduce `i18n/traductor.js` con los diccionarios de `i18n/dict/`. Los textos nuevos de una ciudad van en su propia lista: `i18n/fuentes/<id>.txt` y `<idioma>.<id>.txt` en los 7 idiomas (ver `i18n/fuentes/LEEME.md`). Después hay que volver a armar los diccionarios. Los textos con el nombre de la ciudad ("Hoy en …", "¡Bienvenido a …!") ya se traducen solos: alcanza con que el nombre de la ciudad esté en la lista.
+Los textos van en castellano y los traduce `i18n/traductor.js` con los diccionarios de `i18n/dict/`. Los textos nuevos de una ciudad van en su propia lista: `i18n/fuentes/<id>.txt` y `<idioma>.<id>.txt` en los 7 idiomas (ver `i18n/fuentes/LEEME.md`). Después hay que volver a armar los diccionarios (`node i18n/fuentes/armar-dict.js todos`). El armado saca solo, de `data/ciudades.js`, la lista de ciudades: cada una tiene su propio diccionario por idioma (`i18n/dict/<idioma>.<id>.js`) y la app baja solo el de la ciudad elegida (tarjeta #187). Los textos con el nombre de la ciudad ("Hoy en …", "¡Bienvenido a …!") ya se traducen solos: alcanza con que el nombre de la ciudad esté en la lista.
 
 ## Antes de publicar
 

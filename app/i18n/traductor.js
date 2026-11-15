@@ -5,16 +5,18 @@
    - Este archivo mira todo lo que aparece en pantalla y cambia cada texto por su traducción. También placeholders, etiquetas y avisos.
    - Lo que no está en el diccionario queda en español (nombres de lugares, direcciones y barrios no se traducen a propósito).
    - Los textos con números ("Día 3", "5 lugares guardados") se resuelven con las reglas de "__re" del diccionario.
-   - Solo se carga el diccionario del idioma elegido.
+   - Solo se carga el diccionario del idioma elegido: el común (<código>.js) y el de la ciudad elegida (<código>.<ciudad>.js, tarjeta #187).
 
-   Para sumar o corregir una traducción: editar el diccionario de ese idioma. La clave es el texto en español, tal cual se ve. */
+   Para sumar o corregir una traducción: editar las listas de i18n/fuentes/ y volver a armar los diccionarios (ver i18n/fuentes/LEEME.md). */
 (() => {
   "use strict";
   const lang = (window.I18N && window.I18N.lang) || "es";
   if (lang === "es") return;
 
-  /* Carga el diccionario antes de que arranque la app (este archivo se carga antes que js/app.js). */
-  document.write('<script src="i18n/dict/' + lang + '.js"><\/script>');
+  /* Carga los diccionarios antes de que arranque la app (este archivo se carga después de js/ciudad.js y antes que js/app.js). */
+  const ciudad = window.GUIA_CIUDAD && window.GUIA_CIUDAD.id;
+  document.write('<script src="i18n/dict/' + lang + '.js"><\/script>' +
+    (ciudad ? '<script src="i18n/dict/' + lang + "." + ciudad + '.js"><\/script>' : ""));
 
   const MESES = ["enero", "febrero", "marzo", "abril", "mayo", "junio", "julio", "agosto", "septiembre", "octubre", "noviembre", "diciembre"];
   const FECHA = /^(lunes|martes|mi[eé]rcoles|jueves|viernes|s[aá]bado|domingo),? (\d{1,2}) de ([a-z]+)$/i;
