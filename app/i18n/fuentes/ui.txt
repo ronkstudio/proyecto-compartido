@@ -883,3 +883,7 @@ Para moverte por la ciudad no hace falta: hay mucho tránsito y es difícil esta
 Con licencia de otro país podés manejar como turista. Si no está en español, llevá también el Permiso Internacional de Conducir: algunas agencias lo piden.
 Las autopistas de la ciudad cobran el peaje sin barreras, con TelePASE: preguntá en la agencia si el auto lo tiene y cómo se paga.
 Hay lluvia: mirá el plan bajo techo →
+Económico (por noche)
+Precio medio (por noche)
+Caro (por noche)
+Alta gama (por noche)

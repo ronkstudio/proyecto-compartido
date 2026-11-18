@@ -883,3 +883,7 @@
 883|Mit einem ausländischen Führerschein darfst du als Tourist fahren. Wenn er nicht auf Spanisch ist, nimm auch den Internationalen Führerschein mit: Manche Vermieter verlangen ihn.
 884|Die Stadtautobahnen erheben die Maut ohne Schranken über TelePASE: Frag beim Vermieter, ob das Auto es hat und wie bezahlt wird.
 885|Es regnet: Sieh dir den Plan für drinnen an →
+886|Günstig (pro Nacht)
+887|Mittlere Preise (pro Nacht)
+888|Teuer (pro Nacht)
+889|Luxus (pro Nacht)

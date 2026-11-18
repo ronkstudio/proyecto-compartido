@@ -883,3 +883,7 @@
 883|Com carteira de outro país você pode dirigir como turista. Se não estiver em espanhol, leve também a Permissão Internacional para Dirigir: algumas locadoras pedem.
 884|As autoestradas da cidade cobram pedágio sem cancelas, com TelePASE: pergunte na locadora se o carro tem e como se paga.
 885|Está chovendo: veja o roteiro em lugares cobertos →
+886|Econômico (por noite)
+887|Preço médio (por noite)
+888|Caro (por noite)
+889|Alto padrão (por noite)

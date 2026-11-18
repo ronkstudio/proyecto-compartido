@@ -161,7 +161,6 @@ Object.assign(window.I18N_FULL = window.I18N_FULL || {}, {
 "Fines de mayo y principios de junio": "Fin mai et début juin",
 "El torneo de tenis sobre polvo de ladrillo, en el estadio del oeste de la ciudad.": "Le tournoi de tennis sur terre battue, au stade de l'ouest de la ville.",
 "Música gratis en plazas, bares y esquinas de toda la ciudad, hasta tarde.": "Musique gratuite sur les places, dans les bars et au coin des rues de toute la ville, jusque tard.",
-"Fines de junio": "Fin juin",
 "La marcha del orgullo de París, con desfile por el centro.": "La Marche des fiertés de Paris, avec un défilé dans le centre.",
 "14 de julio": "14 juillet",
 "Desfile militar en los Campos Elíseos a la mañana y fuegos artificiales en la Torre Eiffel a la noche.": "Défilé militaire sur les Champs-Élysées le matin et feu d'artifice à la tour Eiffel le soir.",

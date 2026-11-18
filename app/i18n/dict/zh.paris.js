@@ -161,7 +161,6 @@ Object.assign(window.I18N_FULL = window.I18N_FULL || {}, {
 "Fines de mayo y principios de junio": "5月底至6月初",
 "El torneo de tenis sobre polvo de ladrillo, en el estadio del oeste de la ciudad.": "红土网球赛事，在城西的球场举行。",
 "Música gratis en plazas, bares y esquinas de toda la ciudad, hasta tarde.": "全城广场、酒吧和街角都有免费音乐，一直到深夜。",
-"Fines de junio": "6月底",
 "La marcha del orgullo de París, con desfile por el centro.": "巴黎骄傲大游行，在市中心巡游。",
 "14 de julio": "7月14日",
 "Desfile militar en los Campos Elíseos a la mañana y fuegos artificiales en la Torre Eiffel a la noche.": "上午香榭丽舍大街阅兵，晚上埃菲尔铁塔放烟花。",

@@ -128,7 +128,6 @@ Object.assign(window.I18N_FULL = window.I18N_FULL || {}, {
 "El cubierto": "餐位费",
 "Muchos restaurantes cobran un \"coperto\" por persona (pan y cubiertos). Es legal si figura en la carta.": "很多餐厅按人头收取\"coperto\"（面包和餐具费）。只要菜单上写明就是合法的。",
 "No es obligatoria. Se suele redondear o dejar unos euros si te atendieron bien.": "不是必须的。服务好的话，通常凑个整数或留几欧元。",
-"Tasa turística": "旅游税",
 "Los hoteles cobran una tasa de estadía por persona y por noche, aparte de la tarifa. Se paga en el alojamiento.": "酒店在房费之外按每人每晚收取城市税。在住宿处支付。",
 "Horarios romanos": "罗马的作息时间",
 "Almuerzo de 13 a 15 y cena de 20 a 23. Fuera de esos horarios muchas cocinas cierran: buscá pizza al corte o un bar.": "午餐13点到15点，晚餐20点到23点。其他时间很多厨房不营业：可以找切片披萨或酒吧。",
