@@ -128,7 +128,6 @@ Object.assign(window.I18N_FULL = window.I18N_FULL || {}, {
 "El cubierto": "コペルト（席料）",
 "Muchos restaurantes cobran un \"coperto\" por persona (pan y cubiertos). Es legal si figura en la carta.": "多くのレストランは1人ごとに「コペルト」（パンとカトラリー代）を請求します。メニューに書いてあれば合法です。",
 "No es obligatoria. Se suele redondear o dejar unos euros si te atendieron bien.": "義務ではありません。サービスが良ければ端数を切り上げるか数ユーロ置くのが一般的です。",
-"Tasa turística": "宿泊税",
 "Los hoteles cobran una tasa de estadía por persona y por noche, aparte de la tarifa. Se paga en el alojamiento.": "ホテルは料金とは別に、1人1泊ごとの宿泊税を請求します。宿で支払います。",
 "Horarios romanos": "ローマの時間帯",
 "Almuerzo de 13 a 15 y cena de 20 a 23. Fuera de esos horarios muchas cocinas cierran: buscá pizza al corte o un bar.": "昼食は13時〜15時、夕食は20時〜23時。それ以外の時間は閉まる厨房が多いので、切り売りピッツァかバーを探して。",

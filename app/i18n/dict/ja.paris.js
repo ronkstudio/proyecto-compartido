@@ -161,7 +161,6 @@ Object.assign(window.I18N_FULL = window.I18N_FULL || {}, {
 "Fines de mayo y principios de junio": "5月下旬〜6月上旬",
 "El torneo de tenis sobre polvo de ladrillo, en el estadio del oeste de la ciudad.": "クレーコートのテニス大会。市の西にあるスタジアムで開催。",
 "Música gratis en plazas, bares y esquinas de toda la ciudad, hasta tarde.": "街中の広場やバー、街角で夜遅くまで無料の音楽。",
-"Fines de junio": "6月下旬",
 "La marcha del orgullo de París, con desfile por el centro.": "パリのプライド・マーチ。中心部をパレードします。",
 "14 de julio": "7月14日",
 "Desfile militar en los Campos Elíseos a la mañana y fuegos artificiales en la Torre Eiffel a la noche.": "朝はシャンゼリゼで軍事パレード、夜はエッフェル塔で花火。",

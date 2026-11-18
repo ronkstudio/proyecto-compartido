@@ -161,7 +161,6 @@ Object.assign(window.I18N_FULL = window.I18N_FULL || {}, {
 "Fines de mayo y principios de junio": "Late May and early June",
 "El torneo de tenis sobre polvo de ladrillo, en el estadio del oeste de la ciudad.": "The clay-court tennis tournament, at the stadium in the west of the city.",
 "Música gratis en plazas, bares y esquinas de toda la ciudad, hasta tarde.": "Free music in squares, bars and on street corners all over the city, until late.",
-"Fines de junio": "Late June",
 "La marcha del orgullo de París, con desfile por el centro.": "Paris Pride, with a parade through the centre.",
 "14 de julio": "14 July",
 "Desfile militar en los Campos Elíseos a la mañana y fuegos artificiales en la Torre Eiffel a la noche.": "Military parade on the Champs-Élysées in the morning and fireworks at the Eiffel Tower at night.",

@@ -128,7 +128,6 @@ Object.assign(window.I18N_FULL = window.I18N_FULL || {}, {
 "El cubierto": "Il coperto",
 "Muchos restaurantes cobran un \"coperto\" por persona (pan y cubiertos). Es legal si figura en la carta.": "Molti ristoranti fanno pagare un \"coperto\" a persona (pane e posate). È legale se è indicato nel menù.",
 "No es obligatoria. Se suele redondear o dejar unos euros si te atendieron bien.": "Non è obbligatoria. Di solito si arrotonda o si lascia qualche euro se il servizio è stato buono.",
-"Tasa turística": "Tassa di soggiorno",
 "Los hoteles cobran una tasa de estadía por persona y por noche, aparte de la tarifa. Se paga en el alojamiento.": "Gli hotel fanno pagare una tassa di soggiorno a persona e a notte, oltre alla tariffa. Si paga nella struttura.",
 "Horarios romanos": "Orari romani",
 "Almuerzo de 13 a 15 y cena de 20 a 23. Fuera de esos horarios muchas cocinas cierran: buscá pizza al corte o un bar.": "Pranzo dalle 13 alle 15 e cena dalle 20 alle 23. Fuori da questi orari molte cucine chiudono: cerca una pizza al taglio o un bar.",

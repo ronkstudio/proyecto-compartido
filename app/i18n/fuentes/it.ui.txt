@@ -883,3 +883,7 @@
 883|Con una patente di un altro paese puoi guidare come turista. Se non è in spagnolo, porta anche il permesso internazionale di guida: alcune agenzie lo chiedono.
 884|Le autostrade della città riscuotono il pedaggio senza barriere, con TelePASE: chiedi all'agenzia se l'auto ce l'ha e come si paga.
 885|Piove: guarda il piano al coperto →
+886|Economico (a notte)
+887|Prezzo medio (a notte)
+888|Caro (a notte)
+889|Fascia alta (a notte)

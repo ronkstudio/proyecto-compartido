@@ -1,0 +1,820 @@
+1|Barcelona
+2|Gaudí, musées, places, parcs et plages
+3|Tapas, marchés, cuisine catalane et riz
+4|Vermouth, cocktails, terrasses, flamenco et boîtes de nuit
+5|Marchés, rues commerçantes et design
+6|Stades, plages et plein air
+7|Théâtre, concerts, opéra et sorties avec les enfants
+8|Barri Gòtic
+9|Le cœur médiéval
+10|Ruelles de pierre, la cathédrale, la place Sant Jaume, la place Reial et des vestiges de la ville romaine, entre La Rambla et Via Laietana.
+11|À deux pas de tout et magnifique ; la nuit, il y a beaucoup d'animation et mieux vaut surveiller ses affaires.
+12|El Born
+13|Médiéval et branché
+14|La basilique Santa Maria del Mar, le musée Picasso, le marché Santa Caterina, des boutiques de design et des bars à cocktails.
+15|L'une des meilleures bases : central, joli et très vivant.
+16|El Raval
+17|De l'autre côté de La Rambla : le marché de la Boqueria, le MACBA, le Palau Güell, des bars historiques et de la cuisine du monde entier.
+18|Bon marché et très animé ; mieux vaut éviter certaines rues la nuit.
+19|La Barceloneta
+20|Le quartier de la plage
+21|L'ancien quartier des pêcheurs, avec des rues étroites, des bars à tapas, des riz face à la mer et la plage la plus célèbre de la ville.
+22|Idéal en été pour être près de la mer ; à la plage, surveillez vos affaires.
+23|Port Vell
+24|Le port et la mer
+25|Le vieux port, le monument à Christophe Colomb, le Maremagnum, l'Aquarium et la promenade maritime jusqu'au Port Olímpic.
+26|Eixample
+27|Modernisme et Passeig de Gràcia
+28|Des pâtés de maisons en damier aux angles coupés, la Casa Batlló, La Pedrera, des boutiques, des restaurants et beaucoup de vie de quartier.
+29|Sûr, bien desservi et avec des hôtels de toutes catégories.
+30|La basilique de Gaudí
+31|Autour de la Sagrada Família : l'hôpital de Sant Pau, l'avenue Gaudí et des rues résidentielles.
+32|Calme et bien desservi ; les abords de la basilique sont pleins de touristes.
+33|Gràcia
+34|Un village dans la ville
+35|Des places avec terrasses, de petites boutiques, la Casa Vicens et, en août, la Festa Major avec les rues décorées par les habitants.
+36|Authentique et animé, à quelques pas du centre.
+37|Park Güell y El Carmel
+38|Gaudí et panoramas
+39|Le parc Güell et les quartiers des collines, avec les Bunkers del Carmel, le meilleur belvédère gratuit de la ville.
+40|Résidentiel et en forte pente ; mieux pour une visite.
+41|Sant Antoni
+42|Vermouth et marché
+43|Le marché de Sant Antoni, le marché aux livres du dimanche et la rue Parlament, pleine de bars et de cafés.
+44|Branché, central et plus calme que la vieille ville.
+45|Poble-sec
+46|Tapas au pied de Montjuïc
+47|La rue Blai et ses pintxos, des théâtres sur le Paral·lel et la montée vers Montjuïc.
+48|Un quartier vivant, bien situé et à bon prix.
+49|Montjuïc
+50|La montagne des musées
+51|Le MNAC, la Fondation Miró, le Poble Espanyol, le stade olympique, le château et des jardins avec vue sur le port.
+52|C'est un grand parc : pour y passer la journée, pas pour y dormir.
+53|Poblenou
+54|Anciennes usines et plage
+55|Le quartier industriel reconverti : la Rambla del Poblenou, le musée du Design, Glòries, la Torre Glòries et des plages plus calmes.
+56|Calme, moderne et proche de la mer.
+57|Les Corts y Pedralbes
+58|Football et monastère
+59|Le stade du Barça (Spotify Camp Nou), le monastère de Pedralbes et le quartier universitaire.
+60|Résidentiel ; pratique si vous venez pour un match.
+61|Sarrià y Tibidabo
+62|Les hauteurs
+63|L'ancien village de Sarrià, CosmoCaixa et le Tibidabo, avec son parc d'attractions et la meilleure vue de la ville.
+64|Calme et chic, mais loin du centre.
+65|Sants
+66|La gare et le quartier
+67|La gare de Sants, d'où partent les trains à grande vitesse, et un quartier d'habitants avec un marché et la Plaça d'Espanya tout près.
+68|Pratique si vous arrivez ou partez en train.
+69|Barcelone en 1 jour
+70|Billet horodaté, le plus tôt possible.
+71|Si vous n'entrez pas, admirez-la depuis le trottoir.
+72|Déjeuner au comptoir d'un stand du marché.
+73|Tapas et cava dans le Born.
+74|Billet horodaté.
+75|Arrivez avant l'ouverture.
+76|Dîner sur les places de Gràcia.
+77|Réservez un créneau.
+78|Pintxos à Poble-sec.
+79|Un chocolat chaud.
+80|Un concert.
+81|Barcelone gratuite
+82|La plus belle vue, gratuite.
+83|Certains jours seulement : vérifiez avant.
+84|Traversez le port dans les airs jusqu'à Montjuïc.
+85|Barques sur le lac et de la place pour courir.
+86|Hospital de Bellvitge ↔ Fondo
+87|Plaça d'Espanya, Universitat, Catalunya, Urquinaona, Arc de Triomf y Glòries
+88|Paral·lel ↔ Badalona Pompeu Fabra
+89|Sant Antoni, Universitat, Passeig de Gràcia, Sagrada Família et Monumental
+90|Zona Universitària ↔ Trinitat Nova
+91|Les Corts (Camp Nou), Sants Estació, Espanya, Paral·lel, Drassanes, Liceu, Catalunya, Passeig de Gràcia, Diagonal et Lesseps (Park Güell)
+92|Trinitat Nova ↔ La Pau
+93|Passeig de Gràcia, Urquinaona, Jaume I (Gòtic et Born), Barceloneta, Ciutadella-Vila Olímpica et Poblenou
+94|Cornellà Centre ↔ Vall d'Hebron
+95|Sants Estació, Hospital Clínic, Diagonal, Verdaguer, Sagrada Família et Sant Pau-Dos de Maig
+96|Aeroport T1 ↔ Zona Universitària
+97|Le métro de l'aéroport (T1 et T2) et le parc des expositions de Gran Via (Fira) ; correspondance avec la L1 à Torrassa, la L5 à Collblanc et la L3 à Zona Universitària
+98|La Sagrera ↔ Can Zam
+99|Zone nord, de La Sagrera à Santa Coloma
+100|La Sagrera ↔ Gorg (nord) · Collblanc ↔ Zona Franca (sud)
+101|Deux tronçons séparés, surtout pour des quartiers résidentiels
+102|Trinitat Nova ↔ Can Cuiàs
+103|Un court tronçon au nord de la ville
+104|Paral·lel ↔ Parc de Montjuïc
+105|Le funiculaire de Montjuïc : on monte sur la colline avec le même billet que le métro
+106|Titre de 10 trajets (T-casual)
+107|Le plus utilisé : 10 trajets en métro, bus, tram et trains dans la zone 1, correspondances comprises. Il est personnel : si vous voyagez à deux, chacun a besoin du sien. Il n'est pas valable dans les stations de métro de l'aéroport.
+108|Hola Barcelona
+109|La carte pour touristes : trajets illimités de 2 à 5 jours en métro, bus, tram et trains de la zone 1, et elle inclut bien le métro de l'aéroport. En vente aux distributeurs du métro, sur le site officiel ou dans son appli.
+110|Avec votre carte bancaire
+111|Dans les bus TMB, vous pouvez payer un trajet simple en posant votre carte sans contact ou votre téléphone sur le lecteur à l'avant. Dans le métro, seulement à certains accès équipés d'un portillon spécial ; ailleurs, il faut acheter le billet au distributeur.
+112|Les stations de métro de l'aéroport (ligne L9 Sud) exigent un billet spécial ou la Hola Barcelona : le T-casual n'est pas valable. Le train Rodalies et le bus 46 acceptent le T-casual.
+113|18 novembre 2026, avec les sites de TMB, Hola Barcelona, Aena et Rodalies. En cas de différence, ce sont les panneaux des transports qui font foi.
+114|Il dessert presque tout ce que vous visiterez. Chaque ligne a un numéro et une couleur : la L3 (verte) passe par La Rambla, Passeig de Gràcia et Sants, et la L4 (jaune) par le Gòtic, le Born et la Barceloneta.
+115|Il fonctionne du petit matin à minuit ; plus tard le vendredi et toute la nuit le samedi. Au petit matin, il y a des bus de nuit (NitBus).
+116|Panneaux en catalan
+117|Les panneaux et les annonces sont en catalan, et beaucoup aussi en espagnol et en anglais : « sortida » veut dire sortie et « andana » quai.
+118|Bus, tram et trains
+119|Bus (TMB)
+120|Ils sont rouges et desservent tous les quartiers, y compris des endroits sans métro comme le parc Güell ou les hauteurs. On monte à l'avant ; vous pouvez payer par carte bancaire ou valider le T-casual.
+121|Quand le métro ferme, ce sont les NitBus (lignes N), qui passent presque tous par la Plaça de Catalunya.
+122|FGC et Rodalies
+123|Les trains de la Generalitat (FGC) partent de la Plaça de Catalunya et de la Plaça d'Espanya vers Sarrià, le Tibidabo et Montserrat. Les Rodalies sont les trains de banlieue, qui vont à l'aéroport, à Sitges et dans d'autres villes.
+124|Utilisez Google Maps, Moovit ou l'appli TMB : elles indiquent la ligne, l'arrêt et le temps d'attente.
+125|Aéroport
+126|El Prat (BCN)
+127|L'aéroport de Barcelone a deux terminaux séparés, T1 et T2, reliés par une navette gratuite. Vérifiez sur votre billet lequel vous concerne.
+128|Aerobús
+129|C'est le plus simple pour rejoindre le centre : il va directement à la Plaça d'Espanya et à la Plaça de Catalunya, passe très souvent et se paie par carte en montant. L'A1 dessert le T1 et l'A2 le T2.
+130|Metro L9 Sud
+131|Il part des deux terminaux, mais il est lent pour le centre et il faut changer. Il faut le billet spécial aéroport ou la Hola Barcelona.
+132|Train Rodalies (R2 Nord)
+133|Il part du T2 et dessert Sants et Passeig de Gràcia. Il accepte le T-casual. Si vous arrivez au T1, prenez d'abord la navette gratuite jusqu'au T2.
+134|Taxi
+135|Ils sont noirs et jaunes et roulent au compteur, plus un supplément au départ de l'aéroport. Utilisez la file officielle et méfiez-vous de ceux qui vous proposent une course dans le terminal.
+136|Trains et cars
+137|Sants est la principale : les trains à grande vitesse en partent pour Madrid, Valence, Séville et la France. L'Estació de França a des trains régionaux et l'Estació del Nord les cars longue distance.
+138|AVE et Avlo (Renfe), Iryo et Ouigo rejoignent Madrid en trois heures environ. Il y a de la concurrence et des prix très variables : réservez tôt et comparez.
+139|Ils sont noirs et jaunes. Si la lumière verte est allumée, ils sont libres. On les prend dans la rue, aux stations ou par appli, et ils roulent au compteur.
+140|FREENOW et Uber font venir des taxis officiels ; Cabify et Bolt proposent des taxis et des VTC, soumis à des règles plus strictes à Barcelone. Ils affichent le prix ou une estimation avant la commande.
+141|À l'aéroport, au port et dans les gares, utilisez seulement la file officielle de taxis. Tous doivent accepter la carte.
+142|Le centre se parcourt à pied : de la Plaça de Catalunya à la Barceloneta, il faut environ 30 minutes par La Rambla ou le Gòtic. Pour le parc Güell et Montjuïc, ça monte fort.
+143|Vélos
+144|Le Bicing, le vélo en libre-service, est réservé aux résidents. Pour vous balader, louez-en un dans une boutique de location ou faites une visite à vélo : il y a beaucoup de pistes cyclables.
+145|Trottinettes
+146|Il n'y a pas de trottinettes électriques en location, et elles sont interdites dans les transports publics.
+147|Mossos d'Esquadra (la police de Catalogne)
+148|Guàrdia Urbana (police municipale)
+149|Police nationale (passeports et étrangers)
+150|Guàrdia Urbana : accueil des touristes à La Rambla 43, en cas de vol ou de perte de documents
+151|Informations sur la ville (seulement depuis Barcelone)
+152|Barcelone est célèbre pour ses pickpockets : ils sont très habiles et travaillent en groupe. Ce n'est pas dangereux, mais il faut rester vigilant en permanence.
+153|Ça arrive surtout sur La Rambla, dans le métro (lignes L3 et L1, à Liceu, Catalunya, Passeig de Gràcia et Sagrada Família), à la Sagrada Família, au parc Güell et sur la plage de la Barceloneta.
+154|Portez le sac à dos devant et gardez les poches fermées. En terrasse, ne laissez pas votre téléphone sur la table ni votre sac accroché à la chaise.
+155|À la plage, ne laissez jamais vos affaires seules sur la serviette pendant que vous allez à l'eau.
+156|Voici des endroits où mieux vaut être plus vigilant, surtout la nuit.
+157|La Rambla et la Plaça Reial, à toute heure.
+158|Certaines rues du Raval la nuit, surtout vers le port.
+159|La plage de la Barceloneta et le Port Olímpic à la sortie des boîtes.
+160|Les quais et les escalators du métro dans les stations les plus touristiques.
+161|Le bonneteau : deviner sous quel gobelet se trouve la bille, surtout sur La Rambla. Les gagnants sont des complices : ne pariez pas.
+162|La tache ou la fiente d'oiseau : quelqu'un tache vos vêtements et propose de vous nettoyer pendant qu'un autre vous prend votre portefeuille.
+163|Le footballeur : quelqu'un vous arrête pour vous montrer un geste technique ou vous enlace pour un match, et pendant ce temps vous fait les poches.
+164|Les faux policiers : des gens en civil qui demandent à voir votre portefeuille ou votre passeport. La vraie police ne fait pas ça dans la rue.
+165|Les pétitions : on vous demande de signer pour une cause, puis on exige un don, ou on en profite pour vous voler.
+166|Sur la route : si quelqu'un vous fait signe que vous avez un pneu crevé, ne vous arrêtez pas sur la bande d'arrêt d'urgence ; continuez jusqu'à une station-service.
+167|Avec ces précautions, la grande majorité des séjours se passent sans problème.
+168|En cas de vol, portez plainte dans un commissariat des Mossos d'Esquadra ou au service d'accueil des touristes de la Guàrdia Urbana (La Rambla 43), qui dispose d'interprètes.
+169|Les hébergements facturent à part une taxe par personne et par nuit, qui cumule celle de la Catalogne et celle de la ville. Demandez si elle est déjà comprise.
+170|Les horaires de Barcelone
+171|On mange tard : le déjeuner se prend de 13 h 30 à 15 h 30 et le dîner de 20 h 30 à 22 h 30. En dehors de ces heures, beaucoup de cuisines sont fermées, mais il y a toujours des bars à tapas.
+172|Le week-end, avant le déjeuner, on prend le vermouth avec des olives, des chips et des conserves. Sant Antoni et Gràcia regorgent de bodegas pour ça.
+173|Les boutiques du centre ouvrent toute la journée, sans pause à midi. Le dimanche, la plupart ferment, sauf dans les zones les plus touristiques.
+174|Musées et Gaudí
+175|Beaucoup de musées ferment le lundi. La Sagrada Família, le parc Güell, la Casa Batlló et La Pedrera sont pris d'assaut : achetez votre billet daté et horodaté sur leur site officiel.
+176|Doux et ensoleillé : la meilleure période pour marcher, avec des terrasses pleines et la Sant Jordi.
+177|Chaud et humide, avec des plages bondées et du monde partout. En août, certains commerces ferment.
+178|Agréable, et on peut encore aller à la plage en septembre. Octobre peut apporter de fortes pluies.
+179|Doux, entre 5 et 15 °C, avec des journées ensoleillées. Il y a moins de touristes et les prix baissent.
+180|L'eau du robinet est potable, mais elle a un goût prononcé : beaucoup préfèrent l'eau minérale ou filtrée.
+181|Langues
+182|On parle catalan et espagnol, et tout le monde comprend l'espagnol. Les panneaux sont souvent en catalan : vous trouverez plus bas les mots les plus utiles.
+183|Entre connaissances, on se fait deux bises, une sur chaque joue. En entrant dans un commerce, on dit « Hola, bon dia » ou « Hola, buenos días ».
+184|Dans la rue
+185|On ne peut pas se promener en maillot de bain ni torse nu loin de la plage : il y a des amendes. Boire de l'alcool dans la rue est aussi interdit.
+186|L'addition ne vient pas toute seule : demandez-la. Dans les bars à pintxos, on compte les cure-dents à la fin pour vous faire payer.
+187|Le pain à la tomate, les bombas de la Barceloneta, la paella et le riz noir, la fideuà, l'escalivada, la crème catalane, les calçots en hiver et le vermouth.
+188|Hors de Barcelone
+189|Passeport barcelonais
+190|Marquez les lieux que vous connaissez et gagnez des tampons : Gaudí, tapas, vermouth, plage, explorateur de quartiers…
+191|Nuit barcelonaise
+192|Que cherchez-vous ? Gaudí, tapas, plage, Gràcia…
+193|Ex. : Sagrada Família, parc Güell, Barceloneta…
+194|Ex. : Sagrada Família, Plaça de Catalunya, Sants…
+195|Ex. : Vueling, Iberia, Aerolíneas Argentinas…
+196|Gaudí
+197|Jusqu'au centre (Plaça de Catalunya)
+198|Depuis l'aéroport d'El Prat, terminal T1
+199|Depuis l'aéroport d'El Prat, terminal T2
+200|El Prat : bus vers le centre (Aerobús)
+201|Site officiel d'Aena : Aerobús et bus
+202|El Prat : métro L9 Sud
+203|Site officiel d'Aena
+204|El Prat : train Rodalies (T2)
+205|Billet de métro de l'aéroport
+206|Site officiel de TMB
+207|Vérifiez sur votre billet de quel terminal vous partez ou arrivez : le T1 et le T2 sont éloignés et reliés par une navette gratuite.
+208|L'Aerobús est le plus simple pour rejoindre le centre : il va directement à la Plaça d'Espanya et à la Plaça de Catalunya et se paie par carte en montant.
+209|Le métro L9 Sud exige le billet spécial aéroport ou la carte Hola Barcelona : le T-casual n'y est pas valable.
+210|Depuis le T2, le train Rodalies va à Sants et Passeig de Gràcia, et accepte le T-casual.
+211|Les taxis roulent au compteur, plus un supplément au départ de l'aéroport. Utilisez la file officielle.
+212|Movistar
+213|Vodafone
+214|Orange
+215|Digi
+216|T-casual, Hola Barcelona et comment se déplacer
+217|La carte pour touristes, sur son site officiel
+218|T-casual (10 trajets)
+219|Si vous allez beaucoup vous déplacer et arrivez ou repartez en métro depuis l'aéroport, la Hola Barcelona (de 2 à 5 jours) est la plus intéressante. Sinon, le T-casual de 10 trajets.
+220|Dans les bus, vous pouvez payer un trajet simple avec votre carte bancaire ; dans le métro, seulement à certains accès.
+221|Inutile pour circuler dans Barcelone : les transports vont partout et se garer est difficile et cher. C'est utile pour sortir de la ville, par exemple vers la Costa Brava, Montserrat ou le Penedès.
+222|Europcar
+223|Hertz
+224|Avis
+225|Sixt
+226|Enterprise
+227|Centauro
+228|Barcelone et les villes voisines sont une zone à faibles émissions (à l'intérieur des Rondas) : en semaine, seules les voitures munies d'une vignette environnementale peuvent y entrer. Les voitures de location en ont une ; mieux vaut quand même la récupérer à l'aéroport ou à Sants.
+229|L'appli officielle du métro et des bus : itinéraires, temps d'attente et alertes.
+230|L'appli des trains de banlieue, qui vont à l'aéroport et dans les villes alentour.
+231|Taxis officiels, avec un prix estimé.
+232|À Barcelone, elle fait venir des taxis officiels. Vous voyez le prix avant de commander.
+233|Taxis et VTC, avec un prix fixé avant la commande.
+234|Pour voyager hors de Barcelone
+235|Trains à grande vitesse vers Madrid, Valence, Séville, Málaga et d'autres villes.
+236|TMB : état du métro
+237|TMB : état des bus
+238|Rodalies : alertes
+239|Retards et interruptions sur les trains de banlieue, y compris vers l'aéroport.
+240|⭐ À la une cette semaine. 📅 Agenda culturel officiel de la Ville de Barcelone (les titres sont en catalan). Vérifiez sur sa page avant d'y aller.
+241|Ville de Barcelone : que faire
+242|Tourisme de Barcelone : le site officiel
+243|Barcelone a un aéroport, El Prat, avec deux terminaux séparés : le T1, le plus grand, et le T2, surtout utilisé par les compagnies low cost. Ils sont reliés par une navette gratuite : vérifiez bien d'où part votre vol.
+244|Salutation en entrant dans un commerce (l'après-midi, « Bona tarda »)
+245|S'il vous plaît
+246|Pour dire au revoir
+247|Pour demander si l'on peut vous répondre en espagnol
+248|🎫 Quel titre choisir : T-casual ou Hola Barcelona
+249|⚠️ Comment vous protéger des pickpockets et des arnaques les plus courantes
+250|🗣️ Les mots catalans que vous verrez sur les panneaux
+251|Office de tourisme · Plaça de Catalunya
+252|Le principal office de tourisme, sous la place, en face d'El Corte Inglés. Informations, plans et billets officiels.
+253|Office de tourisme · Cathédrale
+254|À côté de la cathédrale, en plein Barri Gòtic. Fermé le dimanche.
+255|Office de tourisme · Mirador de Colom
+256|À l'intérieur du monument à Colomb, au bout de La Rambla. Ouvert le matin seulement.
+257|Office de tourisme · Estació del Nord
+258|À la gare routière. Ouvert le matin seulement.
+259|Office de tourisme · Aéroport T1
+260|Office de tourisme · Aéroport T2
+261|Guàrdia Urbana · Accueil des touristes
+262|Le service d'accueil des touristes de la police municipale, avec des interprètes : ils vous aident à porter plainte, à faire opposition sur vos cartes et à contacter votre consulat. Téléphone +34 93 256 24 31.
+263|Mossos d'Esquadra · Commissariat Ciutat Vella
+264|Le commissariat de la vieille ville. Ouvert 24 h/24 pour porter plainte.
+265|Mossos d'Esquadra et Guàrdia Urbana · Barceloneta
+266|Bureau commun des deux polices, près de la plage. En été, ouvert 24 h/24.
+267|Mossos d'Esquadra · Commissariat Eixample
+268|Pour l'Eixample, Sant Antoni et Montjuïc. Plaintes pour vol et perte de documents.
+269|Mossos d'Esquadra · Commissariat Les Corts
+270|Le plus proche du stade du Barça.
+271|Hospital Clínic
+272|Hôpital universitaire public. Urgences 24 h/24 ; le plus proche du centre et de l'Eixample.
+273|Hospital de la Santa Creu i Sant Pau
+274|Public. Urgences 24 h/24 ; pour la Sagrada Família, Gràcia et le parc Güell.
+275|Hospital del Mar
+276|Public, face à la plage. Urgences 24 h/24 ; pour la Barceloneta, le Born et le Poblenou.
+277|Hospital Universitari Vall d'Hebron
+278|Le plus grand hôpital public de Catalogne, avec des urgences adultes et pédiatriques 24 h/24.
+279|Hospital Sant Joan de Déu
+280|Hôpital pour enfants, avec urgences pédiatriques 24 h/24. Il se trouve juste à la sortie de la ville, par la Diagonal.
+281|Passeports, documents et aide à ses ressortissants. Adresse confirmée dans la liste officielle du ministère espagnol des Affaires étrangères (30/10/2026).
+282|Mexique · Consulat
+283|Paraguay · Consulat général
+284|Costa Rica · Consulat honoraire
+285|Consulat honoraire : aide de base et orientation. Pour les passeports, le consulat général de Madrid. Adresse confirmée dans la liste officielle du ministère espagnol des Affaires étrangères (30/10/2026).
+286|États-Unis · Consulat général
+287|Gare de Sants
+288|La gare principale : trains à grande vitesse vers Madrid et la France, Rodalies (aussi vers l'aéroport) et les lignes L3 et L5 du métro.
+289|Estació de França
+290|Trains régionaux, près du Born et de la Barceloneta. Métro Barceloneta (L4).
+291|Estació del Nord (cars)
+292|La gare routière longue distance. Métro Arc de Triomf (L1).
+293|Le centre de tout : métro L1 et L3, trains FGC et Rodalies, l'Aerobús et les bus de nuit.
+294|Terminaux de croisière
+295|Là où accostent les croisières. Une navette va jusqu'au monument à Colomb.
+296|Aéroport d'El Prat · T1
+297|Aerobús A1, métro L9 Sud et taxis. Pour le train Rodalies, navette gratuite jusqu'au T2.
+298|Aéroport d'El Prat · T2
+299|Aerobús A2, métro L9 Sud, train Rodalies R2 Nord et taxis.
+300|Pharmacies de garde
+301|Les pharmacies ouvertes la nuit et le dimanche, sur la carte.
+302|Guàrdia Urbana : accueil des touristes
+303|Aide en cas de vol, avec des interprètes : +34 93 256 24 31.
+304|Tourisme de Barcelone
+305|Informations touristiques officielles.
+306|Route Gaudí
+307|3 œuvres de Gaudí
+308|Moderniste
+309|2 joyaux du modernisme
+310|Modernisme
+311|De musée en musée
+312|Les pieds dans le sable
+313|Une plage
+314|L'heure du vermouth
+315|Un bar à vermouth
+316|Barcelonais d'honneur
+317|Réserver la Sagrada Família, le parc Güell et les maisons de Gaudí avec date et heure
+318|Prendre l'Aerobús ou le train depuis l'aéroport
+319|Acheter le T-casual ou la carte Hola Barcelona
+320|Porter le sac à dos devant dans le métro et sur La Rambla
+321|Les classiques de Barcelone
+322|Plages
+323|Le Gòtic médiéval
+324|Cuisine catalane et riz
+325|Cuisine catalane
+326|Cocktails
+327|Football et sports
+328|Gòtic, Born et La Rambla
+329|Sagrada Família et Passeig de Gràcia
+330|Parc Güell et Gràcia
+331|La Barceloneta et la mer
+332|Montjuïc et Poble-sec
+333|Camp Nou et les hauteurs
+334|Gòtic, Born et la plage
+335|Gaudí : Sagrada Família, Passeig de Gràcia et parc Güell
+336|Les Rois mages arrivent en bateau au port et défilent dans la ville avec des chars et des bonbons pour les enfants.
+337|De janvier à mars
+338|Saison des calçots
+339|Les calçotades : de jeunes oignons grillés à la braise avec une sauce romesco, qu'on mange avec un bavoir au restaurant ou à la campagne.
+340|Mi-février
+341|Fêtes de Santa Eulàlia
+342|La fête d'hiver de la ville, avec des géants, des castellers et des musées gratuits.
+343|Marathon de Barcelone
+344|Il traverse le centre et passe par la Sagrada Família ; ce dimanche-là, beaucoup de rues sont fermées.
+345|Le dimanche des Rameaux, on bénit les palmes à la Sagrada Família et à la cathédrale, et les « mones » en chocolat apparaissent dans les pâtisseries.
+346|23 avril
+347|Sant Jordi
+348|Le plus beau jour de l'année : la ville se remplit de stands de livres et de roses, et tout le monde s'en offre.
+349|Fin mai ou début juin
+350|Primavera Sound
+351|L'un des plus grands festivals de musique d'Europe, au Parc del Fòrum.
+352|Juin
+353|Sónar
+354|Le festival de musique électronique et d'art numérique, de jour comme de nuit.
+355|23 juin
+356|Nuit de la Saint-Jean
+357|La nuit la plus courte : feux d'artifice, pétards dans les rues, coca de Sant Joan et fête sur la plage jusqu'à l'aube.
+358|Fin juin ou début juillet
+359|Pride Barcelona
+360|La Marche des fiertés, avec des fêtes et un grand défilé.
+361|Juin et juillet
+362|Festival Grec
+363|Le festival d'été de théâtre, de danse et de musique, avec des représentations au Teatre Grec de Montjuïc.
+364|Mi-août
+365|Festa Major de Gràcia
+366|Les habitants décorent leurs rues selon des thèmes différents et rivalisent : musique, repas et fête pendant une semaine.
+367|11 septembre
+368|Diada de Catalogne
+369|La fête nationale de la Catalogne, avec des drapeaux aux balcons et de grandes manifestations.
+370|Autour du 24 septembre
+371|La Mercè
+372|La grande fête de la ville : castellers sur la place Sant Jaume, correfocs avec des diables et du feu, concerts gratuits et feux d'artifice sur la plage.
+373|D'octobre à décembre
+374|Festival de jazz de Barcelone
+375|Des concerts de jazz dans des salles de toute la ville.
+376|Foire de Santa Llúcia
+377|Le marché de Noël devant la cathédrale, avec des crèches, des sapins et le « caga tió », la bûche qui apporte les cadeaux aux enfants.
+378|On mange les douze raisins au son des cloches, et il y a une fête et des feux d'artifice devant le MNAC, à Montjuïc.
+379|Les mots catalans que vous verrez
+380|Sortida · Entrada
+381|Sortie et entrée : dans le métro, les musées et les commerces.
+382|Obert · Tancat
+383|Carrer · Plaça · Platja
+384|Rue, place et plage : vous les verrez dans toutes les adresses.
+385|Bon dia · Bona tarda · Bona nit
+386|Bonjour, bon après-midi et bonne nuit.
+387|Gràcies · Si us plau · Adéu
+388|Merci, s'il vous plaît et au revoir.
+389|Dilluns · Dissabte · Diumenge
+390|Lundi, samedi et dimanche : utile pour lire les horaires.
+391|Lavabos
+392|Vaga
+393|Grève : si vous le voyez dans les transports, vérifiez comment vous déplacer ce jour-là.
+394|ajuntament.barcelona.cat : « Chaque premier dimanche du mois, venez aux musées ! » (29/06/2026)
+395|Gratuit toute la journée le premier dimanche du mois
+396|Gratuit le samedi après-midi, sur réservation
+397|Gratuit le dimanche après-midi
+398|La basilique commencée par Gaudí en 1882 et toujours en cours d'achèvement : des façades couvertes de sculptures et un intérieur comme une forêt de colonnes baignée de lumière colorée.
+399|Achetez votre billet daté et horodaté sur le site officiel : il n'y en a presque jamais sur place. Allez-y tôt le matin ou au coucher du soleil, quand les vitraux brillent le plus.
+400|gaudí
+401|Le parc de Gaudí sur la colline : l'escalier du dragon, la place au banc ondulé en céramique et des vues sur toute la ville.
+402|La zone monumentale est payante et à horaire fixe : réservez. Depuis le métro Lesseps ou Vallcarca, ça monte fort ; le bus vous dépose plus près.
+403|La maison de Gaudí à la façade d'os et d'écailles de dragon, sur le Passeig de Gràcia. À l'intérieur, tout est courbe et bleu comme la mer.
+404|La visite comprend un guide vidéo. Les soirs d'été, il y a des concerts sur la terrasse.
+405|L'immeuble de pierre ondulée de Gaudí, avec sa terrasse aux cheminées en forme de guerriers et un appartement d'époque.
+406|La visite nocturne avec jeux de lumière sur la terrasse est très belle. Réservez sur le site officiel.
+407|La première maison de Gaudí, de 1885, couverte de carreaux colorés et de détails mauresques, cachée dans une rue de Gràcia.
+408|Beaucoup moins de monde que dans les autres maisons de Gaudí.
+409|Le palais que Gaudí construisit pour son mécène Eusebi Güell, à deux pas de La Rambla, avec un salon à coupole et une terrasse de cheminées colorées.
+410|Fermé le lundi. L'une des visites de Gaudí les moins chères.
+411|Un hôpital moderniste de Domènech i Montaner, avec des pavillons couverts de céramique et des jardins. Il a fonctionné comme hôpital jusqu'en 2009.
+412|Depuis la Sagrada Família, on y va à pied par l'avenue Gaudí.
+413|Une salle de concert moderniste incroyable, avec un plafond de verre coloré. On peut la visiter ou, mieux, aller à un concert.
+414|Un concert coûte souvent à peu près autant que la visite guidée, et l'expérience est meilleure.
+415|La maison de Puig i Cadafalch à côté de la Casa Batlló, avec sa façade en gradins et un intérieur d'époque, chocolat offert.
+416|Elle forme le « Pâté de maisons de la Discorde » avec la Casa Batlló et la Casa Lleó Morera.
+417|La troisième maison du « Pâté de maisons de la Discorde », de Domènech i Montaner, aux intérieurs pleins de mosaïques et de vitraux.
+418|Visite guidée uniquement ; consultez les horaires sur son site.
+419|Un immeuble de Puig i Cadafalch qui ressemble à un château de conte de fées, avec des tours pointues.
+420|On la voit très bien depuis le trottoir.
+421|Une maison de Gaudí méconnue, aux airs de château médiéval, avec vue sur la ville.
+422|C'est loin du centre : combinez avec le Tibidabo.
+423|La plus grande collection d'œuvres de jeunesse de Picasso, dans cinq palais médiévaux du Born.
+424|Gratuit certains après-midi et le premier dimanche du mois, sur réservation. Fermé le lundi.
+425|Le grand musée d'art de Catalogne, dans le palais de Montjuïc : peintures romanes d'églises de montagne, gothique et modernisme.
+426|La vue depuis le grand escalier est l'une des plus belles de la ville. Gratuit le samedi après-midi et le premier dimanche du mois.
+427|Un bâtiment blanc plein de lumière avec des peintures, des sculptures et des tapisseries de Miró, entouré de jardins.
+428|Fermé le lundi. Combinez avec le MNAC et le château.
+429|Le musée d'art contemporain, dans un bâtiment blanc de Richard Meier. Dehors, la place est le repaire des skateurs.
+430|L'entrée est gratuite le samedi après-midi.
+431|Le Centre de culture contemporaine, avec des expositions sur des sujets d'actualité, du cinéma et des conférences.
+432|Depuis le belvédère du dernier étage, on voit le Raval.
+433|Sous la place del Rei, on marche dans les rues de la Barcino romaine, avec des ateliers et des vestiges de maisons.
+434|Gratuit le premier dimanche du mois et le dimanche après-midi.
+435|Les plus grands chantiers navals médiévaux encore debout, avec des bateaux anciens et une galère royale.
+436|Le bâtiment à lui seul vaut la visite.
+437|L'histoire de la Catalogne dans un ancien entrepôt du port. Le restaurant en terrasse offre une vue superbe.
+438|La terrasse est un bon endroit pour déjeuner face au port.
+439|Design, mode et arts décoratifs dans un bâtiment en forme d'agrafeuse, à côté de la Torre Glòries.
+440|Combinez avec le marché d'Els Encants, en face.
+441|Un immense musée des sciences, avec une vraie forêt amazonienne à l'intérieur et beaucoup d'expériences.
+442|Idéal avec des enfants et par temps de pluie.
+443|Le musée du peintre Antoni Tàpies, dans un bâtiment moderniste couronné d'une sculpture géante en fil de fer.
+444|Des expositions d'art et de science dans une ancienne usine moderniste de Puig i Cadafalch, au pied de Montjuïc.
+445|Les expositions changent souvent : consultez son site.
+446|Des expositions de photographie de premier plan dans une maison moderniste de l'Eixample.
+447|C'est généralement gratuit le lundi après-midi.
+448|Un palais avec des expositions gratuites sur la Catalogne et un jardin caché sur le Passeig de Gràcia.
+449|Le jardin est un bon endroit pour se reposer.
+450|La collection d'un sculpteur collectionneur : sculptures religieuses et des milliers d'objets curieux. Il y a un café dans le patio.
+451|Le patio d'été est un coin tranquille derrière la cathédrale.
+452|Meubles, peintures et objets modernistes, dont certains de Gaudí.
+453|Un bon complément si vous aimez les maisons de Gaudí.
+454|L'histoire du chocolat, avec des sculptures en chocolat de bâtiments et de personnages célèbres.
+455|Le billet d'entrée est une tablette de chocolat.
+456|Une collection privée d'art de l'Égypte ancienne, avec des momies et des sarcophages.
+457|Idéal par temps de pluie.
+458|Art contemporain et urbain (Banksy, Warhol, Kaws) dans un palais du Born.
+459|À côté du musée Picasso.
+460|Un monastère gothique du XIVe siècle avec l'un des plus beaux cloîtres d'Europe, toujours habité par des religieuses.
+461|La cathédrale gothique, avec un cloître où vivent treize oies blanches et une terrasse sur le toit avec vue sur le Gòtic.
+462|Avec le billet, vous pouvez monter sur la terrasse. Épaules et genoux couverts.
+463|gothique
+464|L'église gothique la plus pure de la ville, bâtie par les habitants du quartier. À l'intérieur, elle est très haute et lumineuse.
+465|Montez sur les terrasses lors de la visite guidée.
+466|Une église gothique avec une immense rosace, sur l'une des plus jolies places du Gòtic.
+467|Certains soirs, il y a des concerts de guitare espagnole à l'intérieur.
+468|L'église baroque de la patronne de Barcelone, avec une Vierge au sommet de la coupole tournée vers le port.
+469|En septembre, la fête de la Mercè commence ici.
+470|La plus ancienne église de Barcelone, romane, avec un tout petit cloître silencieux.
+471|Un joyau peu visité.
+472|Une place à arcades et palmiers, avec des réverbères dessinés par le jeune Gaudí. Pleine de bars et de terrasses.
+473|La nuit, c'est très animé, mais surveillez vos affaires.
+474|Le cœur politique : l'hôtel de ville et le Palau de la Generalitat se font face.
+475|L'office de tourisme de la ville se trouve sur la place.
+476|Une place médiévale fermée, entourée du palais royal des comtes de Barcelone.
+477|En dessous se trouve la Barcelone romaine (MUHBA).
+478|Une place cachée et silencieuse, avec une fontaine et les traces des bombes de la guerre civile sur la façade de l'église.
+479|Un bon endroit pour échapper à la foule.
+480|La grande place qui relie la vieille ville à l'Eixample, point de départ de La Rambla et de l'Aerobús.
+481|Le principal office de tourisme se trouve en dessous.
+482|La promenade la plus célèbre de Barcelone, de la Plaça de Catalunya au port, entre le Gòtic et le Raval.
+483|Parcourez-la une fois pour la voir, mais mangez ailleurs et surveillez vos affaires : c'est l'endroit qui compte le plus de pickpockets.
+484|L'élégante avenue du modernisme, avec la Casa Batlló, La Pedrera et les boutiques de luxe. Même les pavés sont de Gaudí.
+485|Regardez par terre : les pavés hexagonaux portent des motifs d'animaux marins.
+486|Le pont néogothique en pierre qui enjambe la rue del Bisbe, à côté de la cathédrale : la photo la plus recherchée du Gòtic.
+487|Allez-y tôt pour prendre la photo sans personne.
+488|L'ancien quartier juif médiéval, avec des rues étroites et l'une des plus anciennes synagogues d'Europe.
+489|Le Centre d'interprétation du Call explique son histoire.
+490|Quatre colonnes romaines d'un temple du Ier siècle, cachées dans la cour d'un immeuble du Gòtic.
+491|Gratuit. Facile à manquer : cherchez le numéro 10.
+492|Un ancien marché en fer qui abrite les ruines des rues de 1714, lorsque la ville est tombée.
+493|Voir les ruines d'en haut est gratuit.
+494|Un hôpital gothique du XVe siècle, aujourd'hui bibliothèque, avec un patio planté d'orangers pour se reposer.
+495|Le patio est gratuit et très calme.
+496|La colonne avec Colomb pointant la mer, au bout de La Rambla. À l'intérieur, un ascenseur monte au belvédère.
+497|L'office de tourisme se trouve à la base.
+498|Un arc en brique rouge construit pour l'Exposition de 1888, à l'entrée d'une promenade qui mène à la Ciutadella.
+499|Gratuit. Continuez à pied jusqu'au parc de la Ciutadella.
+500|Le gratte-ciel en forme d'obus de Jean Nouvel, illuminé de couleurs la nuit. Il y a un belvédère au sommet.
+501|Le belvédère propose une installation pour marcher suspendu au-dessus de la ville.
+502|Le grand parc du centre, avec une cascade monumentale, un lac avec des barques et le Parlement de Catalogne.
+503|Le dimanche, il se remplit de musiciens et de jongleurs.
+504|Les ruines d'une batterie antiaérienne de la guerre civile, au sommet d'une colline : la plus belle vue à 360° de la ville.
+505|Au coucher du soleil, c'est bondé : arrivez en avance. Ça monte fort ; respectez le calme pour les voisins.
+506|Une forteresse du XVIIe siècle au sommet de Montjuïc, avec vue sur le port et la mer.
+507|Gratuit le dimanche après-midi. On y monte en téléphérique.
+508|La plus haute colline de la ville, avec un temple et un vieux parc d'attractions. La meilleure vue de Barcelone.
+509|Montez avec le bus Tibibus depuis la Plaça de Catalunya, ou en train puis en funiculaire.
+510|Un belvédère avec jardins et fontaines sur les pentes de Montjuïc, avec vue sur le port.
+511|Il se trouve sur le chemin du château.
+512|Plusieurs jardins sur la colline : de cactus (Mossèn Costa i Llobera), de roses et le Jardin botanique.
+513|Le jardin de cactus a vue sur le port et il est gratuit.
+514|Le plus ancien jardin de la ville, avec un labyrinthe de cyprès du XVIIIe siècle.
+515|Le nombre de visiteurs est limité : allez-y tôt. Un succès avec les enfants.
+516|Un chemin de terre plat dans le massif de Collserola, avec vue sur toute la ville. Idéal pour marcher ou courir.
+517|On y monte avec le funiculaire de Vallvidrera.
+518|La plage la plus célèbre et la plus fréquentée de la ville, à quelques minutes du Gòtic, avec des paillotes et la promenade maritime.
+519|Ne laissez rien seul sur votre serviette. Pour une plage plus calme, continuez vers le nord.
+520|Une plage large et plus calme, près du Port Olímpic.
+521|Idéale pour les familles.
+522|L'une des plages préférées des Barcelonais, avec moins de touristes.
+523|Idéale pour courir sur la promenade le matin.
+524|Les places de Gràcia (del Sol, de la Virreina, de la Vila) avec leurs terrasses, et de petites rues commerçantes.
+525|En août, la Festa Major décore les rues.
+526|Les rues étroites de l'ancien quartier des pêcheurs, avec du linge suspendu aux balcons et des bars à tapas.
+527|Goûtez la bomba à La Cova Fumada.
+528|La passerelle en bois au-dessus du vieux port, avec des voiliers et le Maremagnum.
+529|Très beau au coucher du soleil.
+530|Une rambla de quartier, sans touristes, avec des glaciers et des terrasses, qui descend jusqu'à la mer.
+531|La horchateria El Tío Che se trouve ici.
+532|La fontaine devant le MNAC, qui certains soirs offre un spectacle d'eau, de lumière et de musique.
+533|Vérifiez les jours sur le site de la Ville : elle ne fonctionne pas toute l'année.
+534|Le marché le plus célèbre de Barcelone : fruits, jambons, fruits de mer et comptoirs pour manger sur le pouce.
+535|Allez-y tôt et entrez jusqu'au fond : les stands de devant sont les plus chers. Fermé le dimanche.
+536|Un marché de quartier au toit ondulé en céramique colorée, plus calme que la Boqueria.
+537|Le bar Joan, à l'intérieur, propose un bon menu du jour.
+538|Un marché en fer restauré, fréquenté par les habitants. Le dimanche, il y a un marché aux livres et aux monnaies autour.
+539|Ensuite, vermouth dans la rue Parlament.
+540|Un long comptoir à côté du Liceu, avec des tapas de produits excellents, très bien faites.
+541|Réservez ou arrivez tôt au comptoir.
+542|Un bar carrelé de 1929, avec son cava maison et ses conserves, à côté du musée Picasso.
+543|Pas de réservation et c'est toujours plein : ça fait partie de l'expérience.
+544|Un tout petit bar aux murs couverts de bouteilles jusqu'au plafond, avec des montaditos aux conserves.
+545|On mange debout et il faut arriver tôt.
+546|Un bar de pêcheurs sans enseigne où l'on a inventé la bomba : une croquette de pomme de terre et de viande avec une sauce piquante.
+547|Ouvert seulement le midi et sans enseigne : cherchez la porte en bois.
+548|Des tapas classiques de la Barceloneta, avec des bombas et du poisson.
+549|Une bonne option après la plage.
+550|Une brasserie toujours pleine avec énormément de tapas et de montaditos au comptoir.
+551|Il y a de l'attente : inscrivez-vous en arrivant.
+552|Le bar à tapas du chef Carles Abellan, avec le « bikini » jambon-truffe.
+553|Pas de réservation.
+554|Un immense entrepôt avec plusieurs bars et restaurants : tapas, fruits de mer, viandes et bières.
+555|Pratique si vous êtes en groupe et que chacun veut quelque chose de différent.
+556|Pintxos
+557|Une rue piétonne pleine de bars à pintxos : des pintxos sur du pain avec un cure-dent, à prix fixe.
+558|On compte les cure-dents à la fin.
+559|Un comptoir légendaire du Born où le patron vous sert des tapas de la mer tout juste préparées.
+560|Arrivez avant l'ouverture pour avoir une place au comptoir.
+561|Un petit bar élégant avec des ardoises de plats du jour et de bons vins.
+562|Des tapas classiques et des montaditos à un comptoir toujours plein, à deux pas de la Plaça de Catalunya.
+563|Pas de réservation au comptoir.
+564|Un bar de 1945 qui ne sert que quatre choses : petits poissons frits, salade de tomates, saucisse botifarra et anchois.
+565|Bon marché et authentique.
+566|Le plus ancien restaurant de Barcelone, de 1786, avec une cuisine catalane familiale.
+567|Goûtez les cannellonis ou la saucisse botifarra.
+568|Une maison de 1903 de la Barceloneta, réputée pour ses riz et ses poissons.
+569|Réservez. Le riz est pour deux.
+570|Une maison familiale de 1911 à la Barceloneta, avec des riz et du suquet de poisson.
+571|Une cuisine catalane de toujours dans une salle lumineuse du Born.
+572|Bon rapport qualité-prix pour le quartier.
+573|Un restaurant de 1836 sous les arcades face au port, connu pour ses paellas.
+574|Choisissez la paella maison ou le riz noir.
+575|Un bar plein de jambons suspendus, de cava rosé maison et de sandwichs bon marché. Toujours bondé.
+576|On joue des coudes jusqu'au comptoir et on paie en espèces.
+577|Tapas et sangria dans un lieu plein de pois rouges, près du Palau de la Música.
+578|Idéal avant un concert.
+579|sangria
+580|Le café moderniste où Picasso fit sa première exposition, avec une cuisine catalane.
+581|Entrez, ne serait-ce que pour un café, pour voir la salle.
+582|Riz et fruits de mer face à la plage de la Barceloneta.
+583|Réservez la terrasse.
+584|Cuisine catalane et méditerranéenne à bon prix, dans une grande salle à côté de la Plaça Reial.
+585|Pas de réservation : il y a la queue, mais elle avance vite.
+586|Un autre comptoir classique de la Boqueria, célèbre pour ses œufs au plat aux petits calamars.
+587|Seulement jusqu'à l'après-midi, comme le marché.
+588|L'un des meilleurs restaurants du monde, tenu par trois disciples de Ferran Adrià : un long menu surprenant.
+589|Il faut réserver des mois à l'avance.
+590|Le restaurant de Martín Berasategui à Barcelone, trois étoiles Michelin.
+591|Pour une occasion spéciale.
+592|Cuisine catalane d'auteur à base de produits locaux, en menu dégustation.
+593|Cuisine végétarienne méditerranéenne, l'une des pionnières de la ville.
+594|Bon brunch.
+595|Des tapas catalanes modernes dans un bar de quartier, à côté du musée Picasso.
+596|Un bon endroit pour déjeuner après le musée.
+597|Tapas et vermouth dans un bar toujours animé du Born.
+598|Les patatas bravas sont parmi les meilleures du quartier.
+599|Une « granja » de 1870 où l'on a inventé le Cacaolat. Chocolat épais à la crème et crème catalane.
+600|Goûtez le « suís » : chocolat chaud et crème fouettée.
+601|Une churrería de quartier avec des churros tout frais à emporter.
+602|Prenez des churros au chocolat ou ceux fourrés à la crème.
+603|Chocolat chaud avec churros ou melindros dans la rue Petritxol, celle des « granjas ».
+604|Allez-y l'après-midi pour le goûter.
+605|Un café de 1929 face au Liceu, tout en miroirs et en bois.
+606|L'un des rares bons endroits sur La Rambla.
+607|Une pâtisserie à la façade moderniste sur La Rambla, réputée pour ses gâteaux et ses chocolats.
+608|Goûtez les croissants ou l'ensaïmada.
+609|Une pâtisserie de haute volée : le croissant au mascarpone est célèbre.
+610|Tout part tôt.
+611|Une boulangerie au levain avec certains des meilleurs pains et viennoiseries de la ville.
+612|Idéal pour le petit-déjeuner avant la plage.
+613|L'un des torréfacteurs de café les plus connus de la ville.
+614|À emporter ou à boire dans le passage.
+615|Un café avec brunch toute la journée et une terrasse sur le toit.
+616|Le week-end, c'est plein le matin.
+617|Glaces et horchata
+618|Une horchateria de 1912 : horchata de souchet, glaces et granités.
+619|Idéal quand il fait chaud.
+620|Des glaces artisanales parmi les meilleures de la ville.
+621|Les parfums changent selon la saison.
+622|Fruits de mer
+623|Une poissonnerie-restaurant en libre-service : vous choisissez le poisson et les fruits de mer au comptoir et on vous les cuisine.
+624|Il y a la queue : arrivez un peu avant l'ouverture.
+625|On entre par la porte d'un frigo dans une boutique de pastrami : l'un des meilleurs bars à cocktails du monde.
+626|Il y a la queue dès le début de soirée.
+627|Un bar à cocktails créatifs, classé parmi les meilleurs du monde.
+628|Sans réservation : allez-y tôt.
+629|Le plus ancien bar à cocktails de Barcelone, de 1933, juste à côté de La Rambla.
+630|Goûtez un daïquiri.
+631|Un bar à cocktails qui ressemble à un laboratoire, avec des ingrédients faits maison.
+632|Idéal pour changer.
+633|Un tout petit bar de 1947 consacré à la chanson française, avec de la musique live certains soirs.
+634|Un coin bohème juste à côté de La Rambla.
+635|Un bar de gin tonics de création à Gràcia.
+636|Pour commencer la soirée dans le quartier.
+637|Un bar dans une ancienne boutique de parapluies moderniste, avec des cocktails et de la musique live au sous-sol.
+638|À côté de la place Sant Jaume.
+639|Un bar de 1820, tout en miroirs et en poussière, où l'on boit de l'absinthe comme au temps de Picasso et d'Hemingway.
+640|Commandez l'absinthe avec un morceau de sucre.
+641|Une bodega de quartier avec énormément de vins et de tapas, qui ferme tard.
+642|Parfait pour dîner tard.
+643|Un bar à vermouth et à tapas avec terrasse dans la rue Parlament.
+644|Le dimanche midi, après le marché aux livres.
+645|Un petit bar qui fait son propre vermouth, avec des chips et des conserves.
+646|Idéal pour le vermouth du samedi.
+647|Une vieille bodega de Gràcia, avec des tonneaux et son vermouth maison.
+648|Combinez avec une balade sur les places de Gràcia.
+649|Un tablao classique sur La Rambla, ouvert depuis 1970.
+650|Réservez et choisissez dîner ou spectacle seul.
+651|Du flamenco dans le salon d'un palais baroque du Born.
+652|Une ambiance intime, loin du tablao touristique.
+653|Un club de jazz dans une cave de la Plaça Reial ; après le concert, il se transforme en boîte de nuit.
+654|Les concerts en début de soirée, la danse au petit matin.
+655|Un petit club de jazz et de musiques du monde dans le Gòtic.
+656|Des concerts presque tous les soirs.
+657|Un petit bar pour danser sur du funk et de la soul, avec des concerts certains soirs.
+658|La grande salle de concerts et boîte de nuit, avec cinq salles aux musiques différentes.
+659|Le week-end, ouvert jusqu'au matin.
+660|Une ancienne salle de bal de 1943 avec des concerts et des soirées.
+661|Le lundi, c'est la soirée Nasty Mondays.
+662|Une boîte de nuit face à la plage, au Port Olímpic.
+663|Il y a un code vestimentaire. Surveillez vos affaires à la sortie.
+664|La boîte de la marque d'Ibiza, face à la mer.
+665|Mieux vaut acheter son entrée à l'avance.
+666|Plusieurs entreprises proposent des visites à pied du Gòtic « au chapeau » : à la fin, chacun paie ce qu'il veut.
+667|On réserve en ligne. L'usage est de donner quelque chose au guide.
+668|Un itinéraire proposé par la Ville à travers plus de 100 bâtiments modernistes, avec plan et réductions.
+669|On peut la faire seul.
+670|Le bus touristique à deux étages, avec des arrêts aux principaux sites et un audioguide.
+671|Des visites guidées à vélo dans le Born, à la plage et à la Ciutadella ; plusieurs entreprises en proposent.
+672|C'est une bonne façon de faire du vélo, puisque le Bicing est réservé aux résidents.
+673|Les petits bateaux en bois qui sillonnent le port depuis 1888, face au monument à Colomb.
+674|La balade courte dure une demi-heure.
+675|Un téléphérique de 1931 qui traverse le port de la Barceloneta à Montjuïc.
+676|La vue est spectaculaire ; il y a la queue en été.
+677|Des cabines qui montent du funiculaire de Montjuïc jusqu'au château.
+678|Combinez avec le funiculaire depuis le métro Paral·lel.
+679|Cours
+680|Plusieurs écoles proposent de faire les courses à la Boqueria et de cuisiner une paella ou des tapas.
+681|Réservez en ligne.
+682|Une montagne aux formes incroyables, avec un monastère qui abrite la Vierge noire de Catalogne et une chorale d'enfants.
+683|On y va en train FGC depuis la Plaça d'Espanya, puis en crémaillère ou en téléphérique. Partez tôt.
+684|excursion
+685|Une ville balnéaire aux maisons blanches, avec une église surplombant la mer et beaucoup d'animation en été.
+686|Train Rodalies R2 Sud depuis Sants ou Passeig de Gràcia, en 40 minutes environ.
+687|Une ville médiévale aux maisons colorées au bord de la rivière, avec des remparts et un quartier juif très bien conservé.
+688|En train à grande vitesse depuis Sants, il faut moins d'une heure.
+689|Le musée conçu par Salvador Dalí lui-même, plein de surprises, dans sa ville natale.
+690|Réservez un créneau. À combiner avec Gérone.
+691|L'ancienne Tarraco romaine, avec un amphithéâtre face à la mer et des remparts.
+692|En train depuis Sants ; certains trains rapides mettent moins d'une heure.
+693|Des criques à l'eau transparente et des villages de pêcheurs comme Tossa de Mar, avec sa vieille ville fortifiée.
+694|Il y a des cars depuis l'Estació del Nord. Mieux vaut une voiture pour visiter plusieurs criques.
+695|Le village blanc au bord de la mer où vécut Dalí, avec sa maison-musée à Portlligat.
+696|C'est à plus de deux heures : mieux vaut une voiture, ou restez-y dormir.
+697|Un village médiéval avec un pont roman sur la rivière.
+698|Mieux en voiture ou en excursion, combiné avec Gérone.
+699|Vignobles
+700|La région du cava, avec des caves à visiter et des dégustations.
+701|Train R4 jusqu'à Sant Sadurní ; certaines caves sont à deux pas de la gare.
+702|Le grand parc d'attractions d'Espagne, avec des montagnes russes et un parc aquatique.
+703|Il y a un train jusqu'à la gare de PortAventura.
+704|Une colonie ouvrière avec la crypte de Gaudí, un essai pour la Sagrada Família.
+705|Train FGC depuis la Plaça d'Espanya.
+706|Une grande auberge de jeunesse design à Gràcia, près du Passeig de Gràcia.
+707|Une auberge de jeunesse classique pour routards sur la Plaça Reial.
+708|Pour sortir le soir, pas pour se coucher tôt.
+709|Une auberge avec des chambres privées dans un immeuble classique du Passeig de Gràcia.
+710|Emplacement excellent.
+711|Un hôtel de luxe dans un bâtiment moderniste de Domènech i Montaner, avec un café-jazz.
+712|Le Café Vienés propose du jazz certains soirs.
+713|L'une des tours du Port Olímpic, face à la mer.
+714|La vue depuis les chambres en hauteur est unique.
+715|L'hôtel en forme de voile au bout de la Barceloneta.
+716|Le bar en haut offre une vue incroyable.
+717|Le luxe sur le Passeig de Gràcia, avec une terrasse sur le toit.
+718|Un bon endroit pour boire un verre en terrasse.
+719|Un hôtel design à deux pas de la Plaça de Catalunya, avec une terrasse sur le toit.
+720|La terrasse est idéale pour boire un verre.
+721|Un hôtel simple avec une boulangerie à l'intérieur, près de La Pedrera.
+722|Le petit-déjeuner avec du pain frais est le meilleur moment.
+723|Un hôtel aux salons modernistes de Domènech i Montaner, à côté du Liceu.
+724|Demandez à voir la salle à manger moderniste.
+725|Un petit hôtel dans un palais médiéval, près de la place Sant Felip Neri.
+726|Très calme pour le Gòtic.
+727|Un hôtel design avec piscine sur le toit, au pied de Montjuïc.
+728|Bon rapport qualité-prix.
+729|Un hôtel dans un palais du XIXe siècle, avec piscine dans le patio, à deux pas de la Plaça de Catalunya.
+730|Très central.
+731|La rue piétonne des grandes chaînes de vêtements, entre la Plaça de Catalunya et la cathédrale.
+732|Bondée le samedi.
+733|Les rues du Born, avec des boutiques de créateurs, de la fripe et des objets.
+734|Allez-y l'après-midi, quand tout est ouvert.
+735|Le grand magasin de toujours, avec un supermarché gourmet et une terrasse avec vue sur la place.
+736|La cafétéria du dernier étage a vue sur la place.
+737|Un centre commercial sur le port ouvert tous les jours, dimanche compris.
+738|Une option si vous devez acheter quelque chose un dimanche.
+739|L'un des plus anciens marchés aux puces d'Europe, sous un immense toit de miroirs.
+740|Ouvert les lundis, mercredis, vendredis et samedis.
+741|Un marché moderniste en fer à Gràcia, avec des étals de quartier.
+742|Combinez avec une balade sur les places de Gràcia.
+743|Un marché en fer célèbre pour ses étals de fleurs, ouverts presque tout le temps.
+744|Joli pour une photo de fleurs.
+745|Une chapellerie de 1924 dans le quartier juif du Gòtic.
+746|Pour un béret ou un chapeau en souvenir.
+747|La plus ancienne boutique de Barcelone, de 1761, avec des bougies de toutes sortes.
+748|Admirez l'escalier de la boutique.
+749|Un caviste avec des milliers de vins et une épicerie de fromages et de charcuterie à côté.
+750|Pour acheter du vin à offrir.
+751|Une boutique de 1851 qui torréfie encore les fruits secs au four à bois.
+752|Goûtez les amandes fraîchement torréfiées.
+753|Une immense librairie consacrée au voyage, avec des cartes et des guides.
+754|Idéal pour s'inspirer.
+755|Un outlet de marques en périphérie, avec des navettes depuis le centre.
+756|Il y a des bus directs depuis le centre.
+757|Le stade du FC Barcelone, le plus grand d'Europe, avec le musée du club.
+758|Achetez vos billets de match ou de visite sur le site officiel. Renseignez-vous sur l'avancement des travaux.
+759|Le stade des Jeux olympiques de 1992, à Montjuïc.
+760|Le musée olympique est tout près.
+761|Le stade de l'Espanyol, l'autre équipe de la ville.
+762|Les billets sont généralement plus faciles et moins chers à obtenir.
+763|La salle du Barça : basket, handball et futsal.
+764|À côté du Spotify Camp Nou.
+765|Des kilomètres de promenade en bord de mer pour courir ou pédaler, de la Barceloneta au Fòrum.
+766|Tôt le matin, il n'y a presque personne.
+767|Le musée du sport face au stade olympique.
+768|Une bonne idée avec des enfants sportifs.
+769|En plein air
+770|Les piscines olympiques de 1992, ouvertes au public.
+771|En été, le bassin extérieur est une oasis.
+772|natation
+773|L'opéra de Barcelone, sur La Rambla, avec l'une des plus belles salles d'Europe.
+774|Il y a des visites guidées en journée.
+775|La salle de l'orchestre symphonique de Barcelone, avec le Museu de la Música.
+776|Consultez le programme sur son site.
+777|Un théâtre classique où se jouent les grandes comédies musicales.
+778|Achetez sur le site officiel.
+779|Un théâtre sur La Rambla avec des comédies et des spectacles.
+780|Consultez l'affiche sur son site.
+781|Le théâtre national, dans un bâtiment semblable à un temple grec moderne.
+782|La plupart des pièces sont en catalan.
+783|Le cabaret le plus célèbre du Paral·lel, avec son moulin rouge sur la façade.
+784|Spectacles de cabaret et de variétés.
+785|La salle olympique couverte de Montjuïc, où se produisent les grands artistes en tournée.
+786|Consultez le programme des concerts.
+787|La cinémathèque de Catalogne, avec des cycles de classiques bon marché.
+788|Consultez la programmation.
+789|L'un des grands aquariums d'Europe, avec un tunnel sous l'eau plein de requins.
+790|Le zoo de la ville, dans le parc de la Ciutadella.
+791|Achetez votre billet en ligne.
+792|Un parc d'attractions de 1901 au sommet de la montagne, avec des manèges anciens et une vue sur toute la ville.
+793|Ouvert selon les saisons : consultez son site.
+794|Un village fait de copies de maisons et de places de toute l'Espagne, avec des artisans au travail.
+795|Bien avec des enfants.
+796|Le musée des sciences naturelles, avec un énorme squelette de baleine.
+797|À côté du Fòrum.
+798|Plage
+799|riz
+800|quartier
+801|catalane
+802|cava
+803|churros
+804|concerts
+805|sports
+806|flamenco
+807|fleurs
+808|gin
+809|auberge de jeunesse
+810|mer
+811|modernisme
+812|outlet
+813|paella
+814|promenade
+815|plage
+816|place
+817|puces
+818|romain
+819|visites
+820|voyages
