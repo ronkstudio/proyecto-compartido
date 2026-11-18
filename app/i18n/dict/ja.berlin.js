@@ -1011,7 +1011,6 @@ Object.assign(window.I18N_FULL = window.I18N_FULL || {}, {
 "A la entrada hay un plano con las tumbas conocidas. Al lado está la casa de Brecht.": "入口に有名な墓の地図があります。隣にはブレヒトの家があります。",
 "Lo único que queda de la que fue la estación más grande de Berlín: un pedazo de fachada que sobrevivió a la guerra.": "かつてベルリン最大の駅だった場所に唯一残るもの。戦争を生き延びたファサードの一部です。",
 "Queda a dos cuadras de la Topografía del Terror y del Museo Alemán de la Técnica.": "テロのトポグラフィーとドイツ技術博物館から2ブロックのところにあります。",
-"guerra": "戦争",
 "Una fortaleza del Renacimiento rodeada de agua, una de las mejor conservadas de Europa, con museos y la torre medieval Juliusturm.": "水に囲まれたルネサンス様式の要塞で、ヨーロッパで最も保存状態の良いもののひとつ。博物館と中世のユリウス塔があります。",
 "Llegás con el U7 hasta Zitadelle. En verano hay conciertos al aire libre en el patio.": "U7でZitadelle駅まで。夏には中庭で野外コンサートがあります。",
 "El palacio blanco del siglo XVIII donde vive y trabaja el presidente de Alemania, en el borde del Tiergarten.": "18世紀の白い宮殿で、ドイツ大統領が住み、執務する場所。ティーアガルテンの端にあります。",

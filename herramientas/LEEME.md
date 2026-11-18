@@ -8,6 +8,8 @@ No son parte de la app ni se publican. Sirven para armar datos.
 
 - `armar-hoy-berlin.ps1`: lo mismo para Berlín, con la agenda cultural abierta de Berlín (kulturdaten.berlin); arma `app/data/hoy-berlin.json` (tarjeta #99).
 
-Los dos los corre solos el paso automático `.github/workflows/publicar-guia.yml` dos veces por día, antes de publicar la guía.
+- `armar-hoy-madrid.ps1`: lo mismo para Madrid, con la agenda oficial del Ayuntamiento ("Actividades culturales y de ocio municipal en los próximos 100 días", datos.madrid.es); arma `app/data/hoy-madrid.json` (tarjeta #191). Las muestras y ciclos de una semana o más entran marcados como "serie".
+
+Todos los corre solos el paso automático `.github/workflows/publicar-guia.yml` dos veces por día, antes de publicar la guía.
 
 Si `hoy.json` no está o tiene más de 3 días, la guía no muestra eventos de la agenda y sigue con la agenda fija (`app/data/caba-hoy.js`).

@@ -1,0 +1,814 @@
+1|Musées, palais, places et parcs
+2|Tapas, marchés, cuisine madrilène et churros
+3|Terrasses, vermouth, cocktails, flamenco et boîtes de nuit
+4|Marchés, rues commerçantes et le Rastro
+5|Comédies musicales, théâtre, concerts et sorties avec les enfants
+6|Sol et Gran Vía
+7|Le centre de tout
+8|La Puerta del Sol et son kilomètre zéro, la Gran Vía avec ses théâtres et ses immeubles du début du XXe siècle, et la rue Preciados pleine de boutiques.
+9|Très central et bien desservi ; beaucoup de monde et de bruit à toute heure.
+10|Les Austrias et le Palais
+11|Le Madrid des rois
+12|La Plaza Mayor, le Palais royal, la cathédrale de l'Almudena, le Teatro Real et les ruelles du plus vieux Madrid.
+13|Magnifique et à deux pas de tout ; plus calme que Sol la nuit.
+14|Tapas et dimanche de Rastro
+15|Des rues en pente pleines de bars à tapas, la Cava Baja et, le dimanche, le Rastro et le vermouth sur la place de la Paja.
+16|Très animé et bien situé ; bruyant le week-end.
+17|Multiculturel et alternatif
+18|Le quartier le plus mélangé de Madrid, avec de la cuisine du monde entier, de petits théâtres, du street art et le musée Reina Sofía à côté.
+19|Bon marché et très vivant ; la nuit, comme dans tout le centre, surveillez vos affaires.
+20|Littéraire et de tapas
+21|Les rues de Cervantes, Lope de Vega et Quevedo, avec des citations écrites au sol, la place Santa Ana et des bars de toujours.
+22|L'une des meilleures bases : entre Sol et les musées, très animée.
+23|Paseo del Prado
+24|Les grands musées
+25|La Promenade de l'Art : le Prado, le Thyssen et le Reina Sofía, la fontaine de Cibeles, le Jardin botanique et la gare d'Atocha.
+26|Élégant et central, avec des hôtels haut de gamme.
+27|Vert et distingué
+28|Le grand parc de Madrid, avec le bassin, le Palais de cristal et la roseraie, entouré de rues calmes.
+29|Calme et sûr, à une promenade des musées.
+30|Hipster et nocturne
+31|Le quartier de la Movida madrilène des années 80 : friperies, cafés de spécialité, bars et la place du Dos de Mayo.
+32|Jeune et animé ; peut être bruyant la nuit.
+33|Divers et branché
+34|Le cœur LGBTI de Madrid, avec des terrasses, des boutiques de créateurs, le marché de San Antón et une vie nocturne intense.
+35|Central et très animé, surtout le week-end.
+36|Élégant et commerçant
+37|De larges rues aux immeubles bourgeois, les marques de luxe de la rue Serrano et de bons restaurants.
+38|Sûr et calme ; souvent cher.
+39|Le Madrid des Madrilènes
+40|Un quartier résidentiel avec des marchés, des bars à vermouth, la station fantôme de Chamberí et le musée Sorolla.
+41|Authentique et calme, bien desservi par le métro.
+42|Argüelles et Moncloa
+43|Couchers de soleil et étudiants
+44|Le temple de Debod, le parc de l'Ouest, le téléphérique vers la Casa de Campo et le quartier universitaire.
+45|Calme et vert, à une promenade de la Plaza de España.
+46|Madrid Río et Matadero
+47|Parc au bord de la rivière
+48|Le parc le long du Manzanares, avec des ponts, des jeux et le Matadero, d'anciens abattoirs devenus centre d'art.
+49|Plutôt pour se promener que pour loger.
+50|Castellana et Chamartín
+51|Moderne et footballeur
+52|Le grand axe de la ville, avec le stade Santiago Bernabéu, les gratte-ciel des Cuatro Torres et la gare de Chamartín.
+53|Quartier d'affaires ; pratique si vous venez pour un match ou un salon.
+54|Madrid en 1 jour
+55|Churros au chocolat pour commencer.
+56|Réservez un créneau sur le site du Patrimonio Nacional.
+57|Des tapas pour déjeuner.
+58|Choisissez quelques salles : Velázquez et Goya.
+59|Louez une barque sur le bassin.
+60|La terrasse, avec vue sur la Gran Vía.
+61|Dîner de tapas à La Latina.
+62|Jour 1 · midi
+63|Jour 1 · après-midi
+64|Arrivez avant le coucher du soleil.
+65|Jour 1 · soir
+66|Achetez un billet horodaté.
+67|Sandwich aux calamars.
+68|Jour 2 · après-midi
+69|Le Guernica.
+70|Jour 2 · soir
+71|Tapas dans la rue de las Huertas.
+72|Jour 3 · midi
+73|Jour 3 · après-midi
+74|Jour 3 · soir
+75|Flamenco ; réservez.
+76|Déjeuner à l'abri.
+77|Madrid gratuit
+78|L'entrée est gratuite ; un don est demandé.
+79|Les fresques de Goya, gratuitement.
+80|Les deux dernières heures de la journée sont gratuites.
+81|Revenez au centre en survolant le parc.
+82|Barques, marionnettes et beaucoup d'espace pour courir.
+83|Sol, Gran Vía, Tribunal (Malasaña), Antón Martín et Atocha
+84|Sol, Ópera, Banco de España (Cibeles), Retiro et Goya
+85|Sol, Callao, Plaza de España, Lavapiés, Legazpi (Matadero) et Moncloa
+86|Colón, Serrano et Goya : le quartier de Salamanca
+87|Callao, Ópera, La Latina, Chueca et Gran Vía
+88|Circulaire
+89|Fait le tour du centre : Moncloa, Príncipe Pío, Legazpi, Nuevos Ministerios et Argüelles
+90|Estadio Metropolitano (Atlético de Madrid), Gregorio Marañón et Alonso Cano
+91|Le métro vers l'aéroport (T1-T2-T3 et T4) et le parc des expositions IFEMA
+92|Avenida de América, Príncipe de Vergara et Valdebernardo (Faunia)
+93|Plaza de España, Tribunal, Santiago Bernabéu, Chamartín et la Casa de Campo (Lago et Batán)
+94|Le Ramal : un court tronçon entre le Palais royal et la gare de Príncipe Pío
+95|Depuis juin 2026, aux tourniquets de toutes les stations de métro, vous pouvez payer chaque trajet en approchant votre carte sans contact ou votre téléphone. Dans les bus de l'EMT, on paie aussi par carte en montant.
+96|Carte Multi
+97|C'est la carte de transport rechargeable. On l'achète aux automates du métro et on la charge de trajets à l'unité ou du ticket de 10 trajets, valable en métro et en bus, intéressant si vous voyagez souvent.
+98|Abonnement touristique
+99|Trajets illimités en métro, bus et trains Cercanías pendant 1 à 7 jours. La zone A couvre la ville et l'aéroport ; la zone T va jusqu'aux villes voisines comme Alcalá de Henares ou El Escorial.
+100|Attention à l'aéroport
+101|Les stations de métro de l'aéroport facturent un supplément en plus du billet. Avec l'abonnement touristique, on ne le paie pas.
+102|17 novembre 2026, avec les sites du Consortium des transports de Madrid, de Metro de Madrid, de l'EMT, d'Aena et de Renfe. En cas de différence, les panneaux du réseau font foi.
+103|Métro
+104|Il est grand, propre et va presque partout : 12 lignes numérotées et colorées, plus le Ramal (R) entre Ópera et Príncipe Pío. Sol est la station la plus centrale.
+105|Il fonctionne du petit matin jusqu'après minuit. La nuit, il y a des bus de nuit (les « búhos », hiboux).
+106|Chaque direction porte le nom du terminus. Suivez les panneaux avec le numéro de la ligne et le nom de ce terminus.
+107|Les correspondances impliquent pas mal de marche dans les couloirs. Avec une valise, cherchez le panneau de l'ascenseur : toutes les stations n'en ont pas.
+108|Bus et Cercanías
+109|Bus (EMT)
+110|Ils sont bleus et desservent tous les quartiers. On monte à l'avant et on paie par carte ou avec la carte Multi.
+111|Quand le métro ferme, les búhos (lignes N) prennent le relais, presque tous au départ de la place de Cibeles.
+112|Cercanías (trains de banlieue)
+113|Ce sont les trains Renfe qui traversent la ville et desservent la banlieue. Ils relient Atocha, Sol, Nuevos Ministerios et Chamartín, et vont jusqu'à l'aéroport (T4).
+114|Utilisez Google Maps, Moovit ou les applis de Metro de Madrid et de l'EMT : elles indiquent la ligne, l'arrêt et le temps d'attente.
+115|L'aéroport de Madrid a deux zones séparées : les terminaux T1, T2 et T3, ensemble, et le T4, celui d'Iberia et de ses partenaires. Une navette gratuite les relie.
+116|Métro ligne 8
+117|Il part des deux zones et arrive à Nuevos Ministerios en 20 minutes environ, où vous changez de ligne. Le supplément aéroport s'applique.
+118|Train Cercanías
+119|Depuis le T4, il va directement à Chamartín, Nuevos Ministerios, Recoletos et Atocha. Si vous avez un billet de train grandes lignes, il peut être inclus.
+120|Bus Express Aéroport
+121|Il fonctionne 24 h/24 : il va à Cibeles et, de jour, continue jusqu'à Atocha. On paie par carte en montant.
+122|Entre l'aéroport et n'importe quel point à l'intérieur de la M-30 (le périphérique autour du centre), les taxis appliquent un tarif fixe, sans supplément. Utilisez la file officielle.
+123|Atocha (Almudena Grandes) est la principale, avec des trains vers le sud et l'est ; Chamartín (Clara Campoamor), vers le nord. De là partent des trains pour Tolède, Ségovie, Barcelone, Séville et Valence.
+124|AVE et Avlo (Renfe), Iryo et Ouigo. Il y a de la concurrence et des prix très variables : achetez tôt et comparez.
+125|Avant de monter
+126|Pour les trains rapides, vos bagages passent un contrôle, comme à l'aéroport. Arrivez un peu en avance.
+127|Ils sont blancs avec une bande rouge sur la portière. Le voyant vert allumé signifie qu'ils sont libres. On les prend dans la rue, aux stations ou par appli.
+128|Cabify, Uber, Bolt et FREENOW. Elles affichent le prix ou une estimation avant de commander.
+129|À l'aéroport et dans les gares, utilisez uniquement la file de taxis officielle. Tous doivent accepter la carte.
+130|Le centre se parcourt à pied : de la Plaza Mayor au Prado ou à la Gran Vía, il faut 15 minutes. Ça monte et ça descend : prévoyez des chaussures confortables.
+131|Les vélos électriques publics de la ville, avec des stations dans tout le centre. On les loue avec l'appli.
+132|Il y a aussi des vélos et trottinettes électriques de sociétés privées, par appli. Roulez sur les pistes cyclables et prudemment.
+133|Police nationale
+134|Police municipale
+135|Guardia Civil (gendarmerie)
+136|Tourisme de Madrid : aide aux touristes en cas de vol ou de perte de papiers
+137|Informations municipales (hors de Madrid, +34 91 480 00 10)
+138|Cela arrive surtout dans le métro (lignes 1, 2 et 3 et station Sol), à la Puerta del Sol, sur la Gran Vía, la Plaza Mayor et au Rastro.
+139|Portez le sac à dos devant et les poches fermées, surtout en montant et descendant du métro et dans les escalators.
+140|En terrasse, ne laissez pas le téléphone sur la table ni le sac accroché à la chaise : c'est le vol le plus courant.
+141|Le Rastro du dimanche est bondé : emportez le strict minimum.
+142|Madrid est une ville sûre à visiter ; voici les endroits où il vaut mieux être plus attentif, surtout la nuit.
+143|La Puerta del Sol, la rue Montera et la Gran Vía au petit matin.
+144|Les quartiers de bars de Malasaña, Chueca, Lavapiés et La Latina à la sortie des boîtes.
+145|Les quais et couloirs du métro à Sol et aux stations de la Gran Vía aux heures de pointe.
+146|Les « trileros » : le jeu de bonneteau dans la rue, deviner sous quel gobelet est la balle. Les gagnants sont des complices : ne pariez pas.
+147|La tache : quelqu'un tache vos vêtements et propose de vous nettoyer pendant qu'un autre prend votre portefeuille.
+148|Les brins de romarin : on vous en met un dans la main pour « lire l'avenir », puis on réclame de l'argent. Ne tendez pas la main.
+149|Revendeurs de billets pour musées et matchs : achetez uniquement sur les sites officiels.
+150|En cas de vol, portez plainte dans un commissariat de la Police nationale. Vous en aurez besoin pour l'assurance et les papiers.
+151|L'office de tourisme de la Plaza Mayor et les points d'information touristique aident les touristes victimes d'un vol : plainte, papiers, cartes et consulat.
+152|Acceptées presque partout, aussi sans contact et par téléphone, même pour de petits montants. Prévoyez un peu d'espèces pour les marchés et les petits bars.
+153|Utilisez ceux des banques. Beaucoup facturent des frais aux cartes étrangères : l'écran les affiche avant le retrait. Si on vous propose votre monnaie, choisissez toujours l'euro.
+154|Il n'est pas obligatoire ni autant attendu qu'ailleurs. On arrondit ou on laisse quelques pièces si le service était bon.
+155|Le menú del día (menu du jour)
+156|Le midi, du lundi au vendredi, beaucoup de restaurants proposent un menu fixe avec entrée, plat, dessert ou café et boisson. C'est la façon la moins chère de bien manger.
+157|Horaires madrilènes
+158|On mange tard : déjeuner de 14 h à 16 h et dîner de 21 h à 23 h. Avant, beaucoup de cuisines sont fermées, mais il y a toujours des bars à tapas.
+159|Tapas et cañas
+160|Aller de tapas, c'est faire plusieurs bars avec une caña (une petite bière) ou un verre de vin et de quoi grignoter. Dans certains bars, la tapa est offerte avec la boisson.
+161|Le vermouth
+162|Le week-end en fin de matinée, avant le déjeuner, on prend le vermouth avec des olives ou des chips. Le dimanche après le Rastro, c'est presque obligatoire.
+163|Les boutiques du centre ouvrent toute la journée, sans pause le midi, et la plupart aussi le dimanche.
+164|Le Prado ouvre tous les jours ; le Reina Sofía ferme le mardi ; beaucoup d'autres musées, le lundi. Plusieurs sont gratuits en fin de journée : consultez leur site officiel.
+165|Doux et ensoleillé : la meilleure période, terrasses pleines et nombreuses fêtes.
+166|Très chaud et sec, parfois plus de 35 °C. En août, beaucoup de Madrilènes partent et certains commerces ferment.
+167|Agréable, avec des journées ensoleillées et des nuits fraîches.
+168|Froid et sec, entre 0 et 12 °C, avec beaucoup de soleil. À Noël, illuminations, marchés et une Puerta del Sol bondée pour le Nouvel An.
+169|230 V. Prises de type C et F (deux broches rondes). Si vous venez d'Argentine, prévoyez un adaptateur.
+170|L'eau du robinet de Madrid est d'excellente qualité : vous pouvez la boire et demander une carafe dans les bars.
+171|On parle espagnol, mais avec des mots différents : les plus courants sont ci-dessous. On vous tutoiera presque toujours.
+172|Les pharmacies ont une croix verte. Urgences : 112.
+173|Entre connaissances, on se fait deux bises, une sur chaque joue. En entrant dans un commerce, on dit « Hola, buenos días » (ou « buenas tardes »).
+174|Au bar
+175|L'addition ne vient pas toute seule : demandez « ¿Me cobras, por favor? ». Au comptoir, on paie souvent à la fin.
+176|Terrasses
+177|S'asseoir dehors peut coûter un peu plus cher qu'au comptoir. En terrasse, on commande au serveur, pas au comptoir.
+178|Le sandwich aux calamars, le cocido madrilène, les callos (tripes), la tortilla de pommes de terre, les patatas bravas, les churros au chocolat, les gallinejas et le vermouth à la pression.
+179|Hors de Madrid
+180|Passeport madrilène
+181|Cochez les lieux visités et gagnez des tampons : musées, tapas, churros, explorateur de quartiers…
+182|Nuit madrilène
+183|Pas de station à proximité : mieux à pied ou en bus
+184|Que cherchez-vous ? Tapas, churros, musée, Malasaña…
+185|Ex. : Prado, Plaza Mayor, Retiro…
+186|Ex. : Prado, Plaza Mayor, Atocha…
+187|Ex. : Iberia, Air Europa, Aerolíneas Argentinas…
+188|Tapas
+189|Jusqu'au centre (Puerta del Sol)
+190|Depuis l'aéroport de Barajas, terminaux T1, T2 et T3
+191|Depuis l'aéroport de Barajas, terminal T4
+192|Barajas : rejoindre le centre
+193|Site officiel d'Aena : métro, train, bus et taxi
+194|Site officiel de l'EMT : fonctionne 24 h/24
+195|Cercanías vers l'aéroport (T4)
+196|Site officiel de Renfe
+197|Vérifiez sur votre billet quel terminal vous concerne : le T4 est loin des trois autres et a ses propres stations.
+198|Le métro (ligne 8) est le plus simple si vous logez près d'une station : correspondance à Nuevos Ministerios. Un supplément s'applique à l'aéroport.
+199|Depuis le T4, le train Cercanías va directement à Chamartín, Nuevos Ministerios et Atocha.
+200|Le bus Express Aéroport circule jour et nuit jusqu'à Cibeles ; de jour, il continue jusqu'à Atocha.
+201|Les taxis ont un tarif fixe de l'aéroport jusqu'à tout point à l'intérieur de la M-30, sans supplément. Utilisez la file officielle.
+202|Carte SIM prépayée bon marché, vendue dans les taxiphones et kiosques
+203|En Espagne, il faut le passeport pour activer une carte SIM.
+204|Beaucoup de distributeurs facturent des frais aux cartes étrangères : l'écran vous prévient. Essayez une autre banque s'ils sont élevés.
+205|Carte, abonnement touristique et déplacements
+206|Site officiel du Consortium des transports
+207|Plans, état du service et paiement
+208|Aux tourniquets du métro et dans les bus, vous pouvez payer avec votre carte sans contact : pas besoin d'acheter de billet.
+209|Si vous voyagez beaucoup, comparez avec l'abonnement touristique (1 à 7 jours) ou le ticket de 10 trajets sur la carte Multi.
+210|Métro, bus, taxis
+211|Inutile pour circuler dans Madrid : les transports vont partout et on ne peut presque pas entrer en voiture dans le centre. Utile pour sortir de la ville, par exemple vers Tolède, Ségovie ou la sierra.
+212|Si votre permis n'est pas de l'Union européenne, emportez aussi le permis international : certaines agences et la police le demandent.
+213|Toute la ville est une zone à faibles émissions et seules certaines voitures peuvent entrer dans le district Centro, avec caméras et amendes. Les voitures de location ont la vignette environnementale ; récupérez-la quand même hors du centre, par exemple à l'aéroport ou à Atocha.
+214|Beaucoup d'autoroutes espagnoles sont gratuites (autovías) ; les péages se paient par carte aux cabines.
+215|L'appli officielle du métro : itinéraires, état des lignes et alertes.
+216|L'appli officielle des bus : dans combien de temps arrive le vôtre.
+217|Itinéraires en métro, bus et train, avec horaires en temps réel.
+218|VTC et taxis, avec un prix fixé avant de commander.
+219|VTC, avec prix estimé.
+220|Pour voyager hors de Madrid
+221|Trains rapides et régionaux dans toute l'Espagne : horaires, billets et retards.
+222|Trains rapides vers Barcelone, Valence, Séville, Malaga et d'autres villes.
+223|Trains rapides et bon marché vers les grandes villes d'Espagne.
+224|Metro de Madrid : état du service
+225|Lignes coupées, travaux et grèves (huelga), en direct.
+226|EMT : bus
+227|Déviations de lignes pour travaux, manifestations et événements.
+228|Informo : la circulation à Madrid
+229|Rues fermées et circulation en direct, par la mairie.
+230|Grèves (huelga) et manifestations dans l'actualité du jour.
+231|⭐ Les incontournables de la semaine. 📅 Agenda officiel de la Ville de Madrid. Vérifiez sur leur page avant d'y aller.
+232|esMadrid : l'agenda de la ville
+233|Madrid a un seul aéroport, Barajas, mais avec deux zones séparées : les terminaux T1, T2 et T3, ensemble, et le T4 avec son satellite T4S, pour Iberia et ses partenaires. Vérifiez bien le terminal de votre vol.
+234|Salutation en entrant dans un bar ou un commerce
+235|Pour commander une petite bière pression
+236|💳 Comment payer et ce qu'est le menú del día
+237|Centre de tourisme · Plaza Mayor
+238|Le principal office de tourisme. En cas de vol ou de perte de papiers, on vous aide pour la plainte, les cartes et le consulat.
+239|Point d'information touristique · Callao
+240|Informations touristiques et aide en cas de vol, en pleine Gran Vía.
+241|Point d'information touristique · Paseo del Prado
+242|Face au Prado. Informations et aide aux touristes.
+243|Point d'information touristique · Reina Sofía
+244|À côté du musée Reina Sofía et de la gare d'Atocha.
+245|Point d'information touristique · Palais royal
+246|Face au Palais royal et à la cathédrale de l'Almudena.
+247|Point d'information touristique · CentroCentro
+248|Dans le palais de Cibeles. Fermé le lundi.
+249|Point d'information touristique · Bernabéu
+250|À côté du stade Santiago Bernabéu.
+251|Point d'information touristique · Aéroport T4
+252|Informations dès l'arrivée, dans la zone de récupération des bagages.
+253|Point d'information touristique · Aéroport T2
+254|Police nationale · Commissariat Centro
+255|Le commissariat du centre, à deux pas de la Plaza de España. Plaintes pour vol et perte de papiers.
+256|Police nationale · Commissariat Retiro
+257|Le plus proche du Barrio de las Letras et des musées du Paseo del Prado.
+258|Police nationale · Commissariat Chamberí
+259|Pour Chamberí, Chueca et le nord du centre.
+260|Police nationale · Commissariat Moncloa
+261|Pour Argüelles, le temple de Debod et le parc de l'Ouest.
+262|Police nationale · Commissariat Arganzuela
+263|Pour La Latina, le Rastro et Madrid Río.
+264|Police municipale · Accueil à Sol
+265|Bureau d'accueil de la Police municipale à la Puerta del Sol, avec traduction en plusieurs langues pour porter plainte.
+266|Hôpital Gregorio Marañón
+267|Public. Urgences 24 h/24 ; le plus proche du Retiro et du quartier de Salamanca.
+268|Hôpital Clínico San Carlos
+269|Hôpital universitaire. Urgences 24 h/24 ; pour Moncloa, Argüelles et Chamberí.
+270|Hôpital de La Princesa
+271|Public. Urgences 24 h/24, dans le quartier de Salamanca.
+272|Hôpital Fundación Jiménez Díaz
+273|Reçoit les patients du système public. Urgences 24 h/24, près de Moncloa.
+274|Hôpital 12 de Octubre
+275|Grand hôpital universitaire. Urgences 24 h/24 ; pour le sud de la ville.
+276|Hôpital La Paz
+277|Grand hôpital universitaire, avec urgences adultes et pédiatriques 24 h/24 ; au nord de la Castellana.
+278|Hôpital Ramón y Cajal
+279|Hôpital universitaire. Urgences 24 h/24 ; pour le nord de la ville.
+280|Hôpital pour enfants Niño Jesús
+281|Hôpital pour enfants. Urgences pédiatriques 24 h/24, près du Retiro.
+282|Argentine · Consulat général
+283|Passeports, documents et aide à ses ressortissants. Adresse confirmée sur la liste officielle du ministère espagnol des Affaires étrangères.
+284|Uruguay · Consulat général
+285|Chili · Consulat général
+286|Brésil · Consulat général
+287|Mexique · Ambassade et section consulaire
+288|Colombie · Consulat général
+289|Pérou · Consulat général
+290|Paraguay · Ambassade et section consulaire
+291|Bolivie · Consulat général
+292|Équateur · Consulat général
+293|Venezuela · Consulat général
+294|Costa Rica · Consulat général
+295|États-Unis · Ambassade et section consulaire
+296|Italie · Consulat général
+297|France · Consulat général
+298|Gare d'Atocha (Almudena Grandes)
+299|La gare principale : trains rapides vers le sud et l'est, Cercanías (aussi vers l'aéroport) et ligne 1 du métro.
+300|Gare de Chamartín (Clara Campoamor)
+301|Trains rapides vers le nord, Cercanías vers l'aéroport et lignes 1 et 10 du métro.
+302|Nuevos Ministerios
+303|Terminus de la ligne 8 du métro vers l'aéroport. Les Cercanías et les lignes 6 et 10 y passent aussi.
+304|Gare de Príncipe Pío
+305|Cercanías, métro (lignes 6, 10 et Ramal) et bus vers la banlieue.
+306|Gare routière Sud
+307|Le terminal des cars longue distance. Métro Méndez Álvaro (ligne 6).
+308|Aéroport de Barajas · T1, T2 et T3
+309|Métro ligne 8 (Aeropuerto T1-T2-T3), bus Express Aéroport et taxis.
+310|Aéroport de Barajas · T4
+311|Métro ligne 8 (Aeropuerto T4), train Cercanías, bus Express Aéroport et taxis.
+312|Moteur de recherche de pharmacies de l'Ordre des pharmaciens de Madrid, y compris celles de garde (en espagnol).
+313|Santé et urgences
+314|Que faire si vous avez besoin d'un médecin à Madrid, sur le site officiel du tourisme.
+315|Tourisme de Madrid
+316|Informations touristiques officielles et aide en cas de vol : +34 91 578 78 10.
+317|Promenade de l'Art
+318|De tapas
+319|3 bars à tapas
+320|Churros au chocolat
+321|Une churrería
+322|Poumon vert
+323|2 parcs ou jardins
+324|Olé !
+325|Un tablao de flamenco
+326|Flamenco
+327|Madrilène d'honneur
+328|Adaptateur de prise type C ou F (230 V)
+329|Réserver le Prado, le Palais royal et la visite du Bernabéu
+330|Prendre le métro ou le taxi à prix fixe depuis l'aéroport
+331|Payer les transports par carte sans contact, ou acheter l'abonnement touristique
+332|Chaussures confortables : on marche beaucoup à Madrid
+333|Classiques de Madrid
+334|La Promenade de l'Art
+335|Palais
+336|Cuisine madrilène
+337|Churros et douceurs
+338|Marchés gourmands
+339|Cocktails et terrasses
+340|Sol, les Austrias et La Latina
+341|Promenade de l'Art et Retiro
+342|Malasaña et Chueca
+343|Temple de Debod et Moncloa
+344|Salamanca et Chamberí
+345|Lavapiés et Madrid Río
+346|Madrid des Austrias, Debod et Malasaña
+347|Musées, Retiro et Lavapiés
+348|5 janvier
+349|Cavalcade des Rois mages
+350|Le défilé des Rois mages sur le Paseo de la Castellana et dans le centre, avec des chars et des bonbons pour les enfants.
+351|Février ou mars
+352|ARCO
+353|La grande foire d'art contemporain, à l'IFEMA, avec des expositions dans les galeries de toute la ville.
+354|Processions dans le centre, surtout à La Latina et dans les Austrias, et des torrijas (pain perdu) dans toutes les pâtisseries.
+355|Marathon de Madrid
+356|Il traverse le centre et le Retiro ; ce dimanche-là, beaucoup de rues sont fermées.
+357|Mutua Madrid Open
+358|L'un des grands tournois de tennis sur terre battue, à la Caja Mágica.
+359|2 mai
+360|Fête de la Communauté de Madrid
+361|Elle commémore le soulèvement de 1808 contre Napoléon, avec des cérémonies à la Puerta del Sol et à Malasaña.
+362|15 mai
+363|San Isidro
+364|La fête du saint patron de Madrid : gens en costume de chulapo, bals populaires, concerts et pèlerinage dans la prairie de San Isidro.
+365|Mai et juin
+366|Foire du livre
+367|Des centaines de stands de librairies et d'éditeurs au Retiro, avec des auteurs en dédicace.
+368|Début juillet
+369|Fiertés de Madrid
+370|L'une des plus grandes célébrations des Fiertés d'Europe, avec des fêtes à Chueca et un grand défilé.
+371|Veranos de la Villa
+372|Le festival d'été de la ville : concerts, théâtre et cinéma en plein air.
+373|Première quinzaine d'août
+374|Fêtes populaires d'août
+375|Les fêtes de San Cayetano, San Lorenzo et La Paloma à Lavapiés et La Latina, avec lampions, musique et chotis.
+376|Fête de la Transhumance
+377|Un troupeau de moutons traverse le centre de Madrid par une ancienne draille, une tradition unique.
+378|12 octobre
+379|Fête nationale espagnole
+380|Défilé militaire sur le Paseo de la Castellana.
+381|La Almudena
+382|La fête de la sainte patronne de Madrid, avec messe sur la Plaza Mayor et procession.
+383|Noël à Madrid
+384|Des illuminations dans tout le centre, le marché de Noël de la Plaza Mayor et des crèches dans les églises et les palais.
+385|Les douze coups et la San Silvestre
+386|L'après-midi, on court la San Silvestre Vallecana ; à minuit, on mange les douze raisins au rythme des coups de l'horloge de la Puerta del Sol.
+387|Mots d'Espagne à connaître
+388|Coger
+389|Prendre : coger el metro, coger un taxi. En Espagne, c'est un mot tout à fait normal.
+390|Vale
+391|D'accord, OK. Vous l'entendrez tout le temps.
+392|Móvil · Coche · Billete
+393|Téléphone portable, voiture et billet (de métro, de train ou d'avion).
+394|Aseos · Servicios
+395|Les toilettes, dans les bars et les lieux publics.
+396|Caña
+397|Un petit verre de bière pression.
+398|Ración · Media ración
+399|Une assiette à partager, ou la moitié.
+400|Zumo · Patata · Melocotón
+401|Jus, pomme de terre et pêche.
+402|Huelga
+403|Appelez le 112. Les grands hôpitaux publics ont des urgences 24 h/24.
+404|Elles ont une croix verte. La nuit et le dimanche, il y a des pharmacies de garde : la liste est affichée sur la porte de toute pharmacie.
+405|Gratuit les deux dernières heures de la journée, avec file d'attente
+406|Gratuit en fin de journée, avec billet gratuit
+407|Gratuit le dimanche midi, avec billet gratuit
+408|Collection permanente gratuite le lundi midi (billet à retirer au guichet)
+409|Relève de la garde le matin devant la Puerta del Príncipe (gratuit)
+410|Relève solennelle de la Garde royale à midi, avec chevaux et musique (gratuit)
+411|L'un des plus grands musées du monde : Velázquez, Goya, le Greco, Bosch et Rubens. Les Ménines et Le Jardin des délices sont ici.
+412|Achetez un billet horodaté sur le site officiel. Les dernières heures sont gratuites, mais avec beaucoup d'attente. Choisissez quelques salles : impossible de tout voir en un jour.
+413|Huit siècles de peinture dans un palais : des primitifs italiens à Van Gogh, Hopper et le pop art. Il complète ce que n'ont ni le Prado ni le Reina Sofía.
+414|Le lundi, la collection permanente est gratuite quelques heures, sur réservation sur son site.
+415|Le musée d'art moderne et contemporain d'Espagne, avec le Guernica de Picasso, Dalí et Miró, dans un ancien hôpital aux ascenseurs de verre.
+416|Fermé le mardi. L'entrée est gratuite certains soirs et le dimanche midi : consultez son site.
+417|La maison et l'atelier du peintre Joaquín Sorolla, avec ses tableaux de lumière et de mer et un ravissant jardin andalou.
+418|Il est petit et se remplit : allez-y tôt. Fermé le lundi.
+419|De la préhistoire au Moyen Âge en Espagne : la Dame d'Elche, le trésor de Guarrazar et une réplique des grottes d'Altamira.
+420|Fermé le lundi. Idéal par temps de pluie.
+421|La collection d'un collectionneur dans son hôtel particulier : Goya, Bosch, bijoux, armes et ivoires, dans des salles aux plafonds peints.
+422|Il y a généralement peu de monde. Fermé le lundi.
+423|La maison d'un marquis du XIXe siècle telle qu'il l'a laissée, avec salles de bal, tableaux, armures et des centaines d'objets.
+424|À deux rues du temple de Debod. Fermé le lundi.
+425|Un palais décoré comme une maison madrilène du XIXe siècle, avec meubles, tableaux et un café au jardin caché.
+426|Le café du jardin est un secret du quartier. Fermé le lundi.
+427|Une académie des beaux-arts avec un musée méconnu : Goya, Zurbarán, Murillo et Rubens à deux pas de la Puerta del Sol.
+428|Il n'y a presque jamais de file : c'est le grand musée le moins visité du centre.
+429|Un centre culturel aux expositions temporaires dans un bâtiment qui semble flotter, à côté d'un immense jardin vertical.
+430|Le jardin vertical se voit gratuitement depuis le trottoir.
+431|Le nouveau musée du Patrimonio Nacional, à côté du Palais royal : tapisseries, carrosses, armures et peintures des rois d'Espagne.
+432|Combinez-le avec le Palais royal dans la même matinée.
+433|Art et objets des cultures d'Amérique, des Mayas aux Incas, dont le codex Tro-Cortesianus.
+434|À côté se trouve le Faro de Moncloa, avec vue sur toute la ville.
+435|Un musée gratuit sur les origines de Madrid, dans la maison où, selon la tradition, vécut San Isidro, le saint patron de la ville.
+436|Il est gratuit et en plein quartier des tapas de La Latina.
+437|L'histoire de la ville dans un ancien hospice au portail baroque surchargé, avec une maquette géante de Madrid en 1830.
+438|Il est gratuit. Le portail de la rue Fuencarral mérite une photo.
+439|La maison où vécut le grand écrivain du Siècle d'or, avec ses meubles et son potager.
+440|C'est gratuit, mais uniquement en visite guidée : réservez sur son site.
+441|Une station de métro fermée en 1966 restée telle quelle, avec ses panneaux en céramique et ses publicités d'époque.
+442|C'est gratuit. On l'aperçoit depuis les rames de la ligne 1.
+443|Le plus grand palais d'Europe occidentale, avec plus de 3 000 pièces. On visite la salle du trône, l'armurerie et la pharmacie royale.
+444|Achetez le billet sur le site du Patrimonio Nacional. Certains mercredis matin, il y a une relève solennelle de la garde devant l'entrée.
+445|La cathédrale de Madrid, face au Palais royal, achevée seulement en 1993 : classique dehors, plafonds colorés dedans.
+446|L'entrée est gratuite (un don est demandé) ; la coupole est payante et offre une vue sur le Palais.
+447|La grande place à arcades du XVIIe siècle, avec la Casa de la Panadería peinte et la statue de Philippe III. Elle fut marché, arène et lieu d'exécutions.
+448|Les terrasses de la place sont chères : prenez un verre dans les rues voisines. En décembre s'installe le marché de Noël.
+449|Le centre de Madrid et de l'Espagne : le kilomètre zéro, l'horloge des douze coups du Nouvel An et la statue de l'Ours et l'Arbousier.
+450|Cherchez la plaque du kilomètre zéro devant la Casa de Correos. Il y a foule : surveillez vos affaires.
+451|L'avenue des théâtres, des cinémas et des immeubles du début du XXe siècle, le « Broadway » madrilène.
+452|Parcourez-la d'un bout à l'autre et montez sur une terrasse pour la voir d'en haut.
+453|L'immeuble à la coupole noire et dorée surmontée d'une Victoire ailée, au début de la Gran Vía. La photo classique de Madrid.
+454|La meilleure photo se prend depuis la terrasse du Círculo de Bellas Artes, en face.
+455|L'ancien palais des Postes, aujourd'hui siège de la mairie et du centre culturel CentroCentro, face à la fontaine de Cibeles.
+456|Montez au belvédère de la tour : l'une des plus belles vues de la ville. À l'intérieur, un point d'information touristique.
+457|La déesse Cybèle sur son char tiré par des lions, symbole de Madrid, où le Real Madrid fête ses titres.
+458|Admirez-la la nuit, illuminée, depuis le trottoir du palais de Cibeles.
+459|La porte monumentale de Charles III, de 1778, à l'entrée du Retiro.
+460|Combinez-la avec l'entrée du Retiro par la place de l'Indépendance.
+461|L'une des plus anciennes places de Madrid, avec la Torre de los Lujanes du XVe siècle et l'ancienne mairie.
+462|Elle donne sur la rue Mayor, à deux pas de la Plaza Mayor et du marché de San Miguel.
+463|La place entre le Palais royal et le Teatro Real, avec jardins et statues de rois.
+464|Au coucher du soleil, la lumière frappe le Palais : bon moment pour les photos.
+465|Une grande place rénovée avec le monument à Cervantes, Don Quichotte et Sancho, et deux gratte-ciel des années 50.
+466|D'ici, on rejoint à pied le temple de Debod et le Palais royal.
+467|La place du Barrio de las Letras, avec terrasses, le Teatro Español et la statue de Calderón de la Barca.
+468|Les terrasses sont pleines le soir ; pour les tapas, cherchez dans les rues voisines.
+469|Le parlement espagnol, avec ses lions de bronze à l'entrée. On voit encore au plafond les impacts de balles de la tentative de coup d'État de 1981.
+470|Les visites guidées sont gratuites, sur réservation sur son site et avec passeport.
+471|Le palais de la maison d'Albe, avec Goya, Titien, Rubens et des lettres de Christophe Colomb, toujours habité par la famille.
+472|Uniquement en visite guidée : réservez sur son site.
+473|Un couvent cloîtré fondé par une princesse au XVIe siècle, rempli de tapisseries de Rubens et d'œuvres d'art, au milieu du quartier commerçant.
+474|Uniquement en visite guidée et en petits groupes : achetez le billet à l'avance.
+475|Une église avec l'une des plus grandes coupoles de la chrétienté et un tableau du jeune Goya.
+476|On la visite avec un petit billet qui inclut des explications.
+477|Une petite chapelle à la coupole peinte par Goya, qui y est aussi enterré. On l'appelle la chapelle Sixtine de Goya.
+478|C'est gratuit. En face, Casa Mingo, pour manger du poulet rôti avec du cidre.
+479|L'une des plus anciennes églises de Madrid, avec un Greco caché dans sa chapelle.
+480|Derrière se trouve la Chocolatería San Ginés.
+481|L'église baroque qui abrite les restes de San Isidro, saint patron de Madrid. Elle fut cathédrale jusqu'en 1993.
+482|Elle est sur le chemin du Rastro : entrez un dimanche avant les emplettes.
+483|Une église ovale aux murs et à la coupole entièrement couverts de fresques : banale dehors, éblouissante dedans.
+484|L'entrée est modique. À deux rues de la Gran Vía.
+485|Le grand parc de Madrid, inscrit au patrimoine mondial : le bassin et ses barques, le Palais de cristal, la roseraie et l'Ange déchu.
+486|Le week-end, il y a des musiciens, des marionnettistes et du monde sur l'herbe. Louez une barque sur le bassin.
+487|Une serre de fer et de verre de 1887 au bord d'un lac, dans le Retiro, avec des expositions d'art contemporain.
+488|C'est gratuit. La lumière de l'après-midi à travers le verre est le meilleur moment.
+489|Un jardin du XVIIIe siècle à côté du Prado, avec serres, bonsaïs et des milliers de plantes.
+490|Idéal pour se reposer après le musée.
+491|Un vrai temple égyptien de plus de 2 000 ans, offert par l'Égypte et reconstruit pierre par pierre. D'ici, on voit les plus beaux couchers de soleil.
+492|Arrivez un peu avant le coucher du soleil : c'est bondé. L'intérieur se visite sur réservation.
+493|Un parc en pente avec une roseraie et vue sur la Casa de Campo, à côté du temple de Debod.
+494|En mai, la roseraie est en fleurs.
+495|Les jardins du Palais royal, avec des paons et la plus belle vue du palais d'en bas.
+496|C'est gratuit. L'entrée est côté rivière.
+497|Jardins géométriques aux labyrinthes de buis au pied du Palais royal.
+498|En été, il y a parfois des concerts en plein air.
+499|Un centre culturel historique avec l'une des terrasses les plus célèbres de Madrid, vue sur l'immeuble Metrópolis et la Gran Vía.
+500|La terrasse est payante ; en bas, le café à colonnes et lustres vaut aussi le détour.
+501|Une tour de 110 mètres avec un belvédère vitré et vue sur toute la ville et la sierra.
+502|Par temps clair, on voit les montagnes de Guadarrama.
+503|Un téléphérique qui survole le parc de l'Ouest jusqu'à la Casa de Campo, avec vue sur le Palais royal.
+504|Il fonctionne selon la saison et la météo : consultez son site.
+505|Une immense forêt, cinq fois Central Park, avec un lac, le zoo et le parc d'attractions.
+506|Venez en téléphérique ou en métro (Lago ou Batán). C'est immense : n'y allez pas la nuit.
+507|Un parc de 10 kilomètres le long du Manzanares, avec ponts anciens et modernes, jeux et plages urbaines en été.
+508|Parcourez-le à vélo, du Puente del Rey jusqu'au Matadero.
+509|Le plus beau jardin romantique de Madrid, créé par une duchesse au XVIIIe siècle, avec labyrinthe, petits temples et un bunker de la guerre civile.
+510|Ouvert seulement le week-end et les jours fériés. C'est loin : métro El Capricho (ligne 5).
+511|Les rues où vécurent Cervantes, Lope de Vega et Quevedo, avec des citations de leurs livres écrites au sol.
+512|Parcourez la rue de las Huertas en lisant les citations et finissez par des tapas sur la place Santa Ana.
+513|La rue à tapas la plus célèbre de Madrid, avec de vieilles auberges et des bars côte à côte.
+514|Mieux le soir ou le dimanche midi. Commandez une caña et une tapa dans chaque bar.
+515|Le cœur de Malasaña, avec terrasses et enfants qui jouent, où commença le soulèvement contre Napoléon en 1808.
+516|Parcourez les rues alentour : friperies, cafés et bars.
+517|Le quartier le plus multiculturel de Madrid, avec fresques murales, théâtres indépendants et cuisine du monde entier.
+518|Rue Argumosa, des terrasses ; rue Lavapiés, de la cuisine indienne et africaine.
+519|Les anciens abattoirs municipaux devenus centre culturel : expositions, cinéma, théâtre et marchés de créateurs.
+520|L'accès au site est gratuit. Consultez le programme sur son site.
+521|Une manufacture de 1721 qui tisse toujours des tapisseries à la main comme au temps de Goya, qui dessina des cartons pour elle.
+522|Les visites sont guidées : consultez les horaires sur son site.
+523|Les cinq plus hauts gratte-ciel d'Espagne, au bout du Paseo de la Castellana.
+524|La meilleure vue est depuis le Paseo de la Castellana, la nuit.
+525|Selon le Guinness, le plus ancien restaurant du monde encore en activité, depuis 1725. Cochon de lait et agneau rôtis au four à bois.
+526|Réservez longtemps à l'avance et demandez une table dans la cave en pierre.
+527|La maison des fameux œufs cassés sur frites, fréquentée par des rois et des stars de cinéma.
+528|Réservez. Commandez les huevos estrellados, ne serait-ce qu'à partager.
+529|Une salle de 1839 avec le meilleur cocido madrilène et, à l'entrée, une boutique où l'on boit le consommé debout, comme il y a 180 ans.
+530|Pour ne pas trop dépenser, prenez le consommé dans la boutique du rez-de-chaussée.
+531|Une taverne rouge de 1870 célèbre pour son cocido madrilène, cuit dans des pots en terre sur le feu.
+532|Le cocido se mange en deux ou trois temps : d'abord la soupe, puis les pois chiches et les viandes.
+533|Un bar de quartier de 1895 avec un énorme cocido et une ambiance d'antan.
+534|Réservez pour le cocido. Venez le ventre vide.
+535|Une ancienne auberge du XVIIe siècle avec four à bois : agneau rôti et cocido.
+536|Demandez une table à l'étage, sous les poutres.
+537|L'une des plus vieilles tavernes de Madrid, de 1786, aux murs de bois et têtes de taureaux.
+538|Goûtez les torrijas ou le vermouth au comptoir.
+539|Une taverne de 1827, là où vécut Cervantes, avec vermouth à la pression, tripes et queue de taureau.
+540|Au comptoir : vermouth et croquettes.
+541|Une cidrerie asturienne de 1888 avec poulet rôti et cidre, dans une salle remplie de tonneaux.
+542|Pas de réservation : allez-y tôt. Emportez le poulet et mangez au parc si c'est plein.
+543|Une taverne de 1860 célèbre pour ses beignets de morue et ses croquettes.
+544|On commande à un guichet et on mange debout sur le trottoir.
+545|Depuis 1906, des crevettes à l'ail en cassolette de terre, avec le vin doux maison.
+546|Commandez les crevettes à l'ail et trempez le pain dans l'huile.
+547|Un bar de quartier aux tapas d'abats traditionnelles : zarajos, oreille grillée et patatas bravas.
+548|Si l'oreille ne vous tente pas, prenez les bravas.
+549|Le bar qui dit avoir inventé la sauce des patatas bravas, à deux pas de la Puerta del Sol.
+550|Tout près se trouve le callejón del Gato, avec les miroirs déformants qui apparaissent dans une pièce de Valle-Inclán.
+551|Une bodega de 1892 avec l'une des meilleures tortillas de Madrid et du vermouth à la pression.
+552|Pour accéder à la salle du fond, il faut se baisser sous le comptoir.
+553|Un bar à tapas modernes avec une célèbre tortilla aux oignons caramélisés.
+554|Arrivez tôt ou réservez : c'est vite plein.
+555|Un bar minuscule avec les beignets de morue les plus célèbres du coin de la Plaza Mayor.
+556|Le dimanche, après le Rastro, c'est bondé : allez-y tôt.
+557|Un bar bruyant où chaque boisson est servie avec une montagne de tapas gratuites.
+558|Idéal pour manger pas cher. N'espérez pas le calme.
+559|Une épicerie de 1931 avec fromages, charcuterie et vins à déguster sur ses petites tables.
+560|Commandez une planche de fromages espagnols et un verre.
+561|Le classique sandwich aux calamars, le plus madrilène des sandwichs, à deux pas de la Plaza Mayor.
+562|Se mange debout au comptoir ou en marchant.
+563|Un bar de 1951 face à Atocha, célèbre pour son sandwich géant aux calamars.
+564|À deux pas du Reina Sofía : idéal après le musée.
+565|Un marché en fer de 1916 devenu un grand bar à tapas : huîtres, jambon, croquettes, vermouth et douceurs.
+566|C'est cher et plein de touristes, mais le bâtiment vaut le détour. Allez-y en milieu de matinée.
+567|Un marché de quartier avec des stands de cuisine et une terrasse sur le toit.
+568|Achetez quelque chose aux stands du bas et montez le manger en haut.
+569|Un marché de street food sur trois étages, avec des stands de tout type et des terrasses.
+570|Sympa en groupe : chacun commande ce qu'il veut.
+571|Un marché de quartier avec stands de cuisine japonaise, cafés de spécialité et comptoirs pour manger.
+572|Moins touristique que San Miguel et moins cher.
+573|Un marché municipal avec stands de cuisine philippine, péruvienne, chinoise et latino-américaine.
+574|Idéal pour manger pas cher et différent, à deux rues de la Gran Vía.
+575|Le restaurant de Dabiz Muñoz, trois étoiles Michelin : cuisine créative et spectacle du début à la fin.
+576|Réservez des mois à l'avance sur son site.
+577|Un menu dégustation qui vous fait passer par différents espaces du restaurant, deux étoiles Michelin.
+578|Réservez longtemps à l'avance.
+579|Un bistrot familial avec cuisine du marché et plats de toujours, le préféré de nombreux chefs.
+580|Réservez. La carte change selon le jour.
+581|Un petit restaurant de cuisine de produit, très apprécié des Madrilènes.
+582|Réservez tôt : il y a peu de tables.
+583|Cuisine de taverne moderne dans un lieu au look industriel : escalope, tortilla et plats à partager.
+584|Réservez ; le midi, il y a souvent de la place.
+585|Un bar façon boucherie qui sert des tapas créatives au comptoir. Rue Ponzano, la rue des bars de Chamberí.
+586|Pas de réservation : allez-y tôt. Puis continuez dans les bars de Ponzano.
+587|Cuisine péruvienne aux touches asiatiques à un comptoir du marché de Vallehermoso.
+588|Réservez : il y a peu de tabourets.
+589|Churros et porras au chocolat épais depuis 1894, à toute heure du jour et de la nuit.
+590|Il y a la queue, mais elle avance vite. Goûtez les porras, plus épaisses.
+591|La chocolaterie de la marque de chocolat, avec churros et chocolat et moins de queue qu'à San Ginés.
+592|Une bonne alternative si San Ginés est plein.
+593|Le café littéraire le plus célèbre de Madrid, de 1888, fréquenté par Lorca, Valle-Inclán et de nombreux écrivains.
+594|Prenez un café au comptoir ou en terrasse sur le boulevard.
+595|Le plus vieux café de Madrid, de 1887, rénové, avec ses miroirs et ses tables en marbre.
+596|Bien pour le petit-déjeuner ou un café l'après-midi.
+597|Un café élégant avec terrasse face au Palais royal.
+598|La terrasse au coucher du soleil, avec vue sur le palais.
+599|Une pâtisserie de 1894 sur la Puerta del Sol, célèbre pour ses napolitanas à la crème.
+600|Montez au salon de l'étage : il donne sur la place.
+601|Une confiserie de 1855 qui préparait les douceurs de la reine, avec un salon de thé boisé.
+602|Goûtez les pastas del Consejo, la spécialité de la maison.
+603|La plus ancienne pâtisserie de Madrid, de 1830, avec feuilletés et roscón de Reyes (galette des rois).
+604|En janvier, on fait la queue pour le roscón.
+605|L'un des pionniers du café de spécialité à Madrid, avec sa propre torréfaction.
+606|Idéal pour le petit-déjeuner avant de parcourir Malasaña.
+607|Un petit café de spécialité avec sa torréfaction, près du Reina Sofía.
+608|Bon endroit pour un café avant le musée.
+609|Riz et paellas valenciennes depuis 1935, à deux pas de la Gran Vía.
+610|Les paellas se commandent pour deux personnes ou plus.
+611|Une taverne aux azulejos où le cocido madrilène est servi en trois services.
+612|Réservez pour le cocido, surtout en hiver.
+613|Le tablao flamenco le plus célèbre du monde, depuis 1956, avec de grands danseurs et un restaurant étoilé Michelin.
+614|Réservez. Vous pouvez venir juste pour le spectacle avec une boisson.
+615|Un tablao classique dans un petit palais, avec dîner et spectacle de flamenco.
+616|Réservez et demandez une table près de la scène.
+617|Un petit tablao avec un spectacle de flamenco de qualité, tout près du public.
+618|Les spectacles durent environ une heure. Réservez sur son site.
+619|Un tablao intimiste près de la Plaza de España, avec de jeunes et excellents danseurs.
+620|Réservez. C'est plus calme que les tablaos du centre.
+621|Jazz
+622|Un club de jazz avec des concerts tous les soirs depuis 1982, dans un ancien café Art nouveau.
+623|Achetez le billet à l'avance : les meilleures tables partent vite.
+624|Une salle historique avec concerts de jazz, flamenco, rock et auteurs-compositeurs.
+625|Consultez le programme sur son site.
+626|La salle de la Movida madrilène des années 80, avec concerts rock et pop puis soirée dansante.
+627|Les concerts commencent tôt ; la danse, après minuit.
+628|Un club avec concerts de jazz, soul et musique latine, puis on danse.
+629|Une salle dans un ancien cinéma avec auteurs-compositeurs, humour et musique.
+630|Une bonne idée pour écouter de la musique en espagnol.
+631|Une immense boîte dans un ancien théâtre, sur sept étages avec une musique différente à chacun.
+632|Ouvre tard et se remplit après 1 h. Tenue correcte exigée.
+633|Une boîte dans un bâtiment Art déco, l'ancien mythique Pachá de Madrid.
+634|Tenue correcte exigée. Bondé du jeudi au samedi.
+635|L'un des meilleurs bars à cocktails du monde selon les classements internationaux, avec des créations maison et une ambiance néon.
+636|Pas de réservation pour les petits groupes : allez-y tôt.
+637|Un bar à cocktails Art déco de 1931 fréquenté par Hemingway, Ava Gardner et Sinatra.
+638|Allez-y en début de soirée pour un classique au comptoir.
+639|Un bar à cocktails classique aux serveurs en veste blanche, à une rue de la Gran Vía.
+640|Commandez le cocktail maison, le Del Diego.
+641|Un petit bar à cocktails aux classiques très bien faits, dans un lieu ancien.
+642|Pour une conversation tranquille ; on n'y danse pas.
+643|Un bar de 1922 qui ne sert que des vins de Xérès, tirés du fût et notés à la craie sur le comptoir.
+644|Pas de photos ni de pourboire : c'est la coutume de la maison.
+645|Un bar à vins de plus de 500 références avec un bar à cocktails au sous-sol.
+646|Demandez qu'on vous conseille un vin au verre.
+647|Vermouth
+648|Une minuscule bodega de 1867 avec vermouth à la pression, cidre et tapas de conserves.
+649|Très peu de tables : buvez debout au comptoir.
+650|Une taverne minuscule célèbre pour le yayo, son vermouth avec gin et limonade.
+651|Toujours bondé : ça fait partie de l'expérience.
+652|Une brasserie de 1904 sur la place Santa Ana, que fréquentait Hemingway.
+653|Commandez une caña et quelques tapas au comptoir.
+654|Une brasserie artisanale qui brasse sa bière sur place.
+655|Goûtez celle qu'ils brassent cette semaine-là.
+656|Une terrasse sur le toit d'une auberge de jeunesse, ouverte à tous, avec vue sur les toits du centre.
+657|Idéal au coucher du soleil. Pas besoin d'y loger.
+658|Une terrasse sur le toit d'un hôtel de la Gran Vía, avec vue sur l'immeuble Metrópolis.
+659|Une terrasse au 27e étage d'un gratte-ciel de 1953, avec une passerelle en verre et une vue à 360 degrés.
+660|L'entrée est payante ; mieux vaut l'acheter en ligne.
+661|Un piano-bar où tout le monde chante des chansons espagnoles jusqu'au petit matin.
+662|Arrivez après minuit, c'est là que ça démarre.
+663|Les visites guidées officielles de la ville, avec des guides de la mairie, dans le Madrid des Austrias, le Barrio de las Letras et d'autres parcours.
+664|Réservez à l'office de tourisme de la Plaza Mayor ou sur esmadrid.com.
+665|Un bus à impériale découvert avec audioguide, qui fait le tour des sites principaux et permet de monter et descendre.
+666|Pratique si vous avez peu de temps ou du mal à marcher.
+667|Louez une barque sur le grand bassin du Retiro, face au monument à Alphonse XII.
+668|Le week-end, il y a la queue : allez-y tôt.
+669|Visites guidées des bars à tapas de La Latina et du Barrio de las Letras, avec vins et explications.
+670|Réservez sur une plateforme avec de bons avis.
+671|Des cours pour apprendre à faire la paella, la tortilla et des tapas, avec du vin et le repas à la fin.
+672|Balades à vélo, guidées ou en autonomie, dans les parcs du Manzanares, le Retiro et le centre.
+673|Avec BiciMAD, vous pouvez le faire seul en payant via l'appli.
+674|La ville des trois cultures, sur une colline entourée par le Tage : cathédrale, synagogues, mosquée et le Greco.
+675|En train rapide depuis Atocha, on y est en une demi-heure environ. Achetez le billet à l'avance.
+676|L'aqueduc romain en pleine ville, l'Alcázar qui inspira Disney et le cochon de lait rôti.
+677|En train rapide depuis Chamartín puis bus jusqu'au centre, ou en car depuis Moncloa.
+678|La ville entourée par la muraille médiévale la plus complète d'Europe, que l'on peut parcourir en hauteur.
+679|En train depuis Chamartín ou Príncipe Pío.
+680|L'immense monastère-palais de Philippe II, au pied de la sierra, avec sa bibliothèque et le panthéon des rois.
+681|En train Cercanías ou en car depuis Moncloa.
+682|Le palais royal de printemps aux immenses jardins au bord du Tage, et ses fraises.
+683|En train Cercanías depuis Atocha.
+684|La ville natale de Cervantes, avec une université du XVIe siècle et sa maison-musée.
+685|En train Cercanías depuis Atocha, Sol ou Chamartín.
+686|Un village à la grand-place bordée de balcons en bois, où l'on donne encore des corridas et des pièces de théâtre.
+687|On y va en car depuis Madrid.
+688|Les maisons suspendues au-dessus d'un ravin et une vieille ville perchée.
+689|En train rapide depuis Atocha puis bus jusqu'au centre.
+690|Une ville universitaire en pierre dorée avec l'une des plus belles grand-places d'Espagne.
+691|En train depuis Chamartín ; mieux vaut y passer la nuit.
+692|Un palais royal aux jardins et fontaines inspirés de Versailles, au pied de la sierra.
+693|Combinez-le avec Ségovie, toute proche.
+694|Les montagnes à une heure de Madrid, avec des randonnées entre pins et rivières, et de la neige en hiver.
+695|En train Cercanías jusqu'à Cercedilla. Prévoyez un manteau : il fait bien plus froid qu'à Madrid.
+696|Un château du XVe siècle près d'un lac de barrage et la Pedriza, un paysage de rochers géants pour randonner.
+697|On y va en car depuis la Plaza de Castilla.
+698|Un village médiéval fortifié, en pierre et presque sans voitures, célèbre pour son agneau rôti.
+699|Mieux vaut y aller en voiture. Les samedis de juillet, concerts aux chandelles.
+700|Un parc d'attractions avec les personnages Warner, des montagnes russes et un parc aquatique en été.
+701|Ouvert selon la saison : consultez son site. Des cars partent de Madrid.
+702|Une auberge de jeunesse moderne et très bien notée, avec terrasse sur le toit, à une rue de la Plaza Mayor.
+703|Il y a des chambres privées en plus des dortoirs.
+704|Une auberge de jeunesse design avec terrasse, à deux pas de la Gran Vía.
+705|Réservez tôt pour les dates de match ou de festival.
+706|Une auberge de jeunesse dans un palais du XVIIIe siècle avec un patio andalou en azulejos.
+707|Idéal pour rencontrer du monde : ils organisent des sorties.
+708|Une auberge de jeunesse moderne avec chambres privées et dortoirs, à une rue de la Puerta del Sol.
+709|Très central : on va presque partout à pied.
+710|Un hôtel de chaîne moderne dans un immeuble classique, en pleine rue Arenal.
+711|Demandez une chambre sur cour si vous avez le sommeil léger.
+712|Un hôtel classique rénové entre la Puerta del Sol et la Gran Vía.
+713|Très bien situé pour aller à pied aux musées.
+714|Un hôtel classique sur la Gran Vía avec piscine sur le toit, ouverte en été.
+715|En été, la piscine sur le toit est le meilleur atout.
+716|Un hôtel design avec des œuvres d'art anciennes et une terrasse avec piscine.
+717|Sa terrasse est aussi ouverte aux non-résidents.
+718|Un hôtel-boutique avec terrasse sur le toit donnant sur la Plaza de España et la sierra.
+719|Demandez une chambre dans les étages élevés.
+720|Un hôtel-boutique dans un palais du XIXe siècle décoré avec beaucoup de style, en plein Chueca.
+721|Idéal pour sortir le soir à Chueca et Malasaña.
+722|Un hôtel de luxe réparti dans sept bâtiments historiques reliés, avec spa et terrasse.
+723|La galerie de luxe Canalejas se trouve dans le même complexe.
+724|Le grand hôtel de Madrid depuis 1910, rénové, à côté du Prado.
+725|Si vous n'y logez pas, prenez un verre dans son jardin.
+726|Un hôtel de 1912 avec une coupole en vitrail au-dessus du salon de thé.
+727|Entrez prendre un verre sous la coupole, même sans y loger.
+728|Un hôtel de luxe sur la Castellana, avec jardin, près des boutiques de Serrano.
+729|Bien situé pour le quartier de Salamanca.
+730|Le marché aux puces le plus célèbre d'Espagne, tous les dimanches matin : vêtements, antiquités, disques et de tout.
+731|Emportez le minimum et le sac devant vous. Ensuite, vermouth à La Latina.
+732|Un marché de quartier avec stands de cuisine, une librairie qui vend des livres au poids et des bars.
+733|Le samedi midi, l'ambiance est très animée.
+734|Un marché de quartier traditionnel, avec fruits, poissons et quelques bars à l'intérieur.
+735|Le samedi midi, certains stands servent fruits de mer et vin.
+736|Un marché élégant du quartier de Salamanca, avec fromages, jambons et la tortilla de Casa Dani.
+737|Goûtez la tortilla de Casa Dani, l'une des plus célèbres de Madrid.
+738|Un marché de quartier rénové, avec des stands de plusieurs chefs connus.
+739|Idéal pour déjeuner un samedi comme les Madrilènes.
+740|Le plus grand marché municipal de Madrid, avec des produits d'Espagne et d'Amérique latine.
+741|Pour voir un vrai marché, loin des touristes.
+742|La rue des marques de luxe et des boutiques de mode espagnoles, dans le quartier de Salamanca.
+743|Parcourez-la depuis la Puerta de Alcalá vers le nord.
+744|Une rue piétonne aux boutiques de mode jeune, qui relie la Gran Vía à Malasaña et Chueca.
+745|Bifurquez dans les rues de Malasaña pour les friperies.
+746|La rue piétonne la plus commerçante de Madrid, entre Sol et Callao, avec les grandes enseignes.
+747|Presque tout ouvre aussi le dimanche.
+748|Les grands magasins d'Espagne, avec une aire de restauration au dernier étage donnant sur la Gran Vía.
+749|Montez au dernier étage même sans rien acheter : la vue est superbe.
+750|Une galerie de boutiques de luxe et une halle gourmande dans des bâtiments historiques restaurés.
+751|L'aire de restauration du sous-sol est plus abordable.
+752|Une rue en pente bordée de cabanes en bois vendant des livres d'occasion depuis 1925, près du Retiro.
+753|Cherchez de vieilles éditions et des gravures. Un point d'information touristique se trouve dans la première cabane.
+754|La plus grande librairie de Madrid, sur plusieurs étages sur la Gran Vía.
+755|Il y a un rayon de livres en langues étrangères.
+756|Boutique traditionnelle
+757|Une boutique de 1858 d'éventails, châles et parapluies faits main.
+758|Un éventail peint à la main est un bon souvenir de Madrid.
+759|Le plus ancien tailleur de capes espagnoles du monde, de 1901, qui habilla Picasso.
+760|Même sans acheter, entrez voir les capes.
+761|Une boutique de céramique espagnole peinte à la main, à la façade couverte d'azulejos.
+762|Pour de petits cadeaux, cherchez les azulejos à l'unité.
+763|Une confiserie de 1855 célèbre pour ses tourons artisanaux.
+764|En décembre, on fait la queue pour le touron.
+765|Un outlet en plein air avec des marques de mode à prix réduits, à une demi-heure de Madrid.
+766|Il y a des cars directs depuis le centre.
+767|Le stade du Real Madrid, rénové et couvert, avec visite du musée des trophées, des vestiaires et de la pelouse.
+768|La visite s'achète sur son site. Pour un match, achetez uniquement sur le site officiel du club.
+769|Le stade moderne de l'Atlético de Madrid, avec visite des vestiaires et du musée.
+770|On y va en métro, ligne 7 (Estadio Metropolitano).
+771|Le terrain du Rayo Vallecano, un stade de quartier aux supporters très populaires.
+772|Les billets sont plus faciles à obtenir que chez les grands clubs.
+773|La salle couverte où joue le Real Madrid de basket et où se produisent les grands groupes.
+774|Le stade de tennis où se joue le Mutua Madrid Open, en avril et mai.
+775|Achetez les billets sur le site officiel du tournoi.
+776|Un circuit de 64 kilomètres pour vélo et course à pied qui fait le tour de la ville à travers des parcs.
+777|Faites un tronçon en BiciMAD ou avec un vélo de location.
+778|Un hippodrome de 1941 à la célèbre tribune en béton. Les courses ont lieu au printemps et à l'automne.
+779|Les dimanches de courses, l'ambiance est familiale.
+780|L'opéra de Madrid, face au Palais royal, avec l'une des meilleures saisons d'Europe.
+781|Il y a des visites guidées en journée. Les places bon marché des étages supérieurs partent vite.
+782|Le théâtre de la zarzuela, l'opérette espagnole, de 1856.
+783|Une bonne façon de découvrir un genre très madrilène.
+784|La grande salle de concerts de musique classique de Madrid.
+785|L'un des grands théâtres de comédies musicales de la Gran Vía.
+786|Achetez sur le site officiel du théâtre.
+787|Un théâtre Art déco de 1932 sur la Gran Vía, avec de grandes comédies musicales.
+788|Le plus ancien théâtre de Madrid, sur un « corral de comedias » du XVIe siècle, place Santa Ana.
+789|Consultez l'affiche sur son site.
+790|Le cirque permanent de Madrid, avec du cirque contemporain et des spectacles pour enfants.
+791|À Noël, ils proposent un spectacle spécial très populaire.
+792|La Cinémathèque espagnole dans un cinéma Art nouveau de 1923, avec des classiques en VO très bon marché.
+793|En été, il y a du cinéma en terrasse.
+794|Un cinéma historique de 1926 aux écrans géants en façade, sur la place de Callao.
+795|Presque tous les films sont doublés en espagnol.
+796|Un cinéma qui projette des films en VO sous-titrée.
+797|Une bonne option pour voir des films en version originale.
+798|Un parc d'attractions avec montagnes russes et un espace pour les petits, dans la Casa de Campo.
+799|Ouvert selon la saison : consultez son site. Métro Batán (ligne 10).
+800|Le zoo et l'aquarium de la ville, avec des animaux du monde entier, des dauphins et des oiseaux.
+801|Achetez le billet en ligne. Combinez-le avec le parc d'attractions.
+802|Un parc à thème sur les animaux et la nature, avec manchots, jungle tropicale et ferme.
+803|Métro Valdebernardo (ligne 9).
+804|Dinosaures, minéraux et animaux, avec un squelette de mégathérium qui fascine les enfants.
+805|Locomotives à vapeur et trains anciens dans une gare en fer de 1880.
+806|Certains week-ends, un marché de créateurs s'installe sous la halle.
+807|Des séances sous la coupole pour découvrir le ciel, dans le parc Tierno Galván.
+808|Les séances sont en espagnol.
+809|Des figures de cire de célébrités, de personnages historiques et de cinéma.
+810|Idéal pour un jour de pluie avec des enfants.
+811|Churrería
+812|Le meilleur sans dépenser en billets. Touchez chaque étape pour voir le détail.
+813|Une journée pensée pour les enfants. Touchez chaque étape pour voir le détail.
+814|Ville de Madrid : toutes les activités et tous les événements
