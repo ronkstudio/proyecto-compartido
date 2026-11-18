@@ -89,6 +89,11 @@ function Slug($s) {
   if (-not $s) { $s = "activitat" }
   return $s
 }
+# PowerShell 7 (el de GitHub) convierte solo las fechas del JSON en DateTime; PowerShell 5.1 las deja como texto.
+function Dia($v) {
+  if ($v -is [DateTime]) { return $v.Date }
+  return [DateTime]::ParseExact(([string]$v).Substring(0, 10), "yyyy-MM-dd", $inv)
+}
 function Utc($dia, $hhmm) {
   $local = [DateTime]::ParseExact($dia.ToString("yyyy-MM-dd", $inv) + " " + $hhmm, "yyyy-MM-dd HH:mm", $inv)
   return [TimeZoneInfo]::ConvertTimeToUtc([DateTime]::SpecifyKind($local, [DateTimeKind]::Unspecified), $tz)
@@ -104,8 +109,8 @@ foreach ($e in $eventos) {
   $titulo = ((Limpiar $e.name) -replace "\*\s*NOU\s*\*", "").Trim()
   if (-not $titulo -or $titulo -match "^(Taller|Tallers|Curs|Cursos)\b") { continue }
   if (-not $e.start_date -or -not $e.end_date) { continue }
-  $ini = [DateTime]::ParseExact(([string]$e.start_date).Substring(0, 10), "yyyy-MM-dd", $inv)
-  $finF = [DateTime]::ParseExact(([string]$e.end_date).Substring(0, 10), "yyyy-MM-dd", $inv)
+  $ini = Dia $e.start_date
+  $finF = Dia $e.end_date
   $serie = (($finF - $ini).TotalDays -ge 7)
   # Filas de la tabla de horarios: día, hora y precio.
   $filas = @()
