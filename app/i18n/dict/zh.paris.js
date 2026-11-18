@@ -172,7 +172,6 @@ Object.assign(window.I18N_FULL = window.I18N_FULL || {}, {
 "Edificios oficiales y lugares que suelen estar cerrados abren gratis al público.": "政府建筑和平时不开放的地方免费向公众开放。",
 "Fiesta de la Vendimia de Montmartre": "蒙马特葡萄收获节",
 "Celebra la cosecha del viñedo de Montmartre con desfiles, puestos y fuegos artificiales.": "以游行、摊位和烟花庆祝蒙马特葡萄园的收获。",
-"Fines de noviembre a enero": "11月底至1月",
 "Luces de Navidad": "圣诞灯饰",
 "Iluminación de los Campos Elíseos y de las grandes tiendas del bulevar Haussmann, con sus vidrieras animadas.": "香榭丽舍大街的灯饰，以及奥斯曼大道百货公司的动态橱窗。",
 "Puestos con vino caliente, comida y artesanías en varias plazas y jardines de la ciudad.": "城中多个广场和花园有热红酒、美食和手工艺品摊位。",

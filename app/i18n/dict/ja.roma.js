@@ -454,7 +454,6 @@ Object.assign(window.I18N_FULL = window.I18N_FULL || {}, {
 "Queda entre Piazza del Popolo y Plaza de España.": "ポポロ広場とスペイン広場の間。",
 "Kilómetros de galerías subterráneas donde se enterraban los primeros cristianos, entre ellos varios papas.": "何人もの教皇を含む初期キリスト教徒が葬られた、何キロも続く地下回廊。",
 "Solo con visita guiada, que sale seguido y hay en castellano. Llevá abrigo: abajo hace frío.": "ガイドツアーのみで、頻繁に出発しスペイン語もあります。地下は寒いので上着を。",
-"religión": "宗教",
 "Catacumbas con tumbas romanas pintadas y una basílica encima, sobre la Vía Apia.": "彩色されたローマの墓室と、上にバシリカがあるカタコンベ。アッピア街道沿い。",
 "Visita guiada obligatoria. Combinala con un paseo en bici por la Vía Apia.": "ガイドツアー必須。アッピア街道のサイクリングと組み合わせて。",
 "Las catacumbas más extensas de Roma, con una basílica subterránea del siglo IV.": "ローマ最大規模のカタコンベ。4世紀の地下バシリカがあります。",

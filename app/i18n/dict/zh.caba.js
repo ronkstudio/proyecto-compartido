@@ -616,7 +616,6 @@ Object.assign(window.I18N_FULL = window.I18N_FULL || {}, {
 "Cocina porteña-española de las de antes.": "老派的布宜诺斯艾利斯西班牙菜。",
 "Muy concurrido los fines de semana.": "周末人非常多。",
 "Las empanadas de carne picante son las más pedidas.": "辣味牛肉恩潘纳达最受欢迎。",
-"Siempre hay fila, pero avanza rápido.": "总是要排队，但很快。",
 "Para comer al paso.": "适合随便吃点。",
 "Para evitar la fila, andá temprano por la mañana. Chocolate con churros.": "想避开排队就一早去。热巧克力配吉事果。",
 "El té María Cala alcanza para tres personas.": "“María Cala”下午茶够三个人吃。",

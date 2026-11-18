@@ -454,7 +454,6 @@ Object.assign(window.I18N_FULL = window.I18N_FULL || {}, {
 "Queda entre Piazza del Popolo y Plaza de España.": "Tra piazza del Popolo e Piazza di Spagna.",
 "Kilómetros de galerías subterráneas donde se enterraban los primeros cristianos, entre ellos varios papas.": "Chilometri di gallerie sotterranee dove venivano sepolti i primi cristiani, tra cui diversi papi.",
 "Solo con visita guiada, que sale seguido y hay en castellano. Llevá abrigo: abajo hace frío.": "Solo con visita guidata, che parte spesso ed esiste anche in spagnolo. Porta una giacca: sotto fa freddo.",
-"religión": "religione",
 "Catacumbas con tumbas romanas pintadas y una basílica encima, sobre la Vía Apia.": "Catacombe con tombe romane dipinte e una basilica sopra, sulla Via Appia.",
 "Visita guiada obligatoria. Combinala con un paseo en bici por la Vía Apia.": "Visita guidata obbligatoria. Abbinala a un giro in bici sulla Via Appia.",
 "Las catacumbas más extensas de Roma, con una basílica subterránea del siglo IV.": "Le catacombe più estese di Roma, con una basilica sotterranea del IV secolo.",

@@ -616,7 +616,6 @@ Object.assign(window.I18N_FULL = window.I18N_FULL || {}, {
 "Cocina porteña-española de las de antes.": "Cozinha portenho-espanhola das antigas.",
 "Muy concurrido los fines de semana.": "Muito concorrido nos fins de semana.",
 "Las empanadas de carne picante son las más pedidas.": "As empanadas de carne picante são as mais pedidas.",
-"Siempre hay fila, pero avanza rápido.": "Sempre há fila, mas anda rápido.",
 "Para comer al paso.": "Para comer rapidinho.",
 "Para evitar la fila, andá temprano por la mañana. Chocolate con churros.": "Para evitar a fila, vá cedo de manhã. Chocolate quente com churros.",
 "El té María Cala alcanza para tres personas.": "O chá María Cala dá para três pessoas.",

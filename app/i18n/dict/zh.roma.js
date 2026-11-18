@@ -454,7 +454,6 @@ Object.assign(window.I18N_FULL = window.I18N_FULL || {}, {
 "Queda entre Piazza del Popolo y Plaza de España.": "位于人民广场和西班牙广场之间。",
 "Kilómetros de galerías subterráneas donde se enterraban los primeros cristianos, entre ellos varios papas.": "数公里长的地下通道，早期基督徒包括几位教宗都安葬在这里。",
 "Solo con visita guiada, que sale seguido y hay en castellano. Llevá abrigo: abajo hace frío.": "只能跟随导览参观，场次很多，也有西班牙语导览。带件外套：下面很冷。",
-"religión": "宗教",
 "Catacumbas con tumbas romanas pintadas y una basílica encima, sobre la Vía Apia.": "有彩绘罗马墓室的地下墓穴，上方是一座圣殿，位于亚壁古道上。",
 "Visita guiada obligatoria. Combinala con un paseo en bici por la Vía Apia.": "必须跟随导览。可以和亚壁古道骑行一起安排。",
 "Las catacumbas más extensas de Roma, con una basílica subterránea del siglo IV.": "罗马规模最大的地下墓穴，有一座4世纪的地下圣殿。",
