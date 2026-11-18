@@ -1011,7 +1011,6 @@ Object.assign(window.I18N_FULL = window.I18N_FULL || {}, {
 "A la entrada hay un plano con las tumbas conocidas. Al lado está la casa de Brecht.": "At the entrance there's a map with the well-known graves. Brecht's house is next door.",
 "Lo único que queda de la que fue la estación más grande de Berlín: un pedazo de fachada que sobrevivió a la guerra.": "All that's left of what was once Berlin's biggest station: a piece of façade that survived the war.",
 "Queda a dos cuadras de la Topografía del Terror y del Museo Alemán de la Técnica.": "It's two blocks from the Topography of Terror and the German Museum of Technology.",
-"guerra": "war",
 "Una fortaleza del Renacimiento rodeada de agua, una de las mejor conservadas de Europa, con museos y la torre medieval Juliusturm.": "A Renaissance fortress surrounded by water, one of the best preserved in Europe, with museums and the medieval Julius Tower.",
 "Llegás con el U7 hasta Zitadelle. En verano hay conciertos al aire libre en el patio.": "Take the U7 to Zitadelle. In summer there are open-air concerts in the courtyard.",
 "El palacio blanco del siglo XVIII donde vive y trabaja el presidente de Alemania, en el borde del Tiergarten.": "The white 18th-century palace where the President of Germany lives and works, at the edge of the Tiergarten.",

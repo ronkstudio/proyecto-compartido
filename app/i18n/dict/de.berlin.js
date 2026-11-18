@@ -1011,7 +1011,6 @@ Object.assign(window.I18N_FULL = window.I18N_FULL || {}, {
 "A la entrada hay un plano con las tumbas conocidas. Al lado está la casa de Brecht.": "Am Eingang gibt es einen Plan mit den bekannten Gräbern. Nebenan steht das Brecht-Haus.",
 "Lo único que queda de la que fue la estación más grande de Berlín: un pedazo de fachada que sobrevivió a la guerra.": "Das Einzige, was vom einst größten Bahnhof Berlins übrig ist: ein Stück Fassade, das den Krieg überstanden hat.",
 "Queda a dos cuadras de la Topografía del Terror y del Museo Alemán de la Técnica.": "Zwei Blocks von der Topographie des Terrors und dem Deutschen Technikmuseum entfernt.",
-"guerra": "Krieg",
 "Una fortaleza del Renacimiento rodeada de agua, una de las mejor conservadas de Europa, con museos y la torre medieval Juliusturm.": "Eine Renaissancefestung, umgeben von Wasser, eine der besterhaltenen Europas, mit Museen und dem mittelalterlichen Juliusturm.",
 "Llegás con el U7 hasta Zitadelle. En verano hay conciertos al aire libre en el patio.": "Mit der U7 bis Zitadelle. Im Sommer gibt es Open-Air-Konzerte im Hof.",
 "El palacio blanco del siglo XVIII donde vive y trabaja el presidente de Alemania, en el borde del Tiergarten.": "Das weiße Schloss aus dem 18. Jahrhundert, in dem der deutsche Bundespräsident wohnt und arbeitet, am Rand des Tiergartens.",

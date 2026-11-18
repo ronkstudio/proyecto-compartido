@@ -1011,7 +1011,6 @@ Object.assign(window.I18N_FULL = window.I18N_FULL || {}, {
 "A la entrada hay un plano con las tumbas conocidas. Al lado está la casa de Brecht.": "入口处有标出名人墓地的地图。旁边就是布莱希特故居。",
 "Lo único que queda de la que fue la estación más grande de Berlín: un pedazo de fachada que sobrevivió a la guerra.": "曾是柏林最大火车站的唯一遗迹：一段在战争中幸存的立面。",
 "Queda a dos cuadras de la Topografía del Terror y del Museo Alemán de la Técnica.": "离恐怖地形图和德国技术博物馆只有两个街区。",
-"guerra": "战争",
 "Una fortaleza del Renacimiento rodeada de agua, una de las mejor conservadas de Europa, con museos y la torre medieval Juliusturm.": "被水环绕的文艺复兴式要塞，欧洲保存最完好的要塞之一，内有博物馆和中世纪的尤利乌斯塔。",
 "Llegás con el U7 hasta Zitadelle. En verano hay conciertos al aire libre en el patio.": "乘U7到Zitadelle站。夏天庭院里有露天音乐会。",
 "El palacio blanco del siglo XVIII donde vive y trabaja el presidente de Alemania, en el borde del Tiergarten.": "18世纪的白色宫殿，德国总统在此居住和办公，位于蒂尔加滕公园边上。",

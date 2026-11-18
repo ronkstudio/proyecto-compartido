@@ -121,7 +121,7 @@
     hoyNota: "⭐ Destacados de la semana. 📅 Agenda oficial del Ayuntamiento de Madrid. Confirmá en su página antes de ir.",
     agendas: [
       ["📰", "esMadrid: la agenda de la ciudad", "https://www.esmadrid.com/agenda-madrid"],
-      ["🎭", "Madrid Cultura: teatros y centros culturales municipales", "https://www.madrid.es/portales/munimadrid/es/Inicio/Cultura-ocio-y-deporte/Cultura-y-ocio"]
+      ["🎭", "Ayuntamiento de Madrid: todas las actividades y eventos", "https://www.madrid.es/portales/munimadrid/es/Inicio/Actualidad/Actividades-y-eventos/?vgnextfmt=default&vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD"]
     ],
     /* Tu vuelo: pantallas de check-in (las mismas que se revisaron para las otras ciudades). */
     aerolineas: [
