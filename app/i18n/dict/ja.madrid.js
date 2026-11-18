@@ -715,7 +715,11 @@ Object.assign(window.I18N_FULL = window.I18N_FULL || {}, {
 "Funciones bajo la cúpula para ver el cielo, en el parque Tierno Galván.": "ティエルノ・ガルバン公園のドームで星空のプログラム。",
 "Las funciones son en castellano.": "上演はスペイン語。",
 "Figuras de cera de famosos, personajes de la historia y del cine.": "有名人、歴史上の人物、映画のキャラクターの蝋人形。",
-"Lo mejor sin gastar en entradas. Tocá cada parada para ver el detalle.": "入場料をかけずに楽しむベストプラン。各スポットをタップして詳細を。",
-"Un día pensado para chicos. Tocá cada parada para ver el detalle.": "子ども向けの1日プラン。各スポットをタップして詳細を。",
-"Ayuntamiento de Madrid: todas las actividades y eventos": "マドリード市：すべてのイベントと催し"
+"Ayuntamiento de Madrid: todas las actividades y eventos": "マドリード市：すべてのイベントと催し",
+"Cocina vegana con platos de siempre, en una calle tranquila entre La Latina y Lavapiés.": "ラ・ラティーナとラバピエスの間の静かな通りで、定番料理のヴィーガン版。",
+"Un bar vegano con tapas y platos para compartir, cerca del Reina Sofía.": "ソフィア王妃芸術センター近くのヴィーガンバー。タパスとシェア料理。",
+"Cocina vegana de mercado en el barrio de Conde Duque.": "コンデ・ドゥケ地区の、市場の食材を使ったヴィーガン料理。",
+"Cocina vegana de autor, a pasos de la Gran Vía.": "グラン・ビアのすぐ近くで創作ヴィーガン料理。",
+"Una panadería y pastelería sin gluten en el barrio de Salamanca.": "サラマンカ地区のグルテンフリーのパン屋兼菓子店。",
+"Panadería y pastelería sin gluten en Chamberí.": "チャンベリのグルテンフリーのパン屋兼菓子店。"
 });

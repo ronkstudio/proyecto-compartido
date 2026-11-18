@@ -67,3 +67,9 @@ De dónde sale cada dato de Madrid en la guía. Revisado entre el 17 y el 18/11/
 
 - Europcar, Hertz, Avis, Sixt, Enterprise y Centauro: cada web se abrió el 17/11/2026 (Enterprise bloquea a los programas, pero abre en el navegador).
 - Zona de bajas emisiones en toda la ciudad y restricción del Distrito Centro: madrid.es (Madrid 360). Dicho de forma general, sin detalles de etiquetas.
+
+## Dietas y fotos nuevas (tarjeta #198, 18/11/2026)
+
+- **Veganos:** La Encomienda, Santa y Pura, Frutas Prohibidas y VEGA (calle de la Luna). Los cuatro figuran en OpenStreetMap con `diet:vegan=only`, y su web dice que la cocina es vegana.
+- **Sin TACC:** Sana Locura y LEON The Baker. Las dos figuran en OpenStreetMap con `diet:gluten_free=only`, y su web lo dice. No se encontró un tercero con fuente: Celicioso no respondió.
+- **Fotos:** 14 más, buscadas por el local en OpenStreetMap y por fotos de Commons sacadas a menos de 150 m que nombran el lugar. Se miraron una por una y se sacaron 2: un tapiz en lugar de la Real Fábrica de Tapices y un retrato en lugar del Teatro Real.

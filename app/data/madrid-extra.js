@@ -31,9 +31,13 @@ window.CITY_EXTRA.madrid = {
   },
   awards: {},
 
-  /* Dietas. Solo con fuente. Todavía no se cargó ninguna en Madrid. */
-  diet: {},
-  dietFull: [],
+  /* Dietas. Solo con fuente: OpenStreetMap ("diet:vegan=only" o "diet:gluten_free=only", 18/11/2026) y la web de cada local, que lo dice
+     (revisadas el 18/11/2026, tarjeta #198). Detalle en docs/fuentes-madrid.md. */
+  diet: {
+    "la-encomienda": ["vegano", "vegetariano"], "santa-y-pura": ["vegano", "vegetariano"], "frutas-prohibidas": ["vegano", "vegetariano"], "vega": ["vegano", "vegetariano"],
+    "sana-locura": ["sin TACC"], "leon-the-baker": ["sin TACC"]
+  },
+  dietFull: ["la-encomienda", "santa-y-pura", "frutas-prohibidas", "vega", "sana-locura", "leon-the-baker"],
 
   /* Días que abren o cierran (0 = domingo … 6 = sábado). Solo los días fijos y conocidos; pueden cambiar en feriados. */
   only: {
@@ -159,6 +163,19 @@ window.CITY_EXTRA.madrid = {
   /* Fotos (tarjeta #191): foto principal de cada lugar en Wikidata, de Wikimedia Commons con licencia libre,
      aceptada solo si el elemento de Wikidata está a menos de 1,5 km del lugar (15 km las excursiones). Revisadas en el navegador el 18/11/2026. */
   photos: {
+    "edificio-metropolis": "e/ec/Edificio_Metrópolis,_calle_de_Alcalá,_Madrid,_España,_2017-05-18,_DD_08.jpg",
+    "plaza-de-espana": "7/72/007233_-_Madrid_(8666752396).jpg",
+    "palacio-de-cristal": "a/ae/023_Palacio_de_Cristal,_Parque_del_Retiro_(Madrid),_nau_sud.jpg",
+    "la-bola": "c/cf/Cocido_-_panoramio.jpg",
+    "taberna-antonio-sanchez": "5/55/Taberna_de_Antonio-Sánchez-2009.jpg",
+    "bodega-de-la-ardosa": "e/eb/Bodega_de_La_Ardosa_(Sta_Engracia_70,_Madrid)_01.jpg",
+    "mandarin-oriental-ritz": "0/0b/Hotel_Ritz_(Madrid)_03.jpg",
+    "rosewood-villa-magna": "7/76/Hotel_Villa_Magna_(Madrid)_01.jpg",
+    "el-rastro": "c/c8/Rastro_de_Madrid_(España)_7.jpg",
+    "riyadh-air-metropolitano": "0/05/Wanda-Metropolitano.jpg",
+    "faunia": "9/98/Faunia_entrada.jpg",
+    "cava-baja": "0/0b/Cava_Baja,_Madrid_(6146188051).jpg",
+    "hola-coffee": "c/ce/Hola_Coffee_(45813120745).jpg",
     "alcala-de-henares": "0/0f/Alcalá_de_Henares_-_50913617211.jpg",
     "aranjuez": "8/85/Aranjuez_PalacioReal_PlazaToros.jpg",
     "auditorio-nacional-de-musica": "f/f4/Madrid_Auditorio_de_musica.jpg",

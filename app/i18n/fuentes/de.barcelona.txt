@@ -818,3 +818,158 @@
 818|römisch
 819|Touren
 820|Reisen
+821|Kreative vegane Küche in einer Gasse in Gràcia.
+822|Fragen Sie vor Ort nach, wenn Sie Allergien haben.
+823|Bunte vegane und glutenfreie Küche im Eixample.
+824|Ein zu 100 % veganes Restaurant im Eixample mit glutenfreien Optionen.
+825|Veganes Sushi und japanische Küche am Fuß des Montjuïc.
+826|Eine zu 100 % glutenfreie Pizzeria in Gràcia.
+827|Fragen Sie vor Ort, wie Kreuzkontamination vermieden wird.
+828|Sushi und japanische Küche zu 100 % glutenfrei, nahe der Sagrada Família.
+829|Glutenfreie Bäckerei und Konditorei in Gràcia.
+830|Alles, was du brauchst, um die Stadt zu entdecken
+831|Einkaufen und Märkte
+832|Multikulturell und alternativ
+833|Eher zum Spazieren als zum Übernachten.
+834|Tag 1 · Vormittag
+835|Tag 1 · Mittag
+836|Tag 1 · Nachmittag
+837|Tag 1 · Abend
+838|Tag 2 · Vormittag
+839|Reservieren.
+840|Tag 2 · Mittag
+841|Tag 2 · Nachmittag
+842|Tag 2 · Abend
+843|Tag 3 · Vormittag
+844|Tag 3 · Mittag
+845|Tag 3 · Nachmittag
+846|Tag 3 · Abend
+847|Regentag
+848|Mittagessen unter Dach.
+849|Das Beste, ohne für Eintritte zu zahlen.
+850|Ein Tag für Kinder.
+851|Achtung am Flughafen
+852|Metro
+853|So findest du dich zurecht
+854|Jede Richtung ist nach der Endstation benannt. Folge den Schildern mit Liniennummer und Name dieser Endstation.
+855|Bahnhöfe
+856|Schnellzüge
+857|Vor dem Einsteigen
+858|Bei Schnellzügen geht das Gepäck durch eine Kontrolle wie am Flughafen. Komm etwas früher.
+859|Offizielle Taxis
+860|Zu Fuß und mit dem Rad
+861|Notruf (europaweite Nummer)
+862|Gewalt gegen Frauen
+863|Am häufigsten: Taschendiebe
+864|Gegenden, in denen du aufmerksam sein solltest
+865|Wenn dein Pass gestohlen wird, geh nach der Anzeige zu deinem Konsulat: Sie sind auf der Karte unter Info > Hilfe.
+866|Schließ eine Reiseversicherung ab: Die Notfallversorgung ist gut, kann ohne Versicherung aber teuer werden.
+867|Euro (EUR).
+868|Werden fast überall akzeptiert, auch kontaktlos und per Handy, selbst bei kleinen Beträgen. Etwas Bargeld für Märkte und kleine Bars ist praktisch.
+869|Geldautomaten
+870|Nutze Bankautomaten. Viele berechnen ausländischen Karten eine Gebühr: Der Bildschirm zeigt sie vor dem Abheben. Wird deine Währung angeboten, wähle immer Euro.
+871|Es ist nicht Pflicht und wird weniger erwartet als anderswo. Man rundet auf oder lässt ein paar Münzen bei gutem Service.
+872|Kurtaxe
+873|Das Menú del día (Mittagsmenü)
+874|Mittags von Montag bis Freitag haben viele Restaurants ein festes Menü mit Vorspeise, Hauptgang, Dessert oder Kaffee und Getränk. Die günstigste Art, gut zu essen.
+875|Der Wermut
+876|Frühling (Apr–Jun)
+877|Sommer (Jul–Aug)
+878|Herbst (Sep–Nov)
+879|Winter (Dez–Mär)
+880|230 V. Steckdosen Typ C und F (zwei runde Stifte). Aus Argentinien: Adapter mitnehmen.
+881|Für mobile Daten ist eine eSIM oder eine lokale SIM-Karte am einfachsten.
+882|Apotheken haben ein grünes Kreuz. Notfälle: 112.
+883|In der Bar
+884|Keine Station in der Nähe: besser zu Fuß oder mit dem Bus
+885|Tapas
+886|Günstige Prepaid-SIM, erhältlich in Callshops und Kiosken
+887|In Spanien brauchst du zum Aktivieren einer SIM den Reisepass.
+888|Viele Bars und Museen haben kostenloses WLAN.
+889|Mit Karte kannst du fast alles bezahlen, auch kontaktlos.
+890|Viele Automaten berechnen ausländischen Karten eine Gebühr: Der Bildschirm zeigt sie vorher. Ist sie hoch, probier eine andere Bank.
+891|Wenn der Automat oder das Kartenlesegerät anbietet, in deiner Währung abzurechnen, wähle die Zahlung in Euro.
+892|Metrolinien
+893|Metro, Busse, Taxis
+894|Wenn dein Führerschein nicht aus der EU ist, nimm auch den Internationalen Führerschein mit: Manche Vermieter und die Polizei verlangen ihn.
+895|Viele spanische Autobahnen sind kostenlos (Autovías); Mautstrecken zahlst du mit Karte an den Stationen.
+896|Routen mit Metro, Bus und Zug, mit Live-Zeiten.
+897|Fahrdienste, mit geschätztem Preis.
+898|Schnell- und Regionalzüge in ganz Spanien: Fahrpläne, Tickets und Verspätungen.
+899|Günstige Schnellzüge in Spaniens Großstädte.
+900|Zum Essen
+901|Restaurantreservierungen, manchmal mit Rabatt.
+902|Essenslieferung.
+903|Gesperrte Linien, Bauarbeiten und Streiks (huelga), live.
+904|Umleitungen wegen Bauarbeiten, Demos und Veranstaltungen.
+905|Streiks (huelga) und Demos in den heutigen Nachrichten.
+906|Um ein kleines Bier vom Fass zu bestellen
+907|Touristeninformation
+908|Infos gleich nach der Ankunft.
+909|Argentinien · Generalkonsulat
+910|Uruguay · Generalkonsulat
+911|Chile · Generalkonsulat
+912|Brasilien · Generalkonsulat
+913|Kolumbien · Generalkonsulat
+914|Peru · Generalkonsulat
+915|Bolivien · Generalkonsulat
+916|Ecuador · Generalkonsulat
+917|Venezuela · Generalkonsulat
+918|Italien · Generalkonsulat
+919|Frankreich · Generalkonsulat
+920|Tapas-Tour
+921|3 Tapasbars
+922|Wermut
+923|glutenfrei
+924|Steckeradapter Typ C oder F (230 V)
+925|Aussichtspunkte
+926|Markthallen zum Essen
+927|Cocktailbar
+928|Tagesausflüge
+929|5. Januar
+930|Dreikönigsumzug
+931|Karwoche
+932|31. Dezember
+933|Silvester
+934|Geöffnet und geschlossen.
+935|Die Toilette, in Bars und öffentlichen Orten.
+936|Spanische Wörter, die du kennen solltest
+937|Coger
+938|Nehmen: coger el metro, coger un taxi. In Spanien ein ganz normales Wort.
+939|Vale
+940|Okay, einverstanden. Du hörst es ständig.
+941|Móvil · Coche · Billete
+942|Handy, Auto und Fahrkarte (für Metro, Zug oder Flugzeug).
+943|Aseos · Servicios
+944|Caña
+945|Ein kleines Glas Bier vom Fass.
+946|Ración · Media ración
+947|Ein Teller zum Teilen oder die Hälfte davon.
+948|Zumo · Patata · Melocotón
+949|Saft, Kartoffel und Pfirsich.
+950|Huelga
+951|Streik: Wenn du das im Nahverkehr siehst, prüf, wie du an dem Tag unterwegs bist.
+952|Ruf die 112 an. Große öffentliche Krankenhäuser haben rund um die Uhr eine Notaufnahme.
+953|Sie haben ein grünes Kreuz. Nachts und sonntags gibt es Notdienst-Apotheken: Der Aushang hängt an jeder Apothekentür.
+954|Sehr empfehlenswert: Ohne Versicherung kann die Behandlung teuer werden.
+955|Der Reiseführer enthält nur Orte mit dauerhaft gutem Ruf: offizielle Auszeichnungen, anerkannte Führer und gute Übereinstimmung in öffentlichen Bewertungen.
+956|Montags geschlossen.
+957|Platz
+958|Historisches Café
+959|Churros-Café
+960|Café und Konditorei
+961|Bar mit Terrasse
+962|Flamenco
+963|Praktisch, wenn du wenig Zeit hast oder schlecht zu Fuß bist.
+964|Bootsfahrt
+965|Stadt und Dorf
+966|Freizeitpark
+967|Es gibt Privatzimmer und Schlafsäle.
+968|Kaufhäuser
+969|Traditionsgeschäft
+970|Feinkost und Delikatessen
+971|Buchhandlung
+972|Oper und Konzerte
+973|Ein Kino mit Filmen in Originalfassung mit Untertiteln.
+974|Gut, um Filme in Originalsprache zu sehen.
+975|Ideal für einen Regentag mit Kindern.

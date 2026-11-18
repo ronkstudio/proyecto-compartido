@@ -887,3 +887,8 @@
 887|Prezzo medio (a notte)
 888|Caro (a notte)
 889|Fascia alta (a notte)
+890|Il meglio senza spendere in biglietti. Tocca ogni tappa per vedere i dettagli.
+891|Tutto al coperto e vicino. Tocca ogni tappa per vedere i dettagli.
+892|Una giornata pensata per i bambini. Tocca ogni tappa per vedere i dettagli.
+893|Una bella giornata senza pagare biglietti. Tocca ogni tappa per vedere i dettagli.
+894|♥ Salva tutto in Il mio viaggio

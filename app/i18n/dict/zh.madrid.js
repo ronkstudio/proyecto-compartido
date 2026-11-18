@@ -715,7 +715,11 @@ Object.assign(window.I18N_FULL = window.I18N_FULL || {}, {
 "Funciones bajo la cúpula para ver el cielo, en el parque Tierno Galván.": "在蒂耶尔诺·加尔万公园的穹顶下看星空。",
 "Las funciones son en castellano.": "节目用西班牙语。",
 "Figuras de cera de famosos, personajes de la historia y del cine.": "名人、历史人物和电影角色的蜡像。",
-"Lo mejor sin gastar en entradas. Tocá cada parada para ver el detalle.": "不花门票钱的精华行程。点每一站查看详情。",
-"Un día pensado para chicos. Tocá cada parada para ver el detalle.": "为孩子设计的一天。点每一站查看详情。",
-"Ayuntamiento de Madrid: todas las actividades y eventos": "马德里市政府：所有活动"
+"Ayuntamiento de Madrid: todas las actividades y eventos": "马德里市政府：所有活动",
+"Cocina vegana con platos de siempre, en una calle tranquila entre La Latina y Lavapiés.": "拉拉蒂纳和拉瓦皮耶斯之间一条安静街道上的纯素料理，做传统菜式。",
+"Un bar vegano con tapas y platos para compartir, cerca del Reina Sofía.": "索菲亚王后艺术中心附近的纯素酒吧，有小吃和分享菜。",
+"Cocina vegana de mercado en el barrio de Conde Duque.": "孔德杜克街区的应季纯素料理。",
+"Cocina vegana de autor, a pasos de la Gran Vía.": "离格兰大道几步的创意纯素料理。",
+"Una panadería y pastelería sin gluten en el barrio de Salamanca.": "萨拉曼卡区的无麸质面包糕点店。",
+"Panadería y pastelería sin gluten en Chamberí.": "钱贝里的无麸质面包糕点店。"
 });

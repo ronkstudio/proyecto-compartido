@@ -715,7 +715,11 @@ Object.assign(window.I18N_FULL = window.I18N_FULL || {}, {
 "Funciones bajo la cúpula para ver el cielo, en el parque Tierno Galván.": "Spettacoli sotto la cupola per osservare il cielo, nel parco Tierno Galván.",
 "Las funciones son en castellano.": "Gli spettacoli sono in spagnolo.",
 "Figuras de cera de famosos, personajes de la historia y del cine.": "Statue di cera di famosi, personaggi storici e del cinema.",
-"Lo mejor sin gastar en entradas. Tocá cada parada para ver el detalle.": "Il meglio senza spendere in biglietti. Tocca ogni tappa per i dettagli.",
-"Un día pensado para chicos. Tocá cada parada para ver el detalle.": "Una giornata pensata per i bambini. Tocca ogni tappa per i dettagli.",
-"Ayuntamiento de Madrid: todas las actividades y eventos": "Comune di Madrid: tutte le attività e gli eventi"
+"Ayuntamiento de Madrid: todas las actividades y eventos": "Comune di Madrid: tutte le attività e gli eventi",
+"Cocina vegana con platos de siempre, en una calle tranquila entre La Latina y Lavapiés.": "Cucina vegana con piatti tradizionali, in una via tranquilla tra La Latina e Lavapiés.",
+"Un bar vegano con tapas y platos para compartir, cerca del Reina Sofía.": "Un bar vegano con tapas e piatti da condividere, vicino al Reina Sofía.",
+"Cocina vegana de mercado en el barrio de Conde Duque.": "Cucina vegana di mercato nel quartiere di Conde Duque.",
+"Cocina vegana de autor, a pasos de la Gran Vía.": "Cucina vegana d'autore, a due passi dalla Gran Vía.",
+"Una panadería y pastelería sin gluten en el barrio de Salamanca.": "Un forno e pasticceria senza glutine nel quartiere di Salamanca.",
+"Panadería y pastelería sin gluten en Chamberí.": "Forno e pasticceria senza glutine a Chamberí."
 });

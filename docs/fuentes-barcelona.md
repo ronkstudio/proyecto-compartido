@@ -80,3 +80,14 @@ De dónde sale cada dato de Barcelona en la guía. Revisado el 18/11/2026.
 
 - Foto principal (P18) del elemento de Wikidata de cada lugar, de Wikimedia Commons, aceptada si el elemento está a menos de 1,5 km (15 km las excursiones). 90 fotos, todas cargadas en el navegador el 18/11/2026.
 - Se sacaron 8 por mostrar otra cosa o no estar claras: Parc de la Ciutadella (una vista aérea de 1960), piletas Bernat Picornell (mostraba el estadio), Cines Verdi (era otro cine), playa del Bogatell, Colonia Güell, RCDE Stadium, L'Auditori y Teatre Poliorama.
+
+## Dietas y fotos nuevas (tarjeta #198, 18/11/2026)
+
+- **Veganos:** Umami Plant Based ("100 % vegetal" en su web), Pötstot, Mundo Vegan ("100 % vegano") y Veganashi ("100 % plant-based"). Todos figuran en OpenStreetMap con `diet:vegan=only`.
+- **Sin TACC:**
+  - Pötstot: OpenStreetMap con `diet:gluten_free=only`.
+  - Messié Pizza ("100 % sin gluten" en su web).
+  - Aruku ("100 % sin gluten" en su web).
+  - Gluten Tag ("100 % sense gluten" en su web).
+- **Se dejaron afuera:** Rasoterra y Vacka, porque su web no respondió.
+- **Fotos:** 12 más, con el mismo método que Ámsterdam (ver `docs/fuentes-amsterdam.md`). Se sacaron 4: una vista aérea de 1960 de la Ciutadella, L'Auditori (no cargaba), un azulejo en lugar de El Call y una foto dudosa de la Torre Glòries.

@@ -199,5 +199,7 @@ window.CITY_COORDS.madrid = {
   "museo-nacional-de-ciencias-naturales": [40.44, -3.68967],
   "museo-del-ferrocarril": [40.3993, -3.69215],
   "planetario-de-madrid": [40.3927, -3.68531],
-  "museo-de-cera-de-madrid": [40.4248, -3.69141]
+  "museo-de-cera-de-madrid": [40.4248, -3.69141],
+  "la-encomienda": [40.41063, -3.70596], "santa-y-pura": [40.41020, -3.69727], "frutas-prohibidas": [40.42742, -3.71039], "vega": [40.42231, -3.70610],
+  "sana-locura": [40.43608, -3.68017], "leon-the-baker": [40.44401, -3.69850]
 };

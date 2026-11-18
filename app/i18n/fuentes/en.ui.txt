@@ -887,3 +887,8 @@
 887|Mid-range (per night)
 888|Expensive (per night)
 889|High-end (per night)
+890|The best without paying for tickets. Tap each stop to see the details.
+891|Everything indoors and close together. Tap each stop to see the details.
+892|A day designed for kids. Tap each stop to see the details.
+893|A great day without paying for tickets. Tap each stop to see the details.
+894|♥ Save all to My trip

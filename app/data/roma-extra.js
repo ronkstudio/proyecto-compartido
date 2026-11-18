@@ -160,6 +160,17 @@ window.CITY_EXTRA.roma = {
   /* Fotos (tarjeta #178): foto principal de cada lugar en Wikidata, de Wikimedia Commons con licencia libre,
      aceptada solo si el elemento de Wikidata está a menos de 1,5 km del lugar. Se probó que las 80 cargan; se sacaron 4 que mostraban otra cosa. */
   photos: {
+    "galleria-alberto-sordi": "9/99/2016_Galleria_Alberto_Sordi.jpg",
+    "teatro-olimpico": "8/81/Sala_del_Teatro_Olimpico.JPG",
+    "explora": "7/78/Roma_-_Explora_-_Museo_dei_bambini_di_Roma_1_-_2025-09-10_15-59-19_001.JPG",
+    "campo-de-fiori": "c/c0/Campo_Fiori_-_Rome_(IT62)_-_2021-08-29_-_2.jpg",
+    "hotel-de-russie": "2/23/Hotel_de_Russie_in_Rome_(1819-1822)_-_GUESTS_Pëtr_Ilic_Ciaikovski_(1879),_Pablo_Picasso_with_Igor_Stravinsky_(1917)._Here_died_Napoleone_Giuseppe_Carlo_Bonaparte_(Jérôme,_Trieste_1822-Rome_1891),_Napoleon's_nephew._(29113995990).jpg",
+    "hotel-eden": "8/84/Hotel_Eden_伊登旅店_-_panoramio.jpg",
+    "giolitti": "2/2f/Ceiling_Giolitti_Ice_Creams,_Rome,_Italy.jpg",
+    "gelateria-del-teatro": "a/a6/Gelateria_del_Teatro_-_panoramio.jpg",
+    "gelateria-fassi": "6/66/Inside_of_Palazzo_Del_Freddo_F.fassi_in_2022.05.jpg",
+    "babington-s-tea-rooms": "0/0b/Babington's_Tea_Rooms,_Rome_(9931235416).jpg",
+    "forno-boccione": "2/2c/Boccione_Bakery.jpg",
     "coliseo": "d/de/Colosseo_2020.jpg",
     "foro-romano": "6/6a/Foro_Romano_Musei_Capitolini_Roma.jpg",
     "palatino": "6/62/Palatine_Hill_from_across_the_Circus_Maximus_April_2019.jpg",

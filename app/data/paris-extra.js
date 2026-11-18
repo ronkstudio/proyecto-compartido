@@ -159,6 +159,14 @@ window.CITY_EXTRA.paris = {
      Solo se aceptó si el elemento de Wikidata tiene su ubicación a menos de 1,5 km del lugar; se revisaron una por una
      y se sacó la que no era del lugar. Los lugares sin foto muestran la tarjeta con su nombre. */
   photos: {
+    "polidor": "4/46/Restaurant_le_Polidor,_Paris,_2014.jpg",
+    "bouillon-julien": "b/b1/Restaurant_Julien.JPG",
+    "angelina": "9/99/AngelinaParis.JPG",
+    "berthillon": "c/c0/Blood_Orange_Sorbet_by_Berthillon.jpg",
+    "le-cinq": "d/d0/Nesta_última_viagem_a_Paris,_voltei_ao_Cinq.jpg",
+    "l-arpege": "f/f8/L'Arpege.jpg",
+    "point-ephemere": "a/a6/Point_Ephémère_2009.jpg",
+    "caveau-de-la-huchette": "b/be/Le_Caveau_de_la_Huchette.jpg",
     "torre-eiffel": "a/a8/Tour_Eiffel_Wikimedia_Commons.jpg",
     "arco-del-triunfo": "1/1a/Arc_de_Triomphe_-_Août_2026.jpg",
     "avenida-de-los-campos-eliseos": "7/72/Avenue_des_Champs-Élysées,_Paris_3_October_2010.jpg",

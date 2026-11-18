@@ -887,3 +887,8 @@
 887|Preço médio (por noite)
 888|Caro (por noite)
 889|Alto padrão (por noite)
+890|O melhor sem gastar com ingressos. Toque em cada parada para ver os detalhes.
+891|Tudo em lugares cobertos e perto. Toque em cada parada para ver os detalhes.
+892|Um dia pensado para crianças. Toque em cada parada para ver os detalhes.
+893|Um grande dia sem pagar ingressos. Toque em cada parada para ver os detalhes.
+894|♥ Salvar tudo em Minha viagem

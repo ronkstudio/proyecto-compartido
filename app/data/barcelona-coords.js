@@ -197,5 +197,7 @@ window.CITY_COORDS.barcelona = {
   "zoo-de-barcelona": [41.38612, 2.18725],
   "parque-de-atracciones-del-tibidabo": [41.42158, 2.11872],
   "poble-espanyol": [41.36955, 2.14676],
-  "museu-blau": [41.41078, 2.22048]
+  "museu-blau": [41.41078, 2.22048],
+  "umami-plant-based": [41.39983, 2.16066], "potstot": [41.38867, 2.15831], "mundo-vegan": [41.38880, 2.15678], "veganashi": [41.37246, 2.15556],
+  "messie-pizza-sin-gluten": [41.40099, 2.15960], "aruku-sin-gluten": [41.39951, 2.16762], "gluten-tag": [41.40178, 2.15832]
 };

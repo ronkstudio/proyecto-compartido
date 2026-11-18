@@ -763,5 +763,12 @@ Object.assign(window.I18N_FULL = window.I18N_FULL || {}, {
 "Bueno con chicos.": "适合带孩子。",
 "El museo de ciencias naturales, con un esqueleto de ballena enorme.": "自然科学博物馆，有一具巨大的鲸鱼骨架。",
 "Junto al Fòrum.": "就在论坛公园旁边。",
-"catalana": "加泰罗尼亚菜"
+"catalana": "加泰罗尼亚菜",
+"Cocina vegana creativa en una callecita de Gràcia.": "格拉西亚一条小街上的创意纯素料理。",
+"Cocina vegana y sin gluten con mucho color, en el Eixample.": "扩展区色彩缤纷的纯素无麸质料理。",
+"Restaurante 100 % vegano en el Eixample, con opciones sin gluten.": "扩展区的百分百纯素餐厅，有无麸质选项。",
+"Sushi y cocina japonesa veganos, al pie de Montjuïc.": "蒙特惠奇山脚下的纯素寿司和日本料理。",
+"Una pizzería 100 % sin gluten en Gràcia.": "格拉西亚一家百分百无麸质的披萨店。",
+"Sushi y cocina japonesa 100 % sin gluten, cerca de la Sagrada Família.": "圣家堂附近百分百无麸质的寿司和日本料理。",
+"Panadería y pastelería sin gluten en Gràcia.": "格拉西亚的无麸质面包糕点店。"
 });
