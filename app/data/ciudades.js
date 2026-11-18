@@ -13,5 +13,7 @@ window.GUIA_CIUDADES = [
   { id: "paris", name: "París", country: "Francia", flag: "🇫🇷",
     files: ["paris", "paris-coords", "paris-extra", "paris-zones", "paris-lugares", "paris-hoy", "paris-local"] },
   { id: "roma", name: "Roma", country: "Italia", flag: "🇮🇹",
-    files: ["roma", "roma-coords", "roma-extra", "roma-zones", "roma-lugares", "roma-hoy", "roma-local"] }
+    files: ["roma", "roma-coords", "roma-extra", "roma-zones", "roma-lugares", "roma-hoy", "roma-local"] },
+  { id: "madrid", name: "Madrid", country: "España", flag: "🇪🇸",
+    files: ["madrid", "madrid-coords", "madrid-extra", "madrid-zones", "madrid-lugares", "madrid-hoy", "madrid-local"] }
 ];
