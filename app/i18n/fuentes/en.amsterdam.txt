@@ -1,0 +1,938 @@
+1|Amsterdam
+2|Netherlands
+3|Museums, canals, parks and neighbourhoods
+4|Pancakes, herring, rijsttafel and cafés
+5|Brown cafés, breweries, jazz and gigs
+6|By boat, by bike and on foot
+7|Windmills, villages and nearby cities
+8|Markets, cheese and shopping streets
+9|Stadiums, bikes and the outdoors
+10|Concerts, theatre, cinema and plans with kids
+11|Dam and Nieuwe Zijde
+12|Dam Square, the Royal Palace, the central station, the Begijnhof and the shopping streets.
+13|Steps from everything; crowds and noise at all hours.
+14|De Wallen
+15|The oldest neighbourhood
+16|The Red Light District, the Oude Kerk, narrow canals, the Zeedijk and the small Chinatown.
+17|Central but noisy, with lots of party tourism: not for everyone.
+18|Canals
+19|Amsterdam's postcard
+20|The 17th-century canal ring: Herengracht, Keizersgracht and Prinsengracht, the Nine Streets and the flower market.
+21|Beautiful and central; hotels in canal houses have very steep stairs.
+22|Little streets and cafés
+23|The old working-class district: small canals, hidden courtyards, brown cafés, the Anne Frank House and the Saturday markets.
+24|The nicest place to stay: quiet and close to everything.
+25|Nieuwmarkt and Waterlooplein
+26|Rembrandt and the Jewish Quarter
+27|Nieuwmarkt square with De Waag, Rembrandt's house, the flea market and the Jewish Cultural Quarter.
+28|Central, with more local life than the Dam.
+29|Bars and lights
+30|The square of bars and clubs, the Tuschinski cinema and the Reguliersgracht canal.
+31|Very noisy at night.
+32|The nightlife hub
+33|Theatres, concert halls like Paradiso and Melkweg, bars and restaurants.
+34|Lively; noisy at night.
+35|The Rijksmuseum, the Van Gogh, the Stedelijk and the Concertgebouw, around a large green square.
+36|Elegant and quiet, a short walk from the centre.
+37|Vondelpark and Oud-West
+38|Park and neighbourhood
+39|The Vondelpark, Foodhallen, Kinkerstraat and residential streets with cafés.
+40|Quiet, pretty and well connected by tram.
+41|De Pijp
+42|Market and food from around the world
+43|The Albert Cuyp market, the Heineken Experience, Sarphatipark and countless cafés and restaurants.
+44|Trendy, good prices and a metro (line 52).
+45|Plantage
+46|Gardens and zoo
+47|Artis zoo, the Hortus Botanicus, Micropia and the Resistance Museum, on tree-lined streets.
+48|Green, quiet and close to the centre.
+49|Oosterdok and the harbour
+50|Water and new architecture
+51|NEMO, the Maritime Museum, the library with a viewpoint, the Bimhuis and the old harbour islands.
+52|Modern and quiet, near the station.
+53|Across the water
+54|The Eye, the A'DAM tower with its viewpoint, the NDSM shipyard and the Waterland countryside, a free ferry ride from the centre.
+55|Cheaper and alternative; the ferry runs all night.
+56|Park and culture
+57|The park and the old Westergas gasworks, with bars, cinemas and fairs.
+58|Residential and quiet.
+59|Oost
+60|Multicultural
+61|The Oosterpark, the Wereldmuseum, the Dappermarkt and the brewery at the De Gooyer windmill.
+62|A residential area with the metro and good prices.
+63|Zuid and Zuidoost
+64|Woods and stadiums
+65|The Amsterdamse Bos, the Olympic Stadium and, further out, the Ajax stadium and the big concert venues.
+66|Far from the centre; useful if you're coming for a match or a concert.
+67|Amsterdam in 1 day
+68|A cone of fries.
+69|A beer by the canal.
+70|Ticket bought weeks in advance.
+71|Dutch food.
+72|Indonesian rijsttafel; book ahead.
+73|Windmills, 20 minutes by train.
+74|Day 3 · sunset
+75|Free ferry from the station.
+76|Warm apple pie.
+77|A film in the most beautiful cinema.
+78|Free Amsterdam
+79|The view from the top floor.
+80|With the free ferry.
+81|Pancakes for everyone.
+82|Playgrounds and room to run.
+83|Isolatorweg ↔ Gein
+84|The ring line: Sloterdijk, Lelylaan, Station Zuid, RAI and Amstel, without going through the centre
+85|Isolatorweg ↔ Centraal Station
+86|Station Zuid, Amstel, Wibautstraat, Weesperplein, Waterlooplein and Nieuwmarkt to the central station
+87|Noord ↔ Station Zuid
+88|The north–south line: Noord, Centraal Station, Rokin (Dam), Vijzelgracht, De Pijp and Europaplein (RAI)
+89|Centraal Station ↔ Gaasperplas
+90|Nieuwmarkt, Waterlooplein, Weesperplein, Wibautstraat and Amstel
+91|Centraal Station ↔ Gein
+92|Nieuwmarkt, Waterlooplein and Bijlmer ArenA (Ajax stadium and Ziggo Dome)
+93|With your bank card (OVpay)
+94|On trams, buses, the metro and trains across the country you can tap your contactless debit or credit card, or your phone, on the reader when you get on and again when you get off. No need to register or download any app.
+95|Always check out
+96|You have to tap the same card when you get on and when you get off. If you forget to check out, you're charged a high fare.
+97|One card per person
+98|Each person needs their own card or phone: two people can't travel on the same card.
+99|GVB day tickets
+100|If you'll travel a lot, there are tickets for 1 to 7 days with unlimited travel on GVB trams, metro and buses. They're sold in the GVB app, at the machines and at GVB offices. They're not valid on trains.
+101|Amsterdam Travel Ticket
+102|The 1- to 3-day tourist ticket that includes the train to and from Schiphol airport and all GVB transport.
+103|No cash payments
+104|Trams and buses don't accept cash.
+105|18 November 2026, using the GVB, Schiphol and OVpay websites. If anything differs, the signs on the transport system take precedence.
+106|Tram
+107|The most useful
+108|Trams reach almost everything you'll visit: the centre, the canals, Museumplein, the Vondelpark and De Pijp.
+109|How to board
+110|Board through the marked doors and tap your card on the reader when you get on and off.
+111|Careful in the street
+112|Trams are quiet and have right of way. Look carefully before crossing the tracks and don't walk on the bike lanes (the red ones).
+113|There are five lines, each with a number and colour. Line 52 crosses the city north to south via the central station, Rokin (near the Dam) and De Pijp.
+114|Gates
+115|In metro stations you tap your card at the gate when you enter and when you leave.
+116|Use the GVB app, Google Maps or 9292: they show the line, the stop and how long until it comes.
+117|Ferries, buses and at night
+118|Free ferries
+119|Behind the central station, free ferries leave for Amsterdam Noord: to the Eye, the A'DAM tower and NDSM. You can take your bike on board.
+120|They reach the outer neighbourhoods and nearby towns.
+121|When the trams stop, night buses (N lines) run, almost all leaving from the central station.
+122|Schiphol (AMS)
+123|The airport has a single large terminal, with the train station right below.
+124|Train to the central station
+125|It's the fastest option: about 15 minutes, with very frequent trains. Pay with your bank card at the yellow readers at the top of the escalators in the hall, or with the Amsterdam Travel Ticket.
+126|Bus 397
+127|It goes to Museumplein, Leidseplein and the centre, handy if you're staying in that area.
+128|Use the official taxi rank at the hall exit. Taxis run on the meter and the trip is expensive.
+129|The central station (Amsterdam Centraal) is the main one. Station Zuid and Sloterdijk also have many trains.
+130|NS trains
+131|The country's trains are run by NS: they go to Haarlem, Utrecht, The Hague, Rotterdam and the airport. Pay with your bank card or with tickets from the NS app.
+132|To other countries
+133|There are high-speed trains to Brussels, Paris, London (Eurostar) and Germany. Those can't be paid by tapping your card at the reader: you need a ticket.
+134|They have blue number plates and a taxi sign on the roof. Take them at taxi ranks (you can't hail them in the street) or by app.
+135|Uber and Bolt operate in the city and show the price before you order.
+136|The centre is small and taxis are expensive: the tram or walking is often better.
+137|By bike and on foot
+138|The city of bikes
+139|There are more bikes than people and bike lanes everywhere. Renting one is the nicest way to get around, if you're already a confident rider.
+140|Rules
+141|Ride on the bike lane, on the right, with lights at night and without your phone in your hand. Signal with your arm before turning. Watch out for tram tracks: your wheel can get stuck.
+142|Always lock it
+143|A huge number of bikes get stolen: always lock it to something fixed.
+144|The centre is easy to walk. Always look both ways: the danger is bikes, not cars.
+145|Emergencies: police, ambulance and fire service
+146|Police non-emergency (to report a theft)
+147|Out-of-hours doctor at night and weekends (huisartsenpost)
+148|Domestic violence and abuse (Veilig Thuis)
+149|City of Amsterdam (city information)
+150|Amsterdam is a safe city, but there are pickpockets wherever it's crowded.
+151|It happens mainly at the central station, on crowded trams, on Dam Square, on the Damrak, in the Red Light District and at markets.
+152|Wear your backpack on your front and don't leave your phone on the table at terraces.
+153|If you rent a bike, always lock it: bike theft is the most common crime of all.
+154|The real danger: bikes
+155|The most common cause of tourist accidents is walking on the bike lane: it's red and runs next to the pavement.
+156|Look both ways before crossing, for bikes and trams too, which are silent.
+157|The canals have no railings: at night, and if you've been drinking, stay away from the edge.
+158|Scams and things to avoid
+159|People offering drugs in the street sell fake or dangerous stuff: never buy.
+160|Fake police officers: plain-clothes people who ask to see your wallet. Real police don't do that.
+161|Stolen bikes at bargain prices: buying a stolen bike is a crime.
+162|Currency exchange: avoid street exchange offices, which charge a lot. Better to pay by card.
+163|Rules in the centre
+164|In the Red Light District you can't smoke cannabis in the street and it's forbidden to photograph the sex workers.
+165|In many parts of the centre you can't drink alcohol in the street, and urinating in public is fined.
+166|Coffeeshops sell cannabis only to over-18s, with ID. What you buy there can't be taken out of the country.
+167|Guided tours past the windows of the Red Light District are banned.
+168|Carry only what you need for the day: one card, some cash and a copy of your ID.
+169|If you're robbed, call the police on 0900 8844 or go to a police station to report it.
+170|If your passport is stolen: almost all embassies are in The Hague, an hour away by train; some countries have a consulate in Amsterdam. They're on the map under Info > Help.
+171|Get travel insurance: medical care is good but expensive without cover.
+172|You can pay by card almost everywhere, contactless and by phone too. Many places don't take cash: you'll see "pin only" or "no cash" signs.
+173|Watch out with credit cards
+174|Some supermarkets and small shops only accept debit cards. Bring both.
+175|Use bank ATMs. If the ATM or card reader offers to charge you in your own currency, always choose euros.
+176|It isn't compulsory. People usually round up or leave a little extra if the service was good.
+177|Accommodation charges an extra tax as a percentage of the room price, one of the highest in Europe. Ask whether it's already included.
+178|Amsterdam hours
+179|People eat early: lunch is light, at midday, and dinner is between 6 and 9 pm. Many kitchens close early.
+180|They open all day; many open later on Monday mornings. On Sundays they open from midday in the centre.
+181|The most famous ones (Rijksmuseum, Van Gogh, Anne Frank House) get packed: book a timed ticket on their official website. The Anne Frank House and the Van Gogh don't sell tickets at the door.
+182|Cool, with tulips in bloom and King's Day (27 April), the great orange party.
+183|Mild, with very long days, terraces and festivals. It's the busiest season.
+184|Cool and rainy, with fewer tourists.
+185|Winter (Dec–Feb)
+186|Cold, damp and with few daylight hours, but with the light festival and ice rinks.
+187|All year
+188|It rains often all year round: bring a waterproof jacket and a small umbrella.
+189|Tap water is safe to drink and very good.
+190|Dutch is spoken, but almost everyone speaks very good English.
+191|Pharmacies are called "apotheek". For something non-urgent at night, call the out-of-hours doctor before going. Emergencies: 112.
+192|Friends greet each other with three kisses. With strangers, a handshake.
+193|Direct
+194|The Dutch are very direct: it isn't rudeness.
+195|Houses
+196|The stairs in old houses are incredibly steep: go up carefully and travel light.
+197|Raw herring, bitterballen and croquettes, stroopwafels, pancakes and poffertjes, apple pie, aged cheese, fries with mayonnaise, Indonesian rijsttafel and jenever.
+198|Outside Amsterdam
+199|Amsterdam passport
+200|Mark the places you've been and earn stamps: museums, canals, pancakes, windmills, neighbourhood explorer…
+201|Late night in Amsterdam
+202|No metro station nearby: better on foot, by tram or by bike
+203|What are you looking for? Van Gogh, canals, pancakes, Jordaan…
+204|E.g.: Rijksmuseum, Anne Frank House, Vondelpark…
+205|E.g.: Dam Square, Museumplein, central station…
+206|E.g.: KLM, Iberia, Aerolíneas Argentinas…
+207|To the centre (Dam Square)
+208|From Schiphol airport
+209|Schiphol: train to the central station
+210|Official airport website
+211|Schiphol: bus 397 (Amsterdam Airport Express)
+212|Official GVB website
+213|How to pay with your bank card (OVpay)
+214|Official OVpay website
+215|The train station is right below the arrivals hall: the train to the central station takes about 15 minutes and runs very often.
+216|You can pay for the train with your contactless bank card: tap it on the yellow readers at the top of the escalators in the hall, and again when you arrive.
+217|Each person needs their own card or phone to get through.
+218|If you're staying near Museumplein or Leidseplein, bus 397 drops you closer.
+219|Taxis run on the meter and are expensive. Use the official rank.
+220|KPN
+221|Odido
+222|Prepaid SIM (formerly T-Mobile)
+223|Lebara
+224|Cheap prepaid SIM, sold in supermarkets and kiosks
+225|Prepaid SIMs are sold in the carriers' shops and in many supermarkets.
+226|Many bars, museums and trains have free Wi-Fi.
+227|You can pay for almost everything by card, contactless too; many places don't take cash.
+228|Some supermarkets and small shops only accept debit cards: bring a debit card too.
+229|Bank card, GVB tickets and how to get around
+230|Tourist tickets
+231|Travelling with your bank card
+232|If you won't travel much, your bank card is enough: tap it when you get on and off.
+233|If you'll travel a lot, a GVB ticket for 1 to 7 days, or the Amsterdam Travel Ticket if you're also going to and from the airport.
+234|Tram, metro, ferries and bikes
+235|It's not worth it for getting around Amsterdam: the centre belongs to bikes and trams, parking is very expensive and many streets are narrow. It's useful for trips out, for example to the windmills, Giethoorn or the countryside.
+236|If your licence isn't from the European Union, also bring an International Driving Permit.
+237|If you come into the city by car, leave it at a P+R car park on the outskirts and continue by public transport: it's much cheaper.
+238|Amsterdam has an environmental zone: older, more polluting cars can't enter. Rental cars usually comply.
+239|Bikes have priority at many junctions and appear from everywhere: always check your mirrors before turning.
+240|The official app for the tram, metro, buses and ferries: routes, live departures and tickets.
+241|The app for the country's trains: timetables, delays and tickets.
+242|Routes on all public transport in the Netherlands, with live times.
+243|Maps and routes by public transport, on foot and by bike.
+244|Public transport routes with alerts telling you where to get off.
+245|Cars with drivers. You see the price before ordering.
+246|Rental bikes that you unlock with your phone.
+247|The country's most-used food delivery app.
+248|Leftover food from bakeries and restaurants at low prices.
+249|GVB: diversions and closures
+250|Trams, metro and buses cut off by works or events, live.
+251|NS: trains
+252|Delays and works on the trains, including to the airport.
+253|Strikes (staking) and demonstrations in today's news.
+254|⭐ Highlights of the week. The city's full agenda is on I amsterdam: check their page before you go.
+255|I amsterdam: what's on (official agenda)
+256|City of Amsterdam
+257|Amsterdam has one airport, Schiphol, with a single large terminal and the train station right below. It's KLM's hub: many flights from South America arrive direct or with one stop.
+258|Good morning (in the afternoon, "Goedemiddag")
+259|Hello, any time of day
+260|Thank you very much
+261|Please, and also "here you are" when handing something over
+262|Bye
+263|To ask for the bill
+264|Before ordering, in case they only take debit cards
+265|To order a beer
+266|To ask whether they can serve you in English
+267|💳 How to pay for transport with your bank card
+268|🚲 How to stay safe from bikes and pickpockets
+269|🏮 The rules in the centre and the Red Light District
+270|Stations and airport
+271|I amsterdam Visitor Centre · Central Station
+272|The official tourist office, opposite the central station. Information, maps, the I amsterdam City Card and tickets.
+273|Nieuwezijds Voorburgwal police station
+274|The police station closest to the central station and the Dam. Where to report a theft.
+275|Lijnbaansgracht police station (Leidseplein)
+276|Next to Leidseplein.
+277|IJ-tunnel police station
+278|Near Nieuwmarkt and the Red Light District.
+279|Police headquarters (Hoofdbureau)
+280|Amsterdam's police headquarters, in the Jordaan.
+281|Zuid-De Pijp police station
+282|For De Pijp and the south of the city.
+283|Oost police station
+284|For Oost and the Oosterpark.
+285|Boven-IJ police station (Noord)
+286|For Amsterdam Noord.
+287|OLVG, Oost site
+288|Hospital with a 24-hour emergency department (SEH), the closest to the centre.
+289|Amsterdam UMC, AMC site
+290|University hospital with 24-hour emergencies. The Emma Kinderziekenhuis, the children's hospital, is inside.
+291|BovenIJ Hospital (Noord)
+292|Hospital with an emergency department in Amsterdam Noord.
+293|Argentina · Embassy (consular section)
+294|Argentina has no consulate in Amsterdam: passports and paperwork at the embassy in The Hague, an hour away by train. Phone +31 70 311 84 11. Address from the official list of the Dutch government.
+295|Uruguay · Embassy (consular section)
+296|Uruguay has no consulate in Amsterdam: paperwork at the embassy in The Hague. Phone +31 70 360 98 15, from the official list of the Dutch government.
+297|Passports, documents and help for their citizens. Address confirmed on the official list of the Dutch government (18/11/2026).
+298|Mexico · Embassy (consular section)
+299|Mexico has no consulate in Amsterdam: paperwork at the embassy in The Hague. Phone +31 70 360 29 00.
+300|Paraguay · Honorary Consulate
+301|Honorary consulate: basic help and guidance. For passports, the embassy in Brussels (Avenue Louise 475). Details from the official list of the Dutch government.
+302|Bolivia · Embassy (consular section)
+303|Bolivia has no consulate in Amsterdam: paperwork at the embassy in The Hague. Phone +31 70 361 67 07.
+304|Ecuador · Honorary Consulate
+305|Honorary consulate: basic help and guidance. For passports, the embassy in The Hague (Koninginnegracht 84). Details from the official list of the Dutch government.
+306|Venezuela · Embassy (consular section)
+307|Venezuela has no consulate in Amsterdam: paperwork at the embassy in The Hague. Phone +31 70 363 38 05.
+308|Costa Rica · Embassy (consular section)
+309|Costa Rica has no consulate in Amsterdam: paperwork at the embassy in The Hague. Phone +31 70 354 07 80.
+310|Spain · Consulate General
+311|Italy · Embassy (consular section)
+312|Italy has no consulate in Amsterdam: paperwork at the embassy in The Hague. Phone +31 70 302 10 30.
+313|The main station: trains to the airport and the whole country, metro 51, 52, 53 and 54, trams and, at the back, the free ferries to Noord.
+314|Station Amsterdam Zuid
+315|Trains to the airport and other cities, metro 50, 51 and 52.
+316|Station Sloterdijk
+317|Trains to Haarlem and the coast, and departures of many long-distance coaches.
+318|Station Amstel
+319|Trains, metro and regional buses.
+320|Cruise terminal (PTA)
+321|Where cruise ships arrive, a walk from the central station.
+322|Open pharmacies (apotheek) on the map.
+323|Police non-emergency
+324|To report a theft: 0900 8844.
+325|I amsterdam
+326|Bike rental
+327|Among the canals
+328|3 canals or bridges
+329|Dutch pancake
+330|A pancake house
+331|Pancakes
+332|Brown café
+333|2 brown cafés
+334|Windmills
+335|A windmill
+336|A hidden gem or an alternative spot
+337|Honorary Amsterdammer
+338|Tell your bank you'll use your card abroad, and bring a debit card
+339|Buy the Anne Frank House and the Van Gogh Museum weeks in advance
+340|Waterproof jacket and small umbrella
+341|Take the train from the airport, paying with your bank card
+342|Remember to check out on every trip
+343|Don't walk on the bike lane
+344|Amsterdam classics
+345|Canals and bridges
+346|Park
+347|History and World War II
+348|Dutch cuisine
+349|Indonesian rijsttafel
+350|Indonesian
+351|Sweets and cafés
+352|Brown cafés
+353|Beer and jenever
+354|Live music and jazz
+355|Dam, De Wallen and the centre
+356|Canals and Jordaan
+357|Museumplein and Vondelpark
+358|De Pijp and Oost
+359|The harbour and Noord
+360|Zuid and the stadiums
+361|Centre, canals and Jordaan
+362|Museums, Vondelpark and De Pijp
+363|March to May
+364|Tulip season
+365|The flower fields fill with colour and Keukenhof opens for about eight weeks.
+366|27 April
+367|King's Day (Koningsdag)
+368|The great orange party: the whole city takes to the streets, there's a free market, packed boats on the canals and music everywhere.
+369|4 and 5 May
+370|Remembrance Day and Liberation Day
+371|On the evening of the 4th there are two minutes of silence on Dam Square; on the 5th the end of the occupation is celebrated with festivals.
+372|Holland Festival
+373|The city's big festival of theatre, music and dance.
+374|Late July or early August
+375|Pride Amsterdam
+376|Pride, with its unique boat parade along the canals.
+377|Grachtenfestival
+378|Classical music concerts on the canals, in houses and on boats.
+379|Uitmarkt
+380|The start of the cultural season, with free performances of theatre, music and dance.
+381|August (every five years)
+382|SAIL Amsterdam
+383|Tall ships from all over the world come into the harbour. The 2025 edition was the latest; the next is in 2030.
+384|Amsterdam Marathon
+385|It finishes at the Olympic Stadium; there are road closures that Sunday.
+386|Amsterdam Dance Event
+387|Five days of electronic music in clubs and venues across the city.
+388|Mid-November
+389|Arrival of Sinterklaas
+390|Saint Nicholas arrives by boat and tours the city in a parade for children.
+391|Light festival
+392|Light artworks along the canals in the centre.
+393|5 December
+394|Sinterklaasavond
+395|The Dutch gift-giving evening, with chocolate letters and pepernoten biscuits.
+396|Ice rinks
+397|Open-air ice rinks on Museumplein and elsewhere.
+398|Fireworks all over the city and oliebollen, fried dough balls with sugar.
+399|Dutch words you'll see
+400|Ingang · Uitgang
+401|Entrance and exit: in the metro, museums and shops.
+402|Open · Gesloten
+403|Straat · Gracht · Plein
+404|Street, canal and square: you'll see them in every address.
+405|Fietspad
+406|Bike lane: don't walk there.
+407|Inchecken · Uitchecken
+408|Tap in and out when getting on and off public transport.
+409|Alleen pin · Geen contant geld
+410|Card only, no cash accepted.
+411|Pharmacy.
+412|Staking
+413|Coffeeshops: what you need to know
+414|What they are
+415|Places where cannabis is sold legally, only to over-18s with ID. They don't sell alcohol.
+416|In the Red Light District smoking cannabis in the street is forbidden, and in many parts of the centre too: there are fines.
+417|Be careful
+418|What's sold there is stronger than many people expect. Don't mix it with alcohol and don't buy anything in the street.
+419|You can't take it home
+420|Taking cannabis out of the country is a crime, even to countries where it's legal.
+421|Call 112. The big hospitals have 24-hour emergency departments (SEH).
+422|Out-of-hours doctor
+423|For something that can't wait but isn't an emergency, at night or at the weekend, call 088 003 0600 before going.
+424|They're called "apotheek". For simple remedies there are also drugstores ("drogist"), like Etos or Kruidvat.
+425|Free lunchtime concert, with a free ticket booked online
+426|Monday morning flea market
+427|Saturday organic market
+428|The great museum of the Netherlands: Rembrandt's Night Watch, works by Vermeer and eight centuries of Dutch history in a brick palace.
+429|Book a timed ticket on the official website. A bike tunnel runs under the building and you can go through it for free.
+430|The world's largest Van Gogh collection: Sunflowers, The Potato Eaters and his self-portraits, in the order of his life.
+431|Entry only with a ticket bought online for a specific day and time: none are sold at the door. On Fridays it usually stays open later.
+432|The canal house where Anne Frank and her family hid during the Nazi occupation. You walk through the secret annex and see her original diary.
+433|Tickets are online only and sell out fast: they go on sale about six weeks ahead. None are sold at the door.
+434|The city's museum of modern art and design, in an old building with a white extension everyone calls "the bathtub".
+435|It has works by Mondrian, Malevich and Warhol. Combine it with the Rijksmuseum on the same day only if you really love museums.
+436|Street and contemporary art (Banksy, Warhol, Basquiat) in a mansion facing Museumplein.
+437|It's small: an hour is enough. Better to buy your ticket online.
+438|The house where Rembrandt lived and painted, set up as in the 17th century, with his studio and his etchings.
+439|There are demonstrations of how etchings and paintings were made.
+440|The history of the Netherlands at sea, in an old naval warehouse, with a replica East India Company ship you can explore.
+441|Lovely to visit with kids.
+442|The hands-on science museum, in a green ship-shaped building. From its stepped roof terrace you can see the harbour.
+443|The rooftop terrace is usually free to access in summer.
+444|How the German occupation in World War II was lived and who resisted it, through the stories of ordinary people.
+445|It has a section designed for kids.
+446|The 17th-century Portuguese Synagogue, the Jewish Museum and the National Holocaust Museum, with a single ticket for all.
+447|The synagogue is lit only by candles and daylight.
+448|A Catholic church hidden in the attic of a 17th-century house, from the days when public worship wasn't allowed.
+449|One of the city's lesser-known gems.
+450|The city's photography museum, in a canal house, with exhibitions that change all year.
+451|Check what's on before you go.
+452|A stately canal house full of cat-themed art, with real cats strolling through the rooms.
+453|Small and fun; ideal for seeing inside a canal house.
+454|A cargo barge turned into a home: inside you see how people live on the canals.
+455|You can see it in a short while.
+456|A large 17th-century building on the Amstel with art exhibitions in partnership with museums in London and Paris.
+457|Check what's on: exhibitions change several times a year.
+458|The film museum, in a futuristic white building opposite the station, across the water. It has exhibitions, cinemas and a bar with a terrace.
+459|You get there free on the ferry from behind the central station.
+460|The world's only museum dedicated to microbes, with microscopes to look at everything you can't see.
+461|It's next to Artis zoo.
+462|The former Tropenmuseum: cultures from around the world in a huge palace by the Oosterpark.
+463|It has a section for kids.
+464|A photography museum in two connected canal houses, with a garden at the back.
+465|Quieter than Foam.
+466|The main square, where the city was born: the Royal Palace, the Nieuwe Kerk and the National Monument to the victims of war.
+467|Lots of people and lots of pickpockets: watch your backpack.
+468|The former Golden Age town hall, now the king's palace, with a gigantic marble hall.
+469|It sometimes closes for official events: check its website before going.
+470|The church where kings are crowned, next to the palace. Today it's used for art and history exhibitions.
+471|Admission depends on the current exhibition.
+472|The city's oldest building, a 13th-century church in the middle of the Red Light District, with a wooden ceiling and contemporary art.
+473|A very Amsterdam contrast: the church surrounded by red-lit windows.
+474|The Golden Age church with the tallest tower in the centre, next to the Anne Frank House. Rembrandt is buried here.
+475|In season you can climb the tower with a guide.
+476|Courtyard
+477|A hidden courtyard of little houses around a garden, where religious women lived from the Middle Ages. It has the city's oldest wooden house.
+478|People live here: go in quietly and not in large groups.
+479|The 17th-century canal ring, a World Heritage Site: narrow houses with hooks on the roof, bridges and boats.
+480|Best enjoyed by wandering along the Herengracht, Keizersgracht and Prinsengracht, or seeing them from a boat.
+481|The most luxurious stretch of the richest canal, with the widest mansions in the city.
+482|Look at the façades: the widest houses belonged to the richest.
+483|Bridge
+484|From one bridge on the Reguliersgracht you can see seven bridges in a row, one behind the other. At night they're lit up.
+485|Go at night, when the lights come on.
+486|The white wooden drawbridge over the Amstel, one of the most photographed. It's lit up at night.
+487|If you're lucky, you'll see it rise to let a boat through.
+488|For many, the prettiest canal: old warehouses, houseboats and bikes on the bridges.
+489|Combine it with the Jordaan and the Saturday market at Noordermarkt.
+490|The old working-class district, now the nicest for a walk: small canals, hidden courtyards, brown cafés and galleries.
+491|Get lost in the streets between the Prinsengracht and the Lijnbaansgracht.
+492|The oldest neighbourhood, with canals, churches and the famous windows. It's part of the city's history and is closely policed.
+493|Don't photograph the sex workers: it's forbidden and they get angry. Smoking cannabis in the street there is banned and fined.
+494|Tower
+495|The tower of the old mint, next to the flower market, with a carillon that rings every quarter hour.
+496|You'll see it in passing, on the way to the flower market.
+497|Building
+498|The 19th-century station, by the same architect as the Rijksmuseum, built on artificial islands facing the water.
+499|The free ferries to Noord leave from behind it.
+500|The central library, with a top-floor terrace that has one of the best free views in the city.
+501|The café on the top floor has the view.
+502|The narrow, crooked houses on the water of the Damrak, the classic postcard as you leave the station.
+503|The photo looks best from the bridge in front of the station.
+504|A square with Rembrandt's statue and the figures from The Night Watch, surrounded by bars and terraces.
+505|It fills up at night.
+506|The nightlife square: theatres, bars, street musicians and trams passing all the time.
+507|Watch out for bikes and trams when crossing.
+508|The large green square between the Rijksmuseum, the Van Gogh, the Stedelijk and the Concertgebouw. In winter, an ice rink.
+509|The "I amsterdam" letters are no longer here: they're moved around the city.
+510|A square with a medieval city-gate building (De Waag), terraces and a Saturday market.
+511|A good spot for a drink between the Red Light District and the Jewish Quarter.
+512|Monument
+513|The world's first monument to persecuted homosexuals, three pink granite triangles by the canal.
+514|Next to the Westerkerk.
+515|Garden
+516|One of the world's oldest botanical gardens, with tropical greenhouses and a butterfly house.
+517|Ideal for a rainy day: the greenhouses are nice and warm.
+518|An old shipyard turned into an area of art, graffiti, flea markets and bars, 15 minutes away by free ferry.
+519|The ferry leaves from behind the central station.
+520|The viewpoint at the top of the A'DAM tower, with a swing that sways out over the edge.
+521|Go at sunset. You cross on the free ferry.
+522|Windmill
+523|The country's tallest wooden windmill, right in the city, with the Brouwerij 't IJ brewery at its foot.
+524|You see it from outside; the brewery is the real plan.
+525|The old harbour islands with modern architecture, unusual bridges and flats on the water.
+526|Great to explore by bike.
+527|The most famous park: lakes, bridges, cyclists, picnics and a free open-air theatre in summer.
+528|Enter from Museumplein and leave from the west side. Watch out for bikes on the paths.
+529|A park with an old gasworks turned cultural centre (Westergas), with bars, cinemas and markets.
+530|There are often fairs on Sundays.
+531|A large, quiet neighbourhood park with lakes and herons, next to the Wereldmuseum.
+532|Good plan with kids.
+533|A small park in De Pijp, a block from the Albert Cuyp market: the place to rest after the market.
+534|Buy something at the market and eat it here.
+535|Zoo
+536|One of Europe's oldest zoos, with an aquarium, a planetarium and 19th-century gardens.
+537|Allow half a day. Micropia is next door.
+538|Huge sweet and savoury Dutch pancakes in an old canal warehouse near the Anne Frank House.
+539|Try a savoury one with bacon and cheese, or the apple one.
+540|dutch food
+541|Dutch pancakes and poffertjes (puffy mini pancakes with butter and sugar) in the Nine Streets.
+542|It gets packed at breakfast time: go early.
+543|The café famous for the best apple pie in town, tall, with cinnamon and cream.
+544|On Saturdays there's a market in the square and the queue is long.
+545|A 17th-century brown café on a canal corner, with homemade apple pie and Delft tiles.
+546|Very small: if it's full, come back later.
+547|Dutch food
+548|Home-style Dutch cooking, like mum's: stamppot (mash with vegetables), meatballs and stews, with photos of mothers on the walls.
+549|Try the platter with a bit of everything.
+550|Traditional Dutch cooking in old houses with dark wood, near the Dam.
+551|Book for dinner.
+552|Fries
+553|The most famous fries stand: a cone of thick fries with mayonnaise or one of its many sauces.
+554|fries
+555|Herring
+556|A street stall selling raw herring with onion and pickles, on a bridge over the Singel.
+557|Order a "broodje haring" (in a bun) if it's your first time.
+558|An old tram depot with all kinds of food stalls: bitterballen, tacos, dim sum and more.
+559|Ideal for groups who want different things.
+560|international food
+561|A family bakery with stroopwafels (caramel waffles) made on the spot and Dutch pies.
+562|A warm stroopwafel is something else.
+563|The classic place to try rijsttafel, the Indonesian feast of many small dishes that came with colonial history.
+564|indonesian food
+565|for sharing
+566|Rijsttafel and Indonesian dishes opposite the flower market.
+567|Order the rijsttafel if there are two or more of you.
+568|Meat
+569|A neighbourhood café famous for its steak with butter sauce and fries, near the museums.
+570|Good plan after the Rijksmuseum.
+571|Chef's cuisine
+572|A restaurant inside a 1926 greenhouse, with a menu that comes from its own garden.
+573|chef's cuisine
+574|The Rijksmuseum's restaurant, with a Michelin star, reinterpreting Dutch cuisine.
+575|It's more affordable at lunchtime.
+576|A big two-storey café with a terrace on the Amstel, for breakfast, lunch or a drink.
+577|The terrace on the water is the best part.
+578|Hearty brunch with New Zealand and Brazilian influences in De Pijp.
+579|There's a wait at weekends.
+580|Specialty coffee and Scandinavian pastries opposite the Sarphatipark.
+581|Order a cardamom bun.
+582|A tiny bakery with pies, quiches and sandwiches, near the Rokin.
+583|Take a slice of pie for the road.
+584|Croquettes
+585|The classic croquette bar (kroketten), open late, next to Rembrandtplein.
+586|Order a croquette in a bun with mustard.
+587|An 1886 patisserie famous for its shrimp and meat croquettes.
+588|It closes early and on Sundays.
+589|Terrace
+590|A bar made of recycled wood with a big terrace on the water, behind NEMO.
+591|In summer it fills up at sunset.
+592|A restaurant built from containers at NDSM, with an artificial beach facing the IJ river.
+593|Get there on the free ferry to NDSM.
+594|A huge restaurant inside an old water pumping station, with very high ceilings.
+595|A good place for groups and families.
+596|Market-led cooking
+597|Seasonal cooking with Dutch produce, in a neighbourhood off the tourist trail.
+598|Try the tasting menu.
+599|local produce
+600|Fish
+601|Fresh fish and seafood near Museumplein, with an open counter.
+602|Order the sharing platter.
+603|Avocado
+604|Avocado dishes served in a very photogenic way.
+605|There's a queue: arrive early.
+606|The country's biggest street market: freshly made stroopwafels, herring, cheese and food from around the world.
+607|Open Monday to Saturday. Try a freshly made stroopwafel.
+608|Surinamese
+609|Surinamese and Indonesian home cooking, cheap: roti, sandwiches and rice dishes.
+610|A small, simple place.
+611|surinamese food
+612|Classic Surinamese roti: flatbread with chicken curry, potatoes and green beans.
+613|Order it a little spicy.
+614|Very good Neapolitan pizza in the Jordaan.
+615|There's a wait in the evening.
+616|Asian
+617|Tasty Thai food on the Zeedijk, the street of the small Chinatown.
+618|The quick-eating section is across the street.
+619|thai food
+620|A Chinese classic on the Zeedijk, with dishes for sharing.
+621|A good option for groups.
+622|chinese food
+623|Vegan cooking inspired by Eastern Europe, on the Albert Cuyp market street.
+624|Check with the restaurant if you have any allergies.
+625|A vegan and gluten-free restaurant on the Entrepotdok canal, near the zoo.
+626|A neighbourhood vegan café with breakfasts, bowls and cakes.
+627|Vegan burgers, fries and "junk food", next to the Heineken Experience.
+628|Gluten-free café and patisserie in De Pijp.
+629|Check with the shop how they avoid cross-contamination.
+630|Gluten-free and vegan pastries and bites, in the Jordaan.
+631|Gluten-free patisserie near the Vondelpark.
+632|An 18th-century brown café with a terrace on the canal: the most typical photo of the Jordaan.
+633|In summer the floating terrace fills up.
+634|brown café
+635|One of the oldest brown cafés, with sand on the floor and people drinking standing outside.
+636|Order a Dutch draught beer.
+637|Said to be the city's oldest bar, from 1624. Small, wooden and full of locals.
+638|Very authentic.
+639|A brown café from 1606, near the station, with sand on the floor as in the old days.
+640|A good place for a beer when you arrive.
+641|Liqueurs
+642|A 1679 distillery and tasting tavern for trying jenever (Dutch gin) and liqueurs.
+643|The first glass is drunk bending over, without hands, as tradition demands.
+644|The craft brewery at the foot of the De Gooyer windmill, with its terrace and its own beers.
+645|Try the tasting flight of several beers.
+646|brewery
+647|Craft brewery right in the Red Light District, with a bar and food.
+648|It has guided tours.
+649|A classic beer bar with hundreds of Belgian and Dutch beers.
+650|No music: it's a place to talk.
+651|A canal-side bar that serves only Dutch beers, with dozens of taps.
+652|Ask them to recommend something to your taste.
+653|One of the most award-winning cocktail bars, in a hidden alley.
+654|Book: it's small.
+655|A hidden 1920s-style bar: no sign, you ring the bell.
+656|Book by message or on their website.
+657|A cocktail bar with the air of an old private club, with leather armchairs.
+658|Ideal for a quiet drink.
+659|An old church turned into one of Europe's most famous concert venues.
+660|Check the listings: there are gigs almost every night.
+661|A former dairy turned into a centre for gigs, parties and cinema.
+662|Check their listings before you go.
+663|The city's great jazz venue, a black box on the water with a view of the harbour.
+664|Get your ticket in advance.
+665|A small bar with live jazz every night.
+666|Entry is free; you just buy drinks.
+667|Club
+668|Electronic music club in the basement of the A'DAM tower, open all night.
+669|You get back on the night ferry, which runs all night.
+670|Comedy
+671|Comedy and improv theatre in English, with lots of jokes about Amsterdam.
+672|You need to understand English.
+673|A crooked little 1695 house on the canal, with a terrace facing Rembrandt's house.
+674|The terrace at sunset is the best.
+675|By boat
+676|An hour along the canals in a covered boat: the best way to see the city from the water.
+677|Small open boats go through narrower canals. At night, with the lights, it's lovely.
+678|by boat
+679|Guided bike tour of the canals, parks and neighbourhoods, at an easy pace.
+680|If you're not used to bike traffic, a tour is the best way to start.
+681|North of the city, by bike among windmills, cows, dykes and little villages.
+682|There are guided tours that leave from the centre and cross on the ferry.
+683|Guided walking tours of the centre, pay what you want.
+684|At the end you tip what you think is fair. Guided tours past the Red Light District windows are banned.
+685|on foot
+686|Food
+687|Guided tours to taste cheese, herring, bitterballen, stroopwafels and beers.
+688|Go hungry.
+689|Small electric boats you can drive without a licence, to explore the canals on your own.
+690|Learn the rules first: keep to the right and no drinking while at the helm.
+691|By canoe
+692|Canoe trips along the countryside canals north of the city, among birds and wooden houses.
+693|Wear clothes that can get wet.
+694|The old Heineken brewery turned into an interactive tour, with a tasting at the end.
+695|Buy online: it's cheaper and you get in faster.
+696|A tour through the history of liqueur and jenever, with a cocktail at the end.
+697|Next to the Van Gogh.
+698|Windmills
+699|A village of green windmills, clog workshops and cheese makers, 20 minutes by train.
+700|Go early: tour buses arrive mid-morning.
+701|A small, beautiful city 15 minutes away by train: main square, St Bavo's Church and the Frans Hals Museum.
+702|Ideal for half a day.
+703|Flowers
+704|The world's most famous tulip garden. It's only open in spring, about eight weeks between March and May.
+705|Buy the ticket with transport included.
+706|Village
+707|A fishing village on the lake, with little wooden houses and photos in traditional costume.
+708|Combine it with Marken and Edam on the same day.
+709|A former island of green wooden houses, linked to the mainland by a dyke.
+710|A boat links it with Volendam.
+711|The town of the famous round cheese, with canals and Golden Age houses.
+712|In summer there's a cheese market on some days.
+713|Cheese
+714|A town with the most famous cheese market, with cheese porters running with trays.
+715|The market is seasonal (spring and summer), one day a week: check its website.
+716|A university city with two-level canals, bars at water level and the Dom tower.
+717|30 minutes by train.
+718|The city of blue pottery and Vermeer, with canals and an enormous square.
+719|Combine it with The Hague.
+720|ceramics
+721|The seat of government, with the Mauritshuis (Girl with a Pearl Earring) and Scheveningen beach.
+722|Almost all the embassies are there.
+723|The city of modern architecture: cube houses, the Markthal and Europe's largest port.
+724|40 minutes by fast train.
+725|Nineteen 18th-century windmills in a row, a World Heritage Site.
+726|You get there from Rotterdam by boat.
+727|The village without roads: thatched-roof houses linked by canals and little bridges.
+728|It's far: it takes a full day.
+729|Castle
+730|A medieval moated castle, half an hour from the city.
+731|A nice outing with kids.
+732|The beach closest to the city, half an hour by train, with dunes and beach bars.
+733|The water is cold even in summer.
+734|A hotel made up of 25 connected canal houses, with inner gardens.
+735|Ask for a room with a canal view.
+736|A former music conservatory turned luxury hotel, next to the museums.
+737|The glass-roofed lobby is lovely for a coffee.
+738|A classic 1896 hotel on the Amstel, right in the centre.
+739|It has a terrace on the water.
+740|Six 17th-century palaces on the Herengracht turned into a hotel.
+741|It has a hidden garden.
+742|Design hotel in five canal houses, with a buzzing lobby.
+743|The small rooms are very small.
+744|A hotel in ten canal houses, famous for its library of books signed by writers.
+745|Ideal for a quiet stay.
+746|A family-run hotel in 17th-century houses on the Singel.
+747|Very well located for walking.
+748|Design
+749|A former 1921 emigrants' hotel with rooms from one to five stars.
+750|Far from the centre but well connected by tram.
+751|Music-themed hotel in the A'DAM tower, with views of the centre across the water.
+752|The free ferry drops you at the door.
+753|A hotel in a former newspaper building, very cool and good value.
+754|Next to Wibautstraat metro.
+755|A hostel in an old university building next to the Oosterpark, with a bar and private rooms.
+756|A good option for young people and groups.
+757|A hostel in an old laboratory in Noord, a free ferry ride from the centre.
+758|The ferry runs all night.
+759|A well-known hostel steps from the central station, with a bar and a party atmosphere.
+760|Not for anyone looking for peace and quiet.
+761|A hostel inside the Vondelpark, steps from the museums.
+762|Ideal for families and solo travellers.
+763|Modern
+764|An old diamond factory turned into a hotel, next to the Albert Cuyp market.
+765|A good base for eating in De Pijp.
+766|Street
+767|Nine little streets between the canals with small shops, vintage clothes, design and cafés.
+768|Nicer for a stroll than the Kalverstraat.
+769|The pedestrian street of the big brands, from the Dam to Muntplein.
+770|It gets packed on Saturdays.
+771|The luxury brands street, next to the Rijksmuseum.
+772|Window shopping is free.
+773|Shop
+774|The country's most famous department store, opposite the Royal Palace.
+775|It has a restaurant upstairs.
+776|Shopping arcade
+777|An old neo-Gothic post office building turned shopping centre.
+778|Worth going in to see the building.
+779|Over 250 stalls of food, clothes, flowers and souvenirs, Monday to Saturday.
+780|Go in the morning, when it's less crowded.
+781|Floating stalls on the Singel canal with tulip bulbs and souvenirs.
+782|If you buy bulbs to take home, check they have a certificate: many countries won't let them in.
+783|Organic market on Saturdays and flea market on Mondays, next to Winkel 43.
+784|Buy something and eat it with the apple pie next door.
+785|organic
+786|The most famous flea market: second-hand clothes, records, bikes and curiosities, Monday to Saturday.
+787|Haggle a little.
+788|The Jordaan's Saturday market, with food, cheese and flowers.
+789|Very local.
+790|A neighbourhood market with fruit, cheese and food stalls, next to Foodhallen.
+791|Open Monday to Saturday.
+792|Oost's multicultural market, with food from around the world.
+793|Cheaper and less touristy than Albert Cuyp.
+794|A cheese shop stacked to the ceiling with all kinds of Dutch cheese, in the Nine Streets.
+795|Ask to taste the aged cheese (oude kaas).
+796|Books
+797|On Fridays, second-hand book stalls in Spui square.
+798|The Begijnhof is next door.
+799|An old tram depot with shops, a cinema, a hotel and Foodhallen.
+800|A whole plan for a rainy day.
+801|A long street with design shops, delis and cafés, near the station.
+802|Carry on along the Haarlemmerdijk.
+803|Ajax's stadium, with guided tours on non-match days.
+804|Ajax tickets are hard to get: buy only on the official website.
+805|The stadium of the 1928 Games, with a sports museum.
+806|You get there by tram.
+807|A huge forest south of the city, with lakes, canoes, bikes, a goat farm and an open-air theatre.
+808|Rent a bike at the entrance.
+809|Bike
+810|The best way to get around like a local. There are rental shops in every neighbourhood.
+811|Ask for a lock and always use it: lots of bikes get stolen.
+812|Ice skating
+813|The open-air ice rink, in winter.
+814|Open in winter only.
+815|Rowing
+816|The rowing course in the Amsterdamse Bos, to watch regattas or run around it.
+817|Lovely for a run.
+818|Swimming
+819|A beautiful 1912 indoor pool near the Rijksmuseum.
+820|Check the times for general public swimming.
+821|Classical music
+822|One of the world's best concert halls, with a famous orchestra.
+823|In season there's often a free lunchtime concert on some Wednesdays: check their website.
+824|classical music
+825|An 1887 theatre on the Amstel, built for the circus, with musicals and comedy.
+826|The illuminated façade on the water is lovely.
+827|Opera
+828|The home of Dutch opera and ballet, on the Amstel.
+829|Sometimes there are open rehearsals and free lunchtime concerts.
+830|One of the world's most beautiful cinemas, from 1921, between Art Deco and Art Nouveau.
+831|Films are shown in their original language with Dutch subtitles.
+832|The city's great theatre, on Leidseplein.
+833|Some plays have English surtitles.
+834|Concerts
+835|The indoor arena for big concerts.
+836|Take the metro to Bijlmer ArenA.
+837|Large concert venue next to the Ajax stadium.
+838|Check the listings.
+839|Wax museum
+840|Wax figures of Dutch and international celebrities, opposite the Royal Palace.
+841|There's a nice view of the Dam from upstairs.
+842|Simulator
+843|A simulated flight over the Netherlands: tulips, windmills and dykes.
+844|Fun with kids.
+845|Horror
+846|A tour with actors through the city's darkest history.
+847|Not for very young children.
+848|The exhibition of real human bodies, about happiness and health.
+849|It can be disturbing.
+850|The Vondelpark open-air theatre, with free music, dance and theatre in summer.
+851|Summer only.
+852|A contemporary and classical music venue on the water, next to the Bimhuis.
+853|The terrace has a lovely view.
+854|Everything you need to explore the city
+855|Shopping and markets
+856|The centre of everything
+857|The great museums
+858|Timed ticket, as early as possible.
+859|Day 1 · morning
+860|Day 1 · midday
+861|Day 1 · afternoon
+862|Day 1 · evening
+863|Day 2 · morning
+864|Timed ticket.
+865|Day 2 · midday
+866|Day 2 · afternoon
+867|Day 2 · evening
+868|Day 3 · morning
+869|Day 3 · afternoon
+870|Day 3 · evening
+871|Rainy day
+872|Lunch indoors.
+873|The best without paying for tickets.
+874|A day designed for kids.
+875|Metro
+876|Airport
+877|Taxi
+878|Stations
+879|Official taxis
+880|Most common: pickpockets
+881|With these precautions, the vast majority of visits go by without any trouble.
+882|Euro (EUR).
+883|ATMs
+884|Tourist tax
+885|Spring (Apr–May)
+886|Summer (Jun–Aug)
+887|Autumn (Sep–Nov)
+888|230 V. Type C and F sockets (two round pins). Coming from Argentina, bring an adapter.
+889|For data, the simplest option is an eSIM or a local SIM card.
+890|Languages
+891|Vodafone
+892|If the ATM or card reader offers to charge you in your own currency, choose to pay in euros.
+893|Metro lines
+894|Europcar
+895|Hertz
+896|Avis
+897|Sixt
+898|Ride-hailing cars, with an estimated price.
+899|For eating out
+900|Restaurant bookings, sometimes with a discount.
+901|Food delivery.
+902|Tourist information
+903|Chile · Consulate General
+904|Brazil · Consulate General
+905|Colombia · Consulate General
+906|Peru · Consulate General
+907|United States · Consulate General
+908|France · Consulate General
+909|Pharmacies on duty
+910|Official tourist information.
+911|From museum to museum
+912|Type C or F plug adapter (230 V)
+913|Viewpoints
+914|Markets
+915|Day trips
+916|June
+917|October
+918|Late November to January
+919|31 December
+920|New Year's Eve
+921|Open and closed.
+922|Strike: if you see it in the transport system, check how to get around that day.
+923|On the street
+924|Highly recommended: without cover, care can be expensive.
+925|The guide only includes places with a lasting reputation: official distinctions, recognised guides and good consensus in public reviews.
+926|religion
+927|Square
+928|Palace
+929|Book well in advance.
+930|Bakery
+931|Pizza
+932|gluten-free
+933|Cocktails
+934|live music
+935|Jazz
+936|electronic
+937|Beach
+938|swimming

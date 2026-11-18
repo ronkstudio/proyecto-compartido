@@ -616,7 +616,6 @@ Object.assign(window.I18N_FULL = window.I18N_FULL || {}, {
 "Cocina porteña-española de las de antes.": "昔ながらのブエノスアイレス風スペイン料理。",
 "Muy concurrido los fines de semana.": "週末はとても混みます。",
 "Las empanadas de carne picante son las más pedidas.": "辛口の牛肉エンパナーダがいちばん人気。",
-"Siempre hay fila, pero avanza rápido.": "いつも行列ですが、進むのは早いです。",
 "Para comer al paso.": "さっと軽く食べたいときに。",
 "Para evitar la fila, andá temprano por la mañana. Chocolate con churros.": "行列を避けるなら朝早く。ホットチョコレートとチュロスを。",
 "El té María Cala alcanza para tres personas.": "「マリア・カラ」のティーセットは3人分あります。",

@@ -616,7 +616,6 @@ Object.assign(window.I18N_FULL = window.I18N_FULL || {}, {
 "Cocina porteña-española de las de antes.": "Old-school Buenos Aires–Spanish cooking.",
 "Muy concurrido los fines de semana.": "Very busy at weekends.",
 "Las empanadas de carne picante son las más pedidas.": "The spicy beef empanadas are the most popular.",
-"Siempre hay fila, pero avanza rápido.": "There's always a queue, but it moves fast.",
 "Para comer al paso.": "For a quick bite.",
 "Para evitar la fila, andá temprano por la mañana. Chocolate con churros.": "To avoid the queue, go early in the morning. Hot chocolate with churros.",
 "El té María Cala alcanza para tres personas.": "The María Cala tea is enough for three people.",
