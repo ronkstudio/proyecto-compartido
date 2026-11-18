@@ -137,6 +137,13 @@
     ["comer", "Café de especialidad", "Hola Coffee", "Lavapiés", "Calle del Doctor Fourquet 33", 1, "Un café de especialidad chico con tostadero propio, cerca del Reina Sofía.", "Buen lugar para un café antes del museo.", ["café","desayuno","moderno"]],
     ["comer", "Cocina madrileña", "La Barraca", "Sol y Gran Vía", "Calle de la Reina 29", 3, "Arroces y paellas valencianas desde 1935, a pasos de la Gran Vía.", "Las paellas se piden para dos o más personas.", ["tradicional","compartir","clásico"]],
     ["comer", "Cocina madrileña", "Taberna La Daniela", "Salamanca", "Calle del General Pardiñas 21", 2, "Una taberna con azulejos donde el cocido madrileño se sirve en tres vuelcos.", "Reservá para el cocido, sobre todo en invierno.", ["tradicional","abundante"]],
+    /* Veganos y sin TACC (tarjeta #198): la fuente de cada uno está en data/madrid-extra.js (diet) y en docs/fuentes-madrid.md. */
+    ["comer", "Vegano", "La Encomienda", "Lavapiés", "Calle de la Encomienda 19", 2, "Cocina vegana con platos de siempre, en una calle tranquila entre La Latina y Lavapiés.", "Confirmá en el local si tenés alguna alergia.", ["vegano","vegetariano"]],
+    ["comer", "Vegano", "Santa y Pura", "Lavapiés", "Calle de Santa Isabel 27", 2, "Un bar vegano con tapas y platos para compartir, cerca del Reina Sofía.", "Confirmá en el local si tenés alguna alergia.", ["vegano","vegetariano","tapas"]],
+    ["comer", "Vegano", "Frutas Prohibidas", "Argüelles y Moncloa", "Calle del Conde Duque 26", 2, "Cocina vegana de mercado en el barrio de Conde Duque.", "Confirmá en el local si tenés alguna alergia.", ["vegano","vegetariano"]],
+    ["comer", "Vegano", "VEGA", "Malasaña", "Calle de la Luna 9", 2, "Cocina vegana de autor, a pasos de la Gran Vía.", "Confirmá en el local si tenés alguna alergia.", ["vegano","vegetariano"]],
+    ["comer", "Sin TACC", "Sana Locura", "Salamanca", "Calle del General Oraá 49", 1, "Una panadería y pastelería sin gluten en el barrio de Salamanca.", "Confirmá en el local cómo evitan la contaminación cruzada.", ["sin TACC","dulce","panadería"]],
+    ["comer", "Sin TACC", "LEON The Baker", "Chamberí", "Calle de María de Guzmán 30", 1, "Panadería y pastelería sin gluten en Chamberí.", "Confirmá en el local cómo evitan la contaminación cruzada.", ["sin TACC","dulce","panadería"]],
 
     /* ───────────── NOCHE ───────────── */
     ["noche", "Flamenco", "Corral de la Morería", "La Latina", "Calle de la Morería 17", 4, "El tablao flamenco más famoso del mundo, desde 1956, con grandes bailaores y un restaurante con estrella Michelin.", "Reservá. Podés ir solo al espectáculo con una bebida.", ["show","música","clásico","reserva","noche"], 1],

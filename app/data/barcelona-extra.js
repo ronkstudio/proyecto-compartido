@@ -32,9 +32,13 @@ window.CITY_EXTRA.barcelona = {
   },
   awards: {},
 
-  /* Dietas. Solo con fuente. Todavía no se cargó ninguna en Barcelona. */
-  diet: {},
-  dietFull: [],
+  /* Dietas. Solo con fuente: OpenStreetMap ("diet:vegan=only" o "diet:gluten_free=only", 18/11/2026) y la web de cada local, que lo dice
+     (revisadas el 18/11/2026, tarjeta #198). Detalle en docs/fuentes-barcelona.md. */
+  diet: {
+    "umami-plant-based": ["vegano", "vegetariano"], "potstot": ["vegano", "vegetariano", "sin TACC"], "mundo-vegan": ["vegano", "vegetariano"], "veganashi": ["vegano", "vegetariano"],
+    "messie-pizza-sin-gluten": ["sin TACC"], "aruku-sin-gluten": ["sin TACC"], "gluten-tag": ["sin TACC"]
+  },
+  dietFull: ["umami-plant-based", "potstot", "mundo-vegan", "veganashi", "messie-pizza-sin-gluten", "aruku-sin-gluten", "gluten-tag"],
 
   /* Días que abren o cierran (0 = domingo … 6 = sábado). Solo los días fijos y conocidos; pueden cambiar en feriados. */
   only: {
@@ -170,6 +174,18 @@ window.CITY_EXTRA.barcelona = {
   /* Fotos (tarjeta #195): foto principal de cada lugar en Wikidata, de Wikimedia Commons con licencia libre,
      aceptada solo si el elemento de Wikidata está a menos de 1,5 km del lugar (15 km las excursiones). Revisadas el 18/11/2026; se sacaron 8 que mostraban otra cosa o no estaban claras. */
   photos: {
+    "casa-de-les-punxes": "8/86/137_Casa_de_les_Punxes,_av._Diagonal_-_c._Rosselló.jpg",
+    "museu-nacional-d-art-de-catalunya-mnac": "f/f9/WLM14ES_-_Palau_Nacional_i_seu_del_MNAC_de_Barcelona_-_MARIA_ROSA_FERRE.jpg",
+    "museu-d-historia-de-barcelona-muhba": "5/56/MUHBA-_Façana.350002.JPG",
+    "museu-de-la-xocolata": "1/10/737_Antic_convent_de_Sant_Agustí,_pl._Pons_i_Clerch_1-2_(Barcelona),_escala.jpg",
+    "la-cova-fumada": "1/14/La_Cova_Fumada.jpg",
+    "disfrutar": "2/29/Disfrutar.jpg",
+    "razzmatazz": "a/a1/0_-_Sala_Razzmatazz_-_facade.JPG",
+    "sala-apolo": "e/ed/082_Sala_Apolo,_c._Nou_de_la_Rambla_109-113_(Barcelona).jpg",
+    "hotel-catalonia-portal-de-l-angel": "e/e4/Catalonia_Portal_de_l'Angel.jpg",
+    "casa-gispert": "e/ea/Edifici_c._Sombrerers,_23.jpg",
+    "palau-blaugrana": "e/ee/050529_Barcelona_132.jpg",
+    "teatre-tivoli": "2/20/040_Teatre_Tívoli,_c._Casp_6-20_(Barcelona).jpg",
     "7-portes": "0/00/007_Porxos_d'en_Xifré,_7_Portes.JPG",
     "aquarium-barcelona": "1/1a/Queen_Angelfish_14-05-2009_15-24-48.JPG",
     "avinguda-del-portal-de-l-angel": "f/fb/Portal_de_l'Àngel_-_Barcelona_(Catalunya).jpg",

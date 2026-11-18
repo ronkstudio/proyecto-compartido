@@ -763,5 +763,12 @@ Object.assign(window.I18N_FULL = window.I18N_FULL || {}, {
 "Bueno con chicos.": "Gut mit Kindern.",
 "El museo de ciencias naturales, con un esqueleto de ballena enorme.": "Das Naturkundemuseum mit einem riesigen Walskelett.",
 "Junto al Fòrum.": "Neben dem Fòrum.",
-"catalana": "katalanisch"
+"catalana": "katalanisch",
+"Cocina vegana creativa en una callecita de Gràcia.": "Kreative vegane Küche in einer Gasse in Gràcia.",
+"Cocina vegana y sin gluten con mucho color, en el Eixample.": "Bunte vegane und glutenfreie Küche im Eixample.",
+"Restaurante 100 % vegano en el Eixample, con opciones sin gluten.": "Ein zu 100 % veganes Restaurant im Eixample mit glutenfreien Optionen.",
+"Sushi y cocina japonesa veganos, al pie de Montjuïc.": "Veganes Sushi und japanische Küche am Fuß des Montjuïc.",
+"Una pizzería 100 % sin gluten en Gràcia.": "Eine zu 100 % glutenfreie Pizzeria in Gràcia.",
+"Sushi y cocina japonesa 100 % sin gluten, cerca de la Sagrada Família.": "Sushi und japanische Küche zu 100 % glutenfrei, nahe der Sagrada Família.",
+"Panadería y pastelería sin gluten en Gràcia.": "Glutenfreie Bäckerei und Konditorei in Gràcia."
 });

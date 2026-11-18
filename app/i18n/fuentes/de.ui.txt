@@ -887,3 +887,8 @@
 887|Mittlere Preise (pro Nacht)
 888|Teuer (pro Nacht)
 889|Luxus (pro Nacht)
+890|Das Beste, ohne Eintritt zu zahlen. Tippe auf jeden Halt, um Details zu sehen.
+891|Alles drinnen und nah beieinander. Tippe auf jeden Halt, um Details zu sehen.
+892|Ein Tag für Kinder. Tippe auf jeden Halt, um Details zu sehen.
+893|Ein toller Tag ohne Eintritt. Tippe auf jeden Halt, um Details zu sehen.
+894|♥ Alles in Meine Reise speichern

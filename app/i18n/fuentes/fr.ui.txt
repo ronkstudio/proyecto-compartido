@@ -887,3 +887,8 @@
 887|Prix moyen (par nuit)
 888|Cher (par nuit)
 889|Haut de gamme (par nuit)
+890|Le meilleur sans payer d'entrée. Touchez chaque étape pour voir le détail.
+891|Tout à l'abri et à proximité. Touchez chaque étape pour voir le détail.
+892|Une journée pensée pour les enfants. Touchez chaque étape pour voir le détail.
+893|Une belle journée sans payer d'entrée. Touchez chaque étape pour voir le détail.
+894|♥ Tout enregistrer dans Mon voyage

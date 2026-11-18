@@ -818,3 +818,158 @@
 818|Roman
 819|tours
 820|travel
+821|Creative vegan cooking on a little street in Gràcia.
+822|Check with the restaurant if you have any allergies.
+823|Colourful vegan and gluten-free cooking in the Eixample.
+824|A 100% vegan restaurant in the Eixample, with gluten-free options.
+825|Vegan sushi and Japanese cooking at the foot of Montjuïc.
+826|A 100% gluten-free pizzeria in Gràcia.
+827|Check with the shop how they avoid cross-contamination.
+828|100% gluten-free sushi and Japanese cooking, near the Sagrada Família.
+829|Gluten-free bakery and patisserie in Gràcia.
+830|Everything you need to explore the city
+831|Shopping and markets
+832|Multicultural and alternative
+833|Better for strolling than for staying.
+834|Day 1 · morning
+835|Day 1 · midday
+836|Day 1 · afternoon
+837|Day 1 · evening
+838|Day 2 · morning
+839|Book ahead.
+840|Day 2 · midday
+841|Day 2 · afternoon
+842|Day 2 · evening
+843|Day 3 · morning
+844|Day 3 · midday
+845|Day 3 · afternoon
+846|Day 3 · evening
+847|Rainy day
+848|Lunch indoors.
+849|The best without paying for tickets.
+850|A day designed for kids.
+851|Watch out at the airport
+852|Metro
+853|Finding your way
+854|Each direction is named after the line's final station. Follow the signs with the line number and the name of that last station.
+855|Stations
+856|Fast trains
+857|Before boarding
+858|For high-speed trains your luggage goes through a security check, like at the airport. Arrive a little early.
+859|Official taxis
+860|On foot and by bike
+861|Emergencies (single European number)
+862|Violence against women
+863|Most common: pickpockets
+864|Areas where you should pay attention
+865|If your passport is stolen, after reporting it go to your consulate: they're on the map in Info > Help.
+866|Get travel insurance: emergency healthcare is good, but without cover it can be expensive.
+867|Euro (EUR).
+868|Accepted almost everywhere, including contactless and by phone, even for small amounts. Keep some cash for markets and small bars.
+869|ATMs
+870|Use bank ATMs. Many charge foreign cards a fee: the screen shows it before you withdraw. If offered to charge you in your own currency, always choose euros.
+871|It's not compulsory or as expected as in other countries. People round up or leave a few coins for good service.
+872|Tourist tax
+873|The menú del día (set lunch)
+874|At lunchtime on weekdays, many restaurants offer a set menu with a first course, main, dessert or coffee and a drink. It's the cheapest way to eat well.
+875|Vermouth
+876|Spring (Apr–Jun)
+877|Summer (Jul–Aug)
+878|Autumn (Sep–Nov)
+879|Winter (Dec–Mar)
+880|230 V. Type C and F sockets (two round pins). Coming from Argentina, bring an adapter.
+881|For data, the simplest option is an eSIM or a local SIM card.
+882|Pharmacies have a green cross. Emergencies: 112.
+883|At the bar
+884|No station nearby: better on foot or by bus
+885|Tapas
+886|Cheap prepaid SIM, sold in call shops and kiosks
+887|In Spain, you need your passport to activate a SIM.
+888|Many bars and museums have free Wi-Fi.
+889|You can pay for almost everything by card, including contactless.
+890|Many ATMs charge foreign cards a fee: the screen warns you first. Try another bank if it's high.
+891|If the ATM or card reader offers to charge you in your own currency, choose to pay in euros.
+892|Metro lines
+893|Metro, buses, taxis
+894|If your licence isn't from the European Union, also bring an International Driving Permit: some agencies and the police ask for it.
+895|Many Spanish motorways are free (autovías); toll ones are paid by card at the booths.
+896|Routes by metro, bus and train, with live times.
+897|Ride-hailing cars, with an estimated price.
+898|High-speed and regional trains across Spain: timetables, tickets and delays.
+899|Cheap high-speed trains to Spain's big cities.
+900|For eating out
+901|Restaurant bookings, sometimes with a discount.
+902|Food delivery.
+903|Closed lines, works and strikes (huelga), live.
+904|Route diversions for works, marches and events.
+905|Strikes (huelga) and demonstrations in today's news.
+906|To order a small draught beer
+907|Tourist information
+908|Information as soon as you arrive.
+909|Argentina · Consulate General
+910|Uruguay · Consulate General
+911|Chile · Consulate General
+912|Brazil · Consulate General
+913|Colombia · Consulate General
+914|Peru · Consulate General
+915|Bolivia · Consulate General
+916|Ecuador · Consulate General
+917|Venezuela · Consulate General
+918|Italy · Consulate General
+919|France · Consulate General
+920|Tapas crawl
+921|3 tapas bars
+922|Vermouth
+923|gluten-free
+924|Type C or F plug adapter (230 V)
+925|Viewpoints
+926|Food markets
+927|Cocktail bar
+928|Day trips
+929|5 January
+930|Three Kings Parade
+931|Holy Week
+932|31 December
+933|New Year's Eve
+934|Open and closed.
+935|The toilet, in bars and public places.
+936|Spanish words worth knowing
+937|Coger
+938|To take or catch: coger el metro, coger un taxi. In Spain it's a perfectly normal word.
+939|Vale
+940|OK, all right. You'll hear it all the time.
+941|Móvil · Coche · Billete
+942|Mobile phone, car and ticket (metro, train or plane).
+943|Aseos · Servicios
+944|Caña
+945|A small glass of draught beer.
+946|Ración · Media ración
+947|A sharing plate, or half of one.
+948|Zumo · Patata · Melocotón
+949|Juice, potato and peach.
+950|Huelga
+951|Strike: if you see it on transport, check how to get around that day.
+952|Call 112. Large public hospitals have 24-hour A&E.
+953|They have a green cross. At night and on Sundays there are on-duty pharmacies: the list is on the door of any pharmacy.
+954|Highly recommended: without cover, care can be expensive.
+955|The guide only includes places with a lasting reputation: official distinctions, recognised guides and good consensus in public reviews.
+956|Closed on Mondays.
+957|Square
+958|Historic café
+959|Churros shop
+960|Café and pastry shop
+961|Bar with a terrace
+962|Flamenco
+963|Useful if you're short on time or find walking hard.
+964|Boat trip
+965|Town and village
+966|Theme park
+967|It has private rooms as well as dorms.
+968|Department stores
+969|Traditional shop
+970|Delis and fine food shops
+971|Bookshop
+972|Opera and concerts
+973|A cinema showing films in their original language with subtitles.
+974|A good option for watching films in their original language.
+975|Ideal for a rainy day with kids.

@@ -812,3 +812,98 @@
 812|The best of it without spending on tickets. Tap each stop for details.
 813|A day designed for kids. Tap each stop for details.
 814|Madrid City Council: all activities and events
+815|Vegan cooking with classic dishes, on a quiet street between La Latina and Lavapiés.
+816|Check with the restaurant if you have any allergies.
+817|A vegan bar with tapas and sharing plates, near the Reina Sofía.
+818|Market-led vegan cooking in the Conde Duque area.
+819|Creative vegan cuisine, steps from the Gran Vía.
+820|A gluten-free bakery and patisserie in the Salamanca district.
+821|Check with the shop how they avoid cross-contamination.
+822|Gluten-free bakery and patisserie in Chamberí.
+823|Everything you need to explore the city
+824|Shopping and markets
+825|Stadiums, parks and the outdoors
+826|Day 1 · morning
+827|Book ahead.
+828|Day 2 · morning
+829|Day 2 · midday
+830|Day 3 · morning
+831|Rainy day
+832|The best without paying for tickets.
+833|A day designed for kids.
+834|Pay with your card
+835|Finding your way
+836|Changing lines
+837|Fixed-price taxi
+838|Stations
+839|Fast trains
+840|Official taxis
+841|On foot and by bike
+842|Bikes and scooters
+843|Emergencies (single European number)
+844|Violence against women
+845|Most common: pickpockets
+846|Areas where you should pay attention
+847|Petitions: they ask you to sign for a charity and then demand a donation, or use it to rob you.
+848|With the precautions you'd take in any big capital, the vast majority of visits go without problems.
+849|If your passport is stolen, after reporting it go to your consulate: they're on the map in Info > Help.
+850|Get travel insurance: emergency healthcare is good, but without cover it can be expensive.
+851|Euro (EUR).
+852|ATMs
+853|Spring (Apr–Jun)
+854|Summer (Jul–Aug)
+855|Autumn (Sep–Nov)
+856|Winter (Dec–Mar)
+857|For data, the simplest option is an eSIM or a local SIM card.
+858|Movistar
+859|Vodafone
+860|Orange
+861|Digi
+862|Many bars and museums have free Wi-Fi.
+863|You can pay for almost everything by card, including contactless.
+864|If the ATM or card reader offers to charge you in your own currency, choose to pay in euros.
+865|Metro lines
+866|Europcar
+867|Hertz
+868|Avis
+869|Sixt
+870|Enterprise
+871|Centauro
+872|Taxis and chauffeured cars. You see the price before ordering.
+873|Taxis and chauffeured cars, with an estimated price.
+874|For eating out
+875|Restaurant bookings, sometimes with a discount.
+876|Food delivery.
+877|🎫 How to pay for the metro and bus by card
+878|Tourist information
+879|Information as soon as you arrive.
+880|gluten-free
+881|Viewpoints
+882|Historic cafés
+883|Historic café
+884|Markets
+885|Day trips
+886|Holy Week
+887|July and August
+888|October
+889|9 November
+890|December to January
+891|31 December
+892|Strike: if you see it on transport, check how to get around that day.
+893|Highly recommended: without cover, care can be expensive.
+894|The guide only includes places with a lasting reputation: official distinctions, recognised guides and good consensus in public reviews.
+895|Palace
+896|Square
+897|Square and fountain
+898|Café and pastry shop
+899|Cocktail bar
+900|Bar with a terrace
+901|Boat trip
+902|Palaces and gardens
+903|Town and village
+904|Theme park
+905|Flea markets
+906|Department stores
+907|Bookshop
+908|Delis and fine food shops
+909|Opera and concerts

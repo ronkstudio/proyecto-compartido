@@ -137,6 +137,14 @@
     ["comer", "Helados y horchata", "Orxateria El Tío Che", "Poblenou", "Rambla del Poblenou 44", 1, "Una horchatería de 1912: horchata de chufa, helados y granizados.", "Ideal para el calor.", ["horchata","helado","tradicional"]],
     ["comer", "Helados y horchata", "DelaCrem", "Eixample", "Carrer d'Enric Granados 15", 1, "Helados artesanales de los mejores de la ciudad.", "Los sabores cambian según la temporada.", ["helado","dulce"]],
     ["comer", "Mariscos", "La Paradeta", "El Born", "Carrer del Comercial 7", 2, "Una marisquería de autoservicio: elegís el pescado y los mariscos en el mostrador y te los cocinan.", "Hay fila: llegá un rato antes de que abra.", ["mariscos","económico"]],
+    /* Veganos y sin TACC (tarjeta #198): la fuente de cada uno está en data/barcelona-extra.js (diet) y en docs/fuentes-barcelona.md. */
+    ["comer", "Vegano", "Umami Plant Based", "Gràcia", "Carrer del Progrés 6", 2, "Cocina vegana creativa en una callecita de Gràcia.", "Confirmá en el local si tenés alguna alergia.", ["vegano","vegetariano"]],
+    ["comer", "Vegano", "Pötstot", "Eixample", "Carrer de València 204", 2, "Cocina vegana y sin gluten con mucho color, en el Eixample.", "Confirmá en el local si tenés alguna alergia.", ["vegano","sin TACC","vegetariano"]],
+    ["comer", "Vegano", "Mundo Vegan", "Eixample", "Carrer de Muntaner 106", 2, "Restaurante 100 % vegano en el Eixample, con opciones sin gluten.", "Confirmá en el local si tenés alguna alergia.", ["vegano","vegetariano"]],
+    ["comer", "Vegano", "Veganashi", "Poble-sec", "Carrer de Lleida 33", 2, "Sushi y cocina japonesa veganos, al pie de Montjuïc.", "Confirmá en el local si tenés alguna alergia.", ["vegano","vegetariano","japonesa"]],
+    ["comer", "Sin TACC", "Messié Pizza Sin Gluten", "Gràcia", "Carrer de Siracusa 15", 2, "Una pizzería 100 % sin gluten en Gràcia.", "Confirmá en el local cómo evitan la contaminación cruzada.", ["sin TACC","pizza"]],
+    ["comer", "Sin TACC", "Aruku Sin Gluten", "Eixample", "Carrer de Provença 327", 2, "Sushi y cocina japonesa 100 % sin gluten, cerca de la Sagrada Família.", "Confirmá en el local cómo evitan la contaminación cruzada.", ["sin TACC","japonesa"]],
+    ["comer", "Sin TACC", "Gluten Tag", "Gràcia", "Travessera de Gràcia 173", 1, "Panadería y pastelería sin gluten en Gràcia.", "Confirmá en el local cómo evitan la contaminación cruzada.", ["sin TACC","dulce","panadería"]],
 
     /* ───────────── NOCHE ───────────── */
     ["noche", "Bar de cócteles", "Paradiso", "El Born", "Carrer de Rera Palau 4", 3, "Se entra por la puerta de una heladera en un local de pastrami: uno de los mejores bares de cócteles del mundo.", "Hay fila desde temprano.", ["cócteles","noche","joya oculta"]],

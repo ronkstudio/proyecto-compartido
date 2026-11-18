@@ -812,3 +812,98 @@
 812|Das Beste, ohne für Eintritt zu zahlen. Tippe auf jeden Halt für Details.
 813|Ein Tag für Kinder. Tippe auf jeden Halt für Details.
 814|Stadt Madrid: alle Aktivitäten und Veranstaltungen
+815|Vegane Küche mit klassischen Gerichten in einer ruhigen Straße zwischen La Latina und Lavapiés.
+816|Fragen Sie vor Ort nach, wenn Sie Allergien haben.
+817|Eine vegane Bar mit Tapas und Gerichten zum Teilen, nahe dem Reina Sofía.
+818|Vegane Marktküche im Viertel Conde Duque.
+819|Kreative vegane Küche, wenige Schritte von der Gran Vía.
+820|Eine glutenfreie Bäckerei und Konditorei im Viertel Salamanca.
+821|Fragen Sie vor Ort, wie Kreuzkontamination vermieden wird.
+822|Glutenfreie Bäckerei und Konditorei in Chamberí.
+823|Alles, was du brauchst, um die Stadt zu entdecken
+824|Einkaufen und Märkte
+825|Stadien, Parks und Natur
+826|Tag 1 · Vormittag
+827|Reservieren.
+828|Tag 2 · Vormittag
+829|Tag 2 · Mittag
+830|Tag 3 · Vormittag
+831|Regentag
+832|Das Beste, ohne für Eintritte zu zahlen.
+833|Ein Tag für Kinder.
+834|Mit Karte zahlen
+835|So findest du dich zurecht
+836|Umsteigen
+837|Taxi zum Festpreis
+838|Bahnhöfe
+839|Schnellzüge
+840|Offizielle Taxis
+841|Zu Fuß und mit dem Rad
+842|Fahrräder und E-Scooter
+843|Notruf (europaweite Nummer)
+844|Gewalt gegen Frauen
+845|Am häufigsten: Taschendiebe
+846|Gegenden, in denen du aufmerksam sein solltest
+847|Unterschriften: Man bittet dich, für einen guten Zweck zu unterschreiben, und verlangt dann eine Spende oder bestiehlt dich dabei.
+848|Mit der Vorsicht, die in jeder Großstadt gilt, verlaufen die allermeisten Besuche ohne Probleme.
+849|Wenn dein Pass gestohlen wird, geh nach der Anzeige zu deinem Konsulat: Sie sind auf der Karte unter Info > Hilfe.
+850|Schließ eine Reiseversicherung ab: Die Notfallversorgung ist gut, kann ohne Versicherung aber teuer werden.
+851|Euro (EUR).
+852|Geldautomaten
+853|Frühling (Apr–Jun)
+854|Sommer (Jul–Aug)
+855|Herbst (Sep–Nov)
+856|Winter (Dez–Mär)
+857|Für mobile Daten ist eine eSIM oder eine lokale SIM-Karte am einfachsten.
+858|Movistar
+859|Vodafone
+860|Orange
+861|Digi
+862|Viele Bars und Museen haben kostenloses WLAN.
+863|Mit Karte kannst du fast alles bezahlen, auch kontaktlos.
+864|Wenn der Automat oder das Kartenlesegerät anbietet, in deiner Währung abzurechnen, wähle die Zahlung in Euro.
+865|Metrolinien
+866|Europcar
+867|Hertz
+868|Avis
+869|Sixt
+870|Enterprise
+871|Centauro
+872|Taxis und Mietwagen mit Fahrer. Du siehst den Preis vor der Bestellung.
+873|Taxis und Mietwagen mit Fahrer, mit geschätztem Preis.
+874|Zum Essen
+875|Restaurantreservierungen, manchmal mit Rabatt.
+876|Essenslieferung.
+877|🎫 Metro und Bus mit Karte bezahlen
+878|Touristeninformation
+879|Infos gleich nach der Ankunft.
+880|glutenfrei
+881|Aussichtspunkte
+882|Historische Cafés
+883|Historisches Café
+884|Märkte
+885|Tagesausflüge
+886|Karwoche
+887|Juli und August
+888|Oktober
+889|9. November
+890|Dezember bis Januar
+891|31. Dezember
+892|Streik: Wenn du das im Nahverkehr siehst, prüf, wie du an dem Tag unterwegs bist.
+893|Sehr empfehlenswert: Ohne Versicherung kann die Behandlung teuer werden.
+894|Der Reiseführer enthält nur Orte mit dauerhaft gutem Ruf: offizielle Auszeichnungen, anerkannte Führer und gute Übereinstimmung in öffentlichen Bewertungen.
+895|Schloss
+896|Platz
+897|Platz und Brunnen
+898|Café und Konditorei
+899|Cocktailbar
+900|Bar mit Terrasse
+901|Bootsfahrt
+902|Schlösser und Gärten
+903|Stadt und Dorf
+904|Freizeitpark
+905|Flohmärkte
+906|Kaufhäuser
+907|Buchhandlung
+908|Feinkost und Delikatessen
+909|Oper und Konzerte

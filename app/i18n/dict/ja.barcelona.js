@@ -763,5 +763,12 @@ Object.assign(window.I18N_FULL = window.I18N_FULL || {}, {
 "Bueno con chicos.": "子ども連れにいい。",
 "El museo de ciencias naturales, con un esqueleto de ballena enorme.": "巨大なクジラの骨格がある自然科学博物館。",
 "Junto al Fòrum.": "フォーラムの隣。",
-"catalana": "カタルーニャ料理"
+"catalana": "カタルーニャ料理",
+"Cocina vegana creativa en una callecita de Gràcia.": "グラシアの小道で創作ヴィーガン料理。",
+"Cocina vegana y sin gluten con mucho color, en el Eixample.": "アシャンプラで、色鮮やかなヴィーガン＆グルテンフリー料理。",
+"Restaurante 100 % vegano en el Eixample, con opciones sin gluten.": "アシャンプラの100%ヴィーガンのレストラン。グルテンフリーの選択肢あり。",
+"Sushi y cocina japonesa veganos, al pie de Montjuïc.": "モンジュイックのふもとで、ヴィーガンの寿司と和食。",
+"Una pizzería 100 % sin gluten en Gràcia.": "グラシアの100%グルテンフリーのピザ店。",
+"Sushi y cocina japonesa 100 % sin gluten, cerca de la Sagrada Família.": "サグラダ・ファミリア近くで、100%グルテンフリーの寿司と和食。",
+"Panadería y pastelería sin gluten en Gràcia.": "グラシアのグルテンフリーのパン屋兼菓子店。"
 });

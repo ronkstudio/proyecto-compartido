@@ -715,7 +715,11 @@ Object.assign(window.I18N_FULL = window.I18N_FULL || {}, {
 "Funciones bajo la cúpula para ver el cielo, en el parque Tierno Galván.": "Des séances sous la coupole pour découvrir le ciel, dans le parc Tierno Galván.",
 "Las funciones son en castellano.": "Les séances sont en espagnol.",
 "Figuras de cera de famosos, personajes de la historia y del cine.": "Des figures de cire de célébrités, de personnages historiques et de cinéma.",
-"Lo mejor sin gastar en entradas. Tocá cada parada para ver el detalle.": "Le meilleur sans dépenser en billets. Touchez chaque étape pour voir le détail.",
-"Un día pensado para chicos. Tocá cada parada para ver el detalle.": "Une journée pensée pour les enfants. Touchez chaque étape pour voir le détail.",
-"Ayuntamiento de Madrid: todas las actividades y eventos": "Ville de Madrid : toutes les activités et tous les événements"
+"Ayuntamiento de Madrid: todas las actividades y eventos": "Ville de Madrid : toutes les activités et tous les événements",
+"Cocina vegana con platos de siempre, en una calle tranquila entre La Latina y Lavapiés.": "Cuisine végane aux plats traditionnels, dans une rue calme entre La Latina et Lavapiés.",
+"Un bar vegano con tapas y platos para compartir, cerca del Reina Sofía.": "Un bar végan avec tapas et plats à partager, près du Reina Sofía.",
+"Cocina vegana de mercado en el barrio de Conde Duque.": "Cuisine végane du marché dans le quartier de Conde Duque.",
+"Cocina vegana de autor, a pasos de la Gran Vía.": "Cuisine végane d'auteur, à deux pas de la Gran Vía.",
+"Una panadería y pastelería sin gluten en el barrio de Salamanca.": "Une boulangerie-pâtisserie sans gluten dans le quartier de Salamanca.",
+"Panadería y pastelería sin gluten en Chamberí.": "Boulangerie-pâtisserie sans gluten à Chamberí."
 });
