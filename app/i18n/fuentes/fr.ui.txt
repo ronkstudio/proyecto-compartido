@@ -892,3 +892,7 @@
 892|Une journée pensée pour les enfants. Touchez chaque étape pour voir le détail.
 893|Une belle journée sans payer d'entrée. Touchez chaque étape pour voir le détail.
 894|♥ Tout enregistrer dans Mon voyage
+895|Végan et sans gluten
+896|Spectacles
+897|En bateau et à vélo
+898|Stades et piscines

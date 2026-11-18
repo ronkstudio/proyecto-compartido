@@ -760,5 +760,18 @@ Object.assign(window.I18N_FULL = window.I18N_FULL || {}, {
 "Sushi y cocina japonesa veganos, al pie de Montjuïc.": "蒙特惠奇山脚下的纯素寿司和日本料理。",
 "Una pizzería 100 % sin gluten en Gràcia.": "格拉西亚一家百分百无麸质的披萨店。",
 "Sushi y cocina japonesa 100 % sin gluten, cerca de la Sagrada Família.": "圣家堂附近百分百无麸质的寿司和日本料理。",
-"Panadería y pastelería sin gluten en Gràcia.": "格拉西亚的无麸质面包糕点店。"
+"Panadería y pastelería sin gluten en Gràcia.": "格拉西亚的无麸质面包糕点店。",
+"El mercado de Gràcia, renovado, con puestos de frutas, pescados y bares para comer en la barra.": "翻新后的格拉西亚市场，有水果摊、鱼摊和可以坐在吧台吃饭的小馆。",
+"Un hostel con cocina compartida y cenas en grupo, cerca de la Sagrada Família.": "圣家堂附近的青旅，有公共厨房和集体晚餐。",
+"Buena opción para viajar solo y conocer gente.": "适合独自旅行、想认识新朋友的人。",
+"La casa rosada dentro del Park Güell donde vivió Gaudí, con muebles diseñados por él.": "奎尔公园里高迪住过的粉色房子，有他设计的家具。",
+"Tiene entrada aparte de la zona monumental del parque.": "门票和公园的纪念区分开。",
+"Una vieja cantera convertida en parque, con un lago que en verano funciona como pileta y una escultura de Chillida colgando.": "旧采石场改建的公园，湖在夏天变成泳池，还有一座悬挂的奇利达雕塑。",
+"Buen plan con chicos en verano.": "夏天适合带孩子去。",
+"La plaza con un estanque frente a la Sagrada Família: desde la otra orilla sale la mejor foto de la fachada.": "圣家堂对面有池塘的广场：从对岸能拍到立面最好的照片。",
+"Andá al atardecer, con la luz sobre la fachada.": "日落时去，阳光照在立面上。",
+"Una avenida peatonal con terrazas que une la Sagrada Família con el Recinte Modernista de Sant Pau.": "连接圣家堂和圣保罗现代主义建筑群的步行大道，两旁有露台。",
+"Ideal para almorzar entre las dos visitas.": "两个景点之间吃午饭的好地方。",
+"La sierra que rodea la ciudad, con senderos para caminar, correr y andar en bici entre bosques.": "环绕城市的山脉，林间步道可散步、跑步和骑车。",
+"Hay mapas de senderos en el centro de visitantes.": "游客中心有步道地图。"
 });

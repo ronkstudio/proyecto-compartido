@@ -786,5 +786,7 @@ Object.assign(window.I18N_FULL = window.I18N_FULL || {}, {
 "Puede impresionar.": "可能会让人不适。",
 "El teatro al aire libre del Vondelpark, con música, danza y teatro gratis en verano.": "冯德尔公园的露天剧场，夏天有免费的音乐、舞蹈和戏剧。",
 "Sala de música contemporánea y clásica sobre el agua, al lado del Bimhuis.": "比姆爵士乐厅旁的水上当代与古典音乐厅。",
-"La terraza tiene una linda vista.": "露台风景很美。"
+"La terraza tiene una linda vista.": "露台风景很美。",
+"Siguiendo el río Amstel hacia el sur, en pocos minutos pasás de la ciudad al campo: molinos, vacas y el pueblo de Ouderkerk aan de Amstel.": "沿阿姆斯特尔河向南，几分钟就从城市到了乡间：风车、奶牛和阿姆斯特尔河畔奥德凯尔克村。",
+"Es plano y tiene bicisenda todo el camino. Llevá agua y algo de abrigo por el viento.": "路是平的，全程有自行车道。带上水和防风的衣服。"
 });

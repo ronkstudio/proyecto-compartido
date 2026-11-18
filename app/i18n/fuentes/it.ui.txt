@@ -892,3 +892,7 @@
 892|Una giornata pensata per i bambini. Tocca ogni tappa per vedere i dettagli.
 893|Una bella giornata senza pagare biglietti. Tocca ogni tappa per vedere i dettagli.
 894|♥ Salva tutto in Il mio viaggio
+895|Vegano e senza glutine
+896|Spettacoli
+897|In barca e in bici
+898|Stadi e piscine

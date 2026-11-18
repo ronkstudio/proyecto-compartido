@@ -199,5 +199,7 @@ window.CITY_COORDS.barcelona = {
   "poble-espanyol": [41.36955, 2.14676],
   "museu-blau": [41.41078, 2.22048],
   "umami-plant-based": [41.39983, 2.16066], "potstot": [41.38867, 2.15831], "mundo-vegan": [41.38880, 2.15678], "veganashi": [41.37246, 2.15556],
-  "messie-pizza-sin-gluten": [41.40099, 2.15960], "aruku-sin-gluten": [41.39951, 2.16762], "gluten-tag": [41.40178, 2.15832]
+  "messie-pizza-sin-gluten": [41.40099, 2.15960], "aruku-sin-gluten": [41.39951, 2.16762], "gluten-tag": [41.40178, 2.15832],
+  "mercat-de-l-abaceria-central": [41.40207, 2.15953], "yeah-barcelona-hostel": [41.40007, 2.16456], "parque-natural-de-collserola": [41.45575, 2.07381],
+  "casa-museu-gaudi": [41.41442, 2.15357], "parc-de-la-creueta-del-coll": [41.41902, 2.14615], "placa-de-gaudi": [41.40448, 2.17549], "avinguda-de-gaudi": [41.40602, 2.17441]
 };

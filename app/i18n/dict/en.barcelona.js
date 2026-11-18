@@ -760,5 +760,18 @@ Object.assign(window.I18N_FULL = window.I18N_FULL || {}, {
 "Sushi y cocina japonesa veganos, al pie de Montjuïc.": "Vegan sushi and Japanese cooking at the foot of Montjuïc.",
 "Una pizzería 100 % sin gluten en Gràcia.": "A 100% gluten-free pizzeria in Gràcia.",
 "Sushi y cocina japonesa 100 % sin gluten, cerca de la Sagrada Família.": "100% gluten-free sushi and Japanese cooking, near the Sagrada Família.",
-"Panadería y pastelería sin gluten en Gràcia.": "Gluten-free bakery and patisserie in Gràcia."
+"Panadería y pastelería sin gluten en Gràcia.": "Gluten-free bakery and patisserie in Gràcia.",
+"El mercado de Gràcia, renovado, con puestos de frutas, pescados y bares para comer en la barra.": "Gràcia's renovated market, with fruit and fish stalls and bars where you eat at the counter.",
+"Un hostel con cocina compartida y cenas en grupo, cerca de la Sagrada Família.": "A hostel with a shared kitchen and group dinners, near the Sagrada Família.",
+"Buena opción para viajar solo y conocer gente.": "A good option for solo travellers who want to meet people.",
+"La casa rosada dentro del Park Güell donde vivió Gaudí, con muebles diseñados por él.": "The pink house inside Park Güell where Gaudí lived, with furniture he designed.",
+"Tiene entrada aparte de la zona monumental del parque.": "It has a separate ticket from the park's monumental zone.",
+"Una vieja cantera convertida en parque, con un lago que en verano funciona como pileta y una escultura de Chillida colgando.": "An old quarry turned into a park, with a lake that becomes a swimming pool in summer and a hanging Chillida sculpture.",
+"Buen plan con chicos en verano.": "A good plan with kids in summer.",
+"La plaza con un estanque frente a la Sagrada Família: desde la otra orilla sale la mejor foto de la fachada.": "The square with a pond opposite the Sagrada Família: from the far bank you get the best photo of the façade.",
+"Andá al atardecer, con la luz sobre la fachada.": "Go at sunset, when the light hits the façade.",
+"Una avenida peatonal con terrazas que une la Sagrada Família con el Recinte Modernista de Sant Pau.": "A pedestrian avenue with terraces linking the Sagrada Família and the Sant Pau Modernist Site.",
+"Ideal para almorzar entre las dos visitas.": "Ideal for lunch between the two visits.",
+"La sierra que rodea la ciudad, con senderos para caminar, correr y andar en bici entre bosques.": "The hills around the city, with forest trails for walking, running and cycling.",
+"Hay mapas de senderos en el centro de visitantes.": "There are trail maps at the visitor centre."
 });
