@@ -760,5 +760,18 @@ Object.assign(window.I18N_FULL = window.I18N_FULL || {}, {
 "Sushi y cocina japonesa veganos, al pie de Montjuïc.": "Veganes Sushi und japanische Küche am Fuß des Montjuïc.",
 "Una pizzería 100 % sin gluten en Gràcia.": "Eine zu 100 % glutenfreie Pizzeria in Gràcia.",
 "Sushi y cocina japonesa 100 % sin gluten, cerca de la Sagrada Família.": "Sushi und japanische Küche zu 100 % glutenfrei, nahe der Sagrada Família.",
-"Panadería y pastelería sin gluten en Gràcia.": "Glutenfreie Bäckerei und Konditorei in Gràcia."
+"Panadería y pastelería sin gluten en Gràcia.": "Glutenfreie Bäckerei und Konditorei in Gràcia.",
+"El mercado de Gràcia, renovado, con puestos de frutas, pescados y bares para comer en la barra.": "Der renovierte Markt von Gràcia mit Obst- und Fischständen und Bars, an deren Theke man isst.",
+"Un hostel con cocina compartida y cenas en grupo, cerca de la Sagrada Família.": "Ein Hostel mit Gemeinschaftsküche und gemeinsamen Abendessen, nahe der Sagrada Família.",
+"Buena opción para viajar solo y conocer gente.": "Gut für Alleinreisende, die Leute kennenlernen wollen.",
+"La casa rosada dentro del Park Güell donde vivió Gaudí, con muebles diseñados por él.": "Das rosa Haus im Park Güell, in dem Gaudí lebte, mit Möbeln nach seinen Entwürfen.",
+"Tiene entrada aparte de la zona monumental del parque.": "Der Eintritt ist getrennt von dem des Monumentalbereichs des Parks.",
+"Una vieja cantera convertida en parque, con un lago que en verano funciona como pileta y una escultura de Chillida colgando.": "Ein alter Steinbruch, heute Park, mit einem See, der im Sommer zum Schwimmbad wird, und einer hängenden Skulptur von Chillida.",
+"Buen plan con chicos en verano.": "Im Sommer gut mit Kindern.",
+"La plaza con un estanque frente a la Sagrada Família: desde la otra orilla sale la mejor foto de la fachada.": "Der Platz mit Teich gegenüber der Sagrada Família: Vom anderen Ufer gelingt das beste Foto der Fassade.",
+"Andá al atardecer, con la luz sobre la fachada.": "Gehen Sie zum Sonnenuntergang, wenn das Licht auf die Fassade fällt.",
+"Una avenida peatonal con terrazas que une la Sagrada Família con el Recinte Modernista de Sant Pau.": "Eine Fußgängerallee mit Terrassen zwischen der Sagrada Família und dem modernistischen Gelände von Sant Pau.",
+"Ideal para almorzar entre las dos visitas.": "Ideal fürs Mittagessen zwischen den beiden Besichtigungen.",
+"La sierra que rodea la ciudad, con senderos para caminar, correr y andar en bici entre bosques.": "Die Hügelkette rund um die Stadt mit Waldwegen zum Wandern, Laufen und Radfahren.",
+"Hay mapas de senderos en el centro de visitantes.": "Im Besucherzentrum gibt es Wegekarten."
 });

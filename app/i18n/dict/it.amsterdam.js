@@ -786,5 +786,7 @@ Object.assign(window.I18N_FULL = window.I18N_FULL || {}, {
 "Puede impresionar.": "Può impressionare.",
 "El teatro al aire libre del Vondelpark, con música, danza y teatro gratis en verano.": "Il teatro all'aperto del Vondelpark, con musica, danza e teatro gratis d'estate.",
 "Sala de música contemporánea y clásica sobre el agua, al lado del Bimhuis.": "Sala di musica contemporanea e classica sull'acqua, accanto al Bimhuis.",
-"La terraza tiene una linda vista.": "La terrazza ha una bella vista."
+"La terraza tiene una linda vista.": "La terrazza ha una bella vista.",
+"Siguiendo el río Amstel hacia el sur, en pocos minutos pasás de la ciudad al campo: molinos, vacas y el pueblo de Ouderkerk aan de Amstel.": "Seguendo l'Amstel verso sud, in pochi minuti passi dalla città alla campagna: mulini, mucche e il paese di Ouderkerk aan de Amstel.",
+"Es plano y tiene bicisenda todo el camino. Llevá agua y algo de abrigo por el viento.": "È pianeggiante e c'è la ciclabile per tutto il percorso. Porta acqua e qualcosa di caldo per il vento."
 });

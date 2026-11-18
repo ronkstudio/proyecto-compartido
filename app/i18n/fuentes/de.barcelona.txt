@@ -973,3 +973,17 @@
 973|Ein Kino mit Filmen in Originalfassung mit Untertiteln.
 974|Gut, um Filme in Originalsprache zu sehen.
 975|Ideal für einen Regentag mit Kindern.
+976|Der renovierte Markt von Gràcia mit Obst- und Fischständen und Bars, an deren Theke man isst.
+977|Sonntags geschlossen.
+978|Ein Hostel mit Gemeinschaftsküche und gemeinsamen Abendessen, nahe der Sagrada Família.
+979|Gut für Alleinreisende, die Leute kennenlernen wollen.
+980|Das rosa Haus im Park Güell, in dem Gaudí lebte, mit Möbeln nach seinen Entwürfen.
+981|Der Eintritt ist getrennt von dem des Monumentalbereichs des Parks.
+982|Ein alter Steinbruch, heute Park, mit einem See, der im Sommer zum Schwimmbad wird, und einer hängenden Skulptur von Chillida.
+983|Im Sommer gut mit Kindern.
+984|Der Platz mit Teich gegenüber der Sagrada Família: Vom anderen Ufer gelingt das beste Foto der Fassade.
+985|Gehen Sie zum Sonnenuntergang, wenn das Licht auf die Fassade fällt.
+986|Eine Fußgängerallee mit Terrassen zwischen der Sagrada Família und dem modernistischen Gelände von Sant Pau.
+987|Ideal fürs Mittagessen zwischen den beiden Besichtigungen.
+988|Die Hügelkette rund um die Stadt mit Waldwegen zum Wandern, Laufen und Radfahren.
+989|Im Besucherzentrum gibt es Wegekarten.

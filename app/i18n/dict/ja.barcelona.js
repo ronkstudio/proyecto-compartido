@@ -760,5 +760,18 @@ Object.assign(window.I18N_FULL = window.I18N_FULL || {}, {
 "Sushi y cocina japonesa veganos, al pie de Montjuïc.": "モンジュイックのふもとで、ヴィーガンの寿司と和食。",
 "Una pizzería 100 % sin gluten en Gràcia.": "グラシアの100%グルテンフリーのピザ店。",
 "Sushi y cocina japonesa 100 % sin gluten, cerca de la Sagrada Família.": "サグラダ・ファミリア近くで、100%グルテンフリーの寿司と和食。",
-"Panadería y pastelería sin gluten en Gràcia.": "グラシアのグルテンフリーのパン屋兼菓子店。"
+"Panadería y pastelería sin gluten en Gràcia.": "グラシアのグルテンフリーのパン屋兼菓子店。",
+"El mercado de Gràcia, renovado, con puestos de frutas, pescados y bares para comer en la barra.": "改装されたグラシアの市場。果物や魚の店と、カウンターで食べられるバルがある。",
+"Un hostel con cocina compartida y cenas en grupo, cerca de la Sagrada Família.": "サグラダ・ファミリア近くのホステル。共用キッチンとみんなでの夕食がある。",
+"Buena opción para viajar solo y conocer gente.": "一人旅で人と知り合いたい人におすすめ。",
+"La casa rosada dentro del Park Güell donde vivió Gaudí, con muebles diseñados por él.": "グエル公園の中にあるガウディが暮らしたピンクの家。本人がデザインした家具がある。",
+"Tiene entrada aparte de la zona monumental del parque.": "公園のモニュメントエリアとは別料金。",
+"Una vieja cantera convertida en parque, con un lago que en verano funciona como pileta y una escultura de Chillida colgando.": "採石場跡の公園。夏はプールになる池と、吊り下げられたチリーダの彫刻がある。",
+"Buen plan con chicos en verano.": "夏の子ども連れにおすすめ。",
+"La plaza con un estanque frente a la Sagrada Família: desde la otra orilla sale la mejor foto de la fachada.": "サグラダ・ファミリア前の池のある広場。対岸から正面の最高の写真が撮れる。",
+"Andá al atardecer, con la luz sobre la fachada.": "夕暮れ時、正面に光が当たる頃に。",
+"Una avenida peatonal con terrazas que une la Sagrada Família con el Recinte Modernista de Sant Pau.": "サグラダ・ファミリアとサン・パウ・モデルニスモ建築群を結ぶテラスの並ぶ歩行者通り。",
+"Ideal para almorzar entre las dos visitas.": "2つの見学の間の昼食に最適。",
+"La sierra que rodea la ciudad, con senderos para caminar, correr y andar en bici entre bosques.": "街を囲む山地。森の中の小道で散歩、ランニング、サイクリングができる。",
+"Hay mapas de senderos en el centro de visitantes.": "ビジターセンターに散策路の地図がある。"
 });

@@ -973,3 +973,17 @@
 973|A cinema showing films in their original language with subtitles.
 974|A good option for watching films in their original language.
 975|Ideal for a rainy day with kids.
+976|Gràcia's renovated market, with fruit and fish stalls and bars where you eat at the counter.
+977|Closed on Sundays.
+978|A hostel with a shared kitchen and group dinners, near the Sagrada Família.
+979|A good option for solo travellers who want to meet people.
+980|The pink house inside Park Güell where Gaudí lived, with furniture he designed.
+981|It has a separate ticket from the park's monumental zone.
+982|An old quarry turned into a park, with a lake that becomes a swimming pool in summer and a hanging Chillida sculpture.
+983|A good plan with kids in summer.
+984|The square with a pond opposite the Sagrada Família: from the far bank you get the best photo of the façade.
+985|Go at sunset, when the light hits the façade.
+986|A pedestrian avenue with terraces linking the Sagrada Família and the Sant Pau Modernist Site.
+987|Ideal for lunch between the two visits.
+988|The hills around the city, with forest trails for walking, running and cycling.
+989|There are trail maps at the visitor centre.

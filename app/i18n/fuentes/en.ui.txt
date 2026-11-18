@@ -892,3 +892,7 @@
 892|A day designed for kids. Tap each stop to see the details.
 893|A great day without paying for tickets. Tap each stop to see the details.
 894|♥ Save all to My trip
+895|Vegan and gluten-free
+896|Shows
+897|By boat and by bike
+898|Stadiums and pools
