@@ -78,4 +78,5 @@ De dónde sale cada dato de Barcelona en la guía. Revisado el 18/11/2026.
 
 ## Fotos
 
-- Foto principal (P18) del elemento de Wikidata de cada lugar, de Wikimedia Commons, aceptada si el elemento está a menos de 1,5 km (15 km las excursiones).
+- Foto principal (P18) del elemento de Wikidata de cada lugar, de Wikimedia Commons, aceptada si el elemento está a menos de 1,5 km (15 km las excursiones). 90 fotos, todas cargadas en el navegador el 18/11/2026.
+- Se sacaron 8 por mostrar otra cosa o no estar claras: Parc de la Ciutadella (una vista aérea de 1960), piletas Bernat Picornell (mostraba el estadio), Cines Verdi (era otro cine), playa del Bogatell, Colonia Güell, RCDE Stadium, L'Auditori y Teatre Poliorama.
