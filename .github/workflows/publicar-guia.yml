@@ -49,6 +49,10 @@ jobs:
         continue-on-error: true
         shell: pwsh
         run: ./herramientas/armar-hoy-madrid.ps1 -out app/data/hoy-madrid.json
+      - name: Bajar la agenda de Barcelona
+        continue-on-error: true
+        shell: pwsh
+        run: ./herramientas/armar-hoy-barcelona.ps1 -out app/data/hoy-barcelona.json
       - name: Armar la copia para publicar (sin documentos internos)
         run: |
           mkdir _site
