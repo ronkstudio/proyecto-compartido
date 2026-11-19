@@ -148,6 +148,22 @@ window.CITY_EXTRA.bogota = {
 
   /* Fotos: de Wikimedia Commons con licencia libre (ver docs/fuentes-bogota.md). */
   photos: {
+    "museo-del-oro": "0/0c/03_pares_de_orejeras_de_oro.jpg",
+    "museo-botero": "d/dd/Museo_Botero,_Boteromuseum_03.jpg",
+    "casa-de-moneda": "7/7e/2_Escudos_Felipe_IV.jpg",
+    "plaza-de-bolivar": "e/e5/Plaza_de_Bolívar_en_Bogotá_(Colombia).jpg",
+    "iglesia-de-san-ignacio": "9/9f/Iglesia_de_S._Ignacio_A.JPG",
+    "teatro-colon": "b/b1/Entrada_principal,_Teatro_Colón.JPG",
+    "centro-comercial-santafe": "d/dc/CC_Santafé_Bogotá_Cund_jul_2018_-_1.jpeg",
+    "teatro-libre": "c/c1/Alibrecentro_002.jpg",
+    "maloka": "9/98/Maloka_dome_theater_facade.jpg",
+    "mambo": "b/b2/Vista_aérea_Bogotá_-_25_-_MAMBO.jpg",
+    "monserrate": "8/8b/Vistas_desde_Monserrate_-_Bogotá_-_panoramio_(1).jpg",
+    "torre-colpatria": "7/71/Torre_Colpatria_(6931242164).jpg",
+    "biblioteca-luis-angel-arango": "a/a9/Biblioteca_Luis_Ángel_Arango_-_Interior_2.jpg",
+    "capitolio-nacional": "f/f7/Perspectiva_de_un_parte_del_Capitolio_Nacional.JPG",
+    "suesca": "b/b6/Iglesia_suesca_por_John_Franklin_Castro_Arëvalo.jpg",
+    "unicentro": "a/a0/Unicentro_-_3_de_Enero_de_2009.jpg",
   },
 
   /* Estaciones de TransMilenio por troncal (las letras de bogota.js), para "la estación más cercana" en cada ficha.
