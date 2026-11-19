@@ -282,7 +282,6 @@ Object.assign(window.I18N_FULL = window.I18N_FULL || {}, {
 "Madrid de los Austrias, Debod y Malasaña": "哈布斯堡老城、德波神庙和马拉萨尼亚",
 "Museos, Retiro y Lavapiés": "博物馆、丽池和拉瓦皮耶斯",
 "El desfile de los Reyes Magos por el Paseo de la Castellana y el centro, con carrozas y caramelos para los chicos.": "三王沿卡斯特利亚纳大道和市中心游行，有彩车和给孩子们的糖果。",
-"Febrero o marzo": "二月或三月",
 "ARCO": "ARCO艺术博览会",
 "La gran feria de arte contemporáneo, en IFEMA, con muestras en galerías de toda la ciudad.": "在IFEMA举办的大型当代艺术博览会，全城画廊都有展览。",
 "Procesiones por el centro, sobre todo por La Latina y los Austrias, y torrijas en todas las pastelerías.": "市中心有宗教游行，尤其在拉丁区和哈布斯堡老城；每家糕点店都卖西班牙法式吐司。",

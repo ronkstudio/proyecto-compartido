@@ -1,0 +1,737 @@
+1|Rio de Janeiro
+2|Christusstatue, Zuckerhut, Strände, Hügel und Museen
+3|Botecos, Churrasco, Feijoada und Säfte
+4|Samba, Bossa Nova, Caipirinhas und Terrassen
+5|Führungen, Wanderwege und Bootsfahrten
+6|Inseln, Kolonialstädtchen und Strände in der Nähe
+7|Märkte, Einkaufszentren und Carioca-Design
+8|Maracanã, Surfen, Wanderwege und Natur
+9|Sambaschulen, Shows und Ausflüge mit Kindern
+10|Copacabana
+11|Der berühmteste Strand
+12|Vier Kilometer Sand, die Wellenpromenade, Kioske, das Fort Copacabana und Gebäude aus den 50ern.
+13|Gut angebunden, mit Hotels jeder Preisklasse; nachts in den Seitenstraßen und am Strand aufpassen.
+14|Ipanema
+15|Strand und Lebensgefühl
+16|Der Strand aus dem Lied, der Arpoador, der Hippie-Markt am Sonntag und Straßen mit Läden und Bars.
+17|Eine der besten Unterkünfte: schön, lebendig und ruhiger als Copacabana.
+18|Leblon
+19|Elegant und ruhig
+20|Das Strandende vor dem Berg Dois Irmãos, mit Restaurants, klassischen Botecos und viel Nachbarschaftsleben.
+21|Das sicherste und teuerste Viertel der Zona Sul.
+22|Botafogo
+23|Bars und Blick auf den Zuckerhut
+24|Die Bucht mit dem schönsten Postkartenblick auf den Zuckerhut, Straßen voller neuer Bars und Restaurants und der Aussichtspunkt Dona Marta in der Nähe.
+25|Ein Dorf am Fuß des Zuckerhuts
+26|Ruhige Straßen, die Praia Vermelha, die Seilbahn zum Zuckerhut und die Mauer (Mureta) für einen Drink bei Sonnenuntergang.
+27|Ruhig und sicher, aber mit wenigen Hotels.
+28|Flamengo und Catete
+29|Der Aterro und das Museum der Republik
+30|Der große Uferpark des Aterro, das Museum für Moderne Kunst und der Catete-Palast.
+31|Zentral und mit U-Bahn; nachts ist der Park leer.
+32|Lagoa und Jardim Botânico
+33|Die Lagune und der Regenwald
+34|Die Lagune Rodrigo de Freitas mit Radweg, der Botanische Garten und der Parque Lage am Fuß des Corcovado.
+35|Wohngegend, grün, weit weg von der U-Bahn.
+36|Bohème auf dem Hügel
+37|Alte Villen, die gelbe Straßenbahn (Bondinho), Künstlerateliers, Bars und Blicke auf die Bucht.
+38|Tagsüber bezaubernd; nachts mit Auto oder App unterwegs sein.
+39|Lapa
+40|Bögen und Samba
+41|Die Lapa-Bögen, die Selarón-Treppe und Samba- und Choro-Nächte in alten Villen.
+42|Viel Party und Lärm; nachts besser mit Auto oder App unterwegs sein.
+43|Centro
+44|Die historische Stadt
+45|Das Theatro Municipal, die Confeitaria Colombo, Barockkirchen, der Paço Imperial und die Kathedrale.
+46|Werktags tagsüber schön; nachts und sonntags leer.
+47|Porto Maravilha
+48|Der erneuerte Hafen
+49|Die Praça Mauá mit dem Museum von Morgen und dem MAR, das AquaRio, das Wandbild Etnias und Klein-Afrika mit der Pedra do Sal.
+50|Eher zum Besuchen als zum Übernachten.
+51|Gávea
+52|Studentisch und grün
+53|Das Planetarium, das Instituto Moreira Salles und Studentenkneipen am Fuß des Berges.
+54|Ruhig, weit weg von der U-Bahn.
+55|Tijuca und Maracanã
+56|Fußball und Sambaschulen
+57|Das Maracanã-Stadion, die Quinta da Boa Vista und die Sambaschule Salgueiro.
+58|Nordzone, Wohngegend; zum Besuchen.
+59|Barra da Tijuca
+60|Langer Strand und Einkaufszentren
+61|Ein riesiger Strand, Alleen, Einkaufszentren, die Cidade das Artes und weiter draußen die wilden Strände Prainha und Grumari.
+62|Modern und weit weg von allem Historischen; praktisch mit Auto.
+63|Rio an 1 Tag
+64|So früh wie möglich, bevor Wolken aufziehen.
+65|Ein Kaffee in der Konditorei von 1894.
+66|Zum Sonnenuntergang hinauffahren.
+67|Eine Caipirinha an einem Strandkiosk.
+68|Tag 1 · Sonnenuntergang
+69|Der meistbeklatschte Sonnenuntergang Rios.
+70|Chopp und Bolinhos in Leblon.
+71|Samba auf der Straße; schau, an welchen Tagen eine Roda ist.
+72|Auf der Mauer (Mureta), mit Blick auf die Bucht.
+73|Samba und Choro drinnen.
+74|Rio gratis
+75|Besser mit Führer oder in der Gruppe.
+76|Fahrräder und Tretboote.
+77|Uruguai ↔ General Osório
+78|Centro (Carioca, Cinelândia), Glória, Catete, Flamengo, Botafogo, Copacabana (Cardeal Arcoverde, Siqueira Campos, Cantagalo) und Ipanema (General Osório)
+79|Pavuna ↔ Botafogo
+80|Maracanã, Estácio und die Nordzone; teilt sich den Abschnitt zwischen Estácio und Botafogo mit Linie 1
+81|General Osório ↔ Jardim Oceânico
+82|Verlängert Linie 1 nach Ipanema (Nossa Senhora da Paz), Leblon (Jardim de Alah, Antero de Quental), Gávea und Barra da Tijuca
+83|U-Bahn mit der Bankkarte
+84|An den Drehkreuzen aller U-Bahn-Stationen zahlt man, indem man die kontaktlose Kreditkarte oder das Handy hinhält. Vorher muss man nichts kaufen.
+85|Busse, BRT und VLT: Jaé
+86|In Stadtbussen, im BRT und in der Straßenbahn VLT nutzt man die aufladbare Jaé-Karte oder -App. Auf manchen Linien geht auch die Bankkarte: schau aufs Lesegerät.
+87|Züge und Fähren
+88|Auch die Vorortzüge (SuperVia) und die Fähren nach Niterói und Paquetá akzeptieren an vielen Zugängen kontaktlose Karten.
+89|Am bequemsten
+90|Nachts oder in Gegenden ohne U-Bahn nutzen die meisten Besucher Apps wie Uber oder 99: günstig und sicherer als zu Fuß.
+91|18. November 2026, mit Riotur, MetrôRio und Mobi-Rio. Bei Abweichungen gelten die Schilder vor Ort.
+92|Drei Linien: Linie 1 fährt vom Centro über Flamengo, Botafogo und Copacabana nach Ipanema; Linie 4 weiter nach Leblon und Barra; Linie 2 in die Nordzone und zum Maracanã.
+93|Montag bis Samstag von früh morgens bis Mitternacht; sonn- und feiertags später geöffnet und früher geschlossen.
+94|Sicher und klimatisiert
+95|Das sicherste und bequemste Verkehrsmittel der Stadt. Zur Stoßzeit gibt es Waggons nur für Frauen.
+96|Busse, BRT und VLT
+97|Sie fahren überallhin, können aber verwirrend und voll sein. Nutze Google Maps oder Moovit, um die richtige Linie zu finden, und zeig dem Fahrer dein Ziel.
+98|BRT
+99|Gelenkbusse mit eigener Spur, die Barra, die Westzone und den Flughafen Galeão verbinden.
+100|VLT
+101|Die moderne Straßenbahn im Centro: Sie verbindet den Busbahnhof (Rodoviária), die Praça Mauá und den Flughafen Santos Dumont.
+102|Der Bondinho von Santa Teresa
+103|Die historische gelbe Straßenbahn fährt von der Station Carioca nach Santa Teresa hinauf. Schon die Fahrt ist ein Ausflug.
+104|Galeão (GIG)
+105|Der internationale Flughafen auf der Ilha do Governador, ohne Verkehr etwa 40 Minuten von der Zona Sul.
+106|Santos Dumont (SDU)
+107|Der Flughafen für Inlandsflüge im Centro, direkt an der Bucht. Mit VLT-Haltestelle und U-Bahn in der Nähe.
+108|App oder offizielles Taxi
+109|Vom Galeão aus bestellt man am einfachsten ein Auto per App (Uber oder 99) am ausgeschilderten Treffpunkt oder nimmt ein Taxi der offiziellen Genossenschaften mit Festpreis je Zone.
+110|BRT und Busse
+111|Der BRT TransCarioca verbindet den Galeão mit Barra und der U-Bahn-Linie 2, und es gibt Expressbusse in die Zona Sul. Günstiger, aber langsamer und mit Gepäck unbequem.
+112|Uber und 99 funktionieren sehr gut und zeigen den Preis vor der Bestellung. Prüfe vor dem Einsteigen das Kennzeichen.
+113|Normale Taxis sind gelb mit blauem Streifen und fahren mit Taxameter (nachts und sonntags teurer). Spezialtaxis haben Festpreise.
+114|Steig nicht in Autos, die dir am Flughafen oder auf der Straße angeboten werden.
+115|Zu Fuß und mit dem Rad
+116|Die Uferpromenade
+117|Die ganze Küste von Leme bis Leblon hat einen Radweg und eine Promenade zum Spazieren.
+118|Leihräder
+119|Es gibt Leihräder (die orangen von Bike Itaú), die man per App entsperrt.
+120|Achtung, Entfernungen
+121|Die Stadt ist lang: Zwischen Centro und Ipanema nimmt man besser die U-Bahn.
+122|Militärpolizei (Notfälle)
+123|Rettungswagen (SAMU)
+124|Feuerwehr und Seenotrettung
+125|DEAT: Touristenpolizeiwache in Leblon
+126|BPTUR: Polizei der Touristengebiete in Copacabana
+127|Gewalt gegen Frauen
+128|Stadtverwaltung Rio (Stadtinformationen)
+129|Am häufigsten: Handydiebstahl
+130|Das häufigste Problem ist Handydiebstahl auf der Straße, am Strand und auf dem Gehweg: oft vom Fahrrad aus oder durch Wegreißen.
+131|Lauf nicht mit dem Handy in der Hand und leg es auf Terrassen nicht auf den Tisch. Für einen Blick auf die Karte geh in ein Geschäft.
+132|Nimm an den Strand nur das Nötigste mit: eine Kopie des Ausweises, wenig Geld und nichts Wertvolles im Sand.
+133|Nutze nur eine Karte und wenn möglich eine Debitkarte mit wenig Guthaben.
+134|Centro und Lapa nachts und sonntags, wenn sie leer sind.
+135|Santa Teresa nachts: mit Auto oder App unterwegs sein.
+136|Favelas nur mit organisierter Führung und lokalem Guide.
+137|Die Wege auf den Corcovado und die Hügel: besser mit Guide und in der Gruppe.
+138|Strände nachts und die meerseitige Promenade nach Einbruch der Dunkelheit.
+139|Kartenklonen: Lass deine Karte nicht aus den Augen und prüfe vor dem Bezahlen den Betrag am Lesegerät.
+140|Am Strand bietet dir jemand etwas „geschenkt“ an und verlangt dann viel Geld: frag immer vorher nach dem Preis.
+141|Falsche Taxis am Flughafen: nimm die App oder die offizielle Genossenschaft.
+142|Lass in Clubs dein Getränk nicht unbeaufsichtigt.
+143|Im Meer
+144|Es gibt starke Strömungen: Geh nur dort ins Wasser, wo Rettungsschwimmer sind, und beachte die roten Flaggen.
+145|Die Sonne ist sehr stark: Sonnencreme, Hut und viel Wasser.
+146|Wenn du ausgeraubt wirst, wehr dich nicht. Erstatte danach Anzeige bei der DEAT (Touristenpolizei in Leblon) oder online auf der Website der Zivilpolizei.
+147|Schließ eine Reiseversicherung ab: Private Behandlung ist gut, aber teuer.
+148|Real (BRL).
+149|Karten und Pix
+150|Man zahlt fast überall mit Karte, auch kontaktlos. Brasilianer nutzen viel Pix (Überweisung per Handy); manche kleine Läden nehmen nur Pix oder Bargeld.
+151|Nutze Geldautomaten in Banken oder Einkaufszentren, tagsüber. Wenn der Automat anbietet, in deiner Währung abzurechnen, wähle Reais.
+152|In Restaurants und Bars kommen 10 % Service auf die Rechnung: freiwillig, wird aber fast immer bezahlt.
+153|Am Strand
+154|Strandverkäufer und Stuhlverleih nehmen meist Bargeld oder Pix.
+155|Uhrzeiten in Rio
+156|Mittagessen gibt es zwischen 12 und 15 Uhr, Abendessen ab 20 Uhr. Botecos haben den ganzen Tag geöffnet.
+157|Geschäfte haben zu üblichen Ladenzeiten offen; Einkaufszentren täglich bis abends.
+158|Christus und Zuckerhut
+159|Sie sind voll: Kauf ein Zeitfensterticket auf der offiziellen Website und schau auf die Wettervorhersage, denn bei Wolken sieht man nichts.
+160|Sommer (Dez.–März)
+161|Starke, feuchte Hitze, Nachmittagsregen, volle Strände, Silvester und Karneval.
+162|Herbst (Apr.–Juni)
+163|Die beste Zeit: weniger Hitze und weniger Leute.
+164|Winter (Juli–Sept.)
+165|Mild, zwischen 18 und 26 °C, trockene, klare Tage: ideal für die Christusstatue und die Wanderwege.
+166|Frühling (Okt.–Nov.)
+167|Steigende Hitze, etwas Regen und eine Stadt, die sich auf den Sommer vorbereitet.
+168|Meist 127 V (manchmal 220 V). Steckdosen Typ N mit drei runden Stiften: Adapter mitnehmen.
+169|Trink kein Leitungswasser: kauf Mineralwasser.
+170|Man spricht Portugiesisch. Langsames Spanisch verstehen viele recht gut; unten die nützlichsten Wörter.
+171|Apotheken (Drogarias) haben bis spät geöffnet. Notfälle: 192.
+172|Unter Bekannten ein oder zwei Küsschen. Cariocas sind sehr herzlich und locker.
+173|Stühle und Sonnenschirme mietet man an den Barracas, und Verkäufer kommen mit allem vorbei: Eis-Mate, Globo-Kekse, gegrillter Käse.
+174|Feijoada, Picanha, Pão de Queijo, Coxinha, Açaí, frische Säfte, Kokoswasser, Caipirinha und eiskaltes Chopp.
+175|Außerhalb von Rio
+176|Rio-Pass
+177|Hak die Orte ab, die du kennst, und sammle Stempel: Strände, Aussichtspunkte, Botecos, Samba, Viertel-Entdecker…
+178|Spät in der Nacht in Rio
+179|🎶 Samba und Nachtleben
+180|Keine U-Bahn-Station in der Nähe: besser per App, Bus oder zu Fuß
+181|Was suchst du? Christus, Strände, Samba, Feijoada, Lapa…
+182|Z. B.: Christusstatue, Zuckerhut, Selarón-Treppe…
+183|Z. B.: Copacabana, Ipanema, Centro…
+184|Z. B.: LATAM, GOL, Aerolíneas Argentinas…
+185|Betrag in Reais
+186|Bis Copacabana
+187|Vom Flughafen Galeão
+188|Vom Flughafen Santos Dumont
+189|Galeão: so kommst du in die Stadt
+190|MetrôRio: mit der Bankkarte zahlen
+191|Offizielle Website der U-Bahn
+192|Jaé: die Karte für Busse, BRT und VLT
+193|Offizielle Website von Jaé
+194|Am einfachsten bestellt man am Galeão ein Auto per App (Uber oder 99) am ausgeschilderten Treffpunkt oder nimmt im Flughafen ein Taxi der offiziellen Genossenschaften.
+195|Nimm keine Fahrten von Leuten an, die dir in der Ankunftshalle ein Auto anbieten.
+196|BRT und Busse sind günstiger, aber langsam und mit Koffern unbequem.
+197|Der Santos Dumont liegt im Centro: Von dort ist es eine kurze App-Fahrt nach Copacabana, und der VLT hält vor der Tür.
+198|Pack vor dem Losgehen dein Handy weg: Trag es auf der Straße nicht in der Hand.
+199|Vivo
+200|Claro
+201|TIM
+202|Wenn dein Handy eSIM unterstützt, kannst du sie vor der Reise aktivieren: am bequemsten.
+203|Für eine SIM-Karte in Brasilien braucht man den Pass und manchmal eine CPF (Steuernummer): In den Läden der Anbieter wird das erledigt.
+204|Viele Bars, Hotels und Einkaufszentren haben kostenloses WLAN.
+205|Nimm etwas Bargeld für den Strand, Kioske und kleine Stände mit.
+206|Wenn Geldautomat oder Kartenleser anbieten, in deiner Währung abzurechnen, wähle Zahlung in Reais.
+207|U-Bahn mit Bankkarte, Jaé und Apps
+208|In der U-Bahn reicht die kontaktlose Bankkarte oder das Handy: einfach ans Drehkreuz halten.
+209|Für Busse, BRT und VLT lade Jaé herunter oder kauf die Karte. Nachts und in Gegenden ohne U-Bahn besser per App.
+210|U-Bahn, Busse, VLT und Apps
+211|Für Rio selbst braucht man keins: Viel Verkehr, schwierige Parkplatzsuche, und in der Stadt kommt man mit U-Bahn und Apps überall hin. Praktisch für Ausflüge, etwa nach Petrópolis, Búzios oder an die Costa Verde.
+212|Localiza
+213|Movida
+214|Unidas
+215|Mit einem Führerschein aus einem Mercosur-Land darfst du als Tourist fahren; sonst nimm auch den Internationalen Führerschein mit.
+216|Auf den Straßen gibt es Maut: Viele Mietwagen haben automatische Bezahlung, frag bei der Abholung.
+217|Lass nichts sichtbar im Auto liegen und park an bewachten Plätzen oder in Parkhäusern.
+218|Nutze Waze oder Google Maps, aber meide nachts Abkürzungen durch Straßen, die du nicht kennst.
+219|Die offizielle U-Bahn-App: Strecken, Betriebshinweise und Aufladen.
+220|Die digitale Karte für Busse, BRT und VLT.
+221|Die andere in Brasilien beliebte Fahrdienst-App, auch mit Taxis.
+222|Bus- und U-Bahn-Verbindungen mit Live-Zeiten.
+223|Die meistgenutzte Essenslieferungs-App Brasiliens.
+224|Essen, Supermarkt und Apotheke nach Hause geliefert.
+225|In Brasilien nutzt man sie für alles: Reservierungen, Fragen und sogar Bestellungen.
+226|MetrôRio: der Betrieb heute
+227|Hinweise zu Verspätungen und Änderungen auf den U-Bahn-Linien.
+228|Streiks (Greve), Sperrungen und Demonstrationen in den Nachrichten des Tages.
+229|⭐ Highlights der Woche. Den vollständigen Veranstaltungskalender gibt es bei Riotur: Schau vorher auf ihre Seite.
+230|Riotur: Was man in Rio unternehmen kann (offizieller Kalender)
+231|Rio hat zwei Flughäfen: Galeão (GIG), den internationalen, auf der Ilha do Governador, und Santos Dumont (SDU) für Inlandsflüge mitten im Centro. Schau genau auf dein Ticket, von welchem dein Flug geht.
+232|Guten Morgen (nachmittags „Boa tarde“, abends „Boa noite“)
+233|Danke („obrigado“ als Mann, „obrigada“ als Frau)
+234|Um zu fragen, ob Karten angenommen werden
+235|Um ein gezapftes Bier zu bestellen
+236|💳 So bezahlst du die U-Bahn mit der Bankkarte
+237|📱 So schützt du dein Handy auf der Straße und am Strand
+238|🌊 So badest du sicher im Meer
+239|Konsulate
+240|Flughäfen und Terminals
+241|Touristeninformation · Ipanema
+242|Touristeninformation in Ipanema: Karten, Tipps und Hilfe in mehreren Sprachen.
+243|Besucherzentrum des Nationalparks Tijuca
+244|Infos zu Wanderwegen, Wasserfällen und Aussichtspunkten im Tijuca-Wald.
+245|DEAT · Touristenpolizeiwache
+246|Die Sonderwache für Touristen: Man spricht mehrere Sprachen und nimmt die Anzeige auf, wenn du ausgeraubt wirst. Telefon +55 21 2332-2893.
+247|BPTUR · Polizeibataillon für Touristengebiete
+248|Die Polizei, die in den Touristengebieten Streife fährt. Telefon +55 21 2332-7949.
+249|12. Polizeiwache · Copacabana
+250|Wache der Zivilpolizei in Copacabana.
+251|13. Polizeiwache · Ipanema
+252|Wache der Zivilpolizei für Ipanema und das Ende von Copacabana.
+253|14. Polizeiwache · Leblon
+254|Wache der Zivilpolizei in Leblon, neben der DEAT.
+255|10. Polizeiwache · Botafogo
+256|Wache der Zivilpolizei in Botafogo.
+257|Hospital Municipal Souza Aguiar
+258|Öffentliches Krankenhaus mit 24-Stunden-Notaufnahme, das größte im Centro.
+259|Hospital Municipal Miguel Couto
+260|Öffentliches Krankenhaus mit 24-Stunden-Notaufnahme nahe Leblon und Gávea.
+261|Hospital Copa D'Or
+262|Privatkrankenhaus mit 24-Stunden-Notaufnahme in Copacabana. Kontaktiere vor der Behandlung deine Reiseversicherung.
+263|Hospital São Lucas
+264|Privatkrankenhaus mit Notaufnahme in Copacabana.
+265|Hospital Samaritano
+266|Privatkrankenhaus mit Notaufnahme in Botafogo.
+267|Pässe, Formalitäten und Hilfe, wenn dir die Papiere gestohlen werden. Telefon +55 21 3850-8150. Adresse aus der offiziellen Liste von Riotur.
+268|Telefon +55 21 2551-1796. Adresse aus der offiziellen Liste von Riotur.
+269|Im selben Gebäude wie das argentinische Konsulat. Adresse aus der offiziellen Liste von Riotur.
+270|Adresse aus der offiziellen Liste von Riotur.
+271|Im Rio-Sul-Turm. Adresse aus der offiziellen Liste von Riotur.
+272|Mexiko · Generalkonsulat
+273|Telefon +55 21 2553-2294. Adresse aus der offiziellen Liste von Riotur.
+274|Telefon +55 21 2551-4496. Adresse aus der offiziellen Liste von Riotur.
+275|Im selben Gebäude wie das mexikanische Konsulat. Adresse aus der offiziellen Liste von Riotur.
+276|Bürgerservice mit Termin. Adresse von der offiziellen Website der Botschaft.
+277|Internationaler Flughafen Galeão (GIG)
+278|Der internationale Flughafen, ohne Verkehr etwa 40 Minuten von der Zona Sul.
+279|Flughafen Santos Dumont (SDU)
+280|Inlandsflüge. VLT-Haltestelle vor der Tür.
+281|Rodoviária Novo Rio
+282|Der Fernbusbahnhof. Komm per App oder Taxi hin und weg.
+283|Central do Brasil
+284|Bahnhof der Vorortzüge (SuperVia) und der U-Bahn.
+285|Fährstation Praça XV
+286|Von hier fahren die Fähren nach Niterói und zur Insel Paquetá.
+287|Geöffnete Apotheken auf der Karte. Viele haben rund um die Uhr offen.
+288|Online-Anzeige
+289|Delegacia Online: Bei der Zivilpolizei kann man manche Diebstähle und Verluste online melden.
+290|Riotur
+291|Offizielle Touristeninformation der Stadt.
+292|Konsulate auf der Karte finden.
+293|Strandkiosk
+294|Von Strand zu Strand
+295|3 Strände
+296|Rio von oben
+297|3 Aussichtspunkte
+298|Carioca-Boteco
+299|2 Botecos
+300|Boteco
+301|Im Samba-Rhythmus
+302|2 Orte mit Samba
+303|Ein Geheimtipp
+304|Ehren-Carioca
+305|Gültiger Reisepass oder Ausweis (ein Mercosur-Ausweis reicht) und eine Kopie auf dem Handy
+306|Steckdosenadapter Typ N, der mit drei runden Stiften
+307|Zeitfenstertickets für Christusstatue und Zuckerhut online kaufen
+308|Sonnencreme, Hut und Flip-Flops
+309|Den Flughafen per App oder offiziellem Taxi verlassen
+310|Jaé für Busse, BRT und VLT herunterladen
+311|Nicht mit dem Handy in der Hand herumlaufen
+312|Rio-Klassiker
+313|Natur in der Stadt
+314|Botecos
+315|Brasilianische Küche
+316|Churrascarias
+317|Churrascaria
+318|Samba und Musik
+319|Karneval das ganze Jahr
+320|Centro, Lapa und Santa Teresa
+321|Zuckerhut, Botafogo und Copacabana
+322|Christus, Lagoa, Ipanema und Leblon
+323|Centro, Lapa und Zuckerhut
+324|Christus, Lagoa und Ipanema
+325|20. Januar
+326|Tag des heiligen Sebastian
+327|Der Schutzpatron der Stadt: städtischer Feiertag mit Messen und Prozessionen.
+328|Karneval
+329|Die Paraden der Sambaschulen im Sambódromo und Hunderte Straßen-Blocos in der ganzen Stadt. Sehr früh buchen.
+330|Junifeste (Festas Juninas)
+331|Dorffeste mit Maisgerichten, Quentão, Forró und Quadrilha-Tanz in Schulen, Kirchen und auf der Feira de São Cristóvão.
+332|Rio-Marathon
+333|Sie führt die Küste entlang bis zum Aterro do Flamengo; an dem Sonntag gibt es Straßensperrungen.
+334|September, in manchen Jahren
+335|Rock in Rio
+336|Das große Musikfestival in der Cidade do Rock in Barra.
+337|Festival do Rio
+338|Das internationale Filmfestival mit Vorführungen in der ganzen Stadt.
+339|Weihnachten an der Lagoa
+340|Weihnachtsbeleuchtung an der Lagune und in den Vierteln der Zona Sul.
+341|Silvester in Copacabana
+342|Millionen weiß gekleidete Menschen feiern am Strand den Jahreswechsel, mit Konzerten und Feuerwerk über dem Meer.
+343|Portugiesische Wörter, die du sehen wirst
+344|Entrada · Saída
+345|Eingang und Ausgang: in der U-Bahn, in Einkaufszentren und Geschäften.
+346|Aberto · Fechado
+347|Rua · Avenida · Praça
+348|Straße, Allee und Platz: Du siehst sie in jeder Adresse.
+349|Posto
+350|Die nummerierten Rettungsschwimmer-Posten am Strand: „am Posto 9“ ist ein üblicher Treffpunkt.
+351|Feira
+352|Markt.
+353|Farmácia · Drogaria
+354|Greve
+355|Chopp
+356|Eiskaltes Fassbier: das Getränk im Boteco.
+357|Rettungswagen: 192. Öffentliche Krankenhäuser behandeln Notfälle kostenlos, sind aber meist überfüllt; mit Versicherung geh in ein privates.
+358|Es gibt viele, einige rund um die Uhr geöffnet, und sie verkaufen einfache Medikamente ohne Rezept.
+359|Trink kein Leitungswasser: kauf Wasser in Flaschen.
+360|Im Sommer gibt es Dengue: Benutz Mückenschutz, vor allem in der Dämmerung.
+361|Sehr empfehlenswert: Ohne Versicherung ist private Behandlung teuer.
+362|Markt mit Kunsthandwerk, Kunst und bahianischem Essen auf der Praça General Osório
+363|Samba-Runde unter freiem Himmel rund um den Stein
+364|Die Christusstatue auf dem Corcovado mit dem berühmtesten Blick der Stadt: Strände, Lagune, Zuckerhut und Bucht.
+365|Kauf das offizielle Zeitfensterticket und fahr mit der Corcovado-Bahn oder den Paineiras-Vans hinauf. Geh früh: Nach Mittag zieht es oft zu.
+366|Zwei Seilbahnen fahren auf den Morro da Urca und den Zuckerhut, mit Blick auf Copacabana, die Christusstatue und die Guanabara-Bucht.
+367|Fahr eine Stunde vor Sonnenuntergang hinauf und bleib, bis die Lichter angehen.
+368|Die mit Fliesen aus aller Welt bedeckte Treppe, die der chilenische Künstler Jorge Selarón 20 Jahre lang gestaltete.
+369|Geh morgens, wenn weniger los ist. Nicht nachts hingehen.
+370|Das alte weiße Aquädukt aus dem 18. Jahrhundert, heute Brücke der Santa-Teresa-Bahn und Mittelpunkt des Nachtlebens in Lapa.
+371|Tagsüber fürs Foto; nachts wird hier gefeiert.
+372|Das Theater von 1909 nach Vorbild der Pariser Oper, mit Marmortreppen und goldenem Saal.
+373|Tagsüber gibt es Führungen, abends Oper und Ballett.
+374|Das Stadion zweier WM-Endspiele, Tempel des brasilianischen Fußballs, mit Führungen durch Kabinen und aufs Spielfeld.
+375|Ein Spiel zu sehen ist ein ganz anderes Erlebnis: Kauf Tickets auf der offiziellen Website des Vereins.
+376|Eine kegelförmige Kathedrale aus den 70ern mit riesigen bunten Glasfenstern vom Boden bis zur Decke.
+377|Das Licht der Fenster ist am Vormittag am schönsten.
+378|Calatravas Museum für Wissenschaft und Zukunft in einer weißen Struktur, die in die Bucht ragt.
+379|Dienstags ist der Eintritt oft frei: schau auf die Website.
+380|Museum für brasilianische Kunst in zwei Gebäuden mit gewelltem Dach, mit Terrasse über dem Hafen.
+381|Kombinier es mit dem Museum von Morgen nebenan.
+382|Die große Sammlung brasilianischer Malerei des 19. und 20. Jahrhunderts in einem Palast an der Cinelândia.
+383|Es liegt gegenüber dem Theatro Municipal.
+384|Brasiliens Geschichte in einem alten Fort und Arsenal an der Bucht, mit kaiserlichen Kutschen.
+385|Es ist groß: Plane ein paar Stunden ein.
+386|Das Museum für Moderne Kunst, ein ikonischer Betonbau im Aterro do Flamengo mit Gärten von Burle Marx.
+387|Die Gärten sind kostenlos zugänglich.
+388|Der Catete-Palast, ehemaliger Regierungssitz, mit einem sehr schönen baumreichen Park.
+389|Der Park ist kostenlos und ruhig.
+390|Ein modernistisches Haus im Wald mit Fotoausstellungen und einem sehr netten Café.
+391|Ideal für einen ruhigen Nachmittag.
+392|Das Haus eines Sammlers in Santa Teresa mit moderner Kunst und schönem Blick aufs Centro.
+393|Nebenan liegt der Parque das Ruínas.
+394|Brasiliens größtes Museum für Volkskunst mit Tausenden Figuren aus Ton und Holz.
+395|Es liegt weit draußen: kombinier es mit Prainha.
+396|Ein Benediktinerkloster mit einer komplett vergoldeten Barockkirche.
+397|Sonntagmorgens gibt es eine Messe mit gregorianischem Gesang.
+398|Eine große Kirche aus dem 18. Jahrhundert mit Marmorkuppel und Deckenmalereien.
+399|Kombinier sie mit dem Centro Cultural Banco do Brasil gegenüber.
+400|Eine kleine weiße Barockkirche auf einem Hügel, mit portugiesischen Fliesen.
+401|Man steigt über eine Treppe oder einen Schrägaufzug hinauf.
+402|Eines der ältesten Klöster Rios mit der vergoldeten Kirche des Dritten Ordens des hl. Franziskus.
+403|Der Eingang liegt neben der U-Bahn-Station Carioca.
+404|Eine neugotische Bibliothek mit Holzregalen bis zur Decke, eine der schönsten der Welt.
+405|Sei leise: Es ist immer noch eine Bibliothek.
+406|Das Haus der portugiesischen Könige und Kaiser, heute Kulturzentrum an der Praça XV.
+407|Es gibt kostenlose Ausstellungen und ein Café.
+408|Ein kleines grünes Schloss in der Bucht, in dem der letzte Ball des Kaiserreichs stattfand.
+409|Besichtigt wird mit der Marine, Abfahrt am Kulturzentrum der Marine.
+410|Das Fort an der Spitze von Copacabana mit Kanonen, Militärmuseum und Konditorei mit Meerblick.
+411|Frühstück mit Meerblick in der Confeitaria Colombo im Fort ist ein Klassiker.
+412|Ein monumentales Kuppelgebäude mit erstklassigen Ausstellungen, Kino und Theater.
+413|Schau ins Programm: Viele Ausstellungen sind kostenlos.
+414|Der berühmteste Strand der Welt mit der Wellenpromenade von Burle Marx, Kiosken und Fußball im Sand.
+415|Nimm nur das Nötigste mit auf den Sand und bade dort, wo Rettungsschwimmer sind.
+416|Der Strand aus dem Lied, in „Postos“ unterteilt, mit dem Berg Dois Irmãos im Hintergrund.
+417|Jeder Posto hat seinen Stil: Der 9 ist der jüngste, der 10 der familienfreundlichste.
+418|Der Felsen zwischen Copacabana und Ipanema, auf dem die Leute den Sonnenuntergang beklatschen.
+419|Komm vor Sonnenuntergang, um einen Platz auf dem Felsen zu bekommen.
+420|Die Fortsetzung von Ipanema, ruhiger, mit dem Baixo Bebê für Familien.
+421|Ideal mit Kindern.
+422|Ein kleiner Strand mit rötlichem Sand am Fuß des Zuckerhuts, mit ruhigem Wasser.
+423|Daneben beginnt die Pista Cláudio Coutinho, ein leichter Weg.
+424|Ein wilder Strand zwischen grünen Hügeln, beliebt bei Surfern.
+425|Liegt weit draußen und ohne direkte Verbindung: Fahr mit dem Auto oder per App.
+426|Ein Garten von 1808 mit der Allee der Königspalmen, einem Orchideenhaus und Affen in den Bäumen.
+427|Geh früh, um mehr Tiere zu sehen.
+428|Eine Villa mit Innenpool am Fuß des Corcovado, umgeben von Regenwald. Hier beginnt ein Weg zur Christusstatue.
+429|Das Café der Villa ist ein Frühstücksklassiker.
+430|Die von Hügeln umgebene Lagune mit sieben Kilometern Radweg, Kiosken und Tretbooten.
+431|Bei Sonnenuntergang mit der beleuchteten Christusstatue ist sie wunderschön.
+432|Einer der größten Stadtwälder der Welt mit Wasserfällen, Wanderwegen und Aussichtspunkten.
+433|Fahr mit Auto oder App hin, und für lange Wege mit Guide.
+434|Burle Marx' großer Uferpark mit Sportplätzen, Radweg und Blick auf den Zuckerhut.
+435|Ideal zum Joggen oder Radfahren am Morgen.
+436|Die Ruinen einer Villa, heute Kulturzentrum mit Aussicht auf das Centro und die Bucht.
+437|Neben dem Museu Chácara do Céu.
+438|Ein Aussichtspunkt auf halber Höhe des Corcovado mit Blick auf den Zuckerhut und die Bucht von Botafogo.
+439|Fahr per App und tagsüber hin; geh nicht zu Fuß die Wege hinauf.
+440|Ein Pavillon im chinesischen Stil im Tijuca-Wald mit weitem Blick über die Zona Sul.
+441|Man kommt mit dem Auto oder auf einer Tour hin.
+442|Ein Aussichtspunkt am Ende von Leblon mit Blick über den ganzen Strand bis zum Arpoador.
+443|Schön bei Sonnenuntergang, mit Kiosk für einen Drink.
+444|Die erste Station der Zuckerhut-Seilbahn mit Terrassen, Bars und Blick auf die Bucht.
+445|Man kann von der Praia Vermelha aus über einen Pfad hinaufwandern.
+446|Das Bohème-Viertel auf dem Hügel: alte Villen, Ateliers, Bars und die gelbe Straßenbahn.
+447|Fahr mit dem Bondinho vom Centro hinauf und erkunde es tagsüber.
+448|Das Herz von Klein-Afrika, wo der Samba entstand: An manchen Abenden gibt es Samba-Runden auf der Straße.
+449|Schau, an welchen Tagen Samba ist, und geh in der Gruppe.
+450|Ein ruhiges Viertel mit niedrigen Häusern am Fuß des Zuckerhuts, mit der Mauer (Mureta) für den Sonnenuntergang über der Bucht.
+451|Trink etwas auf der Mureta sitzend, wie die Cariocas.
+452|Die erneuerte Hafenpromenade mit Kobras riesigem Wandbild „Etnias“ und umgebauten Lagerhallen.
+453|Lauf sie zwischen der Praça Mauá und dem AquaRio ab.
+454|Das berühmteste Boteco der Urca: kleine Pasteten und Chopp auf der Mureta mit Blick auf die Bucht.
+455|Bei Sonnenuntergang wird es voll: an der Theke bestellen und auf die Mauer setzen.
+456|Ein klassisches Boteco in Leblon, berühmt für Stockfischbällchen und Chopp.
+457|Man trinkt im Stehen auf dem Gehweg, wie alle.
+458|Ein Boteco von 1956, bis spät geöffnet, mit Tischen auf dem Gehweg und Hausmannskost.
+459|Ideal für einen späten Happen.
+460|Rios ältestes Lokal (1887) mit Chopp, Würstchen und deutscher Küche.
+461|Ideal für ein Mittagessen beim Bummel durchs Centro.
+462|Eine portugiesische Bar mit einer Vitrine voller kalter und warmer Tapas.
+463|Such aus, indem du auf die Vitrine zeigst.
+464|Eine Bar in Santa Teresa, berühmt für Feijoada und Fleisch-Pastéis.
+465|brasilianische Küche
+466|Das Restaurant für Feijoada, das Nationalgericht, jeden Tag serviert.
+467|Die Portionen sind groß: teilen.
+468|Brasilianische Küche in einem Haus zwischen Bäumen mit Blick auf die Bucht, hoch oben in Santa Teresa.
+469|Reservier einen Terrassentisch zum Sonnenuntergang.
+470|Gegrilltes Hähnchen, Farofa und Chopp in einem kleinen Lokal in Copacabana, bis sehr spät geöffnet.
+471|Ein Klassiker nach dem Ausgehen.
+472|Moqueca, Küche aus dem Nordosten und Dutzende Cachaças in der Antiquitätenstraße.
+473|Lass dir eine handgemachte Cachaça empfehlen.
+474|cachaça
+475|Eine traditionelle Rodízio-Churrascaria: Die Kellner kommen mit Fleischspießen, bis du Stopp sagst.
+476|Mit dem grün-roten Kärtchen zeigst du, ob du mehr willst oder fertig bist.
+477|Fleisch-Rodízio an der Bucht von Botafogo mit Blick auf den Zuckerhut.
+478|Churrascaria im Aterro do Flamengo mit großen Fenstern zur Bucht.
+479|Ein klassisches Grillrestaurant in Flamengo, à la carte, berühmt für seine Picanha.
+480|Ruhiger als ein Rodízio.
+481|Die Signature-Küche von Felipe Bronze mit Michelin-Sternen, rund um brasilianische Zutaten und Feuer.
+482|Degustationsmenü mit Produkten aus dem eigenen Garten in einer Villa in Botafogo.
+483|Zeitgenössische Spitzenküche in minimalistischem Ambiente, eines der meistprämierten Restaurants Brasiliens.
+484|Das italienische Restaurant des Copacabana Palace am Hotelpool.
+485|Zieh dich etwas förmlicher an.
+486|Eine Konditorei von 1894 mit belgischen Spiegeln und Buntglas: der eleganteste Ort für einen Kaffee im Centro.
+487|Morgens ist die Schlange kürzer.
+488|Rios älteste Konditorei von 1860, berühmt für portugiesisches Gebäck.
+489|Probier das Pastel de Nata.
+490|Eine Bäckerei mit Feinkostladen, Sandwiches und Frühstück draußen auf dem Gehweg.
+491|Guter Ort zum Frühstücken.
+492|Ein Nachbarschaftscafé mit Frühstück, Kuchen und gutem Kaffee, einen Block vom Strand.
+493|Ideal vor dem Strand.
+494|Sandwiches mit gegrilltem Rinderfilet und Ananas, seit 1955 bis in die frühen Morgenstunden geöffnet.
+495|Bestell den Klassiker Filé com Abacaxi.
+496|Eine Saftbar mit Dutzenden tropischen Früchten und Sandwiches.
+497|Probier den mit Açaí oder Maracuja.
+498|Die altbewährte Saft- und Sandwichbar in Leblon.
+499|Ideal nach dem Strand.
+500|Ein großer Pavillon der Kultur des Nordostens: typisches Essen, Live-Forró und Stände.
+501|Geh am Wochenende abends hin.
+502|forró
+503|Kreative pflanzliche Küche und Cocktails in Ipanema.
+504|Vegane Hausmannskost in Botafogo: Burger, Tagesgerichte und Kuchen.
+505|Veganes Bio-Buffet nach Gewicht in Botafogo.
+506|Vegane Hausmannskost mitten im Centro, ideal zum Mittagessen.
+507|Eine dreistöckige Villa voller Antiquitäten mit Live-Samba, Choro und Forró.
+508|Am Wochenende früh kommen.
+509|Eine Bar für traditionellen Samba in Lapa mit Livemusik jeden Abend.
+510|Ideal, um echten Samba zu hören.
+511|Eine winzige Bar, in der sich Musiker zum Samba- und Choro-Spielen auf dem Gehweg treffen.
+512|Du nimmst dein Bier selbst aus dem Kühlschrank und schreibst es auf.
+513|Die Gasse, in der der Bossa Nova entstand, mit Konzerten im kleinen Little Club.
+514|Schau in den Konzertkalender.
+515|bossa nova
+516|Ein legendäres Zelt unter den Lapa-Bögen mit Rock-, Samba- und brasilianischen Konzerten.
+517|Schau ins Programm: Fast jedes Wochenende gibt es Konzerte.
+518|Die Bar des Copacabana Palace für einen klassischen Cocktail im berühmtesten Hotel der Stadt.
+519|Zieh dich etwas eleganter an.
+520|Eine Bar am Strand von Ipanema mit Caipirinhas und Blick auf den Arpoador.
+521|Ideal bei Sonnenuntergang.
+522|Eine Bar im Pfahlbau-Stil an der Lagune mit Caipirinhas aus tropischen Früchten.
+523|Die Abende mit der beleuchteten Christusstatue sind die schönsten.
+524|Eine Bar mit Hunderten Cachaças und gut gemachter Caipirinha, dazu Essen aus Minas Gerais.
+525|Lass dir eine Cachaça empfehlen.
+526|Eine Villa mit Samba-Tanzfläche, Gafieira und Billard im Herzen von Lapa.
+527|Viele Einheimische gehen hin.
+528|Ein Kellerclub für elektronische Musik und Indie in Copacabana.
+529|Öffnet spät und füllt sich nach Mitternacht.
+530|Ein Tanzsaal von 1867 in Lapa mit Live-Samba, Forró und Gafieira.
+531|Schau ins Programm: Jeder Abend hat einen anderen Rhythmus.
+532|Ein Tanzsaal von 1930, in dem man Samba de Gafieira tanzt, Samba zu zweit.
+533|Vor dem Tanzabend gibt es Kurse.
+534|Führungen mit Guides, die in der Gemeinde leben, um das Leben in einer Favela respektvoll kennenzulernen.
+535|Nur mit Anbietern, die mit der Gemeinde zusammenarbeiten. Niemals auf eigene Faust.
+536|Geführte Rundgänge durchs Centro auf Trinkgeldbasis.
+537|Am Ende gibt man so viel Trinkgeld, wie man möchte.
+538|Rundgang zur afrobrasilianischen Geschichte des Hafenviertels: Cais do Valongo, Pedra do Sal und Instituto Pretos Novos.
+539|Der Cais do Valongo ist Weltkulturerbe.
+540|Bootsfahrten in der Guanabara-Bucht mit Blick auf Zuckerhut, Niterói und die Strände.
+541|Bei Sonnenuntergang am schönsten.
+542|Ein kurzer Pfad von oben im Vidigal mit einem der besten Blicke auf Ipanema und Leblon.
+543|Geh mit einem lokalen Guide vom Eingang des Vidigal hinauf.
+544|Eine der schönsten Wanderungen Rios mit einem leichten Kletterabschnitt und Meerblick.
+545|Anspruchsvoll: nur mit Guide machen.
+546|Mit Drachen oder Gleitschirm von der Pedra Bonita zum Strand von São Conrado fliegen, mit Lehrer.
+547|Hängt vom Wind ab: Plane einen Puffertag ein.
+548|Kurze Hubschrauberflüge über Christusstatue, Zuckerhut und Strände.
+549|Abflug am Hubschrauberlandeplatz an der Lagune.
+550|Die Kaiserstadt in den Bergen mit dem Kaiserlichen Museum, der Kathedrale und Villen, kühler als Rio.
+551|Anderthalb Stunden mit dem Bus.
+552|Eine Kolonialstadt mit Kopfsteinpflaster zwischen Bergen und Meer, mit Stränden und Inseln.
+553|Es ist weit: Bleib mindestens eine Nacht.
+554|Die Stadt gegenüber mit Niemeyers Museum für Zeitgenössische Kunst und dem besten Blick auf Rio.
+555|Setz mit der Fähre von der Praça XV über.
+556|Eine autofreie Insel in der Bucht mit Sandwegen, alten Villen und Fahrrädern.
+557|Man kommt mit der Fähre von der Praça XV hin.
+558|Strände und Inseln
+559|Eine autofreie Insel mit Regenwald und Traumstränden wie Lopes Mendes.
+560|Bleib mindestens zwei Nächte.
+561|Eine Halbinsel mit über zwanzig Stränden, der Rua das Pedras und Nachtleben.
+562|Etwa drei Stunden mit dem Bus.
+563|Strände mit türkisfarbenem Wasser und Bootsfahrten zur Praia do Farol.
+564|Das Wasser ist kälter als in Rio.
+565|Eine Bucht mit Hunderten Inseln, die man mit dem Boot erkundet.
+566|Kombinier sie mit der Ilha Grande.
+567|Brasiliens erster Nationalpark mit Wasserfällen und Bergen.
+568|Nimm warme Kleidung mit: Oben ist es kalt.
+569|Eine Bergstadt neben dem Nationalpark am Dedo de Deus.
+570|Ideal zum Wandern.
+571|Ein geschützter, wilder Strand ohne Gebäude im Westen der Stadt.
+572|Fahr mit dem Auto oder per App.
+573|Haus und Garten des Landschaftsarchitekten Burle Marx, Weltkulturerbe.
+574|Besichtigung nur mit Führung und Reservierung.
+575|Brasiliens berühmtestes Hotel von 1923 am Strand, mit seinem legendären Pool.
+576|Auch ohne dort zu wohnen, kannst du in die Bar oder ins Restaurant.
+577|Designhotel am Arpoador mit Dachpool und Blick über den ganzen Strand.
+578|Die Dachbar ist nur für Hotelgäste.
+579|Luxuriöses Boutiquehotel am Meer in Copacabana mit Terrasse und Pool.
+580|Frag nach einem Zimmer mit Meerblick.
+581|Ein Strandhotel an der Spitze von Copacabana mit Dachpool und Blick auf das Fort.
+582|Die Dachbar ist bei Sonnenuntergang wunderschön.
+583|Eine ehemalige Kaffeeplantage, heute Hotel mit Gärten und Blick auf die Bucht.
+584|Nachts per App unterwegs sein.
+585|Ein sehr cooles Hotel in Santa Teresa mit Bar und Terrasse.
+586|Ideal zum Ausgehen in Lapa.
+587|Ein einfaches, gut gelegenes Hotel einen halben Block vom Strand von Ipanema.
+588|Gutes Preis-Lage-Verhältnis.
+589|Modernes Hotel am Strand von Copacabana mit Dachpool.
+590|Frag nach einem hohen Stockwerk.
+591|Ein Hostel einen Block vom Strand von Ipanema, mit jungem Publikum.
+592|Gute Wahl für Alleinreisende.
+593|Ein sehr cooles Hostel oben in Lapa mit Partys und Terrasse.
+594|Ideal für das Nachtleben in Lapa.
+595|Ein ruhiges Hostel in einem Haus in Ipanema, nahe am Strand.
+596|Guter Ort, um Leute kennenzulernen.
+597|Hostel und Hotel mit Coworking und Terrasse neben der Selarón-Treppe.
+598|Frag nach einem Zimmer zum Innenhof.
+599|Der Kunsthandwerksmarkt am Sonntag mit Kleidung, Kunst, Leder und bahianischem Essen.
+600|Nur sonntags.
+601|Der Antiquitätenmarkt mit Livemusik in der Rua do Lavradio, am ersten Samstag jedes Monats.
+602|Nur am ersten Samstag im Monat.
+603|Ein Labyrinth von Straßen mit Hunderten günstigen Läden: Stoffe, Karnevalskostüme, Spielzeug und alles Mögliche.
+604|Nimm wenig Geld mit: Es ist sehr voll.
+605|Ein Markt mit tropischen Früchten und Gemüse der Bewohner von Gávea.
+606|Probier Früchte, die du nicht kennst.
+607|Das elegante Einkaufszentrum der Zona Sul mit brasilianischen Marken, Kino und Foodcourt.
+608|Ein großes, praktisches Einkaufszentrum in Botafogo mit Läden aller Art.
+609|Es gibt einen kostenlosen Bus ab Copacabana.
+610|Die Straße der brasilianischen Modemarken in Ipanema, etwa Osklen und Farm.
+611|Probier Flip-Flops in den Havaianas-Läden an.
+612|Das Luxus-Einkaufszentrum von Barra.
+613|Es liegt weit weg von der Zona Sul.
+614|Eine schöne Buchhandlung mit Café, Platten und Kunstbüchern über Rio.
+615|Guter Ort für ein Geschenk.
+616|Ein Laden der berühmtesten Flip-Flop-Marke Brasiliens mit Modellen, die es in anderen Ländern nicht gibt.
+617|Manche Modelle kann man selbst gestalten.
+618|Das traditionsreichste Geschäft der Stadt für Karnevalskostüme und Federn, seit 1915.
+619|Ideal, wenn du zum Karneval kommst.
+620|Brasilianisches Kunsthandwerk aus dem ganzen Land, Stück für Stück ausgewählt.
+621|Schön für Geschenke.
+622|Das Stadion von Botafogo im Viertel Engenho de Dentro.
+623|Man kommt mit dem Zug hin.
+624|Das historische Stadion von Vasco da Gama.
+625|Kauf auf der offiziellen Website des Vereins.
+626|Die Paradestrecke der Sambaschulen, die man außerhalb des Karnevals besichtigen kann.
+627|Im Februar gibt es kostenlose technische Proben.
+628|Das Museum des beliebtesten Vereins Brasiliens in seinem Sitz an der Lagune.
+629|Für Fußballfans.
+630|Surfkurse an einer der klassischsten Wellen der Stadt.
+631|Direkt am Strand gibt es Surfschulen.
+632|Sieben Kilometer Radweg rund um die Lagune mit Blick auf die Christusstatue.
+633|Leih dir ein Rad an den Leihradstationen.
+634|Ein flacher Weg am Meer am Fuß des Zuckerhuts, mit Affen und Blick auf die Bucht.
+635|Ideal zum Joggen oder Spazieren am Morgen.
+636|Fußballtennis (Futevôlei) entstand an Rios Stränden: Es gibt Plätze und Kurse im Sand.
+637|Schon das Zuschauen ist ein Spektakel.
+638|Sambaschulen
+639|Proben einer der berühmtesten Sambaschulen mit Live-Trommelgruppe.
+640|Die Probensaison geht von August bis Februar.
+641|Die grün-rosa Schule, eine der traditionsreichsten, mit offenen Proben.
+642|Hin und zurück per App.
+643|Proben der erfolgreichsten Schule des modernen Karnevals.
+644|Es ist weit: besser mit einer Tour.
+645|Die Hallen, in denen die Schulen ihre Karnevalswagen bauen.
+646|Schau, ob es offene Besichtigungen oder Shows gibt.
+647|Das große Zentrum für Musik und darstellende Kunst der Stadt in einem Betonbau.
+648|Konzerthalle im Aterro mit großen brasilianischen Künstlern.
+649|Eine der größten Konzerthallen Rios.
+650|Es liegt in Barra: Fahr per App zurück.
+651|Ein renoviertes klassisches Theater an der Cinelândia mit Musicals und Shows.
+652|Das größte Meeresaquarium Südamerikas mit Unterwassertunnel.
+653|Ideal an einem Regentag.
+654|Der erneuerte Zoo in der Quinta da Boa Vista mit großzügigen Gehegen.
+655|Plane einen halben Tag ein.
+656|Das Planetarium mit Projektionskuppeln und einem interaktiven Museum des Universums.
+657|Schau nach den Vorstellungszeiten.
+658|Ein Riesenrad am Hafen mit Blick auf die Bucht und die Brücke nach Niterói.
+659|Alles, was du brauchst, um die Stadt zu entdecken
+660|Einkaufen und Märkte
+661|Wohnviertel mit Metro und guten Preisen.
+662|Tag 1 · Vormittag
+663|Tag 1 · Mittag
+664|Tag 1 · Nachmittag
+665|Tag 1 · Abend
+666|Tag 2 · Vormittag
+667|Tag 2 · Mittag
+668|Tag 2 · Nachmittag
+669|Tag 2 · Abend
+670|Tag 3 · Vormittag
+671|Tag 3 · Mittag
+672|Tag 3 · Nachmittag
+673|Tag 3 · Abend
+674|Regentag
+675|Das Beste, ohne für Eintritte zu zahlen.
+676|Ein Tag für Kinder.
+677|Metro
+678|Gegenden, in denen du aufmerksam sein solltest
+679|Mit diesen Vorsichtsmaßnahmen verläuft die große Mehrheit der Besuche ohne Probleme.
+680|Wenn dein Pass gestohlen wird, geh nach der Anzeige zu deinem Konsulat: Sie sind auf der Karte unter Info > Hilfe.
+681|Geldautomaten
+682|Für mobile Daten ist eine eSIM oder eine lokale SIM-Karte am einfachsten.
+683|Strände
+684|Aussichtspunkte
+685|Offizielle Website des Flughafens
+686|Mit Karte kannst du fast alles bezahlen, auch kontaktlos.
+687|Metrolinien
+688|Hertz
+689|Autos mit Fahrer. Sie sehen den Preis vor der Bestellung.
+690|Karten und Routen mit Bus und Bahn, zu Fuß und mit dem Rad.
+691|Zum Essen
+692|Hallo, zu jeder Tageszeit
+693|Bitte
+694|Tschüss
+695|Um die Rechnung zu bitten
+696|Um zu fragen, ob man dich auf Spanisch bedienen kann
+697|Touristeninformation
+698|Argentinien · Generalkonsulat
+699|Bolivien · Generalkonsulat
+700|Kolumbien · Generalkonsulat
+701|Chile · Generalkonsulat
+702|Spanien · Generalkonsulat
+703|Frankreich · Generalkonsulat
+704|Italien · Generalkonsulat
+705|Paraguay · Generalkonsulat
+706|Peru · Generalkonsulat
+707|Uruguay · Generalkonsulat
+708|Vereinigte Staaten · Generalkonsulat
+709|Strand
+710|Von Museum zu Museum
+711|Tagesausflüge
+712|Februar oder März
+713|Juni und Juli
+714|Juni
+715|Oktober
+716|31. Dezember
+717|Geöffnet und geschlossen.
+718|Apotheke.
+719|Streik: Wenn du das im Nahverkehr siehst, prüf, wie du an dem Tag unterwegs sein kannst.
+720|Der Reiseführer enthält nur Orte mit dauerhaft gutem Ruf: offizielle Auszeichnungen, anerkannte Führer und gute Übereinstimmung in öffentlichen Bewertungen.
+721|Am Wochenende muss man warten.
+722|Gute Wahl für Gruppen.
+723|Lange im Voraus reservieren.
+724|Autorenküche
+725|Ideal für einen besonderen Anlass.
+726|Café und Konditorei
+727|Fragen Sie vor Ort nach, wenn Sie Allergien haben.
+728|Livemusik
+729|Bar mit Terrasse
+730|Elektro
+731|zu Fuß
+732|mit dem Boot
+733|Stadt und Dorf
+734|Ideal für einen Regentag.
+735|Traditionsgeschäft
+736|Schauen Sie ins Programm.
+737|Schön bei Sonnenuntergang.

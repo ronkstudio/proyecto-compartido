@@ -282,7 +282,6 @@ Object.assign(window.I18N_FULL = window.I18N_FULL || {}, {
 "Madrid de los Austrias, Debod y Malasaña": "Madri dos Áustrias, Debod e Malasaña",
 "Museos, Retiro y Lavapiés": "Museus, Retiro e Lavapiés",
 "El desfile de los Reyes Magos por el Paseo de la Castellana y el centro, con carrozas y caramelos para los chicos.": "O desfile dos Reis Magos pelo Paseo de la Castellana e o centro, com carros alegóricos e balas para as crianças.",
-"Febrero o marzo": "Fevereiro ou março",
 "ARCO": "ARCO",
 "La gran feria de arte contemporáneo, en IFEMA, con muestras en galerías de toda la ciudad.": "A grande feira de arte contemporânea, no IFEMA, com mostras em galerias de toda a cidade.",
 "Procesiones por el centro, sobre todo por La Latina y los Austrias, y torrijas en todas las pastelerías.": "Procissões pelo centro, sobretudo em La Latina e nos Áustrias, e torrijas em todas as confeitarias.",

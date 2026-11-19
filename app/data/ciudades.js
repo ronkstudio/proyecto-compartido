@@ -19,5 +19,7 @@ window.GUIA_CIUDADES = [
   { id: "barcelona", name: "Barcelona", country: "España", flag: "🇪🇸",
     files: ["barcelona", "barcelona-coords", "barcelona-extra", "barcelona-zones", "barcelona-lugares", "barcelona-hoy", "barcelona-local"] },
   { id: "amsterdam", name: "Ámsterdam", country: "Países Bajos", flag: "🇳🇱",
-    files: ["amsterdam", "amsterdam-coords", "amsterdam-extra", "amsterdam-zones", "amsterdam-lugares", "amsterdam-hoy", "amsterdam-local"] }
+    files: ["amsterdam", "amsterdam-coords", "amsterdam-extra", "amsterdam-zones", "amsterdam-lugares", "amsterdam-hoy", "amsterdam-local"] },
+  { id: "rio", name: "Río de Janeiro", country: "Brasil", flag: "🇧🇷",
+    files: ["rio", "rio-coords", "rio-extra", "rio-zones", "rio-lugares", "rio-hoy", "rio-local"] }
 ];
