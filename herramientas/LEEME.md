@@ -14,3 +14,7 @@ No son parte de la app ni se publican. Sirven para armar datos.
 Todos los corre solos el paso automático `.github/workflows/publicar-guia.yml` dos veces por día, antes de publicar la guía.
 
 Si `hoy.json` no está o tiene más de 3 días, la guía no muestra eventos de la agenda y sigue con la agenda fija (`app/data/caba-hoy.js`).
+
+## Armar una ciudad (carpeta `ciudad/`)
+
+Scripts en Perl para armar una ciudad nueva: ubicaciones, traducciones, diccionarios, fotos y contraste de colores (tarjeta #208). Ver `ciudad/LEEME.md` y la skill `.claude/skills/crear-ciudad/SKILL.md`.
