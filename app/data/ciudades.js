@@ -26,5 +26,7 @@ window.GUIA_CIUDADES = [
   { id: "bogota", name: "Bogotá", country: "Colombia", flag: "🇨🇴", letra: "Alegreya:wght@600;700",
     files: ["bogota", "bogota-coords", "bogota-extra", "bogota-zones", "bogota-lugares", "bogota-hoy", "bogota-local"] },
   { id: "lisboa", name: "Lisboa", country: "Portugal", flag: "🇵🇹", letra: "Young+Serif",
-    files: ["lisboa", "lisboa-coords", "lisboa-extra", "lisboa-zones", "lisboa-lugares", "lisboa-hoy", "lisboa-local"] }
+    files: ["lisboa", "lisboa-coords", "lisboa-extra", "lisboa-zones", "lisboa-lugares", "lisboa-hoy", "lisboa-local"] },
+  { id: "tokio", name: "Tokio", country: "Japón", flag: "🇯🇵", letra: "Shippori+Mincho+B1:wght@700;800",
+    files: ["tokio", "tokio-coords", "tokio-extra", "tokio-zones", "tokio-lugares", "tokio-hoy", "tokio-local"] }
 ];

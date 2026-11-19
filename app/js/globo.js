@@ -20,7 +20,7 @@
   "use strict";
 
   /* Ubicación de cada ciudad: [longitud, latitud]. */
-  const GEO = { caba: [-58.38, -34.60], berlin: [13.40, 52.52], paris: [2.35, 48.86], madrid: [-3.70, 40.42], roma: [12.50, 41.90], barcelona: [2.17, 41.39], amsterdam: [4.90, 52.37], rio: [-43.20, -22.91], bogota: [-74.07, 4.71], lisboa: [-9.14, 38.72] };
+  const GEO = { caba: [-58.38, -34.60], berlin: [13.40, 52.52], paris: [2.35, 48.86], madrid: [-3.70, 40.42], roma: [12.50, 41.90], barcelona: [2.17, 41.39], amsterdam: [4.90, 52.37], rio: [-43.20, -22.91], bogota: [-74.07, 4.71], lisboa: [-9.14, 38.72], tokio: [139.69, 35.69] };
   /* Ciudades que vienen: se ven en el globo con un círculo vacío y "pronto". Madrid se sumó en la tarjeta #100: ya no hay ninguna. */
   const PRONTO = [];
 
@@ -42,7 +42,7 @@
     { name: "París", id: "paris", p: [2.35, 48.86], tz: ["Europe/Paris"] },
     { name: "Berlín", id: "berlin", p: [13.40, 52.52], tz: ["Europe/Berlin"] },
     { name: "Roma", id: "roma", p: [12.50, 41.90], tz: ["Europe/Rome"] },
-    { name: "Tokio", p: [139.69, 35.69], tz: ["Asia/Tokyo"] },
+    { name: "Tokio", id: "tokio", p: [139.69, 35.69], tz: ["Asia/Tokyo"] },
     { name: "Sídney", p: [151.21, -33.87], tz: ["Australia/Sydney"] }
   ];
 
