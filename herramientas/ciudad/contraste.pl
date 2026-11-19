@@ -6,7 +6,7 @@
 use strict; use warnings; use utf8;
 binmode STDOUT, ':encoding(UTF-8)';
 my ($app, $solo) = @ARGV; die "Uso: perl contraste.pl <carpeta app> [ciudad]\n" unless $app;
-sub leer { my $f = shift; open my $h, '<:encoding(UTF-8)', $f or die "no encuentro $f\n"; local $/; my $s = <$h>; close $h; $s }
+sub leer { my $f = shift; open my $h, '<:encoding(UTF-8)', $f or die "no encuentro $f\n"; local $/; my $s = <$h>; close $h; $s =~ s/\r\n/\n/g; $s }
 sub vars { my %o; $o{$1} = $2 while $_[0] =~ /--([\w-]+):\s*([^;]+);/g; return %o; }
 my $base = leer("$app/css/styles.css"); my $temas = leer("$app/css/temas.css");
 my ($rl) = $base =~ /:root \{(.*?)\n\}/s;

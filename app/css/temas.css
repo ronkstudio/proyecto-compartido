@@ -1,0 +1,382 @@
+/* Identidad de cada ciudad (tarjeta #207).
+
+   Cada ciudad cambia las variables de styles.css: paleta (clara y oscura), letra de títulos, radio de las esquinas,
+   sombra, y el fondo, el dibujo y el brillo de la portada. js/ciudad.js pone data-ciudad en <html> y carga la letra.
+   Los colores de aviso (ok, cuidado, cerrado) y el rojo de SOS son los mismos en todas, para que se reconozcan siempre.
+
+   Para una ciudad nueva: copiar un bloque, cambiar el id y los colores, y probar contraste en claro y oscuro
+   (texto sobre fondo, blanco sobre la barra y la portada, accent-ink sobre accent). Ver NUEVA-CIUDAD.md.
+   Si la ciudad no tiene bloque, se ve con el estilo de siempre (verde bosque y terracota). */
+
+/* Buenos Aires: Fileteado porteño y el Sol de Mayo: negro, dorado y celeste profundo. Letra Abril Fatface, como los carteles fileteados. */
+:root[data-ciudad="caba"] {
+  --accent: #24628c;
+  --accent-ink: #ffffff;
+  --bg: #f6f1e7;
+  --brand: #1b1a20;
+  --hero-bg: linear-gradient(165deg, #141318 0%, #24212a 55%, #4a1f26 100%);
+  --hero-glow: radial-gradient(circle, rgba(240, 196, 90, .45), rgba(240, 196, 90, 0) 68%);
+  --hero-motif: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160' viewBox='0 0 160 160' fill='none' stroke='%23f0c45a' stroke-width='2' stroke-linecap='round'%3E%3Cpath d='M20 80c0-34 46-34 46 0 0 22-30 22-30 4 0-12 16-12 16 0'/%3E%3Cpath d='M140 80c0 34-46 34-46 0 0-22 30-22 30-4 0 12-16 12-16 0'/%3E%3Cpath d='M66 80c10-18 18-18 28 0'/%3E%3Cpath d='M80 20c-8 12-8 24 0 36 8-12 8-24 0-36z'/%3E%3Cpath d='M80 104c-8 12-8 24 0 36 8-12 8-24 0-36z'/%3E%3Ccircle cx='80' cy='80' r='3' fill='%23f0c45a'/%3E%3Ccircle cx='10' cy='10' r='2'/%3E%3Ccircle cx='150' cy='150' r='2'/%3E%3C/svg%3E");
+  --hero-motif-op: .22;
+  --hero-motif-size: 160px 160px;
+  --hero-shadow: rgba(20, 16, 24, .25);
+  --ink: #1d1a1f;
+  --ink-2: #4d4550;
+  --ink-3: #776e7b;
+  --line: #e3d9c6;
+  --radius: 16px;
+  --serif: "Abril Fatface", Georgia, serif;
+  --shadow: 0 1px 2px rgba(20, 16, 24, .07), 0 6px 18px rgba(20, 16, 24, .08);
+  --sun: #e8b23a;
+  --sun-ink: #3b2600;
+  --surface: #fffdf8;
+  --surface-2: #ece4d4;
+}
+@media (prefers-color-scheme: dark) {
+  :root[data-ciudad="caba"] {
+    --accent: #7cc0ea;
+    --accent-ink: #0b1e2b;
+    --bg: #121116;
+    --brand: #0e0d12;
+    --ink: #f3eee6;
+    --ink-2: #cdc4b8;
+    --ink-3: #9b9288;
+    --line: #34303a;
+    --surface: #1c1a21;
+    --surface-2: #26232c;
+  }
+}
+
+/* Berlín: U-Bahn y Plattenbau: gris hormigón, negro y amarillo de los andenes. Bordes rectos, letra angosta Archivo Narrow. */
+:root[data-ciudad="berlin"] {
+  --accent: #1a1b1d;
+  --accent-ink: #ffd400;
+  --bg: #ececea;
+  --brand: #1a1b1d;
+  --hero-bg: linear-gradient(180deg, #1a1b1d 0%, #2a2c30 100%);
+  --hero-glow: none;
+  --hero-motif: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='48' height='44' viewBox='0 0 48 44' fill='none' stroke='%23ffd400' stroke-width='1.4'%3E%3Crect x='5' y='7' width='14' height='18'/%3E%3Crect x='29' y='7' width='14' height='18'/%3E%3Cpath d='M0 34h48'/%3E%3C/svg%3E");
+  --hero-motif-op: .16;
+  --hero-motif-size: 48px 44px;
+  --hero-shadow: rgba(0, 0, 0, .22);
+  --ink: #18191b;
+  --ink-2: #44464a;
+  --ink-3: #686a6f;
+  --line: #d2d2cd;
+  --radius: 4px;
+  --serif: "Archivo Narrow", "Arial Narrow", Arial, sans-serif;
+  --shadow: 0 0 0 1px rgba(0, 0, 0, .06), 0 2px 0 rgba(0, 0, 0, .06);
+  --sun: #ffd400;
+  --sun-ink: #1a1b1d;
+  --surface: #fbfbfa;
+  --surface-2: #e0e0dc;
+}
+@media (prefers-color-scheme: dark) {
+  :root[data-ciudad="berlin"] {
+    --accent: #ffd400;
+    --accent-ink: #111111;
+    --bg: #111213;
+    --brand: #0b0b0c;
+    --ink: #f2f2ef;
+    --ink-2: #c4c5c2;
+    --ink-3: #8d8f8c;
+    --line: #303235;
+    --surface: #1b1c1e;
+    --surface-2: #25272a;
+  }
+}
+
+/* París: Techos de zinc, piedra clara y hierro de balcón: azul pizarra, bordó y dorado. Letra Cormorant, de imprenta clásica. */
+:root[data-ciudad="paris"] {
+  --accent: #7d2335;
+  --accent-ink: #ffffff;
+  --bg: #f5f2ee;
+  --brand: #1f2a44;
+  --hero-bg: linear-gradient(170deg, #1b2540 0%, #333d66 50%, #6e5168 82%, #8c6a50 100%);
+  --hero-glow: radial-gradient(circle, rgba(233, 196, 120, .4), rgba(233, 196, 120, 0) 68%);
+  --hero-motif: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='80' height='64' viewBox='0 0 80 64' fill='none' stroke='%23fff' stroke-width='1.3'%3E%3Cpath d='M0 6h80M0 12h80'/%3E%3Cpath d='M0 64V36a20 20 0 0 1 40 0v28M40 64V36a20 20 0 0 1 40 0v28'/%3E%3Ccircle cx='20' cy='38' r='6'/%3E%3Ccircle cx='60' cy='38' r='6'/%3E%3Cpath d='M20 44v20M60 44v20'/%3E%3C/svg%3E");
+  --hero-motif-op: .13;
+  --hero-motif-size: 80px 64px;
+  --hero-shadow: rgba(31, 42, 68, .2);
+  --ink: #1e2330;
+  --ink-2: #4a5060;
+  --ink-3: #686d7c;
+  --line: #e0dad0;
+  --radius: 10px;
+  --serif: "Cormorant", Georgia, serif;
+  --shadow: 0 1px 2px rgba(31, 42, 68, .06), 0 6px 18px rgba(31, 42, 68, .07);
+  --sun: #c9a35a;
+  --sun-ink: #2b1f05;
+  --surface: #fffefb;
+  --surface-2: #e9e4dc;
+}
+@media (prefers-color-scheme: dark) {
+  :root[data-ciudad="paris"] {
+    --accent: #e7a0ac;
+    --accent-ink: #2a0b12;
+    --bg: #12141b;
+    --brand: #10162a;
+    --ink: #f1eee9;
+    --ink-2: #c9c4bc;
+    --ink-3: #959086;
+    --line: #2f3342;
+    --surface: #1b1e28;
+    --surface-2: #252936;
+  }
+}
+
+/* Roma: Paredes de ocre y rojo pompeyano, adoquines en abanico. Letra Cinzel, la de las inscripciones romanas. */
+:root[data-ciudad="roma"] {
+  --accent: #a3431a;
+  --accent-ink: #ffffff;
+  --bg: #f6ebd9;
+  --brand: #5c1e14;
+  --hero-bg: linear-gradient(160deg, #4f1810 0%, #86301a 50%, #a85d26 100%);
+  --hero-glow: radial-gradient(circle, rgba(255, 190, 100, .45), rgba(255, 190, 100, 0) 68%);
+  --hero-motif: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='60' height='60' viewBox='0 0 60 60' fill='none' stroke='%23fff' stroke-width='1.3'%3E%3Cpath d='M0 30a30 30 0 0 1 60 0M10 30a20 20 0 0 1 40 0M20 30a10 10 0 0 1 20 0'/%3E%3Cpath d='M-30 60a30 30 0 0 1 60 0M-20 60a20 20 0 0 1 40 0M-10 60a10 10 0 0 1 20 0M30 60a30 30 0 0 1 60 0M40 60a20 20 0 0 1 40 0M50 60a10 10 0 0 1 20 0'/%3E%3C/svg%3E");
+  --hero-motif-op: .13;
+  --hero-motif-size: 60px 60px;
+  --hero-shadow: rgba(92, 30, 20, .22);
+  --ink: #2a1a12;
+  --ink-2: #5e4232;
+  --ink-3: #856858;
+  --line: #e6d2b3;
+  --radius: 14px;
+  --serif: "Cinzel", Georgia, serif;
+  --shadow: 0 1px 2px rgba(92, 30, 20, .07), 0 6px 18px rgba(92, 30, 20, .08);
+  --sun: #e0a13a;
+  --sun-ink: #3a2000;
+  --surface: #fffaf1;
+  --surface-2: #eddcc0;
+}
+@media (prefers-color-scheme: dark) {
+  :root[data-ciudad="roma"] {
+    --accent: #f0a271;
+    --accent-ink: #2a1206;
+    --bg: #1a120d;
+    --brand: #2d0f09;
+    --ink: #f6ead8;
+    --ink-2: #d6bea2;
+    --ink-3: #a38b72;
+    --line: #3d2c20;
+    --surface: #251a13;
+    --surface-2: #31231a;
+  }
+}
+
+/* Madrid: Rojo carmesí y las siete estrellas de la bandera, con el azul de las placas de calle de azulejo. Letra Bodoni Moda. */
+:root[data-ciudad="madrid"] {
+  --accent: #1d4f91;
+  --accent-ink: #ffffff;
+  --bg: #faf6f0;
+  --brand: #8a1028;
+  --hero-bg: linear-gradient(160deg, #6d0c1f 0%, #9c142c 55%, #b8402a 100%);
+  --hero-glow: radial-gradient(circle, rgba(242, 182, 50, .4), rgba(242, 182, 50, 0) 68%);
+  --hero-motif: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='96' height='96' viewBox='0 0 96 96' fill='%23fff'%3E%3Cpolygon transform='translate(20 22)' points='0,-7 2,-2.2 6.7,-2.2 2.9,0.8 4.1,5.7 0,2.8 -4.1,5.7 -2.9,0.8 -6.7,-2.2 -2,-2.2'/%3E%3Cpolygon transform='translate(70 66) scale(.8)' points='0,-7 2,-2.2 6.7,-2.2 2.9,0.8 4.1,5.7 0,2.8 -4.1,5.7 -2.9,0.8 -6.7,-2.2 -2,-2.2'/%3E%3Cpolygon transform='translate(78 16) scale(.55)' points='0,-7 2,-2.2 6.7,-2.2 2.9,0.8 4.1,5.7 0,2.8 -4.1,5.7 -2.9,0.8 -6.7,-2.2 -2,-2.2'/%3E%3Cpolygon transform='translate(26 78) scale(.6)' points='0,-7 2,-2.2 6.7,-2.2 2.9,0.8 4.1,5.7 0,2.8 -4.1,5.7 -2.9,0.8 -6.7,-2.2 -2,-2.2'/%3E%3C/svg%3E");
+  --hero-motif-op: .2;
+  --hero-motif-size: 96px 96px;
+  --hero-shadow: rgba(110, 12, 31, .22);
+  --ink: #221a1c;
+  --ink-2: #54474a;
+  --ink-3: #7d6f72;
+  --line: #eadfcf;
+  --radius: 12px;
+  --serif: "Bodoni Moda", Didot, Georgia, serif;
+  --shadow: 0 1px 2px rgba(90, 10, 30, .06), 0 6px 18px rgba(90, 10, 30, .07);
+  --sun: #f2b632;
+  --sun-ink: #3d2800;
+  --surface: #fffefb;
+  --surface-2: #f0e6d8;
+}
+@media (prefers-color-scheme: dark) {
+  :root[data-ciudad="madrid"] {
+    --accent: #8fb4ec;
+    --accent-ink: #0b1a33;
+    --bg: #160f11;
+    --brand: #4a0815;
+    --ink: #f7efe9;
+    --ink-2: #d4c4bf;
+    --ink-3: #a08f8b;
+    --line: #3a2a2e;
+    --surface: #21171a;
+    --surface-2: #2c2024;
+  }
+}
+
+/* Barcelona: Mediterráneo y modernismo: azul de mar, naranja de trencadís, amarillo de sol y la baldosa flor de Barcelona. Letra Josefin Sans. */
+:root[data-ciudad="barcelona"] {
+  --accent: #c2401a;
+  --accent-ink: #ffffff;
+  --bg: #fdf8ef;
+  --brand: #0b4a72;
+  --hero-bg: linear-gradient(160deg, #0a4369 0%, #136f9a 55%, #a65e20 100%);
+  --hero-glow: radial-gradient(circle, rgba(255, 214, 80, .6), rgba(255, 214, 80, 0) 68%);
+  --hero-motif: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='80' height='80' viewBox='0 0 80 80' fill='none' stroke='%23fff' stroke-width='1.5'%3E%3Crect x='0.75' y='0.75' width='78.5' height='78.5'/%3E%3Cpath d='M40 40C30 18 50 18 40 40C62 30 62 50 40 40C50 62 30 62 40 40C18 50 18 30 40 40Z'/%3E%3Cpath d='M0 14A14 14 0 0 0 14 0M66 0A14 14 0 0 0 80 14M80 66A14 14 0 0 0 66 80M14 80A14 14 0 0 0 0 66'/%3E%3Ccircle cx='40' cy='40' r='3'/%3E%3C/svg%3E");
+  --hero-motif-op: .14;
+  --hero-motif-size: 80px 80px;
+  --hero-shadow: rgba(11, 74, 114, .22);
+  --ink: #1a2430;
+  --ink-2: #475463;
+  --ink-3: #64707e;
+  --line: #ece2cf;
+  --radius: 20px;
+  --serif: "Josefin Sans", "Century Gothic", sans-serif;
+  --shadow: 0 1px 2px rgba(11, 74, 114, .06), 0 8px 20px rgba(11, 74, 114, .08);
+  --sun: #f5c331;
+  --sun-ink: #3a2a00;
+  --surface: #ffffff;
+  --surface-2: #f3eadb;
+}
+@media (prefers-color-scheme: dark) {
+  :root[data-ciudad="barcelona"] {
+    --accent: #ff9a73;
+    --accent-ink: #2b0e03;
+    --bg: #0d1620;
+    --brand: #062b44;
+    --ink: #eef3f7;
+    --ink-2: #bfcad4;
+    --ink-3: #8a98a5;
+    --line: #2a3846;
+    --surface: #15212d;
+    --surface-2: #1e2c3a;
+  }
+}
+
+/* Ámsterdam: Canales y casas de fachada angosta: luz fría, azul de agua y naranja holandés. Letra Bricolage Grotesque. */
+:root[data-ciudad="amsterdam"] {
+  --accent: #b93c0b;
+  --accent-ink: #ffffff;
+  --bg: #f1f3f2;
+  --brand: #13293a;
+  --hero-bg: linear-gradient(180deg, #13293a 0%, #1c4555 60%, #2a6468 100%);
+  --hero-glow: none;
+  --hero-motif: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='124' height='92' viewBox='0 0 124 92' fill='none' stroke='%23fff' stroke-width='1.4' stroke-linejoin='round'%3E%3Cpath d='M1 92V42h5v-8h5v-8h10v8h5v8h5v50'/%3E%3Cpath d='M31 92V40q0-8 6-10v-8h10v8q6 2 6 10v52'/%3E%3Cpath d='M53 92V38q2-14 11-14t11 14v54'/%3E%3Cpath d='M75 92V44l12-20 12 20v48'/%3E%3Cpath d='M99 92V40h4v-6h4v-6h8v6h4v6h4v52'/%3E%3Cpath d='M9 52h4v7H9zM17 52h4v7h-4zM9 68h4v7H9zM17 68h4v7h-4zM38 50h4v7h-4zM44 50h4v7h-4zM38 66h4v7h-4zM44 66h4v7h-4zM60 48h8v8h-8zM60 66h8v8h-8zM83 50h8v8h-8zM83 68h8v8h-8zM105 50h4v7h-4zM111 50h4v7h-4zM105 68h4v7h-4zM111 68h4v7h-4z'/%3E%3C/svg%3E");
+  --hero-motif-op: .2;
+  --hero-motif-pos: 0 100%;
+  --hero-motif-rep: repeat-x;
+  --hero-motif-size: 124px 92px;
+  --hero-shadow: rgba(19, 41, 58, .22);
+  --ink: #14202a;
+  --ink-2: #3f4d58;
+  --ink-3: #65727c;
+  --line: #d6dddc;
+  --radius: 8px;
+  --serif: "Bricolage Grotesque", "Segoe UI", sans-serif;
+  --shadow: 0 1px 2px rgba(19, 41, 58, .06), 0 4px 14px rgba(19, 41, 58, .07);
+  --sun: #ff8a1f;
+  --sun-ink: #2a1400;
+  --surface: #ffffff;
+  --surface-2: #e3e8e7;
+}
+@media (prefers-color-scheme: dark) {
+  :root[data-ciudad="amsterdam"] {
+    --accent: #ff9b5c;
+    --accent-ink: #2a1102;
+    --bg: #0e1519;
+    --brand: #0a1720;
+    --ink: #eef3f4;
+    --ink-2: #bfcbcf;
+    --ink-3: #8a989d;
+    --line: #2a373e;
+    --surface: #162026;
+    --surface-2: #1f2b32;
+  }
+}
+
+/* Río de Janeiro: Selva, mar y el calçadão de Copacabana: verde morro, azul de mar y amarillo de sol, con mucho color. Letra Lexend, redonda. */
+:root[data-ciudad="rio"] {
+  --accent: #0067a6;
+  --accent-ink: #ffffff;
+  --bg: #fff7ea;
+  --brand: #00513d;
+  --hero-bg: linear-gradient(165deg, #004c3a 0%, #007a66 45%, #0a7fa0 75%, #8f6410 100%);
+  --hero-glow: radial-gradient(circle, rgba(255, 214, 90, .65), rgba(255, 214, 90, 0) 68%);
+  --hero-motif: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='80' height='40' viewBox='0 0 80 40' fill='%23fff'%3E%3Cpath d='M0 8C20 8 20 28 40 28S60 8 80 8V18C60 18 60 38 40 38S20 18 0 18Z'/%3E%3C/svg%3E");
+  --hero-motif-op: .12;
+  --hero-motif-size: 80px 40px;
+  --hero-shadow: rgba(0, 81, 61, .22);
+  --ink: #13241f;
+  --ink-2: #3d554d;
+  --ink-3: #62776e;
+  --line: #efdfc2;
+  --radius: 24px;
+  --serif: "Lexend", "Segoe UI", sans-serif;
+  --shadow: 0 1px 2px rgba(0, 81, 61, .06), 0 8px 22px rgba(0, 81, 61, .09);
+  --sun: #ffc21a;
+  --sun-ink: #3a2a00;
+  --surface: #fffdf8;
+  --surface-2: #f6e8cf;
+}
+@media (prefers-color-scheme: dark) {
+  :root[data-ciudad="rio"] {
+    --accent: #6cc4f2;
+    --accent-ink: #032336;
+    --bg: #0b1714;
+    --brand: #003326;
+    --ink: #eef6f2;
+    --ink-2: #bcd2c9;
+    --ink-3: #87a197;
+    --line: #253b35;
+    --surface: #12221e;
+    --surface-2: #1a2e29;
+  }
+}
+
+/* Bogotá: Cerros verdes, piedra fría de La Candelaria y el oro muisca. Letra Alegreya, de tradición literaria. */
+:root[data-ciudad="bogota"] {
+  --accent: #8c2f57;
+  --accent-ink: #ffffff;
+  --bg: #f0eee8;
+  --brand: #1f3527;
+  --hero-bg: linear-gradient(165deg, #18291f 0%, #2b4a37 55%, #4f5a2e 82%, #84692a 100%);
+  --hero-glow: radial-gradient(circle, rgba(255, 255, 255, .2), rgba(255, 255, 255, 0) 68%);
+  --hero-motif: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='96' height='96' viewBox='0 0 96 96' fill='none' stroke='%23e9bd4f' stroke-width='1.6' stroke-linecap='round'%3E%3Cpath d='M0 8l8 8 8-8 8 8 8-8 8 8 8-8 8 8 8-8 8 8 8-8 8 8 8-8'/%3E%3Cpath d='M48 52m-3 0a3 3 0 1 1 6 0a7 7 0 1 1-14 0a11 11 0 1 1 22 0a15 15 0 1 1-30 0'/%3E%3Cpath d='M0 88l8-8 8 8 8-8 8 8 8-8 8 8 8-8 8 8 8-8 8 8 8-8 8 8'/%3E%3C/svg%3E");
+  --hero-motif-op: .24;
+  --hero-motif-size: 96px 96px;
+  --hero-shadow: rgba(31, 53, 39, .22);
+  --ink: #1c211b;
+  --ink-2: #474f45;
+  --ink-3: #6c7469;
+  --line: #d9d5c8;
+  --radius: 14px;
+  --serif: "Alegreya", Georgia, serif;
+  --shadow: 0 1px 2px rgba(31, 53, 39, .07), 0 6px 18px rgba(31, 53, 39, .08);
+  --sun: #d4a22a;
+  --sun-ink: #2e2100;
+  --surface: #fcfbf8;
+  --surface-2: #e4e0d5;
+}
+@media (prefers-color-scheme: dark) {
+  :root[data-ciudad="bogota"] {
+    --accent: #e795b9;
+    --accent-ink: #300a1b;
+    --bg: #101411;
+    --brand: #0d1a12;
+    --ink: #eff1ea;
+    --ink-2: #c3c8bc;
+    --ink-3: #8f9688;
+    --line: #2c352d;
+    --surface: #181e19;
+    --surface-2: #212923;
+  }
+}
+
+/* Detalles propios de algunas ciudades */
+/* Buenos Aires: la letra fileteada viene en un solo grosor; no se inventa negrita. */
+:root[data-ciudad="caba"] { font-synthesis: none; }
+:root[data-ciudad="caba"] .hero h1 { letter-spacing: .01em; }
+/* Berlín: los enlaces van subrayados en amarillo, como las líneas del U-Bahn. */
+:root[data-ciudad="berlin"] .link { color: var(--ink); text-decoration: underline; text-decoration-color: var(--sun); text-decoration-thickness: 3px; text-underline-offset: 3px; }
+:root[data-ciudad="berlin"] .hero h1 { text-transform: uppercase; letter-spacing: .01em; }
+/* París: títulos finos y algo más grandes, como en una revista. */
+:root[data-ciudad="paris"] .hero h1 { font-weight: 600; font-size: clamp(40px, 10vw, 58px); letter-spacing: 0; }
+/* Roma: la letra romana es ancha; un poco más chica para que no se corte. */
+:root[data-ciudad="roma"] h1, :root[data-ciudad="roma"] h2, :root[data-ciudad="roma"] .page-title { letter-spacing: .02em; }
+:root[data-ciudad="roma"] .page-title { font-size: 26px; }
+:root[data-ciudad="roma"] .section-head h2 { font-size: 19px; }
+/* Barcelona y Ámsterdam: letras sin serifa, más apretadas. */
+:root[data-ciudad="amsterdam"] h1, :root[data-ciudad="amsterdam"] h2 { letter-spacing: -.02em; }
+/* Madrid: la barra es roja; el botón SOS lleva un borde blanco para que no se pierda. */
+:root[data-ciudad="madrid"] .sos-btn { box-shadow: 0 0 0 2px rgba(255, 255, 255, .85), 0 2px 8px rgba(0, 0, 0, .3); }
+/* Río: más aire y más color en la portada. */
+:root[data-ciudad="rio"] h1, :root[data-ciudad="rio"] h2, :root[data-ciudad="rio"] .page-title { letter-spacing: -.02em; }

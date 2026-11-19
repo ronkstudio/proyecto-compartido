@@ -44,6 +44,16 @@ Una ciudad puede estar en la lista sin lugares cargados: la guía muestra un car
 
 Los textos van en castellano y los traduce `i18n/traductor.js` con los diccionarios de `i18n/dict/`. Los textos nuevos de una ciudad van en su propia lista: `i18n/fuentes/<id>.txt` y `<idioma>.<id>.txt` en los 7 idiomas (ver `i18n/fuentes/LEEME.md`). Después hay que volver a armar los diccionarios (`node i18n/fuentes/armar-dict.js todos`). El armado saca solo, de `data/ciudades.js`, la lista de ciudades: cada una tiene su propio diccionario por idioma (`i18n/dict/<idioma>.<id>.js`) y la app baja solo el de la ciudad elegida (tarjeta #187). Los textos con el nombre de la ciudad ("Hoy en …", "¡Bienvenido a …!") ya se traducen solos: alcanza con que el nombre de la ciudad esté en la lista.
 
+## Identidad visual
+
+Cada ciudad tiene sus propios colores, letra de títulos y dibujo de portada (tarjeta #207), para que no se vean todas iguales.
+
+- **Letra:** en la fila de `data/ciudades.js`, `letra` con la familia de Google Fonts (por ejemplo `letra: "Alegreya:wght@600;700"`). Elegí una que tenga que ver con la ciudad y que no sea muy ancha (en alemán los títulos son largos).
+- **Colores y portada:** en `css/temas.css`, copiá el bloque de otra ciudad (el claro y el oscuro) y cambiá el id. Sacá la paleta de algo propio de la ciudad (sus edificios, su bandera, su paisaje) y un dibujo simple para la portada (`--hero-motif`, un SVG chico que se repite). Que no se parezca a las que ya están: cambiá también el radio de las esquinas, la sombra y qué tan vivos son los colores.
+- **Contraste:** el texto común tiene que llegar a 4.5 sobre el fondo, y lo mismo el texto blanco sobre la barra y sobre cada color del degradé de la portada, y `--accent-ink` sobre `--accent`. Probalo en claro y en oscuro.
+- No cambies los colores de aviso (ok, cuidado, cerrado) ni el rojo de SOS: son iguales en todas las ciudades.
+- Si una ciudad no tiene bloque en `temas.css`, se ve con el estilo de siempre.
+
 ## Antes de publicar
 
 - Abrir cada dirección web y confirmar que funciona.
