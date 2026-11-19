@@ -1,0 +1,632 @@
+1|Bogotá
+2|Museums, La Candelaria, Monserrate and parks
+3|Ajiaco, cafés, markets and signature cuisine
+4|Salsa, cocktails, craft beer and clubs
+5|Graffiti, coffee, cycling and walks
+6|Salt Cathedral, lagoons and colonial towns
+7|Markets, crafts and shopping centres
+8|Football, Ciclovía and mountains
+9|Theatre, concerts and plans with kids
+10|The historic centre
+11|Cobbled streets, colourful colonial houses, Plaza de Bolívar, the Botero Museum, Chorro de Quevedo and graffiti everywhere.
+12|Lovely and full of hostels; at night the streets empty out: get around by app.
+13|Museums and city life
+14|The Gold Museum, the pedestrian Carrera Séptima, Parque Santander and the Colpatria Tower.
+15|Very busy by day; at night, better not to walk.
+16|Macarena and Centro Internacional
+17|Bohemian and foodie
+18|A brick neighbourhood on the hillside with signature restaurants, the bullring turned into a cultural space and the National Museum nearby.
+19|Quiet and with good restaurants.
+20|Young and diverse
+21|Specialty cafés, bars, the city's LGBT life and Chapinero Alto with restaurants in old mansions.
+22|Lively and well located; some blocks at night, take care.
+23|The gourmet zone
+24|A few blocks with some of the best restaurants in the city.
+25|Quiet, safe and central.
+26|Zona Rosa and Zona T
+27|Shopping and nightlife
+28|Centro Andino, pedestrian streets with bars and clubs, and Parque de la 93 nearby.
+29|Safe, modern and with lots of hotels.
+30|Elegant and green
+31|A park surrounded by restaurants and bars, with free events.
+32|One of the safest areas.
+33|The old village with its square, church, restaurants in old houses and the Sunday flea market.
+34|Quiet and lovely, far from the historic centre.
+35|English-style houses and parks
+36|A residential neighbourhood of brick houses, with Parque Simón Bolívar and the Botanical Garden nearby.
+37|Quiet, residential.
+38|Salitre and Simón Bolívar
+39|The big parks
+40|Parque Simón Bolívar, the Botanical Garden, El Campín stadium and the Virgilio Barco Library.
+41|Handy for events and the airport.
+42|Mountains and hills
+43|Bogotá from above
+44|Monserrate, Guadalupe and the trails of the eastern hills.
+45|For visiting, not for sleeping.
+46|Bogotá in 1 day
+47|Go up early, with clear skies.
+48|Tamal and Santa Fe-style hot chocolate.
+49|Dinner in the gourmet zone.
+50|With a guide, through La Candelaria.
+51|Dinner with a party.
+52|A real Colombian coffee.
+53|Free Bogotá
+54|Sundays and public holidays.
+55|Always free.
+56|Caracas trunk line
+57|Crosses the city from north to south along Avenida Caracas, near Chapinero and the Centro
+58|Autopista Norte trunk line
+59|To the north: Portal Norte, Usaquén and the northern parks
+60|Américas trunk line
+61|To the south-west along Avenida de las Américas
+62|Environmental Axis
+63|The way into La Candelaria along Avenida Jiménez: Gold Museum and Las Aguas
+64|Calle 26 trunk line (El Dorado)
+65|Links the Centro with Portal El Dorado, near the airport
+66|Carrera 10 trunk line
+67|From the Centro Internacional southwards along Carrera Décima
+68|TuLlave card
+69|The public transport card (TransMilenio and the blue SITP buses). It's sold and topped up at stations and authorised points.
+70|Since 2026 TransMilenio accepts contactless Visa and Mastercard cards, or your phone, at turnstiles with a bank-card reader. Each entry charges a full fare, with no free transfers.
+71|Many visitors get around with ride-hailing apps. TransMilenio is fast, but at rush hour it's very crowded.
+72|18 November 2026, with bogota.gov.co and TransMilenio. If anything doesn't match, the transport signs prevail.
+73|TransMilenio
+74|Red articulated buses with their own lanes and closed stations, like a metro on the surface. Each service has a code (letter and number) and stops at different stations.
+75|Check the maps at each station to see which service stops at your destination. Google Maps and the TransMilenio app show it.
+76|At rush hour it's packed and there are pickpockets: wear your backpack on your front.
+77|Bogotá's first metro line is under construction: it isn't running yet.
+78|Buses and cable cars
+79|SITP
+80|The blue buses of the integrated system reach the neighbourhoods. They're paid with TuLlave.
+81|TransMiCable
+82|An urban cable car in Ciudad Bolívar, with views of the city. Best done with a neighbourhood tour.
+83|You go up the hill by funicular or cable car from the station at its foot, or walk up the trail.
+84|El Dorado (BOG)
+85|The international airport, about 30 to 60 minutes from the centre depending on traffic.
+86|Official taxi
+87|At the official taxi rank you get a slip with the fare for your destination. Don't accept offers inside the terminal.
+88|Ride-hailing apps have a marked pickup point.
+89|There are buses linking the airport with TransMilenio's Portal El Dorado. It's cheap but awkward with luggage.
+90|The safest is to order by app: Cabify, DiDi or Uber, or taxis through apps like Taxis Libres.
+91|Yellow taxis
+92|Don't hail taxis in the street, especially at night: order them by app or phone.
+93|Pico y placa
+94|There are driving restrictions according to the number plate. Taxis also have their own pico y placa.
+95|By bike and on foot
+96|On Sundays and public holidays, from early morning until early afternoon, more than a hundred kilometres of avenues are closed to cars for bikes, skates and walkers.
+97|Cycle paths
+98|Bogotá has one of the largest cycle-path networks in Latin America.
+99|The altitude
+100|The city is at 2,600 metres: for the first few days walk slowly and drink plenty of water.
+101|Single emergency line: police, ambulance and fire brigade
+102|Civil defence
+103|Bogotá information line
+104|Colombian Foreign Ministry
+105|Phone theft is the most common problem, in the street, on TransMilenio and on bar tables.
+106|Don't walk with your phone in your hand, and don't leave it on the table.
+107|On TransMilenio and in markets, backpack on your front.
+108|La Candelaria and the Centro at night, when the streets are empty.
+109|The surroundings of TransMilenio stations at rush hour.
+110|The Monserrate trail: go up by day and during opening hours.
+111|Outlying neighbourhoods: only with a guide or on a tour.
+112|Typical scams and risks
+113|Scopolamine (burundanga): a drug slipped into your drink or blown at you. Don't accept drinks from strangers and don't leave your glass unattended.
+114|The "paseo millonario": robberies in taxis hailed in the street. Always order by app.
+115|App dates: always meet in public places.
+116|Fake police officers asking to see your money: real police don't do that.
+117|Carry only what you need for the day: one card, some cash and a copy of your passport.
+118|If you're robbed, call 123 and report it online on the National Police website or at a police station.
+119|If your passport is stolen, after reporting it go to your embassy: they're on the map in Info > Help.
+120|Get travel insurance.
+121|Colombian peso (COP). Prices have lots of zeros: check carefully before paying.
+122|Accepted in restaurants, hotels and shops; in markets and small shops, cash is better.
+123|Use ATMs inside banks or shopping centres, during the day. If they offer to charge you in your currency, choose pesos.
+124|In restaurants a 10% service charge is suggested on the bill: they ask if you want to include it. It's voluntary.
+125|Bogotá hours
+126|Lunch is between 12 and 2 pm, and dinner is early. Lunch is the main meal.
+127|They open early. On Sundays many close, except shopping centres.
+128|Many museums close on Mondays. The Botero Museum is free and the Gold Museum is free on Sundays.
+129|Cool all year round, between 7 and 20 °C. It can be sunny, rainy and chilly on the same day.
+130|Dry seasons
+131|December to March and July to August are usually drier.
+132|What to bring
+133|A light coat, a waterproof jacket and sunscreen: the sun is strong because of the altitude.
+134|110 V. Type A and B sockets (flat pins): if you're coming from Argentina, bring an adapter.
+135|Tap water in Bogotá is safe to drink.
+136|Altitude
+137|2,600 metres above sea level: you may feel tired and get headaches in the first few days. Eat light and drink water.
+138|There are pharmacies (droguerías) on every block. Emergencies: 123.
+139|Manners
+140|Bogotanos are very kind and formal: they use "usted" and always say hello.
+141|Asking for things
+142|People say "¿me regala…?" to ask for something in a shop, even when paying.
+143|Ajiaco santafereño, tamal with hot chocolate, changua, empanadas, arepas, almojábanas, exotic fruit (lulo, passion fruit, soursop), a tinto (black coffee) and aguardiente.
+144|Outside Bogotá
+145|Bogotá passport
+146|Tick off the places you've been and earn stamps: museums, coffee, salsa, markets, neighbourhood explorer…
+147|Late night in Bogotá
+148|💃 Salsa and nightlife
+149|No TransMilenio station nearby: better by app or taxi
+150|What are you looking for? Monserrate, Gold Museum, ajiaco, salsa…
+151|E.g.: Gold Museum, Monserrate, Plaza de Bolívar…
+152|E.g.: La Candelaria, Zona G, Parque de la 93…
+153|E.g.: Avianca, LATAM, Aerolíneas Argentinas…
+154|Colombian pesos
+155|Amount in Colombian pesos
+156|To the centre (Plaza de Bolívar)
+157|From El Dorado airport
+158|El Dorado: getting into the city
+159|Official TransMilenio website
+160|Official TuLlave website
+161|Use the official taxi rank: you get a printed slip with your destination and the fare, which is what you have to pay.
+162|You can also order a car by app (Uber, Cabify or DiDi) from the marked area.
+163|There are buses linking the airport with TransMilenio's Portal El Dorado: cheap, but awkward with suitcases.
+164|Bogotá is 2,600 metres high: on the first day walk slowly and drink plenty of water.
+165|Tigo
+166|To buy a SIM card you'll be asked for your passport. They're sold at the carriers' shops and in shopping centres.
+167|Many cafés, restaurants and shopping centres have free Wi-Fi.
+168|You can pay by card in almost all restaurants, hotels and shops.
+169|Bring some cash for taxis, markets and small stalls.
+170|If the ATM or card reader offers to charge you in your currency, choose to pay in Colombian pesos.
+171|TuLlave, bank card and apps
+172|TransMilenio lines
+173|To travel a lot on TransMilenio, buy a TuLlave card at a station and top it up.
+174|At many stations you can now pay with a contactless bank card. At night and for short distances, better by app.
+175|TransMilenio, SITP buses and apps
+176|It's not worth it for getting around Bogotá: traffic is very heavy and there's "pico y placa", which bans driving on some days depending on the number plate. It's useful for trips out, for example to Zipaquirá, Guatavita or Villa de Leyva.
+177|Budget
+178|As a tourist you can drive with your country's licence; also bring an International Driving Permit just in case.
+179|When picking up the car, ask which days it can't be driven due to pico y placa, and whether the agency has an exemption.
+180|There are tolls on every road out of the city: bring cash.
+181|On long weekends the roads out of the city get packed: leave early.
+182|The official TransMilenio app: routes, stations and top-ups.
+183|Cars with drivers, with a fixed price before you order.
+184|Cars with drivers and taxis, usually the cheapest.
+185|To order a taxi from a well-known company, with the driver's details.
+186|Which TransMilenio or bus to take, with live times.
+187|The Colombian app for food, groceries and pharmacy delivery.
+188|In Colombia it's used for everything: bookings, questions and orders.
+189|TransMilenio: today's service
+190|Station closures and diversions due to works, marches or events.
+191|⭐ Highlights of the week. The city's full calendar is on Visit Bogotá: check their page before you go.
+192|Visit Bogotá: what to do (official calendar)
+193|Bogotá City Hall
+194|Bogotá has one airport, El Dorado (BOG), with a main terminal for domestic and international flights. It's Avianca's hub: flights to all of Colombia leave from there.
+195|The polite way to ask for something in a shop, even if you're paying for it
+196|How great!
+197|Friend, mate
+198|Greeting: "how's it going?"
+199|Vendors say it: "how can I help you?"
+200|A small black coffee, not red wine
+201|Bogotá's afternoon snack: hot chocolate, bread and cheese
+202|A night out, a party
+203|A little bit
+204|Sorry, excuse me
+205|To ask for the bill; they'll ask if you want to add the tip
+206|🚌 How to use TransMilenio and ride-hailing apps
+207|🍹 How to protect yourself from scopolamine and the paseo millonario
+208|⛰️ How to cope with the altitude
+209|Hospitals with 24-hour emergencies
+210|Embassies and consulates
+211|Airport and terminal
+212|Tourist Information Point · Historic Centre
+213|Information, maps and tours of the centre, next to Plaza de Bolívar.
+214|Tourist Information Point · Monserrate
+215|At the station for going up Monserrate.
+216|Tourist Information Point · Centro Internacional
+217|Near the National Museum and the Planetarium.
+218|Tourist Information Point · Botanical Garden
+219|At the entrance to the Botanical Garden, next to Parque Simón Bolívar.
+220|Tourist Information Point · El Dorado Airport
+221|In the international arrivals hall.
+222|Tourist Information Point · Salitre Terminal
+223|At the long-distance bus terminal.
+224|Tourist Police · Monserrate
+225|Police officers who assist tourists. For emergencies, call 123.
+226|La Candelaria Police Station
+227|For the historic centre. This is where you report a theft.
+228|Santa Fe Police Station
+229|For La Macarena and the Centro Internacional.
+230|Chapinero Police Station
+231|For Chapinero, the Zona G and the Zona Rosa.
+232|Teusaquillo Police Station
+233|For Teusaquillo.
+234|Fundación Santa Fe de Bogotá
+235|A leading private hospital with 24-hour emergencies, near Usaquén. Contact your travel insurance before being treated.
+236|Clínica del Country
+237|Private clinic with emergencies, near the Zona Rosa.
+238|Méderi · Hospital Universitario Mayor
+239|Hospital with 24-hour emergencies, near the centre.
+240|Chapinero Hospital
+241|Public hospital with emergencies in Chapinero.
+242|Passports, paperwork and help if your documents are stolen.
+243|Brazil · Embassy (consular section)
+244|Paperwork and consular help.
+245|Chile · Embassy (consular section)
+246|The consulate is a few blocks from the embassy (Calle 92 # 12-68).
+247|Address from Uruguay's official consular map.
+248|United States · Embassy
+249|Citizen services by appointment.
+250|El Dorado International Airport (BOG)
+251|The city's airport, for domestic and international flights.
+252|Salitre Transport Terminal
+253|The main long-distance bus terminal.
+254|Pharmacies (droguerías)
+255|Open pharmacies on the map. Many offer home delivery.
+256|Emergencies: 123. On the website, how to file a report.
+257|Visit Bogotá
+258|Find embassies and consulates on the map.
+259|Tinto and single-origin coffee
+260|Colombian flavour
+261|2 Colombian cuisine spots
+262|Colombian cuisine
+263|Market hall
+264|Let's dance salsa
+265|A salsa bar
+266|Salsa
+267|In the hills
+268|2 places in the mountains
+269|Honorary rolo (Bogotano)
+270|March or April, some years
+271|Ibero-American Theatre Festival
+272|One of the world's largest theatre festivals, with shows in theatres and free performances in parks and streets.
+273|March or April
+274|Processions in the centre, and thousands of pilgrims climb Monserrate. Many Bogotanos leave the city.
+275|Festival Estéreo Picnic
+276|The city's big international music festival.
+277|Book Fair (FILBo)
+278|The international book fair, at Corferias, with talks, signings and a guest country.
+279|June or July
+280|Rock al Parque
+281|A free rock festival in Parque Simón Bolívar, one of the biggest in Latin America.
+282|6 August
+283|Bogotá's birthday
+284|The city celebrates its founding with cultural activities.
+285|August or September
+286|Salsa al Parque
+287|Salsa orchestras and dancers at a free open-air festival.
+288|Kite season
+289|August winds fill the parks with kites.
+290|31 October
+291|Halloween
+292|Kids go out in costume asking for sweets in shopping centres and neighbourhoods.
+293|Christmas lights and novenas
+294|Christmas lights in parks and streets, and the novenas: nine nights of prayers, carols and buñuelos before the 24th.
+295|How to read an address
+296|Calles and carreras
+297|Calles run east–west and their numbers rise towards the north; carreras run north–south and their numbers rise towards the west, away from the hills.
+298|"Carrera 7 # 28-66"
+299|It means on Carrera 7, at the level of Calle 28, 66 metres from the corner.
+300|The hills
+301|If you can see the mountains, you're facing east.
+302|Sur and Este
+303|"Sur" or "Este" at the end of an address means it's south of Calle 1 or east of Carrera 1.
+304|2,600 metres
+305|Bogotá is one of the highest capitals in the world: it's normal to tire quickly, sleep badly or have a headache in the first few days.
+306|What to do
+307|Walk slowly, drink plenty of water, eat light and drink little alcohol at first.
+308|Sun and cold
+309|The sun burns hard even when it's cool, and it gets chilly at night: dress in layers.
+310|Call 123. The large private clinics have 24-hour emergencies.
+311|They're called "droguerías". There are many and several deliver.
+312|Ciclovía: more than a hundred kilometres of avenues closed to cars for bikes, skates and walkers (holidays too)
+313|Free entry on Sundays
+314|Flea market and crafts in the streets of Usaquén (holidays too)
+315|The largest collection of pre-Hispanic goldwork in the world: thousands of gold pieces from Colombia's indigenous cultures.
+316|Entry is free on Sundays. Don't miss the offering room on the top floor.
+317|Fernando Botero's donation: his famous fat figures and his collection of Picasso, Monet, Renoir and Dalí, in a colonial house. Always free.
+318|It's part of the Banco de la República, along with the Art Museum and the Casa de Moneda.
+319|Colombia's history in an old cross-shaped prison, with art, archaeology and objects from independence.
+320|Allow a couple of hours.
+321|The Banco de la República's art museum, connected to the Botero Museum, with Colombian art from several periods.
+322|Free, like the Botero.
+323|The house where coins were minted from colonial times, with courtyards and old machinery.
+324|You visit it together with the Botero Museum.
+325|Bogotá's Museum of Modern Art, in a brick building by Rogelio Salmona.
+326|Check what exhibition is on.
+327|Colonial-era art and objects in a 17th-century Jesuit cloister.
+328|It's a block from Plaza de Bolívar.
+329|The hill above the city, with a white sanctuary and the widest view of Bogotá. You go up by funicular, cable car or on foot.
+330|Go up early, when the sky is clear. Wrap up: it's cold up top.
+331|The main square, surrounded by the Primatial Cathedral, the Capitol, the Palace of Justice and City Hall.
+332|Watch your backpack: it's very crowded.
+333|A little square where, according to tradition, the city was founded, surrounded by lanes with graffiti and bars.
+334|At night it fills with students: go back by app.
+335|One of the tallest buildings in the city, with a lookout on the 48th floor.
+336|The lookout opens at weekends: check beforehand.
+337|The pedestrian street of the centre, with street artists, stalls and historic buildings.
+338|Watch your backpack.
+339|The neoclassical cathedral on Plaza de Bolívar, the largest in the country.
+340|Respect mass times.
+341|Bogotá's oldest church, with an impressive gilded high altar.
+342|It's opposite the Gold Museum.
+343|The white sanctuary of the Fallen Lord, at the top of the hill, a pilgrimage site.
+344|On Sundays there are lots of pilgrims.
+345|A 17th-century Jesuit church with a gilded baroque interior.
+346|Next to the Colonial Museum.
+347|One of the most visited libraries in Latin America, with concert halls and exhibitions.
+348|It has a music hall with concerts.
+349|The country house where Simón Bolívar lived, with gardens at the foot of Monserrate.
+350|Combine it with the climb up Monserrate.
+351|An 1892 Italian-style theatre, restored, with opera, dance and concerts.
+352|There are guided tours on some days.
+353|The seat of Congress, a neoclassical building on Plaza de Bolívar.
+354|There are guided tours by booking.
+355|The José Celestino Mutis botanical garden, with Andean plants, a tropical house and cloud forests.
+356|It has a tourist information point.
+357|The city's great park, with a lake, boats and free rock and salsa festivals.
+358|Ideal on a Sunday.
+359|A tree-lined park at the foot of the hills, with trails and a flower clock.
+360|By day and in areas with people.
+361|A mountain trail in the eastern hills, with forest and city views.
+362|It opens only in the morning and with registration: check beforehand.
+363|The colonial neighbourhood: cobbled streets, colourful houses, universities, cafés and graffiti.
+364|Explore it by day and go back by app at night.
+365|The old village in the north, with its square, restaurants in old houses and the Sunday flea market.
+366|Go on a Sunday for the market.
+367|A handful of blocks with some of the best restaurants in the city.
+368|A park surrounded by restaurants, cafés and bars, with free events.
+369|Safe and lively at night.
+370|A brick neighbourhood on the hillside with signature restaurants and galleries.
+371|A good place for dinner.
+372|A tiny 1816 shop next to the cathedral, famous for its tamal, Santa Fe hot chocolate with cheese and sweets.
+373|There's always a queue: it moves fast.
+374|Colombian food
+375|Bogotá cuisine in a mansion at the top of Monserrate, with a view of the city.
+376|Try the ajiaco.
+377|Ajiaco, sobrebarriga and typical food next to Plaza de Bolívar.
+378|Ideal for lunch in the centre.
+379|The city version of Andrés Carne de Res: meat, Colombian food and a party over four floors with wild decor.
+380|Go on a Thursday or Saturday night.
+381|Traditional Colombian cuisine in an English-style mansion.
+382|Try the patacones and the ajiaco.
+383|Leonor Espinosa's cuisine with ingredients from all over the country, among the best restaurants in Latin America.
+384|Tasting menu: book well in advance.
+385|Contemporary Colombian cuisine, one of the most awarded restaurants in the country.
+386|The restaurant of Bogotá's best-known chef, in an English-style mansion with a glass-roofed garden.
+387|Sharing plates with Colombian produce and signature cocktails.
+388|Wood-fired cooking in a La Candelaria mansion, with a menu that changes every week.
+389|It opens only on some days: book.
+390|A specialty café from a family farm, with guided tastings.
+391|Do the coffee tasting.
+392|One of the pioneers of specialty coffee in Colombia, with brewing methods and tastings.
+393|Ask about the coffees from each region.
+394|A 1936 patisserie famous for its Santa Fe hot chocolate with cheese.
+395|Order hot chocolate with almojábana.
+396|A bakery and café with brunch and sourdough bread.
+397|Ideal for breakfast.
+398|A Colombian café in Usaquén with beans from the coffee region.
+399|Ideal after the market.
+400|The great market hall: exotic fruit, flowers, typical food and juices.
+401|Go early and try fruit you've never had.
+402|A neighbourhood market hall famous for its kitchens run by women cooking ajiaco and Pacific-coast food.
+403|Go at midday.
+404|A neighbourhood market with kitchens and fruit in Usaquén.
+405|Combine it with the flea market.
+406|A popular market hall with cheap food and fruit.
+407|Ideal for a market lunch.
+408|Vegan cooking in Chapinero, with plant-based versions of Colombian dishes.
+409|Vegan Asian food in Chapinero.
+410|A vegan café with breakfasts and cakes.
+411|Cheap, home-style vegan food.
+412|A classic salsoteca with live salsa and a packed dance floor.
+413|Go ready to dance.
+414|A salsa bar in La Candelaria, with live music and a student crowd.
+415|Go back by app.
+416|A classic of salsa brava in Bogotá since the 1970s.
+417|Open Thursday to Saturday.
+418|A salsoteca with a live orchestra at weekends.
+419|There are lessons before the dance on some days.
+420|Cocktails with Colombian ingredients, one of the most awarded bars in the country.
+421|A rooftop terrace with cocktails and DJs.
+422|A hidden bar with signature cocktails.
+423|Book by message.
+424|A restaurant and cocktail bar in the north, with a good vibe.
+425|Bogotá's most famous craft brewery, with branches all over the city.
+426|Try the Candelaria Clásica.
+427|A craft brewery with its own beers and good food.
+428|Try the tasting flight.
+429|Wood-fired pizza and craft beer in a Usaquén mansion.
+430|A good plan for groups.
+431|A Colombian craft-beer bar in Chapinero.
+432|Good atmosphere at weekends.
+433|One of the largest clubs in Latin America, with many dance floors, the heart of LGBT nightlife.
+434|Go in a group and come back by app.
+435|A bar with a terrace and DJs playing alternative and electronic music.
+436|It fills up late, around midnight.
+437|A very popular electronic music club.
+438|It opens late.
+439|Carlos Vives's family's bar, with vallenato and live Colombian music.
+440|A walking tour of La Candelaria's murals and street art, told by artists.
+441|It's pay-what-you-like: leave whatever tip you think fair.
+442|Guided walking tours of the historic centre, pay what you like.
+443|At the end you leave a tip.
+444|Guided bike tour of the centre, the markets and the neighbourhoods.
+445|Bikes and helmets are included.
+446|Tastings and tours to learn about Colombian coffee, from bean to cup.
+447|Ideal if you like coffee.
+448|Guided tours of a working-class neighbourhood riding the urban cable car, with murals and viewpoints.
+449|Only with a local guide.
+450|An underground cathedral carved into a salt mine, with illuminated crosses 180 metres deep.
+451|An hour and a half away; at weekends there's a tourist train.
+452|A colonial town with one of the largest squares in the Americas, about three hours away.
+453|Stay one night.
+454|A rebuilt white town next to a reservoir, near the lagoon of the El Dorado legend.
+455|Combine it with the lagoon.
+456|The original Andrés Carne de Res restaurant and party, an hour from the city.
+457|Come back with hired transport.
+458|The sacred lagoon of the Muisca, where the El Dorado legend was born.
+459|Visits are guided; bring warm clothes.
+460|A cloud forest with trails and cabins, an hour from the city.
+461|Bring waterproof clothing.
+462|A 150-metre waterfall opposite an old mansion turned into a museum.
+463|Best in the rainy season.
+464|Rock walls by the river, the favourite climbing spot near Bogotá.
+465|There are climbing schools for beginners.
+466|A hotel in a 1940s mansion with courtyards and carved wood, next to the Zona G.
+467|The hotel restaurant is very good.
+468|A classic-style luxury hotel near the Zona Rosa.
+469|Well located for going out.
+470|Modern luxury hotel in the north, near the Zona G.
+471|A hotel in two colonial mansions next to the Teatro Colón, with a terrace overlooking the cathedral.
+472|The terrace is lovely at sunset.
+473|A colourful art deco hotel in La Candelaria, with a terrace.
+474|Well located for exploring the centre.
+475|Modern design hotel with a vertical garden, opposite El Virrey park.
+476|Modern hotel in the Zona Rosa.
+477|Ideal for nights out.
+478|Design hotel with a rooftop terrace, next to Parque de la 93.
+479|The terrace is worth it even if you're not staying.
+480|A hostel with coworking in a Chapinero Alto mansion.
+481|A large hostel in a colonial mansion in La Candelaria, with activities.
+482|Ideal for meeting people.
+483|A hostel with a courtyard full of plants, next to the Chorro de Quevedo.
+484|Quiet and well located.
+485|A family-run hostel in a colonial house in the historic centre.
+486|Quiet atmosphere.
+487|The Sunday market of crafts, antiques and food in the streets of Usaquén.
+488|Sundays and public holidays only.
+489|A Sunday flea market in the centre, with antiques and curiosities.
+490|An arcade of clay crafts, basketry and everyday objects.
+491|The wholesale market for Colombian flowers, an explosion of colour early in the morning.
+492|Go very early.
+493|The north's most traditional shopping centre, next to the Zona T.
+494|One of the largest shopping centres in the country.
+495|It's in the far north.
+496|A large, traditional shopping centre in the north.
+497|T-shaped pedestrian streets with shops, bars and restaurants.
+498|It gets busy at night.
+499|Crafts
+500|The official crafts shop for the whole country, with pieces by indigenous communities.
+501|Lovely for quality gifts.
+502|Replicas of pieces from the Gold Museum and jewellery with pre-Columbian designs.
+503|A good souvenir of Bogotá.
+504|A large space with stalls of artisans from all over the country.
+505|Check the fair schedule.
+506|The emerald dealers' area, with shops and jewellers.
+507|Buy only from established jewellers, with a certificate.
+508|The stadium of Millonarios and Santa Fe, with a very intense atmosphere.
+509|Buy at the official ticket offices and wear a neutral shirt.
+510|The indoor arena next to El Campín, for basketball, concerts and events.
+511|The city's largest indoor arena, for concerts and sports.
+512|You get there by TransMilenio.
+513|A sports complex with pools, tracks and courts.
+514|Ideal for swimming or running.
+515|Sundays and public holidays, more than a hundred kilometres of avenues closed to cars for bikes, skates and walkers.
+516|Rent a bike and join in: it's the most Bogotá thing to do.
+517|The stone path up the hill: about 1,500 steps, with pilgrims and athletes.
+518|Go up by day and during opening hours.
+519|A linear park along a canal, a favourite for running in the north.
+520|Safe and with people around.
+521|Mountain trails opened by the city in the hills, with forest and views.
+522|They open on a schedule and with registration: check the District's website.
+523|The city's great theatre, with orchestras, opera and international dance.
+524|It's in the north: go back by app.
+525|An independent theatre with Colombian and international plays.
+526|Check what's on.
+527|A theatre with popular comedies and musicals.
+528|The city's film centre, with art-house films and festivals.
+529|Screenings are cheap.
+530|An interactive science museum with a dome cinema and hands-on experiments.
+531|The planetarium with dome shows and a space museum.
+532|Check the times.
+533|A museum where kids learn through play.
+534|Ideal for little ones.
+535|A miniature city where kids play at working, inside the Santafé shopping centre.
+536|Everything you need to explore the city
+537|Shopping and markets
+538|Centro
+539|A village inside the city
+540|Day 1 · morning
+541|Day 1 · midday
+542|Day 1 · afternoon
+543|Day 2 · morning
+544|Day 2 · midday
+545|Try fruit you've never had.
+546|Day 2 · afternoon
+547|Day 2 · evening
+548|Day 3 · morning
+549|Day 3 · afternoon
+550|Day 3 · evening
+551|Rainy day
+552|The best without paying for tickets.
+553|A day designed for kids.
+554|With your bank card
+555|The easiest option
+556|Finding your way
+557|Be careful
+558|Metro
+559|Airport
+560|Violence against women
+561|Areas where you should pay attention
+562|With these precautions, the vast majority of visits go by without any trouble.
+563|ATMs
+564|For data, the simplest option is an eSIM or a local SIM card.
+565|Official airport website
+566|Don't accept rides from people offering you a car in the arrivals hall.
+567|Claro
+568|Movistar
+569|If your phone supports eSIM, you can activate it before travelling: it's the most convenient.
+570|Localiza
+571|Hertz
+572|Avis
+573|Cars with drivers. You see the price before ordering.
+574|Maps and routes by public transport, on foot and by bike.
+575|For eating out
+576|Tourist information
+577|Argentina · Embassy (consular section)
+578|Spain · Consulate General
+579|Italy · Embassy (consular section)
+580|Mexico · Embassy (consular section)
+581|Uruguay · Embassy (consular section)
+582|National Police
+583|The city's official tourist information.
+584|From museum to museum
+585|2 cafés
+586|Café and pastry shop
+587|One market
+588|Holy Week
+589|Highly recommended: without cover, private care is expensive.
+590|The guide only includes places with a lasting reputation: official distinctions, recognised guides and good consensus in public reviews.
+591|religion
+592|Book for dinner.
+593|chef's cuisine
+594|Ideal for a special occasion.
+595|Book ahead.
+596|for sharing
+597|Check with the restaurant if you have any allergies.
+598|live music
+599|Cocktail bar
+600|Lovely at sunset.
+601|brewery
+602|electronic
+603|on foot
+604|Town and village
+605|Ask for a high floor.
+606|Good value for its location.
+607|A good option for solo travellers.
+608|Sundays only.
+609|Haggle a little.
+610|Ideal on a rainy day.
+611|Check the listings.
+612|swimming
+613|classical music
+614|Allow half a day.
+615|Valid passport and a copy on your phone
+616|Type A or B plug adapter, the one with flat pins (110 V)
+617|Layers: a warm coat for the night, a rain jacket and sunscreen
+618|Take a taxi from the official airport rank, with the fare slip
+619|Take it easy on the first day because of the altitude and drink plenty of water
+620|Buy a TuLlave card if you're going to use TransMilenio
+621|Bogotá classics
+622|History and La Candelaria
+623|Viewpoints and hills
+624|Market halls
+625|Salsa and nightlife
+626|La Candelaria, the centre and Monserrate
+627|Chapinero and the Zona G
+628|Zona Rosa and Parque de la 93
+629|La Candelaria and Monserrate
+630|Chapinero, Zona Rosa and Usaquén
+631|Chef's cuisine
+632|Day trips
