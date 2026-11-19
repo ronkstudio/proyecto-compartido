@@ -1076,7 +1076,6 @@ Object.assign(window.I18N_FULL = window.I18N_FULL || {}, {
 "Las jarras de margarita son para compartir.": "マルガリータのピッチャーはシェア用。",
 "También venden pastas y salsas para llevar.": "パスタやソースのテイクアウトもあります。",
 "Lindo patio para almorzar.": "ランチにぴったりのすてきな中庭。",
-"Reservá: tiene pocas mesas.": "席が少ないので予約を。",
 "Linda para un almuerzo o una merienda en el jardín.": "庭でのランチやアフタヌーンティーに最適。",
 "No toma reservas; anotate en la lista al llegar.": "予約不可。着いたらリストに名前を書いて。",
 "La noche arranca muy tarde: antes de las 2 hay poca gente. Andá y volvé en taxi o app.": "夜はとても遅く始まります：深夜2時前は静か。行き帰りはタクシーか配車アプリで。",

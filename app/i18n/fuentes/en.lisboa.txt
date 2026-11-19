@@ -1,0 +1,747 @@
+1|Belém, the castle, viewpoints, museums and azulejos
+2|Pastéis de nata, tascas, seafood and markets
+3|Fado, terraces, ginjinha and clubs
+4|Walks, tuk-tuks, boats and food
+5|Sintra, Cascais, beaches and villages
+6|Tinned fish, azulejos, books and fairs
+7|Football, surfing and cycling along the river
+8|Oceanarium, theatre, concerts and things to do with kids
+9|Baixa e Chiado
+10|The elegant centre
+11|The Baixa, rebuilt on a grid after the 1755 earthquake, with Praça do Comércio, Rua Augusta and the Rossio; above it, the Chiado with its historic cafés, bookshops and theatres.
+12|Central and well connected; lots of tourists.
+13|Alfama e Mouraria
+14|The oldest Lisbon
+15|Steep little streets, laundry hanging out, fado houses, the Sé, the castle above and Tram 28 squeezing through narrow streets. Mouraria, next door, is the immigrants' neighbourhood and the birthplace of fado.
+16|Full of charm; lots of stairs to climb.
+17|Graça
+18|Viewpoints and neighbourhood life
+19|One of the highest neighbourhoods, with two of the city's best viewpoints and the Monastery of São Vicente de Fora.
+20|Quiet with a view; far from the metro.
+21|Bairro Alto e Príncipe Real
+22|Nightlife and design
+23|By day the Bairro Alto is a quiet neighbourhood and by night the city's big street party. Príncipe Real, next to it, has gardens, design shops and restaurants.
+24|Great for going out; in the Bairro Alto it's noisy until late.
+25|Cais do Sodré e Santos
+26|The riverside that never sleeps
+27|The old port area, with the Time Out Market, Rua Cor-de-Rosa full of bars, and Santos and Lapa with the Museum of Ancient Art.
+28|Very well connected by train and boat; noisy at night.
+29|The discoveries
+30|By the river: the Jerónimos Monastery, the Belém Tower, the Padrão dos Descobrimentos, the MAAT and the pastéis de Belém.
+31|For visiting; a few minutes from the centre by tram or train.
+32|Alcântara
+33|Converted factories
+34|The LX Factory, the 25 de Abril bridge and the riverside with bars and restaurants in old warehouses.
+35|More for going out and eating than for sleeping.
+36|Estrela e Campo de Ourique
+37|Neighbourhood life
+38|The Basílica da Estrela, its garden, the Campo de Ourique Market and the aqueduct nearby.
+39|Residential and quiet, with Tram 28.
+40|Avenidas Novas
+41|Avenues and gardens
+42|The Avenida da Liberdade with its shops, Parque Eduardo VII, the Gulbenkian Foundation, Saldanha and the zoo.
+43|Big hotels and good metro connections.
+44|Oriente and Marvila
+45|Modern Lisbon
+46|Parque das Nações, built for Expo 98, with the Oceanarium and the riverfront; and Marvila, with craft breweries and the Azulejo Museum nearby.
+47|Modern and handy for the airport.
+48|Benfica and Alvalade
+49|Football and shopping centres
+50|The Benfica and Sporting stadiums and the Centro Colombo, one of the biggest shopping centres in the Iberian Peninsula.
+51|Far from the tourist areas; well connected by metro.
+52|Lisbon in 1 day
+53|Get there early: queues form.
+54|Walk up or take Tram 28.
+55|Dinner with live fado.
+56|A pastel de nata straight from the oven.
+57|Seafood and a prego for dessert.
+58|Day 3 · all day
+59|Train from Rossio. Buy your ticket in advance.
+60|A coffee in the Chiado.
+61|Fado in a tiny tasca.
+62|Free Lisbon
+63|A walk along the riverfront to Belém.
+64|Reboleira – Santa Apolónia
+65|Baixa-Chiado, Restauradores, Avenida da Liberdade, Marquês de Pombal, Jardim Zoológico and Santa Apolónia train station
+66|Odivelas – Rato
+67|Saldanha, Campo Grande and Marquês de Pombal
+68|Telheiras – Cais do Sodré
+69|Cais do Sodré (trains to Cascais and boats), Baixa-Chiado, Rossio and Martim Moniz
+70|São Sebastião – Aeroporto
+71|The only line that reaches the airport; it goes through Saldanha and Oriente (Parque das Nações)
+72|Navegante ocasional card
+73|The rechargeable card for visitors (it used to be called Viva Viagem), for the metro, trams, Carris buses, boats and trains. It's sold at metro machines; the card itself also costs a little.
+74|Zapping
+75|Top up credit ("zapping") on the card: each trip costs less than a single ticket and it works on all the city's transport.
+76|You can pay with a contactless Visa or Mastercard in the metro and on board Carris buses and trams. Each trip is charged as a single ticket, dearer than with zapping.
+77|24-hour pass
+78|There's a 24-hour pass for the metro and Carris (trams, buses and lifts), and others that add boats or trains. Worth it if you'll use trams and lifts a lot, as tickets bought on board are expensive.
+79|Lisboa Card
+80|The official tourist card: free transport, free entry to dozens of museums and monuments, and discounts at others.
+81|19 November 2026, with the official websites of the metro, Carris, CP and the boats. If anything differs, the signs on the transport apply.
+82|Lisbon Metro
+83|Four lines
+84|Azul, Amarela, Verde and Vermelha, with stations decorated with azulejos by Portuguese artists.
+85|The Vermelha line reaches airport Terminal 1. For the centre, change at Alameda (Verde) or São Sebastião (Azul).
+86|How to get in
+87|Tap the card on the reader when you go in and keep it: you also need it to get out.
+88|Trams and lifts
+89|The classic yellow one, climbing through Graça, Alfama, the Baixa, the Chiado and Estrela. It's packed: board at the end of the line (Martim Moniz or Campo de Ourique) and mind your wallet.
+90|Tram 15
+91|The modern one, from Praça da Figueira to Algés along the river, passing through Belém.
+92|Lifts
+93|The Glória, Bica and Lavra funiculars and the Santa Justa Lift save you the climbs in the centre. They're included in the 24-hour pass.
+94|Carris runs buses all over the city. Pay with the navegante card or a contactless bank card.
+95|Trains and boats
+96|To Sintra
+97|CP trains from Rossio station, in the centre.
+98|To Cascais
+99|CP trains from Cais do Sodré, along the coast, through Belém and the beaches.
+100|Boats
+101|Boats to Cacilhas, across the river, leave from Cais do Sodré: a short trip with a view of the city.
+102|Long distance
+103|Trains to Porto and the Algarve leave from Santa Apolónia and Oriente.
+104|Humberto Delgado Airport (LIS)
+105|It's inside the city, about 20 minutes from the centre. It has two terminals: 1 for most flights and 2 for some low-cost airlines, linked by a bus.
+106|The Vermelha line leaves from Terminal 1: it's the cheapest option.
+107|There's a taxi rank at arrivals and a pick-up point for Uber, Bolt and FREENOW.
+108|Uber, Bolt and FREENOW work well and are often cheaper than a taxi.
+109|They're black with a green or beige roof. They use a meter; there's a surcharge at night and for luggage.
+110|The seven hills
+111|Lisbon is all ups and downs, with stone streets that get slippery in the rain: wear comfortable shoes with a good grip.
+112|Riverside
+113|There's a flat cycle path along the riverfront, from Cais do Sodré to Belém and beyond.
+114|GIRA is the city's bike-share system, with lots of e-bikes for the hills.
+115|SNS 24: health line, they tell you where to go
+116|Domestic violence (free, 24 hours)
+117|Poison information centre
+118|Child helpline
+119|Lisbon is one of the safest capitals in Europe, but there are pickpockets wherever crowds gather.
+120|Tram 28 and the Santa Justa Lift are the classic spots: backpack in front and wallet put away.
+121|In the Baixa, the Rossio and the viewpoints, don't leave your phone on the table.
+122|Bairro Alto and Cais do Sodré in the early hours, when lots of people are drinking in the street.
+123|Martim Moniz and Intendente at night.
+124|Alfama's empty stairs and alleys, very late.
+125|In the Baixa and the Rossio people offer you "hashish" or "cocaine": it's usually fake and it's illegal. Keep walking.
+126|In restaurants, the starters they put on the table (bread, olives, cheese) are charged if you eat them. If you don't want them, ask them to take them away.
+127|Taxis without a meter or that take the long way: order through an app.
+128|If you're robbed, call 112 or go to a PSP (police) station to report it.
+129|Accepted almost everywhere; some tascas and kiosks want cash or a minimum for card payments.
+130|Use the banks' Multibanco ATMs. Avoid the colourful ATMs of exchange companies: they charge high fees. If you're offered a charge in your currency, choose euros.
+131|It's not compulsory. If the service was good, leave some change or round up the bill.
+132|Lisbon hours
+133|Lunch and dinner are earlier than in Spain. Tascas close the kitchen early.
+134|Many small shops close on Sundays; shopping centres are open every day.
+135|Most museums are closed on Mondays.
+136|Spring and autumn
+137|The best time: mild and sunny.
+138|Summer
+139|Hot, dry and with lots of tourists. June brings the Santo António festivities.
+140|Winter
+141|Mild but rainy, and houses are cold. The stone streets get slippery in the rain.
+142|The sea
+143|The Atlantic water is cold all year round.
+144|230 V. Type F sockets (two round pins): if you're coming from Argentina, bring an adapter.
+145|If you have a SIM from a European Union country, it works just like at home. If not, an eSIM or a local SIM.
+146|Portuguese is spoken. Many people understand Spanish if you speak slowly, and almost everyone speaks English.
+147|Pharmacies with the green cross in every neighbourhood. Emergencies: 112.
+148|A "bica" is a short espresso; a "galão", lots of milk in a glass; a "meia de leite", a white coffee.
+149|The Portuguese are friendly and somewhat formal. A "bom dia" and an "obrigado" are much appreciated.
+150|Pastel de nata, bacalhau (there are hundreds of recipes), grilled sardines in June, bifana, prego, seafood rice, ginjinha and vinho verde.
+151|Outside Lisbon
+152|Lisbon Passport
+153|Mark the places you've been and earn stamps: viewpoints, pastéis de nata, fado, azulejos, neighbourhood explorer…
+154|Late night in Lisbon
+155|🎶 Fado and nightlife
+156|No metro station nearby: better by tram, bus or app
+157|What are you looking for? Belém, pastel de nata, fado, viewpoints…
+158|E.g.: Torre de Belém, Castelo de São Jorge, Praça do Comércio…
+159|E.g.: Alfama, Bairro Alto, Belém…
+160|E.g.: TAP, Iberia, Aerolíneas Argentinas…
+161|Fado
+162|To the centre (Praça do Comércio)
+163|From Humberto Delgado airport
+164|Lisbon Airport
+165|Carris (trams and buses)
+166|Official Carris website
+167|The metro (Vermelha line) leaves from Terminal 1 and is the cheapest way to the centre.
+168|If you arrive at Terminal 2, a bus takes you to Terminal 1.
+169|Taxis have a rank at arrivals and use a meter. Apps (Uber, Bolt, FREENOW) have a signposted pick-up point.
+170|In the metro you can pay with a contactless bank card, or buy the navegante card at the machines.
+171|If you have a SIM from a European Union country, it works just like in your own country.
+172|You need your passport to buy a SIM. The phone companies have shops at the airport and in shopping centres.
+173|You can pay by card almost everywhere; some small tascas prefer cash.
+174|Withdraw cash at the banks' Multibanco ATMs, not at exchange-company ones.
+175|Navegante card, zapping and 24-hour pass
+176|Carris
+177|Trams, buses and lifts
+178|Official tourist card
+179|Metro lines
+180|Buy the navegante card at a metro machine and load it with zapping: each trip is cheaper.
+181|If you're going to use trams and lifts a lot, the 24-hour pass is worth it.
+182|Metro, trams, lifts, trains and boats
+183|Not worth it for getting around Lisbon: the streets are narrow and steep, and parking is hard. It's useful for getting out, for example to Arrábida, the Alentejo or the coast.
+184|Many motorways have electronic tolls, with no booths: ask the rental agency for the device (Via Verde) to pay them.
+185|Don't drive to Sintra: there's very little parking. Better by train.
+186|The official Lisbon transport app: top up the card and buy passes.
+187|Ride-hailing, often the cheapest.
+188|To order official taxis from your phone.
+189|Which metro, tram or bus to take, with live times.
+190|Public transport with live times.
+191|Restaurant bookings, often with a discount.
+192|In Portugal it's used for bookings, questions and orders.
+193|Lisbon Metro: today's service
+194|Line status, closures and strikes.
+195|Carris: notices
+196|Route changes for trams and buses.
+197|Strikes and closures in today's news.
+198|⭐ Highlights of the week. The city's full listings are on Visit Lisboa and the city's cultural agenda: check their page before you go.
+199|Visit Lisboa: things to do (official listings)
+200|Lisbon Cultural Agenda
+201|Lisbon has one airport, Humberto Delgado (LIS), inside the city. Terminal 1 is the main one and has the metro; Terminal 2 is for some low-cost airlines and is linked to Terminal 1 by bus. It's the hub of TAP Air Portugal.
+202|Hello
+203|Sorry, excuse me
+204|Do you speak Spanish?
+205|A short coffee, please
+206|A coffee with lots of milk, in a glass
+207|Where is…?
+208|I don't understand
+209|I need a doctor
+210|🎫 How to pay for the metro, tram and lifts
+211|👜 How to protect yourself from pickpockets on Tram 28
+212|🥖 Why they charge you for the bread they put on the table
+213|Airport and stations
+214|Ask Me Lisboa · Praça do Comércio
+215|Information, maps, the Lisboa Card and tickets, next to the square.
+216|Ask Me Lisboa · Restauradores
+217|In the Palácio Foz, next to the Elevador da Glória.
+218|Ask Me Lisboa · Belém
+219|Opposite the Jerónimos Monastery.
+220|Ask Me Lisboa · Airport
+221|In the Terminal 1 arrivals hall.
+222|PSP · Tourist assistance
+223|Police post for tourists. In an emergency, call 112.
+224|PSP · Baixa station
+225|For the Baixa and the Chiado. This is where you report a theft.
+226|PSP · Bairro Alto station
+227|For the Bairro Alto and Príncipe Real.
+228|PSP · Martim Moniz station
+229|For Mouraria and Martim Moniz.
+230|PSP · Belém station
+231|For Belém.
+232|PSP · Parque das Nações station
+233|For Parque das Nações.
+234|Hospital de São José
+235|Public hospital with 24-hour emergency care, in the centre.
+236|Hospital de Santa Maria
+237|The big university hospital, with 24-hour emergency care.
+238|Hospital São Francisco Xavier
+239|Public hospital with an emergency department, near Belém.
+240|Hospital CUF Descobertas
+241|Private hospital with an emergency department, in Parque das Nações. Show your travel insurance before you're seen.
+242|Hospital Cruz Vermelha
+243|Private hospital with an emergency department.
+244|Address from the embassy's official website.
+245|Next to the embassy (Largo do Conde de Pombeiro 6).
+246|The city's airport; Terminal 1 has the metro.
+247|Oriente station
+248|Long-distance trains, metro and the coach terminal.
+249|Santa Apolónia station
+250|Long-distance trains and metro, next to Alfama.
+251|Open pharmacies on the map. There's always one on duty.
+252|SNS 24
+253|Health line: 808 24 24 24. They tell you where to go.
+254|Visit Lisboa
+255|Public toilet
+256|Pastel de nata fan
+257|2 pastry shops
+258|Pastry shop
+259|Seven hills
+260|Saudade
+261|A night of fado
+262|From sea to table
+263|A seafood restaurant
+264|Honorary alfacinha
+265|Type F plug adapter, the one with two round pins (230 V)
+266|Comfortable shoes with a good grip, for the hills and stone streets
+267|Buy tickets for Sintra, the Jerónimos and the Oceanarium in advance
+268|Take the metro at airport Terminal 1
+269|Buy the navegante card and load zapping on it
+270|Activate your eSIM or buy a SIM card
+271|Ask them to take away the starters on the table if you're not going to eat them
+272|Lisbon classics
+273|Belém and the discoveries
+274|Pastéis de nata
+275|Portuguese cuisine
+276|Fado nights
+277|Sunset terraces
+278|Baixa, Chiado and Alfama
+279|Bairro Alto, Príncipe Real and Cais do Sodré
+280|Belém, Bairro Alto and Cais do Sodré
+281|25 April
+282|Freedom Day
+283|The anniversary of the Carnation Revolution, with a popular parade down the Avenida da Liberdade and red carnations everywhere.
+284|April or May
+285|IndieLisboa
+286|The city's independent film festival.
+287|All of June
+288|Lisbon Festivities
+289|Arraiais (street parties) in the neighbourhoods with grilled sardines, music and bunting. The big night is Saint Anthony's, 12 to 13 June, with the marchas populares along the Avenida da Liberdade.
+290|NOS Alive
+291|One of Europe's big music festivals, by the river in Algés.
+292|Lisbon Marathon
+293|The marathon and half marathon, finishing by the river.
+294|Doclisboa
+295|The international documentary film festival.
+296|Web Summit
+297|The big tech conference: the city fills up and hotel prices rise.
+298|Christmas in Lisbon
+299|Lights in the Baixa and the Avenida da Liberdade, a giant tree in Praça do Comércio and bolo rei in the pastry shops.
+300|A party and fireworks over the river in Praça do Comércio.
+301|The starters on the table
+302|The "couvert"
+303|When you sit down they bring bread, butter, olives or cheese without you asking. They're not free: you pay for what you eat.
+304|If you don't want it, ask them to take it away as soon as it arrives. It's normal and nobody takes offence.
+305|Hills and stone streets
+306|Lisbon is made of hills: plan your route to go downhill, and use the lifts and the tram.
+307|The calçada
+308|The black-and-white stone pavements are beautiful but slippery, especially in the rain: shoes with a good grip.
+309|Shade and water
+310|In summer the sun is strong: bring water and a hat.
+311|Emergencies
+312|Call 112. For health questions, the SNS 24 line (808 24 24 24) tells you where to go.
+313|They have a green cross. There's always one on duty open at night.
+314|Feira da Ladra: Lisbon's oldest flea market, in Campo de Santa Clara
+315|Lisbon Festivities: arraiais with grilled sardines and music in the streets of Alfama
+316|The 16th-century Manueline tower that guarded the entrance to the river: the symbol of the Age of Discovery. World Heritage Site.
+317|It's small inside and there's a queue: many prefer to see it from outside, at sunset.
+318|The great Manueline monastery, with its carved stone cloister and Vasco da Gama's tomb. World Heritage Site.
+319|The church is free; the cloister costs extra. Buy your ticket beforehand and get there early.
+320|The huge square open to the river, where the royal palace stood before the 1755 earthquake, with the Rua Augusta arch.
+321|Sit on the Cais das Colunas, the steps that lead down to the water.
+322|The castle at the city's highest point, with walls to walk along and the best view of Lisbon.
+323|Take bus 737 or Tram 28 to get close, and walk down through Alfama.
+324|An early 20th-century iron lift linking the Baixa and the Chiado, with a viewpoint at the top.
+325|The queue is long: you can also walk to the viewpoint from Largo do Carmo.
+326|The monument to the Portuguese navigators, with Henry the Navigator at the front and a giant compass rose on the ground.
+327|At the top there's a viewpoint over the river and Belém.
+328|The triumphal arch linking Praça do Comércio with Rua Augusta, with a viewpoint at the top.
+329|From the top you can see the Baixa's grid and the river.
+330|The yellow wooden tram that climbs up and down through Graça, Alfama, the Baixa and Estrela: a ride through postcard Lisbon.
+331|Board at the first stop (Martim Moniz or Campo Ourique) to get a seat, and mind your wallet.
+332|The collection of an Armenian millionaire: Egyptian, Islamic and European art and Lalique jewellery, in a building surrounded by gardens.
+333|The gardens are free and lovely for a rest.
+334|Five centuries of azulejos in a convent with a gilded church and a huge panel of Lisbon before the earthquake.
+335|It's a little far from the centre: take a bus or a taxi.
+336|The Museum of Art, Architecture and Technology, in a wavy building by the river and an old power station.
+337|You can walk up onto the roof for free: it has views of the river and the bridge.
+338|Portugal's great art museum, with the São Vicente panels and Bosch's Temptation of St Anthony triptych.
+339|It has a garden with a café and a river view.
+340|The story of fado, Lisbon's music, with guitars, records and recordings to listen to.
+341|Ideal before going to a fado house at night.
+342|One of the most important collections of royal carriages in the world.
+343|Kids love it.
+344|The dictatorship's old political prison, now a museum of the resistance and the Carnation Revolution.
+345|At the top there's a terrace with a view of the Sé.
+346|The city's highest viewpoint, with the castle, the Baixa and the river at your feet.
+347|Ideal for sunset.
+348|A viewpoint with pine trees and a kiosk, facing the castle and the Baixa.
+349|Have a drink at the kiosk as the sun goes down.
+350|A terrace with azulejos and bougainvillea over the rooftops of Alfama and the river.
+351|It's on the Tram 28 route.
+352|The postcard view of Alfama, with the domes of São Vicente and the Pantheon.
+353|A few metres from Santa Luzia.
+354|A two-level garden with views of the castle and the Baixa, at the top of the Elevador da Glória.
+355|Ride up the Elevador da Glória from Restauradores.
+356|The young crowd's viewpoint, looking out at the 25 de Abril bridge and the river.
+357|At sunset it fills up with people.
+358|The city's oldest cathedral, a 12th-century Romanesque fortress.
+359|Tram 28 passes right in front: it's the classic photo.
+360|Plain on the outside, but inside it has one of the richest chapels in Europe, all precious stones.
+361|The sacred art museum is next door.
+362|The ruins of a Gothic church left roofless by the 1755 earthquake: the arches stand out against the sky.
+363|The square in front is quiet and has cafés.
+364|A Baroque church with a white dome where presidents, writers and the fado singer Amália Rodrigues are buried.
+365|The dome terrace has a huge view.
+366|A monastery with azulejo-covered cloisters and a terrace overlooking Alfama.
+367|Combine it with the Feira da Ladra, right next door.
+368|A white 18th-century basilica with a dome, opposite the Jardim da Estrela.
+369|You can go up onto the roof.
+370|The oldest neighbourhood: stairs, alleys, laundry hanging out, the smell of sardines in summer and fado at night.
+371|Getting lost is part of the plan. Walk down from the castle.
+372|A neighbourhood of straight, narrow streets that's quiet by day and full of people drinking in the street at night.
+373|Go at night, from dinnertime on.
+374|The multicultural neighbourhood where fado was born, with murals, restaurants from all over the world and neighbourhood life.
+375|Follow the stairs from Martim Moniz up to the castle.
+376|The literary neighbourhood: historic cafés, bookshops, theatres and the statue of Fernando Pessoa.
+377|Walk it from Rua Garrett to Praça Luís de Camões.
+378|A sloping botanical garden with plants from all over the world, right in the centre.
+379|A quiet oasis a few steps from Príncipe Real.
+380|A romantic garden with ponds, ducks, a bandstand and a playground.
+381|Perfect for a picnic.
+382|The big sloping park above the Avenida da Liberdade, with views all the way to the river.
+383|Inside is the Estufa Fria, a giant greenhouse.
+384|A square with a huge cedar that gives shade like an umbrella, a pond and cafés.
+385|Surrounded by design shops.
+386|A greenhouse with ponds, ferns and tropical plants, inside Parque Eduardo VII.
+387|A good plan when it's very hot or raining.
+388|The 18th-century aqueduct that survived the earthquake, with arches over 60 metres high.
+389|You can walk across the top of the section over the Alcântara valley.
+390|A 16th-century house with a diamond-point façade, now home to the José Saramago Foundation.
+391|Downstairs you can see remains of the Roman wall.
+392|The Baixa's central square, with wavy cobblestones, fountains, the National Theatre and the neo-Manueline train station next door.
+393|Look at the ground: the wave pattern was copied in Copacabana.
+394|A glass viewpoint at deck level of the 25 de Abril bridge, inside one of its pillars.
+395|If you're afraid of heights, better skip it.
+396|A small tavern with classic Portuguese dishes, reinvented, that change with the market.
+397|No dinner bookings: put your name on the list and wait with a glass of wine.
+398|Portuguese food
+399|A neighbourhood tasca with huge plates of bacalhau and meat, for sharing.
+400|It only opens at lunchtime and fills up.
+401|A small tavern in Alfama with very well-made Portuguese petiscos (sharing plates).
+402|An old-school beer hall with grilled chicken and seafood and waiters in white jackets.
+403|No frills, fast and cheap.
+404|The "king of chickens": chargrilled chicken with piri piri, a Lisbon tradition.
+405|Order the chicken with chips and salad.
+406|A classic of northern Portuguese cooking, with hanging hams, seafood and bacalhau.
+407|The walls are covered with photos of celebrities.
+408|Bifanas and sandwiches
+409|A classic counter for eating a bifana (pork sandwich) standing up, with a beer.
+410|Put mustard on it.
+411|Opposite Rossio station, old-school bifanas and sandwiches at all hours.
+412|Ideal before catching the train to Sintra.
+413|A tiny counter famous for its bifanas, with a queue of locals.
+414|You eat standing up.
+415|A classic café on Praça da Figueira for bifanas and pregos.
+416|Order a bifana and an imperial (a small draught beer).
+417|Lisbon's most famous seafood restaurant: garlic prawns, clams, spider crab and, for dessert, a prego (steak sandwich).
+418|No bookings: the queue moves fast.
+419|A 19th-century beer hall in an old convent, with azulejo-covered walls, seafood and steaks.
+420|Look at the azulejos in the main hall.
+421|A modern seafood restaurant with fish sold by weight and Portuguese-style sushi.
+422|Book for dinner.
+423|A tiny seafood place in the Baixa, famous for a single dish: seafood rice.
+424|No bookings: get there early.
+425|José Avillez's restaurant, with two Michelin stars: Portuguese cuisine taken to the top.
+426|Henrique Sá Pessoa's Michelin-starred restaurant, in an old stone warehouse in the Chiado.
+427|There are tasting menus with and without meat.
+428|Cooking with farm and seasonal produce, in a bright old factory near the Sé.
+429|It also has a shop for buying produce.
+430|A José Avillez space with a tavern, market and a patio serving seafood, more affordable than his starred restaurant.
+431|Go hungry and try several things.
+432|Peruvian ceviches with Portuguese ingredients, under a giant octopus hanging from the ceiling.
+433|There's a queue: put your name down and wait with a pisco sour.
+434|The old Ribeira market, with stalls from the city's best chefs under one roof.
+435|It's packed at lunch and dinner: go mid-afternoon.
+436|A neighbourhood market with food stalls to try, quieter than the Time Out.
+437|Tram 28 ends nearby.
+438|A neighbourhood market with fruit, fish and a few food stalls.
+439|Best in the morning.
+440|The traditional part of the Ribeira market, with fish, fruit and flowers, next to the Time Out Market.
+441|Go in the morning, when the fish is in.
+442|Since 1837, the most famous pastéis de nata, made to a secret recipe from the monastery next door.
+443|There's a takeaway queue; inside there are big rooms where you get a seat faster.
+444|A counter that makes only pastéis de nata, in full view and fresh out of the oven.
+445|For many, the best in Lisbon.
+446|A confectioner's from 1829 that brought bolo rei (the Portuguese king cake) to Portugal.
+447|The upstairs room is quieter.
+448|An early 20th-century pastry shop with mirrors, chandeliers and waiters in jackets: where Lisbon's ladies have afternoon tea.
+449|Order a bolo de arroz or a pastel de nata.
+450|The Chiado's historic café, with the statue of Fernando Pessoa sitting on the pavement.
+451|Have a bica at the counter, like the locals.
+452|Specialty coffee roasted in-house, in a place with armchairs.
+453|Good homemade cakes.
+454|A Nordic café with specialty coffee and cinnamon buns.
+455|A small café full of design and magazines, with specialty coffee.
+456|Few tables: go early.
+457|Breakfast and brunch all day in a bright space.
+458|A homemade vegan buffet in the Chiado, with soups, stews and desserts.
+459|A good budget option at lunchtime.
+460|Creative vegan cooking in the Chiado, with reinvented Portuguese dishes.
+461|Quick, generous vegan food near Cais do Sodré.
+462|The burgers are the most popular.
+463|A vegan restaurant full of plants, for lunch or a drink.
+464|Nice for a quiet break.
+465|Colourful vegan dishes and brunch, near Saldanha.
+466|Good for a late breakfast.
+467|A fado house with stone vaults, dinner and some of Lisbon's best fado singers.
+468|Total silence during the fado.
+469|A tiny tasca full of photos where they sing fado vadio: anyone can have a go.
+470|No bookings: get there early and wait outside.
+471|Fado in an old chapel covered in azulejos, ideal for a special night.
+472|A traditional fado house in the Bairro Alto, with dinner and well-known singers.
+473|You need to book for dinner.
+474|One of the oldest fado houses in Alfama.
+475|Book for dinner with the show.
+476|A bar on the roof of a car park, with plants and views of the bridge and the river.
+477|The entrance is hidden: take the car park lift up.
+478|A terrace on top of a shopping centre, facing the castle.
+479|A lesser-known spot for sunset.
+480|A terrace with Indian decor, cushions and a view of the castle.
+481|Ideal for sunset.
+482|The rooftop bar of the Tivoli hotel, overlooking the whole Avenida da Liberdade.
+483|Open in the warm season.
+484|A hidden 1920s-style bar, one of the best in Europe: you get in by ringing a bell.
+485|An old love hotel turned bar, with red velvet, erotic paintings and shows.
+486|It gets packed at night.
+487|A tiny cocktail bar with drinks made from Portuguese ingredients.
+488|Few tables: get there early.
+489|An art nouveau bar from the seventies, with lots of nooks and a patio.
+490|Ideal for a long chat.
+491|Classic bar
+492|An 1840 counter that serves only ginjinha, Lisbon's sour-cherry liqueur, in little glasses.
+493|Order it "com elas", with the cherries.
+494|Another historic ginjinha counter, a few metres from the Rossio.
+495|You drink it standing in the street.
+496|A bar whose walls are lined with display cases of toy soldiers, dolls and antique toys.
+497|There are pool tables at the back.
+498|A seventies bar with stained glass and lamps, where politicians and artists used to meet.
+499|You have to ring the bell.
+500|Lisbon's most famous club, in a warehouse by the river, with a terrace for watching the sunrise.
+501|It opens late and the door is selective.
+502|A club under a bridge on Rua Cor-de-Rosa, with gigs and DJs.
+503|Check the programme.
+504|An African music club (kizomba, semba, funaná) by the river.
+505|If you can't dance, someone will teach you.
+506|The street painted pink in the old sailors' quarter, full of bars and people.
+507|Things get going late.
+508|One of Lisbon's pioneering craft breweries, in a Marvila warehouse.
+509|There are several breweries close by in Marvila.
+510|A craft brewery with gigs and beer names that play on songs.
+511|There's live music at weekends.
+512|A small bar of Portuguese craft beers, on a stairway between the Rossio and the Bairro Alto.
+513|Ask for a taste before choosing.
+514|A beer bar with lots of taps of Portuguese and foreign craft beer.
+515|Guided walks in Spanish starting in the Baixa: history, the earthquake, fado and viewpoints. Pay what you want.
+516|Book on the company's website and tip at the end.
+517|A tour to try petiscos, tinned fish, wines and pastéis de nata with a local guide.
+518|A tour of the city's murals and street art, which is famous worldwide.
+519|There are tours in less touristy neighbourhoods.
+520|A walk around the Age of Discovery monuments with someone telling you the story.
+521|Combine it with a ticket to the Jerónimos.
+522|Outings
+523|A ride in an electric tuk-tuk around the viewpoints and alleys, without walking up.
+524|Agree on the route and price before you get in.
+525|A sailing trip on the river, with views of Belém, the bridge and the city from the water.
+526|Sunset is the loveliest time.
+527|The regular ferry across the river to Cacilhas: the cheapest trip with a view of Lisbon.
+528|On the other side there are seafood restaurants with a view.
+529|A few flat kilometres along the river cycle path, from Cais do Sodré to Belém, on rental bikes or GIRA.
+530|Come back by train or on Tram 15.
+531|The colourful Romantic palace high in the Sintra hills, among forests and mist. World Heritage Site.
+532|Buy a timed ticket online and take the bus up from the station.
+533|An estate with gardens full of tunnels, grottoes and an initiation well with a spiral staircase.
+534|The walls of a medieval castle on top of the hills, with views to the sea.
+535|Wear comfortable shoes: there are lots of steps.
+536|An Oriental-inspired palace with huge botanical gardens, less visited than Pena.
+537|Quieter than Sintra's other palaces.
+538|The fishing village turned elegant seaside resort, with beaches, a historic centre and a seafront promenade.
+539|Train from Cais do Sodré along the coast.
+540|A walled medieval village with white houses and flowers, famous for ginjinha served in a chocolate cup.
+541|Direct bus from Lisbon.
+542|The capital of the Alentejo, with a Roman temple, a chapel of bones and white streets. World Heritage Site.
+543|Train or bus; better to stay the night.
+544|A fishing town on the Sado river, famous for fried cuttlefish and dolphins.
+545|Combine it with the Arrábida beaches.
+546|The big sandy beach closest to Lisbon, with surf schools.
+547|Train on the Cascais line.
+548|Miles of sandy beaches across the river, with beach bars and surfing.
+549|Bus from Lisbon, or the boat to Cacilhas and then a bus.
+550|A wild beach with dunes and lots of wind, famous among kitesurfers.
+551|The water is cold and the sea is rough: be careful going in.
+552|A bay of clear water at the foot of green hills, one of Portugal's most beautiful beaches.
+553|It gets crowded in summer: arrive early.
+554|The westernmost point of mainland Europe: huge cliffs over the Atlantic.
+555|It's very windy: bring a jacket.
+556|A grotto in the cliffs where the sea rushes in.
+557|A walk from the centre of Cascais.
+558|Green hills that drop into the sea, with viewpoints and beaches.
+559|Better by car.
+560|The Christ with open arms across the river, with a viewpoint over the bridge and Lisbon.
+561|Boat to Cacilhas and then a bus.
+562|A hostel inside Rossio station, under a glass roof.
+563|Ideal for the trip to Sintra.
+564|A family-run hostel famous for the home-cooked dinners made by the owners' mum.
+565|Book the dinner.
+566|A social, central hostel with group dinners and nights out.
+567|Good for meeting people.
+568|A design hostel in the Baixa, with a lounge and kitchen for guests.
+569|Close to everything.
+570|A boutique hotel hidden in Alfama, with a pool overlooking the river.
+571|Ask for a room with a view.
+572|Hotel apartments in a palace in the Bairro Alto, with a rooftop terrace.
+573|The rooms have a kitchen.
+574|A classic 1892 hotel by Restauradores, with period lounges.
+575|Very well located for Sintra (train from Rossio).
+576|A big hotel on Martim Moniz with a terrace looking out at the castle.
+577|Tram 28 leaves from the door.
+578|A luxury hotel in an 18th-century building in the Chiado, with a terrace over the river.
+579|The terrace is open to non-guests.
+580|Lisbon's grand luxury hotel, opposite Parque Eduardo VII, with Portuguese art from the 1950s.
+581|The rooftop running track has views over the whole city.
+582|A 19th-century palace with gardens, turned into a hotel.
+583|Far from the centre, but with a huge garden.
+584|A classic hotel on the Avenida da Liberdade with a garden, pool and the Sky Bar on the roof.
+585|Very well located for shopping.
+586|Markets and design
+587|Lisbon's oldest flea market: antiques, old azulejos, records and a bit of everything.
+588|It runs on Tuesdays and Saturdays.
+589|A complex of 19th-century factories with design shops, restaurants, murals and the Ler Devagar bookshop.
+590|Allow an afternoon: there's a lot to see.
+591|A 19th-century Moorish-style palace with Portuguese design shops.
+592|Look at the central courtyard.
+593|Design made from Portuguese cork: bags, objects and souvenirs.
+594|An unusual, lightweight gift.
+595|Classic shop
+596|A shop with classic Portuguese products: soaps, notebooks, tins and old-fashioned toys.
+597|Ideal for souvenirs that aren't plastic.
+598|The oldest operating bookshop in the world, open since 1732.
+599|They stamp the book you buy.
+600|A tinned-fish shop from 1930, with colourful hand-wrapped tins.
+601|Sardine tins are the classic souvenir.
+602|A glove shop from 1925 that serves one customer at a time.
+603|One person goes in at a time.
+604|Tinned fish from every factory in Portugal, arranged by brand.
+605|Ask them for a recommendation.
+606|Lisbon's elegant boulevard, with luxury brands, trees and stone pavements.
+607|Walk it downhill from Marquês de Pombal to Restauradores.
+608|The Baixa's pedestrian street, with shops, pastry shops and street performers, ending at the arch.
+609|It's full of tourists: check restaurant prices before you sit down.
+610|One of the largest shopping centres in the Iberian Peninsula, opposite the Benfica stadium.
+611|Metro: Colégio Militar/Luz.
+612|A bright shopping centre in Parque das Nações, next to Oriente station.
+613|Upstairs there are restaurants with river views.
+614|The big Spanish department store, with a gourmet supermarket in the basement.
+615|A good place to buy wine and tinned fish.
+616|Benfica's stadium, one of the largest in Europe.
+617|There are guided tours on non-match days.
+618|Benfica's museum, with trophies and the story of Eusébio.
+619|Combine it with the stadium tour.
+620|Sporting's stadium, the club where Cristiano Ronaldo started out.
+621|It has a museum and tours.
+622|The stadium of the Portuguese Cup final, surrounded by a big park with running tracks.
+623|The Jamor park is ideal for running.
+624|Miles of riverfront for walking, running or cycling, from Praça do Comércio to Belém.
+625|At sunset the sun goes down over the bridge.
+626|Lisbon's green lung: a huge forest with trails, viewpoints and cycle paths.
+627|The Monsanto viewpoint looks out over the whole city.
+628|A park by the river and the Vasco da Gama bridge, with cycle paths and playgrounds.
+629|You can rent bikes in Parque das Nações.
+630|Surf schools on the beach closest to Lisbon, to learn in a day.
+631|The water is cold: the wetsuit is included.
+632|The national theatre, in a neoclassical building on the Rossio.
+633|Some performances have English subtitles.
+634|Lisbon's opera house, an 18th-century theatre inspired by La Scala in Milan.
+635|Check the opera and concert programme.
+636|A historic hall with an iron dome, for concerts and circus.
+637|Lisbon's big concert arena, built for Expo 98.
+638|Metro: Oriente.
+639|A cultural centre with concerts, dance, exhibitions and a contemporary art museum.
+640|The terraces overlook the river.
+641|One of the largest aquariums in Europe, with a huge central tank full of sharks and rays.
+642|Buy your ticket beforehand and allow a couple of hours.
+643|The hands-on science museum for touching and experimenting.
+644|For kids of all ages.
+645|Lisbon's zoo, with a cable car that passes over the animals.
+646|Metro: Jardim Zoológico.
+647|A cable car along the Parque das Nações riverfront, over the river.
+648|Combine it with the Oceanarium.
+649|Ships, maps and models from the Age of Discovery, in the Jerónimos monastery.
+650|At the back are the royal family's barges, real boats.
+651|Everything you need to explore the city
+652|Shopping and markets
+653|Day 1 · morning
+654|Day 1 · midday
+655|Day 1 · afternoon
+656|Day 1 · evening
+657|Day 2 · morning
+658|Day 2 · afternoon
+659|Day 2 · evening
+660|Day 3 · afternoon
+661|Rainy day
+662|The best without paying for tickets.
+663|A day designed for kids.
+664|With your bank card
+665|To the airport
+666|Airport
+667|Metro
+668|On foot and by bike
+669|Public bikes
+670|Emergencies: police, ambulance and fire service
+671|Most common: pickpockets
+672|Areas where you should pay attention
+673|With these precautions, the vast majority of visits go by without any trouble.
+674|If your passport is stolen, after reporting it go to your consulate: they're on the map in Info > Help.
+675|Get travel insurance.
+676|Euro (EUR).
+677|ATMs
+678|Coffee
+679|Manners
+680|Viewpoints
+681|Official airport website
+682|Official metro website
+683|If your phone supports eSIM, you can activate it before travelling: it's the most convenient.
+684|If the ATM or card reader offers to charge you in your own currency, choose to pay in euros.
+685|Europcar
+686|Hertz
+687|Avis
+688|Sixt
+689|If your licence isn't from the European Union, also bring an International Driving Permit.
+690|Cars with drivers. You see the price before ordering.
+691|Maps and routes by public transport, on foot and by bike.
+692|For eating out
+693|Food, groceries and pharmacy delivered.
+694|Food delivery.
+695|Good morning (in the afternoon, "Boa tarde"; at night, "Boa noite")
+696|Thank you ("obrigado" if you're a man, "obrigada" if you're a woman)
+697|Please
+698|Tourist information
+699|Hospitals with 24-hour emergencies
+700|Embassies and consulates
+701|Argentina · Embassy (consular section)
+702|Passports, paperwork and help if your documents are stolen.
+703|Paperwork and consular help.
+704|Chile · Embassy (consular section)
+705|The city's official tourist information.
+706|Find embassies and consulates on the map.
+707|From museum to museum
+708|3 viewpoints
+709|Seafood
+710|Valid passport and a copy on your phone
+711|Chef's cuisine
+712|Day trips
+713|October
+714|31 December
+715|New Year's Eve
+716|What to do
+717|Highly recommended: without cover, private care is expensive.
+718|The guide only includes places with a lasting reputation: official distinctions, recognised guides and good consensus in public reviews.
+719|religion
+720|Book well in advance.
+721|chef's cuisine
+722|Ideal for breakfast.
+723|There's a wait at weekends.
+724|live music
+725|Book: it's small.
+726|Terrace
+727|Cocktail bar
+728|Book ahead.
+729|electronic
+730|Go hungry.
+731|excursion
+732|Allow a couple of hours.
+733|Town and village
+734|Beach
+735|Outdoors
+736|Italy · Consular section
+737|Cycling along the river to Belém
+738|Surf lessons in Carcavelos
+739|Free tour of Alfama and the Baixa
+740|Sailing trip on the Tagus
+741|Tagus riverside
+742|Mouraria food tour
+743|Guided tour of Belém
+744|Tuk-tuk tour
+745|Street art tour
+746|Boat to Cacilhas
+747|Tram 28
