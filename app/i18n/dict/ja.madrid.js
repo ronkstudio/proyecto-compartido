@@ -282,7 +282,6 @@ Object.assign(window.I18N_FULL = window.I18N_FULL || {}, {
 "Madrid de los Austrias, Debod y Malasaña": "ハプスブルク地区、デボー、マラサーニャ",
 "Museos, Retiro y Lavapiés": "美術館、レティーロ、ラバピエス",
 "El desfile de los Reyes Magos por el Paseo de la Castellana y el centro, con carrozas y caramelos para los chicos.": "東方三博士がカステジャーナ通りと中心部をパレード。山車と子ども向けのお菓子も。",
-"Febrero o marzo": "2月か3月",
 "ARCO": "ARCO（アートフェア）",
 "La gran feria de arte contemporáneo, en IFEMA, con muestras en galerías de toda la ciudad.": "IFEMAで開かれる大規模な現代アートフェア。街中のギャラリーでも展示。",
 "Procesiones por el centro, sobre todo por La Latina y los Austrias, y torrijas en todas las pastelerías.": "中心部、特にラ・ラティーナとハプスブルク地区で宗教行列。どの菓子店にもトリハス（フレンチトースト）。",

@@ -172,7 +172,6 @@ Object.assign(window.I18N_FULL = window.I18N_FULL || {}, {
 "Edificios oficiales y lugares que suelen estar cerrados abren gratis al público.": "官庁の建物や普段は非公開の場所が無料で公開されます。",
 "Fiesta de la Vendimia de Montmartre": "モンマルトルのぶどう収穫祭",
 "Celebra la cosecha del viñedo de Montmartre con desfiles, puestos y fuegos artificiales.": "モンマルトルのぶどう畑の収穫をパレード、屋台、花火で祝います。",
-"Luces de Navidad": "クリスマスイルミネーション",
 "Iluminación de los Campos Elíseos y de las grandes tiendas del bulevar Haussmann, con sus vidrieras animadas.": "シャンゼリゼのイルミネーションと、オスマン通りのデパートの動くショーウィンドウ。",
 "Puestos con vino caliente, comida y artesanías en varias plazas y jardines de la ciudad.": "街のあちこちの広場や庭園にホットワイン、料理、工芸品の屋台。",
 "Festejo en los Campos Elíseos, con proyecciones sobre el Arco del Triunfo. Hay mucha gente: cuidá tus cosas.": "シャンゼリゼで祝い、凱旋門にプロジェクション。大混雑なので持ち物に注意。",

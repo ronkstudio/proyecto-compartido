@@ -1,0 +1,737 @@
+1|Rio de Janeiro
+2|Cristo, Pão de Açúcar, praias, morros e museus
+3|Botecos, churrasco, feijoada e sucos
+4|Samba, bossa nova, caipirinhas e terraços
+5|Visitas guiadas, trilhas e passeios de barco
+6|Ilhas, cidades coloniais e praias por perto
+7|Feiras, shoppings e design carioca
+8|Maracanã, surfe, trilhas e ar livre
+9|Escolas de samba, shows e programas com crianças
+10|Copacabana
+11|A praia mais famosa
+12|Quatro quilômetros de areia, o calçadão de ondas, quiosques, o Forte de Copacabana e prédios dos anos 50.
+13|Bem conectado e com hotéis de todos os preços; à noite, atenção nas ruas laterais e na praia.
+14|Ipanema
+15|Praia e estilo
+16|A praia da canção, o Arpoador, a Feira Hippie de domingo e ruas com lojas e bares.
+17|Uma das melhores bases: bonito, animado e mais tranquilo que Copacabana.
+18|Leblon
+19|Elegante e tranquilo
+20|A ponta da praia diante do Morro Dois Irmãos, com restaurantes, botecos clássicos e muita vida de bairro.
+21|O mais seguro e caro da zona sul.
+22|Botafogo
+23|Bares e vista para o Pão de Açúcar
+24|A enseada com o melhor cartão-postal do Pão de Açúcar, ruas cheias de bares e restaurantes novos e o mirante Dona Marta perto.
+25|Um vilarejo ao pé do Pão de Açúcar
+26|Ruas tranquilas, a Praia Vermelha, o bondinho do Pão de Açúcar e a mureta para tomar algo ao pôr do sol.
+27|Tranquilo e seguro, mas com poucos hotéis.
+28|Flamengo e Catete
+29|O Aterro e o Museu da República
+30|O grande parque à beira-mar do Aterro, o Museu de Arte Moderna e o Palácio do Catete.
+31|Central e com metrô; à noite o parque fica vazio.
+32|Lagoa e Jardim Botânico
+33|A lagoa e a mata
+34|A Lagoa Rodrigo de Freitas com sua ciclovia, o Jardim Botânico e o Parque Lage ao pé do Corcovado.
+35|Residencial e verde, longe do metrô.
+36|Boêmio no morro
+37|Casarões antigos, o bondinho amarelo, ateliês de artistas, bares e vistas da baía.
+38|Encantador de dia; à noite, circule de carro ou aplicativo.
+39|Lapa
+40|Arcos e samba
+41|Os Arcos da Lapa, a Escadaria Selarón e a noite de samba e choro em casarões antigos.
+42|Muita festa e barulho; à noite, melhor circular de carro ou aplicativo.
+43|Centro
+44|A cidade histórica
+45|O Theatro Municipal, a Confeitaria Colombo, igrejas barrocas, o Paço Imperial e a Catedral Metropolitana.
+46|Bonito de dia durante a semana; à noite e aos domingos fica vazio.
+47|Porto Maravilha
+48|O porto renovado
+49|A Praça Mauá com o Museu do Amanhã e o MAR, o AquaRio, o mural Etnias e a Pequena África com a Pedra do Sal.
+50|Mais para visitar do que para dormir.
+51|Gávea
+52|Universitário e verde
+53|O Planetário, o Instituto Moreira Salles e bares de estudantes ao pé da montanha.
+54|Tranquilo, longe do metrô.
+55|Tijuca e Maracanã
+56|Futebol e escolas de samba
+57|O estádio do Maracanã, a Quinta da Boa Vista e a escola de samba Salgueiro.
+58|Zona norte, de moradores; para visitar.
+59|Barra da Tijuca
+60|Praia longa e shoppings
+61|Uma praia enorme, avenidas, shoppings, a Cidade das Artes e, mais longe, as praias selvagens da Prainha e de Grumari.
+62|Moderna e longe de tudo o que é histórico; prática de carro.
+63|Rio em 1 dia
+64|O mais cedo possível, antes que feche o tempo.
+65|Um café na confeitaria de 1894.
+66|Suba para o pôr do sol.
+67|Uma caipirinha num quiosque da praia.
+68|Dia 1 · pôr do sol
+69|O pôr do sol mais aplaudido do Rio.
+70|Chope e bolinhos no Leblon.
+71|Samba na rua; veja em que dias tem roda.
+72|Na mureta, de frente para a baía.
+73|Samba e choro em lugar coberto.
+74|Rio grátis
+75|Melhor com guia ou em grupo.
+76|Bicicletas e pedalinhos.
+77|Uruguai ↔ General Osório
+78|Centro (Carioca, Cinelândia), Glória, Catete, Flamengo, Botafogo, Copacabana (Cardeal Arcoverde, Siqueira Campos, Cantagalo) e Ipanema (General Osório)
+79|Pavuna ↔ Botafogo
+80|Maracanã, Estácio e a zona norte; divide com a linha 1 o trecho entre Estácio e Botafogo
+81|General Osório ↔ Jardim Oceânico
+82|Continua a linha 1 rumo a Ipanema (Nossa Senhora da Paz), Leblon (Jardim de Alah, Antero de Quental), Gávea e Barra da Tijuca
+83|Metrô com o cartão do banco
+84|Nas catracas de todas as estações do metrô se paga encostando o cartão de crédito por aproximação ou o celular. Não precisa comprar nada antes.
+85|Ônibus, BRT e VLT: Jaé
+86|Nos ônibus municipais, no BRT e no VLT se usa o cartão ou o aplicativo Jaé, que é carregado com dinheiro. Em algumas linhas também se aceita o cartão do banco: veja o validador.
+87|Trens e barcas
+88|Os trens (SuperVia) e as barcas para Niterói e Paquetá também aceitam cartão por aproximação em muitos acessos.
+89|O mais cômodo
+90|Para circular à noite ou em áreas sem metrô, a maioria dos visitantes usa aplicativos como Uber ou 99: são baratos e mais seguros do que caminhar.
+91|18 de novembro de 2026, com Riotur, MetrôRio e Mobi-Rio. Se algo não coincidir, valem os avisos do transporte.
+92|Três linhas: a 1 vai do Centro a Ipanema passando por Flamengo, Botafogo e Copacabana; a 4 segue até o Leblon e a Barra; a 2 vai para a zona norte e o Maracanã.
+93|Funciona de manhã cedo até a meia-noite de segunda a sábado; aos domingos e feriados abre mais tarde e fecha mais cedo.
+94|Seguro e com ar-condicionado
+95|É o transporte mais seguro e confortável da cidade. No horário de pico há vagões só para mulheres.
+96|Ônibus, BRT e VLT
+97|Vão a todo lugar, mas podem ser confusos e lotados. Use o Google Maps ou o Moovit para saber qual pegar e mostre o destino ao motorista.
+98|BRT
+99|Ônibus articulados com faixa exclusiva que ligam a Barra, a zona oeste e o aeroporto do Galeão.
+100|VLT
+101|O bonde moderno do Centro: liga a Rodoviária, a Praça Mauá e o aeroporto Santos Dumont.
+102|O bondinho de Santa Teresa
+103|O bonde amarelo histórico sobe da estação Carioca até Santa Teresa. É um passeio por si só.
+104|Galeão (GIG)
+105|O aeroporto internacional, na Ilha do Governador, a uns 40 minutos da zona sul sem trânsito.
+106|Santos Dumont (SDU)
+107|O aeroporto de voos nacionais, no Centro, junto à baía. Tem parada do VLT e metrô perto.
+108|Aplicativo ou táxi oficial
+109|Do Galeão o mais simples é pedir um carro por aplicativo (Uber ou 99) no ponto de encontro sinalizado ou pegar um táxi das cooperativas oficiais, que têm preço fixo por zona.
+110|BRT e ônibus
+111|O BRT TransCarioca liga o Galeão à Barra e à linha 2 do metrô, e há ônibus executivos para a zona sul. São mais baratos, mas mais lentos e incômodos com bagagem.
+112|Uber e 99 funcionam muito bem e mostram o preço antes de pedir. Confira se a placa coincide antes de entrar.
+113|Os táxis comuns são amarelos com faixa azul e cobram pelo taxímetro (tarifa mais alta à noite e aos domingos). Os táxis especiais têm preço fixo.
+114|Não entre em carros que oferecem corrida no aeroporto ou na rua.
+115|A pé e de bicicleta
+116|A orla
+117|Toda a orla, do Leme ao Leblon, tem ciclovia e calçadão para caminhar.
+118|Bicicletas públicas
+119|Há bicicletas de aluguel (as laranjas do Bike Itaú) que se desbloqueiam pelo aplicativo.
+120|Atenção às distâncias
+121|A cidade é comprida: entre o Centro e Ipanema convém ir de metrô.
+122|Polícia Militar (emergências)
+123|Ambulância (SAMU)
+124|Bombeiros e resgate no mar
+125|DEAT: delegacia de atendimento ao turista, no Leblon
+126|BPTUR: polícia das áreas turísticas, em Copacabana
+127|Violência contra a mulher
+128|Prefeitura do Rio (informações da cidade)
+129|O mais comum: roubo de celular
+130|O problema mais frequente é o roubo de celular na rua, na praia e na calçada: muitas vezes de bicicleta ou com um puxão.
+131|Não ande com o celular na mão nem o deixe sobre a mesa nas varandas. Para olhar o mapa, entre numa loja.
+132|Na praia leve só o necessário: uma cópia do documento, pouco dinheiro e nada de valor na areia.
+133|Use um só cartão e, se puder, um de débito com pouco saldo.
+134|O Centro e a Lapa à noite e aos domingos, quando ficam vazios.
+135|Santa Teresa à noite: circule de carro ou aplicativo.
+136|As favelas só com visita guiada organizada e com guia local.
+137|As trilhas do Corcovado e dos morros: melhor com guia e em grupo.
+138|As praias à noite e o calçadão do lado do mar depois de escurecer.
+139|Clonagem de cartão: não perca o cartão de vista e confira o valor na maquininha antes de pagar.
+140|Na praia, alguém oferece algo "de presente" e depois cobra caro: pergunte sempre o preço antes.
+141|Táxis piratas no aeroporto: use o aplicativo ou a cooperativa oficial.
+142|Nas boates, não deixe o copo sem vigiar.
+143|No mar
+144|Há correntes fortes: entre no mar onde houver salva-vidas e respeite as bandeiras vermelhas.
+145|O sol é muito forte: protetor solar, chapéu e muita água.
+146|Se for roubado, não reaja. Depois faça o boletim de ocorrência na DEAT (delegacia do turista, no Leblon) ou on-line no site da Polícia Civil.
+147|Contrate um seguro-viagem: o atendimento médico particular é bom, mas caro.
+148|Real (BRL).
+149|Cartões e Pix
+150|Paga-se com cartão quase em todo lugar, também por aproximação. Os brasileiros usam muito o Pix; alguns lugares pequenos só aceitam Pix ou dinheiro.
+151|Use os caixas dentro de bancos ou shoppings, de dia. Se o caixa oferecer cobrar na sua moeda, escolha reais.
+152|Em restaurantes e bares se soma 10% de serviço à conta: é opcional, mas quase sempre se paga.
+153|Na praia
+154|Os vendedores e as cadeiras da praia costumam cobrar em dinheiro ou Pix.
+155|Horários do Rio
+156|Almoça-se entre 12h e 15h e janta-se a partir das 20h. Os botecos funcionam o dia todo.
+157|As lojas de rua abrem em horário comercial; os shoppings, todos os dias até a noite.
+158|Cristo e Pão de Açúcar
+159|Lotam: compre o ingresso com horário no site oficial e veja a previsão, porque com nuvens não se vê nada.
+160|Verão (dez–mar)
+161|Calor forte e úmido, chuvas à tarde, praias lotadas, Réveillon e Carnaval.
+162|Outono (abr–jun)
+163|A melhor época: menos calor e menos gente.
+164|Inverno (jul–set)
+165|Ameno, entre 18 e 26 °C, dias secos e claros: ideal para o Cristo e as trilhas.
+166|Primavera (out–nov)
+167|Calor subindo, algumas chuvas e a cidade se preparando para o verão.
+168|127 V na maioria dos lugares (alguns 220 V). Tomadas tipo N de três pinos redondos: leve adaptador.
+169|Não beba água da torneira: compre água mineral.
+170|Fala-se português. Com espanhol devagar entendem bastante; abaixo estão as palavras mais úteis.
+171|As farmácias (drogarias) abrem até tarde. Urgências: 192.
+172|Entre conhecidos, um ou dois beijos. Os cariocas são muito calorosos e informais.
+173|Alugam-se cadeiras e guarda-sóis nas barracas, e os vendedores passam com de tudo: mate gelado, biscoito Globo, queijo coalho.
+174|Feijoada, picanha, pão de queijo, coxinha, açaí, sucos naturais, água de coco, caipirinha e chope bem gelado.
+175|Fora do Rio
+176|Passaporte do Rio
+177|Marque os lugares que você conhece e ganhe selos: praias, mirantes, botecos, samba, explorador de bairros…
+178|Madrugada no Rio
+179|🎶 Samba e noite
+180|Sem estação de metrô perto: melhor de aplicativo, ônibus ou a pé
+181|O que você procura? Cristo, praias, samba, feijoada, Lapa…
+182|Ex.: Cristo Redentor, Pão de Açúcar, Escadaria Selarón…
+183|Ex.: Copacabana, Ipanema, Centro…
+184|Ex.: LATAM, GOL, Aerolíneas Argentinas…
+185|Valor em reais
+186|Até Copacabana
+187|Do aeroporto do Galeão
+188|Do aeroporto Santos Dumont
+189|Galeão: como chegar à cidade
+190|MetrôRio: pagar com o cartão do banco
+191|Site oficial do metrô
+192|Jaé: o cartão de ônibus, BRT e VLT
+193|Site oficial do Jaé
+194|O mais simples no Galeão é pedir um carro por aplicativo (Uber ou 99) no ponto de encontro sinalizado, ou pegar um táxi das cooperativas oficiais dentro do aeroporto.
+195|Não aceite corridas de pessoas que oferecem carro no saguão de desembarque.
+196|O BRT e os ônibus são mais baratos, mas lentos e pouco cômodos com malas.
+197|O Santos Dumont fica no Centro: de lá até Copacabana é uma corrida curta de aplicativo, e o VLT passa na porta.
+198|Antes de sair, guarde o celular: não ande com ele na mão na rua.
+199|Vivo
+200|Claro
+201|TIM
+202|Se o seu celular aceita eSIM, você pode ativá-lo antes de viajar: é o mais cômodo.
+203|Para comprar um chip no Brasil pedem o passaporte e às vezes um CPF: nas lojas das operadoras resolvem.
+204|Muitos bares, hotéis e shoppings têm Wi-Fi grátis.
+205|Leve algum dinheiro em espécie para a praia, os quiosques e as barracas pequenas.
+206|Se o caixa ou a maquininha oferecer cobrar na sua moeda, escolha pagar em reais.
+207|Metrô com o cartão do banco, Jaé e aplicativos
+208|No metrô basta o cartão do banco por aproximação ou o celular: encoste na catraca.
+209|Para ônibus, BRT e VLT, baixe o Jaé ou compre o cartão. À noite e para áreas sem metrô, melhor de aplicativo.
+210|Metrô, ônibus, VLT e aplicativos
+211|Para circular pelo Rio não precisa: o trânsito é pesado, estacionar é difícil e na cidade tudo se resolve com metrô e aplicativos. Serve para sair, por exemplo para Petrópolis, Búzios ou a Costa Verde.
+212|Localiza
+213|Movida
+214|Unidas
+215|Com carteira de um país do Mercosul basta para dirigir como turista; senão, leve também a Permissão Internacional para Dirigir.
+216|Há pedágios nas estradas: muitos carros alugados têm o pagamento automático incluído, pergunte ao retirá-lo.
+217|Não deixe nada à vista dentro do carro e estacione em lugares com manobrista ou em estacionamentos.
+218|Use o Waze ou o Google Maps, mas evite atalhos que levam por ruas desconhecidas à noite.
+219|O aplicativo oficial do metrô: trajetos, avisos do serviço e recargas.
+220|O cartão digital para pagar ônibus, BRT e VLT.
+221|O outro aplicativo de carro com motorista muito usado no Brasil, com táxis também.
+222|Trajetos de ônibus e metrô, com horários ao vivo.
+223|O aplicativo de comida a domicílio mais usado do Brasil.
+224|Comida, supermercado e farmácia a domicílio.
+225|No Brasil se usa para tudo: reservas, consultas e até para fazer pedidos.
+226|MetrôRio: o serviço hoje
+227|Avisos de atrasos e mudanças nas linhas do metrô.
+228|Greves, interdições e manifestações nas notícias do dia.
+229|⭐ Destaques da semana. A agenda completa da cidade está na Riotur: confira na página antes de ir.
+230|Riotur: o que fazer no Rio (agenda oficial)
+231|O Rio tem dois aeroportos: o Galeão (GIG), o internacional, na Ilha do Governador, e o Santos Dumont (SDU), de voos nacionais, em pleno Centro. Confira bem na sua passagem de qual sai o seu voo.
+232|Bom dia (à tarde, "Boa tarde"; à noite, "Boa noite")
+233|Obrigado ("obrigado" se você é homem, "obrigada" se é mulher)
+234|Para perguntar se aceitam cartão
+235|Para pedir um chope
+236|💳 Como pagar o metrô com o cartão do banco
+237|📱 Como cuidar do celular na rua e na praia
+238|🌊 Como entrar no mar com segurança
+239|Consulados
+240|Aeroportos e terminais
+241|Informação turística · Ipanema
+242|Posto de informação turística em Ipanema: mapas, dicas e ajuda em vários idiomas.
+243|Centro de Visitantes do Parque Nacional da Tijuca
+244|Informações sobre as trilhas, as cachoeiras e os mirantes da floresta da Tijuca.
+245|DEAT · Delegacia de Atendimento ao Turista
+246|A delegacia especial para turistas: atendem em vários idiomas e fazem o boletim se você for roubado. Telefone +55 21 2332-2893.
+247|BPTUR · Batalhão de Polícia em Áreas Turísticas
+248|A polícia que patrulha as áreas turísticas. Telefone +55 21 2332-7949.
+249|12ª Delegacia · Copacabana
+250|Delegacia da Polícia Civil de Copacabana.
+251|13ª Delegacia · Ipanema
+252|Delegacia da Polícia Civil para Ipanema e o final de Copacabana.
+253|14ª Delegacia · Leblon
+254|Delegacia da Polícia Civil do Leblon, ao lado da DEAT.
+255|10ª Delegacia · Botafogo
+256|Delegacia da Polícia Civil de Botafogo.
+257|Hospital Municipal Souza Aguiar
+258|Hospital público com emergência 24 horas, o maior do Centro.
+259|Hospital Municipal Miguel Couto
+260|Hospital público com emergência 24 horas, perto do Leblon e da Gávea.
+261|Hospital Copa D'Or
+262|Hospital particular com pronto-socorro 24 horas em Copacabana. Acione o seguro-viagem antes de ser atendido.
+263|Hospital São Lucas
+264|Hospital particular com pronto-socorro em Copacabana.
+265|Hospital Samaritano
+266|Hospital particular com pronto-socorro em Botafogo.
+267|Passaportes, trâmites e ajuda se roubarem seus documentos. Telefone +55 21 3850-8150. Endereço da lista oficial da Riotur.
+268|Telefone +55 21 2551-1796. Endereço da lista oficial da Riotur.
+269|No mesmo prédio do consulado argentino. Endereço da lista oficial da Riotur.
+270|Endereço da lista oficial da Riotur.
+271|Na Torre do Rio Sul. Endereço da lista oficial da Riotur.
+272|México · Consulado-Geral
+273|Telefone +55 21 2553-2294. Endereço da lista oficial da Riotur.
+274|Telefone +55 21 2551-4496. Endereço da lista oficial da Riotur.
+275|No mesmo prédio do consulado do México. Endereço da lista oficial da Riotur.
+276|Atendimento a cidadãos com agendamento. Endereço do site oficial da embaixada.
+277|Aeroporto Internacional do Galeão (GIG)
+278|O aeroporto internacional, a uns 40 minutos da zona sul sem trânsito.
+279|Aeroporto Santos Dumont (SDU)
+280|Voos nacionais. Tem parada do VLT na porta.
+281|Rodoviária Novo Rio
+282|O terminal de ônibus de longa distância. Chegue e saia de aplicativo ou táxi.
+283|Central do Brasil
+284|Estação dos trens metropolitanos (SuperVia) e do metrô.
+285|Estação das Barcas da Praça XV
+286|Daqui saem as barcas para Niterói e a ilha de Paquetá.
+287|As farmácias abertas, no mapa. Muitas abrem 24 horas.
+288|Boletim on-line
+289|Delegacia Online: a Polícia Civil permite registrar pela internet alguns roubos e perdas.
+290|Riotur
+291|Informação turística oficial da cidade.
+292|Encontre consulados no mapa.
+293|Quiosque de praia
+294|De praia em praia
+295|3 praias
+296|O Rio do alto
+297|3 mirantes
+298|Boteco carioca
+299|2 botecos
+300|Boteco
+301|No ritmo do samba
+302|2 lugares com samba
+303|Uma joia escondida
+304|Carioca honorário
+305|Passaporte ou documento válido (o do Mercosul basta), e uma cópia no celular
+306|Adaptador de tomada tipo N, o de três pinos redondos
+307|Comprar on-line os ingressos com horário do Cristo e do Pão de Açúcar
+308|Protetor solar, chapéu e chinelos
+309|Sair do aeroporto de aplicativo ou táxi oficial
+310|Baixar o Jaé para ônibus, BRT e VLT
+311|Não andar com o celular na mão
+312|Clássicos do Rio
+313|Natureza na cidade
+314|Botecos
+315|Cozinha brasileira
+316|Churrascarias
+317|Churrascaria
+318|Samba e música
+319|Carnaval o ano todo
+320|Centro, Lapa e Santa Teresa
+321|Pão de Açúcar, Botafogo e Copacabana
+322|Cristo, Lagoa, Ipanema e Leblon
+323|Centro, Lapa e Pão de Açúcar
+324|Cristo, Lagoa e Ipanema
+325|20 de janeiro
+326|Dia de São Sebastião
+327|O padroeiro da cidade: feriado municipal com missas e procissões.
+328|Carnaval
+329|Os desfiles das escolas de samba no Sambódromo e centenas de blocos de rua por toda a cidade. É preciso reservar com muita antecedência.
+330|Festas juninas
+331|Festas de interior com comidas de milho, quentão, forró e quadrilha, em escolas, igrejas e na Feira de São Cristóvão.
+332|Maratona do Rio
+333|Percorre a orla até o Aterro do Flamengo; nesse domingo há interdições no trânsito.
+334|Setembro, alguns anos
+335|Rock in Rio
+336|O grande festival de música na Cidade do Rock, na Barra.
+337|Festival do Rio
+338|O festival internacional de cinema, com sessões em toda a cidade.
+339|Natal na Lagoa
+340|Luzes de Natal na lagoa e nos bairros da zona sul.
+341|Réveillon em Copacabana
+342|Milhões de pessoas vestidas de branco recebem o ano na praia, com shows e fogos sobre o mar.
+343|Palavras em português que você vai ver
+344|Entrada · Saída
+345|Entrada e saída: no metrô, nos shoppings e nas lojas.
+346|Aberto · Fechado
+347|Rua · Avenida · Praça
+348|Rua, avenida e praça: você vai vê-las em todos os endereços.
+349|Posto
+350|Os postos de salva-vidas numerados da praia: "no Posto 9" serve para marcar encontro.
+351|Feira
+352|Feira ou mercado.
+353|Farmácia · Drogaria
+354|Greve
+355|Chopp
+356|Cerveja de barril, bem gelada: a bebida do boteco.
+357|Ambulância: 192. Os hospitais públicos atendem urgências de graça, mas costumam estar lotados; com seguro, vá a um particular.
+358|Há muitas, várias abertas 24 horas, e vendem remédios simples sem receita.
+359|Não beba água da torneira: compre água engarrafada.
+360|No verão há dengue: use repelente, principalmente ao entardecer.
+361|Muito recomendável: sem cobertura, o atendimento particular sai caro.
+362|Feira de artesanato, arte e comida baiana na Praça General Osório
+363|Roda de samba ao ar livre, em volta da pedra
+364|A estátua do Cristo no alto do Corcovado, com a vista mais famosa da cidade: praias, a lagoa, o Pão de Açúcar e a baía.
+365|Compre o ingresso oficial com horário e suba no trem do Corcovado ou nas vans das Paineiras. Vá cedo: depois do meio-dia costuma nublar.
+366|Dois bondinhos sobem ao Morro da Urca e ao Pão de Açúcar, com vista para Copacabana, o Cristo e a baía de Guanabara.
+367|Suba uma hora antes do pôr do sol e fique até as luzes acenderem.
+368|A escadaria coberta de azulejos do mundo todo que o artista chileno Jorge Selarón decorou durante 20 anos.
+369|Vá de manhã, com menos gente. Não vá à noite.
+370|O antigo aqueduto branco do século XVIII, hoje ponte do bondinho de Santa Teresa e centro da noite da Lapa.
+371|De dia para a foto; à noite, a região se enche de festa.
+372|O teatro de 1909 inspirado na Ópera de Paris, com escadarias de mármore e um salão dourado.
+373|Há visitas guiadas durante o dia e espetáculos de ópera e balé.
+374|O estádio de duas finais de Copa do Mundo, templo do futebol brasileiro, com visitas aos vestiários e ao campo.
+375|Ver um jogo é outra experiência: compre no site oficial do clube.
+376|Uma catedral em forma de cone dos anos 70, com vitrais gigantes coloridos do chão ao teto.
+377|A luz dos vitrais é mais bonita no meio da manhã.
+378|O museu de ciência e futuro de Calatrava, numa estrutura branca que avança sobre a baía.
+379|Às terças costuma haver entrada gratuita: veja o site.
+380|Museu de arte brasileira em dois prédios unidos por uma cobertura ondulada, com terraço com vista para o porto.
+381|Combine com o Museu do Amanhã, ao lado.
+382|A grande coleção de pintura brasileira dos séculos XIX e XX num palácio da Cinelândia.
+383|Fica em frente ao Theatro Municipal.
+384|A história do Brasil num antigo forte e arsenal junto à baía, com carruagens imperiais.
+385|É grande: calcule umas duas horas.
+386|O Museu de Arte Moderna, um prédio de concreto icônico dentro do Aterro do Flamengo, com jardins de Burle Marx.
+387|Os jardins podem ser visitados de graça.
+388|O Palácio do Catete, antiga sede do governo, com um parque arborizado muito bonito.
+389|O parque é gratuito e tranquilo.
+390|Uma casa modernista na mata com mostras de fotografia e um café muito agradável.
+391|Ideal para uma tarde tranquila.
+392|A casa de um colecionador em Santa Teresa com arte moderna e uma vista linda do Centro.
+393|Ao lado fica o Parque das Ruínas.
+394|O maior museu de arte popular do Brasil, com milhares de figuras de barro e madeira.
+395|Fica longe: combine com a Prainha.
+396|Um mosteiro beneditino com uma igreja barroca toda coberta de ouro.
+397|Aos domingos de manhã há missa com canto gregoriano.
+398|Uma grande igreja do século XVIII com cúpula de mármore e pinturas no teto.
+399|Combine com o Centro Cultural Banco do Brasil, em frente.
+400|Uma igrejinha barroca branca no alto de um morrinho, com azulejos portugueses.
+401|Sobe-se por uma escada ou um elevador inclinado.
+402|Um dos conventos mais antigos do Rio, com a igreja da Ordem Terceira de São Francisco, toda dourada.
+403|A entrada fica junto à estação Carioca do metrô.
+404|Uma biblioteca neogótica com estantes de madeira até o teto, uma das mais bonitas do mundo.
+405|Entre em silêncio: continua sendo uma biblioteca.
+406|A casa dos reis portugueses e imperadores, hoje centro cultural junto à Praça XV.
+407|Tem mostras gratuitas e um café.
+408|Um castelinho verde sobre a baía onde aconteceu o último baile do Império.
+409|A visita é feita com a Marinha, com saída do Espaço Cultural da Marinha.
+410|O forte na ponta de Copacabana, com canhões, um museu militar e uma confeitaria com vista para o mar.
+411|Tomar café da manhã diante do mar na Confeitaria Colombo do forte é um clássico.
+412|Um prédio monumental com cúpula, com exposições de primeiro nível, cinema e teatro.
+413|Veja a programação: muitas mostras são gratuitas.
+414|A praia mais famosa do mundo, com o calçadão de ondas de Burle Marx, quiosques e futebol na areia.
+415|Leve só o necessário para a areia e entre no mar onde houver salva-vidas.
+416|A praia da canção, dividida em "postos", com o Morro Dois Irmãos ao fundo.
+417|Cada posto tem seu estilo: o 9 é o mais jovem e o 10 o mais familiar.
+418|A pedra entre Copacabana e Ipanema onde as pessoas aplaudem o pôr do sol.
+419|Chegue antes do pôr do sol para conseguir lugar na pedra.
+420|A continuação de Ipanema, mais tranquila, com o Baixo Bebê para as famílias.
+421|Ideal com crianças.
+422|Uma prainha de areia avermelhada ao pé do Pão de Açúcar, com água calma.
+423|Ao lado começa a Pista Cláudio Coutinho, uma trilha fácil.
+424|Uma praia selvagem entre morros verdes, preferida dos surfistas.
+425|Fica longe e não tem transporte direto: vá de carro ou aplicativo.
+426|Um jardim de 1808 com a aleia de palmeiras-imperiais, orquidário e macacos nas árvores.
+427|Vá cedo para ver mais animais.
+428|Uma mansão com piscina interna ao pé do Corcovado, cercada de mata. Daqui sai uma trilha para o Cristo.
+429|O café da mansão é um clássico para o café da manhã.
+430|A lagoa cercada de morros, com sete quilômetros de ciclovia, quiosques e pedalinhos.
+431|Ao entardecer, com o Cristo iluminado, é lindíssima.
+432|Uma das maiores florestas urbanas do mundo, com cachoeiras, trilhas e mirantes.
+433|Vá de carro ou aplicativo, e para as trilhas longas, com guia.
+434|O grande parque à beira-mar de Burle Marx, com quadras, ciclovia e vista para o Pão de Açúcar.
+435|Ideal para correr ou pedalar de manhã.
+436|As ruínas de um casarão transformadas em centro cultural com mirante sobre o Centro e a baía.
+437|Ao lado do Museu Chácara do Céu.
+438|Um mirante a meia altura do Corcovado com vista para o Pão de Açúcar e a enseada de Botafogo.
+439|Vá de aplicativo e de dia; não suba a pé pelas trilhas.
+440|Um pavilhão em estilo chinês na Floresta da Tijuca com uma vista ampla da zona sul.
+441|Chega-se de carro ou num passeio.
+442|Um mirante no final do Leblon com vista para toda a praia até o Arpoador.
+443|Lindo ao pôr do sol, com um quiosque para tomar algo.
+444|A primeira parada do bondinho do Pão de Açúcar, com terraços, bares e vista para a baía.
+445|Dá para subir a pé por uma trilha desde a Praia Vermelha.
+446|O bairro boêmio no morro: casarões, ateliês, bares e o bondinho amarelo.
+447|Suba de bondinho desde o Centro e percorra de dia.
+448|O coração da Pequena África, onde nasceu o samba: algumas noites há roda de samba na rua.
+449|Veja em que dias tem samba e vá em grupo.
+450|Um bairro tranquilo de casas baixas ao pé do Pão de Açúcar, com a mureta para ver o pôr do sol sobre a baía.
+451|Tome algo sentado na mureta, como os cariocas.
+452|O passeio do porto renovado, com o mural gigante "Etnias" de Kobra e armazéns reciclados.
+453|Percorra a pé entre a Praça Mauá e o AquaRio.
+454|O boteco mais famoso da Urca: empadinhas e chope tomados na mureta de frente para a baía.
+455|Ao pôr do sol lota: peça no balcão e sente-se na mureta.
+456|Um boteco clássico do Leblon famoso pelos bolinhos de bacalhau e o chope.
+457|Toma-se em pé na calçada, como todo mundo.
+458|Um boteco de 1956 aberto até tarde, com mesas na calçada e comida caseira.
+459|Ideal para comer algo tarde.
+460|O bar mais antigo do Rio (1887), com chope, salsichas e comida alemã.
+461|Ideal para almoçar passeando pelo Centro.
+462|Um bar português com uma vitrine de dezenas de petiscos frios e quentes.
+463|Escolha apontando na vitrine.
+464|Um bar de Santa Teresa famoso pela feijoada e pelos pastéis de carne.
+465|comida brasileira
+466|O restaurante dedicado à feijoada, o prato nacional, servida todos os dias.
+467|É farto: divida.
+468|Cozinha brasileira numa casa entre árvores com vista para a baía, no alto de Santa Teresa.
+469|Reserve mesa no terraço ao pôr do sol.
+470|Galeto na brasa, farofa e chope num lugar pequeno de Copacabana aberto até muito tarde.
+471|Clássico depois da balada.
+472|Moqueca, cozinha nordestina e dezenas de cachaças na rua dos antiquários.
+473|Peça que recomendem uma cachaça artesanal.
+474|cachaça
+475|Uma churrascaria tradicional de rodízio: os garçons passam com espetos de carne até você dizer chega.
+476|Use o cartãozinho verde e vermelho para pedir mais ou parar.
+477|Rodízio de carnes de frente para a enseada de Botafogo, com vista para o Pão de Açúcar.
+478|Churrascaria no Aterro do Flamengo com janelões sobre a baía.
+479|Uma churrascaria clássica do Flamengo, à la carte, famosa pela picanha.
+480|Mais tranquila que um rodízio.
+481|A cozinha autoral de Felipe Bronze, com estrelas Michelin, sobre ingredientes brasileiros e o fogo.
+482|Menu degustação com produtos da própria horta, num casarão de Botafogo.
+483|Alta gastronomia contemporânea num espaço minimalista, uma das mesas mais premiadas do Brasil.
+484|O restaurante italiano do Copacabana Palace, junto à piscina do hotel.
+485|Vista-se um pouco mais formal.
+486|Uma confeitaria de 1894 com espelhos belgas e vitrais: o lugar mais elegante para um café no Centro.
+487|De manhã a fila é menor.
+488|A confeitaria mais antiga do Rio, de 1860, famosa pelos doces portugueses.
+489|Prove o pastel de nata.
+490|Uma padaria e empório gourmet com sanduíches e cafés da manhã na calçada.
+491|Bom lugar para o café da manhã.
+492|Um café de bairro com cafés da manhã, bolos e bom café, a uma quadra da praia.
+493|Ideal antes da praia.
+494|Sanduíches de filé com abacaxi na chapa, aberto até a madrugada desde 1955.
+495|Peça o clássico de filé com abacaxi.
+496|Um bar de sucos naturais com dezenas de frutas tropicais e sanduíches.
+497|Prove o de açaí ou o de maracujá.
+498|O bar de sucos e sanduíches de sempre do Leblon.
+499|Ideal depois da praia.
+500|Um grande pavilhão da cultura nordestina: comida típica, forró ao vivo e barracas.
+501|Vá no fim de semana à noite.
+502|forró
+503|Cozinha vegetal criativa e coquetéis em Ipanema.
+504|Comida vegana caseira em Botafogo: hambúrgueres, pratos do dia e bolos.
+505|Bufê vegano e orgânico a quilo em Botafogo.
+506|Comida vegana caseira em pleno Centro, ideal para o almoço.
+507|Um casarão de três andares cheio de antiguidades com samba, choro e forró ao vivo.
+508|Chegue cedo nos fins de semana.
+509|Um bar de samba de raiz na Lapa, com músicos ao vivo todas as noites.
+510|Ideal para ouvir samba de verdade.
+511|Um barzinho minúsculo onde os músicos se reúnem para tocar samba e choro na calçada.
+512|Você mesmo pega a cerveja na geladeira e anota.
+513|O beco onde nasceu a bossa nova, com shows no pequeno Little Club.
+514|Veja a agenda de shows.
+515|bossa nova
+516|Uma lona mítica sob os Arcos da Lapa com shows de rock, samba e música brasileira.
+517|Veja a agenda: há shows quase todo fim de semana.
+518|O bar do Copacabana Palace, para um coquetel clássico no hotel mais famoso da cidade.
+519|Vista-se um pouco mais elegante.
+520|Um bar de frente para a praia de Ipanema, com caipirinhas e vista para o Arpoador.
+521|Ideal ao pôr do sol.
+522|Um bar com estética de palafita sobre a lagoa, com caipirinhas de frutas tropicais.
+523|As noites com o Cristo iluminado são as melhores.
+524|Um bar com centenas de cachaças e caipirinha bem-feita, além de comida mineira.
+525|Peça que recomendem uma cachaça.
+526|Um casarão com pista de samba, gafieira e sinuca no coração da Lapa.
+527|Vai muita gente local.
+528|Um clube subterrâneo de música eletrônica e indie em Copacabana.
+529|Abre tarde e lota depois da meia-noite.
+530|Um salão de baile de 1867 na Lapa, com samba, forró e gafieira ao vivo.
+531|Veja a agenda: cada noite tem um ritmo diferente.
+532|Um salão de baile de 1930 onde se dança samba de gafieira, o samba a dois.
+533|Há aulas antes do baile.
+534|Visitas com guias que moram na comunidade, para conhecer a vida de uma favela com respeito.
+535|Só com empresas que trabalham com a comunidade. Nunca vá por conta própria.
+536|Passeios a pé pelo Centro com guia, no esquema de gorjeta.
+537|No final se deixa a gorjeta que achar justa.
+538|Roteiro pela história afro-brasileira da região portuária: Cais do Valongo, Pedra do Sal e Instituto Pretos Novos.
+539|O Cais do Valongo é Patrimônio da Humanidade.
+540|Passeios de barco pela baía de Guanabara com vista para o Pão de Açúcar, Niterói e as praias.
+541|Ao pôr do sol é o melhor.
+542|Uma trilha curta do alto do Vidigal com uma das melhores vistas de Ipanema e Leblon.
+543|Suba com guia local desde a entrada do Vidigal.
+544|Uma das caminhadas mais bonitas do Rio, com um trecho de escalada fácil e vista para o mar.
+545|É exigente: faça só com guia.
+546|Voar de asa-delta ou parapente da Pedra Bonita até a praia de São Conrado, com instrutor.
+547|Depende do vento: deixe um dia de folga.
+548|Voos curtos de helicóptero sobre o Cristo, o Pão de Açúcar e as praias.
+549|Saem do heliponto da lagoa.
+550|A cidade imperial na serra, com o Museu Imperial, a catedral e casarões, mais fresca que o Rio.
+551|A uma hora e meia de ônibus.
+552|Uma cidade colonial de ruas de pedra entre a serra e o mar, com praias e ilhas.
+553|Fica longe: fique pelo menos uma noite.
+554|A cidade em frente, com o Museu de Arte Contemporânea de Niemeyer e a melhor vista do Rio.
+555|Atravesse de barca desde a Praça XV.
+556|Uma ilha sem carros na baía, com ruas de terra, casarões e bicicletas.
+557|Chega-se de barca desde a Praça XV.
+558|Praias e ilhas
+559|Uma ilha sem carros com mata e praias paradisíacas como Lopes Mendes.
+560|Fique pelo menos duas noites.
+561|Uma península com mais de vinte praias, a Rua das Pedras e vida noturna.
+562|A umas três horas de ônibus.
+563|Praias de água turquesa e passeios de barco à Praia do Farol.
+564|A água é mais fria que no Rio.
+565|Uma baía com centenas de ilhas para percorrer de barco.
+566|Combine com a Ilha Grande.
+567|O primeiro parque nacional do Brasil, com cachoeiras e montanhas.
+568|Leve agasalho: lá em cima faz frio.
+569|Uma cidade na serra junto ao parque nacional do Dedo de Deus.
+570|Ideal para trilhas.
+571|Uma praia protegida, selvagem e sem prédios, no oeste da cidade.
+572|Vá de carro ou aplicativo.
+573|A casa e o jardim do paisagista Burle Marx, Patrimônio da Humanidade.
+574|As visitas são guiadas e com reserva.
+575|O hotel mais famoso do Brasil, de 1923, de frente para a praia, com sua piscina lendária.
+576|Mesmo sem se hospedar, você pode ir ao bar ou ao restaurante.
+577|Hotel de design de frente para o Arpoador, com piscina no terraço e vista para toda a praia.
+578|O bar do terraço é exclusivo para hóspedes.
+579|Hotel boutique de luxo à beira-mar em Copacabana, com terraço e piscina.
+580|Peça quarto com vista para o mar.
+581|Um hotel de frente para a praia na ponta de Copacabana, com piscina no terraço e vista para o Forte.
+582|O bar do terraço é lindo ao pôr do sol.
+583|Uma antiga fazenda de café transformada em hotel com jardins e vista para a baía.
+584|À noite, circule de aplicativo.
+585|Um hotel muito descolado em Santa Teresa, com bar e terraço.
+586|Ideal para sair na Lapa.
+587|Um hotel simples e bem localizado a meia quadra da praia de Ipanema.
+588|Boa relação entre preço e localização.
+589|Hotel moderno de frente para a praia de Copacabana, com piscina no terraço.
+590|Peça andar alto.
+591|Um hostel a uma quadra da praia de Ipanema, com ambiente jovem.
+592|Boa opção para viajar sozinho.
+593|Um hostel muito descolado no alto da Lapa, com festas e terraço.
+594|Ideal para a noite da Lapa.
+595|Um hostel tranquilo numa casa de Ipanema, perto da praia.
+596|Bom lugar para conhecer gente.
+597|Um hostel e hotel com cowork e terraço junto à Escadaria Selarón.
+598|Peça quarto do lado do pátio.
+599|A feira de artesanato de domingo, com roupas, arte, couro e comida baiana.
+600|Só aos domingos.
+601|A feira de antiguidades e música ao vivo na Rua do Lavradio, no primeiro sábado de cada mês.
+602|Só no primeiro sábado do mês.
+603|Um labirinto de ruas com centenas de lojas baratas: tecidos, fantasias de Carnaval, brinquedos e de tudo.
+604|Leve pouco dinheiro: tem muita gente.
+605|Um mercado de frutas tropicais e verduras dos moradores da Gávea.
+606|Prove frutas que você não conhece.
+607|O shopping elegante da zona sul, com marcas brasileiras, cinema e praça de alimentação.
+608|Um shopping grande e prático em Botafogo, com lojas de todo tipo.
+609|Tem ônibus grátis desde Copacabana.
+610|A rua das marcas de moda brasileiras em Ipanema, como Osklen e Farm.
+611|Experimente chinelos nas lojas da Havaianas.
+612|O shopping de luxo da Barra.
+613|Fica longe da zona sul.
+614|Uma livraria muito bonita com café, discos e livros de arte sobre o Rio.
+615|Bom lugar para um presente.
+616|Uma loja da marca de chinelos mais famosa do Brasil, com modelos que não se veem em outros países.
+617|Há modelos para personalizar.
+618|A casa de fantasias e plumas de Carnaval mais tradicional da cidade, desde 1915.
+619|Ideal se você vem para o Carnaval.
+620|Artesanato brasileiro de todo o país, escolhido peça por peça.
+621|Lindo para presentes.
+622|O estádio do Botafogo, no bairro do Engenho de Dentro.
+623|Chega-se de trem.
+624|O estádio histórico do Vasco da Gama.
+625|Compre no site oficial do clube.
+626|A passarela do desfile das escolas de samba, que pode ser visitada fora do Carnaval.
+627|Em fevereiro há ensaios técnicos gratuitos.
+628|O museu do clube mais popular do Brasil, em sua sede da lagoa.
+629|Para fanáticos por futebol.
+630|Aulas de surfe numa das ondas mais clássicas da cidade.
+631|Há escolinhas na própria praia.
+632|Sete quilômetros de ciclovia ao redor da lagoa, com vista para o Cristo.
+633|Alugue uma bicicleta nas estações de bicicletas públicas.
+634|Um caminho plano à beira-mar ao pé do Pão de Açúcar, com macacos e vista para a baía.
+635|Ideal para correr ou caminhar de manhã.
+636|O futevôlei nasceu nas praias do Rio: há quadras e aulas na areia.
+637|Assistir também é um espetáculo.
+638|Escolas de samba
+639|Os ensaios de uma das escolas de samba mais famosas, com bateria ao vivo.
+640|A temporada de ensaios vai de agosto a fevereiro.
+641|A escola verde e rosa, uma das mais tradicionais, com ensaios abertos.
+642|Vá e volte de aplicativo.
+643|Os ensaios da escola mais campeã do Carnaval moderno.
+644|Fica longe: melhor com um passeio organizado.
+645|Os barracões onde as escolas montam seus carros alegóricos.
+646|Veja se há visitas ou shows abertos.
+647|O grande centro de música e artes cênicas da cidade, num prédio de concreto.
+648|Casa de shows no Aterro, com grandes artistas brasileiros.
+649|Uma das maiores casas de shows do Rio.
+650|Fica na Barra: volte de aplicativo.
+651|Um teatro clássico renovado da Cinelândia, com musicais e shows.
+652|O maior aquário marinho da América do Sul, com um túnel subaquático.
+653|Ideal num dia de chuva.
+654|O zoológico renovado na Quinta da Boa Vista, com recintos amplos.
+655|Calcule meio dia.
+656|O planetário com cúpulas de projeção e um museu interativo do universo.
+657|Veja os horários das sessões.
+658|Uma roda-gigante no porto com vista para a baía e a ponte para Niterói.
+659|Tudo o que você precisa para percorrer a cidade
+660|Compras e mercados
+661|Bairro residencial, com metrô e bons preços.
+662|Dia 1 · manhã
+663|Dia 1 · meio-dia
+664|Dia 1 · tarde
+665|Dia 1 · noite
+666|Dia 2 · manhã
+667|Dia 2 · meio-dia
+668|Dia 2 · tarde
+669|Dia 2 · noite
+670|Dia 3 · manhã
+671|Dia 3 · meio-dia
+672|Dia 3 · tarde
+673|Dia 3 · noite
+674|Dia de chuva
+675|O melhor sem gastar com ingressos.
+676|Um dia pensado para crianças.
+677|Metrô
+678|Áreas para ir com atenção
+679|Com estes cuidados, a grande maioria das visitas transcorre sem problemas.
+680|Se roubarem seu passaporte, depois da ocorrência vá ao seu consulado: em Info > Ajuda eles estão no mapa.
+681|Caixas eletrônicos
+682|Para ter dados, o mais simples é um eSIM ou um chip local.
+683|Praias
+684|Mirantes
+685|Site oficial do aeroporto
+686|Com cartão você paga quase tudo, também por aproximação.
+687|Linhas de metrô
+688|Hertz
+689|Carros com motorista. Você vê o preço antes de pedir.
+690|Mapas e trajetos de transporte, a pé e de bicicleta.
+691|Para comer
+692|Olá, para qualquer momento
+693|Por favor
+694|Tchau
+695|Para pedir a conta
+696|Para perguntar se podem te atender em espanhol
+697|Informação turística
+698|Argentina · Consulado-Geral
+699|Bolívia · Consulado-Geral
+700|Colômbia · Consulado-Geral
+701|Chile · Consulado-Geral
+702|Espanha · Consulado-Geral
+703|França · Consulado-Geral
+704|Itália · Consulado-Geral
+705|Paraguai · Consulado-Geral
+706|Peru · Consulado-Geral
+707|Uruguai · Consulado-Geral
+708|Estados Unidos · Consulado-Geral
+709|Praia
+710|De museu em museu
+711|Passeios de um dia
+712|Fevereiro ou março
+713|Junho e julho
+714|Junho
+715|Outubro
+716|31 de dezembro
+717|Aberto e fechado.
+718|Farmácia.
+719|Greve: se você vir isso no transporte, veja como se locomover nesse dia.
+720|O guia inclui só lugares com reputação sólida: distinções oficiais, guias reconhecidos e bom consenso em avaliações públicas.
+721|Nos fins de semana há espera.
+722|Boa opção para grupos.
+723|Reserve com muita antecedência.
+724|cozinha de autor
+725|Ideal para uma ocasião especial.
+726|Café e confeitaria
+727|Confirme no local se você tiver alguma alergia.
+728|música ao vivo
+729|Bar com terraço
+730|eletrônica
+731|a pé
+732|de barco
+733|Cidade e vilarejo
+734|Ideal para um dia de chuva.
+735|Loja tradicional
+736|Veja a agenda.
+737|Lindo ao entardecer.

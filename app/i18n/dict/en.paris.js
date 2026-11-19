@@ -172,7 +172,6 @@ Object.assign(window.I18N_FULL = window.I18N_FULL || {}, {
 "Edificios oficiales y lugares que suelen estar cerrados abren gratis al público.": "Official buildings and places that are usually closed open to the public for free.",
 "Fiesta de la Vendimia de Montmartre": "Montmartre Grape Harvest Festival",
 "Celebra la cosecha del viñedo de Montmartre con desfiles, puestos y fuegos artificiales.": "Celebrates the Montmartre vineyard harvest with parades, stalls and fireworks.",
-"Luces de Navidad": "Christmas lights",
 "Iluminación de los Campos Elíseos y de las grandes tiendas del bulevar Haussmann, con sus vidrieras animadas.": "The Champs-Élysées lights and the department stores on Boulevard Haussmann, with their animated windows.",
 "Puestos con vino caliente, comida y artesanías en varias plazas y jardines de la ciudad.": "Stalls with mulled wine, food and crafts in several squares and gardens around the city.",
 "Festejo en los Campos Elíseos, con proyecciones sobre el Arco del Triunfo. Hay mucha gente: cuidá tus cosas.": "Celebration on the Champs-Élysées, with projections on the Arc de Triomphe. Very crowded: watch your belongings.",
