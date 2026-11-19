@@ -908,7 +908,6 @@ Object.assign(window.I18N_FULL = window.I18N_FULL || {}, {
 "A una cuadra de Plaza de Mayo.": "五月広場から1ブロック。",
 "Bajá a ver las mesas aunque no juegues.": "プレーしなくても、地下のビリヤード台を見に行って。",
 "Una opción sincera en una zona cara.": "物価の高いエリアで良心的な選択肢。",
-"Reservá para la noche.": "夜は予約を。",
 "Es chico: conviene reservar.": "小さい店なので予約がおすすめ。",
 "Sentate afuera un domingo para ver bailar tango.": "日曜は外の席でタンゴのダンスを眺めて。",
 "Pedí una picada para compartir.": "盛り合わせを頼んでシェアしましょう。",

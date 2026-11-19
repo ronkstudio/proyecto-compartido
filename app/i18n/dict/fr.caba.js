@@ -908,7 +908,6 @@ Object.assign(window.I18N_FULL = window.I18N_FULL || {}, {
 "A una cuadra de Plaza de Mayo.": "À une cuadra de la Plaza de Mayo.",
 "Bajá a ver las mesas aunque no juegues.": "Descendez voir les tables même si vous ne jouez pas.",
 "Una opción sincera en una zona cara.": "Une option honnête dans un quartier cher.",
-"Reservá para la noche.": "Réservez pour le soir.",
 "Es chico: conviene reservar.": "C'est petit : mieux vaut réserver.",
 "Sentate afuera un domingo para ver bailar tango.": "Asseyez-vous dehors un dimanche pour voir danser le tango.",
 "Pedí una picada para compartir.": "Commandez une planche à partager.",

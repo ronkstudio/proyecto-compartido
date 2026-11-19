@@ -74,7 +74,6 @@ Object.assign(window.I18N_FULL = window.I18N_FULL || {}, {
 "Sol, Callao, Plaza de España, Lavapiés, Legazpi (Matadero) y Moncloa": "ソル、カジャオ、スペイン広場、ラバピエス、レガスピ（マタデロ）、モンクロア",
 "Colón, Serrano y Goya: el barrio de Salamanca": "コロン、セラーノ、ゴヤ：サラマンカ地区",
 "Callao, Ópera, La Latina, Chueca y Gran Vía": "カジャオ、オペラ、ラ・ラティーナ、チュエカ、グラン・ビア",
-"Circular": "環状線",
 "Da la vuelta al centro: Moncloa, Príncipe Pío, Legazpi, Nuevos Ministerios y Argüelles": "中心部を一周：モンクロア、プリンシペ・ピオ、レガスピ、ヌエボス・ミニステリオス、アルグエジェス",
 "Estadio Metropolitano (Atlético de Madrid), Gregorio Marañón y Alonso Cano": "エスタディオ・メトロポリターノ（アトレティコ・マドリード）、グレゴリオ・マラニョン、アロンソ・カノ",
 "El metro al aeropuerto (T1-T2-T3 y T4) y a la feria IFEMA": "空港（T1-T2-T3とT4）と見本市会場IFEMAへ行く地下鉄",

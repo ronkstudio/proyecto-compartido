@@ -74,7 +74,6 @@ Object.assign(window.I18N_FULL = window.I18N_FULL || {}, {
 "Sol, Callao, Plaza de España, Lavapiés, Legazpi (Matadero) y Moncloa": "Sol, Callao, Plaza de España, Lavapiés, Legazpi (Matadero) e Moncloa",
 "Colón, Serrano y Goya: el barrio de Salamanca": "Colón, Serrano e Goya: o bairro de Salamanca",
 "Callao, Ópera, La Latina, Chueca y Gran Vía": "Callao, Ópera, La Latina, Chueca e Gran Vía",
-"Circular": "Circular",
 "Da la vuelta al centro: Moncloa, Príncipe Pío, Legazpi, Nuevos Ministerios y Argüelles": "Dá a volta no centro: Moncloa, Príncipe Pío, Legazpi, Nuevos Ministerios e Argüelles",
 "Estadio Metropolitano (Atlético de Madrid), Gregorio Marañón y Alonso Cano": "Estadio Metropolitano (Atlético de Madrid), Gregorio Marañón e Alonso Cano",
 "El metro al aeropuerto (T1-T2-T3 y T4) y a la feria IFEMA": "O metrô para o aeroporto (T1-T2-T3 e T4) e para a feira IFEMA",
