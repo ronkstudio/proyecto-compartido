@@ -668,9 +668,13 @@
         C.guardar(d.id);
         if (location.hash && location.hash !== "#/" && modo === "primera") location.hash = "#/";
         cerrar(true);
+        /* Intro animada de la ciudad (js/intro.js, tarjeta #212), mientras el globo se abre. */
+        if (window.GUIA_INTRO) setTimeout(() => window.GUIA_INTRO.play(d.id), reduced ? 0 : 120);
       } else {
         try { sessionStorage.setItem(LLEGA, d.id); } catch (e) { /* sin fundido */ }
         root.classList.add("sale");
+        /* Al recargar, en vez del fundido se ve la intro animada de la ciudad (js/intro.js, tarjeta #212). */
+        if (window.GUIA_INTRO) window.GUIA_INTRO.pedir(d.id);
         setTimeout(() => C.elegir(d.id), reduced ? 0 : 260);
       }
     }
