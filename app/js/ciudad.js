@@ -25,6 +25,15 @@
   const id = delEnlace || (existe(guardada()) ? guardada() : (LISTA[0] || {}).id);
   const actual = LISTA.find(c => c.id === id) || { id: id, files: [] };
 
+  /* Identidad visual (tarjeta #207): los colores salen de css/temas.css según data-ciudad (index.html ya lo marcó antes de dibujar).
+     La barra del celular toma el color de la barra de arriba de la ciudad. */
+  document.documentElement.setAttribute("data-ciudad", id);
+  try {
+    const barra = getComputedStyle(document.documentElement).getPropertyValue("--brand").trim();
+    const meta = document.querySelector('meta[name="theme-color"]');
+    if (barra && meta) meta.setAttribute("content", barra);
+  } catch (e) { /* navegador viejo: queda el color de siempre */ }
+
   /* Trae los datos de la ciudad elegida antes de que arranque la app. */
   document.write(actual.files.map(f => '<script src="data/' + f + '.js"><\/script>').join(""));
 
