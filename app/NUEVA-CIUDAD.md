@@ -53,6 +53,7 @@ Cada ciudad tiene sus propios colores, letra de títulos y dibujo de portada (ta
 - **Contraste:** el texto común tiene que llegar a 4.5 sobre el fondo, y lo mismo el texto blanco sobre la barra y sobre cada color del degradé de la portada, y `--accent-ink` sobre `--accent`. Probalo en claro y en oscuro.
 - No cambies los colores de aviso (ok, cuidado, cerrado) ni el rojo de SOS: son iguales en todas las ciudades.
 - Si una ciudad no tiene bloque en `temas.css`, se ve con el estilo de siempre.
+- **Intro animada y portada que se toca** (tarjeta #212): en `js/intro.js`, sumá la ciudad en `ARTE` (el dibujo de la intro, con las clases de animación de `css/intro.css`), en `FIG` (la figura que sale al tocar la portada) y en `MOV` (cómo se mueve: "cae", "sube" o "explota"). Si cambia la forma de salir o de mostrar el nombre, va en `css/intro.css`. Sin esto, la ciudad usa la intro de Buenos Aires.
 
 ## Antes de publicar
 

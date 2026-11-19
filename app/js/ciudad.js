@@ -40,6 +40,8 @@
   const elegir = nueva => {
     if (!existe(nueva) || nueva === id) return;
     guardar(nueva);
+    /* Al llegar se muestra la intro animada de la ciudad (js/intro.js, tarjeta #212). */
+    if (window.GUIA_INTRO) window.GUIA_INTRO.pedir(nueva);
     /* Se vuelve al inicio, sin el "?ciudad=" del enlace, para que no pise lo elegido. */
     if (location.search) { location.href = location.pathname + "#/"; return; }
     location.hash = "#/";
