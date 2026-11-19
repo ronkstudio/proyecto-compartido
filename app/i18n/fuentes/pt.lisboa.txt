@@ -1,0 +1,747 @@
+1|Belém, o castelo, miradouros, museus e azulejos
+2|Pastéis de nata, tascas, marisco e mercados
+3|Fado, esplanadas, ginjinha e discotecas
+4|Caminhadas, tuk-tuk, barcos e comida
+5|Sintra, Cascais, praias e vilas
+6|Conservas, azulejos, livros e feiras
+7|Futebol, surf e a beira-rio de bicicleta
+8|Oceanário, teatro, concertos e programas com crianças
+9|Baixa e Chiado
+10|O centro elegante
+11|A Baixa, reconstruída em quadrícula depois do terramoto de 1755, com a Praça do Comércio, a Rua Augusta e o Rossio; acima, o Chiado com os seus cafés históricos, livrarias e teatros.
+12|Central e bem ligado; muito movimento de turistas.
+13|Alfama e Mouraria
+14|A Lisboa mais antiga
+15|Ruelas a subir, roupa estendida, casas de fado, a Sé, o castelo lá em cima e o elétrico 28 a passar por ruas estreitas. A Mouraria, ao lado, é o bairro dos imigrantes e o berço do fado.
+16|Com muito encanto; há que subir e descer escadas.
+17|Graça
+18|Miradouros e vida de bairro
+19|Um dos bairros mais altos, com dois dos melhores miradouros da cidade e o Mosteiro de São Vicente de Fora.
+20|Tranquilo e com vista; longe do metro.
+21|Bairro Alto e Príncipe Real
+22|Noite e design
+23|O Bairro Alto é de dia um bairro tranquilo e de noite a grande festa na rua. O Príncipe Real, ao lado, tem jardins, lojas de design e restaurantes.
+24|Ideal para sair; no Bairro Alto há barulho até tarde.
+25|Cais do Sodré e Santos
+26|A beira-rio que não dorme
+27|A antiga zona do porto, com o Time Out Market, a Rua Cor-de-Rosa cheia de bares, e Santos e a Lapa com o Museu de Arte Antiga.
+28|Muito bem ligado com comboios e barcos; barulhento à noite.
+29|Os Descobrimentos
+30|Junto ao rio, o Mosteiro dos Jerónimos, a Torre de Belém, o Padrão dos Descobrimentos, o MAAT e os pastéis de Belém.
+31|Para visitar; fica a poucos minutos do centro de elétrico ou comboio.
+32|Alcântara
+33|Fábricas reconvertidas
+34|A LX Factory, a ponte 25 de Abril e a beira-rio com bares e restaurantes em antigos armazéns.
+35|Mais para sair e comer do que para dormir.
+36|Estrela e Campo de Ourique
+37|Vida de bairro
+38|A Basílica da Estrela, o seu jardim, o Mercado de Campo de Ourique e o aqueduto perto.
+39|Residencial e tranquilo, com o elétrico 28.
+40|Avenidas Novas
+41|Avenidas e jardins
+42|A Avenida da Liberdade com as suas lojas, o Parque Eduardo VII, a Fundação Gulbenkian, o Saldanha e o jardim zoológico.
+43|Hotéis grandes e boa ligação de metro.
+44|Oriente e Marvila
+45|A Lisboa moderna
+46|O Parque das Nações, construído para a Expo 98, com o Oceanário e a zona ribeirinha; e Marvila, com cervejarias artesanais e o Museu do Azulejo perto.
+47|Moderno e prático para o aeroporto.
+48|Benfica e Alvalade
+49|Futebol e centros comerciais
+50|Os estádios do Benfica e do Sporting e o Centro Colombo, um dos maiores centros comerciais da península.
+51|Longe do turístico; bem ligado de metro.
+52|Lisboa em 1 dia
+53|Chega cedo: forma-se fila.
+54|Sobe a pé ou no elétrico 28.
+55|Jantar com fado ao vivo.
+56|Um pastel de nata acabado de sair.
+57|Marisco e um prego de sobremesa.
+58|Dia 3 · todo o dia
+59|Comboio do Rossio. Compra o bilhete antes.
+60|Um café no Chiado.
+61|Fado numa tasca pequenina.
+62|Lisboa grátis
+63|Caminhada pela zona ribeirinha até Belém.
+64|Reboleira – Santa Apolónia
+65|Baixa-Chiado, Restauradores, Avenida da Liberdade, Marquês de Pombal, Jardim Zoológico e a estação de Santa Apolónia
+66|Odivelas – Rato
+67|Saldanha, Campo Grande e o Marquês de Pombal
+68|Telheiras – Cais do Sodré
+69|Cais do Sodré (comboios para Cascais e barcos), Baixa-Chiado, Rossio e Martim Moniz
+70|São Sebastião – Aeroporto
+71|A única que chega ao aeroporto; passa pelo Saldanha e pelo Oriente (Parque das Nações)
+72|Cartão navegante ocasional
+73|O cartão recarregável para visitantes (antes chamava-se Viva Viagem), para o metro, os elétricos, os autocarros da Carris, os barcos e os comboios. Compra-se nas máquinas do metro; o cartão em si também se paga.
+74|Zapping
+75|Carrega saldo ("zapping") no cartão: cada viagem sai mais barata do que o bilhete simples e serve em todos os transportes da cidade.
+76|No metro e a bordo dos autocarros e elétricos da Carris pode-se pagar com Visa ou Mastercard contactless. Cada viagem cobra um bilhete simples, mais caro do que com zapping.
+77|Passe de 24 horas
+78|Há um passe de 24 horas para o metro e a Carris (elétricos, autocarros e elevadores), e outros que somam os barcos ou os comboios. Compensa se fores usar muito o elétrico e os elevadores, que comprados a bordo são caros.
+79|Lisboa Card
+80|O cartão turístico oficial: transporte grátis, entrada grátis em dezenas de museus e monumentos, e descontos noutros.
+81|19 de novembro de 2026, com os sites oficiais do metro, da Carris, da CP e dos barcos. Se algo não coincidir, valem os avisos dos transportes.
+82|Metro de Lisboa
+83|Quatro linhas
+84|Azul, Amarela, Verde e Vermelha, com estações decoradas com azulejos de artistas portugueses.
+85|A linha Vermelha chega ao terminal 1 do aeroporto. Para o centro, muda-se na Alameda (Verde) ou em São Sebastião (Azul).
+86|Como entrar
+87|Passa o cartão no leitor ao entrar e guarda-o: também é preciso para sair.
+88|Elétricos e elevadores
+89|O amarelo clássico, que sobe pela Graça, Alfama, a Baixa, o Chiado e a Estrela. Vai cheio: entra no início (Martim Moniz ou Campo de Ourique) e cuidado com a carteira.
+90|Elétrico 15
+91|O moderno, da Praça da Figueira a Algés pela beira-rio, passando por Belém.
+92|Elevadores
+93|Os ascensores da Glória, da Bica e do Lavra, e o Elevador de Santa Justa, poupam as subidas do centro. Estão incluídos no passe de 24 horas.
+94|A Carris tem autocarros por toda a cidade. Paga-se com o cartão navegante ou com o cartão bancário contactless.
+95|Comboios e barcos
+96|Para Sintra
+97|Comboios da CP desde a estação do Rossio, no centro.
+98|Para Cascais
+99|Comboios da CP desde o Cais do Sodré, pela costa, passando por Belém e pelas praias.
+100|Barcos
+101|Do Cais do Sodré saem os barcos para Cacilhas, do outro lado do rio: um passeio curto com vista para a cidade.
+102|Longa distância
+103|Os comboios para o Porto e o Algarve saem de Santa Apolónia e do Oriente.
+104|Aeroporto Humberto Delgado (LIS)
+105|Fica dentro da cidade, a uns 20 minutos do centro. Tem dois terminais: o 1 para a maioria dos voos e o 2 para algumas low cost, ligados por um autocarro.
+106|A linha Vermelha sai do terminal 1: é o mais barato.
+107|Há fila de táxis nas chegadas e ponto de encontro para Uber, Bolt e FREENOW.
+108|A Uber, a Bolt e a FREENOW funcionam bem e muitas vezes saem mais baratas do que o táxi.
+109|São pretos com tejadilho verde ou bege. Funcionam com taxímetro; à noite e com malas há suplemento.
+110|As sete colinas
+111|Lisboa é de subidas e descidas, com calçada que escorrega quando chove: leva calçado confortável, com boa sola.
+112|Beira-rio
+113|Há uma ciclovia plana pela zona ribeirinha, do Cais do Sodré a Belém e mais além.
+114|A GIRA é o sistema de bicicletas da cidade, com muitas elétricas para as subidas.
+115|SNS 24: linha de saúde, dizem-te para onde ir
+116|Violência doméstica (grátis, 24 horas)
+117|Centro de informação antivenenos
+118|Linha de ajuda para crianças
+119|Lisboa é uma das capitais mais seguras da Europa, mas há carteiristas onde se junta gente.
+120|O elétrico 28 e o Elevador de Santa Justa são os sítios clássicos: mochila à frente e carteira guardada.
+121|Na Baixa, no Rossio e nos miradouros, não deixes o telemóvel em cima da mesa.
+122|O Bairro Alto e o Cais do Sodré, de madrugada, quando há muita gente a beber na rua.
+123|Martim Moniz e o Intendente, à noite.
+124|As escadas e ruelas vazias de Alfama, muito tarde.
+125|Na Baixa e no Rossio oferecem "haxixe" ou "cocaína": costuma ser falso e é ilegal. Segue em frente.
+126|Nos restaurantes, as entradas que põem na mesa (pão, azeitonas, queijos) cobram-se se as comeres. Se não as quiseres, pede que as levem.
+127|Táxis sem taxímetro ou que dão voltas: pede por app.
+128|Se te roubarem, liga para o 112 ou vai a uma esquadra da PSP (a polícia) para fazer queixa.
+129|Aceitam-se em quase todo o lado; em algumas tascas e quiosques pedem dinheiro ou um mínimo para pagar com cartão.
+130|Usa as caixas Multibanco dos bancos. Evita as caixas coloridas de empresas de câmbio: cobram comissões altas. Se te oferecerem cobrar na tua moeda, escolhe euros.
+131|Não é obrigatória. Se te atenderam bem, deixa-se algum troco ou arredonda-se a conta.
+132|Horários de Lisboa
+133|Almoça-se e janta-se mais cedo do que em Espanha. As tascas fecham a cozinha cedo.
+134|Muitas lojas pequenas fecham ao domingo; os centros comerciais abrem todos os dias.
+135|A maioria dos museus fecha à segunda-feira.
+136|Primavera e outono
+137|A melhor época: ameno e com sol.
+138|Verão
+139|Quente, seco e com muitos turistas. Em junho são as festas de Santo António.
+140|Inverno
+141|Ameno mas chuvoso, e as casas são frias. A calçada escorrega quando chove.
+142|O mar
+143|A água do Atlântico é fria todo o ano.
+144|230 V. Tomadas tipo F (dois pinos redondos): se vens da Argentina, leva adaptador.
+145|Se tens cartão de um país da União Europeia, funciona igual que em casa. Se não, um eSIM ou um cartão local.
+146|Fala-se português. Muita gente entende o espanhol se falares devagar, e quase todos falam inglês.
+147|Farmácias com a cruz verde em todos os bairros. Emergências: 112.
+148|Uma "bica" é um café curto; um "galão", com muito leite em copo; uma "meia de leite", um café com leite.
+149|Os portugueses são simpáticos e algo formais. Um "bom dia" e um "obrigado" são muito apreciados.
+150|Pastel de nata, bacalhau (há centenas de receitas), sardinhas assadas em junho, bifana, prego, arroz de marisco, ginjinha e vinho verde.
+151|Fora de Lisboa
+152|Passaporte de Lisboa
+153|Marca os sítios que conheces e ganha selos: miradouros, pastéis de nata, fado, azulejos, explorador de bairros…
+154|Noitada em Lisboa
+155|🎶 Fado e noite
+156|Sem estação de metro perto: melhor de elétrico, autocarro ou app
+157|O que procuras? Belém, pastel de nata, fado, miradouros…
+158|Ex.: Torre de Belém, Castelo de São Jorge, Praça do Comércio…
+159|Ex.: Alfama, Bairro Alto, Belém…
+160|Ex.: TAP, Iberia, Aerolíneas Argentinas…
+161|Fado
+162|Até ao centro (Praça do Comércio)
+163|Do aeroporto Humberto Delgado
+164|Aeroporto de Lisboa
+165|Carris (elétricos e autocarros)
+166|Site oficial da Carris
+167|O metro (linha Vermelha) sai do terminal 1 e é o mais barato para chegar ao centro.
+168|Se chegares ao terminal 2, há um autocarro que te leva ao terminal 1.
+169|Os táxis têm fila nas chegadas e usam taxímetro. As apps (Uber, Bolt, FREENOW) têm um ponto de encontro sinalizado.
+170|No metro pode-se pagar com o cartão bancário contactless, ou comprar o cartão navegante nas máquinas.
+171|Se tens um cartão de um país da União Europeia, funciona igual que no teu país.
+172|Para comprar um cartão pedem o passaporte. Há lojas das operadoras no aeroporto e nos centros comerciais.
+173|Com cartão podes pagar em quase todo o lado; algumas tascas pequenas preferem dinheiro.
+174|Levanta dinheiro nas caixas Multibanco dos bancos, não nas de empresas de câmbio.
+175|Cartão navegante, zapping e passe de 24 horas
+176|Carris
+177|Elétricos, autocarros e elevadores
+178|Cartão turístico oficial
+179|Linhas do metro
+180|Compra o cartão navegante numa máquina do metro e carrega-o com zapping: cada viagem sai mais barata.
+181|Se fores usar muito o elétrico e os elevadores, o passe de 24 horas compensa.
+182|Metro, elétricos, elevadores, comboios e barcos
+183|Para andar por Lisboa não compensa: as ruas são estreitas e a subir, e custa estacionar. Serve para sair, por exemplo para a Arrábida, o Alentejo ou a costa.
+184|Muitas autoestradas têm portagem eletrónica, sem cabines: pede na agência o aparelho (Via Verde) para pagar.
+185|Para Sintra não compensa ir de carro: há muito pouco lugar para estacionar. Melhor de comboio.
+186|A app oficial dos transportes de Lisboa: carregar o cartão e comprar passes.
+187|Carros com motorista, costuma ser mais barata.
+188|Para pedir táxis oficiais pelo telemóvel.
+189|Que metro, elétrico ou autocarro apanhar, com horários em tempo real.
+190|Transportes públicos com horários em tempo real.
+191|Reservas em restaurantes, muitas vezes com desconto.
+192|Em Portugal usa-se para reservas, perguntas e pedidos.
+193|Metro de Lisboa: o serviço hoje
+194|Estado das linhas, encerramentos e greves.
+195|Carris: avisos
+196|Alterações de percurso de elétricos e autocarros.
+197|Greves e cortes nas notícias do dia.
+198|⭐ Destaques da semana. A agenda completa da cidade está na Visit Lisboa e na agenda cultural da cidade: confirma na página antes de ir.
+199|Visit Lisboa: o que fazer (agenda oficial)
+200|Agenda Cultural de Lisboa
+201|Lisboa tem um aeroporto, o Humberto Delgado (LIS), dentro da cidade. O terminal 1 é o principal e tem metro; o terminal 2 é para algumas low cost e liga-se ao 1 de autocarro. É a base da TAP Air Portugal.
+202|Olá
+203|Desculpe
+204|Fala espanhol?
+205|Um café curto, por favor
+206|Um café com muito leite, em copo
+207|Onde fica…?
+208|Não percebo
+209|Preciso de um médico
+210|🎫 Como pagar o metro, o elétrico e os elevadores
+211|👜 Como te proteger dos carteiristas do elétrico 28
+212|🥖 Porque te cobram o pão que põem na mesa
+213|Aeroporto e estações
+214|Ask Me Lisboa · Praça do Comércio
+215|Informação, mapas, a Lisboa Card e bilhetes, junto à praça.
+216|Ask Me Lisboa · Restauradores
+217|No Palácio Foz, ao lado do Elevador da Glória.
+218|Ask Me Lisboa · Belém
+219|Em frente ao Mosteiro dos Jerónimos.
+220|Ask Me Lisboa · Aeroporto
+221|No hall de chegadas do terminal 1.
+222|PSP · Atendimento ao turista
+223|Posto da polícia para turistas. Em emergências, liga para o 112.
+224|PSP · Esquadra da Baixa
+225|Para a Baixa e o Chiado. Aí faz-se a queixa se te roubarem.
+226|PSP · Esquadra do Bairro Alto
+227|Para o Bairro Alto e o Príncipe Real.
+228|PSP · Esquadra do Martim Moniz
+229|Para a Mouraria e o Martim Moniz.
+230|PSP · Esquadra de Belém
+231|Para Belém.
+232|PSP · Esquadra do Parque das Nações
+233|Para o Parque das Nações.
+234|Hospital de São José
+235|Hospital público com urgência 24 horas, no centro.
+236|Hospital de Santa Maria
+237|O grande hospital universitário, com urgência 24 horas.
+238|Hospital São Francisco Xavier
+239|Hospital público com urgência, perto de Belém.
+240|Hospital CUF Descobertas
+241|Hospital privado com urgência, no Parque das Nações. Apresenta o seguro de viagem antes de seres atendido.
+242|Hospital Cruz Vermelha
+243|Hospital privado com urgência.
+244|Morada do site oficial da embaixada.
+245|Ao lado da embaixada (Largo do Conde de Pombeiro 6).
+246|O aeroporto da cidade; o terminal 1 tem metro.
+247|Estação do Oriente
+248|Comboios de longa distância, metro e o terminal de autocarros.
+249|Estação de Santa Apolónia
+250|Comboios de longa distância e metro, junto a Alfama.
+251|As farmácias abertas, no mapa. Há sempre alguma de serviço.
+252|SNS 24
+253|Linha de saúde: 808 24 24 24. Dizem-te para onde ir.
+254|Visit Lisboa
+255|Casa de banho pública
+256|Fã do pastel de nata
+257|2 pastelarias
+258|Pastelaria
+259|Sete colinas
+260|Saudade
+261|Uma noite de fado
+262|Do mar para a mesa
+263|Uma marisqueira
+264|Alfacinha honorário
+265|Adaptador de tomada tipo F, o de dois pinos redondos (230 V)
+266|Calçado confortável com boa sola, para as subidas e a calçada
+267|Comprar com antecedência os bilhetes para Sintra, os Jerónimos e o Oceanário
+268|Apanhar o metro no terminal 1 do aeroporto
+269|Comprar o cartão navegante e carregá-lo com zapping
+270|Ativar o eSIM ou comprar um cartão
+271|Pedir que levem as entradas da mesa se não as fores comer
+272|Clássicos de Lisboa
+273|Belém e os Descobrimentos
+274|Pastéis de nata
+275|Cozinha portuguesa
+276|Noites de fado
+277|Esplanadas ao pôr do sol
+278|Baixa, Chiado e Alfama
+279|Bairro Alto, Príncipe Real e Cais do Sodré
+280|Belém, Bairro Alto e Cais do Sodré
+281|25 de abril
+282|Dia da Liberdade
+283|O aniversário da Revolução dos Cravos, com um desfile popular pela Avenida da Liberdade e cravos vermelhos por todo o lado.
+284|Abril ou maio
+285|IndieLisboa
+286|O festival de cinema independente da cidade.
+287|Todo o mês de junho
+288|Festas de Lisboa
+289|Arraiais nos bairros com sardinhas assadas, música e enfeites. A grande noite é a de Santo António, de 12 para 13 de junho, com as marchas populares na Avenida da Liberdade.
+290|NOS Alive
+291|Um dos grandes festivais de música da Europa, junto ao rio em Algés.
+292|Maratona de Lisboa
+293|A maratona e a meia maratona, com chegada junto ao rio.
+294|Doclisboa
+295|O festival internacional de cinema documental.
+296|Web Summit
+297|A grande conferência de tecnologia: a cidade enche e os hotéis sobem.
+298|Natal em Lisboa
+299|Luzes na Baixa e na Avenida da Liberdade, uma árvore gigante na Praça do Comércio e bolo-rei nas pastelarias.
+300|Festa e fogo de artifício sobre o rio na Praça do Comércio.
+301|As entradas da mesa
+302|O "couvert"
+303|Quando te sentas trazem pão, manteiga, azeitonas ou queijos sem pedires. Não são grátis: paga-se o que se come.
+304|Se não quiseres, pede que o levem assim que chega. É normal e ninguém se ofende.
+305|Subidas e calçada
+306|Lisboa é feita de subidas: planeia o percurso para ir a descer, e usa os elevadores e o elétrico.
+307|A calçada
+308|Os passeios de pedra branca e preta são bonitos mas escorregam, sobretudo quando chove: calçado com boa sola.
+309|Sombra e água
+310|No verão o sol é forte: leva água e chapéu.
+311|Emergências
+312|Liga para o 112. Para dúvidas de saúde, a linha SNS 24 (808 24 24 24) diz-te para onde ir.
+313|Têm uma cruz verde. Há sempre alguma de serviço aberta à noite.
+314|Feira da Ladra: o mercado de velharias mais antigo de Lisboa, no Campo de Santa Clara
+315|Festas de Lisboa: arraiais com sardinhas assadas e música nas ruas de Alfama
+316|A torre manuelina do século XVI que guardava a entrada do rio: o símbolo da época dos Descobrimentos. Património Mundial.
+317|Por dentro é pequena e faz-se fila: muitos preferem vê-la de fora, ao pôr do sol.
+318|O grande mosteiro manuelino, com o seu claustro de pedra lavrada e o túmulo de Vasco da Gama. Património Mundial.
+319|A igreja é grátis; o claustro paga-se. Compra o bilhete antes e chega cedo.
+320|A enorme praça aberta ao rio, onde ficava o palácio real antes do terramoto de 1755, com o arco da Rua Augusta.
+321|Senta-te no Cais das Colunas, as escadas que descem até à água.
+322|O castelo no ponto mais alto da cidade, com muralhas para percorrer e a melhor vista de Lisboa.
+323|Sobe no autocarro 737 ou no elétrico 28 até perto, e desce a pé por Alfama.
+324|Um elevador de ferro do início do século XX que liga a Baixa ao Chiado, com um miradouro em cima.
+325|A fila é longa: ao miradouro também se chega a pé desde o Largo do Carmo.
+326|O monumento aos navegadores portugueses, com o Infante D. Henrique à frente e uma rosa dos ventos gigante no chão.
+327|Em cima tem um miradouro sobre o rio e Belém.
+328|O arco triunfal que liga a Praça do Comércio à Rua Augusta, com um miradouro em cima.
+329|Lá de cima vê-se a quadrícula da Baixa e o rio.
+330|O elétrico amarelo de madeira que sobe e desce pela Graça, Alfama, a Baixa e a Estrela: um passeio pela Lisboa de postal.
+331|Entra na primeira paragem (Martim Moniz ou Campo de Ourique) para ir sentado, e cuidado com a carteira.
+332|A coleção de um milionário arménio: arte egípcia, islâmica, europeia e joias de Lalique, num edifício rodeado de jardins.
+333|Os jardins são grátis e bons para descansar.
+334|Cinco séculos de azulejos num convento com uma igreja dourada e um painel enorme de Lisboa antes do terramoto.
+335|Fica um pouco longe do centro: apanha um autocarro ou um táxi.
+336|O Museu de Arte, Arquitetura e Tecnologia, num edifício ondulado junto ao rio e numa antiga central elétrica.
+337|Ao telhado sobe-se de graça: tem vista para o rio e a ponte.
+338|O grande museu de arte de Portugal, com os painéis de São Vicente e o tríptico das Tentações de Santo Antão, de Bosch.
+339|Tem um jardim com café e vista para o rio.
+340|A história do fado, a música de Lisboa, com guitarras, discos e gravações para ouvir.
+341|Ideal antes de ir a uma casa de fado à noite.
+342|Uma das coleções de coches reais mais importantes do mundo.
+343|As crianças adoram.
+344|A antiga prisão política da ditadura, hoje museu da resistência e da Revolução dos Cravos.
+345|Em cima tem um terraço com vista para a Sé.
+346|O miradouro mais alto da cidade, com o castelo, a Baixa e o rio aos teus pés.
+347|Ideal para o pôr do sol.
+348|Um miradouro com pinheiros e um quiosque, em frente ao castelo e à Baixa.
+349|Toma algo no quiosque enquanto o sol se põe.
+350|Um terraço com azulejos e buganvílias sobre os telhados de Alfama e o rio.
+351|Fica no percurso do elétrico 28.
+352|A vista de postal de Alfama, com as cúpulas de São Vicente e do Panteão.
+353|A poucos metros do de Santa Luzia.
+354|Um jardim em dois níveis com vista para o castelo e a Baixa, no topo do Elevador da Glória.
+355|Sobe no Elevador da Glória desde os Restauradores.
+356|O miradouro da malta jovem, com vista para a ponte 25 de Abril e o rio.
+357|Ao pôr do sol enche-se de gente.
+358|A catedral mais antiga da cidade, uma fortaleza românica do século XII.
+359|O elétrico 28 passa mesmo em frente: é a foto clássica.
+360|Por fora é simples, mas por dentro tem uma das capelas mais ricas da Europa, toda de pedras preciosas.
+361|Ao lado fica o museu de arte sacra.
+362|As ruínas de uma igreja gótica que ficou sem telhado no terramoto de 1755: os arcos recortam-se contra o céu.
+363|A praça em frente é tranquila e tem cafés.
+364|Uma igreja barroca com cúpula branca onde estão sepultados presidentes, escritores e a fadista Amália Rodrigues.
+365|Do terraço da cúpula há uma vista enorme.
+366|Um mosteiro com claustros cobertos de azulejos e um terraço com vista para Alfama.
+367|Combina com a Feira da Ladra, que fica ao lado.
+368|Uma basílica branca com cúpula, do século XVIII, em frente ao Jardim da Estrela.
+369|Pode-se subir ao telhado.
+370|O bairro mais antigo: escadas, ruelas, roupa estendida, cheiro a sardinhas no verão e fado à noite.
+371|Perder-se faz parte do plano. Desce a partir do castelo.
+372|Um bairro de ruas retas e estreitas que de dia é tranquilo e à noite se enche de gente a beber na rua.
+373|Vai à noite, a partir do jantar.
+374|O bairro multicultural onde nasceu o fado, com murais, restaurantes de todo o mundo e vida de bairro.
+375|Segue as escadas desde o Martim Moniz até ao castelo.
+376|O bairro literário: cafés históricos, livrarias, teatros e a estátua de Fernando Pessoa.
+377|Percorre-o da Rua Garrett à Praça Luís de Camões.
+378|Um jardim botânico em declive, com plantas de todo o mundo, em pleno centro.
+379|Um oásis tranquilo a dois passos do Príncipe Real.
+380|Um jardim romântico com lagos, patos, um coreto e parque infantil.
+381|Perfeito para um piquenique.
+382|O grande parque em declive acima da Avenida da Liberdade, com vista até ao rio.
+383|Lá dentro fica a Estufa Fria, uma estufa gigante.
+384|Uma praça com um cedro enorme que dá sombra como um chapéu-de-chuva, um lago e cafés.
+385|Rodeado de lojas de design.
+386|Uma estufa com lagos, fetos e plantas tropicais, dentro do Parque Eduardo VII.
+387|Um bom plano se estiver muito calor ou a chover.
+388|O aqueduto do século XVIII que sobreviveu ao terramoto, com arcos de mais de 60 metros de altura.
+389|Pode-se caminhar por cima do troço sobre o vale de Alcântara.
+390|Uma casa do século XVI com a fachada de pontas de diamante, hoje sede da Fundação José Saramago.
+391|Em baixo veem-se restos da muralha romana.
+392|A praça central da Baixa, com a calçada em ondas, fontes, o Teatro Nacional e a estação de comboios neomanuelina ao lado.
+393|Repara no chão: o desenho de ondas foi copiado em Copacabana.
+394|Um miradouro de vidro à altura do tabuleiro da ponte 25 de Abril, dentro de um dos seus pilares.
+395|Se tens medo das alturas, melhor não.
+396|Uma taberna pequena com pratos portugueses de sempre, reinventados, que mudam conforme o mercado.
+397|Não aceitam reservas para o jantar: põe o nome na lista e espera com um vinho.
+398|comida portuguesa
+399|Uma tasca de bairro com pratos enormes de bacalhau e carne, para partilhar.
+400|Só abre ao almoço e enche.
+401|Uma taberna pequena em Alfama com petiscos portugueses muito bem feitos.
+402|Uma cervejaria de sempre, com frango e marisco grelhados e empregados de casaco branco.
+403|Sem luxos, rápido e barato.
+404|O "rei dos frangos": frango no churrasco com piri-piri, uma tradição de Lisboa.
+405|Pede o frango com batatas fritas e salada.
+406|Um clássico da cozinha do norte de Portugal, com presuntos pendurados, marisco e bacalhau.
+407|As paredes estão cheias de fotos de famosos.
+408|Bifanas e sandes
+409|Um balcão clássico para comer uma bifana de pé, com uma cerveja.
+410|Põe-lhe mostarda.
+411|Em frente à estação do Rossio, bifanas e sandes de sempre a qualquer hora.
+412|Ideal antes de apanhar o comboio para Sintra.
+413|Um balcão pequenino famoso pelas bifanas, com fila de gente do bairro.
+414|Come-se de pé.
+415|Um café clássico da Praça da Figueira para bifanas e pregos.
+416|Pede uma bifana e uma imperial.
+417|A marisqueira mais famosa de Lisboa: gambas ao alhinho, amêijoas, santola e, de sobremesa, um prego.
+418|Não aceitam reservas: a fila anda depressa.
+419|Uma cervejaria do século XIX num antigo convento, com paredes de azulejos, marisco e bifes.
+420|Repara nos azulejos da sala principal.
+421|Uma marisqueira moderna, com peixe ao peso e sushi à portuguesa.
+422|Reserva para o jantar.
+423|Uma marisqueira pequenina na Baixa, famosa por um só prato: o arroz de marisco.
+424|Não aceitam reservas: chega cedo.
+425|O restaurante de José Avillez, com duas estrelas Michelin: a cozinha portuguesa levada ao máximo.
+426|O restaurante de Henrique Sá Pessoa, com estrelas Michelin, num antigo armazém de pedra do Chiado.
+427|Há menus de degustação com e sem carne.
+428|Cozinha de produtos de quinta e da época, numa antiga fábrica luminosa perto da Sé.
+429|Também tem uma mercearia para comprar produtos.
+430|Um espaço de José Avillez com taberna, mercearia e um pátio com marisco, mais acessível do que o seu restaurante com estrelas.
+431|Vai com fome e prova várias coisas.
+432|Ceviches peruanos com produtos portugueses, debaixo de um polvo gigante pendurado no teto.
+433|Forma-se fila: inscreve-te e espera com um pisco sour.
+434|O antigo mercado da Ribeira, com bancas dos melhores cozinheiros da cidade debaixo do mesmo teto.
+435|Ao almoço e ao jantar enche: vai a meio da tarde.
+436|Um mercado de bairro com bancas de comida para provar, mais tranquilo do que o Time Out.
+437|O elétrico 28 termina perto.
+438|Um mercado de bairro com fruta, peixe e algumas bancas para comer.
+439|Melhor de manhã.
+440|A parte tradicional do mercado da Ribeira, com peixe, fruta e flores, ao lado do Time Out Market.
+441|Vai de manhã, quando há peixe.
+442|Desde 1837, os pastéis de nata mais famosos, com uma receita secreta que vem do mosteiro ao lado.
+443|Há fila para levar; lá dentro há salas grandes onde te sentas mais depressa.
+444|Um balcão onde só se fazem pastéis de nata, à vista e acabados de sair do forno.
+445|Para muitos, os melhores de Lisboa.
+446|Uma confeitaria de 1829 que trouxe para Portugal o bolo-rei.
+447|A sala de cima é mais tranquila.
+448|Uma pastelaria do início do século XX com espelhos, lustres e empregados de casaco: o lanche das senhoras de Lisboa.
+449|Pede um bolo de arroz ou um pastel de nata.
+450|O café histórico do Chiado, com a estátua de Fernando Pessoa sentado no passeio.
+451|Toma uma bica ao balcão, como os de cá.
+452|Café de especialidade torrado na casa, num espaço com sofás.
+453|Bons bolos caseiros.
+454|Uma cafetaria nórdica com café de especialidade e pão de canela.
+455|Um café pequeno, de design e revistas, com café de especialidade.
+456|Poucas mesas: vai cedo.
+457|Pequenos-almoços e brunch todo o dia num espaço luminoso.
+458|Um buffet vegano e caseiro no Chiado, com sopas, guisados e sobremesas.
+459|Boa opção económica ao almoço.
+460|Cozinha vegana criativa no Chiado, com pratos portugueses reinventados.
+461|Comida vegana rápida e farta, perto do Cais do Sodré.
+462|Os hambúrgueres são o mais pedido.
+463|Um restaurante vegano cheio de plantas, para almoçar ou tomar algo.
+464|Bom para uma pausa tranquila.
+465|Pratos veganos coloridos e brunch, perto do Saldanha.
+466|Bom para um pequeno-almoço tardio.
+467|Uma casa de fado com abóbadas de pedra, jantar e alguns dos melhores fadistas de Lisboa.
+468|Durante o fado faz-se silêncio total.
+469|Uma tasca pequenina e cheia de fotos onde se canta fado vadio: qualquer um pode cantar.
+470|Não se reserva: chega cedo e espera à porta.
+471|Fado numa antiga capela coberta de azulejos, ideal para uma noite especial.
+472|Uma casa de fado tradicional do Bairro Alto, com jantar e fadistas conhecidos.
+473|É preciso reservar para jantar.
+474|Uma das casas de fado mais antigas de Alfama.
+475|Reserva para jantar com o espetáculo.
+476|Um bar no terraço de um parque de estacionamento, com plantas e vista para a ponte e o rio.
+477|A entrada está escondida: sobe pelo elevador do parque.
+478|Um terraço em cima de um centro comercial, em frente ao castelo.
+479|Um sítio menos conhecido para o pôr do sol.
+480|Um terraço com decoração indiana, almofadas e vista para o castelo.
+481|Ideal para o pôr do sol.
+482|O bar no terraço do hotel Tivoli, com vista para toda a Avenida da Liberdade.
+483|Funciona na época quente.
+484|Um bar escondido ao estilo dos anos 20, dos melhores da Europa: entra-se tocando à campainha.
+485|Um antigo hotel de encontros transformado em bar, com veludo vermelho, quadros eróticos e espetáculos.
+486|Enche à noite.
+487|Um bar de cocktails pequenino com bebidas feitas com ingredientes portugueses.
+488|Poucas mesas: chega cedo.
+489|Um bar art nouveau dos anos setenta, com muitos recantos e um pátio.
+490|Ideal para uma conversa longa.
+491|Bar clássico
+492|Um balcão de 1840 que só serve ginjinha, o licor de ginja de Lisboa, em copinhos.
+493|Pede-a "com elas", com as ginjas.
+494|Outro balcão histórico de ginjinha, a poucos metros do Rossio.
+495|Bebe-se de pé, na rua.
+496|Um bar com as paredes cheias de vitrinas com soldadinhos, bonecas e brinquedos antigos.
+497|Tem mesas de bilhar ao fundo.
+498|Um bar dos anos setenta com vitrais e candeeiros, onde se juntavam políticos e artistas.
+499|É preciso tocar à campainha.
+500|A discoteca mais famosa de Lisboa, num armazém em frente ao rio, com um terraço para ver o nascer do sol.
+501|Abre tarde e a porta escolhe.
+502|Um clube debaixo de uma ponte da Rua Cor-de-Rosa, com concertos e DJ.
+503|Vê a programação.
+504|Um clube de música africana (kizomba, semba, funaná) em frente ao rio.
+505|Se não sabes dançar, alguém te ensina.
+506|A rua pintada de cor-de-rosa do antigo bairro dos marinheiros, cheia de bares e gente.
+507|O ambiente começa tarde.
+508|Uma das cervejarias artesanais pioneiras de Lisboa, num armazém de Marvila.
+509|Em Marvila há várias cervejarias perto.
+510|Uma cervejaria artesanal com concertos e nomes de cervejas que brincam com canções.
+511|Aos fins de semana há música ao vivo.
+512|Um bar pequeno de cervejas artesanais portuguesas, numa escadaria entre o Rossio e o Bairro Alto.
+513|Pede para provar antes de escolher.
+514|Uma cervejaria com muitas torneiras de cerveja artesanal portuguesa e estrangeira.
+515|Visitas guiadas a pé em espanhol que saem da Baixa: história, terramoto, fado e miradouros. Paga-se o que se quiser.
+516|Reserva no site da empresa e deixa gorjeta no fim.
+517|Um percurso para provar petiscos, conservas, vinhos e pastéis de nata com um guia local.
+518|Um percurso pelos murais e a arte urbana da cidade, que é famosa em todo o mundo.
+519|Há percursos por bairros menos turísticos.
+520|Uma caminhada pelos monumentos dos Descobrimentos com alguém que te conta a história.
+521|Combina com a entrada nos Jerónimos.
+522|Passeios
+523|Um passeio de tuk-tuk elétrico pelos miradouros e ruelas, sem subir a pé.
+524|Combina o percurso e o preço antes de subir.
+525|Um passeio de veleiro pelo rio, com vista para Belém, a ponte e a cidade a partir da água.
+526|Ao pôr do sol é o mais bonito.
+527|O barco de carreira que atravessa o rio até Cacilhas: o passeio mais barato com vista para Lisboa.
+528|Do outro lado há marisqueiras com vista.
+529|Uns quilómetros planos pela ciclovia do rio, do Cais do Sodré a Belém, com bicicletas de aluguer ou GIRA.
+530|Volta de comboio ou no elétrico 15.
+531|O palácio romântico colorido no alto da serra de Sintra, entre bosques e nevoeiro. Património Mundial.
+532|Compra o bilhete com horário no site e sobe no autocarro desde a estação.
+533|Uma quinta com jardins cheios de túneis, grutas e um poço iniciático com uma escada em espiral.
+534|As muralhas de um castelo medieval no cimo da serra, com vista até ao mar.
+535|Leva calçado confortável: há muitas escadas.
+536|Um palácio de inspiração oriental com jardins botânicos enormes, menos visitado do que a Pena.
+537|Mais tranquilo do que os outros palácios de Sintra.
+538|A vila piscatória transformada em estância balnear elegante, com praias, um centro histórico e um paredão.
+539|Comboio desde o Cais do Sodré pela costa.
+540|Uma vila medieval amuralhada com casas brancas e flores, famosa pela ginjinha em copo de chocolate.
+541|Autocarro direto desde Lisboa.
+542|A capital do Alentejo, com um templo romano, uma capela dos ossos e ruas brancas. Património Mundial.
+543|Comboio ou autocarro; melhor ficar a dormir.
+544|Uma cidade piscatória junto ao rio Sado, famosa pelo choco frito e pelos golfinhos.
+545|Combina com as praias da Arrábida.
+546|A praia grande e de areia mais próxima de Lisboa, com escolas de surf.
+547|Comboio da linha de Cascais.
+548|Quilómetros de praias de areia do outro lado do rio, com bares de praia e surf.
+549|Autocarro desde Lisboa, ou barco para Cacilhas e autocarro.
+550|Uma praia selvagem com dunas e muito vento, famosa entre quem faz kitesurf.
+551|A água é fria e o mar é forte: cuidado ao entrar.
+552|Uma baía de água transparente ao pé de uma serra verde, uma das praias mais bonitas de Portugal.
+553|No verão enche: chega cedo.
+554|O ponto mais ocidental da Europa continental: falésias enormes sobre o Atlântico.
+555|Há muito vento: leva um agasalho.
+556|Uma gruta nas falésias onde o mar entra com força.
+557|A uma caminhada do centro de Cascais.
+558|Uma serra verde que cai sobre o mar, com miradouros e praias.
+559|Melhor de carro.
+560|O Cristo de braços abertos do outro lado do rio, com um miradouro sobre a ponte e Lisboa.
+561|Barco para Cacilhas e autocarro.
+562|Um hostel dentro da estação do Rossio, debaixo de um teto de vidro.
+563|Ideal para a excursão a Sintra.
+564|Um hostel familiar famoso pelos jantares caseiros que a mãe dos donos cozinha.
+565|Reserva o jantar.
+566|Um hostel social e central, com jantares e saídas em grupo.
+567|Bom para conhecer gente.
+568|Um hostel de design na Baixa, com sala e cozinha para usar.
+569|Perto de tudo.
+570|Um hotel boutique escondido em Alfama, com uma piscina com vista para o rio.
+571|Pede um quarto com vista.
+572|Apartamentos de hotel num palácio do Bairro Alto, com terraço no topo.
+573|Os quartos têm cozinha.
+574|Um hotel clássico de 1892, junto aos Restauradores, com salões de época.
+575|Muito bem situado para Sintra (comboio do Rossio).
+576|Um hotel grande no Martim Moniz com terraço virado para o castelo.
+577|O elétrico 28 sai da porta.
+578|Um hotel de luxo num edifício do século XVIII do Chiado, com terraço sobre o rio.
+579|O terraço está aberto a não hóspedes.
+580|O grande hotel de luxo de Lisboa, em frente ao Parque Eduardo VII, com arte portuguesa dos anos cinquenta.
+581|A pista de corrida no terraço tem vista para toda a cidade.
+582|Um palácio do século XIX com jardins, transformado em hotel.
+583|Longe do centro, mas com um jardim enorme.
+584|Um hotel clássico da Avenida da Liberdade com jardim, piscina e o Sky Bar no terraço.
+585|Muito bem situado para compras.
+586|Mercados e design
+587|O mercado de velharias mais antigo de Lisboa: antiguidades, azulejos antigos, discos e um pouco de tudo.
+588|Funciona às terças e aos sábados.
+589|Um complexo de fábricas do século XIX com lojas de design, restaurantes, murais e a livraria Ler Devagar.
+590|Conta com uma tarde: há muito para ver.
+591|Um palácio árabe do século XIX com lojas de design português.
+592|Repara no pátio central.
+593|Design feito com cortiça portuguesa: malas, objetos e recordações.
+594|Um presente diferente e leve.
+595|Loja clássica
+596|Uma loja com produtos portugueses de sempre: sabonetes, cadernos, latas e brinquedos antigos.
+597|Ideal para recordações que não são de plástico.
+598|A livraria em funcionamento mais antiga do mundo, aberta desde 1732.
+599|Carimbam o livro que comprares.
+600|Uma loja de conservas de peixe de 1930, com latas coloridas embrulhadas à mão.
+601|As latas de sardinha são a recordação clássica.
+602|Uma luvaria de 1925 que atende um cliente de cada vez.
+603|Entra uma pessoa de cada vez.
+604|Conservas de todas as fábricas de Portugal, organizadas por marca.
+605|Pede que te recomendem.
+606|A avenida elegante de Lisboa, com marcas de luxo, árvores e passeios de calçada.
+607|Percorre-a a descer, do Marquês de Pombal aos Restauradores.
+608|A rua pedonal da Baixa, com lojas, pastelarias e artistas de rua, que termina no arco.
+609|Está cheia de turistas: vê os preços dos restaurantes antes de te sentares.
+610|Um dos maiores centros comerciais da península, em frente ao estádio do Benfica.
+611|Metro Colégio Militar/Luz.
+612|Um centro comercial luminoso no Parque das Nações, junto à estação do Oriente.
+613|Em cima tem restaurantes com vista para o rio.
+614|O grande armazém espanhol, com supermercado gourmet na cave.
+615|Bom sítio para comprar vinhos e conservas.
+616|O estádio do Benfica, um dos maiores da Europa.
+617|Há visitas guiadas nos dias sem jogo.
+618|O museu do Benfica, com troféus e a história de Eusébio.
+619|Combina com a visita ao estádio.
+620|O estádio do Sporting, o clube onde começou Cristiano Ronaldo.
+621|Tem museu e visitas.
+622|O estádio da final da Taça de Portugal, rodeado de um grande parque com pistas de corrida.
+623|O parque do Jamor é ideal para correr.
+624|Quilómetros de zona ribeirinha para caminhar, correr ou pedalar junto ao rio, da Praça do Comércio a Belém.
+625|Ao pôr do sol, o sol cai sobre a ponte.
+626|O pulmão verde de Lisboa: um bosque enorme com trilhos, miradouros e ciclovias.
+627|O miradouro de Monsanto tem vista para toda a cidade.
+628|Um parque junto ao rio e à ponte Vasco da Gama, com ciclovias e parques infantis.
+629|Alugam-se bicicletas no Parque das Nações.
+630|Escolas de surf na praia mais próxima de Lisboa, para aprender num dia.
+631|A água é fria: o fato está incluído.
+632|O teatro nacional, num edifício neoclássico no Rossio.
+633|Algumas sessões têm legendas em inglês.
+634|A ópera de Lisboa, um teatro do século XVIII inspirado no Scala de Milão.
+635|Vê a programação de ópera e concertos.
+636|Uma sala histórica com cúpula de ferro, para concertos e circo.
+637|A grande sala de concertos de Lisboa, construída para a Expo 98.
+638|Metro Oriente.
+639|Um centro cultural com concertos, dança, exposições e um museu de arte contemporânea.
+640|Os terraços têm vista para o rio.
+641|Um dos maiores aquários da Europa, com um tanque central enorme com tubarões e raias.
+642|Compra o bilhete antes e conta com umas duas horas.
+643|O museu de ciência para tocar e experimentar.
+644|Para crianças de todas as idades.
+645|O jardim zoológico de Lisboa, com um teleférico que passa por cima dos animais.
+646|Metro Jardim Zoológico.
+647|Um teleférico que percorre a zona ribeirinha do Parque das Nações, sobre o rio.
+648|Combina com o Oceanário.
+649|Barcos, mapas e maquetas da época dos Descobrimentos, no Mosteiro dos Jerónimos.
+650|Ao fundo estão as galeotas da família real, barcos verdadeiros.
+651|Tudo o que você precisa para percorrer a cidade
+652|Compras e mercados
+653|Dia 1 · manhã
+654|Dia 1 · meio-dia
+655|Dia 1 · tarde
+656|Dia 1 · noite
+657|Dia 2 · manhã
+658|Dia 2 · tarde
+659|Dia 2 · noite
+660|Dia 3 · tarde
+661|Dia de chuva
+662|O melhor sem gastar com ingressos.
+663|Um dia pensado para crianças.
+664|Com o cartão do banco
+665|Para o aeroporto
+666|Aeroporto
+667|Metrô
+668|A pé e de bicicleta
+669|Bicicletas públicas
+670|Emergências: polícia, ambulância e bombeiros
+671|O mais comum: batedores de carteira
+672|Áreas para ir com atenção
+673|Com estes cuidados, a grande maioria das visitas transcorre sem problemas.
+674|Se roubarem seu passaporte, depois da ocorrência vá ao seu consulado: em Info > Ajuda eles estão no mapa.
+675|Contrate um seguro-viagem.
+676|Euro (EUR).
+677|Caixas eletrônicos
+678|O café
+679|Trato
+680|Mirantes
+681|Site oficial do aeroporto
+682|Site oficial do metrô
+683|Se o seu celular aceita eSIM, você pode ativá-lo antes de viajar: é o mais cômodo.
+684|Se o caixa eletrônico ou a maquininha oferecer cobrar na sua moeda, escolha pagar em euros.
+685|Europcar
+686|Hertz
+687|Avis
+688|Sixt
+689|Se sua carteira não é da União Europeia, leve também a Permissão Internacional para Dirigir.
+690|Carros com motorista. Você vê o preço antes de pedir.
+691|Mapas e trajetos de transporte, a pé e de bicicleta.
+692|Para comer
+693|Comida, supermercado e farmácia a domicílio.
+694|Comida em casa.
+695|Bom dia (à tarde, "Boa tarde"; à noite, "Boa noite")
+696|Obrigado ("obrigado" se você é homem, "obrigada" se é mulher)
+697|Por favor
+698|Informação turística
+699|Hospitais com pronto-socorro 24 h
+700|Embaixadas e consulados
+701|Argentina · Embaixada (seção consular)
+702|Passaportes, trâmites e ajuda se roubarem seus documentos.
+703|Trâmites e ajuda consular.
+704|Chile · Embaixada (setor consular)
+705|Informação turística oficial da cidade.
+706|Encontre embaixadas e consulados no mapa.
+707|De museu em museu
+708|3 mirantes
+709|Frutos do mar
+710|Passaporte válido e uma cópia no celular
+711|Cozinha de autor
+712|Passeios de um dia
+713|Outubro
+714|31 de dezembro
+715|Réveillon
+716|O que fazer
+717|Muito recomendável: sem cobertura, o atendimento particular sai caro.
+718|O guia inclui só lugares com reputação sólida: distinções oficiais, guias reconhecidos e bom consenso em avaliações públicas.
+719|religião
+720|Reserve com muita antecedência.
+721|cozinha de autor
+722|Ideal para o café da manhã.
+723|Nos fins de semana há espera.
+724|música ao vivo
+725|Reserve: é pequeno.
+726|Terraço
+727|Bar de coquetéis
+728|Reserve.
+729|eletrônica
+730|Vá com fome.
+731|excursão
+732|Calcule umas duas horas.
+733|Cidade e vilarejo
+734|Praia
+735|Ao ar livre
+736|Itália · Secção consular
+737|De bicicleta pela beira-rio até Belém
+738|Aulas de surf em Carcavelos
+739|Free tour por Alfama e a Baixa
+740|Passeio de veleiro no Tejo
+741|Beira-rio do Tejo
+742|Tour gastronómico pela Mouraria
+743|Visita guiada a Belém
+744|Passeio de tuk-tuk
+745|Tour de arte urbana
+746|Barco para Cacilhas
+747|Elétrico 28

@@ -24,5 +24,7 @@ window.GUIA_CIUDADES = [
   { id: "rio", name: "Río de Janeiro", country: "Brasil", flag: "🇧🇷", letra: "Lexend:wght@600;700",
     files: ["rio", "rio-coords", "rio-extra", "rio-zones", "rio-lugares", "rio-hoy", "rio-local"] },
   { id: "bogota", name: "Bogotá", country: "Colombia", flag: "🇨🇴", letra: "Alegreya:wght@600;700",
-    files: ["bogota", "bogota-coords", "bogota-extra", "bogota-zones", "bogota-lugares", "bogota-hoy", "bogota-local"] }
+    files: ["bogota", "bogota-coords", "bogota-extra", "bogota-zones", "bogota-lugares", "bogota-hoy", "bogota-local"] },
+  { id: "lisboa", name: "Lisboa", country: "Portugal", flag: "🇵🇹", letra: "Young+Serif",
+    files: ["lisboa", "lisboa-coords", "lisboa-extra", "lisboa-zones", "lisboa-lugares", "lisboa-hoy", "lisboa-local"] }
 ];

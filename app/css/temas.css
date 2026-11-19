@@ -361,6 +361,45 @@
   }
 }
 
+/* Lisboa: Azulejos y tranvías: azul cobalto, blanco de azulejo y el amarillo del Tranvía 28. Letra Young Serif, cálida y redonda. */
+:root[data-ciudad="lisboa"] {
+  --accent: #1d4fb0;
+  --accent-ink: #ffffff;
+  --bg: #f3f6fb;
+  --brand: #0f2a5c;
+  --hero-bg: linear-gradient(165deg, #0f2a5c 0%, #1d4fb0 60%, #2a62c4 100%);
+  --hero-glow: radial-gradient(circle, rgba(245, 184, 0, .45), rgba(245, 184, 0, 0) 68%);
+  --hero-motif: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='72' height='72' viewBox='0 0 72 72' fill='none' stroke='%23fff' stroke-width='1.4'%3E%3Crect x='0.7' y='0.7' width='70.6' height='70.6'/%3E%3Cpath d='M36 8C44 20 52 28 64 36 52 44 44 52 36 64 28 52 20 44 8 36 20 28 28 20 36 8Z'/%3E%3Ccircle cx='36' cy='36' r='9'/%3E%3Cpath d='M36 27v18M27 36h18'/%3E%3Cpath d='M0 12A12 12 0 0 0 12 0M60 0A12 12 0 0 0 72 12M72 60A12 12 0 0 0 60 72M12 72A12 12 0 0 0 0 60'/%3E%3C/svg%3E");
+  --hero-motif-op: .17;
+  --hero-motif-size: 72px 72px;
+  --hero-shadow: rgba(15, 42, 92, .22);
+  --ink: #111c33;
+  --ink-2: #3b4867;
+  --ink-3: #5c6885;
+  --line: #d6dfee;
+  --radius: 12px;
+  --serif: "Young Serif", Georgia, serif;
+  --shadow: 0 1px 2px rgba(15, 42, 92, .07), 0 6px 18px rgba(15, 42, 92, .08);
+  --sun: #f5b800;
+  --sun-ink: #2a1d00;
+  --surface: #ffffff;
+  --surface-2: #e4ebf6;
+}
+@media (prefers-color-scheme: dark) {
+  :root[data-ciudad="lisboa"] {
+    --accent: #8fb3ff;
+    --accent-ink: #071634;
+    --bg: #0d1424;
+    --brand: #091a3a;
+    --ink: #eef2fb;
+    --ink-2: #c3cde2;
+    --ink-3: #8f9bb5;
+    --line: #2a3754;
+    --surface: #151f36;
+    --surface-2: #1e2a46;
+  }
+}
+
 /* Detalles propios de algunas ciudades */
 /* Buenos Aires: la letra fileteada viene en un solo grosor; no se inventa negrita. */
 :root[data-ciudad="caba"] { font-synthesis: none; }
@@ -376,6 +415,8 @@
 :root[data-ciudad="roma"] .section-head h2 { font-size: 19px; }
 /* Barcelona y Ámsterdam: letras sin serifa, más apretadas. */
 :root[data-ciudad="amsterdam"] h1, :root[data-ciudad="amsterdam"] h2 { letter-spacing: -.02em; }
+/* Lisboa: la letra viene en un solo grosor; no se inventa negrita. */
+:root[data-ciudad="lisboa"] { font-synthesis: none; }
 /* Madrid: la barra es roja; el botón SOS lleva un borde blanco para que no se pierda. */
 :root[data-ciudad="madrid"] .sos-btn { box-shadow: 0 0 0 2px rgba(255, 255, 255, .85), 0 2px 8px rgba(0, 0, 0, .3); }
 /* Río: más aire y más color en la portada. */

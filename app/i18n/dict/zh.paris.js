@@ -810,7 +810,6 @@ Object.assign(window.I18N_FULL = window.I18N_FULL || {}, {
 "Bosque de Boulogne": "布洛涅森林",
 "Bosque de Vincennes": "万森森林",
 "Piletas": "游泳池",
-"Sección consular": "领事处",
 "Oficina de Turismo de París": "巴黎旅游局",
 "Se mudó a esta dirección en mayo de 2026, según su sitio oficial. Confirmá antes de ir.": "据其官网，已于2026年5月迁至此地址。前往前请先确认。",
 "La oficina principal de turismo de la ciudad, a pasos de la Torre Eiffel. Información, mapas y entradas.": "城市主要的旅游咨询处，距埃菲尔铁塔仅几步之遥。提供信息、地图和门票。",

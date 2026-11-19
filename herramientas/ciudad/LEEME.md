@@ -8,6 +8,7 @@ Los que consultan internet (OpenStreetMap, Wikimedia Commons, Wikidata) se prese
 
 | Script | Para qué |
 |---|---|
+| `geociudad.pl` | Primera pasada de ubicaciones: busca cada lugar por nombre y por dirección en OpenStreetMap (Nominatim). |
 | `coordsciudad.pl` | Arma `data/<ciudad>-coords.js` con la ubicación de cada lugar (una primera pasada automática más correcciones a mano, que ganan). |
 | `textos.pl` | Lista los textos de una ciudad que todavía no tienen traducción. |
 | `textos-todos.pl` | Lista todos los textos que usa una ciudad (traducidos o no). |
@@ -23,3 +24,4 @@ Los que consultan internet (OpenStreetMap, Wikimedia Commons, Wikidata) se prese
 | `dietas.pl` | Busca en OpenStreetMap locales solo veganos o solo sin gluten (son la fuente del dato de dieta). |
 | `contar.pl` | Cuenta lugares por tipo y por barrio, para ver la variedad (4 o más de cada uno). |
 | `contraste.pl` | Mide el contraste de los colores de cada ciudad en `css/temas.css`, en claro y oscuro. |
+| `estaciones-metro.pl` | Trae de OpenStreetMap las estaciones de cada línea de metro, para "la estación más cercana" (bloque `stations`). |

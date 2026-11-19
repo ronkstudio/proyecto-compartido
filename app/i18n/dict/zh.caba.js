@@ -1076,7 +1076,6 @@ Object.assign(window.I18N_FULL = window.I18N_FULL || {}, {
 "Las jarras de margarita son para compartir.": "玛格丽特鸡尾酒按壶点，适合分享。",
 "También venden pastas y salsas para llevar.": "也卖意面和酱汁可以带走。",
 "Lindo patio para almorzar.": "午餐时庭院很美。",
-"Reservá: tiene pocas mesas.": "请预订：桌位很少。",
 "Linda para un almuerzo o una merienda en el jardín.": "在花园里吃午饭或下午茶很惬意。",
 "No toma reservas; anotate en la lista al llegar.": "不接受预订；到了以后登记排队。",
 "La noche arranca muy tarde: antes de las 2 hay poca gente. Andá y volvé en taxi o app.": "夜生活开始得很晚：凌晨 2 点前很冷清。往返乘出租车或打车。",

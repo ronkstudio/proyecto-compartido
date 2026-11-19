@@ -67,7 +67,18 @@
       '<g fill="none" stroke="#e9bd4f" stroke-width="4" stroke-linecap="round">' +
       '<path class="a-draw a-espiral" style="' + D(0) + '" pathLength="1" d="M200 106m-6 0a6 6 0 1 1 12 0a15 15 0 1 1-30 0a24 24 0 1 1 48 0a33 33 0 1 1-66 0a42 42 0 1 1 84 0"/>' +
       '<path class="a-izq" style="' + D(.2) + '" d="M0 30l14 14 14-14 14 14 14-14 14 14 14-14 14 14 14-14 14 14 14-14 14 14 14-14 14 14 14-14 14 14 14-14 14 14 14-14 14 14 14-14 14 14 14-14 14 14 14-14 14 14 14-14 14 14 14-14"/>' +
-      '<path class="a-der" style="' + D(.2) + '" d="M0 286l14-14 14 14 14-14 14 14 14-14 14 14 14-14 14 14 14-14 14 14 14-14 14 14 14-14 14 14 14-14 14 14 14-14 14 14 14-14 14 14 14-14 14 14 14-14 14 14 14-14 14 14 14-14 14 14"/></g>'
+      '<path class="a-der" style="' + D(.2) + '" d="M0 286l14-14 14 14 14-14 14 14 14-14 14 14 14-14 14 14 14-14 14 14 14-14 14 14 14-14 14 14 14-14 14 14 14-14 14 14 14-14 14 14 14-14 14 14 14-14 14 14 14-14 14 14 14-14 14 14"/></g>',
+    lisboa: () => { let s = "";
+      for (let i = 0; i < 4; i++) s += '<g class="a-gira" style="' + D(.07 * i) + '"><rect x="' + (78 + i * 62) + '" y="18" width="56" height="56" fill="#fff" stroke="#9bb5e3" stroke-width="2"/>' +
+        '<path d="M' + (106 + i * 62) + ' 24C' + (112 + i * 62) + ' 36 ' + (118 + i * 62) + ' 40 ' + (128 + i * 62) + ' 46 ' + (118 + i * 62) + ' 52 ' + (112 + i * 62) + ' 56 ' + (106 + i * 62) + ' 68 ' + (100 + i * 62) + ' 56 ' + (94 + i * 62) + ' 52 ' + (84 + i * 62) + ' 46 ' + (94 + i * 62) + ' 40 ' + (100 + i * 62) + ' 36 ' + (106 + i * 62) + ' 24Z" fill="#1d4fb0"/><circle cx="' + (106 + i * 62) + '" cy="46" r="5" fill="#f5b800"/></g>';
+      return s + '<path class="a-sube" style="' + D(.15) + '" d="M0 300V256L400 156V300Z" fill="rgba(255,255,255,.14)"/>' +
+        '<line class="a-draw" style="' + D(.2) + '" pathLength="1" x1="0" y1="252" x2="400" y2="152" stroke="#f5b800" stroke-width="4" stroke-linecap="round"/>' +
+        '<g transform="rotate(-14 205 199)"><g class="a-trepa" style="' + D(.35) + '">' +
+        '<line x1="205" y1="118" x2="190" y2="138" stroke="#fff" stroke-width="2.5"/><line x1="190" y1="118" x2="222" y2="118" stroke="#fff" stroke-width="2.5"/>' +
+        '<rect x="148" y="138" width="114" height="58" rx="10" fill="#f5b800"/><rect x="148" y="176" width="114" height="10" fill="#fff3c4"/>' +
+        '<g fill="#0f2a5c"><rect x="158" y="148" width="20" height="20" rx="3"/><rect x="184" y="148" width="20" height="20" rx="3"/><rect x="210" y="148" width="20" height="20" rx="3"/><rect x="236" y="148" width="18" height="20" rx="3"/></g>' +
+        '<text x="205" y="193" text-anchor="middle" font-size="9" font-weight="700" fill="#0f2a5c">28</text>' +
+        '<circle cx="172" cy="198" r="6" fill="#0f2a5c"/><circle cx="238" cy="198" r="6" fill="#0f2a5c"/></g></g>'; }
   };
 
   /* Figuras que salen al tocar la portada. */
@@ -80,10 +91,12 @@
     barcelona: '<path d="M10 10C6 1 14 1 10 10C19 6 19 14 10 10C14 19 6 19 10 10C1 14 1 6 10 10Z" fill="#fff" stroke="#f5c331" stroke-width="1.5"/>',
     amsterdam: '<path d="M10 20V11M4 4q6 2 6 7 0-5 6-7-1 9-6 9-5 0-6-9z" fill="#ff8a1f" stroke="#2f8f4e" stroke-width="1.6"/>',
     rio: '<circle cx="10" cy="10" r="7" fill="none" stroke="#fff" stroke-width="2.4"/>',
-    bogota: '<path d="M10 10m-1.5 0a1.5 1.5 0 1 1 3 0a4 4 0 1 1-8 0a6.5 6.5 0 1 1 13 0" fill="none" stroke="#e9bd4f" stroke-width="2.2" stroke-linecap="round"/>'
+    bogota: '<path d="M10 10m-1.5 0a1.5 1.5 0 1 1 3 0a4 4 0 1 1-8 0a6.5 6.5 0 1 1 13 0" fill="none" stroke="#e9bd4f" stroke-width="2.2" stroke-linecap="round"/>',
+    /* Lisboa: sardinas, por las Fiestas de Lisboa */
+    lisboa: '<path d="M1 10Q8 3 15 9L19 5V15L15 11Q8 17 1 10Z" fill="#c9d6e8" stroke="#3b5c8f" stroke-width="1.2"/><circle cx="5" cy="9.3" r="1.1" fill="#0f2a5c"/>'
   };
   /* Cómo se mueven: "cae" (con gravedad, como monedas tiradas), "sube" (como burbujas) o "explota" (para todos lados). */
-  const MOV = { roma: "cae", rio: "sube", amsterdam: "cae", paris: "explota", madrid: "explota", berlin: "explota", caba: "explota", barcelona: "explota", bogota: "explota" };
+  const MOV = { roma: "cae", rio: "sube", amsterdam: "cae", paris: "explota", madrid: "explota", berlin: "explota", caba: "explota", barcelona: "explota", bogota: "explota", lisboa: "cae" };
 
   const nombreCiudad = id => {
     const c = (window.GUIA_CIUDADES || []).find(x => x.id === id);

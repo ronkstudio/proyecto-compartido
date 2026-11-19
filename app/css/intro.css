@@ -37,6 +37,7 @@ html.intro-tapa body::after { content: ""; position: fixed; inset: 0; z-index: 3
 .a-izq { animation: a-izq 1s cubic-bezier(.2, .8, .3, 1) both; }
 .a-der { animation: a-der 1s cubic-bezier(.2, .8, .3, 1) both; }
 .a-espiral { transform-origin: center; animation: a-draw 1s ease-out both, a-giro 2.4s cubic-bezier(.2, .6, .3, 1) both; }
+.a-trepa { animation: a-trepa 1.3s cubic-bezier(.2, .7, .25, 1) both; }
 
 @keyframes a-draw { to { stroke-dashoffset: 0; } }
 @keyframes a-pop { from { opacity: 0; transform: scale(0); } to { opacity: 1; transform: scale(1); } }
@@ -54,6 +55,7 @@ html.intro-tapa body::after { content: ""; position: fixed; inset: 0; z-index: 3
 @keyframes a-izq { from { opacity: 0; transform: translateX(-200px); } to { opacity: 1; transform: none; } }
 @keyframes a-der { from { opacity: 0; transform: translateX(200px); } to { opacity: 1; transform: none; } }
 @keyframes a-giro { from { transform: rotate(-540deg) scale(.2); } to { transform: none; } }
+@keyframes a-trepa { from { transform: translateX(-330px); } to { transform: none; } }
 
 /* Cómo aparece el nombre y cómo sale la intro en cada ciudad */
 .intro[data-c="berlin"] .intro-nombre { margin-top: 10px; padding: 6px 22px 8px; background: #1a1b1d; border: 4px solid #ffd400; border-radius: 6px;
@@ -70,6 +72,7 @@ html.intro-tapa body::after { content: ""; position: fixed; inset: 0; z-index: 3
 .intro[data-c="madrid"].fuera, .intro[data-c="caba"].fuera { transform: scale(1.35); }
 .intro[data-c="amsterdam"].fuera { transform: translateY(100%); }
 .intro[data-c="bogota"].fuera { transform: scale(.9); }
+.intro[data-c="lisboa"].fuera { transform: translate(30%, 40%) rotate(-8deg); }
 @keyframes intro-letra-suave { from { opacity: 0; transform: translateY(.4em); } to { opacity: 1; transform: none; } }
 @keyframes intro-cincel { from { opacity: 0; transform: scale(1.8); } to { opacity: 1; transform: none; } }
 @keyframes intro-salto { from { opacity: 0; transform: translateY(.9em) scale(.4); } to { opacity: 1; transform: none; } }

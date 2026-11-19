@@ -810,7 +810,6 @@ Object.assign(window.I18N_FULL = window.I18N_FULL || {}, {
 "Bosque de Boulogne": "Bois de Boulogne",
 "Bosque de Vincennes": "Bois de Vincennes",
 "Piletas": "Piscine",
-"Sección consular": "Sezione consolare",
 "Oficina de Turismo de París": "Ufficio del Turismo di Parigi",
 "Se mudó a esta dirección en mayo de 2026, según su sitio oficial. Confirmá antes de ir.": "Si è trasferito a questo indirizzo a maggio 2026, secondo il suo sito ufficiale. Verifica prima di andare.",
 "La oficina principal de turismo de la ciudad, a pasos de la Torre Eiffel. Información, mapas y entradas.": "Il principale ufficio turistico della città, a due passi dalla Torre Eiffel. Informazioni, mappe e biglietti.",

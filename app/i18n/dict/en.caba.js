@@ -1076,7 +1076,6 @@ Object.assign(window.I18N_FULL = window.I18N_FULL || {}, {
 "Las jarras de margarita son para compartir.": "The margarita pitchers are for sharing.",
 "También venden pastas y salsas para llevar.": "They also sell pasta and sauces to take away.",
 "Lindo patio para almorzar.": "A lovely patio for lunch.",
-"Reservá: tiene pocas mesas.": "Book: it has few tables.",
 "Linda para un almuerzo o una merienda en el jardín.": "Lovely for lunch or afternoon tea in the garden.",
 "No toma reservas; anotate en la lista al llegar.": "No reservations; put your name on the list when you arrive.",
 "La noche arranca muy tarde: antes de las 2 hay poca gente. Andá y volvé en taxi o app.": "The night starts very late: before 2 a.m. it's quiet. Go and come back by taxi or ride app.",
