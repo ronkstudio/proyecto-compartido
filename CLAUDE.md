@@ -32,12 +32,12 @@ Hacé esto sin esperar a que te lo pidan:
 
 **Terminar**
 - Prepará un pedido de cambios que diga `Closes #NUMERO`.
+- Cuando está terminado y probado, sumalo a `main` sin preguntar (lo decidió `ezebesserr` el 19/11, tarjeta #217) y fijate que corra bien "Publicar la guía" en la pestaña Actions.
 - Dejá en la tarjeta una nota de traspaso con tres partes: **Qué hice**, **Qué probé**, **Qué falta**.
 
 **Revisar**
 - El que hizo un cambio nunca se lo aprueba a sí mismo.
-- Revisá los pedidos de cambios del otro: buscá errores, probalos y dejá comentarios concretos.
-- Sumar un cambio a `main` lo decide siempre una persona, nunca Claude solo.
+- Revisá los pedidos de cambios del otro: buscá errores, probalos y dejá comentarios concretos. Si ya se sumó a `main`, dejá los comentarios igual y abrí una tarjeta para lo que haya que arreglar.
 
 ## Qué no va en el repositorio
 
@@ -54,6 +54,6 @@ Para no pisarse alcanza con las reglas de arriba: cada tarjeta tiene un solo due
 El prototipo de la carpeta `app/` es la base de la app (se decidió en el pedido #29).
 
 - **Antes de tocar algo de `app/`, leé `app/ESTADO.md`:** dice qué está hecho, qué se probó y qué falta. Cómo está armado y cómo abrirlo: `app/LEEME.md`.
-- **Al terminar una tarea que cambie `app/`, actualizá `app/ESTADO.md`** en el mismo pedido de cambios.
+- **Al terminar una tarea que cambie `app/`, actualizá `app/ESTADO.md`** en el mismo pedido de cambios: una línea en "Últimos cambios" y corregir lo que cambió en las otras secciones. El detalle va en la nota de traspaso, no ahí (arriba de `ESTADO.md` está cómo hacerlo). Lo viejo está en `docs/historial.md`.
 - El contenido va en `app/data/`. No se escriben precios ni horarios exactos, y los datos de salud (sin TACC, kosher, alergias) solo con una fuente.
 - Las decisiones ya tomadas y las que faltan están en el `README.md`. Si se toma una decisión nueva, anotala ahí.

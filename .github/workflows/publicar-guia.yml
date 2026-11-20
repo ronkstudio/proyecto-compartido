@@ -1,11 +1,12 @@
 # Publica la guía (carpeta app/) en https://ronkstudio.github.io/proyecto-compartido/ (tarjeta #105).
 #
 # Cuándo corre:
-#   - cada vez que se suma un cambio de app/ o herramientas/ a main (sumar a main lo decide una persona);
+#   - cada vez que se suma un cambio de app/ o herramientas/ a main (Claude lo suma sin preguntar, tarjeta #217);
 #   - dos veces por día, para traer la agenda de "Hoy" de cada ciudad;
 #   - a mano, desde la pestaña Actions > "Publicar la guía" > Run workflow.
 #
-# Qué hace: baja la agenda del día de Buenos Aires, de Berlín y de París (si una falla, se usa la que está en el repositorio),
+# Qué hace: baja la agenda del día de Buenos Aires, Berlín, París, Madrid y Barcelona (si una falla, se usa la que está en el repositorio;
+# las otras ciudades no tienen una agenda oficial que se pueda leer y usan solo su agenda fija),
 # copia app/ sin los documentos internos y la publica. No cambia nada en el repositorio.
 # No necesita claves: usa el permiso que GitHub le da a cada repositorio para publicar su propia página.
 # Ojo: GitHub apaga los pasos programados de un repositorio que pasa 60 días sin cambios hechos por una persona.
