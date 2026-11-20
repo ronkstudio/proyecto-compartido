@@ -30,7 +30,7 @@ De dónde sale cada dato de Tokio en la guía. Revisado el 19/11/2026.
   - Japan Visitor Hotline 050-3816-2787, todo el día, en inglés, chino y coreano.
   - Policía 110, ambulancia y bomberos 119.
   - Información general de la policía en inglés: 03-3503-8484.
-- tfd.metro.tokyo.lg.jp (Bomberos de Tokio): #7119, consulta de emergencias médicas, en japonés.
+- tfd.metro.tokyo.lg.jp (Bomberos de Tokio): consulta de emergencias médicas, en japonés: #7119 desde celulares japoneses y 03-3212-2323 desde cualquier teléfono. En la guía va el 03-3212-2323, porque el "#" no se puede marcar tocando el número.
 - amdamedicalcenter.com: AMDA, información médica en varios idiomas, 03-6233-9266.
 - keishicho.metro.tokyo.lg.jp: 110 para delitos y accidentes.
 - La web de Himawari, el centro de información médica de Tokio, no respondió: no se cargó.
@@ -60,6 +60,7 @@ De dónde sale cada dato de Tokio en la guía. Revisado el 19/11/2026.
 
 ## Lugares
 
+- Un lugar que aparece en OpenStreetMap no garantiza que siga abierto: es el mismo criterio que en las otras ciudades.
 - Hay 217 lugares en `app/data/tokio-lugares.js`.
   - Cada uno se buscó por nombre en OpenStreetMap (Nominatim, 19/11/2026) y se confirmó que cae en su distrito (ku).
   - Los que no aparecían se buscaron por su nombre en japonés o con Overpass.
@@ -67,7 +68,8 @@ De dónde sale cada dato de Tokio en la guía. Revisado el 19/11/2026.
 - Se sacaron seis lugares que no figuran en OpenStreetMap: Kura Sushi Harajuku, Tempura Kondo, Torishiki, Naniwaya Sohonten, Nine Hours Shinjuku-North y Ryokan Kamogawa Asakusa.
 - Florilège se reemplazó por Esquisse: OpenStreetMap todavía lo tiene en su dirección vieja.
 - Se cambiaron algunos nombres por la sucursal que sí figura: Afuri Harajuku, Book and Bed Tokyo Shinjuku y First Cabin Kyobashi.
-- Se sacaron datos que no se pudieron confirmar: la calle peatonal de los domingos en Akihabara, la escena de Lost in Translation en una sucursal puntual de Karaoke Kan, las canciones en castellano del karaoke y la opción vegana de Afuri (dato de dieta sin fuente).
+- En las cadenas se controló que la ubicación sea la del local de la ficha: Tonkatsu Maisen (el de Jingumae, en la vieja casa de baños), Sushizanmai (el principal, en Tsukiji) y Animate Ikebukuro (el principal) se corrigieron a mano.
+- Se sacaron datos que no se pudieron confirmar: la calle peatonal de los domingos en Akihabara, la escena de Lost in Translation en una sucursal puntual de Karaoke Kan, las canciones en castellano del karaoke y la opción vegana de Afuri (dato de dieta sin fuente). También los consejos sobre qué remedios se pueden entrar a Japón: son datos de salud y la web del Ministerio de Salud no se pudo leer.
 
 ## Dietas
 
@@ -75,8 +77,8 @@ De dónde sale cada dato de Tokio en la guía. Revisado el 19/11/2026.
 
 ## Hoy en Tokio
 
-- Torneos de sumo en enero, mayo y septiembre: sumo.or.jp.
-- Temporada de cerezos: gotokyo.org.
+- Torneos de sumo: calendario oficial de sumo.or.jp (2026 a 2028), leído el 20/11/2026. En el Kokugikan de Tokio son en enero, mayo y septiembre, de unas dos semanas cada uno.
+- Temporada de cerezos: la página de Ueno de gotokyo.org dice que en abril el parque es el centro de atención por los cerezos y que es común hacer picnic bajo los árboles.
 
 ## Apps
 

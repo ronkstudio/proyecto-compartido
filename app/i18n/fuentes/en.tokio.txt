@@ -348,613 +348,612 @@
 348|Type A plug adapter (two flat pins) and chargers that accept 100 V
 349|Book timed tickets in advance: Ghibli Museum, teamLab, Shibuya Sky and sumo
 350|Fill in Visit Japan Web, the official arrival registration
-351|If you travel with medicines, check beforehand what you can bring into Japan
-352|Socks without holes: in many places you take your shoes off
-353|Buy the Welcome Suica or add a Suica to your phone
-354|Get yen from a 7-Eleven or post office ATM
-355|Activate your eSIM or rent a pocket wifi
-356|Download the Safety tips app, with earthquake alerts
-357|Tokyo classics
-358|Temples and shrines
-359|Izakayas and yokocho
-360|Anime and video games
-361|Japanese gardens
-362|Cocktail bars
-363|Mount Fuji
-364|Asakusa, Ueno and Akihabara
-365|Shibuya and Harajuku
-366|Ginza and the Imperial Palace
-367|Roppongi and Odaiba
-368|Asakusa, Ueno, Ginza and the palace
-369|Shibuya, Harajuku and Shinjuku
-370|First days of January
-371|Hatsumode
-372|The first visit of the year to a temple or shrine: millions of people pass through Meiji Jingu and Senso-ji.
-373|January, May and September
-374|Sumo tournaments
-375|Tokyo's three sumo tournaments, about two weeks each, at Ryogoku Kokugikan.
-376|February and March
-377|Plum blossoms
-378|Plum trees bloom before the cherry trees, in gardens like Koishikawa Korakuen.
-379|Tokyo Marathon
-380|One of the world's great marathons, through the city centre.
-381|Late March and early April
-382|Cherry blossoms (hanami)
-383|The city fills with picnics under the cherry trees: Ueno, Shinjuku Gyoen, Nakameguro and the Sumida River.
-384|Sanja Matsuri
-385|Asakusa's big festival, with portable shrines carried on shoulders through the streets.
-386|Late July
-387|Sumida River fireworks
-388|One of Japan's most famous fireworks festivals, with people in yukata.
-389|Summer festivals
-390|Street dancing, food stalls and fireworks in many neighbourhoods, like Koenji's Awa Odori.
-391|Autumn leaves (koyo)
-392|Maples and ginkgos turn red and yellow: Rikugien, the ginkgo avenue at Jingu Gaien and Mount Takao.
-393|Winter illuminations
-394|Lights in Marunouchi, Roppongi, Shibuya and Ebisu all through December.
-395|At midnight, temples ring their bells 108 times. Many people go to a temple rather than out partying.
-396|Konbini
-397|7-Eleven, FamilyMart and Lawson convenience stores are on every corner and never close.
-398|What they have
-399|Tasty, cheap food (onigiri, sandwiches, ready meals to heat up), ATMs, toilets, wifi, printers and parcel shipping.
-400|Suica
-401|You can pay with Suica or PASMO.
-402|Eating in Japan
-403|Ticket machines
-404|In many ramen and fast-food places you order at a machine at the entrance: choose, pay and hand the ticket to the cook.
-405|Queues
-406|Queues are normal and respected. If there's a list at the door, put your name down.
-407|The bar nibble
-408|In izakayas you're served a starter you didn't order (otoshi) and it's charged: it's like a cover charge.
-409|No tipping. You pay at the till on your way out.
-410|Noise
-411|Slurping your noodles is fine: it shows you're enjoying them.
-412|Ambulance: 119. If you're not sure whether to go to hospital, Tokyo's #7119 will advise you (in Japanese). AMDA gives medical information in several languages.
-413|Drugstores sell everything; for prescription medicines, look for the pharmacy sign (薬局).
-414|Medicines
-415|Some medicines sold without prescription in other countries can't be brought into Japan: check the official website of Japan's Ministry of Health first.
-416|Highly recommended: without cover, medical care is expensive.
-417|Sumo tournament month at Ryogoku Kokugikan: check the official calendar to see if there are bouts today
-418|Cherry blossom season: picnics under the trees in Ueno Park (especially in early April)
-419|Tokyo's oldest Buddhist temple, with its five-storey pagoda, incense smoke and the avenue of stalls leading up to it.
-420|Go early or at night, when it's lit up and almost empty. Draw an omikuji, the paper fortune.
-421|The Thunder Gate, with its giant red lantern: the entrance to Senso-ji and Asakusa's classic photo.
-422|For a photo without people, very early.
-423|The world's most famous pedestrian crossing: when all the lights turn green, hundreds of people cross in every direction at once.
-424|To see it from above: Shibuya Sky or the windows of the stations and shops around it.
-425|The statue of the dog who waited for his master at the station for years: the meeting point of all Tokyo.
-426|It's at the station's Hachiko exit.
-427|Japan's tallest tower, with two sky-high observation decks and a shopping centre and aquarium below.
-428|Buy a timed ticket online. On clear days you can see Mount Fuji.
-429|The red-and-white tower inspired by the one in Paris, the city's symbol since the 1950s.
-430|The best photo is from Zojo-ji temple, with the tower behind it.
-431|The 1914 red-brick station, restored, facing the Marunouchi skyscrapers. Below it lies a city of shops and restaurants.
-432|The façade looks best from the square at the Marunouchi exit.
-433|The emperor's residence, surrounded by moats and stone walls, with Nijubashi bridge and the East Gardens open to the public.
-434|The East Gardens are free; they close on some days of the week, so check first.
-435|A life-size giant robot outside the DiverCity shopping centre, which transforms with lights at night.
-436|Combine it with sunset over the Rainbow Bridge.
-437|The great Shinto shrine dedicated to Emperor Meiji, in the middle of a dense forest a short walk from Harajuku.
-438|If you're lucky, you'll see a traditional wedding crossing the courtyard.
-439|A large Buddhist temple with Tokyo Tower behind it and rows of little stone statues in red caps.
-440|The wooden main gate is one of the oldest in the city.
-441|A quiet shrine with a tunnel of red torii and, in spring, a hill covered in azaleas.
-442|Combine it with a stroll around Yanaka.
-443|A brightly coloured shrine almost 1,300 years old, where Akihabara workers pray for luck for their computers.
-444|They sell charms featuring anime characters.
-445|A shrine in Akasaka with a staircase under a tunnel of red torii, among skyscrapers.
-446|There are escalators at the side if you don't want to climb.
-447|The temple of lucky cats (maneki-neko): thousands of little white cats with a raised paw.
-448|It's in a residential area; combine it with Shimokitazawa.
-449|A 17th-century golden shrine inside Ueno Park, with a path of stone lanterns.
-450|The courtyard and lanterns can be seen for free.
-451|Japan's oldest museum: samurai, kimonos, Buddhas, ceramics and woodblock prints.
-452|Two or three hours are enough for the highlights. Closed on Mondays.
-453|The European art museum in a Le Corbusier building that is a World Heritage Site, with Monet and Rodin.
-454|Rodin's Thinker is in the courtyard, free.
-455|A digital art museum you walk through barefoot: rooms with knee-deep water, moving flowers and infinite mirrors.
-456|Timed-entry ticket: buy it in advance. Wear shorts or trousers you can roll up.
-457|Borderless digital art: the works move from room to room and react when you touch them.
-458|Timed-entry ticket: buy it in advance.
-459|Contemporary art on the 53rd floor of a skyscraper, with changing exhibitions.
-460|The ticket usually includes the Tokyo City View observation deck.
-461|The museum of Hayao Miyazaki's studio, with the robot from Castle in the Sky on the roof and short films you can only see there.
-462|Only with a ticket bought in advance for a set day and time: they sell out fast. No photos inside.
-463|Japanese and Asian art in a Kengo Kuma building, with a Japanese garden of ponds and teahouses.
-464|The garden is the best part: allow plenty of time.
-465|The museum of Hokusai, creator of The Great Wave, in a modern silver building.
-466|It's near the Ryogoku sumo stadium.
-467|The National Museum of Emerging Science and Innovation, with robots, a giant globe and exhibits about the future.
-468|Great for kids and curious adults.
-469|An open-air terrace atop a skyscraper above the Shibuya crossing, with a view of the whole city.
-470|For sunset, buy your ticket well in advance.
-471|The Tokyo government building has a free observation deck on the 45th floor, with views of Shinjuku and, on clear days, Mount Fuji.
-472|Downstairs is one of the official tourist information offices.
-473|Roppongi Hills' observation deck, with Tokyo Tower right in front.
-474|At night the view of the lit-up tower is the best.
-475|The suspension bridge over the bay, lit up at night. You can cross it on foot on a walkway.
-476|Watch the sunset from Odaiba beach.
-477|One of Tokyo's loveliest gardens, with Japanese, English and French sections and hundreds of cherry trees.
-478|In cherry blossom season it's the best place for a picnic. Alcohol isn't allowed.
-479|The great park of museums, the zoo and a lotus pond; in spring, one of the most famous for cherry blossoms.
-480|In cherry blossom season it's packed with people picnicking under the trees.
-481|A garden of the old feudal lords by the bay, with a teahouse on the water and the skyscrapers behind.
-482|The boat to Asakusa leaves from here.
-483|An 18th-century strolling garden with hills, bridges and a pond. In autumn, the red maples are lit up at night.
-484|It's in Komagome, to the north: you get there on the Yamanote line.
-485|One of Tokyo's oldest gardens, with a full-moon bridge and maples, next to Tokyo Dome.
-486|Beautiful in autumn and with the plum blossoms of February.
-487|Harajuku's big park: on Sundays there are musicians, dancers and rockabilly groups.
-488|Combine it with Meiji Jingu, right next door.
-489|A pond garden with stepping stones across the water and turtles, in the café district of Kiyosumi-Shirakawa.
-490|Combine it with a coffee at Blue Bottle.
-491|The shopping street of old Tokyo: croquette stalls, sweets and cats everywhere.
-492|At sunset, the Yuyake Dandan steps have the best view.
-493|street food
-494|Harajuku's youth fashion street: crêpes, outlandish clothes, colourful sweets.
-495|At weekends you can barely walk: go on a weekday.
-496|The tree-lined avenue of the big brands, with buildings by famous architects.
-497|Look at the Prada, Tod's and Dior buildings: they're works of architecture.
-498|A neighbourhood with a canal lined with cherry trees, cafés and little shops.
-499|In cherry blossom season the canal is lit up at night.
-500|Tokyo's bohemian neighbourhood: second-hand clothes, records, small theatres and bars.
-501|Also stop by Reload and Bonus Track, two new spaces over the railway line.
-502|Electric Town: electronics, anime, manga and video game shops, and maid cafés.
-503|Go up to the upper floors: that's where the most specialised shops are.
-504|A calm, elegant neighbourhood, with design shops and a bookshop that is a building in itself.
-505|You can walk there from Shibuya or Nakameguro.
-506|A neighbourhood of cobbled lanes with hidden restaurants and a French air.
-507|Wandering down the side alleys is the best part.
-508|Pork (tonkotsu) ramen in individual booths: you order at a machine and mark on a slip how you want it.
-509|Ideal if you're travelling solo. There's usually a queue.
-510|Japanese food
-511|A tiny place famous for its tsukemen: thick noodles dipped in a rich chicken and fish broth.
-512|There's always a queue; it moves fast.
-513|Light chicken-broth ramen with yuzu, a Japanese citrus.
-514|Order the yuzu one, the house classic.
-515|Creamy chicken-broth ramen, almost a potage, in a Ginza alley.
-516|The queue forms before it opens.
-517|A corridor in the basement of Tokyo Station with eight famous ramen shops side by side.
-518|If you can't decide, go for the one with the longest queue.
-519|The fish market's most famous sushi, which moved from Tsukiji to Toyosu. The chef's menu is an experience.
-520|People queue from before dawn: go very early.
-521|A popular sushi chain, with its main branch at Tsukiji market, open long hours.
-522|A good first taste of Japanese sushi, no booking needed.
-523|One of Ginza's most prestigious sushi counters, with decades of history.
-524|Book ahead. Lunch is more affordable.
-525|Generous, fresh sushi at a good price, much loved by Tokyoites.
-526|Take a number at the machine by the entrance and go for a wander.
-527|Tempura and tonkatsu
-528|Japanese breaded pork cutlet (tonkatsu) in an old bathhouse turned restaurant.
-529|Try the kurobuta, black pork.
-530|Juicy breaded beef cutlet that you finish cooking yourself on a hot stone.
-531|There are several branches; the Shibuya one is the original.
-532|Prawn and vegetable tempura since 1924, in the heart of Shinjuku.
-533|Sit at the counter to watch them fry.
-534|Classic Asakusa tempura: tendon, a bowl of rice with fried prawns soaked in dark sauce.
-535|There's always a queue; it's worth it.
-536|Izakaya and yakitori
-537|A huge wooden izakaya that inspired the final fight in Kill Bill. Yakitori, soba and plenty of atmosphere.
-538|A covered passage full of tiny bars and food stalls where everyone shares tables.
-539|It fills up after work. Ideal for chatting with locals.
-540|Smoke Alley: tiny yakitori stalls under the train tracks, like postwar Tokyo.
-541|Some charge for sitting down; check the sign before going in.
-542|A maze of passages with tiny bars and stalls opposite Kichijoji station.
-543|Combine it with the Ghibli Museum and Inokashira Park.
-544|Soba and udon
-545|Handmade soba in a postwar wooden house.
-546|Order the cold soba with dipping sauce.
-547|One of Tokyo's most traditional soba houses, rebuilt after a fire.
-548|The waiters sing out the orders to the kitchen.
-549|Fresh, springy udon, famous for the one with butter, bacon and egg.
-550|Take a number and they'll let you know when it's your turn.
-551|Classic Asakusa soba, with a stronger sauce than elsewhere.
-552|It's a few steps from Kaminarimon.
-553|Traditional cuisine
-554|Wagyu sukiyaki since 1895: thin slices of beef cooked at the table in a sweet sauce.
-555|At lunchtime there are more affordable set menus.
-556|Charcoal-grilled eel (unagi) in a traditional house run by the same family for generations.
-557|Book ahead; the unagi rice bowl is the classic.
-558|A whole street of monjayaki places, a kind of soft pancake cooked on a griddle at your table.
-559|If you don't know how to make it, ask them to prepare it for you.
-560|A house dating from 1801 where you sit on tatami to eat a stew of small river fish in an iron pot.
-561|A step back in time, very Asakusa.
-562|Creative cuisine drawing on Japan's forests and countryside, on the list of the world's best restaurants.
-563|Creative Japanese cuisine with a sense of humour: the "Dentucky" fried chicken box is famous.
-564|Creative French cuisine with Japanese produce, on a high floor in Ginza.
-565|French haute cuisine with Japanese produce, among the most awarded in Asia, in a Marunouchi hotel.
-566|The outer market of the old fish market: stalls selling sushi, tamagoyaki, oysters and knives.
-567|Go in the morning: in the afternoon many stalls close. Some don't open on Sundays or Wednesdays.
-568|A street market under the train tracks, with fruit, fish, clothes and food stalls.
-569|At weekends it's heaving with people.
-570|Tokyo's wholesale fish market: from walkways you can watch the tuna auctions, and there are restaurants below.
-571|The auctions are before dawn. Closed on Sundays, public holidays and some Wednesdays.
-572|A food market next to Toyosu, imitating a street of old Edo, with seafood stalls and an onsen.
-573|Combine it with teamLab Planets.
-574|A 1948 kissaten that serves only coffee, some made with beans aged for decades.
-575|A trip back in time, dark and wood-panelled.
-576|A 1930s café in a wooden house in Yanaka, famous for its egg sandwich.
-577|Upstairs there are low tables on tatami.
-578|Japan's first Blue Bottle, in a high-ceilinged warehouse in the café district.
-579|Combine it with the Kiyosumi gardens.
-580|Speciality coffee in a little wooden house by the railway line, in Nakameguro.
-581|Drink it on the little bench outside, watching the trains go by.
-582|The Tokyo branch of a Norwegian café, with sixties furniture. At night it's a cocktail bar.
-583|It's in Tomigaya, a quiet neighbourhood near Yoyogi.
-584|One of Tokyo's most renowned roasters, with single-origin filter coffee.
-585|It's near Jimbocho, the second-hand bookshop district.
-586|Japanese sweets
-587|The house of yokan, a red bean sweet, supplier to the imperial family for centuries. It has a tearoom.
-588|Try a seasonal sweet with green tea.
-589|The most famous dorayaki shop: two fluffy pancakes filled with red bean paste.
-590|Eat them warm, the same day.
-591|The bakery that invented anpan, a bun filled with red bean paste, in the 19th century.
-592|Upstairs there's a café and restaurant.
-593|Modern Japanese sweets and tea in a minimalist tearoom.
-594|Ideal for an elegant break.
-595|Vegan ramen inside Tokyo Station, with spicy sesame tantanmen.
-596|It's inside the ticket gates: you need a ticket to get in.
-597|Creative vegan cooking, famous for its fluffy pancakes.
-598|For dessert, the pancakes.
-599|A cheap, homely vegan canteen with daily dishes and shelves of records.
-600|It's tucked away on a side street near Shibuya.
-601|Vegan ramen from a well-known Kyushu ramen chain.
-602|Combine it with a stroll around Harajuku.
-603|Falafel and vegan bowls to eat on the go.
-604|Good for a quick lunch.
-605|A world-famous Ginza bar: there's no menu, they ask what you like and make your drink.
-606|Dress smartly and take your time: it's an intimate bar.
-607|A tiny bar with herbs the bartender grows himself and grinds in a mortar in front of you.
-608|Few seats: go early.
-609|A two-storey cocktail bar with the feel of a 1920s club, one of the best in Asia.
-610|The upstairs floor is more relaxed.
-611|A wooden counter for eight with cocktail tasting menus of seasonal fruit.
-612|A dark, tiny bar in Ebisu specialising in absinthe and bitters.
-613|Ideal after Ebisu Yokocho.
-614|Six alleys with more than two hundred tiny bars, each with five or six seats.
-615|Many charge a cover: it's written on the door. Some are for regulars only.
-616|Drunkards' Alley: tiny bars with a few stools beside the Shibuya tracks.
-617|Say hello when you go in: the owner will introduce you to the others.
-618|An Asakusa street with tables outside, beef stew (nikomi) and hoppy, a barley drink for mixing.
-619|Ideal for the afternoon, after Senso-ji.
-620|Shinjuku's neon-lit district, with the Godzilla head and bars of every kind.
-621|Don't follow people inviting you into bars on the street: see Safety.
-622|neon
-623|Tokyo's best-known electronic music club, with a giant mirror ball.
-624|Bring your passport: they ask for it at the door.
-625|A huge club in the basement of Kabukicho's new tower.
-626|Bring your passport.
-627|A multi-floor hip hop and pop club, very popular with young Tokyoites.
-628|A club with city views in Roppongi, the district of international nightlife.
-629|Bring your passport. In Roppongi, beware of street touts.
-630|Jazz and live music
-631|The Tokyo branch of the New York jazz club, with international stars.
-632|Book your ticket online.
-633|Shinjuku's historic jazz club, with Japanese musicians every night.
-634|More authentic and affordable than the big names.
-635|A tiny bar with thousands of jazz, blues and soul records that the owner plays on vinyl.
-636|Request a song; he'll look for it among his records.
-637|Intimate concerts with dinner, in front of a huge window with the city as backdrop.
-638|Bar with a view
-639|A bar on the 52nd floor with a terrace and views of Tokyo Tower.
-640|A terrace and restaurant on top of a shopping centre, above Shibuya.
-641|Best at sunset.
-642|The Peninsula's 24th-floor bar, overlooking the Imperial Palace and Hibiya.
-643|Dress smartly.
-644|A bar and grill with a big terrace over Aoyama.
-645|The terrace is the best part on nice evenings.
-646|Beer and sake
-647|A craft beer bar with dozens of taps, near the sumo stadium.
-648|Combine it with the sumo or the Hokusai Museum.
-649|The brewery of the owl brand, in an old brick viaduct by the river.
-650|Near Akihabara.
-651|A Japanese craft beer bar in Shimokitazawa, with lots of taps.
-652|Ideal for ending the day in Shimokita.
-653|A Japanese craft beer bar in a Roppongi basement.
-654|Ask them to recommend a local beer.
-655|Tokyo Cruise boats sail down the river from Asakusa to the Hamarikyu gardens and Odaiba.
-656|Combine it: Senso-ji in the morning, boat and garden in the afternoon.
-657|Dinner on a traditional wooden boat with lanterns, along the river and the bay.
-658|Booked through agencies or the boat companies.
-659|A ride in a cart pulled by a guide who runs and tells you the neighbourhood's history.
-660|You'll find them in front of Kaminarimon.
-661|Tokyo's yellow sightseeing buses, with city tours and excursions.
-662|They leave from Tokyo Station, Marunouchi exit.
-663|A guide takes you through the alleys of Omoide Yokocho and Golden Gai, with food and drink.
-664|The easiest way into the tiny bars.
-665|A morning tour of Tsukiji market, tasting everything.
-666|Walking tours of Asakusa, Shinjuku or the centre, with guides who work for tips.
-667|Book on the company's website and leave a tip at the end.
-668|Guided visits to the morning practice at a sumo stable, watching in silence from the side.
-669|Must be booked through agencies. Respect the rules: no noise or flash.
-670|Experience
-671|Workshops to learn how to make sushi, ramen or gyoza with a chef.
-672|They're booked online; many are in English.
-673|A teahouse on the pond in the Hamarikyu gardens, where they serve you matcha tea with a sweet.
-674|Sit facing the water.
-675|They dress you in a kimono or yukata, and you go out to stroll and take photos around Asakusa.
-676|Book ahead. The shoes are uncomfortable: walk slowly.
-677|The shop for the plastic food you see in restaurant windows. There are workshops to make it.
-678|Book the workshop in advance.
-679|Temples and towns
-680|Golden shrines amid cedar forests, a World Heritage Site, and the Kegon waterfall.
-681|Train from Asakusa or Shinjuku. A full day.
-682|The old samurai capital, with the open-air Great Buddha, temples and a beach.
-683|Train from Tokyo. Combine it with Enoshima.
-684|"Little Edo": a street of merchant houses with black clay walls, a wooden clock tower and the sweets alley.
-685|Train from Ikebukuro.
-686|A large temple with a pagoda and gardens near Narita airport, with a street of grilled eel restaurants.
-687|Ideal if you have a few hours free before a flight from Narita.
-688|Hot springs, a lake with pirate ships, a cable car over a steaming volcano and views of Fuji.
-689|Ideal for spending a night in a ryokan with an onsen.
-690|mount fuji
-691|A mountain with trails, a temple and views of Fuji, an hour by train from Shinjuku.
-692|In autumn the maples turn red: go on a weekday.
-693|An island joined to the coast, with shrines, caves, a lighthouse lookout and seafood stalls.
-694|Combine it with Kamakura on the Enoden train.
-695|Mountains, clear rivers and caves at the far western end of Tokyo.
-696|Ideal for hiking and getting away from the city.
-697|The most visited lake at the foot of Fuji, with the mountain reflected in the water.
-698|Direct coaches from Shinjuku. Fuji is most visible in winter and early in the day.
-699|Japan's most famous photo: a red pagoda with Fuji behind it.
-700|It's almost 400 steps. In spring, with cherry blossoms.
-701|A little village with eight crystal-clear ponds of Fuji snowmelt.
-702|It gets crowded at midday.
-703|The fifth station, halfway up the mountain, where coaches arrive and from where people climb Fuji in summer.
-704|Climbing Fuji is only open in summer and has rules and quotas: check before you go.
-705|Parks and cities
-706|Japan's second city, with the port, the Minato Mirai Ferris wheel and the instant noodle museum.
-707|Half an hour by train from Shibuya.
-708|Japan's biggest Chinatown, with colourful temples and steamed bun stalls.
-709|Disney's park, with the classic characters and plenty that makes it uniquely Japanese.
-710|Buy your dated ticket on the official website: they sell out.
-711|Disney's sea-themed park, unique in the world, with a volcano and Venice.
-712|Buy your dated ticket on the official website.
-713|Hostel and capsule
-714|A design hostel in an old Kuramae warehouse, with a bar downstairs that fills with locals.
-715|Near Asakusa and the river.
-716|A modern, clean hostel with a café, steps from Shinjuku Gyoen.
-717|Well placed for Shinjuku's nightlife.
-718|A hostel with a good vibe and a shared kitchen, in Asakusa.
-719|Ideal for meeting other travellers.
-720|Hostel and hotel with beds and private rooms, near Akihabara.
-721|Well connected to several lines.
-722|A hostel where you sleep in capsules hidden behind a library.
-723|More for one quirky night than for a week.
-724|capsule
-725|Modern capsules with beds that fold up, and a shared terrace.
-726|In the centre of Shibuya.
-727|Spacious capsules, like first class on a plane, between Ginza and Tokyo Station.
-728|More space than a regular capsule.
-729|The hotel with Godzilla's head peering over the terrace.
-730|In the heart of Shinjuku's nightlife.
-731|A design hotel between Shibuya and Harajuku, with a lobby that's a meeting place.
-732|The lobby bar is worth a visit even if you're not staying.
-733|A hotel steps from Tokyo Station, with Japanese-style rooms.
-734|Ideal if you're catching bullet trains.
-735|A quiet hotel with a garden, near Tokyo Dome.
-736|Good value for money.
-737|A large hotel inside Sunshine City, with the aquarium and the Pokémon Center next door.
-738|Ryokan
-739|A family-run ryokan in Yanaka, with tatami rooms and wooden baths.
-740|They welcome you as if you were at home.
-741|A luxury ryokan in a central tower, with an onsen on the rooftop.
-742|A unique experience in the middle of the city.
-743|A simple, budget ryokan with tatami rooms, futons and a shared wooden bath.
-744|Good for a first ryokan experience without spending much.
-745|A ryokan just off Nakamise street, with a bath overlooking the pagoda.
-746|Ask for a Japanese-style room.
-747|A luxury hotel at the top of a skyscraper, with a huge lobby of stone and paper.
-748|The spa has one of the best pools in the city.
-749|A luxury hotel opposite the Imperial Palace, steps from Ginza.
-750|The top-floor bar has a spectacular view.
-751|Tokyo's classic hotel, rebuilt while keeping its famous 1960s lobby.
-752|Drop in to see the lobby even if you're not staying.
-753|A hotel on the top floors of Toranomon Hills, with views over the whole bay.
-754|The terrace bar is worth going to even if you're not staying.
-755|Tech and anime
-756|A whole building of electronics, cameras, toys and video games.
-757|Bring your passport: the tax is refunded when you leave the country.
-758|Retro video games over three floors: old consoles, cartridges and an arcade upstairs.
-759|The top floor has eighties games you can play.
-760|The biggest Pokémon store, with plush toys and items you can't get anywhere else.
-761|It gets packed at weekends.
-762|The world's biggest anime and manga store, over several floors.
-763|Ikebukuro is the anime district for girls.
-764|Nintendo's official store, with Mario, Zelda and Animal Crossing.
-765|There's a queue; the Pokémon Center Shibuya is on the same floor.
-766|Tokyo's most famous department store. Its food basement (depachika) is paradise.
-767|Go down to the basement to see the perfect sweets and fruit.
-768|One of Japan's oldest department stores, on Ginza's most famous corner.
-769|Go down to the food basement, one of the best in Ginza.
-770|A luxury shopping centre with a rooftop terrace and an art bookshop.
-771|The rooftop terrace is free.
-772|A chaos of aisles with everything: sweets, cosmetics, costumes and cheap souvenirs.
-773|For taking Japanese sweets home as gifts.
-774|A complex with shops, a rooftop aquarium, a planetarium and an observation deck.
-775|Design and gifts
-776|Tokyo's most famous stationery shop: twelve floors of paper, pens and notebooks.
-777|Upstairs there's a café with vegetables from its own indoor farm.
-778|The biggest Muji store, with food, clothes and a hotel upstairs.
-779|There are products sold only in Japan.
-780|The chefs' street: Japanese knives, tableware and plastic food.
-781|Knives can be engraved with your name.
-782|A bookshop made up of three connected buildings, with a café and magazines from all over the world.
-783|Five floors of toys and characters: Snoopy, Hello Kitty, Totoro and more.
-784|Kids go crazy for it.
-785|Streets and markets
-786|The avenue of stalls leading to Senso-ji, with sweets, fans and souvenirs.
-787|Try ningyo-yaki, little filled sponge cakes.
-788|A pedestrian street between Harajuku and Shibuya with streetwear and second-hand shops.
-789|Better than Takeshita for cool clothes.
-790|A shopping centre in the old central post office, with Japanese design shops and a terrace overlooking the station.
-791|The sixth-floor terrace is free.
-792|A corridor in Tokyo Station with character shops: Ghibli, Pokémon, Sanrio and more.
-793|Ideal for buying gifts before a train.
-794|Fashion
-795|The temple of young Japanese fashion, with dozens of tiny shops.
-796|It's a time capsule of gyaru fashion.
-797|A building of young, independent Japanese fashion on the corner of Harajuku.
-798|Check out the floors of local designers.
-799|Uniqlo's biggest store, on twelve floors, with clothes that don't reach other countries.
-800|Comme des Garçons' store, with designer brands over seven floors that feel like a gallery.
-801|Even if you don't buy anything, you walk round it like a museum.
-802|A Tadao Ando shopping centre with a spiral ramp and luxury shops.
-803|The inner ramp is worth seeing.
-804|Home of the Yomiuri Giants, Japan's most popular baseball team.
-805|A Japanese baseball game is a party: chanting fans and beer sellers.
-806|baseball
-807|The Yakult Swallows' open-air baseball stadium, with a grass field.
-808|Fans dance with little umbrellas when their team scores.
-809|The Tokyo 2020 Olympic stadium, by Kengo Kuma, with lots of wood.
-810|Check the schedule: there are football matches and concerts.
-811|The football stadium of FC Tokyo and Tokyo Verdy, from the Japanese league.
-812|Train from Shinjuku.
-813|Sumo and martial arts
-814|The sumo stadium. Tournaments are in January, May and September.
-815|Tickets are sold online and sell out. The first bouts of the day are calmer.
-816|A small museum inside the Kokugikan, with sumo history and the champions.
-817|During tournaments you can only get in with a stadium ticket.
-818|The home of judo, with a gallery for watching practice.
-819|Watch in silence and without flash photos.
-820|The martial arts arena, also famous for the Beatles' concerts.
-821|Check its schedule of tournaments and concerts.
-822|A loop of about five kilometres around the palace, the favourite circuit of Tokyo's runners.
-823|There are runner stations with showers nearby.
-824|A riverside park with the Skytree in the background and cherry trees.
-825|Ideal for a run or a stroll at sunset.
-826|An artificial beach with views of the Rainbow Bridge and the city. Swimming isn't allowed.
-827|For walking or cycling at sunset.
-828|A huge park with bike paths, gardens and fields of flowers.
-829|Rent a bike inside.
-830|Japan's oldest zoo, inside Ueno Park.
-831|Combine it with the science museum.
-832|Dinosaurs, robots and Japan's natural history.
-833|For kids, the dinosaur floor.
-834|An aquarium on the roof of a skyscraper, with penguins that seem to fly over the city.
-835|Check the animals' feeding times.
-836|A modern aquarium at the foot of the Skytree, with penguins and jellyfish.
-837|Combine it with the Skytree.
-838|A museum of miniature models, with cities, airports and anime worlds.
-839|There are buttons to make the models move.
-840|An indoor Lego park for young kids.
-841|Adults can only enter with children.
-842|A spa with real hot-spring water in Tokyo Dome City, with baths, saunas and relaxation rooms.
-843|The rules: you go in naked, shower first, and tattoos aren't always allowed.
-844|A big onsen in the heart of Kabukicho, with hot-spring water brought from Izu.
-845|Ideal after a day of walking.
-846|A neighbourhood public bath (sento) with an open-air rooftop bath and a view of the Skytree.
-847|Bring a towel or rent one there.
-848|An onsen with baths overlooking the bay, inside the Toyosu food market.
-849|Shows and games
-850|The kabuki theatre, with made-up actors and spectacular costumes.
-851|If you don't want the whole play, there are single-act tickets (makumi).
-852|The musical theatre where all the roles are played by women, with fantasy costumes.
-853|Tickets sell out quickly.
-854|A karaoke chain with private rooms by the hour, in the centre of Shibuya.
-855|There are plenty of songs in English.
-856|An indoor park of virtual reality games and attractions.
-857|Several floors of games: claw machines, rhythm and fighting games.
-858|Try the photo booths (purikura).
-859|An amusement park in the middle of the city, with a roller coaster that runs through a building.
-860|Combine it with Spa LaQua.
-861|Everything you need to explore the city
-862|Day 1 · morning
-863|Day 1 · midday
-864|Day 1 · afternoon
-865|Day 1 · evening
-866|Day 2 · morning
-867|Day 2 · midday
-868|Day 2 · afternoon
-869|Day 2 · evening
-870|Day 3 · morning
-871|Day 3 · afternoon
-872|Day 3 · sunset
-873|Day 3 · evening
-874|Rainy day
-875|The best without paying for tickets.
-876|A day designed for kids.
-877|Circular
-878|With your bank card
-879|Changing lines
-880|On foot and by bike
-881|Bikes
-882|Police
-883|ATMs
-884|Summer
-885|Winter
-886|Official airport website
-887|Official metro website
-888|Metro lines
-889|Hello
-890|Thank you very much
-891|Where is…?
-892|I don't understand
-893|I need a doctor
-894|Tourist information
-895|Embassies and consulates
-896|Argentina · Embassy (consular section)
-897|Passports, paperwork and help if your documents are stolen.
-898|Chile · Embassy (consular section)
-899|Paperwork and consular help.
-900|Peru · Consulate General
-901|Find embassies and consulates on the map.
-902|Public toilet
-903|3 viewpoints
-904|Valid passport and a copy on your phone
-905|Viewpoints
-906|Day trips
-907|May
-908|31 December
-909|New Year's Eve
-910|What they are
-911|Emergencies
-912|The guide only includes places with a lasting reputation: official distinctions, recognised guides and good consensus in public reviews.
-913|Book well in advance.
-914|chef's cuisine
+351|Socks without holes: in many places you take your shoes off
+352|Buy the Welcome Suica or add a Suica to your phone
+353|Get yen from a 7-Eleven or post office ATM
+354|Activate your eSIM or rent a pocket wifi
+355|Download the Safety tips app, with earthquake alerts
+356|Tokyo classics
+357|Temples and shrines
+358|Izakayas and yokocho
+359|Anime and video games
+360|Japanese gardens
+361|Cocktail bars
+362|Mount Fuji
+363|Asakusa, Ueno and Akihabara
+364|Shibuya and Harajuku
+365|Ginza and the Imperial Palace
+366|Roppongi and Odaiba
+367|Asakusa, Ueno, Ginza and the palace
+368|Shibuya, Harajuku and Shinjuku
+369|First days of January
+370|Hatsumode
+371|The first visit of the year to a temple or shrine: millions of people pass through Meiji Jingu and Senso-ji.
+372|January, May and September
+373|Sumo tournaments
+374|Tokyo's three sumo tournaments, about two weeks each, at Ryogoku Kokugikan.
+375|February and March
+376|Plum blossoms
+377|Plum trees bloom before the cherry trees, in gardens like Koishikawa Korakuen.
+378|Tokyo Marathon
+379|One of the world's great marathons, through the city centre.
+380|Late March and early April
+381|Cherry blossoms (hanami)
+382|The city fills with picnics under the cherry trees: Ueno, Shinjuku Gyoen, Nakameguro and the Sumida River.
+383|Sanja Matsuri
+384|Asakusa's big festival, with portable shrines carried on shoulders through the streets.
+385|Late July
+386|Sumida River fireworks
+387|One of Japan's most famous fireworks festivals, with people in yukata.
+388|Summer festivals
+389|Street dancing, food stalls and fireworks in many neighbourhoods, like Koenji's Awa Odori.
+390|Autumn leaves (koyo)
+391|Maples and ginkgos turn red and yellow: Rikugien, the ginkgo avenue at Jingu Gaien and Mount Takao.
+392|Winter illuminations
+393|Lights in Marunouchi, Roppongi, Shibuya and Ebisu all through December.
+394|At midnight, temples ring their bells 108 times. Many people go to a temple rather than out partying.
+395|Konbini
+396|7-Eleven, FamilyMart and Lawson convenience stores are on every corner and never close.
+397|What they have
+398|Tasty, cheap food (onigiri, sandwiches, ready meals to heat up), ATMs, toilets, wifi, printers and parcel shipping.
+399|Suica
+400|You can pay with Suica or PASMO.
+401|Eating in Japan
+402|Ticket machines
+403|In many ramen and fast-food places you order at a machine at the entrance: choose, pay and hand the ticket to the cook.
+404|Queues
+405|Queues are normal and respected. If there's a list at the door, put your name down.
+406|The bar nibble
+407|In izakayas you're served a starter you didn't order (otoshi) and it's charged: it's like a cover charge.
+408|No tipping. You pay at the till on your way out.
+409|Noise
+410|Slurping your noodles is fine: it shows you're enjoying them.
+411|Ambulance: 119. If you're not sure whether to go to hospital, Tokyo's #7119 will advise you (in Japanese). AMDA gives medical information in several languages.
+412|Drugstores sell everything; for prescription medicines, look for the pharmacy sign (薬局).
+413|Highly recommended: without cover, medical care is expensive.
+414|Sumo tournament month at Ryogoku Kokugikan: check the official calendar to see if there are bouts today
+415|Cherry blossom season: picnics under the trees in Ueno Park (especially in early April)
+416|Tokyo's oldest Buddhist temple, with its five-storey pagoda, incense smoke and the avenue of stalls leading up to it.
+417|Go early or at night, when it's lit up and almost empty. Draw an omikuji, the paper fortune.
+418|The Thunder Gate, with its giant red lantern: the entrance to Senso-ji and Asakusa's classic photo.
+419|For a photo without people, very early.
+420|The world's most famous pedestrian crossing: when all the lights turn green, hundreds of people cross in every direction at once.
+421|To see it from above: Shibuya Sky or the windows of the stations and shops around it.
+422|The statue of the dog who waited for his master at the station for years: the meeting point of all Tokyo.
+423|It's at the station's Hachiko exit.
+424|Japan's tallest tower, with two sky-high observation decks and a shopping centre and aquarium below.
+425|Buy a timed ticket online. On clear days you can see Mount Fuji.
+426|The red-and-white tower inspired by the one in Paris, the city's symbol since the 1950s.
+427|The best photo is from Zojo-ji temple, with the tower behind it.
+428|The 1914 red-brick station, restored, facing the Marunouchi skyscrapers. Below it lies a city of shops and restaurants.
+429|The façade looks best from the square at the Marunouchi exit.
+430|The emperor's residence, surrounded by moats and stone walls, with Nijubashi bridge and the East Gardens open to the public.
+431|The East Gardens are free; they close on some days of the week, so check first.
+432|A life-size giant robot outside the DiverCity shopping centre, which transforms with lights at night.
+433|Combine it with sunset over the Rainbow Bridge.
+434|The great Shinto shrine dedicated to Emperor Meiji, in the middle of a dense forest a short walk from Harajuku.
+435|If you're lucky, you'll see a traditional wedding crossing the courtyard.
+436|A large Buddhist temple with Tokyo Tower behind it and rows of little stone statues in red caps.
+437|The wooden main gate is one of the oldest in the city.
+438|A quiet shrine with a tunnel of red torii and, in spring, a hill covered in azaleas.
+439|Combine it with a stroll around Yanaka.
+440|A brightly coloured shrine almost 1,300 years old, where Akihabara workers pray for luck for their computers.
+441|They sell charms featuring anime characters.
+442|A shrine in Akasaka with a staircase under a tunnel of red torii, among skyscrapers.
+443|There are escalators at the side if you don't want to climb.
+444|The temple of lucky cats (maneki-neko): thousands of little white cats with a raised paw.
+445|It's in a residential area; combine it with Shimokitazawa.
+446|A 17th-century golden shrine inside Ueno Park, with a path of stone lanterns.
+447|The courtyard and lanterns can be seen for free.
+448|Japan's oldest museum: samurai, kimonos, Buddhas, ceramics and woodblock prints.
+449|Two or three hours are enough for the highlights. Closed on Mondays.
+450|The European art museum in a Le Corbusier building that is a World Heritage Site, with Monet and Rodin.
+451|Rodin's Thinker is in the courtyard, free.
+452|A digital art museum you walk through barefoot: rooms with knee-deep water, moving flowers and infinite mirrors.
+453|Timed-entry ticket: buy it in advance. Wear shorts or trousers you can roll up.
+454|Borderless digital art: the works move from room to room and react when you touch them.
+455|Timed-entry ticket: buy it in advance.
+456|Contemporary art on the 53rd floor of a skyscraper, with changing exhibitions.
+457|The ticket usually includes the Tokyo City View observation deck.
+458|The museum of Hayao Miyazaki's studio, with the robot from Castle in the Sky on the roof and short films you can only see there.
+459|Only with a ticket bought in advance for a set day and time: they sell out fast. No photos inside.
+460|Japanese and Asian art in a Kengo Kuma building, with a Japanese garden of ponds and teahouses.
+461|The garden is the best part: allow plenty of time.
+462|The museum of Hokusai, creator of The Great Wave, in a modern silver building.
+463|It's near the Ryogoku sumo stadium.
+464|The National Museum of Emerging Science and Innovation, with robots, a giant globe and exhibits about the future.
+465|Great for kids and curious adults.
+466|An open-air terrace atop a skyscraper above the Shibuya crossing, with a view of the whole city.
+467|For sunset, buy your ticket well in advance.
+468|The Tokyo government building has a free observation deck on the 45th floor, with views of Shinjuku and, on clear days, Mount Fuji.
+469|Downstairs is one of the official tourist information offices.
+470|Roppongi Hills' observation deck, with Tokyo Tower right in front.
+471|At night the view of the lit-up tower is the best.
+472|The suspension bridge over the bay, lit up at night. You can cross it on foot on a walkway.
+473|Watch the sunset from Odaiba beach.
+474|One of Tokyo's loveliest gardens, with Japanese, English and French sections and hundreds of cherry trees.
+475|In cherry blossom season it's the best place for a picnic. Alcohol isn't allowed.
+476|The great park of museums, the zoo and a lotus pond; in spring, one of the most famous for cherry blossoms.
+477|In cherry blossom season it's packed with people picnicking under the trees.
+478|A garden of the old feudal lords by the bay, with a teahouse on the water and the skyscrapers behind.
+479|The boat to Asakusa leaves from here.
+480|An 18th-century strolling garden with hills, bridges and a pond. In autumn, the red maples are lit up at night.
+481|It's in Komagome, to the north: you get there on the Yamanote line.
+482|One of Tokyo's oldest gardens, with a full-moon bridge and maples, next to Tokyo Dome.
+483|Beautiful in autumn and with the plum blossoms of February.
+484|Harajuku's big park: on Sundays there are musicians, dancers and rockabilly groups.
+485|Combine it with Meiji Jingu, right next door.
+486|A pond garden with stepping stones across the water and turtles, in the café district of Kiyosumi-Shirakawa.
+487|Combine it with a coffee at Blue Bottle.
+488|The shopping street of old Tokyo: croquette stalls, sweets and cats everywhere.
+489|At sunset, the Yuyake Dandan steps have the best view.
+490|street food
+491|Harajuku's youth fashion street: crêpes, outlandish clothes, colourful sweets.
+492|At weekends you can barely walk: go on a weekday.
+493|The tree-lined avenue of the big brands, with buildings by famous architects.
+494|Look at the Prada, Tod's and Dior buildings: they're works of architecture.
+495|A neighbourhood with a canal lined with cherry trees, cafés and little shops.
+496|In cherry blossom season the canal is lit up at night.
+497|Tokyo's bohemian neighbourhood: second-hand clothes, records, small theatres and bars.
+498|Also stop by Reload and Bonus Track, two new spaces over the railway line.
+499|Electric Town: electronics, anime, manga and video game shops, and maid cafés.
+500|Go up to the upper floors: that's where the most specialised shops are.
+501|A calm, elegant neighbourhood, with design shops and a bookshop that is a building in itself.
+502|You can walk there from Shibuya or Nakameguro.
+503|A neighbourhood of cobbled lanes with hidden restaurants and a French air.
+504|Wandering down the side alleys is the best part.
+505|Pork (tonkotsu) ramen in individual booths: you order at a machine and mark on a slip how you want it.
+506|Ideal if you're travelling solo. There's usually a queue.
+507|Japanese food
+508|A tiny place famous for its tsukemen: thick noodles dipped in a rich chicken and fish broth.
+509|There's always a queue; it moves fast.
+510|Light chicken-broth ramen with yuzu, a Japanese citrus.
+511|Order the yuzu one, the house classic.
+512|Creamy chicken-broth ramen, almost a potage, in a Ginza alley.
+513|The queue forms before it opens.
+514|A corridor in the basement of Tokyo Station with eight famous ramen shops side by side.
+515|If you can't decide, go for the one with the longest queue.
+516|The fish market's most famous sushi, which moved from Tsukiji to Toyosu. The chef's menu is an experience.
+517|People queue from before dawn: go very early.
+518|A popular sushi chain, with its main branch at Tsukiji market, open long hours.
+519|A good first taste of Japanese sushi, no booking needed.
+520|One of Ginza's most prestigious sushi counters, with decades of history.
+521|Book ahead. Lunch is more affordable.
+522|Generous, fresh sushi at a good price, much loved by Tokyoites.
+523|Take a number at the machine by the entrance and go for a wander.
+524|Tempura and tonkatsu
+525|Japanese breaded pork cutlet (tonkatsu) in an old bathhouse turned restaurant.
+526|Try the kurobuta, black pork.
+527|Juicy breaded beef cutlet that you finish cooking yourself on a hot stone.
+528|There are several branches; the Shibuya one is the original.
+529|Prawn and vegetable tempura since 1924, in the heart of Shinjuku.
+530|Sit at the counter to watch them fry.
+531|Classic Asakusa tempura: tendon, a bowl of rice with fried prawns soaked in dark sauce.
+532|There's always a queue; it's worth it.
+533|Izakaya and yakitori
+534|A huge wooden izakaya that inspired the final fight in Kill Bill. Yakitori, soba and plenty of atmosphere.
+535|A covered passage full of tiny bars and food stalls where everyone shares tables.
+536|It fills up after work. Ideal for chatting with locals.
+537|Smoke Alley: tiny yakitori stalls under the train tracks, like postwar Tokyo.
+538|Some charge for sitting down; check the sign before going in.
+539|A maze of passages with tiny bars and stalls opposite Kichijoji station.
+540|Combine it with the Ghibli Museum and Inokashira Park.
+541|Soba and udon
+542|Handmade soba in a postwar wooden house.
+543|Order the cold soba with dipping sauce.
+544|One of Tokyo's most traditional soba houses, rebuilt after a fire.
+545|The waiters sing out the orders to the kitchen.
+546|Fresh, springy udon, famous for the one with butter, bacon and egg.
+547|Take a number and they'll let you know when it's your turn.
+548|Classic Asakusa soba, with a stronger sauce than elsewhere.
+549|It's a few steps from Kaminarimon.
+550|Traditional cuisine
+551|Wagyu sukiyaki since 1895: thin slices of beef cooked at the table in a sweet sauce.
+552|At lunchtime there are more affordable set menus.
+553|Charcoal-grilled eel (unagi) in a traditional house run by the same family for generations.
+554|Book ahead; the unagi rice bowl is the classic.
+555|A whole street of monjayaki places, a kind of soft pancake cooked on a griddle at your table.
+556|If you don't know how to make it, ask them to prepare it for you.
+557|A house dating from 1801 where you sit on tatami to eat a stew of small river fish in an iron pot.
+558|A step back in time, very Asakusa.
+559|Creative cuisine drawing on Japan's forests and countryside, on the list of the world's best restaurants.
+560|Creative Japanese cuisine with a sense of humour: the "Dentucky" fried chicken box is famous.
+561|Creative French cuisine with Japanese produce, on a high floor in Ginza.
+562|French haute cuisine with Japanese produce, among the most awarded in Asia, in a Marunouchi hotel.
+563|The outer market of the old fish market: stalls selling sushi, tamagoyaki, oysters and knives.
+564|Go in the morning: in the afternoon many stalls close. Some don't open on Sundays or Wednesdays.
+565|A street market under the train tracks, with fruit, fish, clothes and food stalls.
+566|At weekends it's heaving with people.
+567|Tokyo's wholesale fish market: from walkways you can watch the tuna auctions, and there are restaurants below.
+568|The auctions are before dawn. Closed on Sundays, public holidays and some Wednesdays.
+569|A food market next to Toyosu, imitating a street of old Edo, with seafood stalls and an onsen.
+570|Combine it with teamLab Planets.
+571|A 1948 kissaten that serves only coffee, some made with beans aged for decades.
+572|A trip back in time, dark and wood-panelled.
+573|A 1930s café in a wooden house in Yanaka, famous for its egg sandwich.
+574|Upstairs there are low tables on tatami.
+575|Japan's first Blue Bottle, in a high-ceilinged warehouse in the café district.
+576|Combine it with the Kiyosumi gardens.
+577|Speciality coffee in a little wooden house by the railway line, in Nakameguro.
+578|Drink it on the little bench outside, watching the trains go by.
+579|The Tokyo branch of a Norwegian café, with sixties furniture. At night it's a cocktail bar.
+580|It's in Tomigaya, a quiet neighbourhood near Yoyogi.
+581|One of Tokyo's most renowned roasters, with single-origin filter coffee.
+582|It's near Jimbocho, the second-hand bookshop district.
+583|Japanese sweets
+584|The house of yokan, a red bean sweet, supplier to the imperial family for centuries. It has a tearoom.
+585|Try a seasonal sweet with green tea.
+586|The most famous dorayaki shop: two fluffy pancakes filled with red bean paste.
+587|Eat them warm, the same day.
+588|The bakery that invented anpan, a bun filled with red bean paste, in the 19th century.
+589|Upstairs there's a café and restaurant.
+590|Modern Japanese sweets and tea in a minimalist tearoom.
+591|Ideal for an elegant break.
+592|Vegan ramen inside Tokyo Station, with spicy sesame tantanmen.
+593|It's inside the ticket gates: you need a ticket to get in.
+594|Creative vegan cooking, famous for its fluffy pancakes.
+595|For dessert, the pancakes.
+596|A cheap, homely vegan canteen with daily dishes and shelves of records.
+597|It's tucked away on a side street near Shibuya.
+598|Vegan ramen from a well-known Kyushu ramen chain.
+599|Combine it with a stroll around Harajuku.
+600|Falafel and vegan bowls to eat on the go.
+601|Good for a quick lunch.
+602|A world-famous Ginza bar: there's no menu, they ask what you like and make your drink.
+603|Dress smartly and take your time: it's an intimate bar.
+604|A tiny bar with herbs the bartender grows himself and grinds in a mortar in front of you.
+605|Few seats: go early.
+606|A two-storey cocktail bar with the feel of a 1920s club, one of the best in Asia.
+607|The upstairs floor is more relaxed.
+608|A wooden counter for eight with cocktail tasting menus of seasonal fruit.
+609|A dark, tiny bar in Ebisu specialising in absinthe and bitters.
+610|Ideal after Ebisu Yokocho.
+611|Six alleys with more than two hundred tiny bars, each with five or six seats.
+612|Many charge a cover: it's written on the door. Some are for regulars only.
+613|Drunkards' Alley: tiny bars with a few stools beside the Shibuya tracks.
+614|Say hello when you go in: the owner will introduce you to the others.
+615|An Asakusa street with tables outside, beef stew (nikomi) and hoppy, a barley drink for mixing.
+616|Ideal for the afternoon, after Senso-ji.
+617|Shinjuku's neon-lit district, with the Godzilla head and bars of every kind.
+618|Don't follow people inviting you into bars on the street: see Safety.
+619|neon
+620|Tokyo's best-known electronic music club, with a giant mirror ball.
+621|Bring your passport: they ask for it at the door.
+622|A huge club in the basement of Kabukicho's new tower.
+623|Bring your passport.
+624|A multi-floor hip hop and pop club, very popular with young Tokyoites.
+625|A club with city views in Roppongi, the district of international nightlife.
+626|Bring your passport. In Roppongi, beware of street touts.
+627|Jazz and live music
+628|The Tokyo branch of the New York jazz club, with international stars.
+629|Book your ticket online.
+630|Shinjuku's historic jazz club, with Japanese musicians every night.
+631|More authentic and affordable than the big names.
+632|A tiny bar with thousands of jazz, blues and soul records that the owner plays on vinyl.
+633|Request a song; he'll look for it among his records.
+634|Intimate concerts with dinner, in front of a huge window with the city as backdrop.
+635|Bar with a view
+636|A bar on the 52nd floor with a terrace and views of Tokyo Tower.
+637|A terrace and restaurant on top of a shopping centre, above Shibuya.
+638|Best at sunset.
+639|The Peninsula's 24th-floor bar, overlooking the Imperial Palace and Hibiya.
+640|Dress smartly.
+641|A bar and grill with a big terrace over Aoyama.
+642|The terrace is the best part on nice evenings.
+643|Beer and sake
+644|A craft beer bar with dozens of taps, near the sumo stadium.
+645|Combine it with the sumo or the Hokusai Museum.
+646|The brewery of the owl brand, in an old brick viaduct by the river.
+647|Near Akihabara.
+648|A Japanese craft beer bar in Shimokitazawa, with lots of taps.
+649|Ideal for ending the day in Shimokita.
+650|A Japanese craft beer bar in a Roppongi basement.
+651|Ask them to recommend a local beer.
+652|Tokyo Cruise boats sail down the river from Asakusa to the Hamarikyu gardens and Odaiba.
+653|Combine it: Senso-ji in the morning, boat and garden in the afternoon.
+654|Dinner on a traditional wooden boat with lanterns, along the river and the bay.
+655|Booked through agencies or the boat companies.
+656|A ride in a cart pulled by a guide who runs and tells you the neighbourhood's history.
+657|You'll find them in front of Kaminarimon.
+658|Tokyo's yellow sightseeing buses, with city tours and excursions.
+659|They leave from Tokyo Station, Marunouchi exit.
+660|A guide takes you through the alleys of Omoide Yokocho and Golden Gai, with food and drink.
+661|The easiest way into the tiny bars.
+662|A morning tour of Tsukiji market, tasting everything.
+663|Walking tours of Asakusa, Shinjuku or the centre, with guides who work for tips.
+664|Book on the company's website and leave a tip at the end.
+665|Guided visits to the morning practice at a sumo stable, watching in silence from the side.
+666|Must be booked through agencies. Respect the rules: no noise or flash.
+667|Experience
+668|Workshops to learn how to make sushi, ramen or gyoza with a chef.
+669|They're booked online; many are in English.
+670|A teahouse on the pond in the Hamarikyu gardens, where they serve you matcha tea with a sweet.
+671|Sit facing the water.
+672|They dress you in a kimono or yukata, and you go out to stroll and take photos around Asakusa.
+673|Book ahead. The shoes are uncomfortable: walk slowly.
+674|The shop for the plastic food you see in restaurant windows. There are workshops to make it.
+675|Book the workshop in advance.
+676|Temples and towns
+677|Golden shrines amid cedar forests, a World Heritage Site, and the Kegon waterfall.
+678|Train from Asakusa or Shinjuku. A full day.
+679|The old samurai capital, with the open-air Great Buddha, temples and a beach.
+680|Train from Tokyo. Combine it with Enoshima.
+681|"Little Edo": a street of merchant houses with black clay walls, a wooden clock tower and the sweets alley.
+682|Train from Ikebukuro.
+683|A large temple with a pagoda and gardens near Narita airport, with a street of grilled eel restaurants.
+684|Ideal if you have a few hours free before a flight from Narita.
+685|Hot springs, a lake with pirate ships, a cable car over a steaming volcano and views of Fuji.
+686|Ideal for spending a night in a ryokan with an onsen.
+687|mount fuji
+688|A mountain with trails, a temple and views of Fuji, an hour by train from Shinjuku.
+689|In autumn the maples turn red: go on a weekday.
+690|An island joined to the coast, with shrines, caves, a lighthouse lookout and seafood stalls.
+691|Combine it with Kamakura on the Enoden train.
+692|Mountains, clear rivers and caves at the far western end of Tokyo.
+693|Ideal for hiking and getting away from the city.
+694|The most visited lake at the foot of Fuji, with the mountain reflected in the water.
+695|Direct coaches from Shinjuku. Fuji is most visible in winter and early in the day.
+696|Japan's most famous photo: a red pagoda with Fuji behind it.
+697|It's almost 400 steps. In spring, with cherry blossoms.
+698|A little village with eight crystal-clear ponds of Fuji snowmelt.
+699|It gets crowded at midday.
+700|The fifth station, halfway up the mountain, where coaches arrive and from where people climb Fuji in summer.
+701|Climbing Fuji is only open in summer and has rules and quotas: check before you go.
+702|Parks and cities
+703|Japan's second city, with the port, the Minato Mirai Ferris wheel and the instant noodle museum.
+704|Half an hour by train from Shibuya.
+705|Japan's biggest Chinatown, with colourful temples and steamed bun stalls.
+706|Disney's park, with the classic characters and plenty that makes it uniquely Japanese.
+707|Buy your dated ticket on the official website: they sell out.
+708|Disney's sea-themed park, unique in the world, with a volcano and Venice.
+709|Buy your dated ticket on the official website.
+710|Hostel and capsule
+711|A design hostel in an old Kuramae warehouse, with a bar downstairs that fills with locals.
+712|Near Asakusa and the river.
+713|A modern, clean hostel with a café, steps from Shinjuku Gyoen.
+714|Well placed for Shinjuku's nightlife.
+715|A hostel with a good vibe and a shared kitchen, in Asakusa.
+716|Ideal for meeting other travellers.
+717|Hostel and hotel with beds and private rooms, near Akihabara.
+718|Well connected to several lines.
+719|A hostel where you sleep in capsules hidden behind a library.
+720|More for one quirky night than for a week.
+721|capsule
+722|Modern capsules with beds that fold up, and a shared terrace.
+723|In the centre of Shibuya.
+724|Spacious capsules, like first class on a plane, between Ginza and Tokyo Station.
+725|More space than a regular capsule.
+726|The hotel with Godzilla's head peering over the terrace.
+727|In the heart of Shinjuku's nightlife.
+728|A design hotel between Shibuya and Harajuku, with a lobby that's a meeting place.
+729|The lobby bar is worth a visit even if you're not staying.
+730|A hotel steps from Tokyo Station, with Japanese-style rooms.
+731|Ideal if you're catching bullet trains.
+732|A quiet hotel with a garden, near Tokyo Dome.
+733|Good value for money.
+734|A large hotel inside Sunshine City, with the aquarium and the Pokémon Center next door.
+735|Ryokan
+736|A family-run ryokan in Yanaka, with tatami rooms and wooden baths.
+737|They welcome you as if you were at home.
+738|A luxury ryokan in a central tower, with an onsen on the rooftop.
+739|A unique experience in the middle of the city.
+740|A simple, budget ryokan with tatami rooms, futons and a shared wooden bath.
+741|Good for a first ryokan experience without spending much.
+742|A ryokan just off Nakamise street, with a bath overlooking the pagoda.
+743|Ask for a Japanese-style room.
+744|A luxury hotel at the top of a skyscraper, with a huge lobby of stone and paper.
+745|The spa has one of the best pools in the city.
+746|A luxury hotel opposite the Imperial Palace, steps from Ginza.
+747|The top-floor bar has a spectacular view.
+748|Tokyo's classic hotel, rebuilt while keeping its famous 1960s lobby.
+749|Drop in to see the lobby even if you're not staying.
+750|A hotel on the top floors of Toranomon Hills, with views over the whole bay.
+751|The terrace bar is worth going to even if you're not staying.
+752|Tech and anime
+753|A whole building of electronics, cameras, toys and video games.
+754|Bring your passport: the tax is refunded when you leave the country.
+755|Retro video games over three floors: old consoles, cartridges and an arcade upstairs.
+756|The top floor has eighties games you can play.
+757|The biggest Pokémon store, with plush toys and items you can't get anywhere else.
+758|It gets packed at weekends.
+759|The world's biggest anime and manga store, over several floors.
+760|Ikebukuro is the anime district for girls.
+761|Nintendo's official store, with Mario, Zelda and Animal Crossing.
+762|There's a queue; the Pokémon Center Shibuya is on the same floor.
+763|Tokyo's most famous department store. Its food basement (depachika) is paradise.
+764|Go down to the basement to see the perfect sweets and fruit.
+765|One of Japan's oldest department stores, on Ginza's most famous corner.
+766|Go down to the food basement, one of the best in Ginza.
+767|A luxury shopping centre with a rooftop terrace and an art bookshop.
+768|The rooftop terrace is free.
+769|A chaos of aisles with everything: sweets, cosmetics, costumes and cheap souvenirs.
+770|For taking Japanese sweets home as gifts.
+771|A complex with shops, a rooftop aquarium, a planetarium and an observation deck.
+772|Design and gifts
+773|Tokyo's most famous stationery shop: twelve floors of paper, pens and notebooks.
+774|Upstairs there's a café with vegetables from its own indoor farm.
+775|The biggest Muji store, with food, clothes and a hotel upstairs.
+776|There are products sold only in Japan.
+777|The chefs' street: Japanese knives, tableware and plastic food.
+778|Knives can be engraved with your name.
+779|A bookshop made up of three connected buildings, with a café and magazines from all over the world.
+780|Five floors of toys and characters: Snoopy, Hello Kitty, Totoro and more.
+781|Kids go crazy for it.
+782|Streets and markets
+783|The avenue of stalls leading to Senso-ji, with sweets, fans and souvenirs.
+784|Try ningyo-yaki, little filled sponge cakes.
+785|A pedestrian street between Harajuku and Shibuya with streetwear and second-hand shops.
+786|Better than Takeshita for cool clothes.
+787|A shopping centre in the old central post office, with Japanese design shops and a terrace overlooking the station.
+788|The sixth-floor terrace is free.
+789|A corridor in Tokyo Station with character shops: Ghibli, Pokémon, Sanrio and more.
+790|Ideal for buying gifts before a train.
+791|Fashion
+792|The temple of young Japanese fashion, with dozens of tiny shops.
+793|It's a time capsule of gyaru fashion.
+794|A building of young, independent Japanese fashion on the corner of Harajuku.
+795|Check out the floors of local designers.
+796|Uniqlo's biggest store, on twelve floors, with clothes that don't reach other countries.
+797|Comme des Garçons' store, with designer brands over seven floors that feel like a gallery.
+798|Even if you don't buy anything, you walk round it like a museum.
+799|A Tadao Ando shopping centre with a spiral ramp and luxury shops.
+800|The inner ramp is worth seeing.
+801|Home of the Yomiuri Giants, Japan's most popular baseball team.
+802|A Japanese baseball game is a party: chanting fans and beer sellers.
+803|baseball
+804|The Yakult Swallows' open-air baseball stadium, with a grass field.
+805|Fans dance with little umbrellas when their team scores.
+806|The Tokyo 2020 Olympic stadium, by Kengo Kuma, with lots of wood.
+807|Check the schedule: there are football matches and concerts.
+808|The football stadium of FC Tokyo and Tokyo Verdy, from the Japanese league.
+809|Train from Shinjuku.
+810|Sumo and martial arts
+811|The sumo stadium. Tournaments are in January, May and September.
+812|Tickets are sold online and sell out. The first bouts of the day are calmer.
+813|A small museum inside the Kokugikan, with sumo history and the champions.
+814|During tournaments you can only get in with a stadium ticket.
+815|The home of judo, with a gallery for watching practice.
+816|Watch in silence and without flash photos.
+817|The martial arts arena, also famous for the Beatles' concerts.
+818|Check its schedule of tournaments and concerts.
+819|A loop of about five kilometres around the palace, the favourite circuit of Tokyo's runners.
+820|There are runner stations with showers nearby.
+821|A riverside park with the Skytree in the background and cherry trees.
+822|Ideal for a run or a stroll at sunset.
+823|An artificial beach with views of the Rainbow Bridge and the city. Swimming isn't allowed.
+824|For walking or cycling at sunset.
+825|A huge park with bike paths, gardens and fields of flowers.
+826|Rent a bike inside.
+827|Japan's oldest zoo, inside Ueno Park.
+828|Combine it with the science museum.
+829|Dinosaurs, robots and Japan's natural history.
+830|For kids, the dinosaur floor.
+831|An aquarium on the roof of a skyscraper, with penguins that seem to fly over the city.
+832|Check the animals' feeding times.
+833|A modern aquarium at the foot of the Skytree, with penguins and jellyfish.
+834|Combine it with the Skytree.
+835|A museum of miniature models, with cities, airports and anime worlds.
+836|There are buttons to make the models move.
+837|An indoor Lego park for young kids.
+838|Adults can only enter with children.
+839|A spa with real hot-spring water in Tokyo Dome City, with baths, saunas and relaxation rooms.
+840|The rules: you go in naked, shower first, and tattoos aren't always allowed.
+841|A big onsen in the heart of Kabukicho, with hot-spring water brought from Izu.
+842|Ideal after a day of walking.
+843|A neighbourhood public bath (sento) with an open-air rooftop bath and a view of the Skytree.
+844|Bring a towel or rent one there.
+845|An onsen with baths overlooking the bay, inside the Toyosu food market.
+846|Shows and games
+847|The kabuki theatre, with made-up actors and spectacular costumes.
+848|If you don't want the whole play, there are single-act tickets (makumi).
+849|The musical theatre where all the roles are played by women, with fantasy costumes.
+850|Tickets sell out quickly.
+851|A karaoke chain with private rooms by the hour, in the centre of Shibuya.
+852|There are plenty of songs in English.
+853|An indoor park of virtual reality games and attractions.
+854|Several floors of games: claw machines, rhythm and fighting games.
+855|Try the photo booths (purikura).
+856|An amusement park in the middle of the city, with a roller coaster that runs through a building.
+857|Combine it with Spa LaQua.
+858|Everything you need to explore the city
+859|Day 1 · morning
+860|Day 1 · midday
+861|Day 1 · afternoon
+862|Day 1 · evening
+863|Day 2 · morning
+864|Day 2 · midday
+865|Day 2 · afternoon
+866|Day 2 · evening
+867|Day 3 · morning
+868|Day 3 · afternoon
+869|Day 3 · sunset
+870|Day 3 · evening
+871|Rainy day
+872|The best without paying for tickets.
+873|A day designed for kids.
+874|Circular
+875|With your bank card
+876|Changing lines
+877|On foot and by bike
+878|Bikes
+879|Police
+880|ATMs
+881|Summer
+882|Winter
+883|Official airport website
+884|Official metro website
+885|Metro lines
+886|Hello
+887|Thank you very much
+888|Where is…?
+889|I don't understand
+890|I need a doctor
+891|Tourist information
+892|Embassies and consulates
+893|Argentina · Embassy (consular section)
+894|Passports, paperwork and help if your documents are stolen.
+895|Chile · Embassy (consular section)
+896|Paperwork and consular help.
+897|Peru · Consulate General
+898|Find embassies and consulates on the map.
+899|Public toilet
+900|3 viewpoints
+901|Valid passport and a copy on your phone
+902|Viewpoints
+903|Day trips
+904|May
+905|31 December
+906|New Year's Eve
+907|What they are
+908|Emergencies
+909|The guide only includes places with a lasting reputation: official distinctions, recognised guides and good consensus in public reviews.
+910|Book well in advance.
+911|chef's cuisine
+912|Book ahead.
+913|Café
+914|Cocktail bar
 915|Book ahead.
-916|Café
-917|Cocktail bar
-918|Book ahead.
-919|electronic
-920|Ideal at sunset.
-921|Outings
-922|Go hungry.
-923|Ideal with kids.
-924|technology
-925|Department stores
-926|Ideal for a quiet afternoon.
-927|Outdoors
-928|Ideal for a rainy day.
-929|Uruguay · Embassy
-930|Kimono rental in Asakusa
-931|Dinner on a yakatabune boat
-932|Japanese cooking class
-933|Sumida River cruise
-934|Rickshaw ride around Asakusa
-935|Sumo morning practice
-936|Shinjuku bar tour
-937|Tsukiji food tour
-938|Imperial Palace running loop
-939|Imperial Palace
-940|Lake Kawaguchi
-941|Mount Takao
-942|Yokocho and nightlife
-943|Keisei Ueno Station, Taito
-944|Shibuya Station, Shibuya
-945|Tokyo Station, Yaesu exit, Chiyoda
-946|Tokyo Station, Chiyoda
-947|Toyosu Market, Koto
-948|Asakusa pier, Taito
-949|Tochigi Prefecture
-950|Kanagawa Prefecture
-951|Saitama Prefecture
-952|Narita, Chiba Prefecture
-953|Fujisawa, Kanagawa Prefecture
-954|Fujikawaguchiko, Yamanashi Prefecture
-955|Fujiyoshida, Yamanashi Prefecture
-956|Oshino, Yamanashi Prefecture
-957|Narusawa, Yamanashi Prefecture
-958|Urayasu, Chiba Prefecture
-959|Tokyo
-960|Japan
+916|electronic
+917|Ideal at sunset.
+918|Outings
+919|Go hungry.
+920|Ideal with kids.
+921|technology
+922|Department stores
+923|Ideal for a quiet afternoon.
+924|Outdoors
+925|Ideal for a rainy day.
+926|Uruguay · Embassy
+927|Kimono rental in Asakusa
+928|Dinner on a yakatabune boat
+929|Japanese cooking class
+930|Sumida River cruise
+931|Rickshaw ride around Asakusa
+932|Sumo morning practice
+933|Shinjuku bar tour
+934|Tsukiji food tour
+935|Imperial Palace running loop
+936|Imperial Palace
+937|Lake Kawaguchi
+938|Mount Takao
+939|Yokocho and nightlife
+940|Keisei Ueno Station, Taito
+941|Shibuya Station, Shibuya
+942|Tokyo Station, Yaesu exit, Chiyoda
+943|Tokyo Station, Chiyoda
+944|Toyosu Market, Koto
+945|Asakusa pier, Taito
+946|Tochigi Prefecture
+947|Kanagawa Prefecture
+948|Saitama Prefecture
+949|Narita, Chiba Prefecture
+950|Fujisawa, Kanagawa Prefecture
+951|Fujikawaguchiko, Yamanashi Prefecture
+952|Fujiyoshida, Yamanashi Prefecture
+953|Oshino, Yamanashi Prefecture
+954|Narusawa, Yamanashi Prefecture
+955|Urayasu, Chiba Prefecture
+956|Tokyo
+957|Japan
+958|Hachiko exit, Shibuya
+959|100% vegan, vegetarian place

@@ -162,7 +162,7 @@ window.CITY_DATA.tokio = {
     { n: "110", t: "Policía" },
     { n: "119", t: "Ambulancia y bomberos" },
     { n: "050-3816-2787", t: "Japan Visitor Hotline: ayuda para turistas en inglés, chino y coreano, todo el día" },
-    { n: "#7119", t: "Consulta de emergencias médicas de Tokio: si no sabés si ir al hospital (en japonés)" },
+    { n: "03-3212-2323", t: "Consulta de emergencias médicas de Tokio: si no sabés si ir al hospital (en japonés)" },
     { n: "03-3503-8484", t: "Policía: información general en inglés y otros idiomas" },
     { n: "03-6233-9266", t: "AMDA: información médica en varios idiomas" }
   ],

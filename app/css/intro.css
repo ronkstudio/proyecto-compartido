@@ -86,7 +86,7 @@ html.intro-tapa body::after { content: ""; position: fixed; inset: 0; z-index: 3
 /* Con "reducir movimiento": sin dibujos animados, solo el nombre y un fundido corto */
 .intro.quieta .intro-arte { display: none; }
 .intro.quieta .intro-nombre, .intro.quieta .intro-nombre span, .intro.quieta .intro-fondo::after { animation: none; opacity: 1; }
-.intro.quieta.fuera { transform: none; transition: opacity .15s linear; }
+.intro.quieta.fuera { opacity: 0; transform: none; transition: opacity .15s linear; }
 @media (prefers-reduced-motion: reduce) {
   .intro-arte [class*="a-"], .intro-nombre, .intro-nombre span { animation: none !important; opacity: 1; }
 }

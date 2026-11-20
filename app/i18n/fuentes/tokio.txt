@@ -348,7 +348,6 @@ Edokko honorario
 Adaptador de enchufe tipo A, el de dos patas planas, y cargadores que acepten 100 V
 Comprar antes las entradas con día y hora: Museo Ghibli, teamLab, Shibuya Sky y el sumo
 Completar Visit Japan Web, el registro oficial para la llegada
-Si viajás con remedios, fijarte antes qué se puede entrar a Japón
 Medias sin agujeros: en muchos lugares te sacás los zapatos
 Comprar la Welcome Suica o agregar una Suica al celular
 Sacar yenes en un cajero de 7-Eleven o del correo
@@ -411,8 +410,6 @@ Ruido
 Sorber los fideos está bien visto: es señal de que te gustan.
 Ambulancia: 119. Si no sabés si ir al hospital, el #7119 de Tokio te orienta (en japonés). AMDA da información médica en varios idiomas.
 Las "drugstores" venden de todo; para remedios con receta, buscá el cartel de farmacia (薬局).
-Remedios
-Algunos remedios que se venden sin receta en otros países no se pueden entrar a Japón: fijate antes en la web oficial del Ministerio de Salud de Japón.
 Muy recomendable: sin cobertura, la atención médica sale cara.
 Mes de torneo de sumo en el Ryogoku Kokugikan: fijate en el calendario oficial si hoy hay combates
 Temporada de cerezos: picnics bajo los árboles en el parque de Ueno (sobre todo a principios de abril)
@@ -958,3 +955,5 @@ Narusawa, Prefectura de Yamanashi
 Urayasu, Prefectura de Chiba
 Tokio
 Japón
+Salida Hachiko, Shibuya
+Local 100 % vegano, vegetariano

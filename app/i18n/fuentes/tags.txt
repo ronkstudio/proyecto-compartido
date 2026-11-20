@@ -239,3 +239,29 @@ lgbt+
 lago
 cabaret
 5 estrellas
+anime
+barco
+béisbol
+cerezos
+cocteles
+cápsula
+dulces
+especial
+excursiones
+izakaya
+judo
+karaoke
+monte fuji
+onsen
+patrimonio
+recuerdos
+ryokan
+santuario
+soba
+sumo
+sushi
+tempura
+tonkatsu
+udon
+videojuegos
+wagyu

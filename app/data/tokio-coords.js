@@ -1,6 +1,6 @@
 /* Ubicación de los lugares de Tokio (tarjeta #216): CITY_COORDS.tokio[id] = [lat, lon].
    Salen de OpenStreetMap (Nominatim y Overpass, 19/11/2026): cada lugar se buscó por nombre (en japonés
-   cuando hizo falta) y se confirmó que cae en su distrito (ku). Los tours sin punto fijo no tienen ubicación. */
+   cuando hizo falta) y se confirmó que cae en su distrito (ku); en las cadenas, que sea el local de la ficha. Los tours sin punto fijo no tienen ubicación. */
 window.CITY_COORDS = window.CITY_COORDS || {};
 window.CITY_COORDS.tokio = {
   "senso-ji": [35.71340, 139.79553],
@@ -53,10 +53,10 @@ window.CITY_COORDS.tokio = {
   "ginza-kagari": [35.67113, 139.76151],
   "tokyo-ramen-street": [35.68038, 139.76788],
   "sushi-dai": [35.64448, 139.78209],
-  "sushizanmai": [35.67225, 139.76013],
+  "sushizanmai": [35.66594, 139.77063],
   "kyubey": [35.66850, 139.76127],
   "sushi-no-midori": [35.65793, 139.69816],
-  "tonkatsu-maisen": [35.65922, 139.70371],
+  "tonkatsu-maisen": [35.66797, 139.71153],
   "gyukatsu-motomura": [35.65698, 139.70402],
   "tsunahachi": [35.69080, 139.70342],
   "daikokuya-tempura": [35.71273, 139.79559],
@@ -163,7 +163,7 @@ window.CITY_COORDS.tokio = {
   "yodobashi-akiba": [35.69878, 139.77473],
   "super-potato": [35.69937, 139.77074],
   "pokemon-center-mega-tokyo": [35.72889, 139.71918],
-  "animate-ikebukuro": [35.73007, 139.71763],
+  "animate-ikebukuro": [35.73115, 139.71545],
   "nintendo-tokyo": [35.66204, 139.69870],
   "isetan-shinjuku": [35.69164, 139.70460],
   "ginza-mitsukoshi": [35.67119, 139.76591],
