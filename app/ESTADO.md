@@ -8,6 +8,7 @@ Este archivo se mantiene corto a propósito, porque se lee al empezar cada tarea
 
 ## Últimos cambios
 
+- 20/11 · #235 · Los lugares sin foto muestran una escena dibujada de su tipo (café, bar, museo, mercado, playa…) en vez de un emoji (`js/ilustraciones.js`).
 - 20/11 · #233 · Ajustes finales de la revisión: íconos por tipo corregidos, dietas con fuente leída (Fatamorgana, Chutnify, Café Vux, Curry 61, Maroush) en la lista, fuentes de Río y Bogotá, fotos probadas a 500 px.
 - 20/11 · #226 · Portada nueva para los lugares sin foto (el dibujo de cada ciudad y el ícono del tipo de lugar), también cuando una foto no carga; foto de Chiado (Lisboa) arreglada.
 - 20/11 · #227 · Recorrido automático de pantallas (`zz-recorrido.js`): sin errores ni enlaces rotos; se tradujeron "Con opciones para", "Local 100 %" y la noche de Lisboa, Río y Bogotá; lo que se sale del ancho quedó en #189.
@@ -15,7 +16,6 @@ Este archivo se mantiene corto a propósito, porque se lee al empezar cada tarea
 - 20/11 · #223 · Consulados que faltaban: Colombia, México, Perú y Estados Unidos en Lisboa, Perú y Uruguay en Buenos Aires, Perú en Bogotá.
 - 20/11 · #224 · Sin horarios exactos en ninguna ciudad (21 textos, en los 8 idiomas); los datos de dieta tienen fuente o se sacaron.
 - 20/11 · #221 · Control de datos de las 11 ciudades (`zz-revisar.html`, no se publica); lo que encontró está en la tarjeta #221.
-- 20/11 · #216 · Tokio, undécima ciudad (la primera de Asia); 26 etiquetas comunes nuevas, "Lisboa" traducida y la intro se desvanece con "reducir movimiento".
 - 19/11 · #217 · Este archivo se achicó (el anterior está en `docs/historial.md`); `LEEME.md` al día; Claude suma a `main` sin preguntar.
 - 19/11 · #214 · Lisboa, décima ciudad.
 
@@ -81,7 +81,7 @@ La cantidad de lugares se contó el 19/11/2026 desde `data/` (lista `places` de 
 ## Qué falta o está flojo en todas las ciudades
 
 - **Traducciones sin revisar** por alguien que hable cada idioma.
-- **Fotos:** faltan sobre todo en restaurantes, bares y hoteles, que casi nunca tienen fotos libres. Sus fotos propias tienen derechos de autor: haría falta pedirles permiso a los locales. Mientras tanto, los que no tienen foto muestran una portada con el dibujo de la ciudad y el ícono del tipo de lugar (tarjeta #226).
+- **Fotos:** faltan sobre todo en restaurantes, bares y hoteles, que casi nunca tienen fotos libres. Sus fotos propias tienen derechos de autor: haría falta pedirles permiso a los locales. Mientras tanto, los que no tienen foto muestran una escena dibujada de su tipo de lugar sobre el dibujo de la ciudad (tarjetas #226 y #235).
 - **Que los lugares sigan abiertos:** OpenStreetMap confirma que el local existe, no que abra hoy. La ficha tiene el botón a Google Maps con horarios.
 - **Sin horarios reales ni puntajes de reseñas:** harían falta servicios pagos.
 - **Pantallas que se salen del ancho** en celulares chicos o en alemán (tarjeta #189).

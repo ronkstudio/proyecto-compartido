@@ -340,28 +340,16 @@
 
   /* ── Piezas de interfaz ── */
   const priceHtml = p => p.price === 0 ? '<span class="free">Gratis</span>' : p.price ? '<span class="price" title="' + PRICE_WORD[p.price] + '">' + "$$$$".slice(0, p.price) + "</span>" : "";
-  /* Ícono según el tipo de lugar, para que una pizzería sin foto no muestre el de la parrilla (tarjeta #52). */
-  const SUB_ICON = { "Para bailar": "🪩", "Pizzería": "🍕", "Café notable": "☕", "Café de especialidad": "☕", "Heladería": "🍦", "Dulces": "🧁", "Vegetariano": "🥗", "Sin TACC": "🌾", "Kosher": "✡️",
-    "Cocinas del mundo": "🍜", "Mercado gastronómico": "🧺", "Polo gastronómico": "🧺", "Al paso": "🥪", "Bar": "🍸", "Cervecería": "🍺", "Bar de vinos": "🍷", "Teatro": "🎭",
-    "Cine": "🎬", "Museo": "🖼️", "Naturaleza": "🌳", "Shopping": "🏬", "Feria": "🧺", "Hostel": "🎒", "Fútbol": "⚽", "Polo": "🏇", "Turf": "🏇", "Tenis": "🎾", "Golf": "⛳", "Náutico": "⛵" };
-  /* Si el tipo no está en la lista, se busca una palabra clave en el tipo (tarjeta #226); si no, el ícono de la categoría. */
-  const SUB_KEY = [[/dulces japoneses|wagashi/i, "🍡"], [/sumo|artes marciales/i, "🤼"], [/artesan/i, "🏺"], [/santuario|templos y/i, "⛩️"],
-    [/parrill|carne|asador|churrasc|steak/i, "🥩"], [/caf[eé]|casa de t[eé]|\btea\b/i, "☕"], [/helad|gelat/i, "🍦"], [/pasteler|panader|dulce|churro/i, "🥐"], [/pizz/i, "🍕"],
-    [/sushi|ramen|izakaya|japon/i, "🍣"], [/marisc|pescad|ostra/i, "🦞"], [/tapas|vermut/i, "🫒"],
-    [/vino|vinho|wine/i, "🍷"], [/cervec|beer|chopp/i, "🍺"], [/cóctel|coctel|cocktail|\bbar\b|boteco|\bpub\b/i, "🍸"], [/boliche|\bclub\b|bailar|discotec/i, "🪩"],
-    [/fado|tango|samba|salsa|jazz|música|musica|concierto|ópera|\bopera\b/i, "🎶"], [/teatro|show/i, "🎭"], [/museo|galer[ií]a|\barte\b/i, "🖼️"],
-    [/iglesia|catedral|bas[ií]lica/i, "⛪"], [/palacio|castillo|fortaleza/i, "🏰"], [/mirador|vista/i, "🌄"],
-    [/playa|praia/i, "🏖️"], [/parque|jard[ií]n|naturaleza|bosque|sendero/i, "🌳"], [/mercado|feria|feira/i, "🧺"], [/librer/i, "📚"],
-    [/hostel/i, "🎒"], [/hotel|hospedaje|departamento|posada/i, "🏨"], [/bici/i, "🚲"], [/barco|crucero|náutic|nautic/i, "⛵"],
-    [/f[uú]tbol|estadio/i, "⚽"], [/termas|\bspa\b|onsen|baño/i, "♨️"], [/zoo|acuario|aquário/i, "🐠"], [/compras|tienda|shopping|dise[nñ]o/i, "🛍️"]];
-  const iconOf = p => SUB_ICON[p.sub] || ((SUB_KEY.find(k => k[0].test(p.sub || "")) || [])[1]) || cats[p.cat].icon;
   const media = (p, w, cls) => {
     const c = cats[p.cat];
-    /* Sin foto (tarjeta #226): el dibujo de la ciudad de fondo, el ícono del tipo de lugar y, en las tarjetas grandes, el tipo.
+    /* Sin foto (tarjetas #226 y #235): el dibujo de la ciudad de fondo, una escena del tipo de lugar y, en las tarjetas grandes, el tipo.
        El nombre no va: ya está escrito al lado o debajo. */
-    if (!p.photo) return '<span class="media noph ' + cls + '" style="--c:' + c.color + '"><span class="ph-ico" aria-hidden="true">' + iconOf(p) + "</span>" +
+    /* Tarjeta #235: en vez del emoji, una escena dibujada del tipo de lugar (js/ilustraciones.js). También queda detrás de la foto
+       mientras carga, y si la foto no carga. */
+    const ilus = window.ILUS ? window.ILUS.svg(window.ILUS.escena(p), cls === "thumb" ? "mini" : "slice") : "";
+    if (!p.photo) return '<span class="media noph ' + cls + '" style="--c:' + c.color + '">' + ilus +
       (cls === "thumb" ? "" : '<span class="ph-sub" aria-hidden="true">' + esc(p.sub) + "</span>") + "</span>";
-    return '<span class="media ' + cls + '" style="--c:' + c.color + '"><i aria-hidden="true">' + iconOf(p) + "</i>" +
+    return '<span class="media ' + cls + '" style="--c:' + c.color + '">' + ilus +
       '<img src="' + esc(photo(p.photo, w)) + '" alt="" loading="lazy" decoding="async"></span>';
   };
   const badges = (p, full) => {
@@ -487,7 +475,7 @@
     /* Fecha del calendario del mes (data/<ciudad>-extra.js, events): lleva a Info → Calendario. */
     if (it.cal) {
       const e = it.cal;
-      return '<a class="tile" style="--c:#7c5cbf" href="#/info/calendario"><span class="media noph tile-media hoy-cal" style="--c:#7c5cbf"><span class="ph-ico" aria-hidden="true">' + e.icon + '</span><i class="hoy-tag">' + esc(e.when) + "</i></span>" +
+      return '<a class="tile" style="--c:#7c5cbf" href="#/info/calendario"><span class="media noph tile-media hoy-cal" style="--c:#7c5cbf">' + (window.ILUS ? window.ILUS.svg(window.ILUS.escenaEvento(e.icon)) : "") + '<i class="hoy-tag">' + esc(e.when) + "</i></span>" +
         '<span class="tile-body"><b>' + esc(e.name) + "</b><span>" + esc(e.desc) + "</span></span></a>";
     }
     if (it.p) {
@@ -503,8 +491,8 @@
     const c = (cats[it.franja === "noche" ? "noche" : "ver"] || {}).color || "#5b6b7c";
     const tag = d ? "⭐ " + esc(it.tag || "Destacado") : it.lugares ? "🎉" : (e.serie ? "🖼️ " : "📅 ") + esc(it.hora);
     const cover = lp && lp.photo ? '<span class="media tile-media"><img src="' + esc(photo(lp.photo, 500)) + '" alt="" loading="lazy" decoding="async"><i class="hoy-tag">' + tag + "</i></span>"
-      : '<span class="media noph tile-media" style="--c:' + c + '"><span class="ph-ico" aria-hidden="true">' + (d ? "⭐" : it.lugares ? "🎉" : e.serie ? "🖼️" : "📅") + "</span>" +
-        (d ? '<span class="ph-sub">' + esc(it.tag || "Destacado") + "</span>" : !it.lugares && it.hora ? '<span class="ph-sub">' + esc(it.hora) + "</span>" : "") + "</span>";
+      : '<span class="media noph tile-media" style="--c:' + c + '">' + (window.ILUS ? window.ILUS.svg(lp ? window.ILUS.escena(lp) : e && e.serie ? "museo" : "fiesta") : "") +
+        '<i class="hoy-tag">' + tag + "</i></span>";   // sin foto: la escena del lugar o una de fiesta (#235)
     const sub = it.lugares ? "<span>En muchos lugares</span> <span>(" + it.lugares + ")</span>" : [lugar ? '<i data-notr>' + esc(lugar) + "</i>" : "", barrio ? esc(barrio) : ""].filter(Boolean).join(" · ");
     return '<a class="tile' + (d ? " hoy-dest" : "") + '" style="--c:' + c + '" href="' + esc(href) + '" target="_blank" rel="noopener">' + cover +
       '<span class="tile-body"><b' + (d ? "" : " data-notr") + '>' + esc(t) + "</b><span>" + sub + ((d ? d.gratis : e.gratis) ? " · Gratis" : "") + "</span></span></a>";
@@ -1243,9 +1231,10 @@
     sheet.style.setProperty("--c", c.color);
     sheet.innerHTML =
       '<div class="sheet-head' + (p.photo ? " has-photo" : "") + '">' +
+        (window.ILUS ? window.ILUS.svg(window.ILUS.escena(p)) : "") +   /* la escena queda detrás de la foto; sin foto se ve (#235) */
         (p.photo ? '<img src="' + esc(photo(p.photo, 960)) + '" data-fb="' + esc(photo(p.photo, 500)) + '" alt="">' : "") +
         '<button class="x" data-close aria-label="Cerrar">✕</button>' +
-        '<div class="sheet-title">' + '<em aria-hidden="true">' + iconOf(p) + "</em>" + '<h2 id="sheet-title">' + esc(p.name) + "</h2><p>" + esc(c.name) + " · " + esc(p.sub) + " · " + esc(p.barrio) + "</p></div></div>" +
+        '<div class="sheet-title">' + '<h2 id="sheet-title">' + esc(p.name) + "</h2><p>" + esc(c.name) + " · " + esc(p.sub) + " · " + esc(p.barrio) + "</p></div></div>" +
       '<div class="sheet-body">' +
         '<p class="bdgs"><span class="bdg ' + (p.q === 3 ? "q" : "q2") + '">' + (p.q === 3 ? "★ " : "") + QL[p.q] + "</span>" + p.awards.map(a => '<span class="bdg aw">🏅 ' + esc(a) + "</span>").join("") + "</p>" +
         "<p>" + esc(p.desc) + "</p>" +
@@ -1571,7 +1560,7 @@
     else {
       const head = t.closest(".sheet-head"); if (head) head.classList.remove("has-photo");
       /* Tarjeta #226: la tarjeta queda con la misma portada que los lugares sin foto. */
-      const m = t.closest(".media"); if (m) { m.classList.add("noph"); const i = m.querySelector("i:not(.hoy-tag)"); if (i) i.className = "ph-ico"; }
+      const m = t.closest(".media"); if (m) m.classList.add("noph");   // queda la ilustración que estaba detrás de la foto (#235)
       t.remove();
     }
   }, true);

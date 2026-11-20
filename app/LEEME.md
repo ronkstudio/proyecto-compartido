@@ -23,6 +23,7 @@ La versión publicada está en https://ronkstudio.github.io/proyecto-compartido/
 | `js/ciudad.js` | Elige la ciudad y carga solo sus archivos de datos |
 | `js/globo.js`, `css/globo.css`, `js/vendor/`, `data/globo-continentes.js` | El globo de entrada para elegir destino. La ubicación de cada ciudad va en `GEO` |
 | `js/intro.js`, `css/intro.css` | La intro animada al entrar a cada ciudad y las figuras al tocar la portada |
+| `js/ilustraciones.js` | Las escenas dibujadas que reemplazan la foto de los lugares que no tienen (una por tipo de lugar). Para verlas todas juntas: `zz-ilustraciones.html` (no se publica) |
 | `css/styles.css` | El diseño común (tarjetas, botones, modo oscuro) |
 | `css/temas.css` | Los colores, la letra y el dibujo de portada de cada ciudad |
 | `data/ciudades.js` | La lista de ciudades, con sus archivos y su letra de títulos |
