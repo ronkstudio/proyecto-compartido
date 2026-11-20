@@ -165,7 +165,8 @@ window.CITY_ZONES.caba = {
     /* Consulados y embajadas (tarjeta #121), de los países de los idiomas de la guía y de la región. Direcciones consultadas el 13/11/2026:
        consulados de Brasil, Chile, España e Italia en sus webs oficiales; el resto, en la guía de representaciones extranjeras de la Cancillería
        argentina (cancilleria.gob.ar). Ubicación: OpenStreetMap. Sin horarios: casi todos atienden con turno; se saca en su web.
-       Uruguay no está: su consulado se mudó en 2025 y no encontré la dirección nueva en una fuente oficial. Perú tampoco: el dato de Cancillería no cierra. */
+       Perú (20/11/2026, tarjeta #223): su consulado general, de la web oficial de Perú (gob.pe). Uruguay: su consulado general se mudó y la nueva
+       dirección no está en una fuente oficial que se pueda leer; va la embajada, de la guía de la Cancillería argentina. */
     { id: "cons-br", type: "consul", name: "Brasil · Consulado General", address: "Carlos Pellegrini 1363, 5.º piso, Retiro", ll: [-34.59198, -58.3814], note: "Pasaportes, documentos y ayuda a sus ciudadanos." },
     { id: "cons-cl", type: "consul", name: "Chile · Consulado General", address: "Av. Pres. Roque Sáenz Peña 547, 2.º piso, Centro", ll: [-34.60741, -58.3743], note: "Pasaportes, documentos y ayuda a sus ciudadanos. Tiene teléfono de emergencias en su web." },
     { id: "cons-es", type: "consul", name: "España · Consulado General", address: "Guido 1770, Recoleta", ll: [-34.59044, -58.38959], note: "Pasaportes, documentos y ayuda a sus ciudadanos." },
@@ -173,6 +174,8 @@ window.CITY_ZONES.caba = {
     { id: "cons-fr", type: "consul", name: "Francia · Consulado General", address: "Basavilbaso 1253, Retiro", ll: [-34.59353, -58.37715], note: "Pasaportes, documentos y ayuda a sus ciudadanos." },
     { id: "emb-us", type: "consul", name: "Estados Unidos · Embajada", address: "Av. Colombia 4300, Palermo", ll: [-34.57666, -58.41877], note: "Ayuda a sus ciudadanos: pasaportes y documentos." },
     { id: "emb-uk", type: "consul", name: "Reino Unido · Embajada y sección consular", address: "Dr. Luis Agote 2412, Recoleta", ll: [-34.58524, -58.39524], note: "Ayuda a sus ciudadanos: pasaportes y documentos." },
+    { id: "cons-pe", type: "consul", name: "Perú · Consulado General", address: "San Martín 128, Microcentro", ll: [-34.60643, -58.37384], note: "Pasaportes, documentos y ayuda a sus ciudadanos." },
+    { id: "emb-uy", type: "consul", name: "Uruguay · Embajada", address: "Arenales 1392, Retiro", ll: [-34.59469, -58.38718], note: "Ayuda a sus ciudadanos: pasaportes y documentos." },
     { id: "emb-ca", type: "consul", name: "Canadá · Embajada", address: "Tagle 2828, Palermo", ll: [-34.57978, -58.39772], note: "Ayuda a sus ciudadanos: pasaportes y documentos." },
     { id: "emb-de", type: "consul", name: "Alemania · Embajada y sección consular", address: "Villanueva 1055, Belgrano", ll: [-34.56679, -58.43941], note: "Ayuda a sus ciudadanos: pasaportes y documentos." },
     { id: "emb-pt", type: "consul", name: "Portugal · Embajada", address: "Maipú 942, 17.º piso, Retiro", ll: [-34.59702, -58.3773], note: "Ayuda a sus ciudadanos: pasaportes y documentos." },

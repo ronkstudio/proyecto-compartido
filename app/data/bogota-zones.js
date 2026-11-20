@@ -71,6 +71,8 @@ window.CITY_ZONES.bogota = {
       note: "Dirección del mapa consular oficial de Uruguay." },
     { id: "cons-us", type: "consul", name: "Estados Unidos · Embajada", address: "Carrera 45 # 24B-27", ll: [4.63644, -74.09454],
       note: "Atención a ciudadanos con turno." },
+    { id: "cons-pe", type: "consul", name: "Perú · Consulado General", address: "Calle 90 # 14-26, oficina 417", ll: [4.67464, -74.05280],
+      note: "Trámites y ayuda consular." },
     { id: "t-bog", type: "transporte", name: "Aeropuerto Internacional El Dorado (BOG)", address: "Calle 26 # 103-09", ll: [4.70209, -74.14771], far: true,
       note: "El aeropuerto de la ciudad, para vuelos nacionales e internacionales." },
     { id: "t-salitre", type: "transporte", name: "Terminal de Transporte Salitre", address: "Calle 22C # 68F-37", ll: [4.65756, -74.11367],

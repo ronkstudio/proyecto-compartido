@@ -47,3 +47,8 @@ De dónde sale cada dato de Bogotá en la guía. Revisado el 18 y 19/11/2026.
 ## Fotos
 
 - 16 fotos de Wikimedia Commons con licencia libre (19/11/2026), buscadas por nombre en OpenStreetMap y en Commons cerca de cada lugar, y revisadas a ojo. Se descartaron 6 que mostraban otra cosa (Museo Nacional, Parque de la 93, Planetario, La Candelaria, La Puerta Falsa y Centro Andino).
+
+## Consulados sumados (tarjeta #223, 20/11/2026)
+
+- **Perú**: Consulado General, Calle 90 # 14-26, oficina 417, según el directorio de consulados del Perú de 2025 (leído con el buscador; gob.pe no abre en el navegador). Coincide con OpenStreetMap. [fuente](https://www.gob.pe/consulado-del-peru-en-bogota)
+Ubicación: OpenStreetMap (office=diplomatic o la dirección en Nominatim).

@@ -642,5 +642,7 @@ Object.assign(window.I18N_FULL = window.I18N_FULL || {}, {
 "Tour por Belém con guía": "贝伦导览",
 "Tour en tuk-tuk": "嘟嘟车游",
 "Barco a Cacilhas": "去卡西利亚斯的渡轮",
-"Tranvía 28": "28路电车"
+"Tranvía 28": "28路电车",
+"Colombia · Embajada (sección consular)": "哥伦比亚 · 大使馆（领事部）",
+"Perú · Embajada (sección consular)": "秘鲁 · 大使馆（领事部）"
 });

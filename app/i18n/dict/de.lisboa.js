@@ -642,5 +642,7 @@ Object.assign(window.I18N_FULL = window.I18N_FULL || {}, {
 "Tour por Belém con guía": "Geführte Tour durch Belém",
 "Tour en tuk-tuk": "Tuk-Tuk-Tour",
 "Barco a Cacilhas": "Fähre nach Cacilhas",
-"Tranvía 28": "Straßenbahn 28"
+"Tranvía 28": "Straßenbahn 28",
+"Colombia · Embajada (sección consular)": "Kolumbien · Botschaft (Konsularabteilung)",
+"Perú · Embajada (sección consular)": "Peru · Botschaft (Konsularabteilung)"
 });

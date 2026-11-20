@@ -746,3 +746,5 @@
 746|Boat to Cacilhas
 747|Tram 28
 748|Lisbon
+749|Colombia · Embassy (consular section)
+750|Peru · Embassy (consular section)

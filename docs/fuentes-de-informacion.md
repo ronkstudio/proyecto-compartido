@@ -139,3 +139,9 @@ Falta decidirlo; depende del reparto de áreas de la tarjeta #2. Propongo:
 - **Hierbabuena** (San Telmo): cocina vegana y vegetariana, con algunas opciones que no lo son. [fuente](https://www.ellgeebe.com/en/destinations/latin-america/argentina/buenos-aires/restaurants/hierbabuena)
 - **Artemisia** (Palermo): restaurante vegetariano que sumó pescado al menú; por eso la ficha dice "muchas opciones vegetarianas". [fuente](https://www.happycow.net/reviews/artemisia-buenos-aires-24633)
 - **Tandoor** (Recoleta): se sacó "platos vegetarianos" y la etiqueta, porque no se encontró fuente.
+
+## Consulados sumados (tarjeta #223, 20/11/2026)
+
+- **Perú**: Consulado General, San Martín 128-136, Microcentro, según gob.pe (leído con el buscador). [fuente](https://www.gob.pe/institucion/consulado-del-peru-en-buenos-aires/institucional)
+- **Uruguay**: va la embajada (Arenales 1392), de la guía de representaciones extranjeras de la Cancillería argentina. El consulado general se está mudando (resolución de Uruguay del 10/12/2025) y su dirección nueva no está en una fuente oficial que se pueda leer. [fuente](https://cancilleria.gob.ar/es/representaciones-extranjeras/embajada/22)
+Ubicación: OpenStreetMap (office=diplomatic o la dirección en Nominatim).
