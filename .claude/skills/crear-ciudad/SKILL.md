@@ -28,7 +28,7 @@ Leé antes `CLAUDE.md`, `app/ESTADO.md` y `app/NUEVA-CIUDAD.md`. Los scripts est
 6. **Fotos.** `entrada.pl` para armar la lista, `fotos2.pl` en segundo plano (tarda; corré una sola a la vez, porque dos escriben el mismo archivo), `hoja.pl` para ver las fotos y descartar a ojo las que muestran otra cosa (suelen ser muchas). Recién ahí `meterfotos.pl`.
 7. **Identidad visual.** Un bloque claro y otro oscuro en `css/temas.css` con paleta, letra, radio, sombra y un dibujo de portada propios de la ciudad, distintos de las que ya están. `perl ../herramientas/ciudad/contraste.pl .` tiene que decir "Todo llega al mínimo". Sumá también su intro animada y su figura de portada en `js/intro.js` (`ARTE`, `FIG`, `MOV`; ver `NUEVA-CIUDAD.md`): algo propio de la ciudad, divertido y corto.
 8. **Pruebas en el navegador.** Antes de probar: borrar el service worker y las cachés. Abrir con `?ciudad=<id>` a 375 de ancho, en castellano, alemán y japonés, en claro y en oscuro. Mirar: textos sin traducir, referencias rotas (`#/lugar/<id>`, `#/itinerario/<id>`), pantallas que se salen del ancho.
-9. **Publicar.** Commit, push, pedido de cambios con `Closes #N`, sumar a `main` (la persona ya dijo que Claude lo hace sin preguntar) y revisar que corra "Publicar la guía". Nota de traspaso en la tarjeta.
+9. **Publicar.** Commit, push, pedido de cambios con `Closes #N`, sumar a `main` sin preguntar (regla de `CLAUDE.md`, tarjeta #217) y revisar que corra "Publicar la guía". Nota de traspaso en la tarjeta.
 
 ## Trampas conocidas
 

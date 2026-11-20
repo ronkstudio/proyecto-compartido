@@ -6,7 +6,7 @@ Cada uno trabaja con su propio Claude. Las reglas están en [CLAUDE.md](CLAUDE.m
 
 ## Qué estamos construyendo
 
-Una app de turismo que te dice todo lo que necesitás para tu viaje: qué hacer, dónde comer, cómo moverte, qué evitar y dónde pedir ayuda. Arranca con la Ciudad de Buenos Aires.
+Una app de turismo que te dice todo lo que necesitás para tu viaje: qué hacer, dónde comer, cómo moverte, qué evitar y dónde pedir ayuda. Arrancó con la Ciudad de Buenos Aires y hoy tiene 10 ciudades (la lista está en `app/data/ciudades.js`).
 
 **Ya hay una versión que funciona**, en la carpeta [app/](app/). Para abrirla: doble clic en `app/index.html`. Más detalle en [app/LEEME.md](app/LEEME.md).
 
@@ -33,9 +33,10 @@ Qué está hecho, qué se probó y qué falta: [app/ESTADO.md](app/ESTADO.md).
 | Avisos de paros, marchas y cortes | Los carga a mano una persona en `app/data/avisos.json`, con fechas y fuente, y se apagan solos al terminar. La guía no los detecta sola. Siempre se muestran, en Info > Ayuda, links para fijarse antes de salir | Bautista, 13/11. Tarjeta #120 |
 | Entrada a la guía | Globo azul galáctico con fronteras blancas y las ciudades en rojo. Se elige destino, se dibuja la ruta de vuelo y entra "pum" directo a la guía, sin botón. "Cambiar destino" vuelve a abrir el globo. Quien ya eligió ciudad va directo a su guía | `ezebesserr`, 14/11. Tarjetas #113 y #167 |
 | Cuentas de usuario | **No hay.** La guía funciona sin usuario ni mail: todo queda guardado en el dispositivo. Se probaron con Supabase y se sacaron (pocos mails por hora en el plan gratis, el enlace del mail se trababa entre dispositivos, y guardar mails obliga a cumplir con los datos personales). Tampoco va un botón para pasar el viaje a otro dispositivo | Bautista, 13/11. Tarjetas #35, #140 y #148 |
+| Sumar a `main` | Claude suma a `main` sin preguntar cuando la tarea está terminada y probada. Sigue habiendo pedido de cambios con `Closes #N` y nota de traspaso | `ezebesserr`, 19/11. Tarjeta #217 |
 ## Lo que falta decidir
 
-- **Qué idiomas siguen** (tarjeta #11). Hoy están completos español, inglés y portugués; francés, italiano, alemán, chino y japonés tienen solo el menú.
+- **Qué idiomas siguen** (tarjeta #11). Hoy están completos los 8: español, inglés, portugués, francés, italiano, alemán, chino y japonés (sin revisar por alguien que hable cada idioma).
 - **Zonas turísticas y mínimos por tipo de local** (tarjeta #45), y cómo se verifica cada local antes de cargarlo.
 - **Cartel de "versión de prueba"** en la copia publicada: sí o no. Hoy no lo tiene.
 - **Filtros sin TACC y kosher:** si se muestran antes de confirmar los lugares uno por uno.
@@ -46,6 +47,7 @@ Qué está hecho, qué se probó y qué falta: [app/ESTADO.md](app/ESTADO.md).
 - [docs/competencia.md](docs/competencia.md): qué ofrecen otras apps y una propuesta de distintivo.
 - [docs/diseno/](docs/diseno/): el diseño de pantallas anterior al prototipo. Queda como referencia.
 - [docs/boceto.html](docs/boceto.html): el primer boceto de la idea.
+- [docs/historial.md](docs/historial.md): el detalle de cada tarjeta de la app hasta el 19/11/2026 (lo que antes estaba en `app/ESTADO.md`).
 
 ## Para empezar
 
