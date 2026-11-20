@@ -43,3 +43,5 @@ Los 104 lugares de comida, noche y hospedaje se cruzaron otra vez con OpenStreet
 - **Fatamorgana**: todos los sabores y los cucuruchos son sin gluten, según Turismo Roma (portal oficial de turismo de la ciudad). [fuente](https://www.turismoroma.it/it/accoglienza/fatamorgana)
 - **Nonna Betta**: se sacó "es kosher". Las fuentes no coinciden: Quandoo dice "kosher style" y Frommer's dice que no es kosher estricto. [fuente 1](https://www.quandoo.it/place/nonna-betta-4824/recensioni), [fuente 2](https://www.frommers.com/destinations/rome/restaurants/nonna-betta)
 - **The Beehive**: se sacó "café vegetariano" porque no se encontró fuente.
+
+- **Fatamorgana**: leído en la página de Turismo Roma el 20/11/2026 ("tutti i gusti e i coni privi di glutine"); se sumó a la lista de dietas, con el aviso de confirmar en el local (tarjeta #233).

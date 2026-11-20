@@ -564,7 +564,7 @@ Object.assign(window.I18N_FULL = window.I18N_FULL || {}, {
 "Solo el primer sábado del mes.": "Solo il primo sabato del mese.",
 "Un laberinto de calles con cientos de tiendas baratas: telas, disfraces de Carnaval, juguetes y de todo.": "Un labirinto di strade con centinaia di negozi economici: stoffe, costumi di Carnevale, giocattoli e di tutto.",
 "Llevá poca plata encima: hay mucha gente.": "Porta pochi soldi: c'è tanta gente.",
-"Un mercado cubierto de frutas, verduras y flores, rodeado de bares y restaurantes que se llenan de noche.": "Un mercato coperto di frutta, verdura e fiori, circondato da bar e ristoranti che si riempiono la sera.",
+"Un mercado cubierto de frutas y verduras, con bares y restaurantes que se llenan de noche.": "Un mercato coperto di frutta e verdura, con bar e ristoranti che si riempiono la sera.",
 "El shopping elegante de la zona sur, con marcas brasileñas, cine y patio de comidas.": "Il centro commerciale elegante della zona sud, con marchi brasiliani, cinema e food court.",
 "Un shopping grande y práctico en Botafogo, con tiendas de todo tipo.": "Un centro commerciale grande e pratico a Botafogo, con negozi di ogni tipo.",
 "Tiene colectivo gratis desde Copacabana.": "C'è un bus gratuito da Copacabana.",

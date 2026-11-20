@@ -345,14 +345,15 @@
     "Cocinas del mundo": "🍜", "Mercado gastronómico": "🧺", "Polo gastronómico": "🧺", "Al paso": "🥪", "Bar": "🍸", "Cervecería": "🍺", "Bar de vinos": "🍷", "Teatro": "🎭",
     "Cine": "🎬", "Museo": "🖼️", "Naturaleza": "🌳", "Shopping": "🏬", "Feria": "🧺", "Hostel": "🎒", "Fútbol": "⚽", "Polo": "🏇", "Turf": "🏇", "Tenis": "🎾", "Golf": "⛳", "Náutico": "⛵" };
   /* Si el tipo no está en la lista, se busca una palabra clave en el tipo (tarjeta #226); si no, el ícono de la categoría. */
-  const SUB_KEY = [[/caf[eé]|té\b|tea/i, "☕"], [/helad|gelat/i, "🍦"], [/pasteler|panader|dulce|churr/i, "🥐"], [/pizz/i, "🍕"],
-    [/sushi|ramen|izakaya|japon/i, "🍣"], [/marisc|pescad|ostra/i, "🦞"], [/parrill|carne|asador|churrasc|steak/i, "🥩"], [/tapas|vermut/i, "🫒"],
-    [/vino|vinho|wine/i, "🍷"], [/cervec|beer|chopp/i, "🍺"], [/cóctel|coctel|cocktail|bar\b|boteco|pub/i, "🍸"], [/boliche|club|bailar|discotec/i, "🪩"],
-    [/fado|tango|samba|salsa|jazz|música|musica|concierto|ópera|opera/i, "🎶"], [/teatro|show/i, "🎭"], [/museo|galer[ií]a|arte/i, "🖼️"],
-    [/iglesia|catedral|templo|santuario|bas[ií]lica|mezquita|sinagoga/i, "⛪"], [/palacio|castillo|fortaleza/i, "🏰"], [/mirador|vista/i, "🌄"],
+  const SUB_KEY = [[/dulces japoneses|wagashi/i, "🍡"], [/sumo|artes marciales/i, "🤼"], [/artesan/i, "🏺"], [/santuario|templos y/i, "⛩️"],
+    [/parrill|carne|asador|churrasc|steak/i, "🥩"], [/caf[eé]|casa de t[eé]|\btea\b/i, "☕"], [/helad|gelat/i, "🍦"], [/pasteler|panader|dulce|churro/i, "🥐"], [/pizz/i, "🍕"],
+    [/sushi|ramen|izakaya|japon/i, "🍣"], [/marisc|pescad|ostra/i, "🦞"], [/tapas|vermut/i, "🫒"],
+    [/vino|vinho|wine/i, "🍷"], [/cervec|beer|chopp/i, "🍺"], [/cóctel|coctel|cocktail|\bbar\b|boteco|\bpub\b/i, "🍸"], [/boliche|\bclub\b|bailar|discotec/i, "🪩"],
+    [/fado|tango|samba|salsa|jazz|música|musica|concierto|ópera|\bopera\b/i, "🎶"], [/teatro|show/i, "🎭"], [/museo|galer[ií]a|\barte\b/i, "🖼️"],
+    [/iglesia|catedral|bas[ií]lica/i, "⛪"], [/palacio|castillo|fortaleza/i, "🏰"], [/mirador|vista/i, "🌄"],
     [/playa|praia/i, "🏖️"], [/parque|jard[ií]n|naturaleza|bosque|sendero/i, "🌳"], [/mercado|feria|feira/i, "🧺"], [/librer/i, "📚"],
     [/hostel/i, "🎒"], [/hotel|hospedaje|departamento|posada/i, "🏨"], [/bici/i, "🚲"], [/barco|crucero|náutic|nautic/i, "⛵"],
-    [/f[uú]tbol|estadio/i, "⚽"], [/termas|spa|onsen|baño/i, "♨️"], [/zoo|acuario|aquário/i, "🐠"], [/compras|tienda|shopping|dise[nñ]o/i, "🛍️"]];
+    [/f[uú]tbol|estadio/i, "⚽"], [/termas|\bspa\b|onsen|baño/i, "♨️"], [/zoo|acuario|aquário/i, "🐠"], [/compras|tienda|shopping|dise[nñ]o/i, "🛍️"]];
   const iconOf = p => SUB_ICON[p.sub] || ((SUB_KEY.find(k => k[0].test(p.sub || "")) || [])[1]) || cats[p.cat].icon;
   const media = (p, w, cls) => {
     const c = cats[p.cat];
@@ -486,7 +487,7 @@
     /* Fecha del calendario del mes (data/<ciudad>-extra.js, events): lleva a Info → Calendario. */
     if (it.cal) {
       const e = it.cal;
-      return '<a class="tile" style="--c:#7c5cbf" href="#/info/calendario"><span class="media noph tile-media hoy-cal" style="--c:#7c5cbf"><em aria-hidden="true">' + e.icon + '</em><i class="hoy-tag">' + esc(e.when) + "</i></span>" +
+      return '<a class="tile" style="--c:#7c5cbf" href="#/info/calendario"><span class="media noph tile-media hoy-cal" style="--c:#7c5cbf"><span class="ph-ico" aria-hidden="true">' + e.icon + '</span><i class="hoy-tag">' + esc(e.when) + "</i></span>" +
         '<span class="tile-body"><b>' + esc(e.name) + "</b><span>" + esc(e.desc) + "</span></span></a>";
     }
     if (it.p) {

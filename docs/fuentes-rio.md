@@ -45,3 +45,9 @@ De dónde sale cada dato de Río de Janeiro en la guía. Revisado el 18/11/2026.
 ## Fotos
 
 - 40 fotos de Wikimedia Commons con licencia libre, cada una revisada a ojo. Se descartaron 15 que mostraban otra cosa (una visita oficial, una pintura, una estatua, fotos viejas en blanco y negro, recitales, una captura de pantalla).
+
+## Lugares que reemplazaron a otros (tarjetas #225 y #233, 20/11/2026)
+
+- **Bar Lagoa** (Avenida Epitácio Pessoa 1674): abierto en 1934, salón art déco frente a la laguna, kassler con ensalada de papas, según Riotur (portal oficial de turismo de Río, leído en la página). [fuente](https://riotur.rio/es/onde_comer/bar-lagoa-3/)
+- **Cobal do Leblon** (Rua Gilberto Cardoso): mercado de frutas y verduras (Diário do Rio, leído en la página) que de noche se llena por sus bares (guía Lonely Planet, leída con el buscador). [fuente](https://diariodorio.com/cobal-do-leblon-pode-ser-transformada-em-polo-gastronomico-do-rio-de-janeiro/)
+- **Academia da Cachaça**: el local de Leblon (Rua Conde de Bernadotte 26) no aparece en OpenStreetMap ni buscándolo por nombre ni por dirección; el de Barra da Tijuca (Avenida Nuta James 65) sí, y es el que quedó en la ficha.

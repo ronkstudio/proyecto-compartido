@@ -423,3 +423,8 @@ Se cruzaron los 193 lugares de comida, noche y hospedaje de Berlín con OpenStre
 - **Curry 61** y **Maroush**: tienen opciones veganas y vegetarianas según OpenStreetMap (diet:vegan=yes, diet:vegetarian=yes).
 - **Chutnify**: la mención de platos sin gluten tiene fuente en visitBerlin (ver la ficha de Chutnify más arriba).
 - Se sacaron las menciones veganas o vegetarianas sin fuente de Witty's, Mustafa's Gemüse Kebap, Sahara Imbiss, Rosa Canina, Gazzo, Byblos y Café Mugrabi.
+
+## Dietas sumadas a la lista con fuente (tarjeta #233, 20/11/2026)
+
+- **Chutnify** (sin gluten en la mayoría de los platos) y **Café Vux** (todo vegano): leídos en visitBerlin. [fuente 1](https://www.visitberlin.de/de/blog/11-tipps-fuer-leckeres-glutenfreies-essen-berlin), [fuente 2](https://www.visitberlin.de/en/cafe-vux)
+- **Curry 61** y **Maroush**: opciones veganas según OpenStreetMap (diet:vegan=yes, consultado el 20/11/2026).

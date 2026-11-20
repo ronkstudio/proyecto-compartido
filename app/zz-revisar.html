@@ -158,7 +158,7 @@
   }
 
   const WM = "https://upload.wikimedia.org/wikipedia/commons/";
-  const foto = ph => ph.charAt(0) === "!" ? WM + encodeURI(ph.slice(1)) : WM + "thumb/" + encodeURI(ph) + "/120px-" + encodeURI(ph.split("/").pop());
+  const foto = ph => ph.charAt(0) === "!" ? WM + encodeURI(ph.slice(1)) : WM + "thumb/" + encodeURI(ph) + "/" + (window.FOTO_W || 500) + "px-" + encodeURI(ph.split("/").pop());
   async function probarFotos(lista) {
     const rotas = []; let i = 0;
     const uno = () => new Promise(ok => {

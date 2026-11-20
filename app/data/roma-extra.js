@@ -35,10 +35,10 @@ window.CITY_EXTRA.roma = {
      Pandalì (panadería sin gluten, según Wheatless Wanderlust y Scatti di Gusto) y Sans de Blé (pastelería sin gluten y sin lactosa, según OpenStreetMap y GlutoApp).
      Veganos: Buddy Veggy, Rifugio Romano, Ops! y Romeow Cat Bistrot, todos "diet:vegan=only" en OpenStreetMap. */
   diet: {
-    "mama-eat": ["sin TACC"], "voglia-di-pizza": ["sin TACC"], "pandali": ["sin TACC"], "sans-de-ble": ["sin TACC"],
+    "mama-eat": ["sin TACC"], "voglia-di-pizza": ["sin TACC"], "pandali": ["sin TACC"], "sans-de-ble": ["sin TACC"], "fatamorgana": ["sin TACC"],
     "buddy-veggy": ["vegano", "vegetariano"], "rifugio-romano": ["vegano", "vegetariano"], "ops": ["vegano", "vegetariano"], "romeow-cat-bistrot": ["vegano", "vegetariano"]
   },
-  dietFull: ["mama-eat", "voglia-di-pizza", "pandali", "sans-de-ble", "buddy-veggy", "rifugio-romano", "ops", "romeow-cat-bistrot"],
+  dietFull: ["mama-eat", "voglia-di-pizza", "pandali", "sans-de-ble", "fatamorgana", "buddy-veggy", "rifugio-romano", "ops", "romeow-cat-bistrot"],
 
   /* Días que abren o cierran (0 = domingo … 6 = sábado). Solo los días fijos y conocidos; pueden cambiar en feriados. */
   only: {
