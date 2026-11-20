@@ -143,18 +143,20 @@ main:focus { outline: none; }
 .media { position: relative; display: block; overflow: hidden; background: linear-gradient(135deg, color-mix(in srgb, var(--c, #5b6b7c) 80%, #000), color-mix(in srgb, var(--c, #5b6b7c) 50%, #fff)); }
 .media i { position: absolute; inset: 0; display: grid; place-items: center; font-style: normal; }
 .media img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
-/* Portada sin foto (tarjeta #226): el color del tipo de lugar, el dibujo propio de cada ciudad (--hero-motif, en css/temas.css)
-   y el ícono del tipo en un círculo. El nombre no se repite: ya está al lado o debajo. */
-.media.noph { isolation: isolate; background: radial-gradient(circle at 50% 42%, rgba(255, 255, 255, .16), transparent 58%), linear-gradient(150deg, color-mix(in srgb, var(--c, #5b6b7c) 70%, #0b1118), color-mix(in srgb, var(--c, #5b6b7c) 44%, #0b1118)); }
-.media.noph::before { content: ""; position: absolute; inset: 0; z-index: -1; opacity: calc(var(--hero-motif-op, .2) * 1.15);
+/* Portada sin foto (tarjetas #226 y #235): el color del tipo de lugar, el dibujo propio de cada ciudad (--hero-motif, en css/temas.css)
+   y una escena dibujada del tipo de lugar (js/ilustraciones.js). El nombre no se repite: ya está al lado o debajo. */
+.media.noph { isolation: isolate; background: radial-gradient(circle at 50% 30%, rgba(255, 255, 255, .14), transparent 60%), linear-gradient(160deg, color-mix(in srgb, var(--c, #5b6b7c) 70%, #0b1118), color-mix(in srgb, var(--c, #5b6b7c) 44%, #0b1118)); }
+.media.noph::before { content: ""; position: absolute; inset: 0; z-index: -1; opacity: calc(var(--hero-motif-op, .2) * .6);
   background-image: var(--hero-motif, none); background-size: var(--hero-motif-size, 160px 160px); background-repeat: repeat; background-position: center; }
-.media .ph-ico { position: absolute; left: 50%; top: 50%; width: 62px; height: 62px; transform: translate(-50%, -58%); display: grid; place-items: center;
-  border-radius: 50%; font-size: 30px; line-height: 1; background: rgba(255, 255, 255, .16); border: 1px solid rgba(255, 255, 255, .45);
-  box-shadow: 0 8px 22px rgba(0, 0, 0, .22), inset 0 1px 0 rgba(255, 255, 255, .3); }
-.ph-sub { position: absolute; left: 8px; right: 8px; bottom: 11px; text-align: center; color: #fff; font-size: 11px; font-weight: 700; letter-spacing: .12em;
-  text-transform: uppercase; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; text-shadow: 0 1px 3px rgba(0, 0, 0, .45); }
-.media.thumb .ph-ico { width: 46px; height: 46px; font-size: 23px; transform: translate(-50%, -50%); }
-/* Encabezado de la ficha sin foto: el mismo dibujo de la ciudad de fondo. */
+.media .ilus { position: absolute; inset: 0; width: 100%; height: 100%; color: #fff; }
+.media.thumb .ilus { inset: 0; width: 100%; }
+.ph-sub { position: absolute; left: 10px; top: 10px; max-width: calc(100% - 20px); padding: 3px 9px; border-radius: 999px; background: rgba(0, 0, 0, .28); color: #fff;
+  font-size: 10.5px; font-weight: 700; letter-spacing: .1em; text-transform: uppercase; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+/* Encabezado de la ficha sin foto: el mismo dibujo de la ciudad y la escena a la derecha. */
+.sheet-head .ilus { position: absolute; inset: 0; width: 100%; height: 100%; color: #fff; }
+.sheet-head:not(.has-photo) { min-height: 210px; }
+.sheet-head:not(.has-photo)::after { content: ""; position: absolute; inset: 0; background: linear-gradient(to top, rgba(6, 12, 20, .72) 0%, rgba(6, 12, 20, .2) 45%, rgba(6, 12, 20, 0) 70%); }
+.sheet-head.has-photo .ilus { opacity: 1; }
 .sheet-head:not(.has-photo) { isolation: isolate; background: linear-gradient(150deg, color-mix(in srgb, var(--c, #5b6b7c) 70%, #0b1118), color-mix(in srgb, var(--c, #5b6b7c) 46%, #0b1118)); }
 .sheet-head:not(.has-photo)::before { content: ""; position: absolute; inset: 0; z-index: -1; opacity: calc(var(--hero-motif-op, .2) * 1.15);
   background-image: var(--hero-motif, none); background-size: var(--hero-motif-size, 160px 160px); background-repeat: repeat; }
