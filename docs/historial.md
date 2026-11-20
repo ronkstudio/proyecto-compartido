@@ -213,3 +213,7 @@ Hasta el 13/11 estuvo en `ronkstudio/menu-3d-publico/guia-buenos-aires/`. Ese re
   - **Para sumar una ciudad al globo:** su ubicación va en `GEO`, al principio de `js/globo.js` (está en `NUEVA-CIUDAD.md`).
   - Probado en la compu (1280 px) y en celular (390 px), en castellano e inglés, sin errores en la consola: primera vez hacia Berlín (recarga y llega a Berlín) y hacia Buenos Aires (entra sin recargar), cambiar destino desde la barra y desde el inicio (Berlín → París), cerrar con ✕ y Escape, elegir la misma ciudad, sin animaciones (pedido del sistema), y con d3 bloqueado (sale la lista). Zonas horarias probadas: Buenos Aires, Madrid y Ciudad de México. **No se probó** en un celular de verdad (fluidez del globo).
 - **Para armar una ciudad nueva** están los scripts de `herramientas/ciudad/` y la skill `.claude/skills/crear-ciudad/` con los pasos en orden y las trampas conocidas (tarjeta #208, 19/11/2026). Probado con Río: `textos.pl`, `textos-todos.pl`, `prestados.pl` y `armar-dict.pl` (problemas: 0) dan lo mismo que antes; `contraste.pl` da lo mismo que la medición en el navegador.
+
+## Líneas que salieron de "Últimos cambios" en ESTADO.md
+
+- 18/11 · #198 · Más fotos, dietas con fuente y traducciones que faltaban en varias ciudades.

@@ -73,6 +73,12 @@ html.intro-tapa body::after { content: ""; position: fixed; inset: 0; z-index: 3
 .intro[data-c="amsterdam"].fuera { transform: translateY(100%); }
 .intro[data-c="bogota"].fuera { transform: scale(.9); }
 .intro[data-c="lisboa"].fuera { transform: translate(30%, 40%) rotate(-8deg); }
+/* Tokio: el nombre se prende como un cartel de neón y la intro sale de lado, como el tren bala. */
+.intro[data-c="tokio"] .intro-nombre { letter-spacing: .04em; text-shadow: 0 0 6px #ff3d7f, 0 0 20px rgba(255, 61, 127, .75), 0 2px 18px rgba(0, 0, 0, .3); }
+.intro[data-c="tokio"] .intro-nombre span { animation-name: a-neon; animation-duration: .9s; animation-timing-function: linear; }
+.intro[data-c="tokio"].fuera { opacity: 1; transform: translateX(-110%) skewX(12deg); transition: transform .45s cubic-bezier(.6, 0, .9, .3); }
+.a-neon { animation: a-neon 1.1s linear both; }
+@keyframes a-neon { 0% { opacity: 0; } 25% { opacity: 1; } 33% { opacity: .15; } 42% { opacity: 1; } 55% { opacity: .4; } 65%, 100% { opacity: 1; } }
 @keyframes intro-letra-suave { from { opacity: 0; transform: translateY(.4em); } to { opacity: 1; transform: none; } }
 @keyframes intro-cincel { from { opacity: 0; transform: scale(1.8); } to { opacity: 1; transform: none; } }
 @keyframes intro-salto { from { opacity: 0; transform: translateY(.9em) scale(.4); } to { opacity: 1; transform: none; } }
@@ -80,7 +86,7 @@ html.intro-tapa body::after { content: ""; position: fixed; inset: 0; z-index: 3
 /* Con "reducir movimiento": sin dibujos animados, solo el nombre y un fundido corto */
 .intro.quieta .intro-arte { display: none; }
 .intro.quieta .intro-nombre, .intro.quieta .intro-nombre span, .intro.quieta .intro-fondo::after { animation: none; opacity: 1; }
-.intro.quieta.fuera { transform: none; transition: opacity .15s linear; }
+.intro.quieta.fuera { opacity: 0; transform: none; transition: opacity .15s linear; }
 @media (prefers-reduced-motion: reduce) {
   .intro-arte [class*="a-"], .intro-nombre, .intro-nombre span { animation: none !important; opacity: 1; }
 }

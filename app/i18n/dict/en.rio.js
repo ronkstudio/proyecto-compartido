@@ -358,7 +358,6 @@ Object.assign(window.I18N_FULL = window.I18N_FULL || {}, {
 "El Palacio del Catete, antigua sede del gobierno, con un parque arbolado muy lindo.": "The Catete Palace, former seat of government, with a lovely tree-filled park.",
 "El parque es gratis y tranquilo.": "The park is free and peaceful.",
 "Una casa modernista en la selva con muestras de fotografía y un café muy agradable.": "A modernist house in the rainforest with photography exhibitions and a very pleasant café.",
-"Ideal para una tarde tranquila.": "Ideal for a quiet afternoon.",
 "La casa de un coleccionista en Santa Teresa con arte moderno y una vista hermosa del Centro.": "A collector's house in Santa Teresa with modern art and a beautiful view of Centro.",
 "Al lado está el Parque das Ruínas.": "Parque das Ruínas is next door.",
 "El mayor museo de arte popular de Brasil, con miles de figuras de barro y madera.": "Brazil's largest folk art museum, with thousands of clay and wooden figures.",

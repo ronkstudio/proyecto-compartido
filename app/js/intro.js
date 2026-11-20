@@ -78,7 +78,20 @@
         '<rect x="148" y="138" width="114" height="58" rx="10" fill="#f5b800"/><rect x="148" y="176" width="114" height="10" fill="#fff3c4"/>' +
         '<g fill="#0f2a5c"><rect x="158" y="148" width="20" height="20" rx="3"/><rect x="184" y="148" width="20" height="20" rx="3"/><rect x="210" y="148" width="20" height="20" rx="3"/><rect x="236" y="148" width="18" height="20" rx="3"/></g>' +
         '<text x="205" y="193" text-anchor="middle" font-size="9" font-weight="700" fill="#0f2a5c">28</text>' +
-        '<circle cx="172" cy="198" r="6" fill="#0f2a5c"/><circle cx="238" cy="198" r="6" fill="#0f2a5c"/></g></g>'; }
+        '<circle cx="172" cy="198" r="6" fill="#0f2a5c"/><circle cx="238" cy="198" r="6" fill="#0f2a5c"/></g></g>'; },
+    /* Tokio: luna roja, edificios con ventanas que se prenden, la Tokyo Tower que se dibuja, un torii, un cartel de neón y el tren bala. */
+    tokio: () => { let s = '<circle class="a-amanece" style="' + D(0) + '" cx="292" cy="92" r="38" fill="#e8402a"/>';
+      const ed = [[14, 150, 40], [58, 120, 34], [246, 136, 36], [286, 104, 40], [330, 156, 44], [94, 176, 30]];
+      ed.forEach((e, i) => { let v = ""; for (let y = e[1] + 10; y < 236; y += 16) for (let x = e[0] + 6; x < e[0] + e[2] - 8; x += 12) if ((x + y + i) % 3) v += '<rect x="' + x + '" y="' + y + '" width="5" height="7"/>';
+        s += '<g class="a-sube" style="' + D(.1 + i * .06) + '"><rect x="' + e[0] + '" y="' + e[1] + '" width="' + e[2] + '" height="' + (252 - e[1]) + '" fill="#0c0a1c" opacity=".85"/><g fill="#ffd27a" opacity=".75">' + v + "</g></g>"; });
+      return s + '<path class="a-draw" style="' + D(.25) + '" pathLength="1" d="M168 252L196 66H204L232 252M176 206H224M186 142H214M190 112H210M196 66V46" fill="none" stroke="#ff5a3c" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>' +
+        '<g class="a-pop" style="' + D(.45) + '"><rect x="36" y="160" width="108" height="8" rx="3" fill="#1b1530"/><g fill="#e8402a"><rect x="40" y="168" width="100" height="8"/><rect x="50" y="184" width="80" height="7"/><rect x="60" y="176" width="9" height="76"/><rect x="111" y="176" width="9" height="76"/></g></g>' +
+        '<g class="a-neon" style="' + D(.6) + '"><rect x="336" y="104" width="28" height="64" rx="5" fill="rgba(255,61,127,.15)" stroke="#ff3d7f" stroke-width="3"/>' +
+        '<text x="350" y="132" font-size="19" font-weight="700" text-anchor="middle" fill="#ffd0e0">東</text><text x="350" y="158" font-size="19" font-weight="700" text-anchor="middle" fill="#ffd0e0">京</text></g>' +
+        '<line x1="0" y1="276" x2="400" y2="276" stroke="rgba(255,255,255,.35)" stroke-width="2"/>' +
+        '<g class="a-tren" style="' + D(.3) + '"><path d="M10 274C18 258 52 252 96 251H392V274Z" fill="#f4f6fb"/><rect x="70" y="266" width="322" height="4" fill="#1f4fbf"/>' +
+        '<g fill="#1b1530"><path d="M44 262C54 256 70 255 86 255V261H44Z"/><rect x="104" y="256" width="12" height="6" rx="2"/><rect x="124" y="256" width="12" height="6" rx="2"/><rect x="144" y="256" width="12" height="6" rx="2"/>' +
+        '<rect x="164" y="256" width="12" height="6" rx="2"/><rect x="184" y="256" width="12" height="6" rx="2"/><rect x="204" y="256" width="12" height="6" rx="2"/><rect x="224" y="256" width="12" height="6" rx="2"/><rect x="244" y="256" width="12" height="6" rx="2"/></g></g>'; }
   };
 
   /* Figuras que salen al tocar la portada. */
@@ -93,10 +106,12 @@
     rio: '<circle cx="10" cy="10" r="7" fill="none" stroke="#fff" stroke-width="2.4"/>',
     bogota: '<path d="M10 10m-1.5 0a1.5 1.5 0 1 1 3 0a4 4 0 1 1-8 0a6.5 6.5 0 1 1 13 0" fill="none" stroke="#e9bd4f" stroke-width="2.2" stroke-linecap="round"/>',
     /* Lisboa: sardinas, por las Fiestas de Lisboa */
-    lisboa: '<path d="M1 10Q8 3 15 9L19 5V15L15 11Q8 17 1 10Z" fill="#c9d6e8" stroke="#3b5c8f" stroke-width="1.2"/><circle cx="5" cy="9.3" r="1.1" fill="#0f2a5c"/>'
+    lisboa: '<path d="M1 10Q8 3 15 9L19 5V15L15 11Q8 17 1 10Z" fill="#c9d6e8" stroke="#3b5c8f" stroke-width="1.2"/><circle cx="5" cy="9.3" r="1.1" fill="#0f2a5c"/>',
+    /* Tokio: pétalos de cerezo */
+    tokio: '<path d="M10 19C4 15 2 9 5 4.5 7 2 9 3 10 5.5 11 3 13 2 15 4.5 18 9 16 15 10 19Z" fill="#ffc6d9" stroke="#ff7fa8" stroke-width="1"/>'
   };
   /* Cómo se mueven: "cae" (con gravedad, como monedas tiradas), "sube" (como burbujas) o "explota" (para todos lados). */
-  const MOV = { roma: "cae", rio: "sube", amsterdam: "cae", paris: "explota", madrid: "explota", berlin: "explota", caba: "explota", barcelona: "explota", bogota: "explota", lisboa: "cae" };
+  const MOV = { roma: "cae", rio: "sube", amsterdam: "cae", paris: "explota", madrid: "explota", berlin: "explota", caba: "explota", barcelona: "explota", bogota: "explota", lisboa: "cae", tokio: "cae" };
 
   const nombreCiudad = id => {
     const c = (window.GUIA_CIUDADES || []).find(x => x.id === id);

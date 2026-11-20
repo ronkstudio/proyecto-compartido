@@ -8,6 +8,7 @@ Este archivo se mantiene corto a propósito, porque se lee al empezar cada tarea
 
 ## Últimos cambios
 
+- 20/11 · #216 · Tokio, undécima ciudad (la primera de Asia); 26 etiquetas comunes nuevas, "Lisboa" traducida y la intro se desvanece con "reducir movimiento".
 - 19/11 · #217 · Este archivo se achicó (el anterior está en `docs/historial.md`); `LEEME.md` al día; Claude suma a `main` sin preguntar.
 - 19/11 · #214 · Lisboa, décima ciudad.
 - 19/11 · #212 · Intro animada al entrar a cada ciudad y portada que se toca (`js/intro.js`, `css/intro.css`).
@@ -17,7 +18,6 @@ Este archivo se mantiene corto a propósito, porque se lee al empezar cada tarea
 - 19/11 · #203 · Río de Janeiro, octava ciudad.
 - 18/11 · #202 · Variedad: en las 7 ciudades de entonces, cada tipo y barrio del filtro tiene 4 lugares o más.
 - 18/11 · #199 · Ámsterdam, séptima ciudad.
-- 18/11 · #198 · Más fotos, dietas con fuente y traducciones que faltaban en varias ciudades.
 
 ## Decidido
 
@@ -38,7 +38,7 @@ Las decisiones del proyecto y las que faltan están en el `README.md` de la carp
 1. **¿La copia publicada lleva cartel de "versión de prueba, datos sin verificar"?** Hoy no lo tiene.
 2. **¿Se muestran los filtros sin TACC** antes de confirmar los lugares uno por uno?
 3. **¿Qué idiomas siguen?** (tarjeta #11). Hoy están los 8 completos (castellano, inglés, portugués, francés, italiano, alemán, chino y japonés), traducidos por Claude y sin revisar por alguien que hable cada idioma.
-4. **El nombre de la app.** La app instalada en el celular, el título y la descripción todavía dicen "Guía de Buenos Aires" / "Guía BA" (`manifest.webmanifest` e `index.html`), aunque ya son 10 ciudades.
+4. **El nombre de la app.** La app instalada en el celular, el título y la descripción todavía dicen "Guía de Buenos Aires" / "Guía BA" (`manifest.webmanifest` e `index.html`), aunque ya son 11 ciudades.
 
 ## Las ciudades
 
@@ -56,6 +56,7 @@ Todas tienen la misma estructura: lugares en 9 categorías, mapa con puntos de a
 | Río de Janeiro | 152 | Agenda fija | `docs/fuentes-rio.md` | Fotos; fuente oficial de los días de samba de la Pedra do Sal |
 | Bogotá | 121 | Agenda fija | `docs/fuentes-bogota.md` | Fotos (casi no hay libres); ubicaciones por grilla aproximadas (~200 m); más embajadas |
 | Lisboa | 170 | Agenda fija | `docs/fuentes-lisboa.md` | Fotos; consulados de Colombia, México, Uruguay y Estados Unidos |
+| Tokio | 217 | Agenda fija (torneos de sumo y cerezos) | `docs/fuentes-tokio.md` | Fotos de 122 lugares; ubicación aproximada de la embajada de Uruguay (se mudó en 2023) |
 
 La cantidad de lugares se contó el 19/11/2026 desde `data/` (lista `places` de cada ciudad). Las agendas automáticas las baja `.github/workflows/publicar-guia.yml` dos veces por día con los scripts de `herramientas/`. Solo Buenos Aires tiene las 6 capas de zonas del mapa.
 

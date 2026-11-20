@@ -25,3 +25,5 @@ Los que consultan internet (OpenStreetMap, Wikimedia Commons, Wikidata) se prese
 | `contar.pl` | Cuenta lugares por tipo y por barrio, para ver la variedad (4 o más de cada uno). |
 | `contraste.pl` | Mide el contraste de los colores de cada ciudad en `css/temas.css`, en claro y oscuro. |
 | `estaciones-metro.pl` | Trae de OpenStreetMap las estaciones de cada línea de metro, para "la estación más cercana" (bloque `stations`). |
+| `geotokio.pl` | Ubicaciones cuando las direcciones no las entiende el mapa (Tokio): busca el nombre en OpenStreetMap y controla que caiga en el distrito de la dirección. |
+| `estaciones-tokio.pl` | Estaciones por línea cuando hay varias empresas de metro y trenes (Tokyo Metro, Toei y la Yamanote de JR), con el nombre en `name:en`. |

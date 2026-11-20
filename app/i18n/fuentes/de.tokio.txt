@@ -1,0 +1,959 @@
+1|Tempel, Schreine, Aussichtspunkte, Museen und Gärten
+2|Ramen, Sushi, Izakayas, Märkte und Süßes
+3|Yokocho, Cocktailbars, Jazz und Clubs
+4|Touren und Erlebnisse
+5|Boote, Essen, Kimono und Teezeremonie
+6|Fuji, Nikko, Kamakura und Hakone
+7|Hostels, Kapseln, Ryokan und Hotels
+8|Anime, Technik, Design und Kaufhäuser
+9|Sumo, Baseball, Judo und Parks
+10|Onsen, Kabuki, Karaoke und Ausflüge mit Kindern
+11|Asakusa und Sumida
+12|Das alte Tokio
+13|Der Senso-ji-Tempel, die Nakamise-Straße, Lokale wie früher und auf der anderen Flussseite der Tokyo Skytree und Ryogoku, das Sumo-Viertel.
+14|Abends ruhig und mit vielen Ryokan; etwas weit von Shibuya und Shinjuku.
+15|Ueno und Yanaka
+16|Museen und Gassen
+17|Der Ueno-Park mit Museen und Zoo, der Ameyoko-Markt und daneben Yanaka, ein Viertel aus Tempeln und Holzhäusern, das den Krieg überstanden hat.
+18|Gut an den Flughafen Narita angebunden (Skyliner).
+19|Akihabara und Kanda
+20|Anime und Elektronik
+21|Die Electric Town mit Anime-, Videospiel- und Elektronikläden; Kanda mit hundertjährigen Soba-Lokalen; und Jimbocho, das Buchhändlerviertel.
+22|Praktisch und zentral, an der Yamanote-Linie.
+23|Marunouchi und Nihonbashi
+24|Zentrum und Palast
+25|Der Bahnhof Tokio, die Bürotürme, der Kaiserpalast mit seinen Gärten und Nihonbashi, der alte Kilometer null.
+26|Ideal für den Shinkansen; am Wochenende ruhig.
+27|Ginza und Tsukiji
+28|Eleganz und Markt
+29|Ginza mit Kaufhäusern, Kabuki und den besten Cocktailbars; und Tsukiji mit seinem Lebensmittelmarkt.
+30|Zentral und elegant.
+31|Shinjuku
+32|Neon und Wolkenkratzer
+33|Der meistfrequentierte Bahnhof der Welt, Kabukicho mit seinen Lichtern, Golden Gai, Omoide Yokocho, die Aussichtsetage des Rathauses und der Park Shinjuku Gyoen.
+34|Die beste Basis: Verbindungen überallhin und Nachtleben bis spät.
+35|Shibuya
+36|Die Kreuzung und die Jugend
+37|Die berühmteste Kreuzung der Welt, Hachiko, das Shibuya Sky, Läden, Bars und Clubs.
+38|Sehr belebt, ideal zum Ausgehen.
+39|Harajuku und Omotesando
+40|Mode und Schrein
+41|Die Takeshita Street und die Jugendmode, die Allee Omotesando mit ihren Designerbauten und der Meiji Jingu mitten im Wald.
+42|Schön zum Bummeln; weniger Hotels.
+43|Roppongi und Azabu
+44|Kunst und internationales Nachtleben
+45|Roppongi Hills, Tokyo Midtown, teamLab Borderless, der Tokyo Tower und das internationalste Nachtleben der Stadt.
+46|Luxushotels; nachts Vorsicht vor Anwerbern auf der Straße.
+47|Odaiba und die Bucht
+48|Zukunft auf dem Wasser
+49|Künstliche Inseln mit der Rainbow Bridge, dem riesigen Gundam, teamLab Planets, dem Toyosu-Markt und Wissenschaftsmuseen.
+50|Zum Besuchen; etwas abseits vom Rest.
+51|Ikebukuro
+52|Anime und Einkaufszentren
+53|Sunshine City mit Aquarium und Pokémon Center sowie Anime- und Mangaläden.
+54|Günstigere Hotels mit guter Anbindung.
+55|Ebisu, Meguro und Shimokitazawa
+56|Angesagte Viertel
+57|Ebisu mit seinen kleinen Bars, der Kanal von Nakameguro mit Kirschbäumen, das elegante Daikanyama und das Boheme-Viertel Shimokitazawa.
+58|Ruhiger und voller Alltagsleben.
+59|Tokio an 1 Tag
+60|Komm früh, vor dem Andrang.
+61|Kauf das Ticket vorher.
+62|Yakitori unter den Gleisen.
+63|Steig an den Hamarikyu-Gärten aus.
+64|Ticket mit Datum und Uhrzeit.
+65|Die Feinkostetage im Untergeschoss.
+66|Ein Thermalbad zum Tagesabschluss.
+67|Tokio gratis
+68|Die Ostgärten.
+69|Die kostenlose Aussichtsetage im 45. Stock.
+70|Shibuya – Asakusa
+71|Omotesando, Ginza, Nihonbashi, Ueno und Asakusa (Senso-ji)
+72|Ogikubo – Ikebukuro
+73|Shinjuku, Bahnhof Tokio, Ginza, Korakuen (Tokyo Dome) und Ikebukuro
+74|Naka-meguro – Kita-senju
+75|Nakameguro, Ebisu, Roppongi, Ginza, Tsukiji, Akihabara und Ueno
+76|Nakano – Nishi-funabashi
+77|Kagurazaka, Otemachi, Nihonbashi und Monzen-nakacho
+78|Yoyogi-uehara – Kita-ayase
+79|Meiji-jingumae (Harajuku), Omotesando, Nijubashimae (Kaiserpalast), Nezu und Sendagi (Yanaka)
+80|Wakoshi – Shin-kiba
+81|Ikebukuro, Yurakucho, Ginza und Toyosu (teamLab Planets und der Markt)
+82|Shibuya – Oshiage
+83|Shibuya, Omotesando, Jimbocho, Kiyosumi-shirakawa und Oshiage (Tokyo Skytree)
+84|Meguro – Akabane-iwabuchi
+85|Roppongi-itchome, Korakuen (Tokyo Dome) und Komagome (Rikugien)
+86|Wakoshi – Shibuya
+87|Ikebukuro, Shinjuku-sanchome, Meiji-jingumae (Harajuku) und Shibuya
+88|Nishi-magome – Oshiage
+89|Asakusa, Nihonbashi und Higashi-ginza; manche Züge fahren direkt weiter zu den Flughäfen Haneda und Narita
+90|Meguro – Nishi-takashimadaira
+91|Shibakoen (Tokyo Tower), Jimbocho und Kasuga
+92|Shinjuku – Motoyawata
+93|Shinjuku, Jimbocho und Bakuro-yokoyama
+94|Tochomae – Hikarigaoka (in Form einer 6)
+95|Tochomae (Aussichtsetage des Rathauses), Roppongi, Azabu-juban, Tsukijishijo (Markt), Ryogoku (Sumo) und Ueno-okachimachi
+96|Die Runde um die Stadt: Tokio, Akihabara, Ueno, Ikebukuro, Shinjuku, Harajuku, Shibuya, Ebisu und Shinagawa
+97|Suica oder PASMO
+98|Die aufladbaren Karten Tokios: Sie gelten in U-Bahn, JR-Zügen und Bussen und sogar in Convenience Stores (Konbini) und Automaten. Die normale Suica gibt es an Automaten in JR-Bahnhöfen, mit Pfand, das du bei Rückgabe zurückbekommst.
+99|Welcome Suica
+100|Eine Suica für Touristen ohne Pfand, 28 Tage ab Kauf gültig. Es gibt auch die App Welcome Suica Mobile fürs Handy.
+101|Auf dem Handy
+102|Auf dem iPhone kannst du eine Suica oder PASMO in Apple Wallet hinzufügen und mit deiner Karte aufladen. Viele außerhalb Japans gekaufte Android-Handys sind nicht kompatibel.
+103|Auf allen Linien von Tokyo Metro und Toei kommst du durch die Sperre, indem du eine kontaktlose Kredit- oder Debitkarte (oder das Handy mit der Karte) auflegst. Es wird der normale Fahrpreis berechnet. In JR-Zügen wie der Yamanote geht das nicht: dort Suica oder PASMO.
+104|Tokyo Subway Ticket
+105|Ein 24-, 48- oder 72-Stunden-Pass für alle Linien von Tokyo Metro und Toei, nur für Besucher aus dem Ausland (und anderen Regionen Japans). JR-Züge sind nicht enthalten.
+106|19. November 2026, anhand der offiziellen Websites von Tokyo Metro, JR East und Keisei. Bei Abweichungen gelten die Aushänge vor Ort.
+107|U-Bahn Tokio
+108|Zwei Betreiber, ein Plan
+109|Es gibt 13 U-Bahn-Linien: 9 von Tokyo Metro und 4 von Toei. Jede Linie hat eine Farbe und einen Buchstaben, jede Station eine Nummer (zum Beispiel G-16): So verirrt man sich kaum.
+110|Die Yamanote
+111|Die hellgrüne Ringlinie von JR verbindet die meistbesuchten Viertel: Tokio, Akihabara, Ueno, Ikebukuro, Shinjuku, Harajuku und Shibuya.
+112|Manche Bahnhöfe wie Shinjuku, Tokio oder Shibuya sind riesig: Folge den Schildern mit der Linienfarbe und der Ausgangsnummer.
+113|Stoßzeiten
+114|Frühmorgens und nach Büroschluss sind die Züge brechend voll. Meide diese Zeiten mit Gepäck, wenn möglich.
+115|Letzter Zug
+116|Die U-Bahn fährt nicht die ganze Nacht. Wenn du spät unterwegs bist, prüf den letzten Zug oder nimm ein Taxi.
+117|Shinkansen und JR
+118|Shinkansen
+119|Shinkansen fahren ab den Bahnhöfen Tokio, Shinagawa und Ueno. Sie werden extra bezahlt, nicht mit der Suica: Kauf das Ticket am JR-Automaten, am Schalter oder online.
+120|Japan Rail Pass
+121|Der JR-Bahnpass für ganz Japan. Er lohnt sich nur bei langen Strecken, etwa Tokio, Kyoto und Osaka in wenigen Tagen: rechne vorher nach.
+122|Mit der Suica
+123|Für normale JR-Züge rund um Tokio (Yokohama, Kamakura, Nikko mit Umstiegen) reicht die Suica.
+124|Haneda (HND)
+125|Am nächsten zum Zentrum. Erreichbar mit dem Keikyu-Zug (bis Shinagawa, manche fahren auf der Asakusa-Linie weiter) oder der Tokyo Monorail (bis Hamamatsucho). Beide nehmen die Suica.
+126|Narita (NRT)
+127|Weiter weg, über eine Stunde. Der Keisei Skyliner fährt schnell nach Ueno und Nippori, der Narita Express von JR nach Tokio, Shinagawa, Shibuya und Shinjuku.
+128|Busse
+129|Flughafenbusse (Airport Limousine) fahren zu den Bahnhöfen und großen Hotels: bequem mit Gepäck.
+130|Gepäckversand
+131|Vom Flughafen und vom Hotel aus kannst du dein Gepäck per Lieferdienst (Takkyubin) zum nächsten Hotel schicken: sehr praktisch für Bahnreisen ohne Schleppen.
+132|Sie sind sauber, sicher und haben ein Taxameter. Die hintere Tür öffnet und schließt sich von selbst: nicht anfassen.
+133|Mit GO oder Uber bestellst du Taxis per Handy mit eingetipptem Ziel: So musst du nichts erklären.
+134|Nach dem letzten Zug sind Taxis die einzige Option und haben einen Nachtzuschlag.
+135|Tokio ist riesig, aber innerhalb der Viertel gut zu Fuß machbar. Trag bequeme Schuhe: In den Bahnhöfen läuft man viel.
+136|Rolltreppen
+137|In Tokio steht man links und lässt rechts frei.
+138|Überall in der Stadt gibt es Leihräder per App. Man fährt links, wie die Autos.
+139|Rettungsdienst und Feuerwehr
+140|Japan Visitor Hotline: Hilfe für Touristen auf Englisch, Chinesisch und Koreanisch, rund um die Uhr
+141|Medizinische Notfallberatung Tokio: wenn du nicht sicher bist, ob du ins Krankenhaus musst (auf Japanisch)
+142|Polizei: allgemeine Auskunft auf Englisch und in anderen Sprachen
+143|AMDA: medizinische Auskunft in mehreren Sprachen
+144|Eine der sichersten Städte
+145|Tokio ist eine der sichersten Großstädte der Welt: Man läuft nachts entspannt herum, und Diebstahl ist selten.
+146|Wenn du etwas verlierst, taucht es oft wieder auf: Frag am Bahnhof oder im Koban, dem kleinen Polizeiposten jedes Viertels.
+147|Trotzdem: Pass in Menschenmengen auf deine Sachen auf, wie überall.
+148|Bars und Anwerber
+149|In Kabukicho (Shinjuku) und Roppongi laden Anwerber auf der Straße in Bars ein: Folge ihnen nicht. Es gab Fälle von riesigen Rechnungen und präparierten Getränken.
+150|Wähl Bars, die du kennst oder die gute Bewertungen haben, und schau vor dem Bestellen auf die Preise.
+151|Viele kleine Bars verlangen Eintritt oder einen Pflicht-Appetithappen („Otoshi"): Das ist normal, kein Betrug.
+152|Erdbeben und Taifune
+153|In Japan bebt es oft. Wenn es wackelt, geh weg von Glas, schütz deinen Kopf und folge den Anweisungen des Personals.
+154|Lade die App Safety tips der japanischen Tourismusbehörde herunter: Sie warnt vor Erdbeben und anderen Gefahren in mehreren Sprachen.
+155|Von August bis Oktober kann es Taifune geben: Wird einer angekündigt, können Züge und Flüge ausfallen.
+156|Dokumente und Hilfe
+157|Hab deinen Pass dabei: Die Polizei kann ihn verlangen, und viele Hotels und Clubs tun es.
+158|Wenn dein Pass gestohlen wird oder verloren geht, melde es in einem Koban und geh dann zu deinem Konsulat: Sie sind auf der Karte unter Info > Hilfe.
+159|Schließ eine Reiseversicherung ab: Medizinische Behandlung ohne Versicherung ist teuer.
+160|Yen (JPY). Es gibt keine Cents.
+161|Karten und Bargeld
+162|Karten werden immer öfter akzeptiert, aber viele kleine Restaurants, Tempel und Stände nehmen nur Bargeld: Hab immer etwas dabei.
+163|Die Geldautomaten in 7-Eleven-Läden und bei der Post (Japan Post) nehmen ausländische Karten. Viele japanische Bankautomaten nicht.
+164|In Japan gibt man kein Trinkgeld: Es kann unangenehm sein.
+165|Steuerfreies Einkaufen
+166|Seit dem 1. November 2026 zahlen Touristen beim Einkauf die Steuer und bekommen sie erst zurück, wenn sie bei der Ausreise am Flughafenzoll Pass und Waren zeigen. Pack alles ins Handgepäck und sei früh da.
+167|Zeiten in Tokio
+168|Man isst früh zu Mittag und zu Abend. Viele Restaurants schließen die Küche früher als gedacht.
+169|Geschäfte haben jeden Tag geöffnet, auch sonntags, und Convenience Stores (Konbini) schließen nie.
+170|Viele Museen schließen montags (oder dienstags, wenn Montag ein Feiertag ist).
+171|Frühling
+172|Ende März und Anfang April ist Kirschblütenzeit: die schönste und vollste Zeit.
+173|Sehr heiß und schwül. Juni und Juli sind Regenzeit, von August bis Oktober kann es Taifune geben.
+174|Herbst
+175|November ist ideal: mild, trocken und mit roten und gelben Bäumen.
+176|Kalt, aber trocken und sonnig. Dann sieht man den Fuji am besten.
+177|100 V. Stecker Typ A mit zwei flachen Stiften: Wenn du aus Argentinien kommst, nimm einen Adapter mit. Prüf, ob deine Ladegeräte 100 V vertragen.
+178|Am einfachsten ist eine eSIM vor der Reise. Am Flughafen kann man auch SIM-Karten und Pocket-WLAN-Router mieten.
+179|Gesprochen wird Japanisch. Die Schilder im Verkehr sind auf Englisch, aber viele sprechen es nicht: Die Übersetzer-App hilft sehr.
+180|Müll
+181|Auf der Straße gibt es kaum Mülleimer: Nimm eine kleine Tüte mit und entsorg den Müll im Hotel oder in den Konbini-Behältern.
+182|Schuhe
+183|In Wohnungen, Ryokan, manchen Restaurants und Tempeln zieht man die Schuhe aus. Trag Socken ohne Löcher.
+184|Im Zug
+185|Man telefoniert nicht und spricht leise. In normalen Zügen wird auch nicht gegessen.
+186|Onsen
+187|Ins Thermalbad geht man nackt, nach dem Duschen. Viele lassen Tätowierte nicht hinein: Frag vorher.
+188|Eine kleine Verbeugung und ein „Arigato" (danke) kommen sehr gut an.
+189|Ramen, Sushi, Tempura, Tonkatsu, Yakitori, Onigiri aus dem Konbini, Süßes aus roten Bohnen, Matcha-Tee und Sake.
+190|Außerhalb Tokios
+191|Tokio-Pass
+192|Hak die Orte ab, an denen du warst, und sammle Stempel: Tempel, Ramen, Sushi, Onsen, Anime, Viertel-Entdecker…
+193|Spätnacht in Tokio
+194|🏮 Yokocho und Nachtleben
+195|Keine U-Bahn-Station in der Nähe: besser Bus, Taxi oder App
+196|Was suchst du? Ramen, Tempel, Anime, Fuji…
+197|Z. B. Senso-ji, Shibuya Crossing, Meiji Jingu…
+198|Z. B. Asakusa, Shibuya, Shinjuku…
+199|Z. B. JAL, ANA, Aeroméxico…
+200|Ramen
+201|Anime
+202|Yen
+203|Betrag in Yen
+204|Ins Zentrum (Bahnhof Tokio)
+205|Vom Flughafen Haneda
+206|Vom Flughafen Narita
+207|Flughafen Haneda
+208|Flughafen Narita
+209|Keisei Skyliner
+210|Von Narita nach Ueno
+211|JR East
+212|Narita Express, Suica und Züge
+213|Haneda liegt näher: Der Keikyu-Zug und die Tokyo Monorail nehmen die Suica.
+214|Von Narita kommt der Keisei Skyliner schnell nach Ueno und der Narita Express von JR nach Tokio, Shibuya und Shinjuku.
+215|Mit viel Gepäck bringen dich die Flughafenbusse zu den Bahnhöfen und großen Hotels.
+216|Am Flughafen kannst du die Welcome Suica kaufen, ein Pocket-WLAN mieten und dein Gepäck ins Hotel schicken.
+217|Prepaid-SIM für Touristen
+218|Prepaid-SIMs und eSIMs
+219|Mobilfunkanbieter
+220|Am bequemsten ist eine Daten-eSIM, die du vor der Reise aktivierst.
+221|An den Flughäfen gibt es Schalter, die Pocket-WLAN-Router vermieten, ideal, wenn ihr zu mehreren reist.
+222|Viele Bahnhöfe, Konbini und Cafés haben kostenloses WLAN, aber verlass dich besser nicht darauf.
+223|Hab immer etwas Bargeld dabei: Viele kleine Läden, Tempel und Stände nehmen keine Karte.
+224|Geldautomaten bei 7-Eleven und der Post nehmen ausländische Karten.
+225|Wenn Automat oder Kartenleser anbietet, in deiner Währung abzurechnen, wähl Zahlung in Yen.
+226|Suica, Bankkarte und U-Bahn-Pass
+227|Tokyo Metro
+228|Toei
+229|U-Bahn und Busse der Stadt
+230|24-, 48- oder 72-Stunden-Pass
+231|Mit einer Suica (oder der Welcome Suica) fährst du U-Bahn, JR-Züge und Bus, ohne an Tickets zu denken.
+232|In der U-Bahn kannst du auch kontaktlos mit der Bankkarte zahlen, aber nicht in JR-Zügen.
+233|U-Bahn, Yamanote, Shinkansen und Flughäfen
+234|Für Tokio selbst lohnt es sich nicht: Der Nahverkehr ist hervorragend, Parken teuer und schwierig. Praktisch für Ausflüge, etwa zum Fuji, nach Hakone oder Nikko.
+235|Toyota Rent a Car
+236|Nippon Rent-A-Car
+237|ORIX Rent-A-Car
+238|In Japan fährt man links.
+239|Gültig ist nur der Internationale Führerschein nach dem Genfer Abkommen von 1949: Manche Länder stellen ihn nicht aus, also informier dich vor der Reise.
+240|Autobahnen sind mautpflichtig: Frag beim Verleih nach einer ETC-Karte, um ohne Anhalten durchzufahren.
+241|Die Schilder an den Hauptstraßen sind auch auf Englisch.
+242|Welchen Zug oder welche U-Bahn du nimmst, mit Zeiten und Gleisen.
+243|Verbindungen im Nahverkehr und Bahnpässe für Touristen.
+244|Zum Bestellen von Taxis per Handy.
+245|Taxis und Wagen mit Fahrer.
+246|Für ein sicheres Gefühl
+247|Die offizielle App mit Warnungen vor Erdbeben, Taifunen und anderen Notfällen, in mehreren Sprachen.
+248|jp.co.rcsc.safetyTips.android
+249|Übersetzt Schilder und Speisekarten mit der Kamera.
+250|Die Messenger-App, die in Japan genutzt wird.
+251|Tokyo Metro: Betrieb heute
+252|Verspätungen und Änderungen auf den Linien.
+253|JR East: Zugstatus
+254|Verspätungen der Yamanote und anderer Züge.
+255|Erdbeben, Taifune und Störungen in den heutigen Nachrichten.
+256|⭐ Highlights der Woche. Den ganzen Veranstaltungskalender der Stadt gibt es auf GO TOKYO: Prüf es dort, bevor du hingehst.
+257|GO TOKYO: Veranstaltungen (offizielle Tourismus-Website)
+258|Sumo: Turnierkalender
+259|Tokio hat zwei internationale Flughäfen: Haneda (HND) in der Stadt, etwa 30 Minuten vom Zentrum, und Narita (NRT) in der Präfektur Chiba, über eine Stunde entfernt. Prüf, wo dein Flug landet: Davon hängt der Weg zum Hotel ab.
+260|Entschuldigung (auch, um die Bedienung zu rufen)
+261|Bitte (wenn man um etwas bittet)
+262|Sprechen Sie Englisch?
+263|Das hier, bitte (zeigend)
+264|Wo ist die Toilette?
+265|Kann ich mit Karte zahlen?
+266|🛬 So kommst du von Haneda oder Narita zu deiner Unterkunft
+267|🎫 So bezahlst du U-Bahn und Züge mit Suica oder Bankkarte
+268|💴 Wann du Bargeld brauchst und wo du Yen abhebst
+269|🍜 So bestellst du in einem Restaurant mit Ticketautomat
+270|Polizei (Koban)
+271|Krankenhäuser mit Notaufnahme
+272|Flughäfen und Bahnhöfe
+273|Tokyo Tourist Information Center · Stadtregierung Tokio
+274|Im Erdgeschoss des Rathauses von Tokio, dem mit der kostenlosen Aussichtsetage.
+275|Tokyo Tourist Information Center · Busta Shinjuku
+276|Im Busterminal von Shinjuku, über dem Bahnhof.
+277|Tokyo Tourist Information Center · Keisei Ueno
+278|Gegenüber den Sperren des Zugs zum Flughafen Narita.
+279|Asakusa Culture Tourist Information Center
+280|Gegenüber dem Kaminarimon, von Kengo Kuma, mit kostenloser Aussichtsterrasse oben.
+281|Shibu Hachi Box
+282|Infostand neben der Hachiko-Statue.
+283|Koban am Bahnhof Shibuya
+284|Neben Hachiko. Im Notfall 110 anrufen.
+285|Koban am Ostausgang Shinjuku
+286|Am Ostausgang des Bahnhofs.
+287|Koban Kabukicho
+288|Am Eingang des Ausgehviertels.
+289|Koban Kaminarimon
+290|Gegenüber dem Donnertor.
+291|Koban Ginza 4-chome
+292|An der zentralen Kreuzung von Ginza.
+293|Koban Roppongi
+294|An der Kreuzung Roppongi, mitten im Nachtleben.
+295|Koban am Ueno-Park
+296|Am Parkeingang, gegenüber dem Bahnhof.
+297|National Center for Global Health and Medicine
+298|Öffentliches Krankenhaus mit Notaufnahme und Betreuung für Ausländer.
+299|Toranomon Hospital
+300|Großes Krankenhaus mit Notaufnahme, nahe Roppongi und Ginza.
+301|Keio University Hospital
+302|Universitätsklinik mit Notaufnahme.
+303|The University of Tokyo Hospital
+304|Universitätsklinik mit Notaufnahme, nahe Ueno.
+305|Nihon University Hospital
+306|Universitätsklinik mit Notaufnahme, nahe Akihabara.
+307|Konsularische Dienste und Hilfe, im Ichigo-Gotanda-Gebäude.
+308|Im Shibakoen-Hanshin-Gebäude, 8. Stock.
+309|Spanien · Botschaft (Konsularabteilung)
+310|Im Ichigo-Gotanda-Gebäude, 6. Stock.
+311|Im Daimon-KS-Gebäude, 7. Stock (2023 umgezogen).
+312|Flughafen Haneda (HND)
+313|Der zentrumsnächste Flughafen: Keikyu-Zug und Tokyo Monorail.
+314|Bahnhof Tokio
+315|Shinkansen, Narita Express und die Yamanote-Linie.
+316|Bahnhof Shinjuku
+317|Der meistfrequentierte Bahnhof der Welt. Darüber das Busterminal Busta Shinjuku (zum Fuji und nach Hakone).
+318|Bahnhof Ueno
+319|Shinkansen und daneben der Keisei Skyliner nach Narita.
+320|Japan Visitor Hotline
+321|050-3816-2787: Hilfe für Touristen auf Englisch, Chinesisch und Koreanisch, rund um die Uhr.
+322|AMDA
+323|Medizinische Auskunft in mehreren Sprachen: 03-6233-9266.
+324|GO TOKYO
+325|Die offizielle Tourismus-Website von Tokio.
+326|Apotheken und Drogerien in der Nähe, auf der Karte.
+327|Geldautomat (7-Eleven)
+328|Konbini (Convenience Store)
+329|Toilette
+330|Pilger
+331|3 Tempel oder Schreine
+332|Tempel und Schrein
+333|Ramen-Fan
+334|2 Ramenläden
+335|Vom Meer an die Theke
+336|Ein Sushi-Lokal
+337|Sushi
+338|Gassen
+339|Ein Abend in einem Yokocho
+340|Yokocho und Mini-Bars
+341|Heißes Wasser
+342|Ein Onsen oder öffentliches Bad
+343|Onsen und Bäder
+344|Otaku
+345|2 Anime- oder Videospielorte
+346|Von oben
+347|Ehren-Edokko
+348|Steckeradapter Typ A (zwei flache Stifte) und Ladegeräte für 100 V
+349|Zeitfenster-Tickets vorab kaufen: Ghibli-Museum, teamLab, Shibuya Sky und Sumo
+350|Visit Japan Web ausfüllen, die offizielle Einreiseregistrierung
+351|Socken ohne Löcher: An vielen Orten zieht man die Schuhe aus
+352|Welcome Suica kaufen oder eine Suica aufs Handy laden
+353|Yen an einem Automaten bei 7-Eleven oder der Post abheben
+354|eSIM aktivieren oder Pocket-WLAN mieten
+355|Die App Safety tips mit Erdbebenwarnungen herunterladen
+356|Tokio-Klassiker
+357|Tempel und Schreine
+358|Izakayas und Yokocho
+359|Anime und Videospiele
+360|Japanische Gärten
+361|Cocktailbars
+362|Fuji
+363|Asakusa, Ueno und Akihabara
+364|Shibuya und Harajuku
+365|Ginza und der Kaiserpalast
+366|Roppongi und Odaiba
+367|Asakusa, Ueno, Ginza und der Palast
+368|Shibuya, Harajuku und Shinjuku
+369|Erste Januartage
+370|Hatsumode
+371|Der erste Tempel- oder Schreinbesuch des Jahres: Millionen Menschen kommen zum Meiji Jingu und zum Senso-ji.
+372|Januar, Mai und September
+373|Sumo-Turniere
+374|Die drei Sumo-Turniere Tokios, je etwa zwei Wochen, in der Ryogoku Kokugikan.
+375|Februar und März
+376|Pflaumenblüte
+377|Die Pflaumen blühen vor den Kirschen, in Gärten wie dem Koishikawa Korakuen.
+378|Tokio-Marathon
+379|Einer der großen Marathons der Welt, durch das Stadtzentrum.
+380|Ende März und Anfang April
+381|Kirschblüte (Hanami)
+382|Die Stadt ist voller Picknicks unter Kirschbäumen: Ueno, Shinjuku Gyoen, Nakameguro und der Sumida-Fluss.
+383|Sanja Matsuri
+384|Das große Fest von Asakusa, bei dem tragbare Schreine auf den Schultern durch die Straßen getragen werden.
+385|Ende Juli
+386|Feuerwerk am Sumida-Fluss
+387|Eines der berühmtesten Feuerwerksfeste Japans, mit Menschen im Yukata.
+388|Sommerfeste
+389|Straßentänze, Essensstände und Feuerwerk in vielen Vierteln, etwa beim Awa Odori in Koenji.
+390|Herbstlaub (Koyo)
+391|Ahorn und Ginkgo färben sich rot und gelb: Rikugien, die Ginkgo-Allee in Jingu Gaien und der Berg Takao.
+392|Winterbeleuchtung
+393|Lichter in Marunouchi, Roppongi, Shibuya und Ebisu den ganzen Dezember.
+394|Um Mitternacht läuten die Tempel ihre Glocken 108-mal. Viele gehen lieber in den Tempel als feiern.
+395|Die Konbini
+396|7-Eleven, FamilyMart und Lawson gibt es an jeder Ecke, und sie schließen nie.
+397|Was es dort gibt
+398|Leckeres, günstiges Essen (Onigiri, Sandwiches, Fertiggerichte zum Aufwärmen), Geldautomaten, Toiletten, WLAN, Drucker und Paketversand.
+399|Suica
+400|Man kann mit Suica oder PASMO zahlen.
+401|Essen in Japan
+402|Ticketautomaten
+403|In vielen Ramen- und Schnellimbisslokalen bestellt man an einem Automaten am Eingang: auswählen, zahlen, Ticket dem Koch geben.
+404|Schlangen
+405|Schlangen sind normal und werden respektiert. Liegt an der Tür eine Liste, trag dich ein.
+406|Der Bar-Happen
+407|In Izakayas bekommst du eine unbestellte Vorspeise (Otoshi), die berechnet wird: wie ein Gedeckpreis.
+408|Kein Trinkgeld. Man zahlt beim Hinausgehen an der Kasse.
+409|Geräusche
+410|Nudeln zu schlürfen ist in Ordnung: Es zeigt, dass es dir schmeckt.
+411|Rettungsdienst: 119. Wenn du unsicher bist, ob du ins Krankenhaus musst, berät dich Tokios #7119 (auf Japanisch). AMDA gibt medizinische Auskunft in mehreren Sprachen.
+412|Drogerien verkaufen alles; für verschreibungspflichtige Medikamente such das Apothekenschild (薬局).
+413|Sehr empfehlenswert: Ohne Versicherung ist medizinische Behandlung teuer.
+414|Sumo-Turniermonat in der Ryogoku Kokugikan: Prüf im offiziellen Kalender, ob heute Kämpfe sind
+415|Kirschblütenzeit: Picknicks unter den Bäumen im Ueno-Park (vor allem Anfang April)
+416|Tokios ältester buddhistischer Tempel, mit fünfstöckiger Pagode, Weihrauchduft und der Ladenstraße, die zu ihm führt.
+417|Geh früh oder abends, wenn er beleuchtet und fast leer ist. Zieh ein Omikuji, das Glückslos.
+418|Das Donnertor mit seiner riesigen roten Laterne: der Eingang zum Senso-ji und das klassischste Foto Asakusas.
+419|Für ein Foto ohne Leute: sehr früh.
+420|Der berühmteste Fußgängerüberweg der Welt: Wenn alle Ampeln grün werden, laufen Hunderte Menschen gleichzeitig in alle Richtungen.
+421|Von oben siehst du es vom Shibuya Sky oder aus den Fenstern der Bahnhöfe und Läden ringsum.
+422|Die Statue des Hundes, der jahrelang am Bahnhof auf sein Herrchen wartete: der Treffpunkt ganz Tokios.
+423|Sie steht am Hachiko-Ausgang des Bahnhofs.
+424|Japans höchster Turm mit zwei schwindelerregenden Aussichtsetagen, unten ein Einkaufszentrum und ein Aquarium.
+425|Kauf online ein Ticket mit Datum und Uhrzeit. An klaren Tagen sieht man den Fuji.
+426|Der rot-weiße Turm nach Pariser Vorbild, Wahrzeichen der Stadt seit den 1950er-Jahren.
+427|Das schönste Foto gelingt vom Zojo-ji-Tempel aus, mit dem Turm dahinter.
+428|Der restaurierte rote Backsteinbahnhof von 1914 gegenüber den Hochhäusern von Marunouchi. Darunter liegt eine Stadt aus Läden und Restaurants.
+429|Die Fassade sieht man am besten vom Platz am Marunouchi-Ausgang.
+430|Die Residenz des Kaisers, umgeben von Gräben und Steinmauern, mit der Nijubashi-Brücke und den öffentlich zugänglichen Ostgärten.
+431|Die Ostgärten sind kostenlos; an manchen Wochentagen sind sie geschlossen, also prüf das vorher.
+432|Ein lebensgroßer Riesenroboter vor dem Einkaufszentrum DiverCity, der sich nachts mit Lichteffekten verwandelt.
+433|Kombinier es mit dem Sonnenuntergang über der Rainbow Bridge.
+434|Der große Shinto-Schrein für Kaiser Meiji, mitten in einem dichten Wald nur ein paar Schritte von Harajuku.
+435|Mit etwas Glück siehst du eine traditionelle Hochzeit über den Hof ziehen.
+436|Ein großer buddhistischer Tempel mit dem Tokyo Tower dahinter und Reihen kleiner Steinfiguren mit roten Mützen.
+437|Das hölzerne Haupttor gehört zu den ältesten der Stadt.
+438|Ein ruhiger Schrein mit einem Tunnel aus roten Torii und im Frühling einem Hügel voller Azaleen.
+439|Verbinde es mit einem Bummel durch Yanaka.
+440|Ein farbenfroher, fast 1.300 Jahre alter Schrein, an dem Angestellte aus Akihabara um Glück für ihre Computer bitten.
+441|Es gibt Glücksbringer mit Anime-Figuren.
+442|Ein Schrein in Akasaka mit einer Treppe unter einem Tunnel roter Torii, zwischen Hochhäusern.
+443|Seitlich gibt es Rolltreppen, wenn du nicht laufen willst.
+444|Der Tempel der Winkekatzen (Maneki-neko): Tausende kleine weiße Katzen mit erhobener Pfote.
+445|Er liegt in einem Wohnviertel; kombinier ihn mit Shimokitazawa.
+446|Ein goldener Schrein aus dem 17. Jahrhundert im Ueno-Park, mit einem Weg aus Steinlaternen.
+447|Hof und Laternen kann man kostenlos sehen.
+448|Japans ältestes Museum: Samurai, Kimonos, Buddhas, Keramik und Holzschnitte.
+449|Zwei, drei Stunden reichen für das Wichtigste. Montags geschlossen.
+450|Das Museum für europäische Kunst in einem Le-Corbusier-Bau, der Welterbe ist, mit Monet und Rodin.
+451|Rodins Denker steht kostenlos im Hof.
+452|Ein Museum für digitale Kunst, das man barfuß erkundet: Räume mit knietiefem Wasser, bewegte Blumen und endlose Spiegel.
+453|Ticket mit Zeitfenster: vorher kaufen. Trag Shorts oder eine Hose zum Hochkrempeln.
+454|Grenzenlose Digitalkunst: Die Werke wandern von Raum zu Raum und reagieren auf Berührung.
+455|Ticket mit Zeitfenster: vorher kaufen.
+456|Zeitgenössische Kunst im 53. Stock eines Hochhauses, mit wechselnden Ausstellungen.
+457|Das Ticket schließt meist die Aussichtsetage Tokyo City View ein.
+458|Das Museum von Hayao Miyazakis Studio, mit dem Roboter aus Das Schloss im Himmel auf dem Dach und Kurzfilmen, die es nur dort gibt.
+459|Nur mit vorab gekauftem Ticket mit Datum und Uhrzeit: schnell ausverkauft. Drinnen keine Fotos.
+460|Japanische und asiatische Kunst in einem Bau von Kengo Kuma, mit japanischem Garten, Teichen und Teehäusern.
+461|Der Garten ist das Beste: Nimm dir Zeit.
+462|Das Museum von Hokusai, Schöpfer der Großen Welle, in einem modernen silbernen Gebäude.
+463|Es liegt nahe der Sumo-Halle von Ryogoku.
+464|Das Nationalmuseum für Zukunftswissenschaft und Innovation, mit Robotern, einem Riesenglobus und Ausstellungen über die Zukunft.
+465|Sehr gut für Kinder und neugierige Erwachsene.
+466|Eine Freiluftterrasse hoch oben auf einem Wolkenkratzer über der Shibuya-Kreuzung, mit Blick über die ganze Stadt.
+467|Für den Sonnenuntergang das Ticket lange im Voraus kaufen.
+468|Das Rathaus von Tokio hat eine kostenlose Aussichtsetage im 45. Stock mit Blick auf Shinjuku und an klaren Tagen auf den Fuji.
+469|Unten ist eines der offiziellen Touristeninformationsbüros.
+470|Die Aussichtsetage der Roppongi Hills mit dem Tokyo Tower direkt gegenüber.
+471|Nachts ist der Blick auf den beleuchteten Turm am schönsten.
+472|Die Hängebrücke über die Bucht, nachts beleuchtet. Über einen Fußweg kann man sie zu Fuß überqueren.
+473|Schau dir den Sonnenuntergang vom Strand in Odaiba an.
+474|Einer der schönsten Gärten Tokios, mit japanischen, englischen und französischen Bereichen und Hunderten Kirschbäumen.
+475|Zur Kirschblüte der beste Ort für ein Picknick. Alkohol ist verboten.
+476|Der große Park mit Museen, Zoo und Lotusteich; im Frühling einer der berühmtesten Orte der Kirschblüte.
+477|Zur Kirschblüte ist er voller Menschen, die unter den Bäumen picknicken.
+478|Ein Garten der einstigen Feudalherren an der Bucht, mit einem Teehaus auf dem Wasser und Hochhäusern dahinter.
+479|Von hier fährt das Boot nach Asakusa.
+480|Ein Wandelgarten aus dem 18. Jahrhundert mit Hügeln, Brücken und Teich. Im Herbst wird der rote Ahorn abends beleuchtet.
+481|Er liegt in Komagome im Norden: erreichbar mit der Yamanote-Linie.
+482|Einer der ältesten Gärten Tokios, mit Vollmondbrücke und Ahornbäumen, neben dem Tokyo Dome.
+483|Wunderschön im Herbst und zur Pflaumenblüte im Februar.
+484|Der große Park von Harajuku: Sonntags gibt es Musiker, Tänzer und Rockabilly-Gruppen.
+485|Verbinde ihn mit dem Meiji Jingu direkt nebenan.
+486|Ein Teichgarten mit Trittsteinen übers Wasser und Schildkröten, im Café-Viertel Kiyosumi-Shirakawa.
+487|Verbinde ihn mit einem Kaffee bei Blue Bottle.
+488|Die Einkaufsstraße des alten Tokio: Krokettenstände, Süßigkeiten und überall Katzen.
+489|Bei Sonnenuntergang hat die Treppe Yuyake Dandan den schönsten Blick.
+490|Streetfood
+491|Harajukus Straße der Jugendmode: Crêpes, schrille Kleidung, bunte Süßigkeiten.
+492|Am Wochenende kommt man kaum durch: Geh unter der Woche.
+493|Die baumgesäumte Allee der großen Marken, mit Gebäuden berühmter Architekten.
+494|Schau dir die Gebäude von Prada, Tod's und Dior an: Das sind Architekturwerke.
+495|Ein Viertel mit kirschbaumgesäumtem Kanal, Cafés und kleinen Läden.
+496|Zur Kirschblüte wird der Kanal nachts beleuchtet.
+497|Tokios Boheme-Viertel: Secondhand-Kleidung, Platten, kleine Theater und Bars.
+498|Schau auch bei Reload und Bonus Track vorbei, zwei neuen Orten über den Gleisen.
+499|Die Electric Town: Läden für Elektronik, Anime, Manga, Videospiele und Maid-Cafés.
+500|Geh in die oberen Etagen: Dort sind die speziellsten Läden.
+501|Ein ruhiges, elegantes Viertel mit Designläden und einer Buchhandlung, die ein eigenes Bauwerk ist.
+502|Zu Fuß erreichbar von Shibuya oder Nakameguro.
+503|Ein Viertel mit Kopfsteingassen, versteckten Restaurants und französischem Flair.
+504|Am schönsten ist es, in die Seitengassen abzubiegen.
+505|Schweine-Ramen (Tonkotsu) in Einzelkabinen: Man bestellt am Automaten und kreuzt auf einem Zettel an, wie man es möchte.
+506|Ideal, wenn du allein reist. Meist gibt es eine Schlange.
+507|japanisches Essen
+508|Ein winziges Lokal, berühmt für Tsukemen: dicke Nudeln zum Eintunken in eine kräftige Hühner-Fisch-Brühe.
+509|Es gibt immer eine Schlange; sie geht schnell voran.
+510|Leichte Ramen mit Hühnerbrühe und Yuzu, einer japanischen Zitrusfrucht.
+511|Bestell den mit Yuzu, den Klassiker des Hauses.
+512|Cremige Hühnerbrühen-Ramen, fast eine Suppe, in einer Gasse in Ginza.
+513|Die Schlange bildet sich schon vor der Öffnung.
+514|Ein Gang im Untergeschoss des Bahnhofs Tokio mit acht berühmten Ramenläden nebeneinander.
+515|Wenn du dich nicht entscheiden kannst: den mit der längsten Schlange.
+516|Das berühmteste Sushi des Fischmarkts, der von Tsukiji nach Toyosu umgezogen ist. Das Menü des Chefs ist ein Erlebnis.
+517|Man steht schon vor dem Morgengrauen an: Geh sehr früh.
+518|Eine beliebte Sushi-Kette mit Stammhaus am Tsukiji-Markt, lange geöffnet.
+519|Ein guter Einstieg ins japanische Sushi, ohne Reservierung.
+520|Eine der renommiertesten Sushi-Theken Ginzas, mit jahrzehntelanger Geschichte.
+521|Reservier im Voraus. Mittags ist es günstiger.
+522|Reichliches, frisches Sushi zu gutem Preis, bei Tokiotern sehr beliebt.
+523|Zieh am Eingang eine Nummer und dreh eine Runde.
+524|Tempura und Tonkatsu
+525|Japanisches paniertes Schweineschnitzel (Tonkatsu) in einem ehemaligen Badehaus, das heute ein Restaurant ist.
+526|Probier das Kurobuta, schwarzes Schwein.
+527|Saftiges paniertes Rindfleisch, das du selbst auf einem heißen Stein fertig garst.
+528|Es gibt mehrere Filialen; die in Shibuya ist das Original.
+529|Garnelen- und Gemüse-Tempura seit 1924, mitten in Shinjuku.
+530|Setz dich an die Theke und schau beim Frittieren zu.
+531|Klassische Tempura aus Asakusa: Tendon, eine Schüssel Reis mit frittierten Garnelen in dunkler Soße.
+532|Es gibt immer eine Schlange; es lohnt sich.
+533|Izakaya und Yakitori
+534|Eine riesige hölzerne Izakaya, die den Endkampf in Kill Bill inspirierte. Yakitori, Soba und viel Atmosphäre.
+535|Eine überdachte Passage voller kleiner Bars und Essensstände, an denen alle Tische teilen.
+536|Nach Feierabend wird es voll. Ideal, um mit Einheimischen zu plaudern.
+537|Die Rauchgasse: winzige Yakitori-Stände unter den Bahngleisen, wie im Tokio der Nachkriegszeit.
+538|Manche verlangen Geld fürs Sitzen; lies das Schild vor dem Eintreten.
+539|Ein Labyrinth aus Gängen mit kleinen Bars und Ständen gegenüber dem Bahnhof Kichijoji.
+540|Verbinde es mit dem Ghibli-Museum und dem Inokashira-Park.
+541|Soba und Udon
+542|Handgemachte Soba in einem hölzernen Nachkriegshaus.
+543|Bestell die kalte Soba mit Dip-Soße.
+544|Eines der traditionellsten Soba-Häuser Tokios, nach einem Brand wiederaufgebaut.
+545|Die Kellner rufen die Bestellungen singend in die Küche.
+546|Frische, elastische Udon, berühmt für die Variante mit Butter, Speck und Ei.
+547|Zieh eine Nummer, man sagt dir Bescheid, wenn du dran bist.
+548|Klassische Soba aus Asakusa, mit kräftigerer Soße als anderswo.
+549|Es liegt nur ein paar Schritte vom Kaminarimon.
+550|Traditionelle Küche
+551|Wagyu-Sukiyaki seit 1895: dünne Rindfleischscheiben, am Tisch in süßer Soße gegart.
+552|Mittags gibt es günstigere Menüs.
+553|Über Holzkohle gegrillter Aal (Unagi) in einem traditionellen Haus, seit Generationen in Familienhand.
+554|Reservier; die Unagi-Reisschüssel ist der Klassiker.
+555|Eine ganze Straße mit Monjayaki-Lokalen: eine Art weicher Pfannkuchen, der am Tisch auf einer heißen Platte gebraten wird.
+556|Wenn du nicht weißt, wie es geht, lass es dir zubereiten.
+557|Ein Haus von 1801, in dem man auf Tatami sitzend einen Eintopf aus kleinen Flussfischen im Eisentopf isst.
+558|Eine Zeitreise, ganz typisch für Asakusa.
+559|Kreative Küche mit Zutaten aus Japans Wäldern und Feldern, auf der Liste der besten Restaurants der Welt.
+560|Kreative japanische Küche mit Humor: Die Brathähnchen-Box „Dentucky" ist berühmt.
+561|Kreative französische Küche mit japanischen Zutaten, in einem hohen Stockwerk in Ginza.
+562|Französische Spitzenküche mit japanischen Zutaten, eine der meistausgezeichneten Asiens, in einem Hotel in Marunouchi.
+563|Der Außenmarkt des alten Fischmarkts: Stände mit Sushi, Tamagoyaki, Austern und Messern.
+564|Geh vormittags: Nachmittags schließen viele Stände. Manche haben sonntags und mittwochs zu.
+565|Ein Straßenmarkt unter den Bahngleisen, mit Obst, Fisch, Kleidung und Essensständen.
+566|Am Wochenende ist es brechend voll.
+567|Tokios Großmarkt für Fisch: Von Galerien aus sieht man die Thunfischauktionen, unten gibt es Restaurants.
+568|Die Auktionen sind frühmorgens. Sonntags, feiertags und an manchen Mittwochen geschlossen.
+569|Ein Essensmarkt neben Toyosu, der eine Straße des alten Edo nachahmt, mit Meeresfrüchteständen und einem Onsen.
+570|Kombinier es mit teamLab Planets.
+571|Ein Kissaten von 1948, das nur Kaffee serviert, teils aus jahrzehntelang gereiften Bohnen.
+572|Eine Zeitreise, dunkel und holzvertäfelt.
+573|Ein Café aus den 1930ern in einem Holzhaus in Yanaka, berühmt für sein Eiersandwich.
+574|Oben gibt es niedrige Tische auf Tatami.
+575|Das erste Blue Bottle Japans, in einem hohen Lagerhaus im Café-Viertel.
+576|Verbinde es mit den Kiyosumi-Gärten.
+577|Spezialitätenkaffee in einem kleinen Holzhaus an den Gleisen in Nakameguro.
+578|Trink ihn auf der kleinen Bank draußen und schau den Zügen zu.
+579|Die Tokioter Filiale eines norwegischen Cafés mit Möbeln aus den Sechzigern. Abends eine Cocktailbar.
+580|Es liegt in Tomigaya, einem ruhigen Viertel nahe Yoyogi.
+581|Eine der bekanntesten Röstereien Tokios, mit Filterkaffee aus Einzelherkünften.
+582|Es liegt nahe Jimbocho, dem Viertel der Antiquariate.
+583|Japanische Süßigkeiten
+584|Das Haus des Yokan, einer Süßigkeit aus roten Bohnen, seit Jahrhunderten Lieferant der Kaiserfamilie. Mit Teesalon.
+585|Probier eine Süßigkeit der Saison mit grünem Tee.
+586|Der berühmteste Dorayaki-Laden: zwei fluffige Pfannkuchen mit Rotbohnenpaste.
+587|Iss sie warm, am selben Tag.
+588|Die Bäckerei, die im 19. Jahrhundert das Anpan erfand, ein mit Rotbohnenpaste gefülltes Brötchen.
+589|Oben gibt es ein Café und ein Restaurant.
+590|Moderne japanische Süßigkeiten und Tee in einem minimalistischen Raum.
+591|Ideal für eine elegante Pause.
+592|Veganes Ramen im Bahnhof Tokio, mit scharfem Sesam-Tantanmen.
+593|Es liegt innerhalb der Bahnsteigsperren: Du brauchst ein Ticket.
+594|Kreative vegane Küche, berühmt für fluffige Pfannkuchen.
+595|Als Nachtisch die Pfannkuchen.
+596|Eine günstige, gemütliche vegane Kantine mit Tagesgerichten und Plattenregalen.
+597|Es versteckt sich in einer Seitenstraße nahe Shibuya.
+598|Veganes Ramen einer bekannten Ramenkette aus Kyushu.
+599|Verbinde es mit einem Bummel durch Harajuku.
+600|Falafel und vegane Bowls für unterwegs.
+601|Gut für ein schnelles Mittagessen.
+602|Eine weltberühmte Bar in Ginza: Es gibt keine Karte, man fragt dich nach deinem Geschmack und mixt deinen Drink.
+603|Zieh dich gut an und lass dir Zeit: Es ist eine intime Bar.
+604|Eine winzige Bar mit Kräutern, die der Barkeeper selbst anbaut und vor dir im Mörser zerstößt.
+605|Wenige Plätze: Geh früh.
+606|Eine Cocktailbar auf zwei Etagen im Stil eines Clubs der 1920er, eine der besten Asiens.
+607|Oben ist es entspannter.
+608|Eine Holztheke für acht Personen mit Cocktailmenüs aus Früchten der Saison.
+609|Eine dunkle, kleine Bar in Ebisu, spezialisiert auf Absinth und Bitters.
+610|Ideal nach dem Ebisu Yokocho.
+611|Sechs Gassen mit über zweihundert winzigen Bars mit je fünf oder sechs Plätzen.
+612|Viele verlangen Eintritt („Cover"): Das steht an der Tür. Manche sind nur für Stammgäste.
+613|Die Säufergasse: kleine Bars mit wenigen Hockern an den Gleisen von Shibuya.
+614|Grüß beim Hereinkommen: Der Wirt stellt dich den anderen vor.
+615|Eine Straße in Asakusa mit Tischen draußen, Rindereintopf (Nikomi) und Hoppy, einem Gerstengetränk zum Mischen.
+616|Ideal für den Nachmittag, nach dem Senso-ji.
+617|Shinjukus Neonviertel mit dem Godzilla-Kopf und Bars aller Art.
+618|Folge niemandem, der dich auf der Straße in Bars einlädt: siehe Sicherheit.
+619|Neon
+620|Tokios bekanntester Club für elektronische Musik, mit riesiger Discokugel.
+621|Nimm deinen Pass mit: Er wird am Eingang verlangt.
+622|Ein riesiger Club im Untergeschoss des neuen Turms in Kabukicho.
+623|Nimm deinen Pass mit.
+624|Ein Hip-Hop- und Pop-Club auf mehreren Etagen, sehr beliebt bei jungen Tokiotern.
+625|Ein Club mit Stadtblick in Roppongi, dem Viertel des internationalen Nachtlebens.
+626|Nimm deinen Pass mit. In Roppongi Vorsicht vor Anwerbern auf der Straße.
+627|Jazz und Livemusik
+628|Die Tokioter Filiale des New Yorker Jazzclubs, mit internationalen Stars.
+629|Buch dein Ticket online.
+630|Shinjukus historischer Jazzclub mit japanischen Musikern jeden Abend.
+631|Authentischer und günstiger als die großen Clubs.
+632|Eine kleine Bar mit Tausenden Jazz-, Blues- und Soulplatten, die der Wirt auf Vinyl auflegt.
+633|Wünsch dir einen Song; er sucht ihn in seinen Platten.
+634|Intime Konzerte mit Dinner vor einer großen Fensterfront mit der Stadt im Hintergrund.
+635|Bar mit Aussicht
+636|Eine Bar im 52. Stock mit Terrasse und Blick auf den Tokyo Tower.
+637|Terrasse und Restaurant auf einem Einkaufszentrum über Shibuya.
+638|Am schönsten bei Sonnenuntergang.
+639|Die Bar im 24. Stock des Peninsula mit Blick auf den Kaiserpalast und Hibiya.
+640|Zieh dich schick an.
+641|Bar und Grill mit großer Terrasse über Aoyama.
+642|An schönen Abenden ist die Terrasse das Beste.
+643|Bier und Sake
+644|Eine Craft-Beer-Bar mit Dutzenden Zapfhähnen, nahe der Sumo-Halle.
+645|Verbinde es mit dem Sumo oder dem Hokusai-Museum.
+646|Die Brauerei der Eulenmarke, in einem alten Backsteinviadukt am Fluss.
+647|Nahe Akihabara.
+648|Eine Bar für japanisches Craft Beer in Shimokitazawa, mit vielen Zapfhähnen.
+649|Ideal, um den Tag in Shimokita ausklingen zu lassen.
+650|Eine Bar für japanisches Craft Beer in einem Keller in Roppongi.
+651|Lass dir ein lokales Bier empfehlen.
+652|Die Boote von Tokyo Cruise fahren flussabwärts von Asakusa zu den Hamarikyu-Gärten und nach Odaiba.
+653|Kombiniere: Senso-ji am Vormittag, Boot und Garten am Nachmittag.
+654|Ein Abendessen auf einem traditionellen Holzboot mit Laternen, auf Fluss und Bucht.
+655|Buchbar über Agenturen oder die Bootsunternehmen.
+656|Eine Fahrt in einem Wagen, den ein Guide zieht, der läuft und dir die Geschichte des Viertels erzählt.
+657|Du findest sie vor dem Kaminarimon.
+658|Tokios gelbe Sightseeing-Busse mit Stadtrundfahrten und Ausflügen.
+659|Abfahrt am Bahnhof Tokio, Marunouchi-Ausgang.
+660|Ein Guide führt dich durch die Gassen von Omoide Yokocho und Golden Gai, mit Essen und Getränken.
+661|Der einfachste Weg in die Mini-Bars.
+662|Ein Vormittagsrundgang über den Tsukiji-Markt, bei dem du alles probierst.
+663|Stadtführungen zu Fuß durch Asakusa, Shinjuku oder das Zentrum, mit Guides, die von Trinkgeld leben.
+664|Buch auf der Website des Anbieters und gib am Ende Trinkgeld.
+665|Geführte Besuche des Morgentrainings in einem Sumo-Stall, schweigend am Rand sitzend.
+666|Muss über Agenturen gebucht werden. Halte dich an die Regeln: kein Lärm, kein Blitz.
+667|Erlebnis
+668|Workshops, in denen du mit einem Koch Sushi, Ramen oder Gyoza machen lernst.
+669|Sie werden online gebucht; viele sind auf Englisch.
+670|Ein Teehaus am Teich der Hamarikyu-Gärten, wo man dir Matcha mit einer Süßigkeit serviert.
+671|Setz dich mit Blick aufs Wasser.
+672|Man kleidet dich in Kimono oder Yukata, und du gehst in Asakusa spazieren und fotografieren.
+673|Reservier vorher. Die Schuhe sind unbequem: Geh langsam.
+674|Der Laden für das Plastikessen aus den Schaufenstern der Restaurants. Es gibt Workshops, um es selbst zu machen.
+675|Reservier den Workshop vorher.
+676|Tempel und Städtchen
+677|Goldene Schreine inmitten von Zedernwäldern, Weltkulturerbe, und der Kegon-Wasserfall.
+678|Zug ab Asakusa oder Shinjuku. Ein ganzer Tag.
+679|Die alte Samurai-Hauptstadt mit dem Großen Buddha unter freiem Himmel, Tempeln und Strand.
+680|Zug ab Tokio. Kombinier es mit Enoshima.
+681|Das „kleine Edo": eine Straße mit Kaufmannshäusern aus schwarzem Lehm, ein hölzerner Glockenturm und die Süßigkeitengasse.
+682|Zug ab Ikebukuro.
+683|Ein großer Tempel mit Pagode und Gärten nahe dem Flughafen Narita, mit einer Straße voller Aal-Grills.
+684|Ideal, wenn du vor einem Flug ab Narita ein paar Stunden Zeit hast.
+685|Heiße Quellen, ein See mit Piratenschiffen, eine Seilbahn über einem dampfenden Vulkan und Blick auf den Fuji.
+686|Ideal für eine Nacht in einem Ryokan mit Onsen.
+687|fuji
+688|Ein Berg mit Wanderwegen, einem Tempel und Fuji-Blick, eine Zugstunde von Shinjuku.
+689|Im Herbst färbt sich der Ahorn rot: Geh unter der Woche.
+690|Eine mit der Küste verbundene Insel mit Schreinen, Höhlen, einem Leuchtturm-Aussichtspunkt und Meeresfrüchteständen.
+691|Verbinde sie mit Kamakura per Enoden-Bahn.
+692|Berge, klare Flüsse und Höhlen am westlichen Rand Tokios.
+693|Ideal zum Wandern und um der Stadt zu entfliehen.
+694|Der meistbesuchte See am Fuß des Fuji, in dem sich der Berg spiegelt.
+695|Direktbusse ab Shinjuku. Der Fuji ist im Winter und frühmorgens am besten zu sehen.
+696|Japans berühmtestes Foto: eine rote Pagode mit dem Fuji dahinter.
+697|Es sind fast 400 Stufen. Im Frühling mit Kirschblüten.
+698|Ein Dörfchen mit acht glasklaren Teichen aus Fuji-Schmelzwasser.
+699|Mittags wird es voll.
+700|Die fünfte Station auf halber Höhe, wo die Busse ankommen und von wo man im Sommer den Fuji besteigt.
+701|Der Aufstieg auf den Fuji ist nur im Sommer offen und hat Regeln und Kontingente: Informier dich vorher.
+702|Parks und Städte
+703|Japans zweitgrößte Stadt mit Hafen, dem Riesenrad von Minato Mirai und dem Instant-Ramen-Museum.
+704|Eine halbe Zugstunde von Shibuya.
+705|Japans größtes Chinatown mit bunten Tempeln und Ständen mit gedämpften Teigtaschen.
+706|Der Disney-Park mit den klassischen Figuren und vielem, was typisch japanisch ist.
+707|Kauf das datierte Ticket auf der offiziellen Website: Sie sind schnell weg.
+708|Der Disney-Park zum Thema Meer, einzigartig auf der Welt, mit Vulkan und Venedig.
+709|Kauf das datierte Ticket auf der offiziellen Website.
+710|Hostel und Kapsel
+711|Ein Design-Hostel in einem alten Lagerhaus in Kuramae, mit einer Bar unten, die sich mit Einheimischen füllt.
+712|Nahe Asakusa und dem Fluss.
+713|Ein modernes, sauberes Hostel mit Café, ein paar Schritte vom Shinjuku Gyoen.
+714|Gut gelegen für Shinjukus Nachtleben.
+715|Ein Hostel mit guter Stimmung und Gemeinschaftsküche in Asakusa.
+716|Ideal, um andere Reisende kennenzulernen.
+717|Hostel und Hotel mit Betten und Privatzimmern, nahe Akihabara.
+718|Gut an mehrere Linien angebunden.
+719|Ein Hostel, in dem man in Kapseln hinter einer Bibliothek schläft.
+720|Eher für eine besondere Nacht als für eine ganze Woche.
+721|Kapsel
+722|Moderne Kapseln mit hochklappbarem Bett und einer gemeinsamen Terrasse.
+723|Mitten in Shibuya.
+724|Geräumige Kapseln wie die erste Klasse im Flugzeug, zwischen Ginza und dem Bahnhof Tokio.
+725|Mehr Platz als eine normale Kapsel.
+726|Das Hotel, bei dem Godzillas Kopf über die Terrasse lugt.
+727|Mitten im Nachtleben von Shinjuku.
+728|Ein Designhotel zwischen Shibuya und Harajuku, dessen Lobby ein Treffpunkt ist.
+729|Die Lobbybar lohnt sich auch ohne Übernachtung.
+730|Ein Hotel nur ein paar Schritte vom Bahnhof Tokio, mit Zimmern im japanischen Stil.
+731|Ideal, wenn du Shinkansen fährst.
+732|Ein ruhiges Hotel mit Garten, nahe dem Tokyo Dome.
+733|Gutes Preis-Leistungs-Verhältnis.
+734|Ein großes Hotel in Sunshine City, mit Aquarium und Pokémon Center nebenan.
+735|Ryokan
+736|Ein familiengeführtes Ryokan in Yanaka, mit Tatamizimmern und Holzbädern.
+737|Man empfängt dich wie zu Hause.
+738|Ein Luxus-Ryokan in einem Turm im Zentrum, mit Onsen auf dem Dach.
+739|Ein einzigartiges Erlebnis mitten in der Stadt.
+740|Ein einfaches, günstiges Ryokan mit Tatamizimmern, Futons und einem gemeinsamen Holzbad.
+741|Gut für ein erstes Ryokan-Erlebnis, ohne viel auszugeben.
+742|Ein Ryokan direkt neben der Nakamise-Straße, mit einem Bad mit Blick auf die Pagode.
+743|Frag nach einem japanischen Zimmer.
+744|Ein Luxushotel hoch oben in einem Wolkenkratzer, mit riesiger Lobby aus Stein und Papier.
+745|Das Spa hat einen der besten Pools der Stadt.
+746|Ein Luxushotel gegenüber dem Kaiserpalast, ein paar Schritte von Ginza.
+747|Die Bar im obersten Stock hat einen spektakulären Ausblick.
+748|Tokios klassisches Hotel, neu gebaut unter Erhalt seiner berühmten Lobby aus den Sechzigern.
+749|Schau dir die Lobby an, auch wenn du nicht dort wohnst.
+750|Ein Hotel in den obersten Etagen der Toranomon Hills, mit Blick über die ganze Bucht.
+751|Die Terrassenbar lohnt sich auch ohne Übernachtung.
+752|Technik und Anime
+753|Ein ganzes Gebäude voller Elektronik, Kameras, Spielzeug und Videospiele.
+754|Nimm deinen Pass mit: Die Steuer bekommst du bei der Ausreise zurück.
+755|Retro-Videospiele auf drei Etagen: alte Konsolen, Module und oben eine Spielhalle.
+756|Oben kann man Spiele aus den Achtzigern spielen.
+757|Der größte Pokémon-Laden mit Plüschtieren und Artikeln, die es sonst nirgends gibt.
+758|Am Wochenende ist es voll.
+759|Der größte Anime- und Mangaladen der Welt, auf mehreren Etagen.
+760|Ikebukuro ist das Anime-Viertel für Frauen.
+761|Der offizielle Nintendo-Laden mit Mario, Zelda und Animal Crossing.
+762|Es gibt eine Schlange; auf derselben Etage ist das Pokémon Center Shibuya.
+763|Tokios berühmtestes Kaufhaus. Die Feinkostetage im Untergeschoss (Depachika) ist ein Paradies.
+764|Geh ins Untergeschoss und schau dir die perfekten Süßigkeiten und Früchte an.
+765|Eines der ältesten Kaufhäuser Japans, an der berühmtesten Ecke Ginzas.
+766|Geh in die Feinkostetage, eine der besten in Ginza.
+767|Ein Luxus-Einkaufszentrum mit Dachterrasse und Kunstbuchhandlung.
+768|Die Dachterrasse ist kostenlos.
+769|Ein Chaos aus Gängen mit allem: Süßigkeiten, Kosmetik, Kostüme und billige Souvenirs.
+770|Um japanische Süßigkeiten als Geschenk mitzunehmen.
+771|Ein Komplex mit Läden, einem Dachaquarium, einem Planetarium und einer Aussichtsetage.
+772|Design und Geschenke
+773|Tokios berühmtestes Schreibwarengeschäft: zwölf Etagen voller Papier, Stifte und Notizbücher.
+774|Oben gibt es ein Café mit Gemüse aus der eigenen Indoor-Farm.
+775|Der größte Muji-Laden mit Essen, Kleidung und einem Hotel oben.
+776|Es gibt Produkte, die es nur in Japan gibt.
+777|Die Straße der Köche: japanische Messer, Geschirr und Plastikessen.
+778|Messer kann man mit deinem Namen gravieren lassen.
+779|Eine Buchhandlung aus drei verbundenen Gebäuden, mit Café und Zeitschriften aus aller Welt.
+780|Fünf Etagen voller Spielzeug und Figuren: Snoopy, Hello Kitty, Totoro und mehr.
+781|Kinder sind begeistert.
+782|Straßen und Märkte
+783|Die Ladenstraße zum Senso-ji mit Süßigkeiten, Fächern und Souvenirs.
+784|Probier Ningyo-yaki, kleine gefüllte Rührkuchen.
+785|Eine Fußgängerstraße zwischen Harajuku und Shibuya mit Streetwear- und Secondhand-Läden.
+786|Besser als Takeshita für coole Kleidung.
+787|Ein Einkaufszentrum im alten Hauptpostamt, mit japanischen Designläden und einer Terrasse mit Blick auf den Bahnhof.
+788|Die Terrasse im sechsten Stock ist kostenlos.
+789|Ein Gang im Bahnhof Tokio mit Figurenläden: Ghibli, Pokémon, Sanrio und mehr.
+790|Ideal, um vor der Zugfahrt Geschenke zu kaufen.
+791|Mode
+792|Der Tempel der jungen japanischen Mode, mit Dutzenden kleiner Läden.
+793|Eine Zeitkapsel der Gyaru-Mode.
+794|Ein Gebäude voller junger, unabhängiger japanischer Mode, an der Ecke in Harajuku.
+795|Schau dir die Etagen lokaler Designer an.
+796|Der größte Uniqlo-Laden auf zwölf Etagen, mit Kleidung, die es in anderen Ländern nicht gibt.
+797|Der Laden von Comme des Garçons, mit Designermarken auf sieben Etagen, die wie eine Galerie wirken.
+798|Auch ohne Kauf läuft man durch wie durch ein Museum.
+799|Ein Einkaufszentrum von Tadao Ando mit spiralförmiger Rampe und Luxusläden.
+800|Die innere Rampe ist sehenswert.
+801|Das Stadion der Yomiuri Giants, Japans beliebtester Baseballmannschaft.
+802|Ein japanisches Baseballspiel ist ein Fest: singende Fans und Bierverkäuferinnen.
+803|Baseball
+804|Das Freiluft-Baseballstadion der Yakult Swallows mit Rasenfeld.
+805|Die Fans tanzen mit kleinen Schirmen, wenn ihr Team punktet.
+806|Das Olympiastadion von Tokio 2020, von Kengo Kuma, mit viel Holz.
+807|Schau in den Spielplan: Es gibt Fußballspiele und Konzerte.
+808|Das Fußballstadion von FC Tokyo und Tokyo Verdy aus der japanischen Liga.
+809|Zug ab Shinjuku.
+810|Sumo und Kampfkunst
+811|Die Sumo-Halle. Die Turniere sind im Januar, Mai und September.
+812|Tickets gibt es online, und sie sind schnell weg. Die ersten Kämpfe des Tages sind ruhiger.
+813|Ein kleines Museum in der Kokugikan, über die Geschichte des Sumo und seine Champions.
+814|Während der Turniere kommst du nur mit einem Hallenticket hinein.
+815|Das Mutterhaus des Judo, mit einer Galerie zum Zuschauen beim Training.
+816|Schau leise zu und fotografier nicht mit Blitz.
+817|Die Halle der Kampfkünste, auch berühmt für die Konzerte der Beatles.
+818|Schau in den Kalender für Turniere und Konzerte.
+819|Eine Runde von etwa fünf Kilometern um den Palast, die Lieblingsstrecke der Läufer Tokios.
+820|In der Nähe gibt es Läuferstationen mit Duschen.
+821|Ein Park am Flussufer mit dem Skytree im Hintergrund und Kirschbäumen.
+822|Ideal zum Joggen oder Spazieren bei Sonnenuntergang.
+823|Ein künstlicher Strand mit Blick auf die Rainbow Bridge und die Stadt. Schwimmen ist verboten.
+824|Zum Spazieren oder Radfahren bei Sonnenuntergang.
+825|Ein riesiger Park mit Radwegen, Gärten und Blumenfeldern.
+826|Leih dir drinnen ein Rad.
+827|Japans ältester Zoo, im Ueno-Park.
+828|Verbinde ihn mit dem Wissenschaftsmuseum.
+829|Dinosaurier, Roboter und Japans Naturgeschichte.
+830|Für Kinder die Dinosaurieretage.
+831|Ein Aquarium auf dem Dach eines Hochhauses, mit Pinguinen, die über der Stadt zu fliegen scheinen.
+832|Schau nach den Fütterungszeiten der Tiere.
+833|Ein modernes Aquarium am Fuß des Skytree, mit Pinguinen und Quallen.
+834|Verbinde es mit dem Skytree.
+835|Ein Museum für Miniaturmodelle mit Städten, Flughäfen und Anime-Welten.
+836|Es gibt Knöpfe, mit denen sich die Modelle bewegen.
+837|Ein Lego-Indoorpark für kleine Kinder.
+838|Erwachsene kommen nur mit Kindern hinein.
+839|Ein Spa mit echtem Thermalwasser in Tokyo Dome City, mit Bädern, Saunen und Ruheräumen.
+840|Die Regeln: Man geht nackt hinein, duscht vorher, und Tattoos sind nicht immer erlaubt.
+841|Ein großes Onsen mitten in Kabukicho, mit Thermalwasser aus Izu.
+842|Ideal nach einem Tag voller Laufen.
+843|Ein öffentliches Nachbarschaftsbad (Sento) mit Freiluftbad auf dem Dach und Blick auf den Skytree.
+844|Bring ein Handtuch mit oder leih dir eins.
+845|Ein Onsen mit Bädern mit Blick auf die Bucht, im Essensmarkt von Toyosu.
+846|Shows und Spiele
+847|Das Kabuki-Theater mit geschminkten Schauspielern und spektakulären Kostümen.
+848|Wenn du nicht das ganze Stück willst, gibt es Tickets für einen einzelnen Akt (Makumi).
+849|Das Musiktheater, in dem alle Rollen von Frauen gespielt werden, mit Fantasiekostümen.
+850|Tickets sind schnell ausverkauft.
+851|Eine Karaoke-Kette mit privaten Räumen auf Stundenbasis, mitten in Shibuya.
+852|Es gibt viele Songs auf Englisch.
+853|Ein Indoor-Park mit Virtual-Reality-Spielen und Attraktionen.
+854|Mehrere Etagen mit Spielen: Greifautomaten, Rhythmus- und Kampfspiele.
+855|Probier die Fotoautomaten (Purikura).
+856|Ein Freizeitpark mitten in der Stadt, mit einer Achterbahn, die durch ein Gebäude fährt.
+857|Verbinde es mit dem Spa LaQua.
+858|Alles, was du brauchst, um die Stadt zu entdecken
+859|Tag 1 · Vormittag
+860|Tag 1 · Mittag
+861|Tag 1 · Nachmittag
+862|Tag 1 · Abend
+863|Tag 2 · Vormittag
+864|Tag 2 · Mittag
+865|Tag 2 · Nachmittag
+866|Tag 2 · Abend
+867|Tag 3 · Vormittag
+868|Tag 3 · Nachmittag
+869|Tag 3 · Sonnenuntergang
+870|Tag 3 · Abend
+871|Regentag
+872|Das Beste, ohne für Eintritte zu zahlen.
+873|Ein Tag für Kinder.
+874|Ringlinie
+875|Mit der Bankkarte
+876|Umsteigen
+877|Zu Fuß und mit dem Rad
+878|Fahrräder
+879|Polizei
+880|Geldautomaten
+881|Sommer
+882|Winter
+883|Offizielle Website des Flughafens
+884|Offizielle Website der U-Bahn
+885|U-Bahn-Linien
+886|Hallo
+887|Vielen Dank
+888|Wo ist…?
+889|Ich verstehe nicht
+890|Ich brauche einen Arzt
+891|Touristeninformation
+892|Botschaften und Konsulate
+893|Argentinien · Botschaft (Konsularabteilung)
+894|Pässe, Formalitäten und Hilfe, wenn dir die Papiere gestohlen werden.
+895|Chile · Botschaft (Konsularabteilung)
+896|Formalitäten und konsularische Hilfe.
+897|Peru · Generalkonsulat
+898|Botschaften und Konsulate auf der Karte finden.
+899|Öffentliche Toilette
+900|3 Aussichtspunkte
+901|Gültiger Reisepass und eine Kopie auf dem Handy
+902|Aussichtspunkte
+903|Tagesausflüge
+904|Mai
+905|31. Dezember
+906|Silvester
+907|Was sie sind
+908|Notfälle
+909|Der Reiseführer enthält nur Orte mit dauerhaft gutem Ruf: offizielle Auszeichnungen, anerkannte Führer und gute Übereinstimmung in öffentlichen Bewertungen.
+910|Lange im Voraus reservieren.
+911|Autorenküche
+912|Rechtzeitig reservieren.
+913|Café
+914|Cocktailbar
+915|Reservieren.
+916|Elektro
+917|Ideal bei Sonnenuntergang.
+918|Ausflüge
+919|Kommen Sie hungrig.
+920|Ideal mit Kindern.
+921|Technik
+922|Kaufhäuser
+923|Ideal für einen ruhigen Nachmittag.
+924|Im Freien
+925|Ideal für einen Regentag.
+926|Uruguay · Botschaft
+927|Kimonoverleih in Asakusa
+928|Abendessen auf einem Yakatabune
+929|Japanischer Kochkurs
+930|Bootsfahrt auf dem Sumida
+931|Rikscha-Fahrt durch Asakusa
+932|Sumo-Training
+933|Bartour durch Shinjuku
+934|Food-Tour durch Tsukiji
+935|Runde um den Kaiserpalast
+936|Kaiserpalast
+937|Kawaguchi-See
+938|Berg Takao
+939|Yokocho und Nachtleben
+940|Bahnhof Keisei Ueno, Taito
+941|Bahnhof Shibuya, Shibuya
+942|Bahnhof Tokio, Ausgang Yaesu, Chiyoda
+943|Bahnhof Tokio, Chiyoda
+944|Toyosu-Markt, Koto
+945|Anleger Asakusa, Taito
+946|Präfektur Tochigi
+947|Präfektur Kanagawa
+948|Präfektur Saitama
+949|Narita, Präfektur Chiba
+950|Fujisawa, Präfektur Kanagawa
+951|Fujikawaguchiko, Präfektur Yamanashi
+952|Fujiyoshida, Präfektur Yamanashi
+953|Oshino, Präfektur Yamanashi
+954|Narusawa, Präfektur Yamanashi
+955|Urayasu, Präfektur Chiba
+956|Tokio
+957|Japan
+958|Ausgang Hachiko, Shibuya
+959|100 % vegan, vegetarisch

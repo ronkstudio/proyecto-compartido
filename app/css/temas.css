@@ -400,6 +400,45 @@
   }
 }
 
+/* Tokio: Neón sobre tinta: noche índigo, el bermellón de los torii, rosa neón de Shinjuku y papel washi; olas seigaiha en la portada. Letra Shippori Mincho B1. */
+:root[data-ciudad="tokio"] {
+  --accent: #c8321f;
+  --accent-ink: #ffffff;
+  --bg: #f7f4ef;
+  --brand: #1b1530;
+  --hero-bg: linear-gradient(160deg, #120e24 0%, #2a1850 55%, #44205f 100%);
+  --hero-glow: radial-gradient(circle, rgba(255, 61, 127, .5), rgba(255, 61, 127, 0) 68%);
+  --hero-motif: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='40' height='20' viewBox='0 0 40 20' fill='none' stroke='%23fff' stroke-width='1.1'%3E%3Cpath d='M0 20a20 20 0 0 1 40 0M6 20a14 14 0 0 1 28 0M12 20a8 8 0 0 1 16 0M-20 10a20 20 0 0 1 40 0M-14 10a14 14 0 0 1 28 0M-8 10a8 8 0 0 1 16 0M20 10a20 20 0 0 1 40 0M26 10a14 14 0 0 1 28 0M32 10a8 8 0 0 1 16 0'/%3E%3C/svg%3E");
+  --hero-motif-op: .14;
+  --hero-motif-size: 40px 20px;
+  --hero-shadow: rgba(27, 21, 48, .3);
+  --ink: #1c1a24;
+  --ink-2: #45414f;
+  --ink-3: #635e6c;
+  --line: #e3ddd2;
+  --radius: 6px;
+  --serif: "Shippori Mincho B1", "Hiragino Mincho ProN", "Yu Mincho", serif;
+  --shadow: 0 1px 2px rgba(27, 21, 48, .08), 0 8px 20px rgba(27, 21, 48, .09);
+  --sun: #ff3d7f;
+  --sun-ink: #2b0013;
+  --surface: #ffffff;
+  --surface-2: #efe9df;
+}
+@media (prefers-color-scheme: dark) {
+  :root[data-ciudad="tokio"] {
+    --accent: #ff8a73;
+    --accent-ink: #2a0a04;
+    --bg: #0f0d18;
+    --brand: #0b0916;
+    --ink: #f3eff8;
+    --ink-2: #c9c3d6;
+    --ink-3: #948da3;
+    --line: #2c2740;
+    --surface: #181524;
+    --surface-2: #221e33;
+  }
+}
+
 /* Detalles propios de algunas ciudades */
 /* Buenos Aires: la letra fileteada viene en un solo grosor; no se inventa negrita. */
 :root[data-ciudad="caba"] { font-synthesis: none; }
@@ -421,3 +460,5 @@
 :root[data-ciudad="madrid"] .sos-btn { box-shadow: 0 0 0 2px rgba(255, 255, 255, .85), 0 2px 8px rgba(0, 0, 0, .3); }
 /* Río: más aire y más color en la portada. */
 :root[data-ciudad="rio"] h1, :root[data-ciudad="rio"] h2, :root[data-ciudad="rio"] .page-title { letter-spacing: -.02em; }
+/* Tokio: la letra mincho pide un poco más de aire entre letras. */
+:root[data-ciudad="tokio"] .hero h1 { letter-spacing: .03em; }

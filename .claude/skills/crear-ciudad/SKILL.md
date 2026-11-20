@@ -39,3 +39,7 @@ Leé antes `CLAUDE.md`, `app/ESTADO.md` y `app/NUEVA-CIUDAD.md`. Los scripts est
 - **`textos.pl` también lista las rutas de las fotos** de `-extra.js`: no van a traducción.
 - **Horarios que se cuelan** en consejos y descripciones ("andá antes de las 8"): buscalos con una expresión como `\d{1,2}( ?h|:\d\d| de la)` antes de publicar.
 - Las letras de títulos anchas (Cinzel, Unbounded) se salen en alemán a 320 de ancho: probalo.
+- **Ciudades con otro alfabeto (Tokio):** en OpenStreetMap el `name` está en japonés, pero Nominatim encuentra el nombre en romaji porque busca también en `name:en`. Las direcciones con chome no las entiende: poné "Barrio, Distrito" y controlá el distrito con `geotokio.pl`. Lo que no aparece, buscalo por su nombre en japonés o con Overpass; si no figura, mejor sacarlo. Para las estaciones, la línea circular de JR es `route=train` (no `subway`) y los nombres salen de `name:en` (`estaciones-tokio.pl`).
+- **Overpass con curl** responde 406 si no mandás un nombre de programa: usá `-A "guia-de-viaje/1.0"`.
+- **Webs que bloquean a los robots** (metro de Tokio, JR, embajadas): leelas en el navegador de la app. Si una embajada pide resolver una verificación, no la saltees: usá la lista oficial de embajadas del país anfitrión (en Japón, mofa.go.jp) y anotalo en las fuentes.
+- **El nombre de la ciudad** tiene que estar en su lista de traducciones (por ejemplo "Tokio → 東京"): si no, el título queda en castellano en los otros idiomas.

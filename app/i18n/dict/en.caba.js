@@ -908,7 +908,6 @@ Object.assign(window.I18N_FULL = window.I18N_FULL || {}, {
 "A una cuadra de Plaza de Mayo.": "One block from Plaza de Mayo.",
 "Bajá a ver las mesas aunque no juegues.": "Go downstairs to see the tables even if you don't play.",
 "Una opción sincera en una zona cara.": "An honest option in an expensive area.",
-"Reservá para la noche.": "Book for the evening.",
 "Es chico: conviene reservar.": "It's small: best to book.",
 "Sentate afuera un domingo para ver bailar tango.": "Sit outside on a Sunday to watch tango dancing.",
 "Pedí una picada para compartir.": "Order a platter to share.",

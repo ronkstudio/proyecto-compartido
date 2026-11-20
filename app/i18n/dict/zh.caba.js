@@ -908,7 +908,6 @@ Object.assign(window.I18N_FULL = window.I18N_FULL || {}, {
 "A una cuadra de Plaza de Mayo.": "离五月广场一个街区。",
 "Bajá a ver las mesas aunque no juegues.": "就算不打球，也下楼去看看台球桌。",
 "Una opción sincera en una zona cara.": "在昂贵地段里的实在选择。",
-"Reservá para la noche.": "晚上请预订。",
 "Es chico: conviene reservar.": "店很小：最好预订。",
 "Sentate afuera un domingo para ver bailar tango.": "周日坐在外面看人跳探戈。",
 "Pedí una picada para compartir.": "点一份拼盘分享。",
