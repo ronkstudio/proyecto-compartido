@@ -94,7 +94,7 @@
 94|Rome has only three lines: A (orange), B (blue) and C (green). They cross at Termini (A and B), San Giovanni (A and C) and Colosseo (B and C).
 95|What it doesn't cover
 96|The metro barely enters the historic centre because of the ruins underground. You reach the Pantheon, Piazza Navona or Trastevere on foot, by bus or by tram.
-97|It runs from early until around 23:30, and later on Fridays and Saturdays. At night there are night buses.
+97|It runs from early morning until around midnight, and later on Fridays and Saturdays. At night there are night buses.
 98|Each direction is named after the last station on the line. Follow the signs with the letter and the name of that last station.
 99|Buses and trams
 100|They're the way to reach the historic centre. There are many lines and they're sometimes packed: watch your belongings.
@@ -147,11 +147,11 @@
 147|Tourist tax
 148|Hotels charge a per-person, per-night city tax on top of the rate. It's paid at the accommodation.
 149|Roman hours
-150|Lunch from 13 to 15 and dinner from 20 to 23. Outside those hours many kitchens close: look for pizza by the slice or a bar.
+150|Lunch is a little after midday and dinner is late. Outside those hours many kitchens close: look for pizza by the slice or a bar.
 151|Coffee
 152|Coffee is drunk quickly, standing at the bar, and it's cheaper than sitting at a table. Cappuccino is for the morning.
 153|Aperitivo
-154|Between 18 and 20 many bars serve the aperitivo: a drink with something to nibble.
+154|In the early evening, before dinner, many bars serve aperitivo: a drink with something to nibble.
 155|Many state museums close on Mondays. The Vatican Museums close on Sundays, except the last Sunday of the month.
 156|For the Colosseum, the Vatican Museums and the Borghese Gallery you must book a time slot on their official website, sometimes weeks ahead.
 157|Mild and sunny: the best season, but also the busiest.
@@ -538,7 +538,7 @@
 538|Prati trattoria with carefully made Roman cooking, famous for its supplì and its amatriciana.
 539|A good option after the Vatican, away from the tourist traps.
 540|Roman Jewish cooking in the Ghetto: Jewish-style artichokes, courgette flowers and fried fish.
-541|Kosher according to the restaurant itself; check if it matters to you.
+541|Order the Jewish-style artichokes, the house speciality.
 542|artichokes
 543|One of the best-known restaurants in the Ghetto, with outdoor tables by the ruins of the Portico of Octavia.
 544|Order the fried artichokes and something from the Libyan Jewish cuisine.
@@ -737,7 +737,7 @@
 737|beach
 738|The Romans' beach, less than an hour away by train with the ordinary Rome ticket.
 739|Private beaches charge for loungers and umbrellas; there are free public stretches.
-740|Hostel and small hotel near Termini, with a garden, a vegetarian café and a quiet atmosphere.
+740|Hostel and small hotel near Termini, with a garden, a café and a quiet atmosphere.
 741|Good for those looking for a hostel without the party.
 742|hostel
 743|Large design hostel with shared and private rooms, near Termini.

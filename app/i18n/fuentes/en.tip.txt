@@ -4,7 +4,7 @@
 4|Non-resident visitors pay an entry fee. Next door are the Basílica del Pilar and the Centro Cultural Recoleta.
 5|Free entry. Go up to the boxes for the best photo.
 6|Go by day and stay in the tourist area (Caminito, Proa, Usina, Bombonera). Arrive and leave by taxi, app or bus; don't walk towards neighbouring areas.
-7|The fair runs on Sundays from about 10 am to 5 pm. It gets crowded: keep your phone and wallet well put away.
+7|The fair runs on Sundays during the day. It gets very crowded: keep your phone and wallet well put away.
 8|The light is best at sunset. Combine it with the Ecological Reserve.
 9|Closed on Mondays and on rainy days. At the entrance you'll find the choripán and pork sandwich carts.
 10|The Rose Garden closes on Mondays. The best bloom is in October and November.
@@ -86,7 +86,7 @@
 86|For a special night.
 87|Monday early evenings; buy your ticket online.
 88|Check the programme and book a table.
-89|Buenos Aires nightlife starts late: clubs fill up after 2 am.
+89|Buenos Aires nightlife starts late: clubs fill up in the small hours.
 90|There are discounts at last-minute ticket booths on the avenue itself.
 91|Tickets go on sale by season; those in the top gallery are very cheap.
 92|Do it on your first day to get your bearings. There are circuits of the Centre, Recoleta, San Telmo and La Boca.
@@ -519,7 +519,7 @@
 519|Book: it has few tables.
 520|Lovely for lunch or afternoon tea in the garden.
 521|No reservations; put your name on the list when you arrive.
-522|The night starts very late: before 2 a.m. it's quiet. Go and come back by taxi or ride app.
+522|The night starts very late: until well after midnight it is quiet. Get there and back by taxi or ride-hailing app.
 523|On Tuesdays there's an international party full of travellers; Thursdays are a classic.
 524|It also opens on some Sundays. Go and come back by taxi or ride app.
 525|Over 18s only; some Saturdays require an older age. Bring ID.

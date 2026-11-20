@@ -205,10 +205,10 @@ window.CITY_DATA.berlin = {
       { t: "Envases", d: "Las botellas y latas tienen un depósito que se paga al comprar. Te lo devuelven al llevarlas a las máquinas de los supermercados." }
     ] },
     { icon: "🕘", title: "Horarios berlineses", items: [
-      { t: "Comidas", d: "Almuerzo de 12 a 14 y cena de 18 a 21. Muchas cocinas cierran temprano: después de las 22 cuesta encontrar dónde cenar." },
+      { t: "Comidas", d: "Se almuerza al mediodía y se cena temprano. Muchas cocinas cierran temprano: tarde a la noche cuesta encontrar dónde cenar." },
       { t: "Domingos", d: "Los comercios y supermercados cierran. Quedan abiertos los de las estaciones grandes, los kioscos y los restaurantes." },
       { t: "Museos", d: "Muchos cierran los lunes. Verificá antes de ir." },
-      { t: "Noche", d: "Los bares se llenan después de las 22. Los clubes arrancan pasada la medianoche y algunos siguen hasta el otro día." }
+      { t: "Noche", d: "Los bares se llenan tarde. Los clubes arrancan pasada la medianoche y algunos siguen hasta el otro día." }
     ] },
     { icon: "🌤️", title: "Clima y cuándo venir", items: [
       { t: "Primavera (abr–may)", d: "Templado y con la ciudad en flor. Muy buena época." },

@@ -4,7 +4,7 @@
 4|Nicht-Residenten zahlen Eintritt. Nebenan liegen die Basílica del Pilar und das Centro Cultural Recoleta.
 5|Eintritt frei. Geh in die Logen hinauf für das beste Foto.
 6|Geh tagsüber und bleib im Touristenbereich (Caminito, Proa, Usina, Bombonera). An- und Abreise mit Taxi, App oder Bus; lauf nicht in die Nachbargegenden.
-7|Der Markt ist sonntags etwa von 10 bis 17 Uhr. Es wird voll: Handy und Geldbeutel gut wegstecken.
+7|Der Markt findet sonntags tagsüber statt. Es ist sehr voll: Handy und Geldbörse gut wegstecken.
 8|Das schönste Licht gibt es bei Sonnenuntergang. Kombinier es mit dem Ökologischen Reservat.
 9|Montags und bei Regen geschlossen. Am Eingang stehen die Wagen mit Choripán und Bondiola.
 10|Der Rosengarten ist montags zu. Die schönste Blüte ist im Oktober und November.
@@ -86,7 +86,7 @@
 86|Für einen besonderen Abend.
 87|Montags am frühen Abend; Ticket online kaufen.
 88|Programm prüfen und einen Tisch reservieren.
-89|Das Nachtleben in Buenos Aires beginnt spät: Clubs füllen sich nach 2 Uhr.
+89|Das Nachtleben in Buenos Aires beginnt spät: Die Clubs füllen sich erst in den frühen Morgenstunden.
 90|An der Avenida selbst gibt es Last-Minute-Ticketschalter mit Rabatt.
 91|Tickets werden pro Saison verkauft; die auf der obersten Galerie sind sehr günstig.
 92|Mach es am ersten Tag zur Orientierung. Es gibt Runden durch Zentrum, Recoleta, San Telmo und La Boca.
@@ -519,7 +519,7 @@
 519|Reservieren: Es hat wenige Tische.
 520|Schön für Mittagessen oder Nachmittagstee im Garten.
 521|Keine Reservierungen; trag dich bei Ankunft in die Liste ein.
-522|Die Nacht beginnt sehr spät: Vor 2 Uhr ist es ruhig. Hin und zurück mit Taxi oder Fahr-App.
+522|Die Nacht beginnt sehr spät: Bis weit nach Mitternacht ist wenig los. Hin und zurück mit Taxi oder Fahrdienst-App.
 523|Dienstags gibt es eine internationale Party voller Reisender; donnerstags ein Klassiker.
 524|Öffnet auch an manchen Sonntagen. Hin und zurück mit Taxi oder Fahr-App.
 525|Erst ab 18; an manchen Samstagen wird ein höheres Alter verlangt. Ausweis mitnehmen.

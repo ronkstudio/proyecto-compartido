@@ -4,7 +4,7 @@
 4|I visitatori non residenti pagano l'ingresso. Accanto ci sono la Basilica del Pilar e il Centro Cultural Recoleta.
 5|Ingresso libero. Sali sui palchi per la foto migliore.
 6|Vai di giorno e resta nella zona turistica (Caminito, Proa, Usina, Bombonera). Arriva e riparti in taxi, app o autobus; non camminare verso i quartieri vicini.
-7|Il mercatino è la domenica, circa dalle 10 alle 17. C'è tanta gente: tieni telefono e portafoglio ben custoditi.
+7|La fiera si tiene la domenica di giorno. C'è molta gente: tieni cellulare e portafoglio ben custoditi.
 8|Al tramonto la luce è la migliore. Abbinala alla Riserva Ecologica.
 9|Chiude il lunedì e nei giorni di pioggia. All'ingresso ci sono i carretti di choripán e bondiola.
 10|Il Rosedal chiude il lunedì. La fioritura migliore è a ottobre e novembre.
@@ -86,7 +86,7 @@
 86|Per una serata speciale.
 87|Il lunedì nel tardo pomeriggio; compra il biglietto online.
 88|Guarda il programma e prenota un tavolo.
-89|La notte porteña inizia tardi: le discoteche si riempiono dopo le 2.
+89|La notte di Buenos Aires inizia tardi: le discoteche si riempiono a notte fonda.
 90|Ci sono biglietterie last minute con sconti sullo stesso viale.
 91|I biglietti si vendono per stagione; quelli del loggione sono molto economici.
 92|Fallo il primo giorno per orientarti. Ci sono percorsi Centro, Recoleta, San Telmo e La Boca.
@@ -519,7 +519,7 @@
 519|Prenota: ha pochi tavoli.
 520|Bella per un pranzo o una merenda in giardino.
 521|Non accetta prenotazioni; mettiti in lista quando arrivi.
-522|La notte inizia molto tardi: prima delle 2 c'è poca gente. Vai e torna in taxi o con un'app.
+522|La serata inizia molto tardi: fino a ben dopo mezzanotte c'è poca gente. Vai e torna in taxi o con un'app.
 523|Il martedì c'è una festa internazionale con tanti viaggiatori; il giovedì è un classico.
 524|Apre anche alcune domeniche. Vai e torna in taxi o con un'app.
 525|Solo maggiorenni; alcuni sabati chiedono un'età maggiore. Porta un documento.

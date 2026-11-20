@@ -4,7 +4,7 @@
 4|Les visiteurs non résidents paient l'entrée. À côté se trouvent la basilique du Pilar et le Centro Cultural Recoleta.
 5|Entrée libre. Montez dans les loges pour la meilleure photo.
 6|Allez-y de jour et restez dans la zone touristique (Caminito, Proa, Usina, Bombonera). Venez et repartez en taxi, VTC ou bus ; ne marchez pas vers les quartiers voisins.
-7|Le marché a lieu le dimanche, environ de 10 h à 17 h. Il y a beaucoup de monde : gardez bien rangés téléphone et portefeuille.
+7|La foire a lieu le dimanche en journée. Il y a beaucoup de monde : gardez bien téléphone et portefeuille.
 8|Au coucher du soleil, la lumière est la plus belle. À combiner avec la Réserve écologique.
 9|Fermée le lundi et les jours de pluie. À l'entrée, il y a les stands de choripán et de bondiola.
 10|Le Rosedal ferme le lundi. La plus belle floraison est en octobre et novembre.
@@ -86,7 +86,7 @@
 86|Pour une soirée spéciale.
 87|Le lundi en fin d'après-midi ; achetez le billet en ligne.
 88|Consultez la programmation et réservez une table.
-89|La nuit porteña commence tard : les boîtes se remplissent après 2 h.
+89|La nuit à Buenos Aires commence tard : les boîtes se remplissent au petit matin.
 90|Il y a des guichets de dernière minute avec réductions sur la même avenue.
 91|Les billets sont mis en vente par saison ; ceux du paradis sont très bon marché.
 92|Faites-le le premier jour pour vous repérer. Il y a des circuits Centre, Recoleta, San Telmo et La Boca.
@@ -519,7 +519,7 @@
 519|Réservez : il y a peu de tables.
 520|Agréable pour un déjeuner ou un goûter dans le jardin.
 521|Pas de réservations ; inscrivez-vous sur la liste en arrivant.
-522|La nuit commence très tard : avant 2 h, il y a peu de monde. Allez-y et repartez en taxi ou VTC.
+522|La nuit commence très tard : jusqu'à bien après minuit, il y a peu de monde. Allez-y et rentrez en taxi ou en VTC.
 523|Le mardi, il y a une soirée internationale pleine de voyageurs ; le jeudi est un classique.
 524|Ouvert aussi certains dimanches. Allez-y et repartez en taxi ou VTC.
 525|Réservé aux plus de 18 ans ; certains samedis, l'âge minimum est plus élevé. Prenez une pièce d'identité.

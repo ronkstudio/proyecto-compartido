@@ -155,7 +155,7 @@
 155|Le menú del día (menu du jour)
 156|Le midi, du lundi au vendredi, beaucoup de restaurants proposent un menu fixe avec entrée, plat, dessert ou café et boisson. C'est la façon la moins chère de bien manger.
 157|Horaires madrilènes
-158|On mange tard : déjeuner de 14 h à 16 h et dîner de 21 h à 23 h. Avant, beaucoup de cuisines sont fermées, mais il y a toujours des bars à tapas.
+158|On mange tard : le déjeuner en milieu d'après-midi et le dîner tard le soir. Avant ces heures, beaucoup de cuisines sont fermées, mais il y a toujours des bars à tapas.
 159|Tapas et cañas
 160|Aller de tapas, c'est faire plusieurs bars avec une caña (une petite bière) ou un verre de vin et de quoi grignoter. Dans certains bars, la tapa est offerte avec la boisson.
 161|Le vermouth

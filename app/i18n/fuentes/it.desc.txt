@@ -500,7 +500,7 @@
 500|La parrilla del Four Seasons, in un padiglione vetrato nel giardino dell'hotel.
 501|Il ristorante del Four Seasons: carni frollate, salumeria e gelati fatti in casa.
 502|Cucina spagnola con ottimo pesce e una cantina importante.
-503|Cucina indiana con forno tandoor: curry, pane naan e piatti vegetariani.
+503|Cucina indiana con forno tandoor: curry e pane naan.
 504|Griglia e piatti abbondanti a buon prezzo, molto scelta dai viaggiatori.
 505|Gelateria d'autore nota per il dulce de leche e i cioccolati.
 506|Gelato all'italiana e caffetteria in una villa della Recoleta.

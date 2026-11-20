@@ -4,7 +4,7 @@
 4|Visitantes não residentes pagam entrada. Ao lado ficam a Basílica del Pilar e o Centro Cultural Recoleta.
 5|Entrada gratuita. Suba aos camarotes para a melhor foto.
 6|Vá de dia e fique na zona turística (Caminito, Proa, Usina, Bombonera). Chegue e volte de táxi, app ou ônibus; não caminhe em direção aos bairros vizinhos.
-7|A feira funciona aos domingos, das 10h às 17h aprox. Há muita gente: guarde bem o celular e a carteira.
+7|A feira funciona aos domingos durante o dia. Fica muito cheia: leve o celular e a carteira bem guardados.
 8|No pôr do sol a luz é a melhor. Combine com a Reserva Ecológica.
 9|Fecha às segundas e em dias de chuva. Na entrada ficam os carrinhos de choripán e bondiola.
 10|O Rosedal fecha às segundas. A melhor floração é em outubro e novembro.
@@ -86,7 +86,7 @@
 86|Para uma noite especial.
 87|Às segundas no fim da tarde; compre o ingresso online.
 88|Veja a programação e reserve mesa.
-89|A noite portenha começa tarde: as baladas enchem depois das 2h.
+89|A noite portenha começa tarde: as baladas enchem de madrugada.
 90|Há descontos em bilheterias de última hora na própria avenida.
 91|Os ingressos são vendidos por temporada; os do último andar são muito baratos.
 92|Faça no primeiro dia para se localizar. Há circuitos do Centro, Recoleta, San Telmo e La Boca.
@@ -519,7 +519,7 @@
 519|Reserve: tem poucas mesas.
 520|Ótima para um almoço ou um lanche da tarde no jardim.
 521|Não aceita reservas; coloque seu nome na lista ao chegar.
-522|A noite começa muito tarde: antes das 2 há pouca gente. Vá e volte de táxi ou aplicativo.
+522|A noite começa muito tarde: até bem depois da meia-noite há pouca gente. Vá e volte de táxi ou aplicativo.
 523|Às terças há uma festa internacional com muitos viajantes; as quintas são um clássico.
 524|Também abre alguns domingos. Vá e volte de táxi ou aplicativo.
 525|Maiores de 18; alguns sábados pedem idade maior. Leve documento.

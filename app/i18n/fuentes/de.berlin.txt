@@ -197,11 +197,11 @@
 197|Pfand
 198|Auf Flaschen und Dosen ist Pfand, das du beim Kauf bezahlst. Du bekommst es zurück, wenn du sie an den Automaten im Supermarkt abgibst.
 199|Berliner Zeiten
-200|Mittagessen von 12 bis 14 Uhr und Abendessen von 18 bis 21 Uhr. Viele Küchen schließen früh: Nach 22 Uhr ist es schwer, noch etwas zu essen zu finden.
+200|Mittagessen gibt es mittags, Abendessen früh. Viele Küchen schließen früh: Spät abends findet man schwer noch etwas zu essen.
 201|Sonntage
 202|Läden und Supermärkte sind geschlossen. Offen bleiben die in den großen Bahnhöfen, Spätis und Restaurants.
 203|Viele haben montags geschlossen. Prüfe es vor dem Besuch.
-204|Bars füllen sich nach 22 Uhr. Clubs legen nach Mitternacht los und manche gehen bis zum nächsten Tag.
+204|Die Bars füllen sich spät. Die Clubs legen nach Mitternacht los, manche laufen bis zum nächsten Tag.
 205|Frühling (Apr.–Mai)
 206|Mild und die Stadt blüht. Eine sehr gute Zeit.
 207|Sommer (Juni–Aug.)
@@ -492,7 +492,7 @@
 492|Eis nach amerikanischer Art mit frisch gebackenen Waffeln und Cookie-Sandwiches.
 493|Berliner Eismanufaktur mit natürlichen Zutaten und sehr gelungenen Fruchtsorten.
 494|Kiez-Eisdiele im Reuterkiez mit originellen Sorten wie Gurke, Zitrone und Minze.
-495|Selbst gemachtes Bio-Eis mit kreativen Sorten und veganen Optionen.
+495|Hausgemachtes Bio-Eis mit kreativen Sorten.
 496|Echtes sizilianisches Eis: Pistazie aus Bronte, Granita und Brioche mit Eis.
 497|Italienische Eisdiele mit gläserner Manufaktur, wenigen Sorten, alle sehr gut gemacht.
 498|Das einzige Dreisternerestaurant Berlins: Marco Müllers Menü mit regionalen Produkten und eine große Weinkarte.
@@ -514,7 +514,7 @@
 514|Türkischer Holzkohlegrill mit Lammspießen, Adana-Kebab und Vorspeisen zum Teilen.
 515|Südindisches Streetfood: knusprige Dosas, Thalis und Currys in einem bunten Laden.
 516|Neapolitanische Pizza aus dem Holzofen mit lang geführtem Teig, eine der angesehensten der Stadt.
-517|Sauerteigpizza mit Zutaten regionaler Erzeuger und guten veganen Optionen.
+517|Sauerteigpizza mit Zutaten von Erzeugern aus der Region.
 518|Neapolitanische Pizza in einem versteckten Hof am Kanal, mit luftigem Teig und Holzofen.
 519|Der berühmteste Hummus der Sonnenallee, Berlins »arabischer Straße«: frisch gemacht, mit Falafel und warmem Brot.
 520|Eine minimalistische Ramenbar mit dicker Tonkotsu-Brühe und Nudeln auf den Punkt. Die Referenz für Ramen in Berlin.
@@ -805,9 +805,9 @@
 805|Gegessen wird im Stehen auf dem Gehweg. Bestell sie »ohne Darm«, wie in Berlin üblich.
 806|Ein guter Stopp zwischen Museumsinsel und Hackeschen Höfen.
 807|Liegt auf dem Weg, wenn du zu den Bunkern der Berliner Unterwelten oder in den Humboldthain gehst.
-808|Gute Wahl, wenn du Biofleisch suchst; meist gibt es auch eine vegetarische Wurst.
+808|Gute Wahl, wenn du Bio-Fleisch suchst.
 809|Weit vom Zentrum: lohnt sich, wenn du in Steglitz oder im Botanischen Garten bist.
-810|Die Schlange kann sehr lang sein: Komm am Vormittag oder Nachmittag oder bestell die vegetarische Variante.
+810|Die Schlange kann sehr lang sein: Geh am Vormittag oder am Nachmittag hin.
 811|Weniger Schlange als bei Mustafa's und ähnlich gut oder besser. Drinnen gibt es Tische.
 812|Probier das gerollte Lahmacun mit Salat: lecker und sehr günstig.
 813|Hier isst man im Sitzen: Bestell den Döner auf dem Teller oder eine Grillplatte zum Teilen.

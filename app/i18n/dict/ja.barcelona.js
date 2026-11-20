@@ -159,7 +159,7 @@ Object.assign(window.I18N_FULL = window.I18N_FULL || {}, {
 "Si te roban, hacé la denuncia en una comisaría de los Mossos d'Esquadra o en el servicio de atención al turista de la Guàrdia Urbana (La Rambla 43), que tiene traductores.": "盗難にあったら、モソス・ダスクアドラの警察署か、通訳のいるグアルディア・ウルバナの観光客窓口（ランブラス通り43番地）で被害届を出す。",
 "Los alojamientos cobran aparte un impuesto por persona y por noche, que suma el de Cataluña y el de la ciudad. Preguntá si ya está incluido en el precio.": "宿泊施設では1人1泊ごとの観光税が別にかかり、カタルーニャ州と市の税が合算される。料金に含まれているか確認を。",
 "Horarios de Barcelona": "バルセロナの時間感覚",
-"Se come tarde: el almuerzo es de 13:30 a 15:30 y la cena, de 20:30 a 22:30. Fuera de esas horas, muchas cocinas están cerradas, pero siempre hay bares con tapas.": "食事は遅め。昼食は13時半〜15時半、夕食は20時半〜22時半。それ以外の時間は厨房が閉まっている店が多いが、タパスのバーはいつでもある。",
+"Se come tarde: el almuerzo, bien pasado el mediodía, y la cena, avanzada la noche. Fuera de esas horas, muchas cocinas están cerradas, pero siempre hay bares con tapas.": "食事は遅め。昼食は正午をだいぶ過ぎてから、夕食は夜遅く。それ以外の時間は厨房が閉まっている店が多いが、タパスのバーはいつでもある。",
 "Los fines de semana, antes del almuerzo, se toma el vermut con aceitunas, papas fritas y conservas. Sant Antoni y Gràcia están llenos de bodegas para eso.": "週末の昼食前には、オリーブやポテトチップス、缶詰のおつまみでベルモットを飲む。サン・アントニとグラシアにはそのための酒場がたくさんある。",
 "Las tiendas del centro abren todo el día, sin cortar al mediodía. Los domingos la mayoría cierra, salvo en las zonas más turísticas.": "中心部の店は昼休みなしで終日営業。日曜はほとんどの店が閉まるが、観光地は別。",
 "Museos y Gaudí": "美術館とガウディ",

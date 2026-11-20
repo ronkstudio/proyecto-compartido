@@ -132,7 +132,7 @@ Object.assign(window.I18N_FULL = window.I18N_FULL || {}, {
 "Si te roban, hacé la denuncia en una comisaría de la Policía Nacional. La vas a necesitar para el seguro y los documentos.": "如果被偷，到国家警察局报案。办保险和补证件都需要报案证明。",
 "La oficina de turismo de la Plaza Mayor y los puntos de información turística ayudan a turistas que sufrieron un robo: con la denuncia, los documentos, las tarjetas y el consulado.": "马约尔广场旅游中心和各旅游咨询点会帮助被偷的游客：报案、证件、银行卡和联系领事馆。",
 "Horarios madrileños": "马德里的作息",
-"Se come tarde: el almuerzo es de 14 a 16 y la cena, de 21 a 23. Antes de esas horas, muchas cocinas están cerradas, pero siempre hay bares con tapas.": "这里吃饭晚：午餐14到16点，晚餐21到23点。在这之前很多厨房不开，但总有小吃酒吧。",
+"Se come tarde: el almuerzo, a media tarde, y la cena, avanzada la noche. Antes de esas horas, muchas cocinas están cerradas, pero siempre hay bares con tapas.": "用餐时间偏晚：午餐在下午，晚餐在深夜。在这之前很多厨房不营业，但总能找到卖 tapas 的酒吧。",
 "Tapas y cañas": "小吃和小杯啤酒",
 "Ir de tapas es pasar por varios bares tomando una caña (una cerveza chica) o un vino con algo para picar. En algunos bares la tapa viene gratis con la bebida.": "吃小吃就是逛好几家酒吧，喝一小杯啤酒或葡萄酒配点小吃。有些酒吧点饮料送小吃。",
 "Los fines de semana a la mañana, antes del almuerzo, se toma el vermut con aceitunas o papas fritas. El domingo, después del Rastro, es casi obligatorio.": "周末上午、午饭前，大家喝味美思配橄榄或薯片。周日逛完跳蚤市场几乎必喝。",

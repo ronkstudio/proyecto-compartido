@@ -8,6 +8,7 @@ Este archivo se mantiene corto a propósito, porque se lee al empezar cada tarea
 
 ## Últimos cambios
 
+- 20/11 · #224 · Sin horarios exactos en ninguna ciudad (21 textos, en los 8 idiomas); los datos de dieta tienen fuente o se sacaron.
 - 20/11 · #221 · Control de datos de las 11 ciudades (`zz-revisar.html`, no se publica); lo que encontró está en la tarjeta #221.
 - 20/11 · #216 · Tokio, undécima ciudad (la primera de Asia); 26 etiquetas comunes nuevas, "Lisboa" traducida y la intro se desvanece con "reducir movimiento".
 - 19/11 · #217 · Este archivo se achicó (el anterior está en `docs/historial.md`); `LEEME.md` al día; Claude suma a `main` sin preguntar.
@@ -17,7 +18,6 @@ Este archivo se mantiene corto a propósito, porque se lee al empezar cada tarea
 - 19/11 · #207 · Identidad visual de cada ciudad: paleta clara y oscura, letra, dibujo de portada (`css/temas.css`).
 - 19/11 · #204 · Bogotá, novena ciudad.
 - 19/11 · #203 · Río de Janeiro, octava ciudad.
-- 18/11 · #202 · Variedad: en las 7 ciudades de entonces, cada tipo y barrio del filtro tiene 4 lugares o más.
 
 ## Decidido
 

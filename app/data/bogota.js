@@ -183,7 +183,7 @@ window.CITY_DATA.bogota = {
       { t: "Propina", d: "En restaurantes se sugiere un 10 % de servicio en la cuenta: te preguntan si lo querés incluir. Es voluntario." }
     ] },
     { icon: "🕘", title: "Horarios de Bogotá", items: [
-      { t: "Comidas", d: "Se almuerza entre las 12 y las 14, y la cena es temprano. El almuerzo es la comida fuerte." },
+      { t: "Comidas", d: "Se almuerza al mediodía y la cena es temprano. El almuerzo es la comida fuerte." },
       { t: "Comercios", d: "Abren temprano. Los domingos muchos cierran, salvo los centros comerciales." },
       { t: "Museos", d: "Muchos museos cierran los lunes. El Museo Botero es gratis y el Museo del Oro, gratis los domingos." }
     ] },

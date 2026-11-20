@@ -117,7 +117,7 @@ Object.assign(window.I18N_FULL = window.I18N_FULL || {}, {
 "Agua gratis": "Eau gratuite",
 "En los restaurantes podés pedir una jarra de agua de la canilla (\"une carafe d'eau\"): es gratis.": "Au restaurant, vous pouvez demander une carafe d'eau du robinet : c'est gratuit.",
 "Horarios parisinos": "Les horaires parisiens",
-"Almuerzo de 12 a 14 y cena de 19:30 a 22:30. Entre la tarde y la noche muchas cocinas cierran: buscá brasseries, que sirven todo el día.": "Déjeuner de 12 h à 14 h et dîner de 19 h 30 à 22 h 30. Entre les deux, beaucoup de cuisines ferment : cherchez une brasserie, qui sert toute la journée.",
+"Se almuerza al mediodía y se cena temprano a la noche. Entre la tarde y la noche muchas cocinas cierran: buscá brasseries, que sirven todo el día.": "On déjeune à midi et on dîne en début de soirée. Entre l'après-midi et le soir, beaucoup de cuisines ferment : cherchez les brasseries, qui servent toute la journée.",
 "Muchos comercios cierran. En el Marais, los Campos Elíseos y algunas zonas turísticas abren igual.": "Beaucoup de commerces ferment. Dans le Marais, sur les Champs-Élysées et dans certaines zones touristiques, ils ouvrent quand même.",
 "Casi todos cierran un día por semana: el Louvre los martes y el Orsay los lunes. Verificá antes de ir.": "Presque tous ferment un jour par semaine : le Louvre le mardi et Orsay le lundi. Vérifiez avant d'y aller.",
 "Para los museos y monumentos más pedidos (Louvre, Torre Eiffel, Sainte-Chapelle, Notre-Dame) conviene reservar horario en su sitio oficial.": "Pour les musées et monuments les plus demandés (Louvre, tour Eiffel, Sainte-Chapelle, Notre-Dame), mieux vaut réserver un créneau sur le site officiel.",

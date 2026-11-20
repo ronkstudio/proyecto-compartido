@@ -144,9 +144,9 @@ window.CITY_ZONES.caba = {
   },
   help: [
     { id: "cat-recoleta", type: "info", name: "Centro de Atención al Turista · Hub de Turismo", address: "Junín 1940, Recoleta", ll: [-34.5868, -58.3927], aprox: true,
-      note: "Información, mapas y asesoramiento en persona. Lunes a viernes de 10 a 17 h." },
+      note: "Información, mapas y asesoramiento en persona, en horario de oficina de lunes a viernes." },
     { id: "cat-retiro", type: "info", name: "Centro de Atención al Turista · Retiro", address: "Av. Dr. José María Ramos Mejía 1560, Retiro", ll: [-34.59276, -58.37531],
-      note: "Lunes a viernes de 8 a 15 h; sábados, domingos y feriados de 8 a 17 h." },
+      note: "Abre todos los días, con horario más largo los fines de semana y feriados." },
     { id: "defensoria", type: "info", name: "Defensoría del Turista", address: "Av. Belgrano 673, Monserrat", ll: [-34.61259, -58.37576], wa: "5491150261318",
       note: "Reclamos por hoteles, alquileres, agencias o comercios, y ayuda ante pérdida de documentos. Gratuito, con personal bilingüe." },
     { id: "comisaria-turista", type: "policia", name: "Comisaría del Turista", address: "Av. Corrientes 436, Centro", ll: [-34.60335, -58.37298], tel: "+541150509260",

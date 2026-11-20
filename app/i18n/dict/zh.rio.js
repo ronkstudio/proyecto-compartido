@@ -143,7 +143,7 @@ Object.assign(window.I18N_FULL = window.I18N_FULL || {}, {
 "En restaurantes y bares se suma un 10 % de servicio a la cuenta: es opcional, pero se paga casi siempre.": "餐厅和酒吧会在账单上加10%服务费：可选，但几乎都会付。",
 "Los vendedores y las sillas de la playa suelen cobrar en efectivo o Pix.": "海滩小贩和租椅子的通常收现金或 Pix。",
 "Horarios de Río": "里约的作息",
-"Se almuerza entre las 12 y las 15 y se cena desde las 20. Los botecos funcionan todo el día.": "午餐在12点到15点之间，晚餐从20点开始。小酒馆全天营业。",
+"Se almuerza al mediodía y se cena a la noche. Los botecos funcionan todo el día.": "午餐在中午，晚餐在晚上。boteco（街坊小酒馆）全天营业。",
 "Las tiendas de calle abren en horario comercial; los shoppings, todos los días hasta la noche.": "街边商店按营业时间开门；购物中心每天开到晚上。",
 "Cristo y Pan de Azúcar": "基督像和面包山",
 "Se llenan: sacá la entrada con horario en su web oficial y fijate el pronóstico, porque con nubes no se ve nada.": "人很多：在官网买限时段门票，并看天气预报，有云就什么也看不见。",

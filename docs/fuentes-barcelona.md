@@ -91,3 +91,7 @@ De dónde sale cada dato de Barcelona en la guía. Revisado el 18/11/2026.
   - Gluten Tag ("100 % sense gluten" en su web).
 - **Se dejaron afuera:** Rasoterra y Vacka, porque su web no respondió.
 - **Fotos:** 12 más, con el mismo método que Ámsterdam (ver `docs/fuentes-amsterdam.md`). Se sacaron 4: una vista aérea de 1960 de la Ciutadella, L'Auditori (no cargaba), un azulejo en lugar de El Call y una foto dudosa de la Torre Glòries.
+
+## Dietas que dice el texto de la ficha (tarjeta #224, revisado el 20/11/2026)
+
+- **Teresa Carles** (Raval): restaurante vegetariano desde 1979. [fuente](https://www.timeout.com/barcelona/restaurants/teresa-carles)

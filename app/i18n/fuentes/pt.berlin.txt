@@ -197,11 +197,11 @@
 197|Embalagens
 198|Garrafas e latas têm um depósito pago na compra. Ele é devolvido quando você as leva às máquinas dos supermercados.
 199|Horários berlinenses
-200|Almoço das 12 às 14 e jantar das 18 às 21. Muitas cozinhas fecham cedo: depois das 22 é difícil achar onde jantar.
+200|Almoça-se ao meio-dia e janta-se cedo. Muitas cozinhas fecham cedo: tarde da noite é difícil achar onde jantar.
 201|Domingos
 202|O comércio e os supermercados fecham. Ficam abertos os das estações grandes, os quiosques e os restaurantes.
 203|Muitos fecham às segundas. Verifique antes de ir.
-204|Os bares enchem depois das 22. Os clubes começam depois da meia-noite e alguns seguem até o dia seguinte.
+204|Os bares enchem tarde. Os clubes começam depois da meia-noite e alguns seguem até o dia seguinte.
 205|Primavera (abr–mai)
 206|Ameno e com a cidade em flor. Época muito boa.
 207|Verão (jun–ago)
@@ -492,7 +492,7 @@
 492|Sorvete ao estilo norte-americano com casquinhas assadas na hora e sanduíches de biscoito.
 493|Sorveteria artesanal berlinense com ingredientes naturais e sabores de fruta muito bem feitos.
 494|Sorveteria de bairro no Reuterkiez com sabores originais, como pepino, limão e hortelã.
-495|Sorvete orgânico de fabricação própria, com sabores criativos e opções veganas.
+495|Sorvete orgânico de fabricação própria, com sabores criativos.
 496|Sorvete siciliano de verdade: pistache de Bronte, granita e brioche recheado de sorvete.
 497|Sorveteria italiana com laboratório à vista, poucos sabores e muito bem feitos.
 498|O único três estrelas de Berlim: menu degustação de Marco Müller com produtos da região e uma grande carta de vinhos.
@@ -514,7 +514,7 @@
 514|Grelhados turcos na brasa com espetinhos de cordeiro, kebab de Adana e entradas para compartilhar.
 515|Comida de rua do sul da Índia: dosas crocantes, thalis e curries, num lugar colorido.
 516|Pizza napolitana em forno a lenha e massa de fermentação longa, das mais respeitadas da cidade.
-517|Pizza de fermentação natural com ingredientes de produtores da região e boas opções veganas.
+517|Pizza de fermentação natural com ingredientes de produtores da região.
 518|Pizza napolitana num pátio escondido em frente ao canal, com massa aerada e forno a lenha.
 519|O homus mais famoso da Sonnenallee, a «rua árabe» de Berlim: feito na hora, com falafel e pão quente.
 520|Um bar de ramen mínimo com caldo tonkotsu espesso e macarrão no ponto. O ramen de referência em Berlim.
@@ -805,9 +805,9 @@
 805|Come-se em pé na calçada. Peça «ohne Darm» (sem pele), ao estilo berlinense.
 806|Boa parada entre a Ilha dos Museus e os Hackesche Höfe.
 807|Fica no caminho se você for aos bunkers do Berliner Unterwelten ou ao Humboldthain.
-808|Boa opção se você procura carne orgânica; também costumam ter salsicha vegetariana.
+808|Boa opção se você procura carne orgânica.
 809|Fica longe do centro: vale se você estiver por Steglitz ou no Jardim Botânico.
-810|A fila pode ser muito longa: vá no meio da manhã ou no meio da tarde, ou peça a versão vegetariana.
+810|A fila pode ser muito longa: vá no meio da manhã ou no meio da tarde.
 811|Menos fila que o Mustafa's e um nível parecido ou melhor. Há mesas lá dentro.
 812|Prove o lahmacun enrolado com salada: gostoso e muito barato.
 813|Aqui se come sentado: peça o döner no prato ou uma parrillada para dividir.

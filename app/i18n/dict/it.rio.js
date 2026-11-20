@@ -143,7 +143,7 @@ Object.assign(window.I18N_FULL = window.I18N_FULL || {}, {
 "En restaurantes y bares se suma un 10 % de servicio a la cuenta: es opcional, pero se paga casi siempre.": "Nei ristoranti e nei bar si aggiunge il 10% di servizio al conto: è facoltativo, ma si paga quasi sempre.",
 "Los vendedores y las sillas de la playa suelen cobrar en efectivo o Pix.": "I venditori e le sedie in spiaggia di solito si pagano in contanti o con Pix.",
 "Horarios de Río": "Orari di Rio",
-"Se almuerza entre las 12 y las 15 y se cena desde las 20. Los botecos funcionan todo el día.": "Si pranza tra le 12 e le 15 e si cena dalle 20. I botecos sono aperti tutto il giorno.",
+"Se almuerza al mediodía y se cena a la noche. Los botecos funcionan todo el día.": "Si pranza a mezzogiorno e si cena la sera. I botecos (bar di quartiere) sono aperti tutto il giorno.",
 "Las tiendas de calle abren en horario comercial; los shoppings, todos los días hasta la noche.": "I negozi di strada aprono in orario commerciale; i centri commerciali tutti i giorni fino a sera.",
 "Cristo y Pan de Azúcar": "Cristo e Pan di Zucchero",
 "Se llenan: sacá la entrada con horario en su web oficial y fijate el pronóstico, porque con nubes no se ve nada.": "Si riempiono: compra il biglietto con orario sul sito ufficiale e guarda le previsioni, perché con le nuvole non si vede niente.",

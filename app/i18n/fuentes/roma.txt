@@ -94,7 +94,7 @@ En el colectivo, el boleto de papel se valida en la maquinita amarilla apenas su
 Roma tiene solo tres líneas: A (naranja), B (azul) y C (verde). Se cruzan en Termini (A y B), San Giovanni (A y C) y Colosseo (B y C).
 Lo que no cubre
 El metro casi no entra al centro histórico, por las ruinas que hay bajo tierra. Al Panteón, la Piazza Navona o Trastevere se llega a pie, en colectivo o en tranvía.
-Funciona desde temprano hasta cerca de las 23:30, y más tarde los viernes y sábados. De noche hay colectivos nocturnos.
+Funciona desde temprano hasta cerca de la medianoche, y más tarde los viernes y sábados. De noche hay colectivos nocturnos.
 Cada dirección se llama por la estación final de la línea. Seguí los carteles con la letra y el nombre de esa última estación.
 Colectivos y tranvías
 Son la forma de llegar al centro histórico. Hay muchas líneas y a veces van llenos: cuidá tus cosas.
@@ -147,11 +147,11 @@ No es obligatoria. Se suele redondear o dejar unos euros si te atendieron bien.
 Tasa turística
 Los hoteles cobran una tasa de estadía por persona y por noche, aparte de la tarifa. Se paga en el alojamiento.
 Horarios romanos
-Almuerzo de 13 a 15 y cena de 20 a 23. Fuera de esos horarios muchas cocinas cierran: buscá pizza al corte o un bar.
+Se almuerza pasado el mediodía y se cena tarde. Fuera de esos horarios muchas cocinas cierran: buscá pizza al corte o un bar.
 El café
 El café se toma rápido y de pie en la barra, y sale más barato que sentado en la mesa. El cappuccino es de la mañana.
 Aperitivo
-Entre las 18 y las 20 muchos bares sirven el aperitivo: un trago con algo para picar.
+Al caer la tarde, antes de la cena, muchos bares sirven el aperitivo: un trago con algo para picar.
 Muchos museos estatales cierran los lunes. Los Museos Vaticanos cierran los domingos, salvo el último domingo del mes.
 Para el Coliseo, los Museos Vaticanos y la Galería Borghese hay que reservar horario en su sitio oficial, a veces con semanas de anticipación.
 Templado y soleado: la mejor época, pero también la de más gente.
@@ -538,7 +538,7 @@ Buena opción para cenar después de recorrer Ostiense.
 Trattoria de Prati con cocina romana cuidada, famosa por sus supplì y su amatriciana.
 Buena opción después del Vaticano, lejos de las trampas para turistas.
 Cocina judía romana en el Gueto: alcauciles a la judía, flores de zapallo y pescado frito.
-Es kosher según el propio restaurante; confirmalo si te importa.
+Pedí los alcauciles a la judía, la especialidad de la casa.
 alcauciles
 Uno de los restaurantes más conocidos del Gueto, con mesas afuera junto a las ruinas del Pórtico de Octavia.
 Pedí los alcauciles fritos y algo de la cocina judía libia.
@@ -737,7 +737,7 @@ Tren a Fondi y micro hasta el pueblo. Ideal en verano.
 playa
 La playa de los romanos, a menos de una hora en tren con el boleto común de Roma.
 Las playas privadas cobran reposera y sombrilla; hay sectores públicos gratis.
-Hostel y hotel chico cerca de Termini, con jardín, café vegetariano y ambiente tranquilo.
+Hostel y hotel chico cerca de Termini, con jardín, café y ambiente tranquilo.
 Bueno para quienes buscan un hostel sin fiesta.
 hostel
 Hostel grande de diseño con habitaciones compartidas y privadas, cerca de Termini.

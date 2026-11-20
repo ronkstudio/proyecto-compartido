@@ -161,7 +161,7 @@ window.CITY_DATA.paris = {
       { t: "Agua gratis", d: "En los restaurantes podés pedir una jarra de agua de la canilla (\"une carafe d'eau\"): es gratis." }
     ] },
     { icon: "🕘", title: "Horarios parisinos", items: [
-      { t: "Comidas", d: "Almuerzo de 12 a 14 y cena de 19:30 a 22:30. Entre la tarde y la noche muchas cocinas cierran: buscá brasseries, que sirven todo el día." },
+      { t: "Comidas", d: "Se almuerza al mediodía y se cena temprano a la noche. Entre la tarde y la noche muchas cocinas cierran: buscá brasseries, que sirven todo el día." },
       { t: "Domingos", d: "Muchos comercios cierran. En el Marais, los Campos Elíseos y algunas zonas turísticas abren igual." },
       { t: "Museos", d: "Casi todos cierran un día por semana: el Louvre los martes y el Orsay los lunes. Verificá antes de ir." },
       { t: "Reservas", d: "Para los museos y monumentos más pedidos (Louvre, Torre Eiffel, Sainte-Chapelle, Notre-Dame) conviene reservar horario en su sitio oficial." }

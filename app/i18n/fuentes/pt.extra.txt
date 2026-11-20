@@ -6,8 +6,8 @@
 6|Bib Gourmand Michelin 2026
 7|N.º 21 no The World's 50 Best Bars 2026
 8|9 de novembro de 2026, com o site oficial do SUBE. Os meios de pagamento mudam com frequência: se algo não bater, valem os avisos do transporte.
-9|Aproximadamente das 5h30 às 23h30 de segunda a sábado, e das 8h às 22h30 aos domingos e feriados. Não funciona de madrugada.
-10|Evite os horários de pico (8h às 10h e 17h às 19h30) se puder. Leve a mochila na frente e o celular guardado perto das portas.
+9|Funciona do começo da manhã até perto da meia-noite, com horário menor aos domingos e feriados. Não funciona de madrugada.
+10|Evite os horários de pico, de manhã cedo e na saída do trabalho, se puder. Leve a mochila na frente e o celular guardado perto das portas.
 11|Mais de 150 linhas que chegam a todo lugar e circulam 24 horas (à noite, com menos frequência). Sobe-se pela frente, diz-se o destino ao motorista e paga-se com cartão por aproximação, celular ou SUBE.
 12|Faixas exclusivas em avenidas como 9 de Julio e Juan B. Justo que tornam a viagem muito mais rápida.
 13|Linha Mitre para Tigre (aprox. 1 hora), San Isidro e Belgrano C (Bairro Chinês).
@@ -17,8 +17,8 @@
 17|Voos domésticos e regionais. Fica na cidade, a 15–25 minutos de Palermo e do Centro. Táxi, apps ou ônibus 33, 37, 45 e 160.
 18|Buquebus e Colonia Express atravessam para Colônia (aprox. 1 h 15 min) e Montevidéu. Os terminais ficam em Puerto Madero e perto de La Boca. Apresente-se com uma hora de antecedência para a imigração.
 19|Retiro: os arredores do terminal rodoviário e de trens, e o Barrio 31. Chegue e saia de táxi ou app.
-20|Informação, mapas e orientação pessoalmente. Segunda a sexta, das 10h às 17h.
-21|Segunda a sexta, das 8h às 15h; sábados, domingos e feriados, das 8h às 17h.
+20|Informações, mapas e atendimento pessoal, em horário comercial de segunda a sexta.
+21|Abre todos os dias, com horário mais longo nos fins de semana e feriados.
 22|Atendimento em vários idiomas para denúncias, roubos ou perda de passaporte. Plantão 24 horas.
 23|Hospitais com pronto-socorro 24 h
 24|Público. Pronto-socorro 24 h; as urgências são atendidas gratuitamente.
@@ -33,9 +33,9 @@
 33|Digite o total e dizemos quanto cada um paga. Na Argentina costuma-se deixar 10%, em dinheiro.
 34|Adaptador de tomada tipo I (220 V)
 35|Em restaurantes deixa-se cerca de 10%, normalmente em dinheiro. Em táxis não é obrigatória; costuma-se arredondar.
-36|Almoço das 12h30 às 15h. Lanche às 17h. Jantar a partir das 20h30; o habitual é 21h30 ou 22h.
-37|Os bares enchem depois das 23h e as baladas depois das 2h.
-38|Em geral das 10h às 20h. Os shoppings, todos os dias até as 22h.
+36|Almoça-se ao meio-dia, lancha-se à tarde e janta-se tarde: o comum é bem tarde da noite.
+37|Os bares enchem tarde e as baladas, de madrugada.
+38|Em geral abrem de manhã e fecham à noite. Os shoppings abrem todos os dias até tarde.
 39|Quente e úmido, 28 a 35 °C. Em janeiro a cidade esvazia.
 40|Fresco, 8 a 16 °C. Não neva. Alta temporada de teatro e cultura.
 41|220 V. Tomada tipo I (três pinos chatos em ângulo). Leve adaptador.

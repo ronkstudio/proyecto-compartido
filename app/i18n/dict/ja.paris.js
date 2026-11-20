@@ -117,7 +117,7 @@ Object.assign(window.I18N_FULL = window.I18N_FULL || {}, {
 "Agua gratis": "無料の水",
 "En los restaurantes podés pedir una jarra de agua de la canilla (\"une carafe d'eau\"): es gratis.": "レストランでは水道水のピッチャー（\"une carafe d'eau\"）を頼めます。無料です。",
 "Horarios parisinos": "パリの時間感覚",
-"Almuerzo de 12 a 14 y cena de 19:30 a 22:30. Entre la tarde y la noche muchas cocinas cierran: buscá brasseries, que sirven todo el día.": "昼食は12〜14時、夕食は19時半〜22時半。その間は多くの店の厨房が閉まるので、終日営業のブラッスリーを探しましょう。",
+"Se almuerza al mediodía y se cena temprano a la noche. Entre la tarde y la noche muchas cocinas cierran: buscá brasseries, que sirven todo el día.": "昼食は正午ごろ、夕食は夜の早い時間。午後から夜にかけては厨房を閉める店が多いので、一日中営業しているブラッスリーを探そう。",
 "Muchos comercios cierran. En el Marais, los Campos Elíseos y algunas zonas turísticas abren igual.": "多くの店が休みです。マレ地区、シャンゼリゼ、一部の観光地では営業しています。",
 "Casi todos cierran un día por semana: el Louvre los martes y el Orsay los lunes. Verificá antes de ir.": "ほとんどが週1日休館：ルーヴルは火曜、オルセーは月曜。行く前に確認を。",
 "Para los museos y monumentos más pedidos (Louvre, Torre Eiffel, Sainte-Chapelle, Notre-Dame) conviene reservar horario en su sitio oficial.": "人気の美術館や名所（ルーヴル、エッフェル塔、サント・シャペル、ノートルダム）は公式サイトで時間指定の予約がおすすめです。",

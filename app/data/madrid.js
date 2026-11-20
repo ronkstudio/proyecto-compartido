@@ -219,7 +219,7 @@ window.CITY_DATA.madrid = {
       { t: "El menú del día", d: "Al mediodía, de lunes a viernes, muchos restaurantes tienen un menú fijo con primer plato, segundo, postre o café y bebida. Es la forma más barata de comer bien." }
     ] },
     { icon: "🕘", title: "Horarios madrileños", items: [
-      { t: "Comidas", d: "Se come tarde: el almuerzo es de 14 a 16 y la cena, de 21 a 23. Antes de esas horas, muchas cocinas están cerradas, pero siempre hay bares con tapas." },
+      { t: "Comidas", d: "Se come tarde: el almuerzo, a media tarde, y la cena, avanzada la noche. Antes de esas horas, muchas cocinas están cerradas, pero siempre hay bares con tapas." },
       { t: "Tapas y cañas", d: "Ir de tapas es pasar por varios bares tomando una caña (una cerveza chica) o un vino con algo para picar. En algunos bares la tapa viene gratis con la bebida." },
       { t: "El vermut", d: "Los fines de semana a la mañana, antes del almuerzo, se toma el vermut con aceitunas o papas fritas. El domingo, después del Rastro, es casi obligatorio." },
       { t: "Comercios", d: "Las tiendas del centro abren todo el día, sin cortar al mediodía, y la mayoría también los domingos." },

@@ -123,7 +123,7 @@ Object.assign(window.I18N_FULL = window.I18N_FULL || {}, {
 "Usá cajeros dentro de bancos o centros comerciales, de día. Si te ofrecen cobrarte en tu moneda, elegí pesos.": "白天在银行或商场里取钱。如果提出用你的本币结算，选比索。",
 "En restaurantes se sugiere un 10 % de servicio en la cuenta: te preguntan si lo querés incluir. Es voluntario.": "餐厅建议在账单上加10%服务费：会问你要不要加。自愿。",
 "Horarios de Bogotá": "波哥大的作息",
-"Se almuerza entre las 12 y las 14, y la cena es temprano. El almuerzo es la comida fuerte.": "午餐在12点到14点之间，晚餐很早。午餐是正餐。",
+"Se almuerza al mediodía y la cena es temprano. El almuerzo es la comida fuerte.": "午餐在中午，晚餐较早。午餐是一天的正餐。",
 "Abren temprano. Los domingos muchos cierran, salvo los centros comerciales.": "开门早。周日很多店关门，购物中心除外。",
 "Muchos museos cierran los lunes. El Museo Botero es gratis y el Museo del Oro, gratis los domingos.": "很多博物馆周一闭馆。博特罗博物馆免费，黄金博物馆周日免费。",
 "Fresco todo el año, entre 7 y 20 °C. Puede hacer sol, llover y refrescar en el mismo día.": "全年凉爽，7到20°C。同一天里可能出太阳、下雨又变冷。",

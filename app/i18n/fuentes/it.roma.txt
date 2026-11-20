@@ -94,7 +94,7 @@
 94|Roma ha solo tre linee: A (arancione), B (blu) e C (verde). Si incrociano a Termini (A e B), San Giovanni (A e C) e Colosseo (B e C).
 95|Cosa non copre
 96|La metro quasi non entra nel centro storico, per via delle rovine sottoterra. Al Pantheon, a piazza Navona o a Trastevere si arriva a piedi, in autobus o in tram.
-97|Funziona da presto fino alle 23:30 circa, e più tardi il venerdì e il sabato. Di notte ci sono gli autobus notturni.
+97|Funziona dal mattino presto fino a mezzanotte circa, e più tardi il venerdì e il sabato. Di notte ci sono gli autobus notturni.
 98|Ogni direzione prende il nome del capolinea. Segui i cartelli con la lettera e il nome di quel capolinea.
 99|Autobus e tram
 100|Sono il modo per arrivare nel centro storico. Ci sono molte linee e a volte sono pieni: attento alle tue cose.
@@ -147,11 +147,11 @@
 147|Tassa di soggiorno
 148|Gli hotel fanno pagare una tassa di soggiorno a persona e a notte, oltre alla tariffa. Si paga nella struttura.
 149|Orari romani
-150|Pranzo dalle 13 alle 15 e cena dalle 20 alle 23. Fuori da questi orari molte cucine chiudono: cerca una pizza al taglio o un bar.
+150|Si pranza dopo mezzogiorno e si cena tardi. Fuori da questi orari molte cucine chiudono: cerca una pizza al taglio o un bar.
 151|Il caffè
 152|Il caffè si beve veloce e in piedi al banco, e costa meno che seduti al tavolo. Il cappuccino è da mattina.
 153|Aperitivo
-154|Tra le 18 e le 20 molti bar servono l'aperitivo: un drink con qualcosa da stuzzicare.
+154|Al calar della sera, prima di cena, molti bar servono l'aperitivo: un drink con qualcosa da stuzzicare.
 155|Molti musei statali chiudono il lunedì. I Musei Vaticani chiudono la domenica, tranne l'ultima domenica del mese.
 156|Per il Colosseo, i Musei Vaticani e la Galleria Borghese bisogna prenotare l'orario sul sito ufficiale, a volte con settimane di anticipo.
 157|Mite e soleggiato: la stagione migliore, ma anche la più affollata.
@@ -538,7 +538,7 @@
 538|Trattoria di Prati con cucina romana curata, famosa per i supplì e l'amatriciana.
 539|Buona opzione dopo il Vaticano, lontano dalle trappole per turisti.
 540|Cucina giudaico-romanesca nel Ghetto: carciofi alla giudia, fiori di zucca e pesce fritto.
-541|È kosher secondo lo stesso ristorante; verifica se per te è importante.
+541|Ordina i carciofi alla giudia, la specialità della casa.
 542|carciofi
 543|Uno dei ristoranti più noti del Ghetto, con tavoli all'aperto accanto alle rovine del Portico d'Ottavia.
 544|Ordina i carciofi fritti e qualcosa della cucina ebraica libica.
@@ -737,7 +737,7 @@
 737|spiaggia
 738|La spiaggia dei romani, a meno di un'ora di treno con il normale biglietto di Roma.
 739|Gli stabilimenti fanno pagare lettini e ombrelloni; ci sono tratti di spiaggia libera gratuita.
-740|Ostello e piccolo hotel vicino a Termini, con giardino, caffè vegetariano e atmosfera tranquilla.
+740|Ostello e piccolo hotel vicino a Termini, con giardino, caffè e atmosfera tranquilla.
 741|Buono per chi cerca un ostello senza feste.
 742|ostello
 743|Grande ostello di design con camere condivise e private, vicino a Termini.

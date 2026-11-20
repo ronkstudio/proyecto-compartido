@@ -129,7 +129,7 @@ window.CITY_DATA.roma = {
     { icon: "🚇", title: "Metro", items: [
       { t: "Cómo funciona", d: "Roma tiene solo tres líneas: A (naranja), B (azul) y C (verde). Se cruzan en Termini (A y B), San Giovanni (A y C) y Colosseo (B y C)." },
       { t: "Lo que no cubre", d: "El metro casi no entra al centro histórico, por las ruinas que hay bajo tierra. Al Panteón, la Piazza Navona o Trastevere se llega a pie, en colectivo o en tranvía." },
-      { t: "Horarios", d: "Funciona desde temprano hasta cerca de las 23:30, y más tarde los viernes y sábados. De noche hay colectivos nocturnos." },
+      { t: "Horarios", d: "Funciona desde temprano hasta cerca de la medianoche, y más tarde los viernes y sábados. De noche hay colectivos nocturnos." },
       { t: "Cómo orientarte", d: "Cada dirección se llama por la estación final de la línea. Seguí los carteles con la letra y el nombre de esa última estación." }
     ] },
     { icon: "🚌", title: "Colectivos y tranvías", items: [
@@ -209,9 +209,9 @@ window.CITY_DATA.roma = {
       { t: "Tasa turística", d: "Los hoteles cobran una tasa de estadía por persona y por noche, aparte de la tarifa. Se paga en el alojamiento." }
     ] },
     { icon: "🕘", title: "Horarios romanos", items: [
-      { t: "Comidas", d: "Almuerzo de 13 a 15 y cena de 20 a 23. Fuera de esos horarios muchas cocinas cierran: buscá pizza al corte o un bar." },
+      { t: "Comidas", d: "Se almuerza pasado el mediodía y se cena tarde. Fuera de esos horarios muchas cocinas cierran: buscá pizza al corte o un bar." },
       { t: "El café", d: "El café se toma rápido y de pie en la barra, y sale más barato que sentado en la mesa. El cappuccino es de la mañana." },
-      { t: "Aperitivo", d: "Entre las 18 y las 20 muchos bares sirven el aperitivo: un trago con algo para picar." },
+      { t: "Aperitivo", d: "Al caer la tarde, antes de la cena, muchos bares sirven el aperitivo: un trago con algo para picar." },
       { t: "Museos", d: "Muchos museos estatales cierran los lunes. Los Museos Vaticanos cierran los domingos, salvo el último domingo del mes." },
       { t: "Reservas", d: "Para el Coliseo, los Museos Vaticanos y la Galería Borghese hay que reservar horario en su sitio oficial, a veces con semanas de anticipación." }
     ] },

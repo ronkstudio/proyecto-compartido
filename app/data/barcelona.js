@@ -219,7 +219,7 @@ window.CITY_DATA.barcelona = {
       { t: "El menú del día", d: "Al mediodía, de lunes a viernes, muchos restaurantes tienen un menú fijo con primer plato, segundo, postre o café y bebida. Es la forma más barata de comer bien." }
     ] },
     { icon: "🕘", title: "Horarios de Barcelona", items: [
-      { t: "Comidas", d: "Se come tarde: el almuerzo es de 13:30 a 15:30 y la cena, de 20:30 a 22:30. Fuera de esas horas, muchas cocinas están cerradas, pero siempre hay bares con tapas." },
+      { t: "Comidas", d: "Se come tarde: el almuerzo, bien pasado el mediodía, y la cena, avanzada la noche. Fuera de esas horas, muchas cocinas están cerradas, pero siempre hay bares con tapas." },
       { t: "El vermut", d: "Los fines de semana, antes del almuerzo, se toma el vermut con aceitunas, papas fritas y conservas. Sant Antoni y Gràcia están llenos de bodegas para eso." },
       { t: "Comercios", d: "Las tiendas del centro abren todo el día, sin cortar al mediodía. Los domingos la mayoría cierra, salvo en las zonas más turísticas." },
       { t: "Museos y Gaudí", d: "Muchos museos cierran los lunes. La Sagrada Família, el Park Güell, la Casa Batlló y La Pedrera se llenan: sacá la entrada con día y horario en su sitio oficial." }

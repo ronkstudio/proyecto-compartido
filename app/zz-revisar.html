@@ -31,7 +31,7 @@
   const R = { global: [], ciudades: {} };
   const PAISES = ["Argentina", "Brasil", "Chile", "Colombia", "España", "Italia", "México", "Perú", "Uruguay", "Estados Unidos"];
   const ANFITRION = { caba: "Argentina", rio: "Brasil", bogota: "Colombia", madrid: "España", barcelona: "España", roma: "Italia" };
-  const HORA = /\d{1,2}( ?h\b|:\d\d| de la)/;
+  const HORA = /\d{1,2}( ?h\b|:\d\d| de la)|\blas \d{1,2}\b(?! horas)|\bde \d{1,2} a \d{1,2}\b(?! (días|años|horas|°))/;
   const SALUD = /sin tacc|cel[ií]ac|gluten|\bvegan|\bvegetarian|kosher|halal|alerg|lactosa|remedio|medicament/i;
   const dist = (a, b) => { const r = Math.PI / 180, dl = (b[0] - a[0]) * r, dn = (b[1] - a[1]) * r;
     const h = Math.sin(dl / 2) ** 2 + Math.cos(a[0] * r) * Math.cos(b[0] * r) * Math.sin(dn / 2) ** 2; return 12742 * Math.asin(Math.sqrt(h)); };
