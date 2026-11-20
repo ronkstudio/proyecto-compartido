@@ -927,3 +927,34 @@
 927|Outdoors
 928|Ideal for a rainy day.
 929|Uruguay · Embassy
+930|Kimono rental in Asakusa
+931|Dinner on a yakatabune boat
+932|Japanese cooking class
+933|Sumida River cruise
+934|Rickshaw ride around Asakusa
+935|Sumo morning practice
+936|Shinjuku bar tour
+937|Tsukiji food tour
+938|Imperial Palace running loop
+939|Imperial Palace
+940|Lake Kawaguchi
+941|Mount Takao
+942|Yokocho and nightlife
+943|Keisei Ueno Station, Taito
+944|Shibuya Station, Shibuya
+945|Tokyo Station, Yaesu exit, Chiyoda
+946|Tokyo Station, Chiyoda
+947|Toyosu Market, Koto
+948|Asakusa pier, Taito
+949|Tochigi Prefecture
+950|Kanagawa Prefecture
+951|Saitama Prefecture
+952|Narita, Chiba Prefecture
+953|Fujisawa, Kanagawa Prefecture
+954|Fujikawaguchiko, Yamanashi Prefecture
+955|Fujiyoshida, Yamanashi Prefecture
+956|Oshino, Yamanashi Prefecture
+957|Narusawa, Yamanashi Prefecture
+958|Urayasu, Chiba Prefecture
+959|Tokyo
+960|Japan

@@ -927,3 +927,34 @@
 927|Im Freien
 928|Ideal für einen Regentag.
 929|Uruguay · Botschaft
+930|Kimonoverleih in Asakusa
+931|Abendessen auf einem Yakatabune
+932|Japanischer Kochkurs
+933|Bootsfahrt auf dem Sumida
+934|Rikscha-Fahrt durch Asakusa
+935|Sumo-Training
+936|Bartour durch Shinjuku
+937|Food-Tour durch Tsukiji
+938|Runde um den Kaiserpalast
+939|Kaiserpalast
+940|Kawaguchi-See
+941|Berg Takao
+942|Yokocho und Nachtleben
+943|Bahnhof Keisei Ueno, Taito
+944|Bahnhof Shibuya, Shibuya
+945|Bahnhof Tokio, Ausgang Yaesu, Chiyoda
+946|Bahnhof Tokio, Chiyoda
+947|Toyosu-Markt, Koto
+948|Anleger Asakusa, Taito
+949|Präfektur Tochigi
+950|Präfektur Kanagawa
+951|Präfektur Saitama
+952|Narita, Präfektur Chiba
+953|Fujisawa, Präfektur Kanagawa
+954|Fujikawaguchiko, Präfektur Yamanashi
+955|Fujiyoshida, Präfektur Yamanashi
+956|Oshino, Präfektur Yamanashi
+957|Narusawa, Präfektur Yamanashi
+958|Urayasu, Präfektur Chiba
+959|Tokio
+960|Japan
