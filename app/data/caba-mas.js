@@ -245,7 +245,7 @@
     ["comer", "Parrilla", "Nuestro Secreto", "Recoleta", "Posadas 1086", 4, "La parrilla del Four Seasons, en un pabellón vidriado en el jardín del hotel.", "Los domingos suele haber asado al mediodía.", ["parrilla", "hotel", "lujo"]],
     ["comer", "De autor", "Elena", "Recoleta", "Posadas 1086", 4, "El restaurante del Four Seasons: carnes maduradas, charcutería y helados propios.", "Reservá para la noche.", ["autor", "hotel", "carne"]],
     ["comer", "Cocinas del mundo", "Oviedo", "Recoleta", "Beruti 2602", 4, "Cocina española con muy buenos pescados y una cava importante.", "Para una comida larga y tranquila.", ["español", "pescado", "vinos"]],
-    ["comer", "Cocinas del mundo", "Tandoor", "Recoleta", "Laprida 1293", 3, "Cocina india con horno tandoor: curries, panes naan y platos vegetarianos.", "Avisá cuánto picante querés.", ["indio", "vegetariano"]],
+    ["comer", "Cocinas del mundo", "Tandoor", "Recoleta", "Laprida 1293", 3, "Cocina india con horno tandoor: curries y panes naan.", "Avisá cuánto picante querés.", ["indio"]],
     ["comer", "Parrilla", "La Cholita", "Recoleta", "Rodríguez Peña 1165", 2, "Parrilla y platos abundantes a buen precio, muy elegida por viajeros.", "Suele haber espera a la noche.", ["parrilla", "económico", "abundante"]],
     ["comer", "Heladería", "Volta", "Recoleta", "Av. Pres. Quintana 502", 2, "Heladería de autor conocida por el dulce de leche y los chocolates.", "Está a pasos del Cementerio de la Recoleta.", ["helado", "dulce de leche"]],
     ["comer", "Heladería", "Arkakaó", "Recoleta", "Av. Pres. Quintana 188", 3, "Gelato de estilo italiano y cafetería en una casona de Recoleta.", "Se puede tomar el helado sentado en el salón.", ["helado", "café"]],

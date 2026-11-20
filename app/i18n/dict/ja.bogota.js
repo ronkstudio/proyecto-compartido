@@ -123,7 +123,7 @@ Object.assign(window.I18N_FULL = window.I18N_FULL || {}, {
 "Usá cajeros dentro de bancos o centros comerciales, de día. Si te ofrecen cobrarte en tu moneda, elegí pesos.": "ATMは昼間に銀行かショッピングモール内で。自国通貨での請求を提案されたらペソを選んで。",
 "En restaurantes se sugiere un 10 % de servicio en la cuenta: te preguntan si lo querés incluir. Es voluntario.": "レストランでは10%のサービス料が提案され、含めるか聞かれます。任意です。",
 "Horarios de Bogotá": "ボゴタの時間感覚",
-"Se almuerza entre las 12 y las 14, y la cena es temprano. El almuerzo es la comida fuerte.": "昼食は12〜14時、夕食は早め。昼食がメインの食事です。",
+"Se almuerza al mediodía y la cena es temprano. El almuerzo es la comida fuerte.": "昼食は正午ごろ、夕食は早め。昼食が一日のメインの食事。",
 "Abren temprano. Los domingos muchos cierran, salvo los centros comerciales.": "開店は早め。日曜はショッピングモール以外の多くが休みです。",
 "Muchos museos cierran los lunes. El Museo Botero es gratis y el Museo del Oro, gratis los domingos.": "多くの美術館は月曜休館。ボテロ美術館は無料、黄金博物館は日曜無料。",
 "Fresco todo el año, entre 7 y 20 °C. Puede hacer sol, llover y refrescar en el mismo día.": "一年中涼しく7〜20℃。同じ日に晴れ、雨、冷え込みがあることも。",

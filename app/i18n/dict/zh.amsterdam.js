@@ -169,7 +169,7 @@ Object.assign(window.I18N_FULL = window.I18N_FULL || {}, {
 "No es obligatoria. Se suele redondear o dejar un poco más si te atendieron bien.": "不是必须的。服务好的话通常凑个整或多留一点。",
 "Los alojamientos cobran aparte un impuesto que es un porcentaje del precio de la habitación, de los más altos de Europa. Preguntá si ya está incluido.": "住宿另收一项按房价百分比计算的税，是欧洲最高之一。问清楚是否已包含。",
 "Horarios de Ámsterdam": "阿姆斯特丹的作息",
-"Se come temprano: el almuerzo es liviano, al mediodía, y la cena, entre las 18 y las 21. Muchas cocinas cierran temprano.": "吃饭早：午饭简单，在中午；晚饭在18点到21点之间。很多厨房关得早。",
+"Se come temprano: el almuerzo es liviano, al mediodía, y la cena, apenas cae la tarde. Muchas cocinas cierran temprano.": "用餐时间偏早：午餐简单，在中午；晚餐在傍晚刚到时。很多厨房关得早。",
 "Abren todo el día; muchos abren más tarde los lunes a la mañana. Los domingos abren a partir del mediodía en el centro.": "全天营业；很多店周一上午开得晚。周日市中心的店从中午开始营业。",
 "Los más famosos (Rijksmuseum, Van Gogh, Casa de Ana Frank) se llenan: sacá la entrada con día y horario en su web oficial. La Casa de Ana Frank y el Van Gogh no venden en la puerta.": "最有名的几个（国家博物馆、梵高博物馆、安妮之家）人很多：请在官网买定好日期和时段的票。安妮之家和梵高博物馆现场不售票。",
 "Fresca, con los tulipanes en flor y el Día del Rey (27 de abril), la gran fiesta naranja.": "凉爽，郁金香盛开，还有国王节（4月27日）这个盛大的橙色节日。",

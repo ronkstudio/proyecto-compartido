@@ -132,3 +132,10 @@ Falta decidirlo; depende del reparto de áreas de la tarjeta #2. Propongo:
 - [Visit Argentina: tarjeta SUBE, dónde se compra y cómo se usa](https://www.argentina.travel/novedades/tarjeta-sube-donde-se-compra-y-como-se-usa-para-viajar-en-argentina) (nota de enero de 2025)
 - [Google Maps Platform: precios](https://developers.google.com/maps/billing-and-pricing/pricing)
 - [OpenTripPlanner](https://docs.opentripplanner.org/en/v2.8.0/)
+
+## Dietas que dice el texto de la ficha (tarjeta #224, revisado el 20/11/2026)
+
+- **Los Sabios** (vegetariano, Almagro): tenedor libre vegetariano según HappyCow. [fuente](https://www.happycow.net/reviews/los-sabios-buenos-aires-4413)
+- **Hierbabuena** (San Telmo): cocina vegana y vegetariana, con algunas opciones que no lo son. [fuente](https://www.ellgeebe.com/en/destinations/latin-america/argentina/buenos-aires/restaurants/hierbabuena)
+- **Artemisia** (Palermo): restaurante vegetariano que sumó pescado al menú; por eso la ficha dice "muchas opciones vegetarianas". [fuente](https://www.happycow.net/reviews/artemisia-buenos-aires-24633)
+- **Tandoor** (Recoleta): se sacó "platos vegetarianos" y la etiqueta, porque no se encontró fuente.

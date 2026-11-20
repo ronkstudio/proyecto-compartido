@@ -143,7 +143,7 @@ Object.assign(window.I18N_FULL = window.I18N_FULL || {}, {
 "En restaurantes y bares se suma un 10 % de servicio a la cuenta: es opcional, pero se paga casi siempre.": "レストランやバーでは10%のサービス料が加算されます。任意ですが、ほとんどの人が払います。",
 "Los vendedores y las sillas de la playa suelen cobrar en efectivo o Pix.": "ビーチの物売りや椅子のレンタルは、たいてい現金かPix払い。",
 "Horarios de Río": "リオの時間感覚",
-"Se almuerza entre las 12 y las 15 y se cena desde las 20. Los botecos funcionan todo el día.": "昼食は12〜15時、夕食は20時から。ボテコは一日中営業しています。",
+"Se almuerza al mediodía y se cena a la noche. Los botecos funcionan todo el día.": "昼食は正午ごろ、夕食は夜。ボテコ（街の大衆酒場）は一日中開いている。",
 "Las tiendas de calle abren en horario comercial; los shoppings, todos los días hasta la noche.": "路面店は通常の営業時間、ショッピングモールは毎日夜まで営業。",
 "Cristo y Pan de Azúcar": "キリスト像とポン・ジ・アスーカル",
 "Se llenan: sacá la entrada con horario en su web oficial y fijate el pronóstico, porque con nubes no se ve nada.": "混雑します。公式サイトで時間指定券を買い、天気予報も確認を。雲が出ると何も見えません。",

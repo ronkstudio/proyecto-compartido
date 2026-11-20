@@ -123,7 +123,7 @@ Object.assign(window.I18N_FULL = window.I18N_FULL || {}, {
 "Usá cajeros dentro de bancos o centros comerciales, de día. Si te ofrecen cobrarte en tu moneda, elegí pesos.": "Nutze Geldautomaten in Banken oder Einkaufszentren, tagsüber. Wenn dir die Abrechnung in deiner Währung angeboten wird, wähle Pesos.",
 "En restaurantes se sugiere un 10 % de servicio en la cuenta: te preguntan si lo querés incluir. Es voluntario.": "In Restaurants werden 10 % Service auf der Rechnung vorgeschlagen: Man fragt dich, ob du sie dazunehmen willst. Freiwillig.",
 "Horarios de Bogotá": "Uhrzeiten in Bogotá",
-"Se almuerza entre las 12 y las 14, y la cena es temprano. El almuerzo es la comida fuerte.": "Mittagessen gibt es zwischen 12 und 14 Uhr, Abendessen früh. Das Mittagessen ist die Hauptmahlzeit.",
+"Se almuerza al mediodía y la cena es temprano. El almuerzo es la comida fuerte.": "Mittagessen gibt es mittags, Abendessen früh. Das Mittagessen ist die Hauptmahlzeit.",
 "Abren temprano. Los domingos muchos cierran, salvo los centros comerciales.": "Sie öffnen früh. Sonntags haben viele geschlossen, außer Einkaufszentren.",
 "Muchos museos cierran los lunes. El Museo Botero es gratis y el Museo del Oro, gratis los domingos.": "Viele Museen sind montags geschlossen. Das Botero-Museum ist kostenlos, das Goldmuseum sonntags.",
 "Fresco todo el año, entre 7 y 20 °C. Puede hacer sol, llover y refrescar en el mismo día.": "Das ganze Jahr kühl, zwischen 7 und 20 °C. Sonne, Regen und Kühle am selben Tag sind möglich.",

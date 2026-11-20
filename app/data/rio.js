@@ -194,7 +194,7 @@ window.CITY_DATA.rio = {
       { t: "En la playa", d: "Los vendedores y las sillas de la playa suelen cobrar en efectivo o Pix." }
     ] },
     { icon: "🕘", title: "Horarios de Río", items: [
-      { t: "Comidas", d: "Se almuerza entre las 12 y las 15 y se cena desde las 20. Los botecos funcionan todo el día." },
+      { t: "Comidas", d: "Se almuerza al mediodía y se cena a la noche. Los botecos funcionan todo el día." },
       { t: "Comercios", d: "Las tiendas de calle abren en horario comercial; los shoppings, todos los días hasta la noche." },
       { t: "Cristo y Pan de Azúcar", d: "Se llenan: sacá la entrada con horario en su web oficial y fijate el pronóstico, porque con nubes no se ve nada." }
     ] },

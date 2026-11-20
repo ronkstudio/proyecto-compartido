@@ -132,7 +132,7 @@ Object.assign(window.I18N_FULL = window.I18N_FULL || {}, {
 "Si te roban, hacé la denuncia en una comisaría de la Policía Nacional. La vas a necesitar para el seguro y los documentos.": "盗難に遭ったら国家警察の警察署で被害届を。保険や書類の再発行に必要です。",
 "La oficina de turismo de la Plaza Mayor y los puntos de información turística ayudan a turistas que sufrieron un robo: con la denuncia, los documentos, las tarjetas y el consulado.": "マヨール広場の観光案内所と各観光案内所では、盗難に遭った観光客を被害届、書類、カード、領事館の手続きで支援しています。",
 "Horarios madrileños": "マドリードの時間感覚",
-"Se come tarde: el almuerzo es de 14 a 16 y la cena, de 21 a 23. Antes de esas horas, muchas cocinas están cerradas, pero siempre hay bares con tapas.": "食事は遅め。昼食は14〜16時、夕食は21〜23時。それ以前は閉まっている厨房も多いが、タパスのバーはいつでもあります。",
+"Se come tarde: el almuerzo, a media tarde, y la cena, avanzada la noche. Antes de esas horas, muchas cocinas están cerradas, pero siempre hay bares con tapas.": "食事は遅め。昼食は午後の半ば、夕食は夜遅く。それより前は厨房が閉まっている店が多いが、タパスのバーはいつでもある。",
 "Tapas y cañas": "タパスとカーニャ",
 "Ir de tapas es pasar por varios bares tomando una caña (una cerveza chica) o un vino con algo para picar. En algunos bares la tapa viene gratis con la bebida.": "タパス巡りはカーニャ（小さいビール）やワインとつまみで何軒もはしごすること。飲み物にタパスが無料で付くバーも。",
 "Los fines de semana a la mañana, antes del almuerzo, se toma el vermut con aceitunas o papas fritas. El domingo, después del Rastro, es casi obligatorio.": "週末の昼前、オリーブやポテトチップスとベルモットを飲むのが習慣。日曜のラストロの後はほぼ必須。",

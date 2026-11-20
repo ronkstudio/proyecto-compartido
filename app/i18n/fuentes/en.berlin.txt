@@ -197,11 +197,11 @@
 197|Bottles and cans
 198|Bottles and cans carry a deposit that you pay when buying. You get it back when you return them at supermarket machines.
 199|Berlin hours
-200|Lunch from 12 to 2 pm and dinner from 6 to 9 pm. Many kitchens close early: after 10 pm it's hard to find somewhere to eat.
+200|Lunch is at midday and dinner is early. Many kitchens close early: late at night it is hard to find somewhere to eat.
 201|Sundays
 202|Shops and supermarkets close. Those in the main stations, kiosks and restaurants stay open.
 203|Many close on Mondays. Check before you go.
-204|Bars fill up after 10 pm. Clubs get going after midnight and some carry on until the next day.
+204|Bars fill up late. Clubs get going after midnight and some keep going until the next day.
 205|Spring (Apr–May)
 206|Mild, with the city in bloom. A very good time.
 207|Summer (Jun–Aug)
@@ -492,7 +492,7 @@
 492|American-style ice cream with cones baked on the spot and cookie sandwiches.
 493|A Berlin artisan ice cream shop with natural ingredients and very well-made fruit flavours.
 494|A neighbourhood ice cream shop in the Reuterkiez with original flavours, such as cucumber, lemon and mint.
-495|Home-made organic ice cream, with creative flavours and vegan options.
+495|Organic homemade ice cream with creative flavours.
 496|Real Sicilian ice cream: Bronte pistachio, granita and brioche filled with ice cream.
 497|An Italian ice cream shop with a visible lab, few flavours, all very well made.
 498|Berlin's only three-star restaurant: Marco Müller's tasting menu with regional produce and a great wine list.
@@ -514,7 +514,7 @@
 514|Turkish charcoal grill with lamb skewers, Adana kebab and starters to share.
 515|South Indian street food: crispy dosas, thalis and curries, in a colourful place.
 516|Neapolitan pizza from a wood-fired oven with long-fermented dough, among the most respected in the city.
-517|Sourdough pizza with ingredients from regional producers and good vegan options.
+517|Sourdough pizza with ingredients from local producers.
 518|Neapolitan pizza in a hidden courtyard by the canal, with airy dough and a wood-fired oven.
 519|The most famous hummus on Sonnenallee, Berlin's «Arab street»: freshly made, with falafel and warm bread.
 520|A minimal ramen bar with thick tonkotsu broth and noodles cooked just right. Berlin's reference ramen.
@@ -805,9 +805,9 @@
 805|You eat standing on the pavement. Order it «ohne Darm» (without skin), Berlin style.
 806|A good stop between Museum Island and the Hackesche Höfe.
 807|It's on the way if you're going to the Berliner Unterwelten bunkers or the Humboldthain.
-808|A good option if you want organic meat; they also usually have a vegetarian sausage.
+808|A good choice if you want organic meat.
 809|It's far from the centre: worth it if you're in Steglitz or at the Botanical Garden.
-810|The queue can be very long: go mid-morning or mid-afternoon, or order the vegetarian version.
+810|The queue can be very long: go mid-morning or mid-afternoon.
 811|Shorter queue than Mustafa's and a similar or better standard. There are tables inside.
 812|Try the lahmacun rolled up with salad: tasty and very cheap.
 813|Here you sit down to eat: order döner on a plate or a mixed grill to share.

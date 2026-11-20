@@ -94,7 +94,7 @@
 94|Rome n'a que trois lignes : A (orange), B (bleue) et C (verte). Elles se croisent à Termini (A et B), San Giovanni (A et C) et Colosseo (B et C).
 95|Ce qu'il ne dessert pas
 96|Le métro n'entre presque pas dans le centre historique, à cause des ruines sous terre. Au Panthéon, à la Piazza Navona ou à Trastevere, on va à pied, en bus ou en tram.
-97|Il fonctionne de tôt le matin jusque vers 23 h 30, et plus tard le vendredi et le samedi. La nuit, il y a des bus de nuit.
+97|Il circule du matin tôt jusque vers minuit, et plus tard les vendredis et samedis. La nuit, il y a des bus de nuit.
 98|Chaque direction porte le nom du terminus de la ligne. Suivez les panneaux avec la lettre et le nom de ce terminus.
 99|Bus et trams
 100|C'est le moyen d'aller au centre historique. Il y a beaucoup de lignes et ils sont parfois bondés : surveillez vos affaires.
@@ -147,11 +147,11 @@
 147|Taxe de séjour
 148|Les hôtels facturent une taxe de séjour par personne et par nuit, en plus du tarif. Elle se paie sur place.
 149|Horaires romains
-150|Déjeuner de 13 h à 15 h et dîner de 20 h à 23 h. En dehors de ces horaires, beaucoup de cuisines ferment : cherchez une pizza à la coupe ou un bar.
+150|On déjeune un peu après midi et on dîne tard. En dehors de ces heures, beaucoup de cuisines ferment : cherchez une pizza à la coupe ou un bar.
 151|Le café
 152|Le café se boit vite et debout au comptoir, et il coûte moins cher qu'assis à table. Le cappuccino, c'est le matin.
 153|Aperitivo
-154|Entre 18 h et 20 h, beaucoup de bars servent l'aperitivo : un verre avec de quoi grignoter.
+154|En fin d'après-midi, avant le dîner, beaucoup de bars servent l'apéritif : un verre avec de quoi grignoter.
 155|Beaucoup de musées d'État ferment le lundi. Les musées du Vatican ferment le dimanche, sauf le dernier dimanche du mois.
 156|Pour le Colisée, les musées du Vatican et la galerie Borghèse, il faut réserver un créneau sur leur site officiel, parfois des semaines à l'avance.
 157|Doux et ensoleillé : la meilleure saison, mais aussi la plus fréquentée.
@@ -538,7 +538,7 @@
 538|Trattoria de Prati à la cuisine romaine soignée, célèbre pour ses supplì et son amatriciana.
 539|Une bonne option après le Vatican, loin des pièges à touristes.
 540|Cuisine juive romaine dans le Ghetto : artichauts à la juive, fleurs de courgette et poisson frit.
-541|Casher selon le restaurant lui-même ; vérifiez si c'est important pour vous.
+541|Commandez les artichauts à la juive, la spécialité de la maison.
 542|artichauts
 543|L'un des restaurants les plus connus du Ghetto, avec des tables dehors près des ruines du portique d'Octavie.
 544|Prenez les artichauts frits et un plat de la cuisine juive libyenne.
@@ -737,7 +737,7 @@
 737|plage
 738|La plage des Romains, à moins d'une heure en train avec le billet ordinaire de Rome.
 739|Les plages privées font payer transats et parasols ; il y a des parties publiques gratuites.
-740|Auberge et petit hôtel près de Termini, avec un jardin, un café végétarien et une ambiance calme.
+740|Auberge de jeunesse et petit hôtel près de Termini, avec jardin, café et ambiance calme.
 741|Bien pour ceux qui cherchent une auberge sans fête.
 742|auberge de jeunesse
 743|Grande auberge design avec des chambres partagées et privées, près de Termini.

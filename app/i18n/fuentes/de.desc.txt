@@ -500,7 +500,7 @@
 500|Das Steakhaus des Four Seasons, in einem Glaspavillon im Hotelgarten.
 501|Das Restaurant des Four Seasons: dry-aged Fleisch, Charcuterie und hausgemachtes Eis.
 502|Spanische Küche mit sehr gutem Fisch und einem beeindruckenden Weinkeller.
-503|Indische Küche aus dem Tandoor: Currys, Naan und vegetarische Gerichte.
+503|Indische Küche mit Tandoor-Ofen: Currys und Naan-Brot.
 504|Grill und großzügige Gerichte zu gutem Preis, bei Reisenden sehr beliebt.
 505|Eine Autoren-Eisdiele, bekannt für Dulce de leche und Schokoladen.
 506|Gelato im italienischen Stil und Café in einem Stadtpalais in Recoleta.

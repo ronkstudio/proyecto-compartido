@@ -169,7 +169,7 @@ Object.assign(window.I18N_FULL = window.I18N_FULL || {}, {
 "No es obligatoria. Se suele redondear o dejar un poco más si te atendieron bien.": "義務ではない。サービスが良ければ端数を切り上げるか少し多めに。",
 "Los alojamientos cobran aparte un impuesto que es un porcentaje del precio de la habitación, de los más altos de Europa. Preguntá si ya está incluido.": "宿泊施設は客室料金に対する割合で税を別途徴収し、欧州でも最高水準。料金に含まれているか確認を。",
 "Horarios de Ámsterdam": "アムステルダムの時間感覚",
-"Se come temprano: el almuerzo es liviano, al mediodía, y la cena, entre las 18 y las 21. Muchas cocinas cierran temprano.": "食事は早い：昼は軽く正午ごろ、夕食は18〜21時。厨房が早く閉まる店も多い。",
+"Se come temprano: el almuerzo es liviano, al mediodía, y la cena, apenas cae la tarde. Muchas cocinas cierran temprano.": "食事は早め。昼食は正午ごろに軽く、夕食は夕方になるとすぐ。厨房が早く閉まる店が多い。",
 "Abren todo el día; muchos abren más tarde los lunes a la mañana. Los domingos abren a partir del mediodía en el centro.": "終日営業。月曜の朝は遅く開く店が多い。日曜は中心部で昼から開く。",
 "Los más famosos (Rijksmuseum, Van Gogh, Casa de Ana Frank) se llenan: sacá la entrada con día y horario en su web oficial. La Casa de Ana Frank y el Van Gogh no venden en la puerta.": "有名どころ（国立美術館、ゴッホ美術館、アンネ・フランクの家）は混む。公式サイトで日時指定券を。アンネ・フランクの家とゴッホ美術館は窓口販売なし。",
 "Fresca, con los tulipanes en flor y el Día del Rey (27 de abril), la gran fiesta naranja.": "涼しく、チューリップが咲き、国王の日（4月27日）のオレンジ色の大祭がある。",

@@ -117,7 +117,7 @@ Object.assign(window.I18N_FULL = window.I18N_FULL || {}, {
 "Agua gratis": "免费的水",
 "En los restaurantes podés pedir una jarra de agua de la canilla (\"une carafe d'eau\"): es gratis.": "在餐厅可以要一壶自来水（\"une carafe d'eau\"）：免费的。",
 "Horarios parisinos": "巴黎的作息时间",
-"Almuerzo de 12 a 14 y cena de 19:30 a 22:30. Entre la tarde y la noche muchas cocinas cierran: buscá brasseries, que sirven todo el día.": "午餐12点到14点，晚餐19:30到22:30。下午到晚上之间很多厨房关门：可以找全天供餐的brasserie。",
+"Se almuerza al mediodía y se cena temprano a la noche. Entre la tarde y la noche muchas cocinas cierran: buscá brasseries, que sirven todo el día.": "午餐在中午，晚餐在傍晚稍早。下午到晚上之间很多厨房会关闭：可以找全天供餐的 brasserie。",
 "Muchos comercios cierran. En el Marais, los Campos Elíseos y algunas zonas turísticas abren igual.": "很多商店关门。玛黑区、香榭丽舍和一些旅游区照常营业。",
 "Casi todos cierran un día por semana: el Louvre los martes y el Orsay los lunes. Verificá antes de ir.": "几乎都每周闭馆一天：卢浮宫周二、奥赛周一。去之前确认。",
 "Para los museos y monumentos más pedidos (Louvre, Torre Eiffel, Sainte-Chapelle, Notre-Dame) conviene reservar horario en su sitio oficial.": "热门博物馆和景点（卢浮宫、埃菲尔铁塔、圣礼拜堂、圣母院）最好在官网预约时段。",

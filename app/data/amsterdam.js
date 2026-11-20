@@ -216,7 +216,7 @@ window.CITY_DATA.amsterdam = {
       { t: "Tasa turística", d: "Los alojamientos cobran aparte un impuesto que es un porcentaje del precio de la habitación, de los más altos de Europa. Preguntá si ya está incluido." }
     ] },
     { icon: "🕘", title: "Horarios de Ámsterdam", items: [
-      { t: "Comidas", d: "Se come temprano: el almuerzo es liviano, al mediodía, y la cena, entre las 18 y las 21. Muchas cocinas cierran temprano." },
+      { t: "Comidas", d: "Se come temprano: el almuerzo es liviano, al mediodía, y la cena, apenas cae la tarde. Muchas cocinas cierran temprano." },
       { t: "Comercios", d: "Abren todo el día; muchos abren más tarde los lunes a la mañana. Los domingos abren a partir del mediodía en el centro." },
       { t: "Museos", d: "Los más famosos (Rijksmuseum, Van Gogh, Casa de Ana Frank) se llenan: sacá la entrada con día y horario en su web oficial. La Casa de Ana Frank y el Van Gogh no venden en la puerta." }
     ] },

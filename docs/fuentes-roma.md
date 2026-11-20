@@ -37,3 +37,9 @@ Si un lugar cierra o se muda, corregilo en `app/data/roma-lugares.js` y `app/dat
 ## Revisión de que sigan abiertos (tarjeta #179, 14/11/2026)
 
 Los 104 lugares de comida, noche y hospedaje se cruzaron otra vez con OpenStreetMap: 103 coincidieron y el otro (Co.So) figura como "Cocktails & Social CO.SO" en la misma dirección.
+
+## Dietas que dice el texto de la ficha (tarjeta #224, revisado el 20/11/2026)
+
+- **Fatamorgana**: todos los sabores y los cucuruchos son sin gluten, según Turismo Roma (portal oficial de turismo de la ciudad). [fuente](https://www.turismoroma.it/it/accoglienza/fatamorgana)
+- **Nonna Betta**: se sacó "es kosher". Las fuentes no coinciden: Quandoo dice "kosher style" y Frommer's dice que no es kosher estricto. [fuente 1](https://www.quandoo.it/place/nonna-betta-4824/recensioni), [fuente 2](https://www.frommers.com/destinations/rome/restaurants/nonna-betta)
+- **The Beehive**: se sacó "café vegetariano" porque no se encontró fuente.

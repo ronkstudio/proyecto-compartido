@@ -123,7 +123,7 @@ Object.assign(window.I18N_FULL = window.I18N_FULL || {}, {
 "Usá cajeros dentro de bancos o centros comerciales, de día. Si te ofrecen cobrarte en tu moneda, elegí pesos.": "Use ATMs inside banks or shopping centres, during the day. If they offer to charge you in your currency, choose pesos.",
 "En restaurantes se sugiere un 10 % de servicio en la cuenta: te preguntan si lo querés incluir. Es voluntario.": "In restaurants a 10% service charge is suggested on the bill: they ask if you want to include it. It's voluntary.",
 "Horarios de Bogotá": "Bogotá hours",
-"Se almuerza entre las 12 y las 14, y la cena es temprano. El almuerzo es la comida fuerte.": "Lunch is between 12 and 2 pm, and dinner is early. Lunch is the main meal.",
+"Se almuerza al mediodía y la cena es temprano. El almuerzo es la comida fuerte.": "Lunch is at midday and dinner is early. Lunch is the main meal.",
 "Abren temprano. Los domingos muchos cierran, salvo los centros comerciales.": "They open early. On Sundays many close, except shopping centres.",
 "Muchos museos cierran los lunes. El Museo Botero es gratis y el Museo del Oro, gratis los domingos.": "Many museums close on Mondays. The Botero Museum is free and the Gold Museum is free on Sundays.",
 "Fresco todo el año, entre 7 y 20 °C. Puede hacer sol, llover y refrescar en el mismo día.": "Cool all year round, between 7 and 20 °C. It can be sunny, rainy and chilly on the same day.",

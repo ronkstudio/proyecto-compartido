@@ -44,7 +44,7 @@ window.CITY_DATA.caba = {
       tip: "Andá de día y quedate en la zona turística (Caminito, Proa, Usina, Bombonera). Llegá y volvé en taxi, app o colectivo; no camines hacia barrios vecinos.", tags: ["fotos", "tango", "color"] },
     { cat: "ver", sub: "Barrio", name: "San Telmo y la Feria de los domingos", barrio: "San Telmo", address: "Calle Defensa, desde Plaza de Mayo hasta Plaza Dorrego", price: 0, top: true,
       desc: "El barrio más antiguo: adoquines, anticuarios y bares notables. Los domingos la calle Defensa se llena de puestos, músicos y bailarines de tango.",
-      tip: "La feria funciona los domingos de 10 a 17 aprox. Hay mucha gente: llevá el celular y la billetera bien guardados.", tags: ["feria", "tango", "antigüedades", "domingo"] },
+      tip: "La feria funciona los domingos de día. Hay mucha gente: llevá el celular y la billetera bien guardados.", tags: ["feria", "tango", "antigüedades", "domingo"] },
     { cat: "ver", sub: "Paseo", name: "Puerto Madero y Puente de la Mujer", barrio: "Puerto Madero", address: "Diques de Puerto Madero", price: 0,
       desc: "Los viejos docks reciclados en restaurantes y oficinas, con el puente giratorio de Calatrava. Es de las zonas más seguras para caminar.",
       tip: "Al atardecer la luz es la mejor. Combinalo con la Reserva Ecológica.", tags: ["caminar", "atardecer", "fotos"] },
@@ -236,7 +236,7 @@ window.CITY_DATA.caba = {
     { cat: "noche", sub: "Música en vivo", name: "Thelonious Club", barrio: "Palermo", address: "Nicaragua 5549", price: 2,
       desc: "El club de jazz de referencia de la ciudad.", tip: "Mirá la programación y reservá mesa.", tags: ["jazz", "música"] },
     { cat: "noche", sub: "Música en vivo", name: "Niceto Club", barrio: "Palermo", address: "Niceto Vega 5510", price: 2,
-      desc: "Sala de recitales y fiestas, base de la movida de Palermo Hollywood.", tip: "La noche porteña empieza tarde: los boliches se llenan después de las 2.", tags: ["recitales", "boliche"] },
+      desc: "Sala de recitales y fiestas, base de la movida de Palermo Hollywood.", tip: "La noche porteña empieza tarde: los boliches se llenan de madrugada.", tags: ["recitales", "boliche"] },
     { cat: "noche", sub: "Teatro", name: "Teatros de la Avenida Corrientes", barrio: "Centro", address: "Av. Corrientes, entre Callao y 9 de Julio", price: 2,
       desc: "El Broadway porteño: comedias, musicales, el Teatro San Martín y el Paseo La Plaza.", tip: "Hay descuentos en boleterías de último momento sobre la misma avenida.", tags: ["teatro", "lluvia"] },
     { cat: "noche", sub: "Teatro", name: "Función en el Teatro Colón", barrio: "Centro", address: "Cerrito 628", price: 3,
@@ -844,8 +844,8 @@ window.CITY_DATA.caba = {
     ] },
     { icon: "🚇", title: "Subte", items: [
       { t: "Cómo funciona", d: "Seis líneas (A, B, C, D, E, H) más el Premetro. Es la forma más rápida de moverse entre el Centro, Recoleta, Palermo y Belgrano." },
-      { t: "Horarios", d: "Aproximadamente de 5:30 a 23:30 de lunes a sábado, y de 8 a 22:30 domingos y feriados. No funciona de madrugada." },
-      { t: "Consejos", d: "Evitá las horas pico (8 a 10 y 17 a 19:30) si podés. Llevá la mochila adelante y el celular guardado cerca de las puertas." }
+      { t: "Horarios", d: "Funciona desde temprano a la mañana hasta cerca de la medianoche, con menos horas los domingos y feriados. No funciona de madrugada." },
+      { t: "Consejos", d: "Evitá las horas pico, a la mañana temprano y al salir del trabajo, si podés. Llevá la mochila adelante y el celular guardado cerca de las puertas." }
     ] },
     { icon: "🚌", title: "Colectivos", items: [
       { t: "Cómo funcionan", d: "Más de 150 líneas que llegan a todos lados y circulan las 24 horas (de noche, con menos frecuencia). Se sube por adelante, se le dice el destino al chofer y se paga con tarjeta sin contacto, celular o SUBE." },
@@ -930,10 +930,10 @@ window.CITY_DATA.caba = {
       { t: "Cubierto", d: "Muchos restaurantes cobran un cargo fijo por persona llamado 'cubierto'. No es propina." }
     ] },
     { icon: "🕘", title: "Horarios porteños", items: [
-      { t: "Comidas", d: "Almuerzo de 12:30 a 15. Merienda a las 17. Cena desde las 20:30; lo habitual es 21:30 o 22." },
-      { t: "Noche", d: "Los bares se llenan después de las 23 y los boliches después de las 2." },
+      { t: "Comidas", d: "Se almuerza al mediodía, se merienda a la tarde y se cena tarde: lo habitual es bien entrada la noche." },
+      { t: "Noche", d: "Los bares se llenan tarde y los boliches, de madrugada." },
       { t: "Museos", d: "Muchos cierran lunes o martes. Verificá antes de ir." },
-      { t: "Comercios", d: "En general de 10 a 20. Los shoppings, todos los días hasta las 22." }
+      { t: "Comercios", d: "En general abren de mañana y cierran a la noche. Los shoppings abren todos los días hasta tarde." }
     ] },
     { icon: "🌤️", title: "Clima y cuándo venir", items: [
       { t: "Primavera (sep–nov)", d: "La mejor época: templado y con los jacarandás en flor en noviembre." },

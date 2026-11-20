@@ -197,11 +197,11 @@
 197|Vuoti a rendere
 198|Bottiglie e lattine hanno una cauzione che si paga all'acquisto. Te la restituiscono quando le riporti alle macchine dei supermercati.
 199|Orari berlinesi
-200|Pranzo dalle 12 alle 14 e cena dalle 18 alle 21. Molte cucine chiudono presto: dopo le 22 è difficile trovare dove cenare.
+200|Si pranza a mezzogiorno e si cena presto. Molte cucine chiudono presto: a tarda sera è difficile trovare dove cenare.
 201|Domeniche
 202|Negozi e supermercati sono chiusi. Restano aperti quelli delle grandi stazioni, i chioschi e i ristoranti.
 203|Molti chiudono il lunedì. Verifica prima di andare.
-204|I bar si riempiono dopo le 22. I club iniziano dopo mezzanotte e alcuni vanno avanti fino al giorno dopo.
+204|I bar si riempiono tardi. I club partono dopo mezzanotte e alcuni vanno avanti fino al giorno dopo.
 205|Primavera (apr–mag)
 206|Mite e con la città in fiore. Ottimo periodo.
 207|Estate (giu–ago)
@@ -492,7 +492,7 @@
 492|Gelato all'americana con coni cotti al momento e sandwich di biscotto.
 493|Gelateria artigianale berlinese con ingredienti naturali e gusti alla frutta molto riusciti.
 494|Gelateria di quartiere nel Reuterkiez con gusti originali, come cetriolo, limone e menta.
-495|Gelato biologico di produzione propria, con gusti creativi e opzioni vegane.
+495|Gelato biologico di produzione propria, con gusti creativi.
 496|Vero gelato siciliano: pistacchio di Bronte, granita e brioche col gelato.
 497|Gelateria italiana con laboratorio a vista, pochi gusti e fatti molto bene.
 498|L'unico tre stelle di Berlino: il menù degustazione di Marco Müller con prodotti della regione e una grande carta dei vini.
@@ -514,7 +514,7 @@
 514|Grigliata turca alla brace con spiedini d'agnello, kebab di Adana e antipasti da condividere.
 515|Cibo di strada dell'India del sud: dosa croccanti, thali e curry, in un locale colorato.
 516|Pizza napoletana nel forno a legna con impasto a lunga lievitazione, tra le più apprezzate della città.
-517|Pizza a lievito madre con ingredienti di produttori della regione e buone opzioni vegane.
+517|Pizza a lievito madre con ingredienti di produttori della zona.
 518|Pizza napoletana in un cortile nascosto di fronte al canale, con impasto arioso e forno a legna.
 519|L'hummus più famoso della Sonnenallee, la «via araba» di Berlino: preparato al momento, con falafel e pane caldo.
 520|Un ramen bar minimale con brodo tonkotsu denso e noodles al punto giusto. Il ramen di riferimento a Berlino.
@@ -805,9 +805,9 @@
 805|Si mangia in piedi sul marciapiede. Ordinala «ohne Darm» (senza budello), alla berlinese.
 806|Buona sosta tra l'Isola dei Musei e gli Hackesche Höfe.
 807|È di strada se vai ai bunker dei Berliner Unterwelten o all'Humboldthain.
-808|Buona opzione se cerchi carne biologica; di solito hanno anche una salsiccia vegetariana.
+808|Una buona scelta se cerchi carne biologica.
 809|È lontano dal centro: vale se sei dalle parti di Steglitz o dell'Orto botanico.
-810|La coda può essere molto lunga: vai a metà mattina o a metà pomeriggio, oppure ordina la versione vegetariana.
+810|La fila può essere molto lunga: vai a metà mattina o a metà pomeriggio.
 811|Meno coda di Mustafa's e un livello simile o migliore. Ci sono tavoli all'interno.
 812|Prova il lahmacun arrotolato con l'insalata: buono e molto economico.
 813|Qui si mangia seduti: ordina il döner al piatto o una grigliata da condividere.

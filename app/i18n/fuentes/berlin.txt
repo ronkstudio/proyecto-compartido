@@ -197,11 +197,11 @@ Se redondea o se deja entre el 5 y el 10 %. No se deja en la mesa: al pagar, dec
 Envases
 Las botellas y latas tienen un depósito que se paga al comprar. Te lo devuelven al llevarlas a las máquinas de los supermercados.
 Horarios berlineses
-Almuerzo de 12 a 14 y cena de 18 a 21. Muchas cocinas cierran temprano: después de las 22 cuesta encontrar dónde cenar.
+Se almuerza al mediodía y se cena temprano. Muchas cocinas cierran temprano: tarde a la noche cuesta encontrar dónde cenar.
 Domingos
 Los comercios y supermercados cierran. Quedan abiertos los de las estaciones grandes, los kioscos y los restaurantes.
 Muchos cierran los lunes. Verificá antes de ir.
-Los bares se llenan después de las 22. Los clubes arrancan pasada la medianoche y algunos siguen hasta el otro día.
+Los bares se llenan tarde. Los clubes arrancan pasada la medianoche y algunos siguen hasta el otro día.
 Primavera (abr–may)
 Templado y con la ciudad en flor. Muy buena época.
 Verano (jun–ago)
@@ -492,7 +492,7 @@ Helados de un pastelero profesional, cremosos y con sabores trabajados. La helad
 Helado al estilo norteamericano con cucuruchos horneados en el momento y sándwiches de galleta.
 Heladería artesanal berlinesa con ingredientes naturales y sabores de fruta muy logrados.
 Heladería de barrio en Reuterkiez con sabores originales, como pepino, limón y menta.
-Helado orgánico de elaboración propia, con sabores creativos y opciones veganas.
+Helado orgánico de elaboración propia, con sabores creativos.
 Helado siciliano de verdad: pistacho de Bronte, granita y brioche relleno de helado.
 Heladería italiana con laboratorio a la vista, pocos sabores y muy bien hechos.
 El único tres estrellas de Berlín: menú de pasos de Marco Müller con productos de la región y una gran carta de vinos.
@@ -514,7 +514,7 @@ El vietnamita que puso de moda el pho en Berlín: carta corta que cambia seguido
 Parrilla turca a las brasas con brochetas de cordero, kebab de Adana y entradas para compartir.
 Comida callejera del sur de la India: dosas crocantes, thalis y curries, en un local colorido.
 Pizza napolitana con horno a leña y masa de fermentación larga, de las más respetadas de la ciudad.
-Pizza de masa madre con ingredientes de productores de la región y buenas opciones veganas.
+Pizza de masa madre con ingredientes de productores de la región.
 Pizza napolitana en un patio escondido frente al canal, con masa aireada y horno a leña.
 El hummus más famoso de la Sonnenallee, la «calle árabe» de Berlín: recién hecho, con falafel y pan caliente.
 Un bar de ramen mínimo con caldo tonkotsu espeso y fideos al punto. El ramen de referencia en Berlín.
@@ -805,9 +805,9 @@ Las porciones son muy grandes: se puede compartir. Algunos fines de semana hay m
 Se come parado en la vereda. Pedila «ohne Darm» (sin piel), al estilo berlinés.
 Buena parada entre la Isla de los Museos y los Hackesche Höfe.
 Queda de paso si vas a los búnkeres de Berliner Unterwelten o al Humboldthain.
-Buena opción si buscás carne orgánica; también suelen tener salchicha vegetariana.
+Buena opción si buscás carne orgánica.
 Queda lejos del centro: vale si andás por Steglitz o el Jardín Botánico.
-La fila puede ser muy larga: andá a media mañana o media tarde, o pedí la versión vegetariana.
+La fila puede ser muy larga: andá a media mañana o media tarde.
 Menos fila que Mustafa's y un nivel parecido o mejor. Hay mesas adentro.
 Probá el lahmacun enrollado con ensalada: rico y muy barato.
 Acá se come sentado: pedí el döner al plato o una parrillada para compartir.

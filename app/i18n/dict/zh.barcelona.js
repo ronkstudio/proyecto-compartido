@@ -159,7 +159,7 @@ Object.assign(window.I18N_FULL = window.I18N_FULL || {}, {
 "Si te roban, hacé la denuncia en una comisaría de los Mossos d'Esquadra o en el servicio de atención al turista de la Guàrdia Urbana (La Rambla 43), que tiene traductores.": "如果被偷，到 Mossos d'Esquadra 警察局或 Guàrdia Urbana 的游客服务处（兰布拉大道 43 号，有翻译）报案。",
 "Los alojamientos cobran aparte un impuesto por persona y por noche, que suma el de Cataluña y el de la ciudad. Preguntá si ya está incluido en el precio.": "住宿会另收每人每晚的旅游税，包括加泰罗尼亚税和城市税。问清楚是否已含在房价里。",
 "Horarios de Barcelona": "巴塞罗那的作息",
-"Se come tarde: el almuerzo es de 13:30 a 15:30 y la cena, de 20:30 a 22:30. Fuera de esas horas, muchas cocinas están cerradas, pero siempre hay bares con tapas.": "这里吃饭很晚：午餐 13:30 到 15:30，晚餐 20:30 到 22:30。其他时间很多厨房不开，但总有卖小吃的酒吧。",
+"Se come tarde: el almuerzo, bien pasado el mediodía, y la cena, avanzada la noche. Fuera de esas horas, muchas cocinas están cerradas, pero siempre hay bares con tapas.": "用餐时间偏晚：午餐在正午过后很久，晚餐在深夜。其他时间很多厨房不营业，但总能找到卖 tapas 的酒吧。",
 "Los fines de semana, antes del almuerzo, se toma el vermut con aceitunas, papas fritas y conservas. Sant Antoni y Gràcia están llenos de bodegas para eso.": "周末午饭前，大家喝苦艾酒，配橄榄、薯片和罐头海鲜。圣安东尼和格拉西亚到处是这样的小酒馆。",
 "Las tiendas del centro abren todo el día, sin cortar al mediodía. Los domingos la mayoría cierra, salvo en las zonas más turísticas.": "市中心的商店全天营业，中午不休息。周日大多关门，游客最多的区域除外。",
 "Museos y Gaudí": "博物馆与高迪",
