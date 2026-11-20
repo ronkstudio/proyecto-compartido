@@ -531,5 +531,7 @@ Object.assign(window.I18N_FULL = window.I18N_FULL || {}, {
 "Chapinero y la Zona G": "チャピネロとソナG",
 "Zona Rosa y Parque de la 93": "ソナ・ロサと93公園",
 "La Candelaria y Monserrate": "ラ・カンデラリアとモンセラーテ",
-"Chapinero, Zona Rosa y Usaquén": "チャピネロ、ソナ・ロサ、ウサケン"
+"Chapinero, Zona Rosa y Usaquén": "チャピネロ、ソナ・ロサ、ウサケン",
+"Salsa y noche": "サルサと夜遊び",
+"Estación de policía": "警察署"
 });

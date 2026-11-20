@@ -644,5 +644,6 @@ Object.assign(window.I18N_FULL = window.I18N_FULL || {}, {
 "Barco a Cacilhas": "Bateau pour Cacilhas",
 "Tranvía 28": "Tram 28",
 "Colombia · Embajada (sección consular)": "Colombie · Ambassade (section consulaire)",
-"Perú · Embajada (sección consular)": "Pérou · Ambassade (section consulaire)"
+"Perú · Embajada (sección consular)": "Pérou · Ambassade (section consulaire)",
+"Fado y noche": "Fado et sorties"
 });

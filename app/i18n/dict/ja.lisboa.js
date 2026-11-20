@@ -644,5 +644,6 @@ Object.assign(window.I18N_FULL = window.I18N_FULL || {}, {
 "Barco a Cacilhas": "カシーリャス行きの船",
 "Tranvía 28": "28番トラム",
 "Colombia · Embajada (sección consular)": "コロンビア · 大使館（領事部）",
-"Perú · Embajada (sección consular)": "ペルー · 大使館（領事部）"
+"Perú · Embajada (sección consular)": "ペルー · 大使館（領事部）",
+"Fado y noche": "ファドと夜遊び"
 });

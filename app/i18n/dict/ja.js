@@ -838,6 +838,8 @@ window.I18N_FULL = {
 "Espectáculos": "公演",
 "En barco y en bici": "ボートと自転車",
 "Estadios y piletas": "スタジアムとプール",
+"Con opciones para": "対応メニュー",
+"Local 100 %": "すべて",
 "Armá tu viaje en 10 segundos": "10秒で旅程を作成",
 "Buenos Aires en 1 día": "1日で巡るブエノスアイレス",
 "3 días clásicos": "定番の3日間",

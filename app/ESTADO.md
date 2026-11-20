@@ -8,6 +8,7 @@ Este archivo se mantiene corto a propósito, porque se lee al empezar cada tarea
 
 ## Últimos cambios
 
+- 20/11 · #227 · Recorrido automático de pantallas (`zz-recorrido.js`): sin errores ni enlaces rotos; se tradujeron "Con opciones para", "Local 100 %" y la noche de Lisboa, Río y Bogotá; lo que se sale del ancho quedó en #189.
 - 20/11 · #225 · Ubicaciones: Andrés Carne de Res (Bogotá) en el mapa; en Río, Bar Lagoa y Cobal do Leblon reemplazan a dos lugares que no están en OpenStreetMap.
 - 20/11 · #223 · Consulados que faltaban: Colombia, México, Perú y Estados Unidos en Lisboa, Perú y Uruguay en Buenos Aires, Perú en Bogotá.
 - 20/11 · #224 · Sin horarios exactos en ninguna ciudad (21 textos, en los 8 idiomas); los datos de dieta tienen fuente o se sacaron.
@@ -17,7 +18,6 @@ Este archivo se mantiene corto a propósito, porque se lee al empezar cada tarea
 - 19/11 · #214 · Lisboa, décima ciudad.
 - 19/11 · #212 · Intro animada al entrar a cada ciudad y portada que se toca (`js/intro.js`, `css/intro.css`).
 - 19/11 · #208 · Scripts para armar ciudades (`herramientas/ciudad/`) y skill `crear-ciudad`.
-- 19/11 · #207 · Identidad visual de cada ciudad: paleta clara y oscura, letra, dibujo de portada (`css/temas.css`).
 
 ## Decidido
 

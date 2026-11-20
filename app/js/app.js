@@ -1236,7 +1236,7 @@
       '<div class="sheet-body">' +
         '<p class="bdgs"><span class="bdg ' + (p.q === 3 ? "q" : "q2") + '">' + (p.q === 3 ? "★ " : "") + QL[p.q] + "</span>" + p.awards.map(a => '<span class="bdg aw">🏅 ' + esc(a) + "</span>").join("") + "</p>" +
         "<p>" + esc(p.desc) + "</p>" +
-        (p.diet.length ? '<div class="diet"><b>' + (p.dietFull ? "Local 100 % " : "Con opciones para: ") + esc(p.diet.join(", ")) + "</b>Confirmá siempre en el local antes de pedir, sobre todo si tenés celiaquía o alergias: las cocinas y las cartas cambian.</div>" : "") +
+        (p.diet.length ? '<div class="diet"><b><span>' + (p.dietFull ? "Local 100 %" : "Con opciones para:") + "</span> " + p.diet.map(d => "<span>" + esc(d) + "</span>").join(", ") + "</b>Confirmá siempre en el local antes de pedir, sobre todo si tenés celiaquía o alergias: las cocinas y las cartas cambian.</div>" : "") +
         (p.tip ? '<div class="tip"><b>Consejo</b>' + esc(p.tip) + "</div>" : "") +
         (st ? '<p class="status ' + (st.ok ? "ok" : "no") + '">' + (st.ok ? "🟢 " + esc(st.text) : "🔴 Hoy (" + DOW[cityNow().getDay()] + ") no: " + esc(st.text.toLowerCase())) + ".</p>" : "") +
         '<div class="actions">' +

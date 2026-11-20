@@ -531,5 +531,7 @@ Object.assign(window.I18N_FULL = window.I18N_FULL || {}, {
 "Chapinero y la Zona G": "Chapinero and the Zona G",
 "Zona Rosa y Parque de la 93": "Zona Rosa and Parque de la 93",
 "La Candelaria y Monserrate": "La Candelaria and Monserrate",
-"Chapinero, Zona Rosa y Usaquén": "Chapinero, Zona Rosa and Usaquén"
+"Chapinero, Zona Rosa y Usaquén": "Chapinero, Zona Rosa and Usaquén",
+"Salsa y noche": "Salsa and nightlife",
+"Estación de policía": "Police station"
 });

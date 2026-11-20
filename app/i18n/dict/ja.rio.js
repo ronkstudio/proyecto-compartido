@@ -614,5 +614,6 @@ Object.assign(window.I18N_FULL = window.I18N_FULL || {}, {
 "El zoológico renovado en la Quinta da Boa Vista, con recintos amplios.": "キンタ・ダ・ボア・ヴィスタにある改装された動物園。広々とした展示。",
 "El planetario con cúpulas de proyección y un museo interactivo del universo.": "投影ドームと宇宙のインタラクティブ博物館のあるプラネタリウム。",
 "Mirá los horarios de las funciones.": "上映時間を確認して。",
-"Una vuelta al mundo gigante en el puerto con vista a la bahía y el puente a Niterói.": "港にある巨大観覧車。湾とニテロイへの橋の眺め。"
+"Una vuelta al mundo gigante en el puerto con vista a la bahía y el puente a Niterói.": "港にある巨大観覧車。湾とニテロイへの橋の眺め。",
+"Samba y noche": "サンバと夜遊び"
 });
