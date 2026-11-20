@@ -614,5 +614,6 @@ Object.assign(window.I18N_FULL = window.I18N_FULL || {}, {
 "El zoológico renovado en la Quinta da Boa Vista, con recintos amplios.": "美景庄园内翻新的动物园，场地宽敞。",
 "El planetario con cúpulas de proyección y un museo interactivo del universo.": "有球幕放映厅和宇宙互动博物馆的天文馆。",
 "Mirá los horarios de las funciones.": "查看场次时间。",
-"Una vuelta al mundo gigante en el puerto con vista a la bahía y el puente a Niterói.": "港口的巨型摩天轮，可看海湾和通往尼泰罗伊的大桥。"
+"Una vuelta al mundo gigante en el puerto con vista a la bahía y el puente a Niterói.": "港口的巨型摩天轮，可看海湾和通往尼泰罗伊的大桥。",
+"Samba y noche": "桑巴与夜生活"
 });

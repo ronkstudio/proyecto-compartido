@@ -24,6 +24,7 @@ Los que consultan internet (OpenStreetMap, Wikimedia Commons, Wikidata) se prese
 | `dietas.pl` | Busca en OpenStreetMap locales solo veganos o solo sin gluten (son la fuente del dato de dieta). |
 | `contar.pl` | Cuenta lugares por tipo y por barrio, para ver la variedad (4 o más de cada uno). |
 | `app/zz-revisar.html` | Control de datos de todas las ciudades (tarjeta #221): ubicaciones, referencias rotas, consulados, horarios colados, dietas sin fuente, variedad por tipo y barrio. Se abre con la app servida: `http://localhost:5173/zz-revisar.html` (con `?fotos=1` prueba también que carguen las fotos). No se publica. |
+| `app/zz-recorrido.js` | Recorrido automático de pantallas (tarjeta #227): con la app abierta en una ciudad, abre cada pantalla, plan y ficha, y lista lo que se sale del ancho, enlaces internos rotos, teléfonos mal armados, errores y textos sin traducir. Cómo usarlo: arriba del archivo. No se publica. |
 | `contraste.pl` | Mide el contraste de los colores de cada ciudad en `css/temas.css`, en claro y oscuro. |
 | `estaciones-metro.pl` | Trae de OpenStreetMap las estaciones de cada línea de metro, para "la estación más cercana" (bloque `stations`). |
 | `geotokio.pl` | Ubicaciones cuando las direcciones no las entiende el mapa (Tokio): busca el nombre en OpenStreetMap y controla que caiga en el distrito de la dirección. |

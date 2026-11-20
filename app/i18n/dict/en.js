@@ -838,6 +838,8 @@ window.I18N_FULL = {
 "Espectáculos": "Shows",
 "En barco y en bici": "By boat and by bike",
 "Estadios y piletas": "Stadiums and pools",
+"Con opciones para": "With options for",
+"Local 100 %": "Fully",
 "Armá tu viaje en 10 segundos": "Build your trip in 10 seconds",
 "Buenos Aires en 1 día": "Buenos Aires in 1 day",
 "3 días clásicos": "3 classic days",

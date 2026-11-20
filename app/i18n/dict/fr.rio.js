@@ -614,5 +614,6 @@ Object.assign(window.I18N_FULL = window.I18N_FULL || {}, {
 "El zoológico renovado en la Quinta da Boa Vista, con recintos amplios.": "Le zoo rénové de la Quinta da Boa Vista, avec de vastes enclos.",
 "El planetario con cúpulas de proyección y un museo interactivo del universo.": "Le planétarium avec des coupoles de projection et un musée interactif de l'univers.",
 "Mirá los horarios de las funciones.": "Consultez les horaires des séances.",
-"Una vuelta al mundo gigante en el puerto con vista a la bahía y el puente a Niterói.": "Une grande roue géante sur le port avec vue sur la baie et le pont vers Niterói."
+"Una vuelta al mundo gigante en el puerto con vista a la bahía y el puente a Niterói.": "Une grande roue géante sur le port avec vue sur la baie et le pont vers Niterói.",
+"Samba y noche": "Samba et sorties"
 });

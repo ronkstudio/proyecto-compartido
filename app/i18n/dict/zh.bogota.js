@@ -531,5 +531,7 @@ Object.assign(window.I18N_FULL = window.I18N_FULL || {}, {
 "Chapinero y la Zona G": "查皮内罗和G区",
 "Zona Rosa y Parque de la 93": "玫瑰区和93公园",
 "La Candelaria y Monserrate": "坎德拉里亚和蒙塞拉特山",
-"Chapinero, Zona Rosa y Usaquén": "查皮内罗、玫瑰区和乌萨肯"
+"Chapinero, Zona Rosa y Usaquén": "查皮内罗、玫瑰区和乌萨肯",
+"Salsa y noche": "萨尔萨与夜生活",
+"Estación de policía": "警察局"
 });
