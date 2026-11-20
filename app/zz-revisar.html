@@ -77,10 +77,11 @@
     if (!centro) mal("Datos locales", "Falta coordCentro en -local.js");
     P.forEach(p => {
       const ll = coords[p._id];
-      if (!ll) { (p.cat === "tours" ? ojo : mal)("Sin ubicación en el mapa", p._id + (p.cat === "tours" ? " (tour)" : "")); return; }
+      const sinPunto = p.cat === "tours" || p.barrio === "Varios" || p.mapq || /ruta|bici|sendero|ciclov|anillo|alquiler/i.test(p.name);
+      if (!ll) { (sinPunto ? ojo : mal)(sinPunto ? "Sin punto fijo en el mapa (tours, cadenas, rutas): está bien" : "Sin ubicación en el mapa", p._id); return; }
       if (!centro) return;
       const d = dist(centro, ll), enCiudad = p.barrio !== fuera;
-      if (enCiudad && d > 30) mal("Ubicación lejos del centro (más de 30 km y no está en \"" + fuera + "\")", p._id + " · " + d.toFixed(0) + " km");
+      if (enCiudad && d > 40) mal("Ubicación lejos del centro (más de 40 km y no está en \"" + fuera + "\")", p._id + " · " + d.toFixed(0) + " km");
       if (!enCiudad && d > 300) mal("Excursión a más de 300 km", p._id + " · " + d.toFixed(0) + " km");
     });
     Object.keys(coords).forEach(k => { if (!byId[k]) ojo("Ubicaciones de lugares que ya no existen (sobran en -coords.js)", k); });

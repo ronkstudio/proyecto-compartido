@@ -30,7 +30,7 @@ De dónde sale cada dato de Bogotá en la guía. Revisado el 18 y 19/11/2026.
 ## Lugares
 
 - 121 lugares en `app/data/bogota-lugares.js`. Las direcciones de Bogotá ("Carrera 7 # 28-66") indican la carrera y la calle que se cruzan, y Nominatim no las entiende. Por eso cada lugar se buscó por nombre en OpenStreetMap y se confirmó con un modelo de la grilla de calles y carreras armado con 31 lugares bien ubicados (diferencia típica: unos 200 metros). Si el resultado por nombre quedaba lejos de lo que predice la grilla, se usó el punto de la grilla (aproximado).
-- 115 tienen ubicación; 6 no la llevan: 4 tours sin punto fijo, la Ciclovía y Chía con Andrés Carne de Res.
+- 116 tienen ubicación; 5 no la llevan: 3 tours sin punto fijo, la Ciclovía y los senderos de los cerros. Andrés Carne de Res de Chía tiene ubicación desde el 20/11/2026 (OpenStreetMap, tarjeta #225).
 - Direcciones corregidas: Apache (Carrera 11 # 93-53, en el Parque de la 93, según OpenStreetMap).
 - Se sacaron horarios exactos que se habían colado (la Ciclovía, el horario para ir al mercado de flores y el de un bar).
 

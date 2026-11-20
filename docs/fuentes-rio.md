@@ -30,7 +30,7 @@ De dónde sale cada dato de Río de Janeiro en la guía. Revisado el 18/11/2026.
 
 ## Lugares
 
-- 152 lugares en `app/data/rio-lugares.js`. Cada uno se buscó en OpenStreetMap (Nominatim) por nombre y por dirección. 141 tienen ubicación; 11 no la llevan: 8 tours y actividades sin punto fijo, y Palaphita Kitch, Academia da Cachaça y el Mercado Produtor da Gávea, que no aparecen en el mapa (el resultado por nombre era otra sucursal u otro lugar).
+- 152 lugares en `app/data/rio-lugares.js`. Cada uno se buscó en OpenStreetMap (Nominatim) por nombre y por dirección. 144 tienen ubicación; 8 no la llevan: son tours y actividades sin punto fijo. El 20/11/2026 (tarjeta #225), Palaphita Kitch y el Mercado Produtor da Gávea, que no aparecen en OpenStreetMap, se reemplazaron por Bar Lagoa (Avenida Epitácio Pessoa 1674) y Cobal do Leblon, que sí aparecen. La Academia da Cachaça pasó a su local de Barra da Tijuca (Avenida Nuta James 65), que es el que figura en el mapa.
 - Direcciones corregidas con OpenStreetMap: Oro (Avenida General San Martin), Casa Cavé (Rua Sete de Setembro 133) y Havaianas Ipanema (Rua Visconde de Pirajá 111).
 
 ## Dietas

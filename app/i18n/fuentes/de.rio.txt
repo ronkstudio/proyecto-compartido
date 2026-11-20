@@ -519,8 +519,8 @@
 519|Zieh dich etwas eleganter an.
 520|Eine Bar am Strand von Ipanema mit Caipirinhas und Blick auf den Arpoador.
 521|Ideal bei Sonnenuntergang.
-522|Eine Bar im Pfahlbau-Stil an der Lagune mit Caipirinhas aus tropischen Früchten.
-523|Die Abende mit der beleuchteten Christusstatue sind die schönsten.
+522|Eine klassische Bar aus den 1930er-Jahren an der Lagune Rodrigo de Freitas, mit Fassbier (Chopp) und deutsch inspirierter Küche.
+523|Frag nach einem Tisch draußen mit Blick auf die Lagune.
 524|Eine Bar mit Hunderten Cachaças und gut gemachter Caipirinha, dazu Essen aus Minas Gerais.
 525|Lass dir eine Cachaça empfehlen.
 526|Eine Villa mit Samba-Tanzfläche, Gafieira und Billard im Herzen von Lapa.
@@ -602,7 +602,7 @@
 602|Nur am ersten Samstag im Monat.
 603|Ein Labyrinth von Straßen mit Hunderten günstigen Läden: Stoffe, Karnevalskostüme, Spielzeug und alles Mögliche.
 604|Nimm wenig Geld mit: Es ist sehr voll.
-605|Ein Markt mit tropischen Früchten und Gemüse der Bewohner von Gávea.
+605|Eine überdachte Markthalle mit Obst, Gemüse und Blumen, umgeben von Bars und Restaurants, die sich abends füllen.
 606|Probier Früchte, die du nicht kennst.
 607|Das elegante Einkaufszentrum der Zona Sul mit brasilianischen Marken, Kino und Foodcourt.
 608|Ein großes, praktisches Einkaufszentrum in Botafogo mit Läden aller Art.
