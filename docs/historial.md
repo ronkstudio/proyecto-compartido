@@ -216,6 +216,7 @@ Hasta el 13/11 estuvo en `ronkstudio/menu-3d-publico/guia-buenos-aires/`. Ese re
 
 ## Líneas que salieron de "Últimos cambios" en ESTADO.md
 
+- 19/11 · #208 · Scripts para armar ciudades (`herramientas/ciudad/`) y skill `crear-ciudad`.
 - 19/11 · #207 · Identidad visual de cada ciudad: paleta clara y oscura, letra, dibujo de portada (`css/temas.css`).
 - 19/11 · #204 · Bogotá, novena ciudad.
 - 19/11 · #203 · Río de Janeiro, octava ciudad.

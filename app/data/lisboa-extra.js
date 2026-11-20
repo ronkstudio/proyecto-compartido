@@ -177,7 +177,7 @@ window.CITY_EXTRA.lisboa = {
     "alfama": "1/19/Balcony_in_Alfama,_Lisboa_(8016422149).jpg",
     "bairro-alto": "f/fc/Bairro_Alto_(3903214849).jpg",
     "mouraria": "6/6a/Mouraria,_Lisboa_-_panoramio.jpg",
-    "chiado": "6/67/António_Ribeiro_Chiado_(1521?-1591)_(1925)_-_António_Augusto_da_Costa_Motta_(Tio)_(1862-1930)_(33429644114).jpg",
+    "chiado": "5/5b/Largo_do_Chiado_em_Lisboa.jpg",
     "casa-dos-bicos": "8/8a/Casa_dos_Bicos,_Lisboa_Rua_dos_Bacalhoeiros_10_-_panoramio.jpg",
     "cervejaria-trindade": "0/0d/Restaurant_Cervejaria_Trindade_(39916271621).jpg",
     "manteigaria": "1/10/Pastéis_de_Nata_from_Manteigaria_(22342423936).jpg",

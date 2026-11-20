@@ -143,14 +143,21 @@ main:focus { outline: none; }
 .media { position: relative; display: block; overflow: hidden; background: linear-gradient(135deg, color-mix(in srgb, var(--c, #5b6b7c) 80%, #000), color-mix(in srgb, var(--c, #5b6b7c) 50%, #fff)); }
 .media i { position: absolute; inset: 0; display: grid; place-items: center; font-style: normal; }
 .media img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
-/* Portada sin foto: el nombre del lugar (tarjeta #114) */
-.media.noph { background: radial-gradient(circle at 80% 15%, rgba(255, 255, 255, .14), transparent 55%), linear-gradient(150deg, color-mix(in srgb, var(--c, #5b6b7c) 72%, #0b1118), color-mix(in srgb, var(--c, #5b6b7c) 42%, #0b1118)); }
-.ph-name { position: absolute; inset: 6px; display: grid; place-items: center; text-align: center; border: 1px solid rgba(255, 255, 255, .28); border-radius: 8px; padding: 8px; color: #fff; }
-.ph-name b { font-family: var(--serif); font-weight: 600; font-size: 19px; line-height: 1.15; letter-spacing: .005em; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; overflow-wrap: anywhere; text-shadow: 0 1px 2px rgba(0, 0, 0, .25); }
-.ph-name b::after { content: ""; display: block; width: 26px; height: 1px; margin: 7px auto 0; background: rgba(255, 255, 255, .6); }
-.thumb .ph-name { inset: 4px; padding: 4px; border-radius: 9px; }
-.thumb .ph-name b { font-size: 12.5px; }
-.thumb .ph-name b::after { width: 16px; margin-top: 4px; }
+/* Portada sin foto (tarjeta #226): el color del tipo de lugar, el dibujo propio de cada ciudad (--hero-motif, en css/temas.css)
+   y el ícono del tipo en un círculo. El nombre no se repite: ya está al lado o debajo. */
+.media.noph { isolation: isolate; background: radial-gradient(circle at 50% 42%, rgba(255, 255, 255, .16), transparent 58%), linear-gradient(150deg, color-mix(in srgb, var(--c, #5b6b7c) 70%, #0b1118), color-mix(in srgb, var(--c, #5b6b7c) 44%, #0b1118)); }
+.media.noph::before { content: ""; position: absolute; inset: 0; z-index: -1; opacity: calc(var(--hero-motif-op, .2) * 1.15);
+  background-image: var(--hero-motif, none); background-size: var(--hero-motif-size, 160px 160px); background-repeat: repeat; background-position: center; }
+.media .ph-ico { position: absolute; left: 50%; top: 50%; width: 62px; height: 62px; transform: translate(-50%, -58%); display: grid; place-items: center;
+  border-radius: 50%; font-size: 30px; line-height: 1; background: rgba(255, 255, 255, .16); border: 1px solid rgba(255, 255, 255, .45);
+  box-shadow: 0 8px 22px rgba(0, 0, 0, .22), inset 0 1px 0 rgba(255, 255, 255, .3); }
+.ph-sub { position: absolute; left: 8px; right: 8px; bottom: 11px; text-align: center; color: #fff; font-size: 11px; font-weight: 700; letter-spacing: .12em;
+  text-transform: uppercase; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; text-shadow: 0 1px 3px rgba(0, 0, 0, .45); }
+.media.thumb .ph-ico { width: 46px; height: 46px; font-size: 23px; transform: translate(-50%, -50%); }
+/* Encabezado de la ficha sin foto: el mismo dibujo de la ciudad de fondo. */
+.sheet-head:not(.has-photo) { isolation: isolate; background: linear-gradient(150deg, color-mix(in srgb, var(--c, #5b6b7c) 70%, #0b1118), color-mix(in srgb, var(--c, #5b6b7c) 46%, #0b1118)); }
+.sheet-head:not(.has-photo)::before { content: ""; position: absolute; inset: 0; z-index: -1; opacity: calc(var(--hero-motif-op, .2) * 1.15);
+  background-image: var(--hero-motif, none); background-size: var(--hero-motif-size, 160px 160px); background-repeat: repeat; }
 
 /* ── Carruseles ── */
 .rail { display: flex; gap: 12px; overflow-x: auto; scroll-snap-type: x proximity; padding: 2px 16px 12px; margin: 0 -16px; scrollbar-width: thin; }
