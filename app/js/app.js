@@ -344,11 +344,22 @@
   const SUB_ICON = { "Para bailar": "🪩", "Pizzería": "🍕", "Café notable": "☕", "Café de especialidad": "☕", "Heladería": "🍦", "Dulces": "🧁", "Vegetariano": "🥗", "Sin TACC": "🌾", "Kosher": "✡️",
     "Cocinas del mundo": "🍜", "Mercado gastronómico": "🧺", "Polo gastronómico": "🧺", "Al paso": "🥪", "Bar": "🍸", "Cervecería": "🍺", "Bar de vinos": "🍷", "Teatro": "🎭",
     "Cine": "🎬", "Museo": "🖼️", "Naturaleza": "🌳", "Shopping": "🏬", "Feria": "🧺", "Hostel": "🎒", "Fútbol": "⚽", "Polo": "🏇", "Turf": "🏇", "Tenis": "🎾", "Golf": "⛳", "Náutico": "⛵" };
-  const iconOf = p => SUB_ICON[p.sub] || cats[p.cat].icon;
+  /* Si el tipo no está en la lista, se busca una palabra clave en el tipo (tarjeta #226); si no, el ícono de la categoría. */
+  const SUB_KEY = [[/caf[eé]|té\b|tea/i, "☕"], [/helad|gelat/i, "🍦"], [/pasteler|panader|dulce|churr/i, "🥐"], [/pizz/i, "🍕"],
+    [/sushi|ramen|izakaya|japon/i, "🍣"], [/marisc|pescad|ostra/i, "🦞"], [/parrill|carne|asador|churrasc|steak/i, "🥩"], [/tapas|vermut/i, "🫒"],
+    [/vino|vinho|wine/i, "🍷"], [/cervec|beer|chopp/i, "🍺"], [/cóctel|coctel|cocktail|bar\b|boteco|pub/i, "🍸"], [/boliche|club|bailar|discotec/i, "🪩"],
+    [/fado|tango|samba|salsa|jazz|música|musica|concierto|ópera|opera/i, "🎶"], [/teatro|show/i, "🎭"], [/museo|galer[ií]a|arte/i, "🖼️"],
+    [/iglesia|catedral|templo|santuario|bas[ií]lica|mezquita|sinagoga/i, "⛪"], [/palacio|castillo|fortaleza/i, "🏰"], [/mirador|vista/i, "🌄"],
+    [/playa|praia/i, "🏖️"], [/parque|jard[ií]n|naturaleza|bosque|sendero/i, "🌳"], [/mercado|feria|feira/i, "🧺"], [/librer/i, "📚"],
+    [/hostel/i, "🎒"], [/hotel|hospedaje|departamento|posada/i, "🏨"], [/bici/i, "🚲"], [/barco|crucero|náutic|nautic/i, "⛵"],
+    [/f[uú]tbol|estadio/i, "⚽"], [/termas|spa|onsen|baño/i, "♨️"], [/zoo|acuario|aquário/i, "🐠"], [/compras|tienda|shopping|dise[nñ]o/i, "🛍️"]];
+  const iconOf = p => SUB_ICON[p.sub] || ((SUB_KEY.find(k => k[0].test(p.sub || "")) || [])[1]) || cats[p.cat].icon;
   const media = (p, w, cls) => {
     const c = cats[p.cat];
-    /* Sin foto: portada con el nombre del lugar en vez de un emoji (tarjeta #114). */
-    if (!p.photo) return '<span class="media noph ' + cls + '" style="--c:' + c.color + '"><span class="ph-name" aria-hidden="true"><b>' + esc(p.name) + "</b></span></span>";
+    /* Sin foto (tarjeta #226): el dibujo de la ciudad de fondo, el ícono del tipo de lugar y, en las tarjetas grandes, el tipo.
+       El nombre no va: ya está escrito al lado o debajo. */
+    if (!p.photo) return '<span class="media noph ' + cls + '" style="--c:' + c.color + '"><span class="ph-ico" aria-hidden="true">' + iconOf(p) + "</span>" +
+      (cls === "thumb" ? "" : '<span class="ph-sub" aria-hidden="true">' + esc(p.sub) + "</span>") + "</span>";
     return '<span class="media ' + cls + '" style="--c:' + c.color + '"><i aria-hidden="true">' + iconOf(p) + "</i>" +
       '<img src="' + esc(photo(p.photo, w)) + '" alt="" loading="lazy" decoding="async"></span>';
   };
@@ -481,7 +492,7 @@
     if (it.p) {
       const p = it.p;
       let m = media(p, 500, "tile-media");
-      if (it.tag) m = m.replace(/<\/span>$/, '<i class="hoy-tag">' + esc(it.tag) + "</i></span>");
+      if (it.tag) m = m.replace(/<span class="ph-sub"[^>]*>[^<]*<\/span>/, "").replace(/<\/span>$/, '<i class="hoy-tag">' + esc(it.tag) + "</i></span>");   // la etiqueta ocupa el lugar del tipo (#226)
       return '<button class="tile" style="--c:' + cats[p.cat].color + '" data-open="' + p.id + '">' + m +
         '<span class="tile-body"><b>' + esc(it.que || p.name) + "</b><span>" + (it.que ? '<i data-notr>' + esc(p.name) + "</i> · " + esc(p.barrio) : esc(p.sub) + " · " + esc(p.barrio)) + "</span></span></button>";
     }
@@ -491,7 +502,8 @@
     const c = (cats[it.franja === "noche" ? "noche" : "ver"] || {}).color || "#5b6b7c";
     const tag = d ? "⭐ " + esc(it.tag || "Destacado") : it.lugares ? "🎉" : (e.serie ? "🖼️ " : "📅 ") + esc(it.hora);
     const cover = lp && lp.photo ? '<span class="media tile-media"><img src="' + esc(photo(lp.photo, 500)) + '" alt="" loading="lazy" decoding="async"><i class="hoy-tag">' + tag + "</i></span>"
-      : '<span class="media noph tile-media" style="--c:' + c + '"><span class="ph-name"><b>' + tag + "</b></span></span>";
+      : '<span class="media noph tile-media" style="--c:' + c + '"><span class="ph-ico" aria-hidden="true">' + (d ? "⭐" : it.lugares ? "🎉" : e.serie ? "🖼️" : "📅") + "</span>" +
+        (d ? '<span class="ph-sub">' + esc(it.tag || "Destacado") + "</span>" : !it.lugares && it.hora ? '<span class="ph-sub">' + esc(it.hora) + "</span>" : "") + "</span>";
     const sub = it.lugares ? "<span>En muchos lugares</span> <span>(" + it.lugares + ")</span>" : [lugar ? '<i data-notr>' + esc(lugar) + "</i>" : "", barrio ? esc(barrio) : ""].filter(Boolean).join(" · ");
     return '<a class="tile' + (d ? " hoy-dest" : "") + '" style="--c:' + c + '" href="' + esc(href) + '" target="_blank" rel="noopener">' + cover +
       '<span class="tile-body"><b' + (d ? "" : " data-notr") + '>' + esc(t) + "</b><span>" + sub + ((d ? d.gratis : e.gratis) ? " · Gratis" : "") + "</span></span></a>";
@@ -1232,7 +1244,7 @@
       '<div class="sheet-head' + (p.photo ? " has-photo" : "") + '">' +
         (p.photo ? '<img src="' + esc(photo(p.photo, 960)) + '" data-fb="' + esc(photo(p.photo, 500)) + '" alt="">' : "") +
         '<button class="x" data-close aria-label="Cerrar">✕</button>' +
-        '<div class="sheet-title">' + (p.photo ? '<em aria-hidden="true">' + iconOf(p) + "</em>" : "") + '<h2 id="sheet-title">' + esc(p.name) + "</h2><p>" + esc(c.name) + " · " + esc(p.sub) + " · " + esc(p.barrio) + "</p></div></div>" +
+        '<div class="sheet-title">' + '<em aria-hidden="true">' + iconOf(p) + "</em>" + '<h2 id="sheet-title">' + esc(p.name) + "</h2><p>" + esc(c.name) + " · " + esc(p.sub) + " · " + esc(p.barrio) + "</p></div></div>" +
       '<div class="sheet-body">' +
         '<p class="bdgs"><span class="bdg ' + (p.q === 3 ? "q" : "q2") + '">' + (p.q === 3 ? "★ " : "") + QL[p.q] + "</span>" + p.awards.map(a => '<span class="bdg aw">🏅 ' + esc(a) + "</span>").join("") + "</p>" +
         "<p>" + esc(p.desc) + "</p>" +
@@ -1555,7 +1567,12 @@
     const t = e.target;
     if (!t || t.tagName !== "IMG") return;
     if (t.dataset.fb) { const fb = t.dataset.fb; delete t.dataset.fb; t.src = fb; }
-    else { const head = t.closest(".sheet-head"); if (head) head.classList.remove("has-photo"); t.remove(); }
+    else {
+      const head = t.closest(".sheet-head"); if (head) head.classList.remove("has-photo");
+      /* Tarjeta #226: la tarjeta queda con la misma portada que los lugares sin foto. */
+      const m = t.closest(".media"); if (m) { m.classList.add("noph"); const i = m.querySelector("i:not(.hoy-tag)"); if (i) i.className = "ph-ico"; }
+      t.remove();
+    }
   }, true);
 
   /* ── Inicio ── */

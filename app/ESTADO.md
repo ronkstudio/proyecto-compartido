@@ -8,6 +8,7 @@ Este archivo se mantiene corto a propósito, porque se lee al empezar cada tarea
 
 ## Últimos cambios
 
+- 20/11 · #226 · Portada nueva para los lugares sin foto (el dibujo de cada ciudad y el ícono del tipo de lugar), también cuando una foto no carga; foto de Chiado (Lisboa) arreglada.
 - 20/11 · #227 · Recorrido automático de pantallas (`zz-recorrido.js`): sin errores ni enlaces rotos; se tradujeron "Con opciones para", "Local 100 %" y la noche de Lisboa, Río y Bogotá; lo que se sale del ancho quedó en #189.
 - 20/11 · #225 · Ubicaciones: Andrés Carne de Res (Bogotá) en el mapa; en Río, Bar Lagoa y Cobal do Leblon reemplazan a dos lugares que no están en OpenStreetMap.
 - 20/11 · #223 · Consulados que faltaban: Colombia, México, Perú y Estados Unidos en Lisboa, Perú y Uruguay en Buenos Aires, Perú en Bogotá.
@@ -17,7 +18,6 @@ Este archivo se mantiene corto a propósito, porque se lee al empezar cada tarea
 - 19/11 · #217 · Este archivo se achicó (el anterior está en `docs/historial.md`); `LEEME.md` al día; Claude suma a `main` sin preguntar.
 - 19/11 · #214 · Lisboa, décima ciudad.
 - 19/11 · #212 · Intro animada al entrar a cada ciudad y portada que se toca (`js/intro.js`, `css/intro.css`).
-- 19/11 · #208 · Scripts para armar ciudades (`herramientas/ciudad/`) y skill `crear-ciudad`.
 
 ## Decidido
 
@@ -81,7 +81,7 @@ La cantidad de lugares se contó el 19/11/2026 desde `data/` (lista `places` de 
 ## Qué falta o está flojo en todas las ciudades
 
 - **Traducciones sin revisar** por alguien que hable cada idioma.
-- **Fotos:** faltan sobre todo en restaurantes, bares y hoteles, que casi nunca tienen fotos libres. Sus fotos propias tienen derechos de autor: haría falta pedirles permiso a los locales o usar fotos ilustrativas.
+- **Fotos:** faltan sobre todo en restaurantes, bares y hoteles, que casi nunca tienen fotos libres. Sus fotos propias tienen derechos de autor: haría falta pedirles permiso a los locales. Mientras tanto, los que no tienen foto muestran una portada con el dibujo de la ciudad y el ícono del tipo de lugar (tarjeta #226).
 - **Que los lugares sigan abiertos:** OpenStreetMap confirma que el local existe, no que abra hoy. La ficha tiene el botón a Google Maps con horarios.
 - **Sin horarios reales ni puntajes de reseñas:** harían falta servicios pagos.
 - **Pantallas que se salen del ancho** en celulares chicos o en alemán (tarjeta #189).
