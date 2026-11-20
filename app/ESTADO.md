@@ -8,6 +8,7 @@ Este archivo se mantiene corto a propósito, porque se lee al empezar cada tarea
 
 ## Últimos cambios
 
+- 20/11 · #233 · Ajustes finales de la revisión: íconos por tipo corregidos, dietas con fuente leída (Fatamorgana, Chutnify, Café Vux, Curry 61, Maroush) en la lista, fuentes de Río y Bogotá, fotos probadas a 500 px.
 - 20/11 · #226 · Portada nueva para los lugares sin foto (el dibujo de cada ciudad y el ícono del tipo de lugar), también cuando una foto no carga; foto de Chiado (Lisboa) arreglada.
 - 20/11 · #227 · Recorrido automático de pantallas (`zz-recorrido.js`): sin errores ni enlaces rotos; se tradujeron "Con opciones para", "Local 100 %" y la noche de Lisboa, Río y Bogotá; lo que se sale del ancho quedó en #189.
 - 20/11 · #225 · Ubicaciones: Andrés Carne de Res (Bogotá) en el mapa; en Río, Bar Lagoa y Cobal do Leblon reemplazan a dos lugares que no están en OpenStreetMap.
@@ -17,7 +18,6 @@ Este archivo se mantiene corto a propósito, porque se lee al empezar cada tarea
 - 20/11 · #216 · Tokio, undécima ciudad (la primera de Asia); 26 etiquetas comunes nuevas, "Lisboa" traducida y la intro se desvanece con "reducir movimiento".
 - 19/11 · #217 · Este archivo se achicó (el anterior está en `docs/historial.md`); `LEEME.md` al día; Claude suma a `main` sin preguntar.
 - 19/11 · #214 · Lisboa, décima ciudad.
-- 19/11 · #212 · Intro animada al entrar a cada ciudad y portada que se toca (`js/intro.js`, `css/intro.css`).
 
 ## Decidido
 

@@ -564,7 +564,7 @@ Object.assign(window.I18N_FULL = window.I18N_FULL || {}, {
 "Solo el primer sábado del mes.": "毎月第1土曜のみ。",
 "Un laberinto de calles con cientos de tiendas baratas: telas, disfraces de Carnaval, juguetes y de todo.": "数百の安い店が並ぶ迷路のような街。布、カーニバル衣装、おもちゃなど何でも。",
 "Llevá poca plata encima: hay mucha gente.": "人が多いので現金は少なめに。",
-"Un mercado cubierto de frutas, verduras y flores, rodeado de bares y restaurantes que se llenan de noche.": "果物・野菜・花の屋内市場。周りのバーやレストランは夜になると混み合う。",
+"Un mercado cubierto de frutas y verduras, con bares y restaurantes que se llenan de noche.": "果物と野菜の屋内市場。中のバーやレストランは夜になると混み合う。",
 "El shopping elegante de la zona sur, con marcas brasileñas, cine y patio de comidas.": "南部ゾーンの高級ショッピングモール。ブラジルブランド、映画館、フードコート。",
 "Un shopping grande y práctico en Botafogo, con tiendas de todo tipo.": "ボタフォゴの大きく便利なショッピングモール。あらゆる店があります。",
 "Tiene colectivo gratis desde Copacabana.": "コパカバーナから無料バスがあります。",

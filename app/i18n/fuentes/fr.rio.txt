@@ -602,7 +602,7 @@
 602|Uniquement le premier samedi du mois.
 603|Un dédale de rues avec des centaines de boutiques bon marché : tissus, déguisements de carnaval, jouets et tout le reste.
 604|Prenez peu d'argent sur vous : il y a beaucoup de monde.
-605|Un marché couvert de fruits, légumes et fleurs, entouré de bars et de restaurants qui se remplissent le soir.
+605|Un marché couvert de fruits et légumes, avec des bars et des restaurants qui se remplissent le soir.
 606|Goûtez des fruits que vous ne connaissez pas.
 607|Le centre commercial chic de la zone sud, avec marques brésiliennes, cinéma et aire de restauration.
 608|Un grand centre commercial pratique à Botafogo, avec toutes sortes de boutiques.

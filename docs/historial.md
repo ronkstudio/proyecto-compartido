@@ -216,6 +216,7 @@ Hasta el 13/11 estuvo en `ronkstudio/menu-3d-publico/guia-buenos-aires/`. Ese re
 
 ## Líneas que salieron de "Últimos cambios" en ESTADO.md
 
+- 19/11 · #212 · Intro animada al entrar a cada ciudad y portada que se toca (`js/intro.js`, `css/intro.css`).
 - 19/11 · #208 · Scripts para armar ciudades (`herramientas/ciudad/`) y skill `crear-ciudad`.
 - 19/11 · #207 · Identidad visual de cada ciudad: paleta clara y oscura, letra, dibujo de portada (`css/temas.css`).
 - 19/11 · #204 · Bogotá, novena ciudad.

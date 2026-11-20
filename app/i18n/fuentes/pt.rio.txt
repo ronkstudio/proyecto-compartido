@@ -602,7 +602,7 @@
 602|Só no primeiro sábado do mês.
 603|Um labirinto de ruas com centenas de lojas baratas: tecidos, fantasias de Carnaval, brinquedos e de tudo.
 604|Leve pouco dinheiro: tem muita gente.
-605|Um mercado coberto de frutas, verduras e flores, cercado de bares e restaurantes que lotam à noite.
+605|Um mercado coberto de frutas e verduras, com bares e restaurantes que lotam à noite.
 606|Prove frutas que você não conhece.
 607|O shopping elegante da zona sul, com marcas brasileiras, cinema e praça de alimentação.
 608|Um shopping grande e prático em Botafogo, com lojas de todo tipo.

@@ -602,7 +602,7 @@
 602|Solo il primo sabato del mese.
 603|Un labirinto di strade con centinaia di negozi economici: stoffe, costumi di Carnevale, giocattoli e di tutto.
 604|Porta pochi soldi: c'è tanta gente.
-605|Un mercato coperto di frutta, verdura e fiori, circondato da bar e ristoranti che si riempiono la sera.
+605|Un mercato coperto di frutta e verdura, con bar e ristoranti che si riempiono la sera.
 606|Assaggia frutti che non conosci.
 607|Il centro commerciale elegante della zona sud, con marchi brasiliani, cinema e food court.
 608|Un centro commerciale grande e pratico a Botafogo, con negozi di ogni tipo.

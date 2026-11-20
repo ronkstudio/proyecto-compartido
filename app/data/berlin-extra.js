@@ -71,9 +71,12 @@ window.CITY_EXTRA.berlin = {
   diet: {
     "cookies-cream": ["vegetariano"], "bonvivant-cocktail-bistro": ["vegetariano"], "lucky-leek": ["vegano","vegetariano"],
     "brammibal-s-donuts": ["vegano","vegetariano"], "voner": ["vegano","vegetariano"], "1990-vegan-living": ["vegano","vegetariano"],
-    "jute-backerei": ["sin TACC"], "aera": ["sin TACC"], "brotquelle": ["sin TACC"], "oshione": ["sin TACC"]
+    "jute-backerei": ["sin TACC"], "aera": ["sin TACC"], "brotquelle": ["sin TACC"], "oshione": ["sin TACC"],
+    /* Tarjeta #233 (20/11/2026): Chutnify, la mayoría de los platos sin gluten (visitBerlin); Café Vux, todo vegano (visitBerlin);
+       Curry 61 y Maroush, con opciones veganas (OpenStreetMap, diet:vegan=yes). Detalle en docs/fuentes-berlin.md. */
+    "chutnify": ["sin TACC"], "cafe-vux": ["vegano", "vegetariano"], "curry-61": ["vegano", "vegetariano"], "maroush": ["vegano", "vegetariano"]
   },
-  dietFull: [
+  dietFull: ["cafe-vux", 
     "cookies-cream", "bonvivant-cocktail-bistro", "lucky-leek", "brammibal-s-donuts", "voner", "1990-vegan-living", "jute-backerei",
     "aera", "brotquelle", "oshione"
   ],

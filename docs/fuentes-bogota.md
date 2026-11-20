@@ -50,5 +50,5 @@ De dónde sale cada dato de Bogotá en la guía. Revisado el 18 y 19/11/2026.
 
 ## Consulados sumados (tarjeta #223, 20/11/2026)
 
-- **Perú**: Consulado General, Calle 90 # 14-26, oficina 417, según el directorio de consulados del Perú de 2025 (leído con el buscador; gob.pe no abre en el navegador). Coincide con OpenStreetMap. [fuente](https://www.gob.pe/consulado-del-peru-en-bogota)
+- **Perú**: Consulado General, Calle 90 # 14-26. La dirección y la ubicación salen de OpenStreetMap (office=diplomatic, "Consulado General del Perú", consultado el 20/11/2026), y la oficina 417 del directorio de consulados del Perú de 2025, que se leyó con el buscador porque el PDF tiene la letra codificada y gob.pe no abre en el navegador. [directorio](https://www.ipcc.ch/site/assets/uploads/2025/09/Peru-Directory-Consulates-and-Consular-Sections.pdf)
 Ubicación: OpenStreetMap (office=diplomatic o la dirección en Nominatim).
