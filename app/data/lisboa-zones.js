@@ -5,8 +5,9 @@
    de los Restauradores. Para emergencias, siempre el 112.
    HOSPITALES: hospitales con urgencias en OpenStreetMap del 19/11/2026 (amenity=hospital, emergency=yes).
    CONSULADOS: direcciones de la web oficial de cada país (19/11/2026); la ubicación sale de OpenStreetMap (office=diplomatic) o de la
-   dirección. Las webs de Colombia, México, Uruguay y Estados Unidos no se pudieron leer: esos países no se cargaron y se buscan con
-   "Encontrar mi consulado".
+   dirección. Colombia, México, Perú y Estados Unidos se sumaron el 20/11/2026 (tarjeta #223), de las webs oficiales de cada país; la ubicación,
+   de OpenStreetMap. Uruguay no está: su directorio oficial estaba en mantenimiento y la lista del cuerpo diplomático de Portugal no se
+   pudo abrir; se busca con "Encontrar mi consulado".
 
    LÍMITES DE BARRIOS Y CAPAS: todavía no están (son opcionales). */
 window.CITY_ZONES = window.CITY_ZONES || {};
@@ -63,6 +64,14 @@ window.CITY_ZONES.lisboa = {
       note: "Trámites y ayuda consular." },
     { id: "cons-it", type: "consul", name: "Italia · Sección consular", address: "Calçada do Conde de Pombeiro 24", ll: [38.72333, -9.13626], aprox: true,
       note: "Al lado de la embajada (Largo do Conde de Pombeiro 6)." },
+    { id: "cons-co", type: "consul", name: "Colombia · Embajada (sección consular)", address: "Avenida Fontes Pereira de Melo 16, 6.º", ll: [38.72855, -9.14723],
+      note: "Trámites y ayuda consular." },
+    { id: "cons-mx", type: "consul", name: "México · Embajada (sección consular)", address: "Estrada de Monsanto 78", ll: [38.73794, -9.20124],
+      note: "Trámites y ayuda consular." },
+    { id: "cons-pe", type: "consul", name: "Perú · Embajada (sección consular)", address: "Avenida da Liberdade 144, 8.º E", ll: [38.71952, -9.14424],
+      note: "Trámites y ayuda consular." },
+    { id: "cons-us", type: "consul", name: "Estados Unidos · Embajada", address: "Avenida das Forças Armadas 133C, Sete Rios", ll: [38.74365, -9.16237],
+      note: "Atención a ciudadanos con turno." },
     { id: "t-lis", type: "transporte", name: "Aeropuerto Humberto Delgado (LIS)", address: "Alameda das Comunidades Portuguesas", ll: [38.77420, -9.13410], far: true,
       note: "El aeropuerto de la ciudad; la terminal 1 tiene metro." },
     { id: "t-oriente", type: "transporte", name: "Estación de Oriente", address: "Avenida Dom João II", ll: [38.76790, -9.09880],

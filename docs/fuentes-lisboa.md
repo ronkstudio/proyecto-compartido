@@ -50,3 +50,12 @@ De dónde sale cada dato de Lisboa en la guía. Revisado el 19/11/2026.
 ## Fotos
 
 - 52 fotos de Wikimedia Commons con licencia libre (19/11/2026), buscadas por nombre en OpenStreetMap y en Commons cerca de cada lugar, y revisadas a ojo. Se descartaron 36 que mostraban otra cosa (gente en primer plano, carteles, planos, folletos, un pájaro, el metro en vez del zoológico, etc.).
+
+## Consulados sumados (tarjeta #223, 20/11/2026)
+
+- **Colombia**: Avenida Fontes Pereira de Melo 16, 6.º (Palácio Sotto Mayor), según la Sección Consular de la Embajada de Colombia en Portugal. [fuente](https://portugal.embajada.gov.co)
+- **México**: Estrada de Monsanto 78, según el directorio de la Secretaría de Relaciones Exteriores. [fuente](https://portales.sre.gob.mx/directorio/index.php/embajadas-de-mexico-en-el-exterior/portugal)
+- **Perú**: Sección Consular de la Embajada, Avenida da Liberdade 144, 8.º E, según gob.pe (leído con el buscador; la página no abre en el navegador). [fuente](https://www.gob.pe/institucion/seccion-consular-republica-portuguesa/contacto-y-numeros-de-emergencias)
+- **Estados Unidos**: Avenida das Forças Armadas, 1600-081 Lisboa, en su web oficial (el número 133C sale de OpenStreetMap). [fuente](https://pt.usembassy.gov/contact/)
+- **Uruguay**: no se cargó. El directorio oficial de Uruguay (busquedaconsulados.mrree.gub.uy) estaba en mantenimiento y la consulta del cuerpo diplomático de Portugal (gov.pt) no abrió. Los directorios privados dan dos direcciones distintas.
+Ubicación: OpenStreetMap (office=diplomatic o la dirección en Nominatim).

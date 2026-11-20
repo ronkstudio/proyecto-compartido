@@ -8,6 +8,7 @@ Este archivo se mantiene corto a propósito, porque se lee al empezar cada tarea
 
 ## Últimos cambios
 
+- 20/11 · #223 · Consulados que faltaban: Colombia, México, Perú y Estados Unidos en Lisboa, Perú y Uruguay en Buenos Aires, Perú en Bogotá.
 - 20/11 · #224 · Sin horarios exactos en ninguna ciudad (21 textos, en los 8 idiomas); los datos de dieta tienen fuente o se sacaron.
 - 20/11 · #221 · Control de datos de las 11 ciudades (`zz-revisar.html`, no se publica); lo que encontró está en la tarjeta #221.
 - 20/11 · #216 · Tokio, undécima ciudad (la primera de Asia); 26 etiquetas comunes nuevas, "Lisboa" traducida y la intro se desvanece con "reducir movimiento".
@@ -17,7 +18,6 @@ Este archivo se mantiene corto a propósito, porque se lee al empezar cada tarea
 - 19/11 · #208 · Scripts para armar ciudades (`herramientas/ciudad/`) y skill `crear-ciudad`.
 - 19/11 · #207 · Identidad visual de cada ciudad: paleta clara y oscura, letra, dibujo de portada (`css/temas.css`).
 - 19/11 · #204 · Bogotá, novena ciudad.
-- 19/11 · #203 · Río de Janeiro, octava ciudad.
 
 ## Decidido
 
@@ -46,7 +46,7 @@ Todas tienen la misma estructura: lugares en 9 categorías, mapa con puntos de a
 
 | Ciudad | Lugares | "Hoy" | Fuentes | Lo que le falta |
 |---|---|---|---|---|
-| Buenos Aires (`caba`) | 565 | Agenda oficial automática + agenda fija | `docs/fuentes-de-informacion.md` | Fotos de restaurantes, bares y hoteles; unas 45 ubicaciones aproximadas; consulados de Uruguay y Perú; no entró en la revisión de que sigan abiertos (#179) |
+| Buenos Aires (`caba`) | 565 | Agenda oficial automática + agenda fija | `docs/fuentes-de-informacion.md` | Fotos de restaurantes, bares y hoteles; unas 45 ubicaciones aproximadas; el consulado general de Uruguay (va la embajada); no entró en la revisión de que sigan abiertos (#179) |
 | Berlín | 400 | Agenda oficial automática + agenda fija | `docs/fuentes-berlin.md` | Capas de zonas y límites de barrios en el mapa; fotos; confirmar Brotquelle (sin TACC) |
 | París | 249 | Agenda oficial automática + agenda fija | — | Capas de zonas; fotos; el pago con tarjeta en el metro sale de la prensa |
 | Roma | 245 | Agenda fija (no hay agenda oficial legible) | `docs/fuentes-roma.md` | Capas de zonas; fotos de comida y noche |
@@ -55,7 +55,7 @@ Todas tienen la misma estructura: lugares en 9 categorías, mapa con puntos de a
 | Ámsterdam | 186 | Agenda fija (la oficial terminó en 2022) | `docs/fuentes-amsterdam.md` | Fotos; confirmar que los restaurantes sigan abiertos; dirección del servicio de ayuda al turista (ATAS) |
 | Río de Janeiro | 152 | Agenda fija | `docs/fuentes-rio.md` | Fotos; fuente oficial de los días de samba de la Pedra do Sal |
 | Bogotá | 121 | Agenda fija | `docs/fuentes-bogota.md` | Fotos (casi no hay libres); ubicaciones por grilla aproximadas (~200 m); más embajadas |
-| Lisboa | 170 | Agenda fija | `docs/fuentes-lisboa.md` | Fotos; consulados de Colombia, México, Uruguay y Estados Unidos |
+| Lisboa | 170 | Agenda fija | `docs/fuentes-lisboa.md` | Fotos; consulado de Uruguay (sin fuente oficial legible) |
 | Tokio | 217 | Agenda fija (torneos de sumo y cerezos) | `docs/fuentes-tokio.md` | Fotos de 122 lugares; ubicación aproximada de la embajada de Uruguay (se mudó en 2023) |
 
 La cantidad de lugares se contó el 19/11/2026 desde `data/` (lista `places` de cada ciudad). Las agendas automáticas las baja `.github/workflows/publicar-guia.yml` dos veces por día con los scripts de `herramientas/`. Solo Buenos Aires tiene las 6 capas de zonas del mapa.

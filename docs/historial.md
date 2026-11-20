@@ -216,6 +216,7 @@ Hasta el 13/11 estuvo en `ronkstudio/menu-3d-publico/guia-buenos-aires/`. Ese re
 
 ## Líneas que salieron de "Últimos cambios" en ESTADO.md
 
+- 19/11 · #203 · Río de Janeiro, octava ciudad.
 - 18/11 · #202 · Variedad: en las 7 ciudades de entonces, cada tipo y barrio del filtro tiene 4 lugares o más.
 - 18/11 · #199 · Ámsterdam, séptima ciudad.
 - 18/11 · #198 · Más fotos, dietas con fuente y traducciones que faltaban en varias ciudades.

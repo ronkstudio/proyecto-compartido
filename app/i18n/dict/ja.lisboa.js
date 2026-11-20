@@ -642,5 +642,7 @@ Object.assign(window.I18N_FULL = window.I18N_FULL || {}, {
 "Tour por Belém con guía": "ベレンのガイドツアー",
 "Tour en tuk-tuk": "トゥクトゥクツアー",
 "Barco a Cacilhas": "カシーリャス行きの船",
-"Tranvía 28": "28番トラム"
+"Tranvía 28": "28番トラム",
+"Colombia · Embajada (sección consular)": "コロンビア · 大使館（領事部）",
+"Perú · Embajada (sección consular)": "ペルー · 大使館（領事部）"
 });
