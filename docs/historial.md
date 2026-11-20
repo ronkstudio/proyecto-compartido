@@ -216,4 +216,5 @@ Hasta el 13/11 estuvo en `ronkstudio/menu-3d-publico/guia-buenos-aires/`. Ese re
 
 ## Líneas que salieron de "Últimos cambios" en ESTADO.md
 
+- 18/11 · #199 · Ámsterdam, séptima ciudad.
 - 18/11 · #198 · Más fotos, dietas con fuente y traducciones que faltaban en varias ciudades.

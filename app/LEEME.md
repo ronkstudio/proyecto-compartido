@@ -1,6 +1,6 @@
 # La guía de viaje
 
-Esta carpeta es la app: una guía de viaje con 10 ciudades (Buenos Aires, Berlín, París, Roma, Madrid, Barcelona, Ámsterdam, Río de Janeiro, Bogotá y Lisboa) en 8 idiomas. Es una página web hecha con HTML, CSS y JavaScript, sin programas extra, que también se instala en el celular y anda sin internet.
+Esta carpeta es la app: una guía de viaje con 11 ciudades (Buenos Aires, Berlín, París, Roma, Madrid, Barcelona, Ámsterdam, Río de Janeiro, Bogotá, Lisboa y Tokio) en 8 idiomas. Es una página web hecha con HTML, CSS y JavaScript, sin programas extra, que también se instala en el celular y anda sin internet.
 
 Qué está hecho, qué falta y qué se decidió: [ESTADO.md](ESTADO.md). Leelo antes de cambiar algo.
 
@@ -33,7 +33,7 @@ La versión publicada está en https://ronkstudio.github.io/proyecto-compartido/
 
 ### Los archivos de cada ciudad (`data/`)
 
-Cada ciudad tiene un `id` (`caba`, `berlin`, `paris`, `roma`, `madrid`, `barcelona`, `amsterdam`, `rio`, `bogota`, `lisboa`) y estos archivos:
+Cada ciudad tiene un `id` (`caba`, `berlin`, `paris`, `roma`, `madrid`, `barcelona`, `amsterdam`, `rio`, `bogota`, `lisboa`, `tokio`) y estos archivos:
 
 | Archivo | Qué tiene |
 |---|---|
