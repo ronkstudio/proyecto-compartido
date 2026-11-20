@@ -1,0 +1,199 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Control de datos</title>
+<!-- Control de datos de todas las ciudades (tarjeta #221). No se publica (los zz-* quedan afuera).
+     Se abre con la app servida (servir.ps1): http://localhost:5173/zz-revisar.html
+     Agregá ?fotos=1 para probar también que carguen las fotos (tarda unos minutos).
+     Solo lee los datos y lista lo que haya que mirar; no cambia nada. -->
+<style>
+  body { font: 14px/1.45 system-ui, sans-serif; margin: 16px; background: #fff; color: #222; }
+  h2 { margin: 24px 0 4px; border-bottom: 2px solid #ddd; }
+  h3 { margin: 12px 0 2px; font-size: 14px; }
+  .ok { color: #2b7a2b; } .mal { color: #b3261e; } .ojo { color: #8a5a00; }
+  ul { margin: 2px 0 8px; padding-left: 20px; } li { margin: 1px 0; }
+  code { background: #f2f2f2; padding: 0 3px; }
+</style>
+</head>
+<body>
+<h1>Control de datos de las ciudades</h1>
+<div id="out">Cargando…</div>
+<script src="data/ciudades.js"></script>
+<script>
+(() => {
+  "use strict";
+  const lista = (window.GUIA_CIUDADES || []);
+  const norm = s => String(s || "").normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
+  const slug = s => norm(s).replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
+  const cargar = src => new Promise(ok => { const s = document.createElement("script"); s.src = src; s.onload = ok; s.onerror = () => { R.global.push("No carga " + src); ok(); }; document.head.appendChild(s); });
+  const R = { global: [], ciudades: {} };
+  const PAISES = ["Argentina", "Brasil", "Chile", "Colombia", "España", "Italia", "México", "Perú", "Uruguay", "Estados Unidos"];
+  const ANFITRION = { caba: "Argentina", rio: "Brasil", bogota: "Colombia", madrid: "España", barcelona: "España", roma: "Italia" };
+  const HORA = /\d{1,2}( ?h\b|:\d\d| de la)/;
+  const SALUD = /sin tacc|cel[ií]ac|gluten|\bvegan|\bvegetarian|kosher|halal|alerg|lactosa|remedio|medicament/i;
+  const dist = (a, b) => { const r = Math.PI / 180, dl = (b[0] - a[0]) * r, dn = (b[1] - a[1]) * r;
+    const h = Math.sin(dl / 2) ** 2 + Math.cos(a[0] * r) * Math.cos(b[0] * r) * Math.sin(dn / 2) ** 2; return 12742 * Math.asin(Math.sqrt(h)); };
+
+  /* Recorre todos los textos de un objeto y llama f(texto, camino). */
+  const textos = (o, camino, f, vistos) => {
+    vistos = vistos || new Set();
+    if (o == null) return;
+    if (typeof o === "string") { f(o, camino); return; }
+    if (typeof o !== "object" || vistos.has(o)) return;
+    vistos.add(o);
+    for (const k of Object.keys(o)) {
+      if (k === "photos" || k === "stations" || k === "coords" || k === "layers" || k === "barrios" && camino.endsWith("zones")) continue;
+      textos(o[k], camino + "." + k, f, vistos);
+    }
+  };
+
+  async function revisar(c) {
+    for (const f of c.files) await cargar("data/" + f + ".js");
+    const id = c.id, city = (window.CITY_DATA || {})[id], X = (window.CITY_EXTRA || {})[id] || {}, LOC = X.local || {};
+    const coords = (window.CITY_COORDS || {})[id] || {}, Z = (window.CITY_ZONES || {})[id] || {};
+    const r = { nombre: c.name, datos: {}, mal: {}, ojo: {} };
+    const mal = (t, x) => (r.mal[t] = r.mal[t] || []).push(x);
+    const ojo = (t, x) => (r.ojo[t] = r.ojo[t] || []).push(x);
+    if (!city) { mal("Ciudad", "No cargó CITY_DATA." + id); return r; }
+    const fuera = LOC.fuera || "Fuera de CABA";
+    const byId = {};
+    city.places.forEach(p => {
+      const pid = slug(p.name);
+      if (byId[pid]) mal("Lugares repetidos (mismo id)", pid + " (" + byId[pid].barrio + " / " + p.barrio + ")");
+      byId[pid] = p; p._id = pid;
+      if (!city.categories.some(k => k.id === p.cat)) mal("Lugar con categoría inexistente", pid + " → " + p.cat);
+    });
+    const P = city.places;
+    r.datos.lugares = P.length;
+    r.datos.planes = (city.itineraries || []).length;
+    r.datos.colecciones = (X.collections || []).length;
+    const conFoto = P.filter(p => X.photos && X.photos[p._id]).length;
+    r.datos.fotos = conFoto + " de " + P.length + " (" + Math.round(100 * conFoto / P.length) + " %)";
+
+    /* Ubicaciones */
+    const centro = LOC.coordCentro;
+    if (!centro) mal("Datos locales", "Falta coordCentro en -local.js");
+    P.forEach(p => {
+      const ll = coords[p._id];
+      if (!ll) { (p.cat === "tours" ? ojo : mal)("Sin ubicación en el mapa", p._id + (p.cat === "tours" ? " (tour)" : "")); return; }
+      if (!centro) return;
+      const d = dist(centro, ll), enCiudad = p.barrio !== fuera;
+      if (enCiudad && d > 30) mal("Ubicación lejos del centro (más de 30 km y no está en \"" + fuera + "\")", p._id + " · " + d.toFixed(0) + " km");
+      if (!enCiudad && d > 300) mal("Excursión a más de 300 km", p._id + " · " + d.toFixed(0) + " km");
+    });
+    Object.keys(coords).forEach(k => { if (!byId[k]) ojo("Ubicaciones de lugares que ya no existen (sobran en -coords.js)", k); });
+
+    /* Referencias */
+    const ref = (donde, k) => { if (!byId[k]) mal("Referencias rotas", donde + " → " + k); };
+    (city.itineraries || []).forEach(it => (it.steps || []).forEach(s => ref("plan " + it.id, slug(s.ref))));
+    (X.collections || []).forEach(col => { if (col.cover) ref("colección " + col.name + " (portada)", col.cover); });
+    Object.keys(X.quality || {}).forEach(l => X.quality[l].forEach(k => ref("quality " + l, k)));
+    ["awards", "diet", "only", "closed"].forEach(b => Object.keys(X[b] || {}).forEach(k => ref(b, k)));
+    (X.dietFull || []).forEach(k => ref("dietFull", k));
+    Object.keys(X.photos || {}).forEach(k => { if (k.indexOf("b:") !== 0) ref("photos", k); });
+    (X.stamps || []).forEach(s => (s.ids || s.places || []).forEach(k => ref("sello " + s.name, k)));
+    (X.destacados || []).forEach(d => { if (d.place) ref("destacado", d.place); });
+
+    /* Colecciones que quedan con pocos lugares */
+    (X.collections || []).forEach(col => {
+      const f = col.filter || {}; let n = 0;
+      P.forEach(p => {
+        if (f.cat && p.cat !== f.cat) return;
+        if (f.sub && p.sub !== f.sub) return;
+        if (f.prices && f.prices.indexOf(p.price) < 0) return;
+        if (f.q) { const t = norm([p.name, p.sub, p.barrio, p.desc, p.tip, (p.tags || []).join(" ")].join(" ")); if (t.indexOf(norm(f.q)) < 0) return; }
+        if (f.ids && f.ids.indexOf(p._id) < 0) return;
+        n++;
+      });
+      if (n < 4) ojo("Colecciones con menos de 4 lugares (cálculo aproximado)", col.name + ": " + n);
+    });
+
+    /* Variedad: tipos y barrios con menos de 4 */
+    const cuenta = (key) => { const m = {}; P.forEach(p => { const k = key(p); m[k] = (m[k] || 0) + 1; }); return m; };
+    const porTipo = cuenta(p => p.cat + " · " + p.sub), porBarrio = cuenta(p => p.barrio);
+    Object.keys(porTipo).forEach(k => { if (porTipo[k] < 4) mal("Tipos con menos de 4 lugares", k + ": " + porTipo[k]); });
+    const enFiltro = k => k !== fuera && k !== "Varios" && (!city.filterBarrios || city.filterBarrios.indexOf(k) > -1);
+    Object.keys(porBarrio).forEach(k => { if (porBarrio[k] < 4) (enFiltro(k) ? mal : ojo)(enFiltro(k) ? "Barrios del filtro con menos de 4 lugares" : "Barrios fuera del filtro con menos de 4 lugares (no se ven en el filtro)", k + ": " + porBarrio[k]); });
+    city.categories.forEach(k => { const n = P.filter(p => p.cat === k.id).length; if (n < 4) mal("Categorías con menos de 4 lugares", k.name + ": " + n); });
+    r.datos.porCategoria = city.categories.map(k => k.name + " " + P.filter(p => p.cat === k.id).length).join(" · ");
+
+    /* Consulados */
+    const cons = (Z.help || []).filter(h => h.type === "consul");
+    PAISES.forEach(pais => { if (ANFITRION[id] === pais) return;
+      if (!cons.some(h => norm(h.name).indexOf(norm(pais)) === 0 || norm(h.name).indexOf(norm(pais) + " ") > -1)) mal("Consulados que faltan", pais); });
+    ["info", "policia", "salud"].forEach(t => { const n = (Z.help || []).filter(h => h.type === t).length; if (n < 1) mal("Ayuda: falta un tipo de punto", t); });
+    (Z.help || []).forEach(h => {
+      if (!h.ll) mal("Puntos de ayuda sin ubicación", h.name);
+      else if (centro && dist(centro, h.ll) > 40 && !h.far) ojo("Puntos de ayuda lejos del centro", h.name + " · " + dist(centro, h.ll).toFixed(0) + " km");
+      if (h.tel && !/^\+?[0-9]{3,15}$/.test(h.tel)) mal("Teléfonos que no se marcan", h.name + ": " + h.tel);
+    });
+    (city.emergencies || []).forEach(e => { const n = e.n.replace(/[^0-9+]/g, ""); if (n.length < 2 || /#|\*/.test(e.n)) mal("Teléfonos que no se marcan", "emergencia " + e.n); });
+
+    /* Textos: horarios exactos, datos de salud, numerales en teléfonos */
+    const visto = new Set();
+    const mirar = (t, camino) => {
+      if (HORA.test(t)) { const m = t.match(new RegExp(".{0,30}" + HORA.source + ".{0,20}")); const k = camino.replace(/\.\d+/g, "[]") + " | " + (m ? m[0] : t.slice(0, 60)); if (!visto.has(k)) { visto.add(k); ojo("Posibles horarios exactos (mirar a mano)", k); } }
+      if (/(^|[^&])#\s?\d/.test(t) && /tel|llam|marc/i.test(t)) ojo("Textos con # cerca de un teléfono", camino + " | " + t.slice(0, 80));
+    };
+    P.forEach(p => {
+      [p.name, p.desc, p.tip, p.address].forEach(t => t && mirar(t, "lugar " + p._id));
+      const t = [p.desc, p.tip, (p.tags || []).join(" ")].join(" ");
+      if (SALUD.test(t) && !(X.diet && X.diet[p._id])) ojo("Menciona salud o dieta sin estar en la lista con fuente (diet)", p._id + " | " + (t.match(new RegExp(".{0,40}(" + SALUD.source + ").{0,30}", "i")) || [""])[0]);
+    });
+    const sinLugares = Object.assign({}, city); delete sinLugares.places;
+    textos(sinLugares, id, mirar);
+    const Xs = Object.assign({}, X); delete Xs.photos; delete Xs.stations;
+    textos(Xs, id + "-extra", mirar);
+    textos(Z, id + "-zones", mirar);
+
+    /* Transporte */
+    if (!(city.subte || []).length) ojo("Transporte", "No hay líneas en city.subte");
+    if (!Object.keys(X.stations || {}).length) mal("Transporte", "No hay estaciones (X.stations)");
+    if (!(LOC.aeropuertos || LOC.airports || []).length) ojo("Transporte", "No encontré la lista de aeropuertos en -local.js (revisar a mano el nombre)");
+    r._fotos = P.filter(p => X.photos && X.photos[p._id]).map(p => [p._id, X.photos[p._id]]);
+    return r;
+  }
+
+  const WM = "https://upload.wikimedia.org/wikipedia/commons/";
+  const foto = ph => ph.charAt(0) === "!" ? WM + encodeURI(ph.slice(1)) : WM + "thumb/" + encodeURI(ph) + "/120px-" + encodeURI(ph.split("/").pop());
+  async function probarFotos(lista) {
+    const rotas = []; let i = 0;
+    const uno = () => new Promise(ok => {
+      if (i >= lista.length) return ok(false);
+      const [pid, ph] = lista[i++]; const img = new Image(); let listo = false;
+      const fin = bien => { if (listo) return; listo = true; if (!bien) rotas.push(pid + " · " + ph); ok(true); };
+      img.onload = () => fin(true); img.onerror = () => fin(false); setTimeout(() => fin(false), 20000); img.src = foto(ph);
+    });
+    const hilo = async () => { while (await uno()) {} };
+    await Promise.all([hilo(), hilo(), hilo(), hilo()]);
+    return rotas;
+  }
+
+  const esc = s => String(s).replace(/[&<>]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;" }[c]));
+  (async () => {
+    const conFotos = /fotos=1/.test(location.search);
+    for (const c of lista) {
+      const r = await revisar(c);
+      if (conFotos) r.mal["Fotos que no cargan"] = await probarFotos(r._fotos || []);
+      if (!(r.mal["Fotos que no cargan"] || [1]).length) delete r.mal["Fotos que no cargan"];
+      delete r._fotos;
+      R.ciudades[c.id] = r;
+    }
+    window.REVISION = R;
+    let h = R.global.map(x => '<p class="mal">' + esc(x) + "</p>").join("");
+    for (const id of Object.keys(R.ciudades)) {
+      const r = R.ciudades[id];
+      h += "<h2>" + esc(r.nombre) + " <small>(" + id + ")</small></h2><p>" + Object.keys(r.datos).map(k => "<b>" + k + ":</b> " + esc(r.datos[k])).join(" · ") + "</p>";
+      const bloque = (o, cls) => Object.keys(o).map(t => "<h3 class='" + cls + "'>" + esc(t) + " (" + o[t].length + ")</h3><ul>" + o[t].map(x => "<li>" + esc(x) + "</li>").join("") + "</ul>").join("");
+      h += Object.keys(r.mal).length ? bloque(r.mal, "mal") : "<p class='ok'>Sin errores.</p>";
+      h += bloque(r.ojo, "ojo");
+    }
+    document.getElementById("out").innerHTML = h;
+    document.title = "Control listo";
+  })();
+})();
+</script>
+</body>
+</html>
