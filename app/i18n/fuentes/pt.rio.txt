@@ -519,8 +519,8 @@
 519|Vista-se um pouco mais elegante.
 520|Um bar de frente para a praia de Ipanema, com caipirinhas e vista para o Arpoador.
 521|Ideal ao pôr do sol.
-522|Um bar com estética de palafita sobre a lagoa, com caipirinhas de frutas tropicais.
-523|As noites com o Cristo iluminado são as melhores.
+522|Um bar clássico dos anos 1930 de frente para a Lagoa Rodrigo de Freitas, com chope e comida de inspiração alemã.
+523|Peça uma mesa do lado de fora, de frente para a lagoa.
 524|Um bar com centenas de cachaças e caipirinha bem-feita, além de comida mineira.
 525|Peça que recomendem uma cachaça.
 526|Um casarão com pista de samba, gafieira e sinuca no coração da Lapa.
@@ -602,7 +602,7 @@
 602|Só no primeiro sábado do mês.
 603|Um labirinto de ruas com centenas de lojas baratas: tecidos, fantasias de Carnaval, brinquedos e de tudo.
 604|Leve pouco dinheiro: tem muita gente.
-605|Um mercado de frutas tropicais e verduras dos moradores da Gávea.
+605|Um mercado coberto de frutas, verduras e flores, cercado de bares e restaurantes que lotam à noite.
 606|Prove frutas que você não conhece.
 607|O shopping elegante da zona sul, com marcas brasileiras, cinema e praça de alimentação.
 608|Um shopping grande e prático em Botafogo, com lojas de todo tipo.

@@ -143,5 +143,9 @@ window.CITY_COORDS.rio = {
   "aquario": [-22.89313, -43.19285],
   "bioparque-do-rio": [-22.90539, -43.22998],
   "planetario-da-gavea": [-22.97819, -43.23026],
-  "yup-star": [-22.89311, -43.19415]
+  "yup-star": [-22.89311, -43.19415],
+  /* Tarjeta #225 (20/11/2026), de OpenStreetMap (Nominatim). */
+  "bar-lagoa": [-22.98000, -43.20331],
+  "academia-da-cachaca": [-23.00540, -43.31288],
+  "cobal-do-leblon": [-22.98004, -43.22179]
 };

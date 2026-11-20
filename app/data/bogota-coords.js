@@ -118,5 +118,7 @@ window.CITY_COORDS.bogota = {
   "maloka": [4.65522, -74.11014],
   "planetario-de-bogota": [4.61206, -74.06882],
   "museo-de-los-ninos": [4.65539, -74.08955],
-  "divercity": [4.76224, -74.04641]
+  "divercity": [4.76224, -74.04641],
+  /* Tarjeta #225 (20/11/2026), de OpenStreetMap (Nominatim): el local de Chía. */
+  "chia-y-andres-carne-de-res": [4.85402, -74.06518]
 };

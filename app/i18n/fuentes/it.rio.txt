@@ -519,8 +519,8 @@
 519|Vestiti in modo un po' più elegante.
 520|Un bar davanti alla spiaggia di Ipanema, con caipirinha e vista sull'Arpoador.
 521|Ideale al tramonto.
-522|Un bar in stile palafitta sulla laguna, con caipirinha di frutta tropicale.
-523|Le sere con il Cristo illuminato sono le migliori.
+522|Un bar classico degli anni Trenta di fronte alla laguna Rodrigo de Freitas, con birra alla spina (chopp) e cucina di ispirazione tedesca.
+523|Chiedi un tavolo fuori, con vista sulla laguna.
 524|Un bar con centinaia di cachaças e caipirinha fatta bene, più cucina del Minas Gerais.
 525|Fatti consigliare una cachaça.
 526|Una villa con pista di samba, gafieira e biliardo nel cuore di Lapa.
@@ -602,7 +602,7 @@
 602|Solo il primo sabato del mese.
 603|Un labirinto di strade con centinaia di negozi economici: stoffe, costumi di Carnevale, giocattoli e di tutto.
 604|Porta pochi soldi: c'è tanta gente.
-605|Un mercato di frutta tropicale e verdura degli abitanti della Gávea.
+605|Un mercato coperto di frutta, verdura e fiori, circondato da bar e ristoranti che si riempiono la sera.
 606|Assaggia frutti che non conosci.
 607|Il centro commerciale elegante della zona sud, con marchi brasiliani, cinema e food court.
 608|Un centro commerciale grande e pratico a Botafogo, con negozi di ogni tipo.
