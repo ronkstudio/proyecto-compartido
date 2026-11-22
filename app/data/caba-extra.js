@@ -238,6 +238,9 @@ window.CITY_EXTRA.caba = {
 
   /* Fotos: archivo de Wikimedia Commons (ruta dentro de /wikipedia/commons/). Con "!" adelante se usa el original sin redimensionar. */
   photos: {
+    "feria-de-plaza-francia": "4/47/Plaza_Francia,_Recoleta.jpg",
+    "correr-en-los-bosques-de-palermo": "c/c1/Rosedal_de_Buenos_Aires.jpg",
+    "vuelta-en-bici-por-puerto-madero-y-la-reserva": "7/78/J34_377_Dique_1,_Hochhäuser.jpg",
     /* Tanda del 13/11/2026 (tarjeta #110): 196 fotos más, de Wikimedia Commons, con licencia libre (CC0, CC BY, CC BY-SA o dominio público).
        Se buscaron por la foto principal del artículo de Wikipedia (con la ubicación a menos de 1,5 km del lugar), por nombre en Commons
        y por fotos sacadas a menos de 40 m de la dirección. Se revisaron una por una: afuera logos, mapas, montajes, retratos y otros lugares

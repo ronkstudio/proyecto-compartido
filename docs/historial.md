@@ -228,3 +228,4 @@ Hasta el 13/11 estuvo en `ronkstudio/menu-3d-publico/guia-buenos-aires/`. Ese re
 - 19/11 · #214 · Lisboa, décima ciudad.
 - 19/11 · #217 · Este archivo se achicó (el anterior está en `docs/historial.md`); `LEEME.md` al día; Claude suma a `main` sin preguntar.
 - 20/11 · #221 · Control de datos de las 11 ciudades (`zz-revisar.html`, no se publica); lo que encontró está en la tarjeta #221.
+- 20/11 · #224 · Sin horarios exactos en ninguna ciudad (21 textos, en los 8 idiomas); los datos de dieta tienen fuente o se sacaron.

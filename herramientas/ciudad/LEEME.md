@@ -19,6 +19,7 @@ Los que consultan internet (OpenStreetMap, Wikimedia Commons, Wikidata) se prese
 | `armar-dict.pl` | Arma los diccionarios de `i18n/dict/` (lo mismo que `i18n/fuentes/armar-dict.js`, para cuando no hay Node). Tiene que terminar con "problemas: 0". |
 | `entrada.pl` | Prepara la lista de lugares con ubicación para buscar fotos. |
 | `fotos2.pl` | Busca fotos libres en Wikimedia Commons cuyo nombre coincida con el lugar. Tarda (una hora para 120 lugares). |
+| `fotos3.js` | Busca más fotos en Wikidata: la foto principal (P18) de un elemento con el mismo nombre a pocos metros del lugar. Hace una consulta por tanda de lugares, así que tarda minutos y no horas (Berlín, la más densa, unos 25). Uso: `NODE_USE_ENV_PROXY=1 node fotos3.js <ciudad>.tsv <idioma local> > salida.tsv`, con la misma entrada y salida que `fotos2.pl`. Revisá cada foto antes de cargarla: en restaurantes, bares y hoteles a veces trae la plaza o la calle (tarjeta #242). |
 | `hoja.pl` | Arma una página para revisar las fotos a ojo antes de cargarlas. |
 | `meterfotos.pl` | Carga las fotos aprobadas en `data/<ciudad>-extra.js`. |
 | `dietas.pl` | Busca en OpenStreetMap locales solo veganos o solo sin gluten (son la fuente del dato de dieta). |
