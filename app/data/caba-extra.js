@@ -50,11 +50,12 @@ window.CITY_EXTRA.caba = {
 
   /* Comer con una condición. "diet": para qué dietas sirve cada lugar. "dietFull": lugares 100 % dedicados
      (todo el local es vegano, sin TACC o kosher). Los demás tienen buenas opciones, pero no son exclusivos.
-     Sin TACC y kosher: solo lugares que una fuente describe como dedicados. La app avisa siempre que hay que confirmar en el local. */
+     Sin TACC y kosher: solo lugares que una fuente describe como dedicados. La app avisa siempre que hay que confirmar en el local.
+     Si un lugar no está confirmado como sin TACC, se muestra igual pero sin la etiqueta (decisión de ezebesserr, 22/11/2026, tarjeta #240). */
   diet: {
     "sacro": ["vegano", "vegetariano"], "donnet": ["vegano", "vegetariano"], "la-reverde-parrillita-vegana": ["vegano", "vegetariano"],
     "buenos-aires-verde": ["vegano", "vegetariano", "sin TACC"],
-    "sintaxis": ["sin TACC"], "la-union-gluten-free": ["sin TACC"],
+    "sintaxis": ["sin TACC"],
     "mcdonald-s-kosher-del-abasto": ["kosher"], "al-galope": ["kosher"],
     "taccoff": ["sin TACC"], "dulce-seminare-gf": ["sin TACC"],
     "agus-kitchen": ["kosher"], "forno-fettuccine": ["kosher"], "yum": ["kosher"], "l-harmonie": ["kosher"], "bambina-pizza": ["kosher"],
@@ -63,7 +64,7 @@ window.CITY_EXTRA.caba = {
     "mercat-villa-crespo": ["vegetariano"], "mercado-de-belgrano": ["vegetariano"],
     "siamo-nel-forno": ["vegetariano"], "pizzeria-guerrin": ["vegetariano"], "el-cuartito": ["vegetariano"], "las-cuartetas": ["vegetariano"], "la-mezzetta": ["vegetariano"], "banchero": ["vegetariano"]
   },
-  dietFull: ["sacro", "donnet", "la-reverde-parrillita-vegana", "sintaxis", "la-union-gluten-free", "mcdonald-s-kosher-del-abasto", "al-galope",
+  dietFull: ["sacro", "donnet", "la-reverde-parrillita-vegana", "sintaxis", "mcdonald-s-kosher-del-abasto", "al-galope",
     "taccoff", "dulce-seminare-gf", "agus-kitchen", "forno-fettuccine", "yum", "l-harmonie", "bambina-pizza"],
 
   /* Reconocimientos verificables. Michelin y 50 Best Bars: ediciones 2026. */

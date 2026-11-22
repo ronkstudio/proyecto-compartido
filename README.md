@@ -25,7 +25,9 @@ Qué está hecho, qué se probó y qué falta: [app/ESTADO.md](app/ESTADO.md).
 | Qué entra en la app | De todo. Con un mínimo de locales por tipo en cada zona turística (por ejemplo, 5 de pastas y 5 o 6 parrillas) | `ezebesserr`, 11/11. Coincide con lo que pidió Bautista. Tarjeta #45 |
 | Cómo se ve | Intuitiva, simple, linda, limpia y poco cargada, aunque tenga mucho contenido | `ezebesserr`, 11/11 |
 | Colores | Sin amarillo en los botones ni en el diseño: terracota y coral. Los colores de los lugares no se tocan | `ezebesserr`, 13/11. Tarjeta #122 |
-| Idiomas | Muchos, no dos o tres. La lista se arma en la tarjeta #11 | `ezebesserr`, 11/11. Tarjetas #11 y #39 |
+| Idiomas | Muchos, no dos o tres. Quedan los 8: español, inglés, portugués, francés, italiano, alemán, chino y japonés | `ezebesserr`, 11/11 y 22/11. Tarjetas #11, #39 y #240 |
+| Cartel de "versión de prueba" | Por ahora no lleva: la guía no se va a difundir pronto | `ezebesserr`, 22/11. Tarjeta #240 |
+| Sin TACC | Solo lo confirmado. Si un lugar no está confirmado como sin TACC, se muestra igual, pero sin la etiqueta de sin TACC | `ezebesserr`, 22/11. Tarjeta #240 |
 | Planes | Variedad de planes armados para vacaciones y visitas | `ezebesserr`, 11/11. Tarjeta #48 |
 | Áreas de cada uno | No hay: los dos hacen de todo | Tarjeta #2 |
 | Ciudades nuevas | Berlín, Madrid, Roma y París, una por tarjeta. Primero la estructura (Info, Hoy, mapa) y después los lugares. Berlín y París están en marcha; París la pidió Bautista completa, igual que Buenos Aires (13/11) | Bautista, 13/11. Tarjetas #98 a #102 |
@@ -36,11 +38,8 @@ Qué está hecho, qué se probó y qué falta: [app/ESTADO.md](app/ESTADO.md).
 | Sumar a `main` | Claude suma a `main` sin preguntar cuando la tarea está terminada y probada. Sigue habiendo pedido de cambios con `Closes #N` y nota de traspaso | `ezebesserr`, 19/11. Tarjeta #217 |
 ## Lo que falta decidir
 
-- **Qué idiomas siguen** (tarjeta #11). Hoy están completos los 8: español, inglés, portugués, francés, italiano, alemán, chino y japonés (sin revisar por alguien que hable cada idioma).
 - **Zonas turísticas y mínimos por tipo de local** (tarjeta #45), y cómo se verifica cada local antes de cargarlo.
-- **Cartel de "versión de prueba"** en la copia publicada: sí o no. Hoy no lo tiene.
-- **Filtros sin TACC y kosher:** si se muestran antes de confirmar los lugares uno por uno.
-- **El nombre de la app.**
+- **El nombre de la app** (al 22/11, sin decidir).
 
 ## Otros documentos
 

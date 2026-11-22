@@ -461,7 +461,7 @@ Object.assign(window.I18N_FULL = window.I18N_FULL || {}, {
 "Cocina vietnamita vegana servida en cuencos chicos para compartir, frente a Boxhagener Platz.": "博克斯哈格纳广场对面的越南纯素料理，用小碗盛装，适合分享。",
 "Panadería y café orgánico 100 % sin gluten: panes, medialunas, tortas y sándwiches.": "100%无麸质的有机面包店兼咖啡馆：面包、可颂、蛋糕和三明治。",
 "Panadería donde todo se hornea sin gluten, a una cuadra de la Kurfürstendamm.": "所有东西都无麸质烘焙的面包店，离选帝侯大街一个街区。",
-"Panadería artesanal 100 % sin gluten en Friedrichshain, con panes de masa madre y facturas.": "弗里德里希斯海因的100%无麸质手工面包店，有酸种面包和酥皮点心。",
+"Panadería artesanal en Friedrichshain, con panes de masa madre y facturas.": "弗里德里希斯海因的手工面包店，有酸种面包和酥皮点心。",
 "Café japonés dedicado sin gluten, conocido por sus rollos de canela y sus dulces.": "专做无麸质的日式咖啡馆，以肉桂卷和甜点闻名。",
 "El speakeasy más famoso de Berlín: una puerta sin cartel, pocos lugares y cócteles clásicos hechos con una precisión obsesiva.": "柏林最有名的地下酒吧：没有招牌的门、座位很少，经典鸡尾酒调制得一丝不苟。",
 "Elegida mejor bar de Alemania: cócteles muy técnicos, de aspecto simple, en un local relajado de la Weserstraße.": "被评为德国最佳酒吧：看似简单却极具技术含量的鸡尾酒，位于韦泽大街一家轻松的小店。",
