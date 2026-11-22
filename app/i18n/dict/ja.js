@@ -840,6 +840,8 @@ window.I18N_FULL = {
 "Estadios y piletas": "スタジアムとプール",
 "Con opciones para": "対応メニュー",
 "Local 100 %": "100％",
+"Cerrado hoy": "本日休み",
+"Sin conexión: no pudimos traer la cotización.": "オフライン：為替レートを取得できませんでした。",
 "Armá tu viaje en 10 segundos": "10秒で旅程を作成",
 "Buenos Aires en 1 día": "1日で巡るブエノスアイレス",
 "3 días clásicos": "定番の3日間",

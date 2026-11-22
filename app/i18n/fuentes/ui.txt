@@ -898,3 +898,5 @@ En barco y en bici
 Estadios y piletas
 Con opciones para
 Local 100 %
+Cerrado hoy
+Sin conexión: no pudimos traer la cotización.

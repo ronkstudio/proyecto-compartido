@@ -898,3 +898,5 @@
 898|Stadi e piscine
 899|Con opzioni per
 900|Interamente
+901|Chiuso oggi
+902|Offline: non siamo riusciti a ottenere il cambio.

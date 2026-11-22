@@ -898,3 +898,5 @@
 898|Stadiums and pools
 899|With options for
 900|Fully
+901|Closed today
+902|Offline: we couldn't get the exchange rate.
