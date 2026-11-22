@@ -182,7 +182,7 @@ Object.assign(window.I18N_FULL = window.I18N_FULL || {}, {
 "Un parador sobre el Río de la Plata con windsurf, kitesurf, stand up paddle, palestra y skate.": "Ein Beachclub am Río de la Plata mit Windsurfen, Kitesurfen, Stand-up-Paddling, Kletterwand und Skatepark.",
 "Ver un partido, tomar una clase aunque nunca hayas montado y cerrar con un asado. Suele incluir traslado.": "Ein Spiel ansehen, auch ohne Reiterfahrung eine Stunde nehmen und mit Asado abschließen. Meist mit Transfer.",
 "Restaurante con cocina totalmente libre de gluten: pastas, pizzas, hamburguesas y pastelería que no parecen 'sin'.": "Ein Restaurant mit komplett glutenfreier Küche: Pasta, Pizza, Burger und Gebäck, die nicht nach „ohne“ schmecken.",
-"Panadería, café y almacén 100 % sin gluten, con varias sucursales.": "Eine 100 % glutenfreie Bäckerei, Café und Feinkostladen, mit mehreren Filialen.",
+"Panadería, café y almacén con varias sucursales.": "Bäckerei, Café und Feinkostladen mit mehreren Filialen.",
 "Pionero de la cocina vegetariana, vegana y sin gluten de la ciudad, con muchos platos crudos.": "Pionier der vegetarischen, veganen und glutenfreien Küche der Stadt, mit vielen Rohkostgerichten.",
 "Una parrilla porteña de barrio, pero todo vegano: 'choripán', 'vacío' y milanesas de seitán.": "Ein Grill wie im Viertel, aber alles vegan: „Choripán“, „Vacío“ und Milanesas aus Seitan.",
 "Una rareza mundial: un McDonald's kosher fuera de Israel, en el patio de comidas del Abasto.": "Eine weltweite Seltenheit: ein koscherer McDonald's außerhalb Israels, im Food-Court des Abasto.",

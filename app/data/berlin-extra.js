@@ -66,19 +66,19 @@ window.CITY_EXTRA.berlin = {
   /* Dietas (tarjeta #128). Solo con fuente, revisadas el 13 y 14/11/2026 (detalle en docs/fuentes-berlin.md):
      Cookies Cream (visitberlin.de), Bonvivant Cocktail Bistro (tasteandstories.de), Lucky Leek (guide.michelin.com),
      Brammibal's Donuts (visitberlin.de), Vöner (visitberlin.de), 1990 Vegan Living (top10berlin.de),
-     Jute Bäckerei (visitberlin.de), AERA (visitberlin.de), Brotquelle (how-to-coeliac.com), Oshione (smart-travelling.net)
+     Jute Bäckerei (visitberlin.de), AERA (visitberlin.de), Oshione (smart-travelling.net)
      Se sacó Cielo di Berlino: no es 100 % sin gluten y las fuentes para celíacos no coinciden. */
   diet: {
     "cookies-cream": ["vegetariano"], "bonvivant-cocktail-bistro": ["vegetariano"], "lucky-leek": ["vegano","vegetariano"],
     "brammibal-s-donuts": ["vegano","vegetariano"], "voner": ["vegano","vegetariano"], "1990-vegan-living": ["vegano","vegetariano"],
-    "jute-backerei": ["sin TACC"], "aera": ["sin TACC"], "brotquelle": ["sin TACC"], "oshione": ["sin TACC"],
+    "jute-backerei": ["sin TACC"], "aera": ["sin TACC"], "oshione": ["sin TACC"],
     /* Tarjeta #233 (20/11/2026): Chutnify, la mayoría de los platos sin gluten (visitBerlin); Café Vux, todo vegano (visitBerlin);
        Curry 61 y Maroush, con opciones veganas (OpenStreetMap, diet:vegan=yes). Detalle en docs/fuentes-berlin.md. */
     "chutnify": ["sin TACC"], "cafe-vux": ["vegano", "vegetariano"], "curry-61": ["vegano", "vegetariano"], "maroush": ["vegano", "vegetariano"]
   },
   dietFull: ["cafe-vux", 
     "cookies-cream", "bonvivant-cocktail-bistro", "lucky-leek", "brammibal-s-donuts", "voner", "1990-vegan-living", "jute-backerei",
-    "aera", "brotquelle", "oshione"
+    "aera", "oshione"
   ],
   /* Días que abren o cierran (0 = domingo … 6 = sábado), según el sitio de cada lugar; pueden cambiar en feriados. */
   only: {

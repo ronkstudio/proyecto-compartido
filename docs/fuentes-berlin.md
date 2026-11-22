@@ -416,6 +416,7 @@ Se cruzaron los 193 lugares de comida, noche y hospedaje de Berlín con OpenStre
 - **Se sacó Roamers** (Pannierstraße 64): no figura en OpenStreetMap, aparece como "cerrado definitivamente" en listados y su carta no se actualiza desde 2023.
 - **Siguen abiertos:** Manifesto Market (eventos en agosto y septiembre de 2026), KitKatClub (programa de otoño de 2026), Zum Schusterjungen y Adana Grillhaus (figuran en OpenStreetMap con otro nombre o a más distancia).
 - **Dudoso, se dejó con aviso en ESTADO:** Brotquelle (Gärtnerstraße 2, sin TACC). No hay anuncio de cierre, pero en la misma dirección figura Mecato, otro local sin gluten. Conviene que alguien lo confirme en persona o por teléfono.
+  - **22/11/2026 (tarjeta #240):** como no está confirmado, sigue en la guía como panadería, pero sin la etiqueta sin TACC. Si alguien lo confirma, se vuelve a poner.
 
 ## Dietas que dice el texto de la ficha (tarjeta #224, revisado el 20/11/2026)
 

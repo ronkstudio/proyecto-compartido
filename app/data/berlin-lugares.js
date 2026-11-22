@@ -186,7 +186,7 @@
     ["comer", "Vegetariano", "1990 Vegan Living", "Friedrichshain", "Krossener Straße 19", 2, "Cocina vietnamita vegana servida en cuencos chicos para compartir, frente a Boxhagener Platz.", "Pedí varias tapas al centro. Los fines de semana hay espera.", ["vegano","asiático","compartir"]],
     ["comer", "Sin TACC", "Jute Bäckerei", "Prenzlauer Berg", "Schönhauser Allee 52a", 2, "Panadería y café orgánico 100 % sin gluten: panes, medialunas, tortas y sándwiches.", "Andá temprano: lo más pedido se termina.", ["sin tacc","celíacos","panadería","café"]],
     ["comer", "Sin TACC", "AERA", "Charlottenburg", "Fasanenstraße 74", 2, "Panadería donde todo se hornea sin gluten, a una cuadra de la Kurfürstendamm.", "Llevate pan para el viaje: se conserva bien un par de días.", ["sin tacc","celíacos","panadería"]],
-    ["comer", "Sin TACC", "Brotquelle", "Friedrichshain", "Gärtnerstraße 2", 2, "Panadería artesanal 100 % sin gluten en Friedrichshain, con panes de masa madre y facturas.", "Los días de cierre varían según la fuente: fijate antes de ir.", ["sin tacc","celíacos","panadería"]],
+    ["comer", "Panadería y dulces", "Brotquelle", "Friedrichshain", "Gärtnerstraße 2", 2, "Panadería artesanal en Friedrichshain, con panes de masa madre y facturas.", "Los días de cierre varían según la fuente: fijate antes de ir.", ["panadería"]],
     ["comer", "Sin TACC", "Oshione", "Kreuzberg", "Katzbachstraße 25", 2, "Café japonés dedicado sin gluten, conocido por sus rollos de canela y sus dulces.", "Queda al lado del Viktoriapark. Confirmá los días de apertura antes de ir.", ["sin tacc","celíacos","dulce","café"]],
 
     /* ───────────── NOCHE ───────────── */

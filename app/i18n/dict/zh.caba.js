@@ -182,7 +182,7 @@ Object.assign(window.I18N_FULL = window.I18N_FULL || {}, {
 "Un parador sobre el Río de la Plata con windsurf, kitesurf, stand up paddle, palestra y skate.": "拉普拉塔河畔的海滩俱乐部，有帆板、风筝冲浪、站立式划桨、攀岩墙和滑板公园。",
 "Ver un partido, tomar una clase aunque nunca hayas montado y cerrar con un asado. Suele incluir traslado.": "看一场比赛，没骑过马也能上一节课，最后吃阿萨多烤肉。通常含接送。",
 "Restaurante con cocina totalmente libre de gluten: pastas, pizzas, hamburguesas y pastelería que no parecen 'sin'.": "厨房完全无麸质的餐厅：意面、披萨、汉堡和糕点，吃不出“无麸质”的感觉。",
-"Panadería, café y almacén 100 % sin gluten, con varias sucursales.": "100% 无麸质面包店、咖啡馆兼食品店，有多家分店。",
+"Panadería, café y almacén con varias sucursales.": "面包店、咖啡馆兼食品店，有多家分店。",
 "Pionero de la cocina vegetariana, vegana y sin gluten de la ciudad, con muchos platos crudos.": "城里素食、纯素和无麸质餐饮的先驱，有很多生食菜品。",
 "Una parrilla porteña de barrio, pero todo vegano: 'choripán', 'vacío' y milanesas de seitán.": "一家街区烤肉店，但全是纯素：用面筋做的“Choripán”“牛腩”和米兰炸肉排。",
 "Una rareza mundial: un McDonald's kosher fuera de Israel, en el patio de comidas del Abasto.": "世界罕见：以色列以外的犹太洁食麦当劳，在阿巴斯托美食广场。",

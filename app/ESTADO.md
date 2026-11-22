@@ -8,6 +8,7 @@ Este archivo se mantiene corto a propósito, porque se lee al empezar cada tarea
 
 ## Últimos cambios
 
+- 22/11 · #240 · Decisiones del 22/11 anotadas (quedan 8 idiomas, sin cartel por ahora, sin TACC solo confirmado); Brotquelle (Berlín) y La Unión (Buenos Aires) siguen, pero sin la etiqueta sin TACC.
 - 22/11 · #238 · Río de Janeiro ya no queda en el mar en el globo (los puntos de la costa suben con su continente) y los nombres que no entran a la derecha van a la izquierda; "El mapa necesita conexión" traducido.
 - 22/11 · #189 · Ninguna pantalla se sale del ancho a 320 px (alemán y castellano, 5 ciudades): se repuso el arreglo del 15/11, que se había perdido, y se sumaron emergencias y tarjetas de Explorar; "Cerrado hoy" y el aviso sin conexión de la cotización traducidos; aviso vencido de Buenos Aires borrado.
 - 20/11 · #235 · Los lugares sin foto muestran una escena dibujada de su tipo (café, bar, museo, mercado, playa…) en vez de un emoji (`js/ilustraciones.js`).
@@ -17,7 +18,6 @@ Este archivo se mantiene corto a propósito, porque se lee al empezar cada tarea
 - 20/11 · #225 · Ubicaciones: Andrés Carne de Res (Bogotá) en el mapa; en Río, Bar Lagoa y Cobal do Leblon reemplazan a dos lugares que no están en OpenStreetMap.
 - 20/11 · #223 · Consulados que faltaban: Colombia, México, Perú y Estados Unidos en Lisboa, Perú y Uruguay en Buenos Aires, Perú en Bogotá.
 - 20/11 · #224 · Sin horarios exactos en ninguna ciudad (21 textos, en los 8 idiomas); los datos de dieta tienen fuente o se sacaron.
-- 20/11 · #221 · Control de datos de las 11 ciudades (`zz-revisar.html`, no se publica); lo que encontró está en la tarjeta #221.
 
 ## Decidido
 
@@ -28,17 +28,16 @@ Este archivo se mantiene corto a propósito, porque se lee al empezar cada tarea
 - **Halal y kosher no son filtros** (Bautista, 13/11, #139). Los lugares kosher van por su tipo de cocina y la ficha lo dice.
 - **La guía arranca con el globo y la ruta de vuelo** (`ezebesserr`, 14/11, tarjetas #113 y #167). Quien ya eligió ciudad entra directo.
 - **La app tiene de todo, pero queda simple y poco cargada** (`ezebesserr`, 11/11).
-- **Muchos idiomas**, no dos o tres (`ezebesserr`, 11/11). Tarjetas #11 y #39.
+- **Quedan los 8 idiomas** (`ezebesserr`, 22/11). Tarjetas #11 y #240.
+- **Sin cartel de "versión de prueba" por ahora:** la guía no se va a difundir pronto (`ezebesserr`, 22/11, tarjeta #240).
+- **Sin TACC, solo lo confirmado:** si un lugar no está confirmado, se muestra igual pero sin la etiqueta (`ezebesserr`, 22/11, tarjeta #240).
 - **Variedad de planes armados** (`ezebesserr`, 11/11). Tarjeta #48.
 
 Las decisiones del proyecto y las que faltan están en el `README.md` de la carpeta principal.
 
 ## Para decidir entre Bautista y Besser
 
-1. **¿La copia publicada lleva cartel de "versión de prueba, datos sin verificar"?** Hoy no lo tiene.
-2. **¿Se muestran los filtros sin TACC** antes de confirmar los lugares uno por uno?
-3. **¿Qué idiomas siguen?** (tarjeta #11). Hoy están los 8 completos (castellano, inglés, portugués, francés, italiano, alemán, chino y japonés), traducidos por Claude y sin revisar por alguien que hable cada idioma.
-4. **El nombre de la app.** La app instalada en el celular, el título y la descripción todavía dicen "Guía de Buenos Aires" / "Guía BA" (`manifest.webmanifest` e `index.html`), aunque ya son 11 ciudades.
+1. **El nombre de la app** (al 22/11, sin decidir). La app instalada en el celular, el título y la descripción todavía dicen "Guía de Buenos Aires" / "Guía BA" (`manifest.webmanifest` e `index.html`), aunque ya son 11 ciudades.
 
 ## Las ciudades
 
@@ -47,7 +46,7 @@ Todas tienen la misma estructura: lugares en 9 categorías, mapa con puntos de a
 | Ciudad | Lugares | "Hoy" | Fuentes | Lo que le falta |
 |---|---|---|---|---|
 | Buenos Aires (`caba`) | 565 | Agenda oficial automática + agenda fija | `docs/fuentes-de-informacion.md` | Fotos de restaurantes, bares y hoteles; unas 45 ubicaciones aproximadas; el consulado general de Uruguay (va la embajada); no entró en la revisión de que sigan abiertos (#179) |
-| Berlín | 400 | Agenda oficial automática + agenda fija | `docs/fuentes-berlin.md` | Capas de zonas y límites de barrios en el mapa; fotos; confirmar Brotquelle (sin TACC) |
+| Berlín | 400 | Agenda oficial automática + agenda fija | `docs/fuentes-berlin.md` | Capas de zonas y límites de barrios en el mapa; fotos; confirmar Brotquelle para volver a ponerle sin TACC |
 | París | 249 | Agenda oficial automática + agenda fija | — | Capas de zonas; fotos; el pago con tarjeta en el metro sale de la prensa |
 | Roma | 245 | Agenda fija (no hay agenda oficial legible) | `docs/fuentes-roma.md` | Capas de zonas; fotos de comida y noche |
 | Madrid | 208 | Agenda oficial automática + agenda fija | `docs/fuentes-madrid.md` | Fotos; pocos sin TACC con fuente; revisar las horas gratis de los museos cada temporada |

@@ -182,7 +182,7 @@ Object.assign(window.I18N_FULL = window.I18N_FULL || {}, {
 "Un parador sobre el Río de la Plata con windsurf, kitesurf, stand up paddle, palestra y skate.": "ラ・プラタ川沿いのビーチクラブ。ウィンドサーフィン、カイトサーフィン、SUP、クライミングウォール、スケートパーク。",
 "Ver un partido, tomar una clase aunque nunca hayas montado y cerrar con un asado. Suele incluir traslado.": "試合を観戦し、未経験でもレッスンを受け、最後はアサードで締めくくり。送迎付きが一般的。",
 "Restaurante con cocina totalmente libre de gluten: pastas, pizzas, hamburguesas y pastelería que no parecen 'sin'.": "厨房が完全グルテンフリーのレストラン：「グルテンフリー」と感じさせないパスタ、ピザ、ハンバーガー、焼き菓子。",
-"Panadería, café y almacén 100 % sin gluten, con varias sucursales.": "100％グルテンフリーのベーカリー、カフェ、食料品店。複数の店舗あり。",
+"Panadería, café y almacén con varias sucursales.": "ベーカリー、カフェ、食料品店。複数の店舗あり。",
 "Pionero de la cocina vegetariana, vegana y sin gluten de la ciudad, con muchos platos crudos.": "市内のベジタリアン、ヴィーガン、グルテンフリー料理の草分け。ローフードの料理も多数。",
 "Una parrilla porteña de barrio, pero todo vegano: 'choripán', 'vacío' y milanesas de seitán.": "下町の肉料理店のようでいて、すべてヴィーガン：セイタンで作る「チョリパン」「バシオ」、ミラネサ。",
 "Una rareza mundial: un McDonald's kosher fuera de Israel, en el patio de comidas del Abasto.": "世界的にも珍しい、イスラエル国外のコーシャ・マクドナルド。アバストのフードコート内。",
