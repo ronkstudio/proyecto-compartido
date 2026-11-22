@@ -841,6 +841,8 @@ window.I18N_FULL = {
 "Estadios y piletas": "Stades et piscines",
 "Con opciones para": "Options",
 "Local 100 %": "Entièrement",
+"Cerrado hoy": "Fermé aujourd'hui",
+"Sin conexión: no pudimos traer la cotización.": "Hors ligne : impossible d'obtenir le taux de change.",
 "Armá tu viaje en 10 segundos": "Composez votre voyage en 10 secondes",
 "Buenos Aires en 1 día": "Buenos Aires en 1 jour",
 "3 días clásicos": "3 jours classiques",

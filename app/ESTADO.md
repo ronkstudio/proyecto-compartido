@@ -8,6 +8,7 @@ Este archivo se mantiene corto a propósito, porque se lee al empezar cada tarea
 
 ## Últimos cambios
 
+- 22/11 · #189 · Ninguna pantalla se sale del ancho a 320 px (alemán y castellano, 5 ciudades): se repuso el arreglo del 15/11, que se había perdido, y se sumaron emergencias y tarjetas de Explorar; "Cerrado hoy" y el aviso sin conexión de la cotización traducidos; aviso vencido de Buenos Aires borrado.
 - 20/11 · #235 · Los lugares sin foto muestran una escena dibujada de su tipo (café, bar, museo, mercado, playa…) en vez de un emoji (`js/ilustraciones.js`).
 - 20/11 · #233 · Ajustes finales de la revisión: íconos por tipo corregidos, dietas con fuente leída (Fatamorgana, Chutnify, Café Vux, Curry 61, Maroush) en la lista, fuentes de Río y Bogotá, fotos probadas a 500 px.
 - 20/11 · #226 · Portada nueva para los lugares sin foto (el dibujo de cada ciudad y el ícono del tipo de lugar), también cuando una foto no carga; foto de Chiado (Lisboa) arreglada.
@@ -17,7 +18,6 @@ Este archivo se mantiene corto a propósito, porque se lee al empezar cada tarea
 - 20/11 · #224 · Sin horarios exactos en ninguna ciudad (21 textos, en los 8 idiomas); los datos de dieta tienen fuente o se sacaron.
 - 20/11 · #221 · Control de datos de las 11 ciudades (`zz-revisar.html`, no se publica); lo que encontró está en la tarjeta #221.
 - 19/11 · #217 · Este archivo se achicó (el anterior está en `docs/historial.md`); `LEEME.md` al día; Claude suma a `main` sin preguntar.
-- 19/11 · #214 · Lisboa, décima ciudad.
 
 ## Decidido
 
@@ -84,7 +84,6 @@ La cantidad de lugares se contó el 19/11/2026 desde `data/` (lista `places` de 
 - **Fotos:** faltan sobre todo en restaurantes, bares y hoteles, que casi nunca tienen fotos libres. Sus fotos propias tienen derechos de autor: haría falta pedirles permiso a los locales. Mientras tanto, los que no tienen foto muestran una escena dibujada de su tipo de lugar sobre el dibujo de la ciudad (tarjetas #226 y #235).
 - **Que los lugares sigan abiertos:** OpenStreetMap confirma que el local existe, no que abra hoy. La ficha tiene el botón a Google Maps con horarios.
 - **Sin horarios reales ni puntajes de reseñas:** harían falta servicios pagos.
-- **Pantallas que se salen del ancho** en celulares chicos o en alemán (tarjeta #189).
 - **Mínimo de locales por tipo en cada zona turística** (tarjeta #45) y **más variedad de planes** (tarjeta #48).
 
 ## Publicar

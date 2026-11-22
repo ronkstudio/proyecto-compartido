@@ -840,6 +840,8 @@ window.I18N_FULL = {
 "Estadios y piletas": "Stadiums and pools",
 "Con opciones para": "With options for",
 "Local 100 %": "Fully",
+"Cerrado hoy": "Closed today",
+"Sin conexión: no pudimos traer la cotización.": "Offline: we couldn't get the exchange rate.",
 "Armá tu viaje en 10 segundos": "Build your trip in 10 seconds",
 "Buenos Aires en 1 día": "Buenos Aires in 1 day",
 "3 días clásicos": "3 classic days",

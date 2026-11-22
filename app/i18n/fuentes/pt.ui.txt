@@ -898,3 +898,5 @@
 898|Estádios e piscinas
 899|Com opções para
 900|100%
+901|Fechado hoje
+902|Sem conexão: não conseguimos obter a cotação.

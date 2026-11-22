@@ -898,3 +898,5 @@
 898|Stades et piscines
 899|Options
 900|Entièrement
+901|Fermé aujourd'hui
+902|Hors ligne : impossible d'obtenir le taux de change.
