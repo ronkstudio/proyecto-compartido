@@ -849,6 +849,8 @@ window.I18N_FULL = {
 "Local 100 %": "100%",
 "Cerrado hoy": "Fechado hoje",
 "Sin conexión: no pudimos traer la cotización.": "Sem conexão: não conseguimos obter a cotação.",
+"El mapa necesita conexión": "O mapa precisa de conexão",
+"Cuando tengas internet vas a poder verlo. Mientras tanto, la lista funciona sin conexión.": "Quando você tiver internet, vai poder vê-lo. Enquanto isso, a lista funciona sem conexão.",
 "Armá tu viaje en 10 segundos": "Monte sua viagem em 10 segundos",
 "Buenos Aires en 1 día": "Buenos Aires em 1 dia",
 "3 días clásicos": "3 dias clássicos",

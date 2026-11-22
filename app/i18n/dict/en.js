@@ -842,6 +842,8 @@ window.I18N_FULL = {
 "Local 100 %": "Fully",
 "Cerrado hoy": "Closed today",
 "Sin conexión: no pudimos traer la cotización.": "Offline: we couldn't get the exchange rate.",
+"El mapa necesita conexión": "The map needs a connection",
+"Cuando tengas internet vas a poder verlo. Mientras tanto, la lista funciona sin conexión.": "You'll be able to see it once you're online. Meanwhile, the list works offline.",
 "Armá tu viaje en 10 segundos": "Build your trip in 10 seconds",
 "Buenos Aires en 1 día": "Buenos Aires in 1 day",
 "3 días clásicos": "3 classic days",

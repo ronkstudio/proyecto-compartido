@@ -900,3 +900,5 @@
 900|Entièrement
 901|Fermé aujourd'hui
 902|Hors ligne : impossible d'obtenir le taux de change.
+903|La carte a besoin d'une connexion
+904|Vous pourrez la voir dès que vous aurez internet. En attendant, la liste fonctionne hors ligne.

@@ -842,6 +842,8 @@ window.I18N_FULL = {
 "Local 100 %": "100%",
 "Cerrado hoy": "今日休息",
 "Sin conexión: no pudimos traer la cotización.": "离线：无法获取汇率。",
+"El mapa necesita conexión": "地图需要网络连接",
+"Cuando tengas internet vas a poder verlo. Mientras tanto, la lista funciona sin conexión.": "联网后即可查看地图。在此期间，列表可离线使用。",
 "Armá tu viaje en 10 segundos": "10 秒规划你的行程",
 "Buenos Aires en 1 día": "一天玩转布宜诺斯艾利斯",
 "3 días clásicos": "经典三日游",

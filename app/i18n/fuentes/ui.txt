@@ -900,3 +900,5 @@ Con opciones para
 Local 100 %
 Cerrado hoy
 Sin conexión: no pudimos traer la cotización.
+El mapa necesita conexión
+Cuando tengas internet vas a poder verlo. Mientras tanto, la lista funciona sin conexión.

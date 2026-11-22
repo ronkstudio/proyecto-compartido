@@ -842,6 +842,8 @@ window.I18N_FULL = {
 "Local 100 %": "100％",
 "Cerrado hoy": "本日休み",
 "Sin conexión: no pudimos traer la cotización.": "オフライン：為替レートを取得できませんでした。",
+"El mapa necesita conexión": "地図にはネット接続が必要です",
+"Cuando tengas internet vas a poder verlo. Mientras tanto, la lista funciona sin conexión.": "インターネットにつながると表示されます。それまではリストをオフラインで使えます。",
 "Armá tu viaje en 10 segundos": "10秒で旅程を作成",
 "Buenos Aires en 1 día": "1日で巡るブエノスアイレス",
 "3 días clásicos": "定番の3日間",

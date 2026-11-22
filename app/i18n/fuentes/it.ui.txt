@@ -900,3 +900,5 @@
 900|Interamente
 901|Chiuso oggi
 902|Offline: non siamo riusciti a ottenere il cambio.
+903|La mappa ha bisogno di connessione
+904|Potrai vederla quando avrai internet. Nel frattempo, l'elenco funziona offline.

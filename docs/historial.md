@@ -226,3 +226,4 @@ Hasta el 13/11 estuvo en `ronkstudio/menu-3d-publico/guia-buenos-aires/`. Ese re
 - 18/11 · #199 · Ámsterdam, séptima ciudad.
 - 18/11 · #198 · Más fotos, dietas con fuente y traducciones que faltaban en varias ciudades.
 - 19/11 · #214 · Lisboa, décima ciudad.
+- 19/11 · #217 · Este archivo se achicó (el anterior está en `docs/historial.md`); `LEEME.md` al día; Claude suma a `main` sin preguntar.

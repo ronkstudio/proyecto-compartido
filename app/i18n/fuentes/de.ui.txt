@@ -900,3 +900,5 @@
 900|Komplett
 901|Heute geschlossen
 902|Offline: Der Wechselkurs konnte nicht geladen werden.
+903|Die Karte braucht eine Verbindung
+904|Sobald du Internet hast, kannst du sie sehen. Bis dahin funktioniert die Liste offline.

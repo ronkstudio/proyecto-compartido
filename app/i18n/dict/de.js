@@ -842,6 +842,8 @@ window.I18N_FULL = {
 "Local 100 %": "Komplett",
 "Cerrado hoy": "Heute geschlossen",
 "Sin conexión: no pudimos traer la cotización.": "Offline: Der Wechselkurs konnte nicht geladen werden.",
+"El mapa necesita conexión": "Die Karte braucht eine Verbindung",
+"Cuando tengas internet vas a poder verlo. Mientras tanto, la lista funciona sin conexión.": "Sobald du Internet hast, kannst du sie sehen. Bis dahin funktioniert die Liste offline.",
 "Armá tu viaje en 10 segundos": "Plane deine Reise in 10 Sekunden",
 "Buenos Aires en 1 día": "Buenos Aires an 1 Tag",
 "3 días clásicos": "3 klassische Tage",

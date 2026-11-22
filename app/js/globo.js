@@ -127,7 +127,14 @@
       { id: "NA", a: [-100, 45], grow: 0.75 }, { id: "SA", a: [-60, -16], grow: 0.9 }, { id: "EU", a: [20, 52], grow: 1.15 },
       { id: "AF", a: [19, 4], grow: 0.85 }, { id: "AS", a: [92, 44], grow: 0.65 }, { id: "OC", a: [138, -24], grow: 1.15 }
     ].map(c => Object.assign(c, { feature: { type: "Feature", geometry: { type: "MultiPolygon", coordinates: decode(DATA[c.id]) } }, k: 1, kv: 0, glow: 0, hov: 0 }));
-    const contDe = p => CONTS.find(c => d3.geoContains(c.feature, p)) || null;
+    /* Las ciudades de la costa (Río, Lisboa) pueden quedar apenas afuera del contorno simplificado: se busca el
+       continente más cercano, hasta unos 2° alrededor, para que el punto suba con su continente y no quede en el mar. */
+    const contDe = p => {
+      const en = q => CONTS.find(c => d3.geoContains(c.feature, q));
+      let c = en(p);
+      for (let r = 0.25; !c && r <= 2; r += 0.25) for (let g = 0; g < 360 && !c; g += 30) c = en([p[0] + r * Math.cos(g * RAD), p[1] + r * Math.sin(g * RAD)]);
+      return c || null;
+    };
 
     const CITIES = C.lista.map(c => ({ id: c.id, name: c.name, country: c.country, p: GEO[c.id], live: true }))
       .concat(PRONTO.filter(x => !C.lista.some(c => c.id === x.id)).map(x => ({ id: x.id, name: x.name, country: x.country, p: GEO[x.id], live: false })));
@@ -421,7 +428,10 @@
         }
         if (g > 0.05 || trip.dest === c) {
           ctx.globalAlpha = Math.max(trip.dest === c ? 1 : 0, Math.min(1, g * 1.3)); ctx.shadowColor = SPACE; ctx.shadowBlur = 6;
-          ctx.fillStyle = INK; ctx.fillText(nombre(c.name), x + 9, y);
+          ctx.fillStyle = INK;
+          const nom = nombre(c.name);   // si no entra a la derecha (Río en un celular), va a la izquierda del punto
+          if (x + 9 + ctx.measureText(nom).width > W - 8) { ctx.textAlign = "right"; ctx.fillText(nom, x - 9, y); ctx.textAlign = "left"; }
+          else ctx.fillText(nom, x + 9, y);
           ctx.shadowBlur = 0; ctx.globalAlpha = 1;
         }
       }

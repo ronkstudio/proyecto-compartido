@@ -900,3 +900,5 @@
 900|100%
 901|Fechado hoje
 902|Sem conexão: não conseguimos obter a cotação.
+903|O mapa precisa de conexão
+904|Quando você tiver internet, vai poder vê-lo. Enquanto isso, a lista funciona sem conexão.
