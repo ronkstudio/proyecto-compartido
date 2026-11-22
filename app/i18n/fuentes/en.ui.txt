@@ -900,3 +900,5 @@
 900|Fully
 901|Closed today
 902|Offline: we couldn't get the exchange rate.
+903|The map needs a connection
+904|You'll be able to see it once you're online. Meanwhile, the list works offline.

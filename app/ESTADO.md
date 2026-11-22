@@ -8,6 +8,7 @@ Este archivo se mantiene corto a propósito, porque se lee al empezar cada tarea
 
 ## Últimos cambios
 
+- 22/11 · #238 · Río de Janeiro ya no queda en el mar en el globo (los puntos de la costa suben con su continente) y los nombres que no entran a la derecha van a la izquierda; "El mapa necesita conexión" traducido.
 - 22/11 · #189 · Ninguna pantalla se sale del ancho a 320 px (alemán y castellano, 5 ciudades): se repuso el arreglo del 15/11, que se había perdido, y se sumaron emergencias y tarjetas de Explorar; "Cerrado hoy" y el aviso sin conexión de la cotización traducidos; aviso vencido de Buenos Aires borrado.
 - 20/11 · #235 · Los lugares sin foto muestran una escena dibujada de su tipo (café, bar, museo, mercado, playa…) en vez de un emoji (`js/ilustraciones.js`).
 - 20/11 · #233 · Ajustes finales de la revisión: íconos por tipo corregidos, dietas con fuente leída (Fatamorgana, Chutnify, Café Vux, Curry 61, Maroush) en la lista, fuentes de Río y Bogotá, fotos probadas a 500 px.
@@ -17,7 +18,6 @@ Este archivo se mantiene corto a propósito, porque se lee al empezar cada tarea
 - 20/11 · #223 · Consulados que faltaban: Colombia, México, Perú y Estados Unidos en Lisboa, Perú y Uruguay en Buenos Aires, Perú en Bogotá.
 - 20/11 · #224 · Sin horarios exactos en ninguna ciudad (21 textos, en los 8 idiomas); los datos de dieta tienen fuente o se sacaron.
 - 20/11 · #221 · Control de datos de las 11 ciudades (`zz-revisar.html`, no se publica); lo que encontró está en la tarjeta #221.
-- 19/11 · #217 · Este archivo se achicó (el anterior está en `docs/historial.md`); `LEEME.md` al día; Claude suma a `main` sin preguntar.
 
 ## Decidido
 
