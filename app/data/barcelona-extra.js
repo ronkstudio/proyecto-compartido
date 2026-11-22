@@ -174,6 +174,10 @@ window.CITY_EXTRA.barcelona = {
   /* Fotos (tarjeta #195): foto principal de cada lugar en Wikidata, de Wikimedia Commons con licencia libre,
      aceptada solo si el elemento de Wikidata está a menos de 1,5 km del lugar (15 km las excursiones). Revisadas el 18/11/2026; se sacaron 8 que mostraban otra cosa o no estaban claras. */
   photos: {
+    "fundacio-antoni-tapies": "4/44/Museu_Tàpies.jpg",
+    "basilica-de-santa-maria-del-pi": "d/d6/Basilique_Ste_Marie_Pin_Barcelone_6.jpg",
+    "el-call": "5/50/Call_de_Barcelona_Marlet.jpg",
+    "torre-glories": "e/e6/Torre_Agbar_-_Barcelona,_Spain_-_Jan_2007.jpg",
     "carretera-de-les-aigues": "3/39/Carretera_de_les_aigües.JPG",
     "barrio-de-la-barceloneta": "2/2b/Aerial_view_of_Barceloneta_Beach_and_Port_Vell_in_Barcelona,_Spain_(51226238126).jpg",
     "port-vell-y-rambla-de-mar": "4/40/Port_Vell_Bridge_(5844934930).jpg",
