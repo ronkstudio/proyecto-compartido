@@ -6,6 +6,7 @@
    el mismo nombre (en cualquier idioma, contando los otros nombres). R: 300 m para locales (comer, noche,
    dormir, compras), 800 m para el resto y 3 km para excursiones.
    Uso: NODE_USE_ENV_PROXY=1 node fotos3.js <entrada.tsv> <idioma local> > salida.tsv   (idioma: de, fr, it, pt, nl, ca, ja; es si no hay)
+   Si el servicio corta por tiempo (errores 504, pasa en Ámsterdam), sumá TANDA_CHICA=1 adelante.
    NODE_USE_ENV_PROXY=1 hace falta en las compus que salen a internet por un proxy.
    Entrada (la misma de fotos2.pl): id, nombre, cat, sub, dirección, lat, lon, tieneFoto(0/1).
    Salida (la misma de fotos2.pl, sirve para hoja.pl y meterfotos.pl): id, ruta, camino, título, nota.
@@ -38,7 +39,7 @@ const esLocal = p => /^(comer|noche|dormir|compras)$/.test(p.cat);
 const radio = p => esLocal(p) ? 300 : p.cat === "excursiones" ? 3000 : 800;
 // Fotos que no sirven de portada: mapas, planos, escudos, logos, placas, carteles.
 // Y fotos de estaciones para lugares que no son estaciones (la estación "Jardim Zoológico" no es el zoológico).
-const ESTACION = /(metro|station|estacao|estacion|bahnhof|u-bahn|s-bahn|subte|subway)/i;
+const ESTACION = /(metro|station|estacao|estacion|bahnhof|u-bahn|s-bahn|subte|subway|駅)/i;
 const MALA = /(map|mapa|karte|carte|plan|plano|logo|escudo|coat of arms|wappen|flag|bandera|placa|plaque|gedenktafel|schild|cartel|diagram|grundriss|seal|signature|firma)/i;
 
 (async () => {
@@ -50,7 +51,9 @@ const MALA = /(map|mapa|karte|carte|plan|plano|logo|escudo|coat of arms|wappen|f
   const porId = {}; L.forEach(p => { porId[p.id] = p; p.cands = []; });
   const idiomas = ["es", "en", "mul", process.argv[3] || "es"].map(l => '"' + l + '"').join(",");
   for (const R of [300, 800, 3000]) {
-    const grupo = L.filter(p => radio(p) === R), T = R === 300 ? 15 : R === 800 ? 8 : 4;
+    // Tandas más chicas con TANDA_CHICA=1, para ciudades donde el servicio corta por tiempo (504), como Ámsterdam.
+    const chica = process.env.TANDA_CHICA === "1";
+    const grupo = L.filter(p => radio(p) === R), T = R === 300 ? (chica ? 5 : 15) : R === 800 ? (chica ? 3 : 8) : (chica ? 2 : 4);
     for (let i = 0; i < grupo.length; i += T) {
       const tanda = grupo.slice(i, i + T);
       const vals = tanda.map(p => '("' + p.id + '" "Point(' + p.lon + " " + p.lat + ')"^^geo:wktLiteral)').join(" ");
