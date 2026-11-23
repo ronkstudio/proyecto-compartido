@@ -205,7 +205,6 @@ window.CITY_EXTRA.berlin = {
   /* Fotos (tarjeta #133, 14/11/2026): foto principal (P18) del elemento de Wikidata, de Wikimedia Commons con licencia libre,
      aceptada solo si su ubicación queda a menos de 1,5 km del lugar. Se probó que las 115 cargan. Se sacaron las que mostraban otra cosa. */
   photos: {
-
     "memorial-del-muro-visita-guiada": "5/5b/Berliner_Mauer,_Bernauer_Straße,_Berlin,_160326,_ako.jpg",
     "carcel-de-la-stasi-en-hohenschonhausen": "4/43/Berlin-Hohenschönhausen_-_Zellengang_imStasi-Gefängnis.jpg",
     "estadio-olimpico-visita-guiada": "4/4c/Berliner_Olympiastadion_innen.jpg",

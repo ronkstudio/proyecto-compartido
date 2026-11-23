@@ -238,7 +238,6 @@ window.CITY_EXTRA.caba = {
 
   /* Fotos: archivo de Wikimedia Commons (ruta dentro de /wikipedia/commons/). Con "!" adelante se usa el original sin redimensionar. */
   photos: {
-
     "experiencia-de-asado-y-clase-de-empanadas": "c/c0/Empanadas_argentinas_de_pollo_antes_de_freír_(Argentina).jpg",
     "ir-a-la-cancha-con-guia": "1/18/Boca_hinchada_bombonera.jpg",
     "vuelo-en-helicoptero-sobre-la-ciudad": "7/7c/Buenos_Aires_-_Vista_aérea_-_Puerto-Retiro-Av9Julio-2006.JPG",

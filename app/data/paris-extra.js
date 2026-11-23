@@ -159,7 +159,6 @@ window.CITY_EXTRA.paris = {
      Solo se aceptó si el elemento de Wikidata tiene su ubicación a menos de 1,5 km del lugar; se revisaron una por una
      y se sacó la que no era del lugar. Los lugares sin foto muestran la tarjeta con su nombre. */
   photos: {
-
     "batobus": "d/d3/Batobus_on_the_Seine.jpg",
     "canauxrama": "6/6b/Canauxrama,_Canal_Saint-Martin,_Paris_July_2014.jpg",
     "museo-de-las-cloacas": "f/f6/Galerie_Musée_des_égouts_de_Paris.jpg",

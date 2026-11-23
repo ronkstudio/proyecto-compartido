@@ -166,7 +166,6 @@ window.CITY_EXTRA.amsterdam = {
 
   /* Fotos: de Wikimedia Commons con licencia libre (ver docs/fuentes-amsterdam.md). */
   photos: {
-
     "paseo-en-barco-por-los-canales": "4/47/Rondvaartboot,_Zuiderkerk.jpg",
     "tour-en-bici-por-la-ciudad": "e/ef/Yellow_Bike_-_Bicycles_for_hire_(5822037808).jpg",
     "house-of-bols": "c/c2/House_of_Bols.JPG",
