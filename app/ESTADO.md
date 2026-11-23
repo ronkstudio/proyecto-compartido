@@ -8,6 +8,7 @@ Este archivo se mantiene corto a propósito, porque se lee al empezar cada tarea
 
 ## Últimos cambios
 
+- 23/11 · #244 · 404 fotos más, revisadas una por una (`herramientas/ciudad/fotos4.js` y búsquedas a mano con el nombre local): de 1.418 a 1.822 lugares con foto. Entre otras, el Reichstag, la Iglesia del Recuerdo, la Opéra Bastille, el Altar de la Patria y 63 de los 92 tours.
 - 22/11 · #242 · 259 fotos nuevas de Wikidata (`herramientas/ciudad/fotos3.js`), revisadas una por una: de 1.159 a 1.418 lugares con foto. Entre otras, Cristo Redentor y Torre de Belém, que no tenían.
 - 22/11 · #240 · Decisiones del 22/11 anotadas (quedan 8 idiomas, sin cartel por ahora, sin TACC solo confirmado); Brotquelle (Berlín) y La Unión (Buenos Aires) siguen, pero sin la etiqueta sin TACC.
 - 22/11 · #238 · Río de Janeiro ya no queda en el mar en el globo (los puntos de la costa suben con su continente) y los nombres que no entran a la derecha van a la izquierda; "El mapa necesita conexión" traducido.
@@ -17,7 +18,6 @@ Este archivo se mantiene corto a propósito, porque se lee al empezar cada tarea
 - 20/11 · #226 · Portada nueva para los lugares sin foto (el dibujo de cada ciudad y el ícono del tipo de lugar), también cuando una foto no carga; foto de Chiado (Lisboa) arreglada.
 - 20/11 · #227 · Recorrido automático de pantallas (`zz-recorrido.js`): sin errores ni enlaces rotos; se tradujeron "Con opciones para", "Local 100 %" y la noche de Lisboa, Río y Bogotá; lo que se sale del ancho quedó en #189.
 - 20/11 · #225 · Ubicaciones: Andrés Carne de Res (Bogotá) en el mapa; en Río, Bar Lagoa y Cobal do Leblon reemplazan a dos lugares que no están en OpenStreetMap.
-- 20/11 · #223 · Consulados que faltaban: Colombia, México, Perú y Estados Unidos en Lisboa, Perú y Uruguay en Buenos Aires, Perú en Bogotá.
 
 ## Decidido
 
@@ -55,7 +55,7 @@ Todas tienen la misma estructura: lugares en 9 categorías, mapa con puntos de a
 | Río de Janeiro | 152 | Agenda fija | `docs/fuentes-rio.md` | Fotos; fuente oficial de los días de samba de la Pedra do Sal |
 | Bogotá | 121 | Agenda fija | `docs/fuentes-bogota.md` | Fotos (casi no hay libres); ubicaciones por grilla aproximadas (~200 m); más embajadas |
 | Lisboa | 170 | Agenda fija | `docs/fuentes-lisboa.md` | Fotos; consulado de Uruguay (sin fuente oficial legible) |
-| Tokio | 217 | Agenda fija (torneos de sumo y cerezos) | `docs/fuentes-tokio.md` | Fotos de 93 lugares; ubicación aproximada de la embajada de Uruguay (se mudó en 2023) |
+| Tokio | 217 | Agenda fija (torneos de sumo y cerezos) | `docs/fuentes-tokio.md` | Fotos de 53 lugares; ubicación aproximada de la embajada de Uruguay (se mudó en 2023) |
 
 La cantidad de lugares se contó el 19/11/2026 desde `data/` (lista `places` de cada ciudad). Las agendas automáticas las baja `.github/workflows/publicar-guia.yml` dos veces por día con los scripts de `herramientas/`. Solo Buenos Aires tiene las 6 capas de zonas del mapa.
 
@@ -80,7 +80,7 @@ La cantidad de lugares se contó el 19/11/2026 desde `data/` (lista `places` de 
 ## Qué falta o está flojo en todas las ciudades
 
 - **Traducciones sin revisar** por alguien que hable cada idioma.
-- **Fotos:** 1.418 de los 2.727 lugares tienen foto (22/11, tarjeta #242). Faltan sobre todo en restaurantes (540), bares (214) y hoteles (129), que casi nunca tienen fotos libres, y en los tours (92), que no son un lugar fijo. Sus fotos propias tienen derechos de autor: haría falta pedirles permiso a los locales. Mientras tanto, los que no tienen foto muestran una escena dibujada de su tipo de lugar sobre el dibujo de la ciudad (tarjetas #226 y #235).
+- **Fotos:** 1.822 de los 2.727 lugares tienen foto (23/11, tarjeta #244). Faltan sobre todo en restaurantes (498), bares (179) y hoteles (112), que casi nunca tienen fotos libres, y en 29 tours que no son un lugar fijo (clases de cocina, visitas a pedido). Sus fotos propias tienen derechos de autor: haría falta pedirles permiso a los locales. Mientras tanto, los que no tienen foto muestran una escena dibujada de su tipo de lugar sobre el dibujo de la ciudad (tarjetas #226 y #235). Las fotos de menos de 960 px van con "!" adelante (la app usa la original).
 - **Que los lugares sigan abiertos:** OpenStreetMap confirma que el local existe, no que abra hoy. La ficha tiene el botón a Google Maps con horarios.
 - **Sin horarios reales ni puntajes de reseñas:** harían falta servicios pagos.
 - **Mínimo de locales por tipo en cada zona turística** (tarjeta #45) y **más variedad de planes** (tarjeta #48).
