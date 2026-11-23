@@ -238,6 +238,19 @@ window.CITY_EXTRA.caba = {
 
   /* Fotos: archivo de Wikimedia Commons (ruta dentro de /wikipedia/commons/). Con "!" adelante se usa el original sin redimensionar. */
   photos: {
+    "experiencia-de-asado-y-clase-de-empanadas": "c/c0/Empanadas_argentinas_de_pollo_antes_de_freír_(Argentina).jpg",
+    "ir-a-la-cancha-con-guia": "1/18/Boca_hinchada_bombonera.jpg",
+    "vuelo-en-helicoptero-sobre-la-ciudad": "7/7c/Buenos_Aires_-_Vista_aérea_-_Puerto-Retiro-Av9Julio-2006.JPG",
+    "tour-de-arte-urbano": "!b/bf/Mural_Lacroze_(GCBA)_Hiperrealista_(1).jpg",
+    "clase-de-tango-para-principiantes": "9/9f/Milonga,_Buenos_Aires.JPG",
+    "paseo-en-catamaran-por-el-delta": "0/02/Lanchas_colectivo_y_catamaranes_en_río_Tigre.JPG",
+    "museo-de-los-ninos": "1/18/Buenos_Aires_-_Avenida_Corrientes_-_Abasto_shopping.jpg",
+    "museo-del-humor": "3/3a/Museo_del_Humor_MUHU_Cervecería_Munich_01.JPG",
+    "lancha-colectiva-por-el-delta": "1/1a/Lanchas_colectivas.jpg",
+    "vuelo-en-globo-aerostatico": "!d/da/Amanecer_en_Luján_desde_un_Globo_Aerostático.jpg",
+    "dia-de-campo-en-una-estancia": "!6/64/Estancia_San_Vicente_-_panoramio.jpg",
+    "librerias-de-la-avenida-corrientes": "a/a7/Librería_Gandhi_Avenida_Corrientes.jpg",
+    "circuito-papal": "5/58/Basílica_de_San_José_de_Flores_vista_desde_la_plaza.JPG",
     "feria-de-plaza-francia": "4/47/Plaza_Francia,_Recoleta.jpg",
     "correr-en-los-bosques-de-palermo": "c/c1/Rosedal_de_Buenos_Aires.jpg",
     "vuelta-en-bici-por-puerto-madero-y-la-reserva": "7/78/J34_377_Dique_1,_Hochhäuser.jpg",
