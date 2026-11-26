@@ -28,5 +28,7 @@ window.GUIA_CIUDADES = [
   { id: "lisboa", name: "Lisboa", country: "Portugal", flag: "🇵🇹", letra: "Young+Serif",
     files: ["lisboa", "lisboa-coords", "lisboa-extra", "lisboa-zones", "lisboa-lugares", "lisboa-hoy", "lisboa-local"] },
   { id: "tokio", name: "Tokio", country: "Japón", flag: "🇯🇵", letra: "Shippori+Mincho+B1:wght@700;800",
-    files: ["tokio", "tokio-coords", "tokio-extra", "tokio-zones", "tokio-lugares", "tokio-hoy", "tokio-local"] }
+    files: ["tokio", "tokio-coords", "tokio-extra", "tokio-zones", "tokio-lugares", "tokio-hoy", "tokio-local"] },
+  { id: "pekin", name: "Pekín", country: "China", flag: "🇨🇳", letra: "Noto+Serif+SC:wght@600;700",
+    files: ["pekin", "pekin-coords", "pekin-extra", "pekin-zones", "pekin-lugares", "pekin-hoy", "pekin-local"] }
 ];
