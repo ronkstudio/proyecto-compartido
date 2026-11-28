@@ -77,6 +77,13 @@ html.intro-tapa body::after { content: ""; position: fixed; inset: 0; z-index: 3
 .intro[data-c="tokio"] .intro-nombre { letter-spacing: .04em; text-shadow: 0 0 6px #ff3d7f, 0 0 20px rgba(255, 61, 127, .75), 0 2px 18px rgba(0, 0, 0, .3); }
 .intro[data-c="tokio"] .intro-nombre span { animation-name: a-neon; animation-duration: .9s; animation-timing-function: linear; }
 .intro[data-c="tokio"].fuera { opacity: 1; transform: translateX(-110%) skewX(12deg); transition: transform .45s cubic-bezier(.6, 0, .9, .3); }
+/* Pekín: el nombre cae como un sello rojo de tinta y la intro se enrolla hacia arriba, como un rollo de pintura. */
+.intro[data-c="pekin"] .intro-nombre { margin-top: 10px; padding: 4px 20px 10px; background: #b3261e; color: #fff6df; border-radius: 6px;
+  box-shadow: inset 0 0 0 3px #fff6df, inset 0 0 0 7px #b3261e, 0 6px 20px rgba(0, 0, 0, .3); letter-spacing: .03em;
+  animation: intro-sello .55s cubic-bezier(.3, 1.5, .5, 1) .75s both; }
+.intro[data-c="pekin"] .intro-nombre span { animation: none; opacity: 1; }
+.intro[data-c="pekin"].fuera { opacity: 1; transform-origin: top center; transform: scaleY(0); transition: transform .5s cubic-bezier(.6, 0, .8, .3); }
+@keyframes intro-sello { from { opacity: 0; transform: scale(1.7) rotate(-7deg); } 70% { opacity: 1; transform: scale(.94) rotate(1deg); } to { opacity: 1; transform: none; } }
 .a-neon { animation: a-neon 1.1s linear both; }
 @keyframes a-neon { 0% { opacity: 0; } 25% { opacity: 1; } 33% { opacity: .15; } 42% { opacity: 1; } 55% { opacity: .4; } 65%, 100% { opacity: 1; } }
 @keyframes intro-letra-suave { from { opacity: 0; transform: translateY(.4em); } to { opacity: 1; transform: none; } }

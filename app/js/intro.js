@@ -91,7 +91,32 @@
         '<line x1="0" y1="276" x2="400" y2="276" stroke="rgba(255,255,255,.35)" stroke-width="2"/>' +
         '<g class="a-tren" style="' + D(.3) + '"><path d="M10 274C18 258 52 252 96 251H392V274Z" fill="#f4f6fb"/><rect x="70" y="266" width="322" height="4" fill="#1f4fbf"/>' +
         '<g fill="#1b1530"><path d="M44 262C54 256 70 255 86 255V261H44Z"/><rect x="104" y="256" width="12" height="6" rx="2"/><rect x="124" y="256" width="12" height="6" rx="2"/><rect x="144" y="256" width="12" height="6" rx="2"/>' +
-        '<rect x="164" y="256" width="12" height="6" rx="2"/><rect x="184" y="256" width="12" height="6" rx="2"/><rect x="204" y="256" width="12" height="6" rx="2"/><rect x="224" y="256" width="12" height="6" rx="2"/><rect x="244" y="256" width="12" height="6" rx="2"/></g></g>'; }
+        '<rect x="164" y="256" width="12" height="6" rx="2"/><rect x="184" y="256" width="12" height="6" rx="2"/><rect x="204" y="256" width="12" height="6" rx="2"/><rect x="224" y="256" width="12" height="6" rx="2"/><rect x="244" y="256" width="12" height="6" rx="2"/></g></g>'; },
+    /* Pekín (tarjeta #247): sol dorado, la puerta de Tiananmen que sube con sus techos amarillos, faroles rojos,
+       la Gran Muralla que se dibuja sobre las sierras y un barrilete que entra volando. */
+    pekin: () => {
+      const farol = (x, y, n) => '<g class="a-pop" style="' + D(.5, n) + '"><line x1="' + x + '" y1="0" x2="' + x + '" y2="' + (y - 18) + '" stroke="#f0b323" stroke-width="2"/>' +
+        '<rect x="' + (x - 9) + '" y="' + (y - 22) + '" width="18" height="5" rx="1" fill="#f0b323"/><ellipse cx="' + x + '" cy="' + y + '" rx="15" ry="18" fill="#d8281c"/>' +
+        '<path d="M' + (x - 7) + " " + (y - 16) + "Q" + (x - 12) + " " + y + " " + (x - 7) + " " + (y + 16) + "M" + (x + 7) + " " + (y - 16) + "Q" + (x + 12) + " " + y + " " + (x + 7) + " " + (y + 16) + '" fill="none" stroke="#8f1d12" stroke-width="1.5"/>' +
+        '<rect x="' + (x - 9) + '" y="' + (y + 16) + '" width="18" height="5" rx="1" fill="#f0b323"/><line x1="' + x + '" y1="' + (y + 21) + '" x2="' + x + '" y2="' + (y + 36) + '" stroke="#f0b323" stroke-width="2.5"/></g>';
+      let s = '<circle class="a-amanece" style="' + D(0) + '" cx="200" cy="92" r="48" fill="#f0b323" opacity=".9"/>';
+      s += '<path class="a-sube" style="' + D(.05) + '" d="M0 300V232Q60 192 120 222T240 210T400 224V300Z" fill="#2e0a08" opacity=".75"/>';
+      s += '<path class="a-draw" style="' + D(.2) + '" pathLength="1" d="M0 236Q60 198 120 226T240 214T400 228" fill="none" stroke="#e8cfa4" stroke-width="5" stroke-linecap="round"/>';
+      [[58, 205], [176, 214], [318, 211]].forEach((t, i) => { s += '<g class="a-pop" style="' + D(.55, i * .08) + '"><rect x="' + (t[0] - 9) + '" y="' + (t[1] - 14) + '" width="18" height="16" fill="#e8cfa4"/>' +
+        '<path d="M' + (t[0] - 9) + " " + (t[1] - 14) + "v-4h4v4h3v-4h4v4h3v-4h4v4" + '" fill="#e8cfa4"/></g>'; });
+      let puertas = ""; [134, 164, 194, 224, 254].forEach(x => { puertas += '<path d="M' + x + " 252V238a6 6 0 0 1 12 0V252Z" + '"/>'; });
+      s += '<g class="a-sube" style="' + D(.15) + '"><rect x="112" y="214" width="176" height="38" fill="#8f1d12"/><g fill="#2e0a08">' + puertas + "</g>" +
+        '<rect x="132" y="176" width="136" height="38" fill="#b3261e"/><g stroke="#7a1712" stroke-width="3">' +
+        [148, 168, 188, 212, 232, 252].map(x => '<line x1="' + x + '" y1="178" x2="' + x + '" y2="214"/>').join("") + "</g>" +
+        '<path d="M108 182Q124 172 140 170H260Q276 172 292 182L284 184H116Z" fill="#e8a823"/>' +
+        '<rect x="150" y="146" width="100" height="26" fill="#b3261e"/>' +
+        '<path d="M126 152Q144 140 160 137H240Q256 140 274 152L266 154H134Z" fill="#e8a823"/><rect x="164" y="128" width="72" height="10" rx="2" fill="#e8a823"/>' +
+        '<rect x="186" y="186" width="28" height="22" fill="#f6ead2"/><circle cx="200" cy="197" r="6" fill="#b3261e"/></g>';
+      s += farol(58, 74, 0) + farol(342, 74, .12) + farol(96, 46, .24);
+      s += '<g class="a-vuela" style="' + D(.4) + ';--fx:-160px;--fy:130px"><path d="M318 34L340 56L318 90L296 56Z" fill="#f0b323" stroke="#8f1d12" stroke-width="2"/>' +
+        '<path d="M296 56H340M318 34V90" stroke="#8f1d12" stroke-width="1.5"/><path d="M318 90q-8 14 0 24t0 26" fill="none" stroke="#d8281c" stroke-width="2.5" stroke-linecap="round"/></g>';
+      return s;
+    }
   };
 
   /* Figuras que salen al tocar la portada. */
@@ -108,10 +133,12 @@
     /* Lisboa: sardinas, por las Fiestas de Lisboa */
     lisboa: '<path d="M1 10Q8 3 15 9L19 5V15L15 11Q8 17 1 10Z" fill="#c9d6e8" stroke="#3b5c8f" stroke-width="1.2"/><circle cx="5" cy="9.3" r="1.1" fill="#0f2a5c"/>',
     /* Tokio: pétalos de cerezo */
-    tokio: '<path d="M10 19C4 15 2 9 5 4.5 7 2 9 3 10 5.5 11 3 13 2 15 4.5 18 9 16 15 10 19Z" fill="#ffc6d9" stroke="#ff7fa8" stroke-width="1"/>'
+    tokio: '<path d="M10 19C4 15 2 9 5 4.5 7 2 9 3 10 5.5 11 3 13 2 15 4.5 18 9 16 15 10 19Z" fill="#ffc6d9" stroke="#ff7fa8" stroke-width="1"/>',
+    /* Pekín: farolitos rojos que suben, como en la Fiesta de los Faroles */
+    pekin: '<rect x="6" y="1" width="8" height="2.5" rx="1" fill="#f0b323"/><ellipse cx="10" cy="10" rx="7" ry="7.5" fill="#d8281c"/><path d="M7 4Q4.5 10 7 16M13 4Q15.5 10 13 16" fill="none" stroke="#8f1d12" stroke-width="1"/><rect x="6" y="16.5" width="8" height="2.5" rx="1" fill="#f0b323"/>'
   };
   /* Cómo se mueven: "cae" (con gravedad, como monedas tiradas), "sube" (como burbujas) o "explota" (para todos lados). */
-  const MOV = { roma: "cae", rio: "sube", amsterdam: "cae", paris: "explota", madrid: "explota", berlin: "explota", caba: "explota", barcelona: "explota", bogota: "explota", lisboa: "cae", tokio: "cae" };
+  const MOV = { roma: "cae", rio: "sube", amsterdam: "cae", paris: "explota", madrid: "explota", berlin: "explota", caba: "explota", barcelona: "explota", bogota: "explota", lisboa: "cae", tokio: "cae", pekin: "sube" };
 
   const nombreCiudad = id => {
     const c = (window.GUIA_CIUDADES || []).find(x => x.id === id);
