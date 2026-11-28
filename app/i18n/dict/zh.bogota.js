@@ -277,7 +277,6 @@ Object.assign(window.I18N_FULL = window.I18N_FULL || {}, {
 "Temporada de cometas": "风筝季",
 "Los vientos de agosto llenan los parques de barriletes.": "八月的风让公园里飞满风筝。",
 "31 de octubre": "10月31日",
-"Halloween": "Halloween",
 "Los chicos salen disfrazados a pedir dulces por centros comerciales y barrios.": "孩子们穿上服装在购物中心和街区讨糖。",
 "Alumbrados y novenas": "圣诞灯饰和九日祈祷",
 "Luces de Navidad en parques y calles, y las novenas, nueve noches de rezos, villancicos y buñuelos antes del 24.": "公园和街道的圣诞灯饰，以及九日祈祷：24日前连续九晚祈祷、唱圣诞歌、吃炸面球。",

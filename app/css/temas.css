@@ -439,6 +439,46 @@
   }
 }
 
+/* Pekín: Los muros bermellón de la Ciudad Prohibida y sus puertas con clavos dorados, laca casi negra, el amarillo imperial
+   de los techos y el verde jade de las vigas pintadas; papel de arroz de fondo. Esquinas casi rectas, como los patios. Letra Noto Serif SC. */
+:root[data-ciudad="pekin"] {
+  --accent: #1f6a58;
+  --accent-ink: #ffffff;
+  --bg: #faf5ea;
+  --brand: #3a0c0a;
+  --hero-bg: linear-gradient(165deg, #2e0a08 0%, #6d150f 55%, #9a2a16 100%);
+  --hero-glow: radial-gradient(circle, rgba(240, 179, 35, .42), rgba(240, 179, 35, 0) 66%);
+  --hero-motif: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='30' height='30' viewBox='0 0 30 30'%3E%3Ccircle cx='15' cy='15' r='6' fill='%23fff'/%3E%3Ccircle cx='13' cy='13' r='2' fill='%23000' fill-opacity='.25'/%3E%3C/svg%3E");
+  --hero-motif-op: .13;
+  --hero-motif-size: 30px 30px;
+  --hero-shadow: rgba(58, 12, 10, .32);
+  --ink: #221a16;
+  --ink-2: #4a3f39;
+  --ink-3: #6b5d56;
+  --line: #e6dccb;
+  --radius: 2px;
+  --serif: "Noto Serif SC", "Songti SC", "SimSun", serif;
+  --shadow: 0 1px 0 rgba(58, 12, 10, .1), 0 6px 16px rgba(58, 12, 10, .1);
+  --sun: #f0b323;
+  --sun-ink: #3a1500;
+  --surface: #ffffff;
+  --surface-2: #f2e9d8;
+}
+@media (prefers-color-scheme: dark) {
+  :root[data-ciudad="pekin"] {
+    --accent: #6fcfb4;
+    --accent-ink: #062a21;
+    --bg: #120b09;
+    --brand: #0d0605;
+    --ink: #f5ede4;
+    --ink-2: #d2c5ba;
+    --ink-3: #a09186;
+    --line: #3a2723;
+    --surface: #1d1311;
+    --surface-2: #281a17;
+  }
+}
+
 /* Detalles propios de algunas ciudades */
 /* Buenos Aires: la letra fileteada viene en un solo grosor; no se inventa negrita. */
 :root[data-ciudad="caba"] { font-synthesis: none; }

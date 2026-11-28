@@ -277,7 +277,6 @@ Object.assign(window.I18N_FULL = window.I18N_FULL || {}, {
 "Temporada de cometas": "凧揚げの季節",
 "Los vientos de agosto llenan los parques de barriletes.": "8月の風で公園は凧でいっぱいに。",
 "31 de octubre": "10月31日",
-"Halloween": "Halloween",
 "Los chicos salen disfrazados a pedir dulces por centros comerciales y barrios.": "子どもたちが仮装してショッピングモールや街でお菓子をもらって回ります。",
 "Alumbrados y novenas": "イルミネーションとノベナ",
 "Luces de Navidad en parques y calles, y las novenas, nueve noches de rezos, villancicos y buñuelos antes del 24.": "公園や通りのクリスマスイルミネーションと、24日までの9夜にわたる祈り・キャロル・ブニュエロのノベナ。",

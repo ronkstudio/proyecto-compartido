@@ -1,6 +1,6 @@
 # La guía de viaje
 
-Esta carpeta es la app: una guía de viaje con 11 ciudades (Buenos Aires, Berlín, París, Roma, Madrid, Barcelona, Ámsterdam, Río de Janeiro, Bogotá, Lisboa y Tokio) en 8 idiomas. Es una página web hecha con HTML, CSS y JavaScript, sin programas extra, que también se instala en el celular y anda sin internet.
+Esta carpeta es la app: una guía de viaje con 12 ciudades (Buenos Aires, Berlín, París, Roma, Madrid, Barcelona, Ámsterdam, Río de Janeiro, Bogotá, Lisboa, Tokio y Pekín) en 8 idiomas. Es una página web hecha con HTML, CSS y JavaScript, sin programas extra, que también se instala en el celular y anda sin internet.
 
 Qué está hecho, qué falta y qué se decidió: [ESTADO.md](ESTADO.md). Leelo antes de cambiar algo.
 

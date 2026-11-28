@@ -1,0 +1,844 @@
+1|Palácios, templos, museus, parques e hutongs
+2|Pato laqueado, hot pot, macarrão e petiscos
+3|Cervejarias, coquetéis, música ao vivo e ópera
+4|Hutongs, barcos, tai chi e a Grande Muralha
+5|A Grande Muralha, os Túmulos Ming, Tianjin e Chengde
+6|Hostels, hotéis em casas de pátio e luxo
+7|Mercados, chá, seda e antiguidades
+8|Futebol, patinação no gelo e parques
+9|Ópera de Pequim, acrobacias e pandas
+10|Cidade Proibida e Tiananmen
+11|O centro do poder
+12|A Cidade Proibida, a praça Tiananmen, o Museu Nacional, o Grande Teatro e, atrás do palácio, a colina de Jingshan.
+13|O mais central, mas à noite fica tranquilo e há poucos hotéis.
+14|Qianmen e Templo do Céu
+15|A Pequim comercial de antigamente
+16|O portão de Qianmen, a rua Dashilan com suas lojas centenárias, Liulichang, a ópera de Pequim e o Templo do Céu com seu parque.
+17|Bem localizado e com hostels em casas de pátio.
+18|Lagos e hutongs
+19|Os lagos Houhai e Qianhai cercados de bares, o parque Beihai, a Mansão do Príncipe Gong e as torres do Tambor e do Sino.
+20|Bonito e com hotéis em casas de pátio; à noite, com música nos bares.
+21|Gulou e Templo dos Lamas
+22|Hutongs cheios de vida
+23|Nanluoguxiang, Wudaoying e as vielas ao redor, o Templo dos Lamas, o Templo de Confúcio e a rua da comida Gui Jie.
+24|A melhor zona para viver os hutongs, com cafés e bares.
+25|Wangfujing e Dongsi
+26|Compras e vielas
+27|A avenida para pedestres de Wangfujing, a catedral, o Museu de Arte e, ao norte, os hutongs ordenados de Dongsi.
+28|Muito central, com hotéis de todas as categorias e bom metrô.
+29|A noite internacional
+30|Taikoo Li, as embaixadas, o Estádio dos Trabalhadores, bares, baladas e restaurantes do mundo todo.
+31|Ideal para sair; fica longe dos hutongs.
+32|CBD e Ritan
+33|Arranha-céus e mercados
+34|As torres do centro financeiro, o prédio da CCTV, o parque Ritan, a Silk Street e o mercado de Panjiayuan.
+35|Hotéis de luxo e boas conexões de metrô.
+36|798 e Wangjing
+37|Arte em fábricas
+38|Os distritos de arte 798 e 751, em fábricas antigas, e as torres curvas de Wangjing SOHO.
+39|Para visitar; fica longe do centro.
+40|Parque Olímpico
+41|Os Jogos de 2008
+42|O Ninho de Pássaro, o Cubo d'Água, a Torre Olímpica, o Museu de Ciência e o grande Parque da Floresta Olímpica.
+43|Para visitar, sobretudo à noite com as luzes.
+44|Haidian e Palácio de Verão
+45|Jardins imperiais e universidades
+46|O Palácio de Verão, as ruínas do Antigo Palácio de Verão, as Colinas Perfumadas e as universidades de Pequim e Tsinghua.
+47|Longe do centro: melhor para passar o dia.
+48|Xidan e o oeste
+49|Templos e bairro muçulmano
+50|O Templo da Nuvem Branca, a rua Niujie com sua mesquita, o Museu da Capital, o zoológico com os pandas e os shoppings de Xidan.
+51|Menos turístico e bem conectado.
+52|Pequim em 1 dia
+53|Com a reserva e o passaporte.
+54|Ingresso comprado antes.
+55|A vista do palácio de cima.
+56|Pegue uma senha ao chegar.
+57|Pato laqueado.
+58|Dia 2 · o dia todo
+59|Saia cedo.
+60|Com as pessoas praticando tai chi.
+61|Um dia nos hutongs
+62|Templos, vielas, cafés e lagos, tudo a pé.
+63|Entre nas vielas laterais.
+64|Pequim grátis
+65|O melhor sem gastar com ingressos (quase tudo com reserva e passaporte).
+66|Amanhecer
+67|De fora, com as luzes.
+68|Os pandas, cedo.
+69|Acrobacias.
+70|Gucheng – Universal Resort
+71|Tian'anmen East e West (Cidade Proibida), Wangfujing, Xidan, Guomao, Military Museum e Universal Resort
+72|Qianmen, Dongzhimen (trem do aeroporto), Yonghegong Lama Temple, Gulou Dajie e a estação ferroviária de Pequim
+73|Dongsi Shitiao – Dongbabei
+74|Workers' Stadium (perto de Sanlitun), Tuanjiehu e Chaoyang Park
+75|Anheqiaobei – Tiangongyuan
+76|Beigongmen (Palácio de Verão), Yuanmingyuan Park, Beijing Zoo, Xidan, Caishikou e a estação Pequim Sul
+77|Tiantongyuan North – Songjiazhuang
+78|Yonghegong Lama Temple, Beixinqiao, Dongsi, Dengshikou, Dongdan e East Gate of Temple of Heaven
+79|Jin'anqiao – Luyang
+80|Beihai North, Nanluogu Xiang, Dongsi, Chaoyangmen e Dongdaqiao
+81|Beijing West Railway – Universal Resort
+82|A estação Pequim Oeste, Caishikou, Ciqikou, Happy Valley e Universal Resort
+83|Zhuxinzhuang – Yinghai
+84|Olympic Park, Gulou Dajie, Shichahai, Nanluogu Xiang, China Art Museum, Wangfujing, Qianmen e Tianqiao
+85|Guomao (CBD), Panjiayuan, Tuanjiehu e Agricultural Exhibition Center (Sanlitun), Liangmaqiao, Zhichun Lu e Caoqiao (trem para Daxing)
+86|Xizhimen – Dongzhimen
+87|Wudaokou (bairro universitário) e a volta pelo norte da cidade
+88|Zhangguozhuang – Shan'gezhuang
+89|Jiangtai (perto do 798), Wangjing, Chaoyang Park e a estação Pequim Sul
+90|Qinghua Donglu Xikou – Fengbo
+91|Olympic Park e Wangjing
+92|Beianhe – Wanpingcheng
+93|Wanpingcheng (Ponte Marco Polo), Yuyuantan Park East Gate e o oeste de Haidian
+94|Beixinqiao – Terminais 2 e 3
+95|Do aeroporto Capital até Sanyuanqiao, Dongzhimen e Beixinqiao, onde você faz conexão com o metrô
+96|Caoqiao – Aeroporto Daxing
+97|Do aeroporto Daxing até Caoqiao, onde você faz conexão com a linha 10
+98|Em todas as linhas do metrô de Pequim você passa a catraca encostando um cartão Visa, Mastercard, American Express, JCB ou UnionPay por aproximação. As máquinas de bilhetes também aceitam cartões estrangeiros.
+99|Alipay e WeChat
+100|Os dois apps de pagamento chineses aceitam cartões estrangeiros e servem para quase tudo: táxis, bicicletas, comida e ingressos. Instale e teste antes de viajar.
+101|Bilhetes avulsos
+102|Nas máquinas das estações se compra um bilhete de uma viagem: você escolhe a estação de destino e paga.
+103|Controles
+104|Em cada estação de metrô você passa a bolsa por um scanner, como em um aeroporto. Leve isso em conta se estiver com pressa.
+105|26 de novembro de 2026, com o site oficial do governo de Pequim. Se algo não coincidir, valem as placas do metrô.
+106|Metrô de Pequim
+107|Uma rede enorme
+108|Tem 29 linhas, com placas e avisos em chinês e inglês. Cada linha tem um número e uma cor.
+109|Conexões longas
+110|Nas estações grandes os corredores entre as linhas são longos: calcule tempo extra.
+111|De manhã cedo e na saída do trabalho os trens ficam lotados, sobretudo nas linhas 1, 4, 5 e 10.
+112|O metrô não funciona a noite toda. Se sair tarde, volte de táxi ou com DiDi.
+113|Trens-bala
+114|Pequim Sul vai para Tianjin e Xangai; Pequim Oeste, para Xi'an; Pequim Chaoyang, para Chengde; e Qinghe, para a Grande Muralha de Badaling.
+115|Passagens
+116|Compram-se com o passaporte, no site e no app oficial 12306 (em inglês) ou em agências como a Trip.com. No dia da viagem você entra passando o passaporte.
+117|Chegue antes
+118|As estações são enormes e há controle de segurança e de passaporte: chegue com tempo.
+119|Capital (PEK)
+120|Ao nordeste. O trem expresso sai dos terminais 3 e 2 e chega a Sanyuanqiao, Dongzhimen e Beixinqiao, onde você faz conexão com o metrô.
+121|Daxing (PKX)
+122|Ao sul, mais longe. O trem expresso chega a Caoqiao, no sul da cidade, onde você faz conexão com o metrô.
+123|Balcões de ajuda
+124|Na saída de desembarque internacional dos dois aeroportos ficam os balcões "Beijing Service": vendem chips de celular e ajudam a instalar os apps de pagamento.
+125|Pegue táxi só na fila oficial, nunca com alguém que oferece dentro do aeroporto.
+126|O app para pedir carros e táxis, em inglês e com cartão estrangeiro. Também funciona dentro do Alipay.
+127|Funcionam com taxímetro e são baratos. Quase nenhum taxista fala inglês: mostre o nome em chinês do lugar, que nesta guia está no endereço de cada ficha.
+128|Uber
+129|Não funciona na China.
+130|As avenidas são enormes e as travessias longas: calcule mais tempo do que o mapa indica. Os hutongs são o melhor lugar para caminhar.
+131|Há bicicletas de aluguel em cada esquina; são desbloqueadas escaneando o código com o Alipay.
+132|As motos elétricas são silenciosas e circulam pelas ciclovias e às vezes pela calçada: olhe sempre antes de atravessar.
+133|Acidentes de trânsito
+134|Linha de ajuda da cidade de Pequim, também em inglês e espanhol (não é para emergências)
+135|Uma cidade muito segura
+136|Pequim é muito segura para caminhar, inclusive à noite: há câmeras e policiais por todo lado.
+137|Mesmo assim, cuide do celular e da carteira no metrô e em lugares cheios.
+138|As linhas de emergência têm intérpretes gratuitos em outros idiomas.
+139|Golpes contra turistas
+140|O mais comum: jovens simpáticos que querem praticar inglês e convidam você para uma casa de chá ou uma galeria de arte. No final chega uma conta enorme. Diga não, com gentileza.
+141|Nos aeroportos e estações, pegue táxi só na fila oficial ou peça pelo DiDi.
+142|Nos mercados o primeiro preço pode ser muitas vezes o real: pechinche ou siga em frente.
+143|Ar e clima
+144|Alguns dias de inverno têm muita poluição: veja o índice de qualidade do ar (AQI) no app do clima e, se estiver alto, use máscara.
+145|Na primavera podem chegar tempestades de areia do norte.
+146|No verão faz muito calor e há tempestades fortes: beba muita água.
+147|Leve sempre o passaporte: pedem para entrar na praça Tiananmen, nos museus, nos trens e nos hotéis.
+148|Se você se hospedar em uma casa particular e não em hotel, precisa se registrar na delegacia do bairro em até 24 horas após chegar. Os hotéis fazem isso por você.
+149|Se roubarem ou você perder o passaporte, registre a ocorrência na polícia e vá à sua embaixada: em Info > Ajuda elas estão no mapa.
+150|Contrate um seguro-viagem: os hospitais com atendimento em inglês são caros.
+151|Para entrar na China
+152|Sem visto, por enquanto
+153|Os passaportes de Argentina, Brasil, Chile, Peru, Uruguai, Espanha, Itália, França e outros países podem entrar sem visto por até 30 dias, a turismo. A China anunciou essa regra até 31 de dezembro de 2026: se viajar depois, verifique se foi prorrogada.
+154|Trânsito de 240 horas
+155|Se você seguir viagem para um terceiro país, muitas nacionalidades podem ficar até 10 dias sem visto em Pequim, Tianjin e Hebei. Pede-se na chegada, com a passagem de saída.
+156|Outros países
+157|Se o seu país não está na lista, você precisa de visto: consulte a embaixada ou o consulado da China.
+158|Antes de voar
+159|Preencha o cartão de chegada pela internet no site oficial de imigração da China: economiza tempo no aeroporto.
+160|Yuan ou renminbi (CNY). Na rua é chamado de kuai.
+161|Paga-se com o celular
+162|Na China quase tudo se paga com Alipay ou WeChat Pay. Os dois aceitam cartões estrangeiros: cadastre o cartão no app antes de viajar.
+163|Os comércios são obrigados a aceitar notas, mas muitos não têm troco: leve notas pequenas.
+164|Os caixas eletrônicos dos grandes bancos, como Bank of China ou ICBC, aceitam cartões estrangeiros.
+165|Não se deixa gorjeta.
+166|Devolução de impostos
+167|Se gastar acima de um valor mínimo em uma mesma loja participante (placa “Tax Free”) no mesmo dia, pode receber o imposto de volta. Em algumas grandes lojas a devolução é na hora, com o passaporte.
+168|Internet e apps
+169|O que não funciona
+170|Com internet chinesa não funcionam Google (Maps, Gmail, Tradutor), WhatsApp, Instagram, Facebook nem YouTube.
+171|Seu chip ou um eSIM
+172|Com o roaming do seu país ou um eSIM de viagem comprado fora, em geral continuam funcionando. Com chip chinês ou o wifi do hotel, não.
+173|Mapas
+174|O Google Maps funciona mal na China: o mapa da Apple funciona bem no iPhone, e os apps chineses Amap e Baidu também.
+175|Instale antes
+176|Baixe Alipay, WeChat, DiDi e um tradutor antes de viajar, enquanto tudo funciona.
+177|Horários de Pequim
+178|Reservas com passaporte
+179|Quase todos os museus, palácios e a praça Tiananmen pedem reserva antecipada, em seu nome e com o número do passaporte.
+180|Segundas-feiras
+181|Muitos museus fecham às segundas, entre eles a Cidade Proibida e o Museu Nacional.
+182|Feriados chineses
+183|No Ano-Novo chinês e na primeira semana de outubro o país inteiro viaja: tudo lota e os ingressos esgotam.
+184|De setembro a outubro é a melhor época: céu limpo, temperatura agradável e árvores vermelhas e amarelas.
+185|Abril e maio são bonitos, com flores nos parques, embora possa haver vento e poeira.
+186|Muito quente e úmido, com tempestades fortes em julho e agosto.
+187|Muito frio e seco, abaixo de zero. Os lagos congelam e se patina; há menos turistas.
+188|220 V. As tomadas de três pinos em V são parecidas com as da Argentina e da Austrália, e muitas aceitam também dois pinos chatos ou redondos.
+189|A água da torneira não é potável: compre água ou ferva. Os hotéis têm chaleira elétrica.
+190|Fala-se chinês mandarim e pouca gente fala inglês. Cada ficha desta guia tem o nome do lugar em chinês, para mostrar.
+191|Banheiros
+192|Há banheiros públicos gratuitos por toda parte. Leve lenços de papel: muitos não têm.
+193|À mesa
+194|Os pratos são compartilhados no centro. Não espete os pauzinhos em pé no arroz.
+195|Chá e água quente
+196|Nos restaurantes servem chá ou água quente: é o normal.
+197|Filas e empurrões
+198|No metrô e em lugares cheios as pessoas empurram um pouco: não é falta de educação.
+199|Pato laqueado, jiaozi, zhajiangmian, hot pot de cordeiro, pãezinhos no vapor, espetinhos de cordeiro e iogurte em potinho de cerâmica.
+200|Fora de Pequim
+201|Passaporte de Pequim
+202|Marque os lugares que você conheceu e ganhe selos: palácios, templos, pato laqueado, hutongs, a Grande Muralha…
+203|Madrugada em Pequim
+204|🏮 Hutongs e noite
+205|Sem estação de metrô perto: melhor de táxi ou DiDi
+206|O que você procura? Pato laqueado, templos, hutongs, Grande Muralha…
+207|Ex.: Cidade Proibida, Templo do Céu, Palácio de Verão…
+208|Ex.: Wangfujing, Sanlitun, Qianmen…
+209|Ex.: Air China, Iberia, Air France…
+210|Pato laqueado
+211|Hutongs
+212|Yuan
+213|Valor em yuans
+214|Até o centro (praça Tiananmen)
+215|Do aeroporto Capital
+216|Do aeroporto Daxing
+217|Aeroporto Capital
+218|Trens da China (12306)
+219|Passagens de trem oficiais, com passaporte
+220|Carros e táxis por app
+221|Do aeroporto Capital, o trem expresso deixa você em Dongzhimen ou Beixinqiao, onde faz conexão com o metrô.
+222|Do aeroporto Daxing, o trem expresso vai até Caoqiao, no sul da cidade.
+223|Nos dois aeroportos, na saída do desembarque internacional, o balcão "Beijing Service" vende chips de celular e ajuda com os apps de pagamento.
+224|Pegue táxi só na fila oficial ou peça pelo DiDi: não aceite ofertas dentro do aeroporto.
+225|A maior operadora de celular da China
+226|Com chip chinês ou o wifi do hotel não funcionam Google, WhatsApp nem Instagram.
+227|O roaming da sua operadora ou um eSIM de viagem comprado antes de sair costuma manter todos os seus apps funcionando.
+228|Nos aeroportos há chips chineses para turistas: compram-se com o passaporte.
+229|Antes de viajar, instale Alipay e WeChat e cadastre seu cartão: na China quase tudo se paga com o celular.
+230|Leve algum dinheiro em notas pequenas, caso o app falhe.
+231|Se o caixa eletrônico ou a maquininha oferecer cobrar na sua moeda, escolha pagar em yuans.
+232|Metrô com o cartão do banco, DiDi e trens
+233|O transporte, no site oficial da cidade
+234|Passagens de trem oficiais
+235|No metrô você passa a catraca encostando seu cartão de crédito ou débito por aproximação: não precisa comprar bilhete.
+236|Para táxis e bicicletas compartilhadas, use DiDi ou Alipay.
+237|Metrô, trens-bala, aeroportos e DiDi
+238|Não compensa: na China a Permissão Internacional para Dirigir não vale e é preciso uma licença chinesa. Para sair da cidade, melhor trem, excursão ou carro com motorista.
+239|eHi
+240|Aluguel de carros (em chinês)
+241|CAR Inc
+242|A China não reconhece a Permissão Internacional para Dirigir: para dirigir é preciso uma licença temporária chinesa.
+243|Dirige-se pela direita, mas o trânsito é intenso e as motos elétricas aparecem por todo lado.
+244|Para a Grande Muralha e outras excursões, muitas agências oferecem carro com motorista por dia.
+245|Para pagar
+246|O app de pagamento usado em todo lugar. Aceita cartões estrangeiros e tem DiDi, bicicletas e ingressos dentro.
+247|com.eg.android.AlipayGphone
+248|Mensagens e pagamentos: quase todos os chineses usam.
+249|Para pedir carros e táxis, em inglês.
+250|Mapas e rotas de transporte que funcionam bem na China.
+251|Passagens de trem, hotéis e ingressos, em inglês.
+252|A qualidade do ar, para saber se convém usar máscara.
+253|Dicionário de chinês: traduz placas com a câmera.
+254|Governo de Pequim: notícias
+255|Mudanças no transporte e nas atrações.
+256|Interrupções, tempestades e fechamentos nas notícias do dia.
+257|⭐ Destaques da semana. Para mais programas, veja a agenda do Visit Beijing e a do Grande Teatro Nacional: confirme antes de ir.
+258|Visit Beijing: eventos (site oficial de turismo)
+259|Grande Teatro Nacional: programação
+260|Pequim tem dois aeroportos internacionais: Capital (PEK), ao nordeste e mais perto do centro, e Daxing (PKX), ao sul e mais longe. Veja em qual chega seu voo: muda como você vai ao hotel.
+261|Obrigado
+262|Quero isto (apontando)
+263|Quanto custa?
+264|É muito caro
+265|Sem pimenta, por favor
+266|🛬 Como chegar dos aeroportos Capital ou Daxing à sua hospedagem
+267|💳 Como pagar com Alipay, WeChat ou o cartão do banco no metrô
+268|📵 Quais apps não funcionam na China e como se preparar
+269|🛂 Quando você pode entrar sem visto
+270|Ajuda ao turista
+271|Hospitais com pronto-socorro
+272|Embaixadas
+273|Beijing Service · Aeroporto Capital, Terminal 3
+274|Na saída do desembarque internacional: chips de celular, ajuda com os apps de pagamento e ingressos.
+275|Beijing Service · Aeroporto Capital, Terminal 2
+276|Beijing Service · Aeroporto Daxing
+277|Fora da sala de bagagens dos voos internacionais: chips de celular, ajuda com os apps de pagamento e ingressos.
+278|Polícia de Tiananmen
+279|A delegacia da região da praça e da Cidade Proibida.
+280|Delegacia de Qianmen
+281|Perto da rua Qianmen e de Dashilan.
+282|Delegacia do Templo do Céu
+283|Ao norte do Templo do Céu.
+284|Delegacia de Andingmen
+285|Perto das torres do Tambor e do Sino e de Nanluoguxiang.
+286|Delegacia de Beixinqiao
+287|Perto do Templo dos Lamas e de Gui Jie.
+288|Delegacia de Sanlitun
+289|Na região dos bares e das embaixadas.
+290|Hospital Peking Union (PUMCH)
+291|Um dos hospitais mais reconhecidos da China, com pronto-socorro e um setor para estrangeiros. A poucos passos de Wangfujing.
+292|Hospital Tongren
+293|Hospital público com pronto-socorro, conhecido por oftalmologia e otorrinolaringologia.
+294|Hospital Chaoyang
+295|Hospital público com pronto-socorro, perto de Sanlitun e do CBD.
+296|Hospital do Povo da Universidade de Pequim
+297|Hospital público com pronto-socorro, no oeste da cidade.
+298|Hospital da Amizade China-Japão
+299|Hospital público com pronto-socorro e um setor internacional.
+300|Beijing United Family Hospital
+301|Hospital privado com atendimento em inglês. É caro: tenha o seguro-viagem à mão.
+302|Embaixada da Argentina
+303|Também atende os serviços consulares.
+304|Embaixada do Brasil
+305|Com setor consular.
+306|Embaixada do Chile
+307|Embaixada da Colômbia
+308|Embaixada da Espanha
+309|A seção consular fica a algumas quadras, na mesma região de embaixadas.
+310|Embaixada da Itália
+311|Com chancelaria consular.
+312|Embaixada do México
+313|Embaixada do Peru
+314|Embaixada do Uruguai
+315|No complexo diplomático de Liangmaqiao.
+316|Embaixada dos Estados Unidos
+317|Com seção consular.
+318|Aeroporto Capital · Terminal 3
+319|O trem expresso sai para Sanyuanqiao, Dongzhimen e Beixinqiao.
+320|Aeroporto Capital · Terminal 2
+321|O trem expresso também para aqui.
+322|O trem expresso vai até Caoqiao, onde você faz conexão com a linha 10.
+323|Estação de Pequim
+324|A estação histórica, no centro, com trens comuns e alguns rápidos.
+325|Estação Pequim Sul
+326|Trens-bala para Tianjin e Xangai. Metrô: linhas 4 e 14.
+327|Estação Pequim Oeste
+328|Trens-bala para Xi'an e o sul do país. Metrô: linhas 7 e 9.
+329|Estação Qinghe
+330|Trens-bala para a Grande Muralha de Badaling.
+331|Linha 12345
+332|A linha de ajuda da cidade, em 8 idiomas, entre eles inglês e espanhol. Não é para emergências.
+333|Guia oficial para visitantes
+334|O site em inglês do governo de Pequim, com pagamentos, transporte e trâmites.
+335|Farmácias perto, no mapa.
+336|Encontrar minha embaixada
+337|Procura embaixadas no mapa.
+338|Loja de conveniência 24 horas
+339|Comida de rua
+340|3 templos
+341|Templos e locais de culto
+342|2 casas de pato laqueado
+343|Paladar pequinês
+344|2 casas de comida de Pequim
+345|Cozinha de Pequim
+346|Andarilho dos becos
+347|3 lugares dos hutongs
+348|Sobre a Muralha
+349|Um trecho da Grande Muralha
+350|Grande Muralha
+351|Historiador
+352|2 museus
+353|Noite de ópera
+354|Uma apresentação de ópera de Pequim
+355|Pequinês honorário
+356|Passaporte com pelo menos 6 meses de validade e uma cópia no celular
+357|Verificar se o seu passaporte entra sem visto ou se precisa tirá-lo
+358|Preencher o cartão de chegada pela internet no site de imigração da China
+359|Instalar Alipay e WeChat e cadastrar o cartão
+360|Instalar DiDi, um mapa que funcione na China e um tradutor
+361|Comprar um eSIM de viagem ou ativar o roaming
+362|Reservar com o passaporte a Cidade Proibida, a praça Tiananmen e os museus
+363|Baixar esta guia antes de sair
+364|Passar no balcão "Beijing Service" do aeroporto se precisar de chip ou ajuda com os pagamentos
+365|Testar um pagamento pequeno com Alipay ou WeChat
+366|Sacar algum dinheiro em notas pequenas
+367|Ver a qualidade do ar do dia antes de sair
+368|Clássicos de Pequim
+369|Palácios imperiais
+370|Templos
+371|Comida de Pequim
+372|Hot pot
+373|A Grande Muralha
+374|Arte contemporânea
+375|Ópera e espetáculos
+376|Cidade Proibida, Qianmen e Wangfujing
+377|Hutongs e lagos
+378|Sanlitun e o CBD
+379|Parque Olímpico e 798
+380|O oeste: templos e pandas
+381|Hutongs, lagos e Sanlitun
+382|A maior festa da China: feiras nos templos e parques, como Ditan e a Nuvem Branca, lanternas vermelhas e fogos de artifício. Muita gente viaja e alguns comércios fecham.
+383|Festa das Lanternas
+384|O fim do Ano-Novo chinês, com lanternas acesas e bolinhas de arroz doces (yuanxiao).
+385|Pleno inverno
+386|Patinação nos lagos
+387|Os lagos de Shichahai e do Palácio de Verão congelam e se patina, também com trenós de cadeira.
+388|Flores de primavera
+389|Cerejeiras no parque Yuyuantan, tulipas no parque Zhongshan e lilases no Templo Fayuan.
+390|Primeiros dias de maio
+391|Feriado do Dia do Trabalho
+392|Vários dias de feriado no país todo: as atrações lotam e os ingressos esgotam.
+393|Festival do Barco-Dragão
+394|Comem-se zongzi, bolinhos de arroz embrulhados em folhas, e há corridas de barcos em alguns lagos.
+395|Lótus em flor
+396|Os lagos do Antigo Palácio de Verão, Beihai e Shichahai se enchem de flores de lótus.
+397|Setembro ou outubro
+398|Festival do Meio do Outono
+399|A festa da lua cheia: dão-se e comem-se bolos da lua.
+400|1 a 7 de outubro
+401|Semana Dourada
+402|O feriado nacional mais longo: Tiananmen é decorada com flores e o país inteiro viaja. Evite essas datas se puder.
+403|Outubro e novembro
+404|Folhas de outono
+405|As Colinas Perfumadas ficam vermelhas e os ginkgos de Ditan e Diaoyutai, amarelos.
+406|Comer na China
+407|Cardápios com fotos
+408|Muitos restaurantes têm cardápio com fotos ou um QR code para pedir pelo celular: apontar está tudo bem.
+409|Para compartilhar
+410|Os pratos são pedidos para o centro da mesa. Um por pessoa e um arroz bastam.
+411|Pimenta
+412|Se não quiser pimenta, diga "bú yào là" (sem pimenta).
+413|Não se deixa gorjeta. Paga-se no caixa ou escaneando o código da mesa.
+414|Ambulância: 120. As linhas de emergência têm intérpretes gratuitos.
+415|Hospitais
+416|Os hospitais grandes têm setores internacionais com atendimento em inglês. Em Info > Ajuda eles estão no mapa.
+417|Procure a placa 药店 (farmácia). Leve os remédios que você toma com a receita e a caixa original.
+418|Muito recomendável: nos hospitais para estrangeiros o atendimento é caro.
+419|Em cada ficha, o botão 'Avaliações, horários e fotos' abre o lugar no Google Maps com sua nota, avaliações, horários atualizados e fotos. Na China funciona com o roaming do seu país ou um eSIM de viagem.
+420|Hasteamento da bandeira em Tiananmen ao nascer do sol: é preciso reservar antes, com o passaporte
+421|A praça Tiananmen é decorada com flores para o Dia Nacional, 1º de outubro
+422|O palácio dos imperadores das dinastias Ming e Qing por quase 500 anos: pátios imensos, telhados amarelos e centenas de salões. Hoje é o Museu do Palácio.
+423|O ingresso se compra antes, pela internet e com o passaporte: esgota, sobretudo nas férias chinesas. Entra-se pelo sul (portão Meridiano) e sai-se pelo norte. Costuma fechar às segundas.
+424|Uma das maiores praças do mundo, com o portão de Tiananmen e o retrato de Mao, o Monumento aos Heróis do Povo e o Grande Salão do Povo.
+425|É grátis, mas é preciso reservar antes com o passaporte e passar pelo controle de segurança. Não leve isqueiros nem facas.
+426|O templo onde o imperador rezava por boas colheitas: o salão redondo de telhado azul, o Altar Circular e o Muro do Eco, dentro de um parque enorme.
+427|Vá cedo: o parque se enche de gente praticando tai chi, dançando, cantando e jogando cartas. Compre o ingresso que inclui os salões.
+428|O jardim de verão dos imperadores: o lago Kunming, a Colina da Longevidade, o Longo Corredor pintado e o barco de mármore.
+429|Reserve meio dia. Atravesse o lago de barco e suba à Torre do Incenso de Buda para a vista. No inverno se patina no lago.
+430|As duas torres que marcavam a hora da cidade, no fim do eixo central. Na do Tambor há toques de tambores várias vezes por dia.
+431|As escadas são muito íngremes. A pracinha entre as duas torres é ótima para observar a vida do bairro.
+432|O estádio dos Jogos Olímpicos de 2008, com sua trama de aço que parece um ninho. Também foi sede dos Jogos de Inverno de 2022.
+433|Visite ao entardecer, quando se ilumina junto com o Cubo d'Água. Dá para entrar com ingresso.
+434|O grande portão da muralha que fechava a praça Tiananmen ao sul, com sua torre de flechas em frente. Faz parte do Eixo Central de Pequim, Patrimônio da Humanidade.
+435|Do alto se vê a praça de um lado e a rua Qianmen do outro.
+436|A residência de príncipe mais bem conservada da dinastia Qing, com pátios, um teatro de madeira e um jardim com pedras e lagos.
+437|Entrada com reserva. Combine com um passeio pelos lagos de Houhai.
+438|O edifício no centro da praça onde se vê o corpo embalsamado de Mao Tsé-tung. A fila anda rápido e em silêncio.
+439|Abre só de manhã e em alguns dias: reserve antes com o passaporte. Não se entra com bolsas nem câmeras; há guarda-volumes em frente.
+440|O grande templo do budismo tibetano de Pequim, com fumaça de incenso, monges e um Buda de 18 metros esculpido em um único tronco de sândalo.
+441|Na entrada dão o incenso de presente. Dentro dos salões não se tiram fotos.
+442|O templo de Confúcio e, ao lado, a academia imperial, com ciprestes centenários e lápides com os nomes dos aprovados nos exames.
+443|Fica em frente ao Templo dos Lamas: visite os dois juntos.
+444|O templo taoísta mais importante de Pequim, com pátios coloridos, incenso e monges de cabelo comprido preso.
+445|Procure os macaquinhos de pedra esculpidos: tocá-los dá sorte. No Ano-Novo chinês há uma feira.
+446|A mesquita mais antiga de Pequim, com mais de mil anos e aparência de templo chinês, no bairro muçulmano da cidade.
+447|Use roupa que cubra ombros e joelhos. Na hora da oração só os fiéis podem entrar.
+448|Um templo taoísta com 76 salinhas que representam os escritórios do além, cheias de estátuas e plaquinhas vermelhas com desejos.
+449|Fica a poucos passos do metrô Chaoyangmen e quase nunca está cheio.
+450|O templo budista mais antigo dentro da cidade, com uma escola de monges e um pátio de lilases que florescem em abril.
+451|Um refúgio em um bairro de hutongs pouco turístico.
+452|Uma igreja católica de 1904 em plena avenida Wangfujing, erguida onde havia uma dos jesuítas do século XVII.
+453|A praça em frente é ponto de encontro e de fotos de noivos.
+454|A pagode branca mais antiga de Pequim, do século XIII, obra de um arquiteto nepalês, escondida entre as casas.
+455|Da calçada em frente se vê inteira; o templo é pequeno e tranquilo.
+456|Um dos maiores museus do mundo, ao lado de Tiananmen: bronzes, jades, cerâmica e a história da China desde a pré-história.
+457|É grátis, com reserva antes e o passaporte. Fecha às segundas. Escolha duas ou três salas: não dá para ver em um dia.
+458|A história de Pequim em um prédio moderno, com salas de porcelana, bronzes e a vida nos hutongs de antigamente.
+459|Grátis com reserva. Costuma fechar às segundas.
+460|O museu de arte chinesa moderna, com pintura a tinta, gravuras e mostras que mudam.
+461|Grátis com reserva. Fica perto dos hutongs de Dongsi.
+462|Tanques, aviões, mísseis e a história das guerras da China em um edifício enorme dos anos cinquenta.
+463|Grátis com reserva e passaporte.
+464|Um museu de ciência para tocar em tudo, com salas para crianças, um cinema de cúpula e a história das invenções chinesas.
+465|Reserve antes; nos fins de semana lota de famílias.
+466|Dinossauros, animais e uma sala sobre as origens da vida, em frente ao Templo do Céu.
+467|Grátis com reserva. Ideal com crianças e em dia de chuva.
+468|O centro de arte contemporânea mais importante da China, em uma antiga fábrica do distrito 798.
+469|Veja qual exposição está em cartaz antes de ir. A loja tem design chinês muito bonito.
+470|Parque e jardim
+471|A colina que fica atrás da Cidade Proibida, feita com a terra do fosso. Do pavilhão do alto se vê todo o palácio.
+472|Suba ao sair da Cidade Proibida, que termina bem em frente. Ao entardecer a vista é a melhor.
+473|Um dos jardins imperiais mais antigos da China: um lago com barcos, uma ilha com um pagode branco e o Muro dos Nove Dragões.
+474|Alugue um barquinho a pedal. Da saída norte se chega a pé a Houhai.
+475|O parque do Altar do Sol, tranquilo e cheio de árvores, no bairro das embaixadas.
+476|De manhã se veem grupos de dança e gente jogando jianzi, uma peteca que se chuta.
+477|O antigo altar da Terra e dos Grãos, colado à Cidade Proibida, com ciprestes antigos e, em abril, milhares de tulipas.
+478|Uma forma tranquila de sair da multidão de Tiananmen.
+479|O que restou de um enorme palácio com edifícios em estilo europeu, saqueado e incendiado em 1860. Hoje é um parque de lagos e ruínas.
+480|As ruínas de pedra ficam no setor dos palácios ocidentais (Xiyanglou). No verão florescem os lótus.
+481|Um parque de montanha a oeste da cidade, famoso pelas árvores vermelhas no outono, com trilhas, templos e um teleférico.
+482|Outubro e o início de novembro são a melhor época, mas também a mais cheia. Leve tênis.
+483|outono
+484|O parque do Altar da Terra, com bosques de ginkgos que ficam amarelos no outono e uma grande feira no Ano-Novo chinês.
+485|Fica a poucos passos do Templo dos Lamas.
+486|O hutong mais famoso: uma ruazinha de 700 anos cheia de lojas, doces e cafés, com vielas laterais bem mais tranquilas.
+487|Fica muito cheio. Entre nas vielas laterais, como Mao'er ou Ju'er, para ver casas de pátio de verdade.
+488|Um hutong cheio de cafés, barzinhos com terraço e lojas de design, a uma quadra do Templo dos Lamas.
+489|Ideal para um café depois do templo.
+490|Três lagos unidos (Qianhai, Houhai e Xihai) cercados de salgueiros, hutongs e bares, com a ponte Yinding e a ruazinha dos cachimbos (Yandai Xiejie).
+491|Caminhe ao redor do lago ao entardecer. No inverno congela e se patina.
+492|A antiga rua comercial ao sul de Tiananmen, com lojas de mais de cem anos: sedas, sapatos de tecido, chá e medicina chinesa.
+493|Siga para o oeste pela Dashilan Xijie e as vielas ao redor, menos turísticas.
+494|Uma rua com arcos de madeira pintados e árvores enormes, entre o Templo de Confúcio e os hutongs.
+495|Caminhe sem pressa: é uma das mais bonitas da cidade.
+496|Uma casa de pátio transformada em museu sobre a vida nos hutongs: fotos, maquetes e os sons de antigamente.
+497|Grátis. Combine com um passeio pelos hutongs de Dongsi.
+498|Fábricas dos anos cinquenta, de design alemão, transformadas em galerias, cafés e lojas de arte.
+499|Muitas galerias fecham às segundas. Vá com tempo para se perder.
+500|A antiga usina de gás ao lado do 798, com tanques gigantes, tubulações e uma locomotiva a vapor transformados em espaços de design e moda.
+501|Visita-se grátis; combine com o 798.
+502|Arquitetura e mirantes
+503|A sede da televisão chinesa, de Rem Koolhaas: duas torres inclinadas que se unem no alto. Os pequineses a chamam de "as calças".
+504|Não se visita por dentro; a melhor foto é do parque em frente.
+505|Quatro edifícios arredondados de Zaha Hadid unidos por pontes, como ondas brancas.
+506|Dá para entrar no pátio e nas lojas de baixo.
+507|Três torres curvas de Zaha Hadid que parecem montanhas prateadas.
+508|Fica perto do 798: combine os dois.
+509|O centro de natação de 2008, com sua fachada de bolhas, que em 2022 virou pista de curling: o "Cubo de Gelo".
+510|À noite muda de cor, em frente ao Ninho de Pássaro.
+511|Uma torre de cinco hastes com um mirante no alto, para ver o Parque Olímpico inteiro e, em dias claros, as montanhas.
+512|Escolha um dia sem smog.
+513|Uma das casas de pato laqueado mais queridas pelos pequineses, com uma unidade a poucos passos da Cidade Proibida.
+514|Sempre tem fila: pegue senha ao chegar ou vá cedo. Peça meio pato se forem dois.
+515|O pato laqueado moderno, com a pele crocante e pouca gordura, em um restaurante elegante.
+516|Reserve. O cardápio é enorme e tem fotos.
+517|A unidade original da casa de pato laqueado mais famosa, aberta em 1864, com os fornos à vista.
+518|Mais turístico que outros, mas tem história.
+519|A casa de pato mais antiga de Pequim, da época Ming, que faz o pato em forno fechado, sem fogo à vista.
+520|Compare com o do Quanjude: o estilo é diferente.
+521|Um restaurante familiar de pato laqueado escondido em uma casa de pátio dos hutongs de Qianmen.
+522|É pequeno: reserve. Siga as placas pelas vielas.
+523|Uma casa de petiscos tradicionais de Pequim: doces de ervilha, bolinhos de arroz recheados, pães no vapor e o famoso douzhi, uma bebida azeda de feijão.
+524|Escolhe-se olhando a vitrine e paga-se no caixa. O douzhi é para os corajosos.
+525|Um restaurante de bairro famoso pelo chaogan, um ensopado grosso de fígado, e pelos pãezinhos no vapor.
+526|Coma ali mesmo, nas mesas compartilhadas, como os vizinhos.
+527|Uma casa centenária de baodu: bucho fervido por alguns segundos e mergulhado em molho de gergelim.
+528|Se não se animar com o bucho, peça os pães de gergelim.
+529|Cozinha imperial em um salão dentro do parque Beihai, com receitas da corte dos Qing e os doces que a imperatriz comia.
+530|Combine com o passeio pelo parque. Reserve.
+531|Um pátio onde se juntaram várias casas de petiscos tradicionais de Pequim: tofu, frituras, pães e doces.
+532|Paga-se com um cartão que você carrega na entrada.
+533|A casa de hot pot de cordeiro mais famosa de Pequim, aberta em 1903: fatias finas de cordeiro cozidas em um caldo fervente.
+534|Peça o molho de gergelim para molhar.
+535|hot pot
+536|Hot pot de cordeiro halal no bairro muçulmano, com uma fila longa de pequineses na porta.
+537|Ao lado vendem os pães de gergelim para levar.
+538|Hot pot à moda antiga, em panelas de cobre com carvão no meio, à beira do lago Qianhai.
+539|Ideal no inverno, depois de patinar no lago.
+540|A rede de hot pot picante de Sichuan famosa pelo atendimento: trazem de tudo enquanto você espera e há um show de macarrão puxado à mão.
+541|Peça o caldo dividido em dois: um picante e um suave.
+542|Macarrão e pastéis chineses
+543|Uma casinha de jiaozi, os pastéis chineses cozidos, em um hutong perto da Torre do Tambor, com cardápio em inglês e recheios à escolha.
+544|Pedem-se por prato de várias unidades: prove dois ou três recheios.
+545|Um restaurante de jiaozi caseiros com muitíssimos recheios, a poucos passos do Templo dos Lamas.
+546|Prove os de porco com erva-doce.
+547|Macarrão zhajiangmian, o prato mais pequinês: macarrão grosso com molho de feijão fermentado e verduras cruas.
+548|Misture tudo bem antes de comer.
+549|Uma casinha de zhajiangmian em um hutong perto de Nanluoguxiang, com fila de vizinhos na hora do almoço.
+550|Peça o prato grande para compartilhar e misture tudo bem.
+551|Cozinhas da China
+552|Cozinha de Yunnan, no sudoeste da China: cogumelos, ervas frescas e pimenta suave, em um prédio histórico.
+553|Bom para jantar depois de passear por Qianmen.
+554|Cozinha de Yunnan com menu fixo, em uma casa de pátio iluminada com lanternas.
+555|Reserve e deixe-se levar pelo menu do dia.
+556|O restaurante do escritório do governo de Sichuan em Pequim: comida picante de verdade, com pimenta que adormece a boca.
+557|Peça o frango kung pao e o tofu mapo. Se não gosta de pimenta, avise.
+558|Comida uigur de Xinjiang: espetinhos de cordeiro com cominho, pães assados e macarrão puxado à mão.
+559|É halal e não serve porco.
+560|Alta cozinha vegetariana em uma casa de pátio em frente ao Templo dos Lamas, com estrelas Michelin.
+561|Reserve com antecedência. Há menu degustação.
+562|Cozinha francesa autoral em uma casa de pátio restaurada dos hutongs, com estrelas Michelin.
+563|Reserve. O pátio é o melhor na primavera e no outono.
+564|Pato laqueado de luxo com toques franceses, em um complexo de antigas fábricas de tijolos ao lado do Estádio dos Trabalhadores.
+565|Reserve e peça o pato inteiro para compartilhar.
+566|Pato laqueado e cozinha cantonesa no subsolo do hotel The Opposite House, com design muito cuidado.
+567|Boa opção para provar o pato com mais calma.
+568|A rua da comida, com um quilômetro de restaurantes iluminados com lanternas vermelhas, abertos até muito tarde. O prato estrela é o lagostim picante.
+569|Hu Da é o mais famoso; é preciso esperar.
+570|Um beco de barracas com petiscos e espetinhos de toda a China, ao lado da avenida Wangfujing.
+571|É muito turístico: venha olhar e prove algo pequeno.
+572|A rua do bairro muçulmano, com padarias, açougues halal e barracas de doces e petiscos.
+573|Prove os doces da casa Baiji e os pães de gergelim.
+574|Uma ruazinha de hutong com casas de petiscos, teatros e armazéns de bairro, perto de Houhai.
+575|Combine com a casa de Mei Lanfang, o grande ator da ópera de Pequim.
+576|Café e doces
+577|Um café de especialidade pequenininho em um hutong, um dos que tornaram conhecido o café de Pequim.
+578|Peça um coado com grão de Yunnan.
+579|Sobremesas de coalhada à moda da corte imperial, frias e suaves, no bairro de Niujie.
+580|Combine com a mesquita e a rua Niujie.
+581|A confeitaria tradicional de Pequim: docinhos recheados, bolos da lua e doces da época imperial.
+582|As caixinhas sortidas são o presente típico de Pequim.
+583|Uma livraria enorme com café e janelões voltados para o portão de Qianmen.
+584|Há livros em inglês e cadernos chineses lindos.
+585|Cerveja artesanal
+586|A primeira cervejaria artesanal de Pequim, em um pátio escondido de um hutong, com cervejas feitas com chá e pimenta de Sichuan.
+587|É difícil de encontrar: procure o número 6 do beco.
+588|Cervejaria pequinesa com muitas torneiras e comida, conhecida pelas cervejas com ingredientes chineses.
+589|Boas hambúrgueres para acompanhar.
+590|Cervejaria com terraço às margens do rio Liangma, na região das embaixadas.
+591|No verão, o terraço junto à água.
+592|Uma cervejaria pequinesa com cervejas suaves e fortes, em um local grande perto de Nanluoguxiang.
+593|Para fechar o dia depois dos hutongs.
+594|Um bar dedicado ao baijiu, a aguardente chinesa, com degustações guiadas em um hutong.
+595|Peça a degustação de três: o baijiu é forte e estranho no início.
+596|Um bar de coquetéis clássico de Sanlitun, com balcão de madeira e drinques autorais.
+597|Lota nos fins de semana: chegue cedo.
+598|Um barzinho de uísque e coquetéis ao estilo japonês, com atendimento muito cuidadoso.
+599|Ideal para poucas pessoas e conversa tranquila.
+600|O bar do 80º andar de um hotel da torre China World, com a cidade iluminada a seus pés.
+601|Reserve uma mesa junto à janela e vá ao entardecer.
+602|Um bar de rock e punk pequeno e suado, onde tocam as bandas novas de Pequim.
+603|Veja a agenda nas redes deles antes de ir.
+604|Uma casa de shows cult, em um prédio histórico, com bandas chinesas e estrangeiras.
+605|Os ingressos são vendidos na porta ou antecipados, conforme o show.
+606|Jazz ao vivo em um primeiro andar com janelões sobre o lago Qianhai.
+607|Chegue cedo para uma mesa junto à janela.
+608|Uma casa de chá tradicional com shows de ópera de Pequim, acrobacias, troca de máscaras e música chinesa enquanto você toma chá.
+609|Reserve o show da noite. É turístico, mas muito completo.
+610|Zona de bares
+611|O bairro da noite internacional, com o shopping Taikoo Li, bares, terraços e baladas.
+612|Ignore quem oferece para você entrar em bares na rua.
+613|Bares com música ao vivo e terraços à beira do lago, com lanterninhas e barcos.
+614|Veja os preços antes de pedir: há bares caros para turistas.
+615|As grandes baladas de Pequim, ao redor do novo Estádio dos Trabalhadores.
+616|A noite começa muito tarde.
+617|A avenida que sai da Torre do Tambor, com barzinhos, lojas de instrumentos e cervejarias nos hutongs ao redor.
+618|Mais tranquilo e barato que Sanlitun.
+619|Um passeio de bicicleta com carrinho pelas vielas de Shichahai, com paradas em uma casa de família.
+620|Contrate nas agências oficiais e combine o preço total antes de subir.
+621|Barcos que atravessam o lago do Palácio de Verão, entre o barco de mármore e a ponte dos dezessete arcos.
+622|Poupa caminhada: atravesse de barco e volte a pé pelo Longo Corredor.
+623|O caminho pela água que a imperatriz fazia: um barco que vai pelo rio Changhe do zoológico até o Palácio de Verão.
+624|Funciona na temporada quente; verifique antes se está operando.
+625|As bicicletas compartilhadas são desbloqueadas com o celular e são a forma mais pequinesa de percorrer os hutongs.
+626|São ativadas pelo Alipay ou WeChat. Use capacete se puder e cuidado com as motos elétricas silenciosas.
+627|A cerimônia do amanhecer, quando os soldados marcham e hasteiam a bandeira diante do portão de Tiananmen.
+628|É ao nascer do sol: reserve a praça e chegue bem antes. Muita gente.
+629|De manhã cedo, o parque do Templo do Céu se enche de gente praticando tai chi, dançando e cantando. Muitos convidam você a participar.
+630|Vá assim que o parque abrir. Observe e, se convidarem, experimente.
+631|Oficinas para aprender a fazer jiaozi, macarrão puxado à mão ou pato, com um cozinheiro e em inglês.
+632|Reservam-se pela internet. Bom programa para dia de chuva.
+633|Na rua do chá de Maliandao, os vendedores servem chás chineses para provar com todo o ritual.
+634|Provar é grátis, mas é educado comprar algo. Veja bem o preço por peso.
+635|Agências que buscam você no hotel e levam a um trecho da Muralha, com guia e comida.
+636|Escolha uma que vá a Mutianyu ou Jinshanling e não pare em lojas.
+637|Um guia leva você pelos hutongs provando petiscos pequineses que sozinho você não se animaria a pedir.
+638|Avise se tiver alguma alergia.
+639|Passeios a pé com guia pelas vielas de Gulou, Dongsi ou Dashilan, com a história das casas de pátio.
+640|Reserve com uma agência com boas avaliações.
+641|A linha de quase 8 quilômetros que ordena a cidade, do portão Yongding à Torre do Sino, Patrimônio da Humanidade desde 2024.
+642|Dá para fazer com guia ou sozinho: Templo do Céu, Qianmen, Tiananmen, Cidade Proibida, Jingshan e as torres.
+643|O trecho restaurado mais bonito perto de Pequim, entre montanhas com bosques, com teleférico para subir e tobogã para descer.
+644|Um dia inteiro. Há ônibus diretos de Dongzhimen e agências. Menos cheio que Badaling.
+645|O trecho mais visitado e fácil de chegar, com trem direto desde Pequim. Reserva-se com o passaporte.
+646|Vá em um dia de semana: nos fins de semana é uma maré de gente.
+647|Um trecho em parte restaurado e em parte original, com torres nas cristas e muito pouca gente. Para caminhar várias horas.
+648|Leve água e tênis. É lindo ao amanhecer e ao entardecer.
+649|A muralha selvagem, sem restauração, sobre picos muito íngremes: a das fotos mais espetaculares.
+650|É perigosa: vá só com guia e bom calçado. Não suba com chuva.
+651|Um trecho original que se visita também à noite, iluminado, junto ao povoado de Gubei.
+652|Reserve o ingresso com horário. Combine com uma noite em Gubei.
+653|História e povoados
+654|O vale onde estão enterrados treze imperadores Ming, com o Caminho Sagrado de estátuas de pedra.
+655|Combina-se com Badaling no mesmo dia.
+656|Um povoado de canais e casas antigas reconstruído aos pés da Muralha de Simatai, com hotéis e lanternas à noite.
+657|Ideal para dormir uma noite e ver a Muralha iluminada.
+658|Um povoado de montanha de casas de pedra das épocas Ming e Qing, em um vale tranquilo.
+659|Fica longe e sem bom transporte: melhor de carro ou em excursão.
+660|Uma ponte de pedra do século XII com centenas de leões esculpidos, todos diferentes, que Marco Polo descreveu. Ao lado fica a fortaleza de Wanping.
+661|Conte os leões: dizem que ninguém chega ao mesmo número.
+662|Cidades e templos
+663|A grande cidade portuária a meia hora de trem-bala, com bairros de casas europeias, a Rua da Cultura Antiga e uma roda-gigante sobre uma ponte.
+664|Pegue o trem na estação Pequim Sul. Um dia basta.
+665|O enorme retiro de verão dos imperadores Qing, com lagos, bosques e templos que copiam os do Tibete.
+666|Trem-bala de Pequim Chaoyang. Melhor com uma noite.
+667|Um templo budista nas montanhas mais antigo que a própria Pequim, com ginkgos milenares.
+668|Combine com o Templo Jietai, que fica perto.
+669|O templo onde os monges eram ordenados, com um grande altar de mármore e pinheiros retorcidos famosos.
+670|Mais tranquilo que Tanzhe.
+671|Um hostel clássico em Nanluoguxiang, com quartos compartilhados e privados, e gente do mundo todo.
+672|Organizam excursões à Muralha.
+673|Um hostel com bom atendimento nos hutongs de Dongsi, perto do metrô.
+674|Peça ajuda à recepção para reservar ingressos.
+675|Um hostel em uma casa de pátio perto de Dashilan, a poucos passos de Qianmen.
+676|Bem localizado para ir a pé a Tiananmen.
+677|Um hostel em uma casa de pátio com lanternas vermelhas, nos hutongs do oeste.
+678|Ambiente tranquilo, longe da noite de Houhai.
+679|Hotel em casa de pátio
+680|Um hotel boutique em uma casa de pátio, com terraço com vista para a Torre do Tambor.
+681|Reserve com antecedência: tem poucos quartos.
+682|Um siheyuan da época Qing com móveis antigos, perto de Nanluoguxiang.
+683|Peça um quarto voltado para o pátio.
+684|Um hotel em uma antiga residência de pátio da época Qing, com um portão de pedra com leões, a uma quadra de Nanluoguxiang.
+685|Um hotel em uma casa de pátio com galerias pintadas e lanternas vermelhas, nos hutongs de Dongsi.
+686|Perto do metrô Dongsi e a pé de Wangfujing.
+687|Um hotel de rede confortável a uma quadra de Wangfujing.
+688|Boa base para ir a pé à Cidade Proibida.
+689|Um hotel clássico perto de Qianmen que tem dentro o Teatro Liyuan, de ópera de Pequim.
+690|Ideal se quiser ver ópera sem sair do hotel.
+691|Um hotel moderno a poucos passos da rua para pedestres de Wangfujing.
+692|Os quartos altos têm vista para a cidade.
+693|Um hotel grande na avenida Chang'an, com uma piscina coberta que parece uma selva.
+694|Embaixo ficam o shopping Oriental Plaza e o metrô.
+695|Um hotel de luxo clássico a poucos passos de Wangfujing e da Cidade Proibida.
+696|O atendimento é um dos melhores da cidade.
+697|Pavilhões da época imperial ao lado do Palácio de Verão, com um portão privado para o parque.
+698|Longe do centro, mas o Palácio de Verão vazio de manhã não tem preço.
+699|Um hotel de luxo moderno em frente à torre da CCTV, com bons restaurantes.
+700|Prático para circular pelo CBD e Sanlitun.
+701|Um hotel de design de Kengo Kuma em pleno Taikoo Li, com fachada de vidro verde.
+702|Ideal se quiser sair à noite em Sanlitun.
+703|O grande mercado de antiguidades e coisas velhas: porcelana, jades, livros de Mao, móveis e milhares de lembranças.
+704|Os fins de semana de manhã é quando há mais barracas. Pechinche: quase nada é antigo de verdade.
+705|Um prédio de vários andares cheio de barracas de roupas, seda, malas e lembranças.
+706|Pechinche de verdade: o primeiro preço pode ser várias vezes o real.
+707|Pérolas, jades, eletrônicos e lembranças, em frente ao portão leste do Templo do Céu.
+708|Os andares de cima têm as pérolas; pechinche.
+709|Mais de um quilômetro de lojas de chá, bules e xícaras, onde compram os que entendem.
+710|Peça para provar antes de comprar.
+711|Ruas e shoppings
+712|A avenida de compras para pedestres mais conhecida, com grandes lojas, livrarias e a Catedral de São José.
+713|A livraria Foreign Languages Bookstore tem livros em inglês sobre a China.
+714|Um shopping ao ar livre com lojas internacionais, marcas chinesas de design e restaurantes.
+715|À noite se enche de gente jovem e de luzes.
+716|Um dos maiores shoppings de luxo do mundo, com uma praça de alimentação de primeira.
+717|Com o passaporte, pergunte pela devolução de impostos na hora.
+718|A avenida para pedestres reconstruída ao sul de Tiananmen, com um bonde antigo e lojas de marcas tradicionais.
+719|Muito bonita à noite, com as lanternas acesas.
+720|Lojas tradicionais
+721|A loja de sedas de 1893, onde se fazem vestidos sob medida (qipao).
+722|Os lenços de seda são um bom presente.
+723|A grande casa de arte de Liulichang, com mais de 300 anos: papel, pincéis, carimbos, pinturas e xilogravuras.
+724|Olhar é grátis; as gravuras pequenas são um bom presente.
+725|A farmácia de medicina chinesa mais famosa, de 1669, que abastecia a corte imperial.
+726|Olhar as gavetas de ervas já vale a visita. Não compre remédios sem consultar.
+727|A rua da caligrafia e da pintura: pincéis, papel de arroz, carimbos, tinta e antiguidades.
+728|Podem fazer um carimbo com seu nome em chinês.
+729|O estádio de futebol de Pequim, reconstruído em 2023, onde joga o Beijing Guoan, com uma torcida muito barulhenta.
+730|A temporada da liga chinesa vai de março a novembro. Os ingressos são vendidos por apps chineses: peça ajuda no hotel.
+731|O estádio coberto de Wukesong, dos Jogos de 2008 e 2022, com basquete, hóquei no gelo e shows.
+732|Veja a agenda: há jogos da liga chinesa de basquete.
+733|A "Fita de Gelo", o estádio de patinação de velocidade de 2022, que abre ao público para patinar.
+734|Veja antes os dias abertos ao público. Alugam-se patins.
+735|Em pleno inverno o lago congela e vira a pista de patinação mais famosa de Pequim, com trenós de cadeira.
+736|Só nos meses mais frios, quando o gelo é seguro.
+737|Um parque enorme com um lago e circuitos de corrida de 5 e 10 km, os preferidos dos corredores de Pequim.
+738|O circuito tem uma pista macia.
+739|O maior parque do centro, com lagos, quadras e brinquedos para crianças.
+740|Bom para correr cedo ou fazer piquenique.
+741|O último trecho que resta da muralha da cidade, com um parque para caminhar aos seus pés e a torre de Dongbianmen.
+742|Na primavera florescem as ameixeiras.
+743|Um parque com lagos e a maior quantidade de cerejeiras de Pequim, que florescem em abril.
+744|Em abril há um festival de cerejeiras.
+745|Ópera de Pequim todas as noites, pensada para turistas, com legendas em inglês e obras curtas.
+746|Chegue antes e veja como os atores se maquiam.
+747|Um teatro de madeira de 1807, um dos mais antigos da ópera de Pequim, com um pequeno museu.
+748|É a ópera em seu palco original.
+749|Acrobacias chinesas: equilibristas, malabaristas e motos em uma esfera de aço.
+750|Agrada a todas as idades.
+751|O show de kung fu "A lenda do kung fu", com monges que saltam, lutam e quebram coisas.
+752|O "ovo" de titânio e vidro ao lado de Tiananmen, cercado de água, com ópera, balé e concertos.
+753|Veja a programação: às vezes há ingressos baratos.
+754|O zoológico mais antigo da China, com a casa dos pandas-gigantes.
+755|Vá de manhã, quando os pandas estão mais ativos.
+756|Um aquário grande com túnel de tubarões e show de golfinhos, ao lado do zoológico.
+757|Combine com os pandas.
+758|Um planetário com cúpula, salas de astronomia e meteoritos.
+759|Em frente ao zoológico.
+760|O parque da Universal, com áreas de Harry Potter, Transformers, Kung Fu Panda e Minions.
+761|Compre os ingressos antes. Chega-se de metrô (linhas 1 e 7).
+762|Um parque de diversões com montanhas-russas e áreas temáticas.
+763|Lota nos fins de semana; vá em dia de semana.
+764|Tudo o que você precisa para percorrer a cidade
+765|Passeios e experiências
+766|Dia 1 · manhã
+767|Dia 1 · meio-dia
+768|Dia 1 · tarde
+769|Dia 1 · noite
+770|Dia 2 · noite
+771|Dia 3 · manhã
+772|Dia 3 · meio-dia
+773|Dia 3 · tarde
+774|Dia 3 · noite
+775|Café
+776|Um dia pensado para crianças.
+777|Circular
+778|Com o cartão do banco
+779|Horário de pico
+780|Último trem
+781|Estações
+782|A pé e de bicicleta
+783|Bicicletas compartilhadas
+784|Cuidado
+785|Polícia
+786|Ambulância
+787|Documentos e ajuda
+788|Caixas eletrônicos
+789|Almoça-se e janta-se cedo. Muitos restaurantes fecham a cozinha antes do que você espera.
+790|Outono
+791|Primavera
+792|Verão
+793|Inverno
+794|Site oficial do aeroporto
+795|Linhas do metro
+796|Para ficar tranquilo
+797|Olá
+798|Desculpe
+799|Você fala inglês?
+800|Onde fica…?
+801|Onde fica o banheiro?
+802|Não percebo
+803|Preciso de um médico
+804|Aeroportos e estações
+805|Banheiro
+806|Peregrino
+807|Lá do alto
+808|3 mirantes
+809|Mirantes
+810|Passeios de um dia
+811|Janeiro ou fevereiro
+812|Ano-Novo chinês
+813|Fevereiro ou março
+814|Maio ou junho
+815|Julho e agosto
+816|Emergências
+817|O guia inclui só lugares com reputação sólida: distinções oficiais, guias reconhecidos e bom consenso em avaliações públicas.
+818|comida chinesa
+819|Ruas e mercados
+820|Bar de coquetéis
+821|Passeios
+822|Experiência
+823|Mercados
+824|Ao ar livre
+825|Ideal com crianças.
+826|Pequim
+827|Shichahai e Houhai
+828|Hutongs e noite
+829|Praça Tiananmen, Dongcheng
+830|Templos, vielas, cafés e lagos, tudo a pé. Toque em cada parada para ver os detalhes.
+831|O melhor sem gastar com ingressos (quase tudo com reserva e passaporte). Toque em cada parada para ver os detalhes.
+832|Distrito de Arte 798, Chaoyang
+833|Palácio de Verão, Haidian
+834|Zoológico de Pequim, Xicheng
+835|Templo do Céu, Dongcheng
+836|Distrito de Huairou
+837|Distrito de Yanqing
+838|Província de Hebei
+839|Distrito de Miyun
+840|Distrito de Changping
+841|Distrito de Mentougou
+842|Distrito de Fengtai
+843|Cidade de Tianjin
+844|Distrito de Tongzhou
