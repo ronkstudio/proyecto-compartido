@@ -956,3 +956,8 @@
 956|The minerals hall is the kids' favorite.
 957|A fossil museum with skeletons of dinosaurs and ancient animals found in China.
 958|It's across from the zoo: combine them on the same day.
+959|Daily Chinese acrobatics show at the Chaoyang Theatre: buy tickets in advance
+960|Olympic Forest Park, Chaoyang
+961|Forbidden City moat, Dongcheng
+962|Shijingshan District
+963|Haidian District

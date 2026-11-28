@@ -873,5 +873,10 @@ Object.assign(window.I18N_FULL = window.I18N_FULL || {}, {
 "Piedras preciosas, cristales gigantes y esqueletos de dinosaurio en uno de los museos de geología más grandes de Asia.": "Edelsteine, riesige Kristalle und Dinosaurierskelette in einem der größten Geologiemuseen Asiens.",
 "La sala de minerales es la que más les gusta a los chicos.": "Der Mineraliensaal ist bei Kindern am beliebtesten.",
 "Un museo de fósiles con esqueletos de dinosaurios y animales antiguos encontrados en China.": "Ein Fossilienmuseum mit Skeletten von Dinosauriern und urzeitlichen Tieren, die in China gefunden wurden.",
-"Queda frente al zoológico: se combinan en el mismo día.": "Es liegt gegenüber dem Zoo: Beides passt an einen Tag."
+"Queda frente al zoológico: se combinan en el mismo día.": "Es liegt gegenüber dem Zoo: Beides passt an einen Tag.",
+"Función diaria de acrobacia china en el Teatro Chaoyang: sacá entrada antes": "Tägliche chinesische Akrobatikshow im Chaoyang-Theater: Kauf dein Ticket vorher",
+"Parque del Bosque Olímpico, Chaoyang": "Olympischer Waldpark, Chaoyang",
+"Foso de la Ciudad Prohibida, Dongcheng": "Graben der Verbotenen Stadt, Dongcheng",
+"Distrito de Shijingshan": "Bezirk Shijingshan",
+"Distrito de Haidian": "Bezirk Haidian"
 });

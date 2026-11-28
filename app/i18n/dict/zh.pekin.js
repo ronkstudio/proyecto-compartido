@@ -873,5 +873,10 @@ Object.assign(window.I18N_FULL = window.I18N_FULL || {}, {
 "Piedras preciosas, cristales gigantes y esqueletos de dinosaurio en uno de los museos de geología más grandes de Asia.": "亚洲最大的地质博物馆之一，有宝石、巨型晶体和恐龙骨架。",
 "La sala de minerales es la que más les gusta a los chicos.": "孩子们最喜欢矿物展厅。",
 "Un museo de fósiles con esqueletos de dinosaurios y animales antiguos encontrados en China.": "化石博物馆，展出在中国发现的恐龙和古动物骨架。",
-"Queda frente al zoológico: se combinan en el mismo día.": "就在动物园对面，可以同一天参观。"
+"Queda frente al zoológico: se combinan en el mismo día.": "就在动物园对面，可以同一天参观。",
+"Función diaria de acrobacia china en el Teatro Chaoyang: sacá entrada antes": "朝阳剧场每天都有中国杂技演出，请提前购票",
+"Parque del Bosque Olímpico, Chaoyang": "奥林匹克森林公园，朝阳区",
+"Foso de la Ciudad Prohibida, Dongcheng": "故宫筒子河，东城区",
+"Distrito de Shijingshan": "石景山区",
+"Distrito de Haidian": "海淀区"
 });

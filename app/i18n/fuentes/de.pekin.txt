@@ -956,3 +956,8 @@
 956|Der Mineraliensaal ist bei Kindern am beliebtesten.
 957|Ein Fossilienmuseum mit Skeletten von Dinosauriern und urzeitlichen Tieren, die in China gefunden wurden.
 958|Es liegt gegenüber dem Zoo: Beides passt an einen Tag.
+959|Tägliche chinesische Akrobatikshow im Chaoyang-Theater: Kauf dein Ticket vorher
+960|Olympischer Waldpark, Chaoyang
+961|Graben der Verbotenen Stadt, Dongcheng
+962|Bezirk Shijingshan
+963|Bezirk Haidian

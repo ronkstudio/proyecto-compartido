@@ -956,3 +956,8 @@
 956|La salle des minéraux est la préférée des enfants.
 957|Un musée de fossiles avec des squelettes de dinosaures et d'animaux anciens trouvés en Chine.
 958|Il est en face du zoo : à combiner le même jour.
+959|Spectacle quotidien d'acrobatie chinoise au théâtre Chaoyang : achète ton billet à l'avance
+960|Parc forestier olympique, Chaoyang
+961|Douves de la Cité interdite, Dongcheng
+962|District de Shijingshan
+963|District de Haidian
