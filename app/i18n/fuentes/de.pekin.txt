@@ -164,7 +164,7 @@
 164|Geldautomaten der großen Banken wie Bank of China oder ICBC akzeptieren ausländische Karten.
 165|Trinkgeld ist nicht üblich.
 166|Steuerrückerstattung
-167|Wenn du am selben Tag in einem teilnehmenden Geschäft mindestens 200 Yuan ausgibst, bekommst du die Steuer zurück. In manchen großen Kaufhäusern sofort, mit dem Reisepass.
+167|Wenn du am selben Tag in einem teilnehmenden Geschäft (Schild „Tax Free“) mehr als einen Mindestbetrag ausgibst, bekommst du die Steuer zurück. In manchen großen Kaufhäusern sofort, mit dem Reisepass.
 168|Internet und Apps
 169|Was nicht funktioniert
 170|Mit chinesischem Internet funktionieren Google (Maps, Gmail, Übersetzer), WhatsApp, Instagram, Facebook und YouTube nicht.
@@ -824,3 +824,21 @@
 824|Im Freien
 825|Ideal mit Kindern.
 826|Peking
+827|Shichahai und Houhai
+828|Hutongs und Nachtleben
+829|Tiananmen-Platz, Dongcheng
+830|Tempel, Gassen, Cafés und Seen, alles zu Fuß. Tippe auf jeden Halt, um Details zu sehen.
+831|Das Beste ohne Eintritt (fast alles mit Reservierung und Reisepass). Tippe auf jeden Halt, um Details zu sehen.
+832|Kunstviertel 798, Chaoyang
+833|Sommerpalast, Haidian
+834|Pekinger Zoo, Xicheng
+835|Himmelstempel, Dongcheng
+836|Bezirk Huairou
+837|Bezirk Yanqing
+838|Provinz Hebei
+839|Bezirk Miyun
+840|Bezirk Changping
+841|Bezirk Mentougou
+842|Bezirk Fengtai
+843|Stadt Tianjin
+844|Bezirk Tongzhou

@@ -164,7 +164,7 @@
 164|Os caixas eletrônicos dos grandes bancos, como Bank of China ou ICBC, aceitam cartões estrangeiros.
 165|Não se deixa gorjeta.
 166|Devolução de impostos
-167|Se gastar a partir de 200 yuans em uma mesma loja participante no mesmo dia, pode receber o imposto de volta. Em algumas grandes lojas a devolução é na hora, com o passaporte.
+167|Se gastar acima de um valor mínimo em uma mesma loja participante (placa “Tax Free”) no mesmo dia, pode receber o imposto de volta. Em algumas grandes lojas a devolução é na hora, com o passaporte.
 168|Internet e apps
 169|O que não funciona
 170|Com internet chinesa não funcionam Google (Maps, Gmail, Tradutor), WhatsApp, Instagram, Facebook nem YouTube.
@@ -824,3 +824,21 @@
 824|Ao ar livre
 825|Ideal com crianças.
 826|Pequim
+827|Shichahai e Houhai
+828|Hutongs e noite
+829|Praça Tiananmen, Dongcheng
+830|Templos, vielas, cafés e lagos, tudo a pé. Toque em cada parada para ver os detalhes.
+831|O melhor sem gastar com ingressos (quase tudo com reserva e passaporte). Toque em cada parada para ver os detalhes.
+832|Distrito de Arte 798, Chaoyang
+833|Palácio de Verão, Haidian
+834|Zoológico de Pequim, Xicheng
+835|Templo do Céu, Dongcheng
+836|Distrito de Huairou
+837|Distrito de Yanqing
+838|Província de Hebei
+839|Distrito de Miyun
+840|Distrito de Changping
+841|Distrito de Mentougou
+842|Distrito de Fengtai
+843|Cidade de Tianjin
+844|Distrito de Tongzhou

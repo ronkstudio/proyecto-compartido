@@ -164,7 +164,7 @@
 164|Les distributeurs des grandes banques, comme Bank of China ou ICBC, acceptent les cartes étrangères.
 165|On ne laisse pas de pourboire.
 166|Détaxe
-167|Si vous dépensez 200 yuans ou plus dans un même magasin participant le même jour, vous pouvez récupérer la taxe. Certains grands magasins la remboursent sur place, avec le passeport.
+167|Si vous dépensez plus d'un montant minimum dans un même magasin participant (panneau « Tax Free ») le même jour, vous pouvez récupérer la taxe. Certains grands magasins la remboursent sur place, avec le passeport.
 168|Internet et applis
 169|Ce qui ne marche pas
 170|Avec un accès internet chinois, Google (Maps, Gmail, Traduction), WhatsApp, Instagram, Facebook et YouTube ne fonctionnent pas.
@@ -824,3 +824,21 @@
 824|En plein air
 825|Idéal avec des enfants.
 826|Pékin
+827|Shichahai et Houhai
+828|Hutongs et vie nocturne
+829|Place Tiananmen, Dongcheng
+830|Temples, ruelles, cafés et lacs, le tout à pied. Touche chaque étape pour voir le détail.
+831|Le meilleur sans payer d'entrée (presque tout sur réservation et avec passeport). Touche chaque étape pour voir le détail.
+832|Quartier d'art 798, Chaoyang
+833|Palais d'Été, Haidian
+834|Zoo de Pékin, Xicheng
+835|Temple du Ciel, Dongcheng
+836|District de Huairou
+837|District de Yanqing
+838|Province du Hebei
+839|District de Miyun
+840|District de Changping
+841|District de Mentougou
+842|District de Fengtai
+843|Ville de Tianjin
+844|District de Tongzhou

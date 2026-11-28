@@ -164,7 +164,7 @@
 164|ATMs of the big banks, such as Bank of China or ICBC, accept foreign cards.
 165|No tipping.
 166|Tax refund
-167|If you spend 200 yuan or more in the same participating shop on the same day, you can get the tax back. Some big stores refund it on the spot, with your passport.
+167|If you spend over a minimum amount in the same participating shop (“Tax Free” sign) on the same day, you can get the tax back. Some big stores refund it on the spot, with your passport.
 168|Internet and apps
 169|What doesn't work
 170|On Chinese internet, Google (Maps, Gmail, Translate), WhatsApp, Instagram, Facebook and YouTube don't work.
@@ -824,3 +824,21 @@
 824|Outdoors
 825|Ideal with kids.
 826|Beijing
+827|Shichahai and Houhai
+828|Hutongs and nightlife
+829|Tiananmen Square, Dongcheng
+830|Temples, alleys, cafés and lakes, all on foot. Tap each stop to see the details.
+831|The best without paying for tickets (almost all with booking and passport). Tap each stop to see the details.
+832|798 Art District, Chaoyang
+833|Summer Palace, Haidian
+834|Beijing Zoo, Xicheng
+835|Temple of Heaven, Dongcheng
+836|Huairou District
+837|Yanqing District
+838|Hebei Province
+839|Miyun District
+840|Changping District
+841|Mentougou District
+842|Fengtai District
+843|Tianjin
+844|Tongzhou District

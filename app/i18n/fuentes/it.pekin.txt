@@ -164,7 +164,7 @@
 164|I bancomat delle grandi banche, come Bank of China o ICBC, accettano carte estere.
 165|Non si lascia la mancia.
 166|Rimborso delle tasse
-167|Se spendi almeno 200 yuan in uno stesso negozio aderente nello stesso giorno, puoi riavere l'imposta. In alcuni grandi magazzini te la rimborsano subito, con il passaporto.
+167|Se spendi più di un importo minimo in uno stesso negozio aderente (cartello «Tax Free») nello stesso giorno, puoi riavere l'imposta. In alcuni grandi magazzini te la rimborsano subito, con il passaporto.
 168|Internet e app
 169|Cosa non funziona
 170|Con internet cinese non funzionano Google (Maps, Gmail, Traduttore), WhatsApp, Instagram, Facebook e YouTube.
@@ -824,3 +824,21 @@
 824|All'aperto
 825|Ideale con i bambini.
 826|Pechino
+827|Shichahai e Houhai
+828|Hutong e vita notturna
+829|Piazza Tienanmen, Dongcheng
+830|Templi, vicoli, caffè e laghi, tutto a piedi. Tocca ogni tappa per vedere i dettagli.
+831|Il meglio senza spendere in biglietti (quasi tutto con prenotazione e passaporto). Tocca ogni tappa per vedere i dettagli.
+832|Distretto artistico 798, Chaoyang
+833|Palazzo d'Estate, Haidian
+834|Zoo di Pechino, Xicheng
+835|Tempio del Cielo, Dongcheng
+836|Distretto di Huairou
+837|Distretto di Yanqing
+838|Provincia di Hebei
+839|Distretto di Miyun
+840|Distretto di Changping
+841|Distretto di Mentougou
+842|Distretto di Fengtai
+843|Città di Tianjin
+844|Distretto di Tongzhou

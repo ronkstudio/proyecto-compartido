@@ -198,7 +198,7 @@ window.CITY_DATA.pekin = {
       { t: "Efectivo", d: "Los comercios tienen que aceptar billetes, pero muchos no tienen cambio: llevá billetes chicos." },
       { t: "Cajeros", d: "Los cajeros de los bancos grandes, como Bank of China o ICBC, aceptan tarjetas del exterior." },
       { t: "Propina", d: "No se deja propina." },
-      { t: "Devolución de impuestos", d: "Si gastás desde 200 yuanes en una misma tienda adherida y el mismo día, te pueden devolver el impuesto. En algunas grandes tiendas te lo devuelven en el momento, con el pasaporte." }
+      { t: "Devolución de impuestos", d: "Si gastás más de un mínimo en una misma tienda adherida (cartel «Tax Free») y el mismo día, te pueden devolver el impuesto. En algunas grandes tiendas te lo devuelven en el momento, con el pasaporte." }
     ] },
     { icon: "📵", title: "Internet y apps", items: [
       { t: "Lo que no anda", d: "Con internet chino no funcionan Google (Maps, Gmail, el traductor), WhatsApp, Instagram, Facebook ni YouTube." },
