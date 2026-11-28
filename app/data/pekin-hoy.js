@@ -11,6 +11,7 @@
   if (!X) return;
   X.agenda = [
     { dias: [0, 1, 2, 3, 4, 5, 6], franja: "dia", lugar: "izamiento-de-la-bandera-en-tiananmen", que: "Izamiento de la bandera en Tiananmen al salir el sol: hay que reservar antes, con el pasaporte", fuente: "english.beijing.gov.cn, 14/4/2023 y 23/9/2024" },
+    { dias: [0, 1, 2, 3, 4, 5, 6], franja: "dia", lugar: "teatro-chaoyang", que: "Función diaria de acrobacia china en el Teatro Chaoyang: sacá entrada antes", fuente: "chaoyangtheatre.com, 28/11/2026" },
     { dias: [0, 1, 2, 3, 4, 5, 6], meses: [9, 10], franja: "dia", lugar: "plaza-de-tiananmen", que: "La plaza de Tiananmen se decora con flores para el Día Nacional, el 1 de octubre", fuente: "english.beijing.gov.cn, 24/9/2024" }
   ];
   X.destacados = [];

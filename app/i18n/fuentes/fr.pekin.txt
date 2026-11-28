@@ -842,3 +842,122 @@
 842|District de Fengtai
 843|Ville de Tianjin
 844|District de Tongzhou
+845|Une tour de l'ancienne muraille avec des instruments astronomiques en bronze de l'époque impériale, certains réalisés avec des jésuites européens.
+846|C'est petit : une heure suffit. Monte sur la terrasse, où les instruments sont en plein air.
+847|Un temple bouddhiste de la dynastie Ming caché dans un hutong, célèbre pour sa musique ancienne, que ses musiciens jouent encore dans la cour.
+848|Vérifie d'abord les jours de concert : écouter la musique rend la visite unique.
+849|Un temple à cinq pagodes de pierre sur un grand socle sculpté, entouré de stèles et de sculptures du musée de la pierre de Pékin.
+850|Il est derrière le zoo : facile à combiner. Il n'y a presque jamais personne.
+851|Un temple devenu musée des cloches anciennes, avec une cloche géante de l'époque Ming couverte d'écritures bouddhiques.
+852|Prévois du temps pour la salle de la grande cloche : on monte pour la voir d'en haut.
+853|Le campus le plus célèbre de Chine, avec des jardins de style impérial, le lac Weiming et une pagode qui se reflète dans l'eau.
+854|Pour entrer, il faut réserver à l'avance avec le passeport, et il n'y a pas de place tous les jours. Combine-la avec le Palais d'Été.
+855|Un immense jardin au pied des collines de l'Ouest, avec des serres, des bois et le temple du Bouddha couché à l'intérieur.
+856|Il est à côté des Collines Parfumées : on peut faire les deux le même jour.
+857|Un parc de lacs et de pavillons avec des copies de pavillons célèbres de toute la Chine. Très populaire, avec des gens qui dansent et chantent.
+858|Va tôt le matin pour voir la vie du parc.
+859|Le parc du bambou pourpre : sentiers entre les bambous, lacs et petits ponts, à côté de la Bibliothèque nationale.
+860|C'est d'ici que partent les bateaux de la Route impériale vers le Palais d'Été à la belle saison.
+861|Un parc de lacs à côté du Temple du Ciel, avec des pédalos et beaucoup de gens du quartier.
+862|Pendant la fête du Printemps s'y tient l'une des foires de temple les plus populaires.
+863|La plus ancienne église catholique de Pékin : elle a été élevée là où vécut le jésuite Matteo Ricci, au début du XVIIe siècle.
+864|Il y a des messes en plusieurs langues ; respecte les fidèles si tu entres pendant l'une d'elles.
+865|Une église gothique blanche de la fin du XIXe siècle, avec vitraux et tours, tout près du parc Beihai.
+866|Combine-la avec Beihai : c'est à quelques rues.
+867|L'un des plus grands musées du cinéma au monde, avec des studios, des caméras et des décors de l'histoire du cinéma chinois.
+868|Entrée gratuite sur réservation et avec passeport. C'est loin du centre : ajoute-le à un après-midi au 798.
+869|La maison à cour où vécut Lu Xun, l'écrivain chinois le plus lu du XXe siècle, à côté d'un musée sur sa vie.
+870|À combiner avec le temple Miaoying, à deux pas.
+871|La maison à cour du plus célèbre acteur d'opéra de Pékin, avec costumes, photos et objets de sa carrière.
+872|Idéal avant d'aller à l'opéra : ça aide à comprendre ce que tu vas voir.
+873|Une demeure avec jardin au bord de Houhai où vécut Soong Ching-ling, figure clé de l'histoire chinoise moderne.
+874|Le jardin est le plus beau : prends ton temps, puis continue le long du lac.
+875|Une ruelle en diagonale de vieilles maisons, pleine de boutiques, de cafés et d'échoppes, qui finit au pont d'argent sur le lac.
+876|C'est bondé l'après-midi : va tôt ou continue vers les hutongs alentour.
+877|La grande porte sud de la vieille ville, reconstruite, qui marque l'extrémité sud de l'axe central de Pékin.
+878|Depuis la porte, on voit l'axe tout droit jusqu'à Qianmen. Belle pour les photos au coucher du soleil.
+879|Une tour d'archers de la muraille Ming, l'une des rares encore debout, à deux pas du lac Xihai.
+880|Elle se voit bien de l'extérieur ; combine-la avec un tour de Xihai et Houhai.
+881|Un immense restaurant de dim sum cantonais face au parc Ditan, toujours plein, avec menu en photos et plats à partager.
+882|Ouvert très tard : pratique pour manger après le théâtre ou les bars.
+883|Cuisine pékinoise et canard laqué dans une maison à cour de Gui Jie, avec lanternes et tables autour du jardin.
+884|Réserve ou va tôt : c'est plein le soir.
+885|Cuisine pékinoise familiale, célèbre pour sa soupe de poire servie dans une bouilloire en cuivre.
+886|Commande la soupe de poire et un plat de viande à la pékinoise à partager.
+887|Cuisine du Sichuan épicée et bon marché, tables serrées et beaucoup de gens du quartier.
+888|Si tu ne manges pas épicé, préviens : les plats sont relevés.
+889|Une maison de plus de 150 ans spécialisée dans le chaogan, un ragoût épais de foie et d'ail que les Pékinois mangent au petit-déjeuner.
+890|C'est un goût fort : goûte-le avec quelques baozi à côté.
+891|Un petit bar dans un hutong avec de la musique live presque tous les soirs : folk, jazz, rock et nouveaux groupes.
+892|L'entrée est souvent bon marché ou libre. Regarde le programme sur leurs réseaux avant d'y aller.
+893|Un bar dans une maison à cour avec des groupes live, du jazz au rock, et un public d'étudiants en musique du coin.
+894|Les groupes commencent tard ; avant, on peut boire un verre dans la cour.
+895|Une brasserie pékinoise avec ses propres bières, certaines aux saveurs chinoises comme le thé ou la fleur d'osmanthe, dans un ancien complexe d'usines.
+896|Commande la planche de dégustation pour en goûter plusieurs.
+897|Un bar avec terrasse sur le toit, juste entre la tour du Tambour et celle de la Cloche.
+898|Monte sur la terrasse au coucher du soleil : la vue sur les deux tours est le meilleur.
+899|Un bar à cocktails classique de Sanlitun, sur la terrasse d'un hôtel, avec des années d'histoire dans la nuit pékinoise.
+900|C'est calme en début de soirée et ça s'anime plus tard.
+901|Pédalos ou bateaux électriques pour parcourir les lacs de Shichahai, entre saules, ponts et maisons à cour.
+902|Joli au coucher du soleil. En hiver, le lac gèle et on y patine à la place.
+903|Monter au pavillon de la colline de Jingshan pour voir le soleil se coucher sur les toits dorés de la Cité interdite.
+904|Arrive un peu avant : le sommet se remplit de gens avec des appareils photo.
+905|Faire voler des cerfs-volants est un passe-temps pékinois : dans les grands parcs, on voit des cerfs-volants en forme de dragon ou d'hirondelle.
+906|On achète des cerfs-volants bon marché aux stands de l'entrée. Les jours de vent au printemps sont les meilleurs.
+907|Ateliers pour écrire au pinceau et à l'encre de Chine, dans la rue des pinceaux, du papier et de la peinture.
+908|On réserve auprès d'agences ou de certaines boutiques de la rue. Tu repars avec ce que tu as écrit.
+909|La nuit, la porte de Qianmen et la rue piétonne s'illuminent, et les ruelles de Dashilan se remplissent d'échoppes et de lumières.
+910|Suis la porte illuminée jusqu'au tramway de la rue et reviens par Dashilan.
+911|Le chemin qui longe les douves du palais, avec les tours d'angle reflétées dans l'eau. L'une des balades les plus belles et tranquilles.
+912|La tour d'angle nord-ouest au coucher du soleil est la photo classique de Pékin.
+913|Dans les parcs, les gens du quartier jouent au ping-pong sur des tables en béton, dansent en groupe et font de la gymnastique. Beaucoup t'invitent à te joindre à eux.
+914|Va tôt le matin ou au coucher du soleil, quand il y a le plus de monde.
+915|Un bâtiment de plusieurs étages avec des stands de vêtements, de valises, des tailleurs et des souvenirs, à côté de Sanlitun.
+916|On marchande : commence bien en dessous du premier prix. Les tailleurs font des vêtements sur mesure en quelques jours.
+917|Un immense centre commercial moderne à Xidan, avec des marques pour les jeunes, des cinémas et de nombreux étages de restaurants.
+918|Les étages supérieurs proposent de la cuisine de toute la Chine.
+919|L'une des librairies les plus appréciées de Pékin, avec des livres d'art et de photos qu'on apprécie sans lire le chinois.
+920|Combine-la avec le Musée national d'art, juste en face.
+921|La librairie de la ville qui a le plus de livres en anglais et dans d'autres langues, avec des guides, des cartes et des livres sur la Chine.
+922|Bon endroit pour acheter un guide de conversation ou une carte papier.
+923|Un marché d'antiquités et d'objets de collection dans les cours d'un vieux temple : pièces, timbres, affiches et livres.
+924|Beaucoup d'antiquités sont des copies : achète par plaisir, pas comme placement.
+925|Le grand magasin d'artisanat de Pékin : jade, émaux cloisonnés, laques, soie et porcelaine, à prix fixes.
+926|Utile pour voir des pièces de qualité avant d'acheter dans les marchés.
+927|Une marque de thé pékinoise de la fin du XIXe siècle, célèbre pour son thé au jasmin et sa glace au thé vert.
+928|Goûte la glace au thé à l'entrée et rapporte du thé au jasmin en cadeau.
+929|Une ancienne aciérie transformée en parc, avec des hauts fourneaux, des lacs et le tremplin de ski des Jeux olympiques d'hiver de 2022.
+930|Idéal pour marcher ou faire du vélo entre les structures industrielles. C'est loin : métro ligne 1 vers l'ouest.
+931|Une colline de l'ouest avec huit temples étagés entre les pins : on monte à pied de temple en temple ou en télésiège.
+932|Mets des chaussures confortables. Pour descendre, il y a une luge, comme à la Grande Muraille.
+933|Des montagnes rocheuses au nord-ouest de la ville, avec des sentiers balisés, des temples en hauteur et des vues sur la plaine.
+934|Il y a des sentiers faciles et d'autres avec des marches et des chaînes. Emporte de l'eau et pars tôt.
+935|Un immense parc au bord du Grand Canal, avec des pistes cyclables, des bois et des balades en bateau.
+936|On loue des vélos à l'entrée. C'est à une heure du centre en métro.
+937|Une station de ski près de Pékin, avec des pistes pour débutants et location de matériel.
+938|Elle fonctionne l'hiver avec de la neige artificielle. Des bus et des agences y vont depuis la ville.
+939|En plein hiver, une partie du lac Kunming gèle et ouvre pour le patin et les luges-chaises devant le palais.
+940|Seulement quand le lac est bien gelé : vérifie d'abord si elle est ouverte.
+941|Un théâtre moderne de comédies musicales, avec des productions chinoises et des versions de grandes comédies musicales du monde.
+942|Regarde la programmation : certaines représentations ont des surtitres en anglais.
+943|L'un des rares théâtres en bois de l'époque impériale encore debout, avec scène et loges pour voir l'opéra de Pékin de près.
+944|Il n'y a pas de représentation tous les jours : regarde la programmation avant d'y aller.
+945|Le grand théâtre de l'opéra de Pékin, qui porte le nom de l'acteur le plus célèbre du genre.
+946|Si c'est ta première fois, choisis une pièce d'action, avec acrobaties et combats.
+947|La salle de concert historique de la ville, avec de la musique classique et des concerts d'instruments chinois.
+948|Cherche un concert de musique traditionnelle chinoise : c'est difficile à entendre ailleurs.
+949|Un grand théâtre avec ballet, comédies musicales, danse et concerts, près de la station Dongsi Shitiao.
+950|Les billets s'achètent avec le passeport sur le site ou l'appli du théâtre.
+951|Un théâtre de marionnettes et d'ombres chinoises pour enfants, avec des spectacles de contes traditionnels.
+952|Les spectacles sont courts et presque sans texte : on les comprend sans parler chinois.
+953|Le musée du train dans l'ancienne gare de Qianmen, du début du XXe siècle, avec des maquettes et l'histoire du train en Chine.
+954|Il est collé à la place Tiananmen : ajoute-le à cette matinée.
+955|Pierres précieuses, cristaux géants et squelettes de dinosaures dans l'un des plus grands musées de géologie d'Asie.
+956|La salle des minéraux est la préférée des enfants.
+957|Un musée de fossiles avec des squelettes de dinosaures et d'animaux anciens trouvés en Chine.
+958|Il est en face du zoo : à combiner le même jour.
+959|Spectacle quotidien d'acrobatie chinoise au théâtre Chaoyang : achète ton billet à l'avance
+960|Parc forestier olympique, Chaoyang
+961|Douves de la Cité interdite, Dongcheng
+962|District de Shijingshan
+963|District de Haidian

@@ -842,3 +842,122 @@
 842|Fengtai District
 843|Tianjin
 844|Tongzhou District
+845|A tower of the old city wall with bronze astronomical instruments from imperial times, some made with European Jesuits.
+846|It's small: an hour is enough. Go up to the terrace, where the instruments stand in the open air.
+847|A Ming dynasty Buddhist temple hidden in a hutong, famous for its ancient music, still played by its musicians in the courtyard.
+848|Check the concert days first: hearing the music is what makes the visit unique.
+849|A temple with five stone pagodas on a large carved base, surrounded by steles and carvings of the Beijing stone carving museum.
+850|It's behind the zoo: easy to combine. There's hardly ever anyone there.
+851|A temple turned into a museum of ancient bells, with a giant Ming-era bell covered in Buddhist scriptures.
+852|Leave time for the great bell hall: you climb up to see it from above.
+853|China's most famous campus, with imperial-style gardens, Weiming Lake and a pagoda reflected in the water.
+854|You must book ahead with your passport to get in, and there isn't space every day. Combine it with the Summer Palace.
+855|A huge garden at the foot of the Western Hills, with greenhouses, woods and the Temple of the Sleeping Buddha inside.
+856|It's next to the Fragrant Hills: you can do both on the same day.
+857|A park of lakes and pavilions with copies of famous pavilions from all over China. Very local, with people dancing and singing.
+858|Go early in the morning to see park life.
+859|The Purple Bamboo Park: paths among bamboo, lakes and little bridges, next to the National Library.
+860|The Imperial Route boats to the Summer Palace leave from here in the warm season.
+861|A lakeside park next to the Temple of Heaven, with pedal boats and lots of locals.
+862|During the Spring Festival it hosts one of the most popular temple fairs.
+863|Beijing's oldest Catholic church: it was built where the Jesuit Matteo Ricci lived, in the early 17th century.
+864|There are masses in several languages; respect the faithful if you go in during one.
+865|A white Gothic church from the late 19th century, with stained glass and towers, very close to Beihai Park.
+866|Combine it with Beihai: it's a few blocks away.
+867|One of the largest film museums in the world, with studios, cameras and sets from the history of Chinese cinema.
+868|Free entry with booking and passport. It's far from the center: add it to an afternoon at 798.
+869|The courtyard house where Lu Xun, the most widely read Chinese writer of the 20th century, lived, next to a museum about his life.
+870|Combine it with Miaoying Temple, a few steps away.
+871|The courtyard house of the most famous Peking opera actor, with costumes, photos and objects from his career.
+872|Ideal before going to the opera: it helps you understand what you'll see.
+873|A mansion with a garden on the shore of Houhai where Soong Ching-ling, a key figure in modern Chinese history, lived.
+874|The garden is the best part: take your time and then continue along the lake.
+875|A diagonal lane of old houses, full of shops, cafés and stalls, ending at the Silver Ingot Bridge over the lake.
+876|It's packed in the afternoon: go early or keep walking into the surrounding hutongs.
+877|The great southern gate of the old city, rebuilt, marking the southern end of Beijing's central axis.
+878|From the gate you can see the axis straight to Qianmen. Lovely for photos at sunset.
+879|An arrow tower of the Ming wall, one of the few still standing, steps from Xihai Lake.
+880|It's best seen from outside; combine it with a walk around Xihai and Houhai.
+881|A huge Cantonese dim sum place opposite Ditan Park, always full, with a picture menu and dishes to share.
+882|It's open very late: good for eating after the theater or the bars.
+883|Beijing cuisine and Peking duck in a Gui Jie courtyard house, with lanterns and tables around the garden.
+884|Book or go early: it fills up at night.
+885|Home-style Beijing cooking, famous for the pear soup served in a copper kettle.
+886|Order the pear soup and a Beijing-style meat dish to share.
+887|Cheap, spicy Sichuan food, with tightly packed tables and lots of locals.
+888|If you don't eat spicy food, say so: the dishes come hot.
+889|A shop over 150 years old specializing in chaogan, a thick stew of liver and garlic that Beijingers eat for breakfast.
+890|It's a strong flavor: try it with some baozi on the side.
+891|A small hutong bar with live music almost every night: folk, jazz, rock and new bands.
+892|Entry is usually cheap or free. Check the schedule on their social media before going.
+893|A bar in a courtyard house with live bands, from jazz to rock, and a crowd of local music students.
+894|The bands start late; before that you can have a drink in the courtyard.
+895|A Beijing brewery with its own beers, some with Chinese flavors like tea or osmanthus flower, in an old factory complex.
+896|Order the flight to try several in small glasses.
+897|A bar with a rooftop terrace, right between the Drum Tower and the Bell Tower.
+898|Go up to the terrace at sunset: the view of the two towers is the best part.
+899|A classic Sanlitun cocktail bar on a hotel terrace, with years of history in Beijing nightlife.
+900|It's quiet early on and livens up later.
+901|Pedal or electric boats to tour the Shichahai lakes, among willows, bridges and courtyard houses.
+902|Lovely at sunset. In winter the lake freezes and people skate instead.
+903|Climb to the pavilion on Jingshan hill to watch the sun set over the golden roofs of the Forbidden City.
+904|Arrive a bit early: the top fills with people with cameras.
+905|Flying kites is a Beijing pastime: in the big parks you'll see dragon- and swallow-shaped kites.
+906|Cheap kites are sold at stalls by the entrance. Windy spring days are best.
+907|Workshops to write with brush and Chinese ink, on the street of brushes, paper and painting.
+908|Book through agencies or some shops on the street. You take home what you wrote.
+909|At night, Qianmen gate and the pedestrian street light up, and the Dashilan lanes fill with stalls and lights.
+910|Follow the lit-up gate to the street's tram and come back through Dashilan.
+911|The path around the palace moat, with the corner towers reflected in the water. One of the loveliest, quietest walks.
+912|The northwest corner tower at sunset is the classic Beijing photo.
+913|In the parks, locals play ping-pong on concrete tables, dance in groups and exercise. Many will invite you to join.
+914|Go early in the morning or at sunset, when it's busiest.
+915|A multi-story building with stalls of clothes, suitcases, tailors and souvenirs, next to Sanlitun.
+916|Haggle: start well below the first price. The tailors make custom clothes in a few days.
+917|A huge, modern mall in Xidan, with youth brands, cinemas and many floors of food.
+918|The upper floors have food from all over China.
+919|One of Beijing's best-loved bookstores, with art and photo books you can enjoy without reading Chinese.
+920|Combine it with the National Art Museum, across the street.
+921|The bookstore with the most books in English and other languages in the city, with guides, maps and books about China.
+922|A good place to buy a phrasebook or a paper map.
+923|An antiques and collectibles market in the courtyards of an old temple: coins, stamps, posters and books.
+924|Many antiques are copies: buy for pleasure, not as an investment.
+925|Beijing's big crafts store: jade, cloisonné enamel, lacquer, silk and porcelain, at fixed prices.
+926|Useful to see quality pieces before buying at the markets.
+927|A Beijing tea brand from the late 19th century, famous for its jasmine tea and green tea ice cream.
+928|Try the tea ice cream at the door and take jasmine tea home as a gift.
+929|An old steelworks turned into a park, with blast furnaces, lakes and the ski jump from the 2022 Winter Olympics.
+930|Ideal for walking or cycling among the industrial structures. It's far: subway line 1 heading west.
+931|A western hill with eight temples stepped among pines: walk up from temple to temple or take the chairlift.
+932|Wear comfortable shoes. There's a toboggan to go down, like at the Great Wall.
+933|Rocky mountains northwest of the city, with marked trails, hilltop temples and views over the plain.
+934|There are easy trails and others with steps and chains. Bring water and leave early.
+935|A huge park on the banks of the Grand Canal, with bike paths, woods and boat rides.
+936|Bikes can be rented at the entrance. It's an hour from the center by subway.
+937|A ski resort near Beijing, with beginner slopes and equipment rental.
+938|It operates in winter with artificial snow. There are buses and agencies going from the city.
+939|In midwinter, part of Kunming Lake freezes and opens for skating and chair sleds in front of the palace.
+940|Only when the lake is well frozen: check first whether it's open.
+941|A modern musical theater, with Chinese productions and versions of great musicals from around the world.
+942|Check the program: some shows have English surtitles.
+943|One of the few wooden theaters from imperial times still standing, with a stage and boxes to see Peking opera up close.
+944|There isn't a show every day: check the program before going.
+945|The great Peking opera theater, named after the most famous actor of the genre.
+946|If it's your first time, choose an action piece, with acrobatics and fights.
+947|The city's historic concert hall, with classical music and concerts of Chinese instruments.
+948|Look for a traditional Chinese music concert: it's hard to hear elsewhere.
+949|A large theater with ballet, musicals, dance and concerts, near Dongsi Shitiao station.
+950|Tickets are bought with your passport on the theater's website or app.
+951|A puppet and shadow-play theater for kids, with shows of traditional tales.
+952|The shows are short and almost wordless: you can follow them without knowing Chinese.
+953|The railway museum in the old Qianmen station from the early 20th century, with models and the history of trains in China.
+954|It's right next to Tiananmen Square: add it to that morning.
+955|Gemstones, giant crystals and dinosaur skeletons in one of the largest geology museums in Asia.
+956|The minerals hall is the kids' favorite.
+957|A fossil museum with skeletons of dinosaurs and ancient animals found in China.
+958|It's across from the zoo: combine them on the same day.
+959|Daily Chinese acrobatics show at the Chaoyang Theatre: buy tickets in advance
+960|Olympic Forest Park, Chaoyang
+961|Forbidden City moat, Dongcheng
+962|Shijingshan District
+963|Haidian District

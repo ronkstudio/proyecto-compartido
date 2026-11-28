@@ -8,13 +8,13 @@ Este archivo se mantiene corto a propósito, porque se lee al empezar cada tarea
 
 ## Últimos cambios
 
+- 28/11 · #249 · Pekín con más para hacer: 57 lugares y actividades nuevos (teatros, ópera, museos para chicos, parques, caminatas, esquí, paseos, bares con música, librerías y comida), de 165 a 222 lugares y de 67 a 95 con foto; acrobacia diaria en "Hoy".
 - 28/11 · #247 · Pekín, ciudad 12: 165 lugares ubicados con su nombre en chino, 15 líneas de metro, ayuda, embajadas, "Hoy", traducciones a los 7 idiomas, 67 fotos, colores rojo y dorado e intro propia (la puerta de Tiananmen y el nombre como sello).
 - 23/11 · #244 · 404 fotos más, revisadas una por una (`herramientas/ciudad/fotos4.js` y búsquedas a mano con el nombre local): de 1.418 a 1.822 lugares con foto. Entre otras, el Reichstag, la Iglesia del Recuerdo, la Opéra Bastille, el Altar de la Patria y 63 de los 92 tours.
 - 22/11 · #242 · 259 fotos nuevas de Wikidata (`herramientas/ciudad/fotos3.js`), revisadas una por una: de 1.159 a 1.418 lugares con foto. Entre otras, Cristo Redentor y Torre de Belém, que no tenían.
 - 22/11 · #240 · Decisiones del 22/11 anotadas (quedan 8 idiomas, sin cartel por ahora, sin TACC solo confirmado); Brotquelle (Berlín) y La Unión (Buenos Aires) siguen, pero sin la etiqueta sin TACC.
 - 22/11 · #238 · Río de Janeiro ya no queda en el mar en el globo (los puntos de la costa suben con su continente) y los nombres que no entran a la derecha van a la izquierda; "El mapa necesita conexión" traducido.
 - 22/11 · #189 · Ninguna pantalla se sale del ancho a 320 px (alemán y castellano, 5 ciudades): se repuso el arreglo del 15/11, que se había perdido, y se sumaron emergencias y tarjetas de Explorar; "Cerrado hoy" y el aviso sin conexión de la cotización traducidos; aviso vencido de Buenos Aires borrado.
-- 20/11 · #235 · Los lugares sin foto muestran una escena dibujada de su tipo (café, bar, museo, mercado, playa…) en vez de un emoji (`js/ilustraciones.js`).
 - 20/11 · #233 · Ajustes finales de la revisión: íconos por tipo corregidos, dietas con fuente leída (Fatamorgana, Chutnify, Café Vux, Curry 61, Maroush) en la lista, fuentes de Río y Bogotá, fotos probadas a 500 px.
 - 20/11 · #226 · Portada nueva para los lugares sin foto (el dibujo de cada ciudad y el ícono del tipo de lugar), también cuando una foto no carga; foto de Chiado (Lisboa) arreglada.
 - 20/11 · #227 · Recorrido automático de pantallas (`zz-recorrido.js`): sin errores ni enlaces rotos; se tradujeron "Con opciones para", "Local 100 %" y la noche de Lisboa, Río y Bogotá; lo que se sale del ancho quedó en #189.
@@ -56,7 +56,7 @@ Todas tienen la misma estructura: lugares en 9 categorías, mapa con puntos de a
 | Bogotá | 121 | Agenda fija | `docs/fuentes-bogota.md` | Fotos (casi no hay libres); ubicaciones por grilla aproximadas (~200 m); más embajadas |
 | Lisboa | 170 | Agenda fija | `docs/fuentes-lisboa.md` | Fotos; consulado de Uruguay (sin fuente oficial legible) |
 | Tokio | 217 | Agenda fija (torneos de sumo y cerezos) | `docs/fuentes-tokio.md` | Fotos de 53 lugares; ubicación aproximada de la embajada de Uruguay (se mudó en 2023) |
-| Pekín | 165 | Agenda fija (izamiento de la bandera y flores del Día Nacional) | `docs/fuentes-pekin.md` | Fotos de 98 lugares; límites de barrios y capas de zonas; revisar la regla de ingreso sin visa (vence el 31/12/2026) |
+| Pekín | 222 | Agenda fija (bandera, flores del Día Nacional y acrobacia) | `docs/fuentes-pekin.md` | Fotos de 127 lugares; límites de barrios y capas de zonas; revisar la regla de ingreso sin visa (vence el 31/12/2026) |
 
 La cantidad de lugares se contó el 19/11/2026 desde `data/` (lista `places` de cada ciudad). Las agendas automáticas las baja `.github/workflows/publicar-guia.yml` dos veces por día con los scripts de `herramientas/`. Solo Buenos Aires tiene las 6 capas de zonas del mapa.
 

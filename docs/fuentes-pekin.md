@@ -81,3 +81,14 @@ La ubicación en el mapa sale de OpenStreetMap (office=diplomatic), 26/11/2026.
 
 - La web de la embajada de Colombia (control anti-robots): se usó la lista oficial del gobierno de Pekín.
 - Límites de barrios y capas de zonas del mapa: no están (son opcionales).
+
+## Lugares y actividades sumados el 28/11/2026 (tarjeta #249)
+
+- 57 lugares nuevos: teatros, ópera, museos, parques, caminatas, esquí, paseos, bares con música, librerías, tiendas y comida.
+  - Cada uno se buscó por su nombre en chino en OpenStreetMap (Nominatim y Overpass), el 28/11/2026, con `geopekin.pl`.
+  - Quedaron afuera los que no figuran en OpenStreetMap: el teatro de acrobacia de Tianqiao, el mercado Sanyuanli, China World Mall, Yueshengzhai, el restaurante de Xinjiang y Yunteng.
+  - Shougang, Badachu y Fenghuangling van como "Fuera de Pekín": quedan a más de 14 km del centro.
+  - Las actividades sin dirección propia (remar en Houhai, el atardecer en Jingshan, los barriletes, la caligrafía, el paseo nocturno por Qianmen, el foso y el ping-pong) van con la ubicación de su parque o calle.
+- 28 fotos más de Wikidata y Wikimedia Commons, revisadas una por una. Se descartaron 4: una repetida, dos que no mostraban el lugar y una plaza vacía.
+- "Hoy": función diaria de acrobacia en el Teatro Chaoyang, según chaoyangtheatre.com (leída el 28/11/2026).
+  - No se sumaron el show de kung fu del Teatro Rojo ni la casa de té Lao She: sus sitios no confirman una función diaria (el del kung fu no abre).
