@@ -842,3 +842,117 @@
 842|Bezirk Fengtai
 843|Stadt Tianjin
 844|Bezirk Tongzhou
+845|Ein Turm der alten Stadtmauer mit bronzenen astronomischen Instrumenten aus der Kaiserzeit, manche zusammen mit europäischen Jesuiten gebaut.
+846|Es ist klein: Eine Stunde reicht. Geh auf die Terrasse, wo die Instrumente unter freiem Himmel stehen.
+847|Ein buddhistischer Tempel aus der Ming-Dynastie, versteckt in einem Hutong, berühmt für seine alte Musik, die seine Musiker noch im Hof spielen.
+848|Prüf vorher die Konzerttage: Die Musik zu hören macht den Besuch einzigartig.
+849|Ein Tempel mit fünf Steinpagoden auf einem großen gemeißelten Sockel, umgeben von Stelen und Reliefs des Pekinger Steinmuseums.
+850|Er liegt hinter dem Zoo: leicht zu kombinieren. Fast nie ist jemand da.
+851|Ein Tempel, der heute ein Museum alter Glocken ist, mit einer riesigen Glocke aus der Ming-Zeit voller buddhistischer Schriften.
+852|Nimm dir Zeit für die Halle der großen Glocke: Man steigt hinauf, um sie von oben zu sehen.
+853|Der berühmteste Campus Chinas, mit Gärten im Kaiserstil, dem Weiming-See und einer Pagode, die sich im Wasser spiegelt.
+854|Für den Eintritt musst du vorher mit dem Reisepass reservieren, und nicht jeden Tag gibt es Plätze. Kombiniere ihn mit dem Sommerpalast.
+855|Ein riesiger Garten am Fuß der Westberge, mit Gewächshäusern, Wäldern und dem Tempel des Schlafenden Buddha.
+856|Er liegt neben den Duftbergen: Beides lässt sich an einem Tag machen.
+857|Ein Park mit Seen und Pavillons, darunter Nachbauten berühmter Pavillons aus ganz China. Sehr lokal, mit Leuten, die tanzen und singen.
+858|Geh früh morgens hin, um das Parkleben zu sehen.
+859|Der Park des Purpurbambus: Wege zwischen Bambus, Seen und kleinen Brücken, neben der Nationalbibliothek.
+860|Von hier fahren in der warmen Jahreszeit die Boote der Kaiserroute zum Sommerpalast.
+861|Ein Seenpark neben dem Himmelstempel, mit Tretbooten und vielen Leuten aus dem Viertel.
+862|Zum Frühlingsfest findet hier einer der beliebtesten Tempelmärkte statt.
+863|Die älteste katholische Kirche Pekings: Sie entstand dort, wo der Jesuit Matteo Ricci Anfang des 17. Jahrhunderts lebte.
+864|Es gibt Messen in mehreren Sprachen; nimm Rücksicht auf die Gläubigen, wenn du währenddessen hineingehst.
+865|Eine weiße gotische Kirche aus dem späten 19. Jahrhundert, mit Buntglasfenstern und Türmen, ganz nah am Beihai-Park.
+866|Kombiniere sie mit Beihai: nur ein paar Straßen entfernt.
+867|Eines der größten Filmmuseen der Welt, mit Studios, Kameras und Kulissen aus der Geschichte des chinesischen Kinos.
+868|Eintritt frei mit Reservierung und Reisepass. Es liegt weit vom Zentrum: Kombiniere es mit einem Nachmittag im 798.
+869|Das Hofhaus, in dem Lu Xun lebte, der meistgelesene chinesische Schriftsteller des 20. Jahrhunderts, neben einem Museum über sein Leben.
+870|Lässt sich mit dem Miaoying-Tempel ein paar Schritte weiter kombinieren.
+871|Das Hofhaus des berühmtesten Darstellers der Peking-Oper, mit Kostümen, Fotos und Gegenständen aus seiner Karriere.
+872|Ideal vor einem Opernbesuch: Es hilft zu verstehen, was du sehen wirst.
+873|Eine Villa mit Garten am Ufer des Houhai, in der Soong Ching-ling lebte, eine Schlüsselfigur der modernen chinesischen Geschichte.
+874|Der Garten ist das Schönste: Lass dir Zeit und geh danach am See weiter.
+875|Eine schräge Gasse mit alten Häusern voller Läden, Cafés und Stände, die an der Silberbarren-Brücke über den See endet.
+876|Nachmittags ist es voll: Geh früh oder lauf weiter in die Hutongs ringsum.
+877|Das große, wiederaufgebaute Südtor der Altstadt, das das südliche Ende der Pekinger Zentralachse markiert.
+878|Vom Tor sieht man die Achse schnurgerade bis Qianmen. Schön für Fotos bei Sonnenuntergang.
+879|Ein Pfeilturm der Ming-Mauer, einer der wenigen, die noch stehen, nur wenige Schritte vom Xihai-See.
+880|Man sieht ihn gut von außen; kombiniere ihn mit einem Spaziergang um Xihai und Houhai.
+881|Ein riesiges kantonesisches Dim-Sum-Lokal gegenüber dem Ditan-Park, immer voll, mit Bildkarte und Gerichten zum Teilen.
+882|Hat sehr lange geöffnet: gut zum Essen nach dem Theater oder den Bars.
+883|Pekinger Küche und Pekingente in einem Hofhaus an der Gui Jie, mit Laternen und Tischen rund um den Garten.
+884|Reserviere oder komm früh: Abends ist es voll.
+885|Pekinger Hausmannskost, berühmt für die Birnensuppe aus dem Kupferkessel.
+886|Bestell die Birnensuppe und ein Fleischgericht nach Pekinger Art zum Teilen.
+887|Scharfes, günstiges Sichuan-Essen, enge Tische und viele Leute aus dem Viertel.
+888|Wenn du nicht scharf isst, sag Bescheid: Die Gerichte sind kräftig.
+889|Ein über 150 Jahre altes Lokal, spezialisiert auf Chaogan, einen dicken Eintopf aus Leber und Knoblauch, den die Pekinger zum Frühstück essen.
+890|Es ist ein kräftiger Geschmack: Probier ihn mit ein paar Baozi dazu.
+891|Eine kleine Bar in einem Hutong mit Livemusik fast jeden Abend: Folk, Jazz, Rock und neue Bands.
+892|Der Eintritt ist meist günstig oder frei. Schau vorher das Programm in ihren sozialen Netzwerken an.
+893|Eine Bar in einem Hofhaus mit Livebands von Jazz bis Rock und Musikstudenten aus der Gegend als Publikum.
+894|Die Bands fangen spät an; vorher kann man im Hof etwas trinken.
+895|Eine Pekinger Brauerei mit eigenen Bieren, manche mit chinesischen Aromen wie Tee oder Osmanthusblüte, in einem alten Fabrikgelände.
+896|Bestell das Probierbrett, um mehrere in kleinen Gläsern zu probieren.
+897|Eine Bar mit Dachterrasse, genau zwischen Trommelturm und Glockenturm.
+898|Geh bei Sonnenuntergang auf die Terrasse: Der Blick auf die beiden Türme ist das Beste.
+899|Eine klassische Cocktailbar in Sanlitun auf einer Hotelterrasse, mit langer Geschichte im Pekinger Nachtleben.
+900|Früh ist es ruhig, später wird es lebhafter.
+901|Tret- oder Elektroboote für eine Runde auf den Shichahai-Seen, zwischen Weiden, Brücken und Hofhäusern.
+902|Schön bei Sonnenuntergang. Im Winter friert der See zu und man läuft stattdessen Schlittschuh.
+903|Auf den Pavillon des Jingshan-Hügels steigen und die Sonne über den goldenen Dächern der Verbotenen Stadt untergehen sehen.
+904|Komm etwas früher: Oben drängen sich die Leute mit Kameras.
+905|Drachensteigen ist ein Pekinger Zeitvertreib: In den großen Parks sieht man Drachen in Form von Drachen oder Schwalben.
+906|Günstige Drachen gibt es an den Ständen am Eingang. Windige Frühlingstage sind am besten.
+907|Workshops zum Schreiben mit Pinsel und Tusche in der Straße der Pinsel, des Papiers und der Malerei.
+908|Buchbar über Agenturen oder in einigen Läden der Straße. Du nimmst mit, was du geschrieben hast.
+909|Nachts werden das Qianmen-Tor und die Fußgängerstraße beleuchtet, und die Gassen von Dashilan füllen sich mit Ständen und Lichtern.
+910|Geh vom beleuchteten Tor bis zur Straßenbahn der Straße und zurück durch Dashilan.
+911|Der Weg rund um den Palastgraben, mit den Ecktürmen, die sich im Wasser spiegeln. Einer der schönsten und ruhigsten Spaziergänge.
+912|Der Nordwest-Eckturm bei Sonnenuntergang ist das klassische Pekingfoto.
+913|In den Parks spielen die Leute aus dem Viertel Tischtennis an Betontischen, tanzen in Gruppen und machen Gymnastik. Viele laden dich zum Mitmachen ein.
+914|Geh früh morgens oder bei Sonnenuntergang, dann ist am meisten los.
+915|Ein mehrstöckiges Gebäude mit Ständen für Kleidung, Koffer, Schneider und Souvenirs, neben Sanlitun.
+916|Hier wird gehandelt: Fang weit unter dem ersten Preis an. Die Schneider fertigen Maßkleidung in wenigen Tagen.
+917|Ein riesiges, modernes Einkaufszentrum in Xidan mit Marken für junge Leute, Kinos und vielen Etagen voller Essen.
+918|In den oberen Etagen gibt es Essen aus ganz China.
+919|Eine der beliebtesten Buchhandlungen Pekings, mit Kunst- und Fotobüchern, die man auch ohne Chinesischkenntnisse genießt.
+920|Kombiniere sie mit dem Nationalen Kunstmuseum gegenüber.
+921|Die Buchhandlung mit den meisten Büchern auf Englisch und in anderen Sprachen der Stadt, mit Reiseführern, Karten und Büchern über China.
+922|Ein guter Ort für einen Sprachführer oder eine Papierkarte.
+923|Ein Markt für Antiquitäten und Sammlerstücke in den Höfen eines alten Tempels: Münzen, Briefmarken, Plakate und Bücher.
+924|Viele Antiquitäten sind Kopien: Kauf aus Freude, nicht als Geldanlage.
+925|Das große Kunsthandwerkskaufhaus Pekings: Jade, Cloisonné, Lackarbeiten, Seide und Porzellan zu Festpreisen.
+926|Gut, um Qualitätsstücke zu sehen, bevor du auf den Märkten kaufst.
+927|Eine Pekinger Teemarke aus dem späten 19. Jahrhundert, berühmt für Jasmintee und Grüntee-Eis.
+928|Probier das Tee-Eis am Eingang und nimm Jasmintee als Geschenk mit.
+929|Ein altes Stahlwerk, heute ein Park, mit Hochöfen, Seen und der Skisprungschanze der Olympischen Winterspiele 2022.
+930|Ideal zum Spazieren oder Radfahren zwischen den Industrieanlagen. Es liegt weit draußen: U-Bahn-Linie 1 Richtung Westen.
+931|Ein Hügel im Westen mit acht gestaffelten Tempeln zwischen Kiefern: Zu Fuß von Tempel zu Tempel oder mit dem Sessellift hinauf.
+932|Zieh bequeme Schuhe an. Hinunter geht es mit einer Rodelbahn, wie an der Großen Mauer.
+933|Felsige Berge nordwestlich der Stadt, mit markierten Wegen, Tempeln in der Höhe und Blick über die Ebene.
+934|Es gibt leichte Wege und andere mit Stufen und Ketten. Nimm Wasser mit und brich früh auf.
+935|Ein riesiger Park am Ufer des Kaiserkanals, mit Radwegen, Wäldern und Bootsfahrten.
+936|Am Eingang kann man Räder leihen. Mit der U-Bahn eine Stunde vom Zentrum.
+937|Ein Skigebiet nahe Peking, mit Anfängerpisten und Ausrüstungsverleih.
+938|In Betrieb im Winter mit Kunstschnee. Busse und Agenturen fahren aus der Stadt hin.
+939|Im tiefsten Winter friert ein Teil des Kunming-Sees zu und öffnet zum Schlittschuhlaufen und Stuhlschlittenfahren vor dem Palast.
+940|Nur wenn der See fest zugefroren ist: Prüf vorher, ob sie offen ist.
+941|Ein modernes Musicaltheater mit chinesischen Produktionen und Versionen großer Musicals aus aller Welt.
+942|Schau ins Programm: Manche Vorstellungen haben englische Übertitel.
+943|Eines der wenigen noch erhaltenen Holztheater aus der Kaiserzeit, mit Bühne und Logen, um Peking-Oper aus der Nähe zu sehen.
+944|Nicht jeden Tag gibt es eine Vorstellung: Schau vorher ins Programm.
+945|Das große Theater der Peking-Oper, benannt nach dem berühmtesten Darsteller des Genres.
+946|Wenn es dein erstes Mal ist, wähl ein Actionstück mit Akrobatik und Kämpfen.
+947|Der historische Konzertsaal der Stadt, mit klassischer Musik und Konzerten chinesischer Instrumente.
+948|Such dir ein Konzert mit traditioneller chinesischer Musik: Die hört man anderswo kaum.
+949|Ein großes Theater mit Ballett, Musicals, Tanz und Konzerten, nahe der Station Dongsi Shitiao.
+950|Tickets kauft man mit dem Reisepass auf der Website oder in der App des Theaters.
+951|Ein Puppen- und Schattentheater für Kinder mit Aufführungen traditioneller Märchen.
+952|Die Stücke sind kurz und fast ohne Text: Man versteht sie ohne Chinesisch.
+953|Das Eisenbahnmuseum im alten Qianmen-Bahnhof vom Anfang des 20. Jahrhunderts, mit Modellen und der Geschichte der Eisenbahn in China.
+954|Es liegt direkt am Tiananmen-Platz: Häng es an diesen Vormittag an.
+955|Edelsteine, riesige Kristalle und Dinosaurierskelette in einem der größten Geologiemuseen Asiens.
+956|Der Mineraliensaal ist bei Kindern am beliebtesten.
+957|Ein Fossilienmuseum mit Skeletten von Dinosauriern und urzeitlichen Tieren, die in China gefunden wurden.
+958|Es liegt gegenüber dem Zoo: Beides passt an einen Tag.
