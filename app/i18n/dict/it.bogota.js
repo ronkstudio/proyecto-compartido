@@ -277,7 +277,6 @@ Object.assign(window.I18N_FULL = window.I18N_FULL || {}, {
 "Temporada de cometas": "Stagione degli aquiloni",
 "Los vientos de agosto llenan los parques de barriletes.": "I venti di agosto riempiono i parchi di aquiloni.",
 "31 de octubre": "31 ottobre",
-"Halloween": "Halloween",
 "Los chicos salen disfrazados a pedir dulces por centros comerciales y barrios.": "I bambini escono travestiti a chiedere dolci nei centri commerciali e nei quartieri.",
 "Alumbrados y novenas": "Luminarie e novene",
 "Luces de Navidad en parques y calles, y las novenas, nueve noches de rezos, villancicos y buñuelos antes del 24.": "Luci di Natale in parchi e strade, e le novene: nove sere di preghiere, canti e buñuelos prima del 24.",

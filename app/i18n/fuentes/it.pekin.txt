@@ -1,0 +1,826 @@
+1|Palazzi, templi, musei, parchi e hutong
+2|Anatra laccata, hot pot, noodles e snack
+3|Birrerie, cocktail, musica dal vivo e opera
+4|Hutong, barche, tai chi e la Grande Muraglia
+5|La Grande Muraglia, le Tombe Ming, Tianjin e Chengde
+6|Ostelli, hotel in case a corte e lusso
+7|Mercati, tè, seta e antiquariato
+8|Calcio, pattinaggio sul ghiaccio e parchi
+9|Opera di Pechino, acrobazie e panda
+10|Città Proibita e Tiananmen
+11|Il centro del potere
+12|La Città Proibita, piazza Tiananmen, il Museo Nazionale, il Grande Teatro e, dietro il palazzo, la collina di Jingshan.
+13|Il più centrale, ma la sera è tranquillo e ci sono pochi hotel.
+14|Qianmen e Tempio del Cielo
+15|La Pechino commerciale di una volta
+16|La porta di Qianmen, la via Dashilan con i suoi negozi centenari, Liulichang, l'opera di Pechino e il Tempio del Cielo con il suo parco.
+17|Ben posizionato e con ostelli in case a corte.
+18|Laghi e hutong
+19|I laghi Houhai e Qianhai circondati da bar, il parco Beihai, la Residenza del principe Gong e le torri del Tamburo e della Campana.
+20|Bello e con hotel in case a corte; la sera, con musica nei bar.
+21|Gulou e Tempio dei Lama
+22|Hutong pieni di vita
+23|Nanluoguxiang, Wudaoying e i vicoli intorno, il Tempio dei Lama, il Tempio di Confucio e la via del cibo Gui Jie.
+24|La zona migliore per vivere gli hutong, con caffè e bar.
+25|Wangfujing e Dongsi
+26|Shopping e vicoli
+27|Il viale pedonale di Wangfujing, la cattedrale, il Museo d'Arte e, a nord, gli hutong ordinati di Dongsi.
+28|Molto centrale, con hotel di ogni categoria e buona metro.
+29|La notte internazionale
+30|Taikoo Li, le ambasciate, lo Stadio dei Lavoratori, bar, discoteche e ristoranti di tutto il mondo.
+31|Ideale per uscire; lontano dagli hutong.
+32|CBD e Ritan
+33|Grattacieli e mercati
+34|Le torri del centro direzionale, l'edificio della CCTV, il parco Ritan, Silk Street e il mercato di Panjiayuan.
+35|Hotel di lusso e buoni collegamenti in metro.
+36|798 e Wangjing
+37|Arte nelle fabbriche
+38|I distretti d'arte 798 e 751, in vecchie fabbriche, e le torri curve di Wangjing SOHO.
+39|Da visitare; lontano dal centro.
+40|Parco Olimpico
+41|I Giochi del 2008
+42|Il Nido d'uccello, il Cubo d'Acqua, la Torre Olimpica, il Museo della Scienza e il grande Parco Forestale Olimpico.
+43|Da visitare, soprattutto di sera con le luci.
+44|Haidian e Palazzo d'Estate
+45|Giardini imperiali e università
+46|Il Palazzo d'Estate, le rovine dell'Antico Palazzo d'Estate, le Colline Profumate e le università di Pechino e Tsinghua.
+47|Lontano dal centro: meglio per passarci la giornata.
+48|Xidan e l'ovest
+49|Templi e quartiere musulmano
+50|Il Tempio della Nuvola Bianca, la via Niujie con la sua moschea, il Museo della Capitale, lo zoo con i panda e i centri commerciali di Xidan.
+51|Meno turistico e ben collegato.
+52|Pechino in 1 giorno
+53|Con la prenotazione e il passaporto.
+54|Biglietto comprato prima.
+55|La vista del palazzo dall'alto.
+56|Prendi il numero all'arrivo.
+57|Anatra laccata.
+58|Giorno 2 · tutto il giorno
+59|Parti presto.
+60|Con la gente che fa tai chi.
+61|Una giornata negli hutong
+62|Templi, vicoli, caffè e laghi, tutto a piedi.
+63|Infilati nei vicoli laterali.
+64|Pechino gratis
+65|Il meglio senza spendere in biglietti (quasi tutto con prenotazione e passaporto).
+66|Alba
+67|Da fuori, con le luci.
+68|I panda, presto.
+69|Acrobazie.
+70|Gucheng – Universal Resort
+71|Tian'anmen East e West (Città Proibita), Wangfujing, Xidan, Guomao, Military Museum e Universal Resort
+72|Qianmen, Dongzhimen (treno per l'aeroporto), Yonghegong Lama Temple, Gulou Dajie e la stazione ferroviaria di Pechino
+73|Dongsi Shitiao – Dongbabei
+74|Workers' Stadium (vicino a Sanlitun), Tuanjiehu e Chaoyang Park
+75|Anheqiaobei – Tiangongyuan
+76|Beigongmen (Palazzo d'Estate), Yuanmingyuan Park, Beijing Zoo, Xidan, Caishikou e la stazione Pechino Sud
+77|Tiantongyuan North – Songjiazhuang
+78|Yonghegong Lama Temple, Beixinqiao, Dongsi, Dengshikou, Dongdan e East Gate of Temple of Heaven
+79|Jin'anqiao – Luyang
+80|Beihai North, Nanluogu Xiang, Dongsi, Chaoyangmen e Dongdaqiao
+81|Beijing West Railway – Universal Resort
+82|La stazione Pechino Ovest, Caishikou, Ciqikou, Happy Valley e Universal Resort
+83|Zhuxinzhuang – Yinghai
+84|Olympic Park, Gulou Dajie, Shichahai, Nanluogu Xiang, China Art Museum, Wangfujing, Qianmen e Tianqiao
+85|Guomao (CBD), Panjiayuan, Tuanjiehu e Agricultural Exhibition Center (Sanlitun), Liangmaqiao, Zhichun Lu e Caoqiao (treno per Daxing)
+86|Xizhimen – Dongzhimen
+87|Wudaokou (quartiere universitario) e il giro a nord della città
+88|Zhangguozhuang – Shan'gezhuang
+89|Jiangtai (vicino al 798), Wangjing, Chaoyang Park e la stazione Pechino Sud
+90|Qinghua Donglu Xikou – Fengbo
+91|Olympic Park e Wangjing
+92|Beianhe – Wanpingcheng
+93|Wanpingcheng (Ponte di Marco Polo), Yuyuantan Park East Gate e l'ovest di Haidian
+94|Beixinqiao – Terminal 2 e 3
+95|Dall'aeroporto Capital a Sanyuanqiao, Dongzhimen e Beixinqiao, dove cambi con la metro
+96|Caoqiao – Aeroporto Daxing
+97|Dall'aeroporto Daxing a Caoqiao, dove cambi con la linea 10
+98|Su tutte le linee della metro di Pechino si passa il tornello avvicinando una carta Visa, Mastercard, American Express, JCB o UnionPay contactless. Anche le biglietterie automatiche accettano carte estere.
+99|Alipay e WeChat
+100|Le due app di pagamento cinesi accettano carte estere e servono quasi per tutto: taxi, bici, cibo e biglietti. Installale e provale prima di partire.
+101|Biglietti singoli
+102|Alle macchinette delle stazioni si compra un biglietto per un viaggio: scegli la stazione di arrivo e paghi.
+103|Controlli
+104|In ogni stazione della metro la borsa passa allo scanner, come in aeroporto. Tienilo presente se vai di fretta.
+105|26 novembre 2026, con il sito ufficiale del governo di Pechino. Se qualcosa non coincide, valgono i cartelli della metro.
+106|Metro di Pechino
+107|Una rete enorme
+108|Ha 29 linee, con cartelli e annunci in cinese e inglese. Ogni linea ha un numero e un colore.
+109|Cambi lunghi
+110|Nelle stazioni grandi i corridoi tra le linee sono lunghi: calcola tempo in più.
+111|La mattina presto e all'uscita dal lavoro i treni sono pienissimi, soprattutto sulle linee 1, 4, 5 e 10.
+112|La metro non va tutta la notte. Se esci tardi, torna in taxi o con DiDi.
+113|Treni ad alta velocità
+114|Pechino Sud va a Tianjin e Shanghai; Pechino Ovest a Xi'an; Pechino Chaoyang a Chengde; e Qinghe alla Grande Muraglia di Badaling.
+115|Biglietti
+116|Si comprano con il passaporto, sul sito e sull'app ufficiale 12306 (in inglese) o in agenzie come Trip.com. Il giorno del viaggio entri passando il passaporto.
+117|Arriva prima
+118|Le stazioni sono enormi e ci sono controlli di sicurezza e del passaporto: arriva con calma.
+119|Capital (PEK)
+120|A nord-est. Il treno espresso parte dai terminal 3 e 2 e arriva a Sanyuanqiao, Dongzhimen e Beixinqiao, dove cambi con la metro.
+121|Daxing (PKX)
+122|A sud, più lontano. Il treno espresso arriva a Caoqiao, nel sud della città, dove cambi con la metro.
+123|Banchi di assistenza
+124|All'uscita degli arrivi internazionali di entrambi gli aeroporti ci sono i banchi "Beijing Service": vendono SIM e ti aiutano a installare le app di pagamento.
+125|Prendi il taxi solo alla fila ufficiale, mai da chi te lo offre dentro l'aeroporto.
+126|L'app per chiamare auto e taxi, in inglese e con carta estera. Funziona anche dentro Alipay.
+127|Funzionano a tassametro e sono economici. Quasi nessun tassista parla inglese: mostra il nome cinese del posto, che in questa guida è nell'indirizzo di ogni scheda.
+128|Uber
+129|Non funziona in Cina.
+130|I viali sono enormi e gli attraversamenti lunghi: calcola più tempo di quello che dice la mappa. Gli hutong sono il posto migliore per camminare.
+131|Ci sono bici a noleggio a ogni angolo; si sbloccano scansionando il codice con Alipay.
+132|Gli scooter elettrici sono silenziosi e girano sulle piste ciclabili e a volte sul marciapiede: guarda sempre prima di attraversare.
+133|Incidenti stradali
+134|Linea di assistenza della città di Pechino, anche in inglese e spagnolo (non per emergenze)
+135|Una città molto sicura
+136|Pechino è molto sicura per camminare, anche di notte: ci sono telecamere e poliziotti ovunque.
+137|Comunque, attenzione al telefono e al portafoglio in metro e nei luoghi affollati.
+138|Le linee di emergenza hanno interpreti gratuiti in altre lingue.
+139|Truffe ai turisti
+140|La più comune: giovani simpatici che vogliono fare pratica di inglese e ti invitano in una casa da tè o in una galleria d'arte. Alla fine arriva un conto enorme. Di' di no, con gentilezza.
+141|In aeroporti e stazioni, prendi il taxi solo alla fila ufficiale o chiamalo con DiDi.
+142|Nei mercati il primo prezzo può essere molte volte quello reale: contratta o tira dritto.
+143|Aria e clima
+144|Alcuni giorni d'inverno c'è molto inquinamento: guarda l'indice di qualità dell'aria (AQI) nell'app meteo e, se è alto, usa la mascherina.
+145|In primavera possono arrivare tempeste di sabbia da nord.
+146|In estate fa molto caldo e ci sono forti temporali: bevi molta acqua.
+147|Porta sempre il passaporto: lo chiedono per entrare in piazza Tiananmen, nei musei, sui treni e negli hotel.
+148|Se alloggi in una casa privata e non in hotel, devi registrarti al commissariato di zona entro 24 ore dall'arrivo. Gli hotel lo fanno per te.
+149|Se ti rubano o perdi il passaporto, fai denuncia alla polizia e vai alla tua ambasciata: in Info > Aiuto sono sulla mappa.
+150|Fai un'assicurazione di viaggio: gli ospedali con assistenza in inglese sono cari.
+151|Per entrare in Cina
+152|Senza visto, per ora
+153|I passaporti di Argentina, Brasile, Cile, Perù, Uruguay, Spagna, Italia, Francia e altri paesi possono entrare senza visto fino a 30 giorni, per turismo. La Cina ha annunciato questa regola fino al 31 dicembre 2026: se viaggi dopo, controlla se è stata prorogata.
+154|Transito di 240 ore
+155|Se prosegui verso un paese terzo, molte nazionalità possono restare fino a 10 giorni senza visto a Pechino, Tianjin e Hebei. Si chiede all'arrivo, con il biglietto di uscita.
+156|Altri paesi
+157|Se il tuo paese non è nella lista, ti serve il visto: chiedi all'ambasciata o al consolato cinese.
+158|Prima del volo
+159|Compila la carta di arrivo online sul sito ufficiale dell'immigrazione cinese: risparmi tempo in aeroporto.
+160|Yuan o renminbi (CNY). Per strada si dice kuai.
+161|Si paga con il telefono
+162|In Cina quasi tutto si paga con Alipay o WeChat Pay. Entrambe accettano carte estere: carica la carta nell'app prima di partire.
+163|I negozi devono accettare banconote, ma molti non hanno il resto: porta banconote piccole.
+164|I bancomat delle grandi banche, come Bank of China o ICBC, accettano carte estere.
+165|Non si lascia la mancia.
+166|Rimborso delle tasse
+167|Se spendi almeno 200 yuan in uno stesso negozio aderente nello stesso giorno, puoi riavere l'imposta. In alcuni grandi magazzini te la rimborsano subito, con il passaporto.
+168|Internet e app
+169|Cosa non funziona
+170|Con internet cinese non funzionano Google (Maps, Gmail, Traduttore), WhatsApp, Instagram, Facebook e YouTube.
+171|La tua SIM o una eSIM
+172|Con il roaming del tuo paese o una eSIM da viaggio comprata all'estero, di solito continuano a funzionare. Con una SIM cinese o il wifi dell'hotel, no.
+173|Mappe
+174|Google Maps in Cina funziona male: le Mappe di Apple vanno bene sull'iPhone, e anche le app cinesi Amap e Baidu.
+175|Installa prima
+176|Scarica Alipay, WeChat, DiDi e un traduttore prima di partire, finché tutto funziona.
+177|Orari di Pechino
+178|Prenotazioni con passaporto
+179|Quasi tutti i musei, i palazzi e piazza Tiananmen chiedono di prenotare prima, a tuo nome e con il numero di passaporto.
+180|Lunedì
+181|Molti musei chiudono il lunedì, tra cui la Città Proibita e il Museo Nazionale.
+182|Festività cinesi
+183|Durante il Capodanno cinese e la prima settimana di ottobre viaggia tutto il paese: tutto si riempie e i biglietti finiscono.
+184|Da settembre a ottobre è il periodo migliore: cielo limpido, temperatura piacevole e alberi rossi e gialli.
+185|Aprile e maggio sono belli, con fiori nei parchi, anche se può esserci vento e polvere.
+186|Molto caldo e umido, con forti temporali a luglio e agosto.
+187|Molto freddo e secco, sotto zero. I laghi gelano e si pattina; ci sono meno turisti.
+188|220 V. Le prese a tre poli a V sono simili a quelle di Argentina e Australia, e molte accettano anche due poli piatti o tondi.
+189|L'acqua del rubinetto non si beve: compra acqua o bollila. Gli hotel hanno il bollitore.
+190|Si parla cinese mandarino e poca gente parla inglese. Ogni scheda di questa guida ha il nome del posto in cinese, da mostrare.
+191|Bagni
+192|Ci sono bagni pubblici gratuiti ovunque. Porta fazzoletti di carta: molti non ne hanno.
+193|A tavola
+194|I piatti si condividono al centro. Non piantare le bacchette dritte nel riso.
+195|Tè e acqua calda
+196|Nei ristoranti ti servono tè o acqua calda: è normale.
+197|Code e spinte
+198|In metro e nei posti affollati si spinge un po': non è maleducazione.
+199|Anatra laccata, jiaozi, zhajiangmian, hot pot di agnello, panini al vapore, spiedini di agnello e yogurt nel vasetto di ceramica.
+200|Fuori Pechino
+201|Passaporto di Pechino
+202|Segna i posti che hai visitato e guadagna timbri: palazzi, templi, anatra laccata, hutong, la Grande Muraglia…
+203|Notte fonda a Pechino
+204|🏮 Hutong e vita notturna
+205|Nessuna stazione della metro vicina: meglio taxi o DiDi
+206|Cosa cerchi? Anatra laccata, templi, hutong, Grande Muraglia…
+207|Es.: Città Proibita, Tempio del Cielo, Palazzo d'Estate…
+208|Es.: Wangfujing, Sanlitun, Qianmen…
+209|Es.: Air China, Iberia, Air France…
+210|Anatra laccata
+211|Hutong
+212|Yuan
+213|Importo in yuan
+214|Fino al centro (piazza Tiananmen)
+215|Dall'aeroporto Capital
+216|Dall'aeroporto Daxing
+217|Aeroporto Capital
+218|Treni della Cina (12306)
+219|Biglietti del treno ufficiali, con passaporto
+220|Auto e taxi tramite app
+221|Dall'aeroporto Capital, il treno espresso ti lascia a Dongzhimen o Beixinqiao, dove cambi con la metro.
+222|Dall'aeroporto Daxing, il treno espresso arriva a Caoqiao, nel sud della città.
+223|In entrambi gli aeroporti, all'uscita degli arrivi internazionali, il banco "Beijing Service" vende SIM e ti aiuta con le app di pagamento.
+224|Prendi il taxi solo alla fila ufficiale o chiamalo con DiDi: non accettare offerte dentro l'aeroporto.
+225|Il più grande operatore mobile della Cina
+226|Con una SIM cinese o il wifi dell'hotel non funzionano Google, WhatsApp e Instagram.
+227|Il roaming del tuo operatore o una eSIM da viaggio comprata prima di partire di solito fa funzionare tutte le tue app.
+228|Negli aeroporti ci sono SIM cinesi per turisti: si comprano con il passaporto.
+229|Prima di partire, installa Alipay e WeChat e carica la carta: in Cina quasi tutto si paga con il telefono.
+230|Porta un po' di contanti in banconote piccole, nel caso l'app non funzioni.
+231|Se il bancomat o il POS ti propone di addebitare nella tua valuta, scegli di pagare in yuan.
+232|Metro con la carta, DiDi e treni
+233|I trasporti, sul sito ufficiale della città
+234|Biglietti del treno ufficiali
+235|In metro passi il tornello avvicinando la tua carta di credito o debito contactless: non serve comprare il biglietto.
+236|Per taxi e bici condivise, usa DiDi o Alipay.
+237|Metro, treni veloci, aeroporti e DiDi
+238|Non conviene: in Cina la patente internazionale non vale e serve un permesso cinese. Per uscire dalla città, meglio treno, escursione o auto con autista.
+239|eHi
+240|Noleggio auto (in cinese)
+241|CAR Inc
+242|La Cina non riconosce la patente internazionale: per guidare serve un permesso temporaneo cinese.
+243|Si guida a destra, ma il traffico è intenso e gli scooter elettrici spuntano ovunque.
+244|Per la Grande Muraglia e altre escursioni, molte agenzie offrono auto con autista per la giornata.
+245|Per pagare
+246|L'app di pagamento che si usa ovunque. Accetta carte estere e ha dentro DiDi, bici e biglietti.
+247|com.eg.android.AlipayGphone
+248|Messaggi e pagamenti: quasi tutti i cinesi la usano.
+249|Per chiamare auto e taxi, in inglese.
+250|Mappe e percorsi con i mezzi che funzionano bene in Cina.
+251|Biglietti del treno, hotel e ingressi, in inglese.
+252|La qualità dell'aria, per sapere se conviene la mascherina.
+253|Dizionario di cinese: traduce i cartelli con la fotocamera.
+254|Governo di Pechino: notizie
+255|Cambiamenti nei trasporti e nelle attrazioni.
+256|Interruzioni, temporali e chiusure nelle notizie del giorno.
+257|⭐ In evidenza questa settimana. Per altri programmi, guarda l'agenda di Visit Beijing e quella del Grande Teatro Nazionale: conferma prima di andare.
+258|Visit Beijing: eventi (sito ufficiale del turismo)
+259|Grande Teatro Nazionale: programmazione
+260|Pechino ha due aeroporti internazionali: Capital (PEK), a nord-est e più vicino al centro, e Daxing (PKX), a sud e più lontano. Controlla dove arriva il tuo volo: cambia il modo di andare in hotel.
+261|Grazie
+262|Voglio questo (indicando)
+263|Quanto costa?
+264|È troppo caro
+265|Non piccante, per favore
+266|🛬 Come arrivare dagli aeroporti Capital o Daxing al tuo alloggio
+267|💳 Come pagare con Alipay, WeChat o la carta in metro
+268|📵 Quali app non funzionano in Cina e come prepararsi
+269|🛂 Quando puoi entrare senza visto
+270|Aiuto ai turisti
+271|Ospedali con pronto soccorso
+272|Ambasciate
+273|Beijing Service · Aeroporto Capital, Terminal 3
+274|All'uscita degli arrivi internazionali: SIM, aiuto con le app di pagamento e biglietti.
+275|Beijing Service · Aeroporto Capital, Terminal 2
+276|Beijing Service · Aeroporto Daxing
+277|Fuori dalla sala bagagli dei voli internazionali: SIM, aiuto con le app di pagamento e biglietti.
+278|Polizia di Tiananmen
+279|Il commissariato della zona della piazza e della Città Proibita.
+280|Commissariato di Qianmen
+281|Vicino alla via Qianmen e a Dashilan.
+282|Commissariato del Tempio del Cielo
+283|A nord del Tempio del Cielo.
+284|Commissariato di Andingmen
+285|Vicino alle torri del Tamburo e della Campana e a Nanluoguxiang.
+286|Commissariato di Beixinqiao
+287|Vicino al Tempio dei Lama e a Gui Jie.
+288|Commissariato di Sanlitun
+289|Nella zona dei bar e delle ambasciate.
+290|Ospedale Peking Union (PUMCH)
+291|Uno degli ospedali più rinomati della Cina, con pronto soccorso e un reparto per stranieri. A pochi passi da Wangfujing.
+292|Ospedale Tongren
+293|Ospedale pubblico con pronto soccorso, noto per oculistica e otorinolaringoiatria.
+294|Ospedale Chaoyang
+295|Ospedale pubblico con pronto soccorso, vicino a Sanlitun e al CBD.
+296|Ospedale del Popolo dell'Università di Pechino
+297|Ospedale pubblico con pronto soccorso, nella zona ovest della città.
+298|Ospedale dell'Amicizia Cina-Giappone
+299|Ospedale pubblico con pronto soccorso e un reparto internazionale.
+300|Beijing United Family Hospital
+301|Ospedale privato con assistenza in inglese. È caro: tieni a portata di mano l'assicurazione.
+302|Ambasciata d'Argentina
+303|Si occupa anche delle pratiche consolari.
+304|Ambasciata del Brasile
+305|Con sezione consolare.
+306|Ambasciata del Cile
+307|Ambasciata della Colombia
+308|Ambasciata di Spagna
+309|La sezione consolare è a qualche isolato, nella stessa zona delle ambasciate.
+310|Ambasciata d'Italia
+311|Con cancelleria consolare.
+312|Ambasciata del Messico
+313|Ambasciata del Perù
+314|Ambasciata dell'Uruguay
+315|Nel complesso diplomatico di Liangmaqiao.
+316|Ambasciata degli Stati Uniti
+317|Con sezione consolare.
+318|Aeroporto Capital · Terminal 3
+319|Il treno espresso parte per Sanyuanqiao, Dongzhimen e Beixinqiao.
+320|Aeroporto Capital · Terminal 2
+321|Anche il treno espresso ferma qui.
+322|Il treno espresso arriva a Caoqiao, dove cambi con la linea 10.
+323|Stazione di Pechino
+324|La stazione storica, in centro, con treni normali e alcuni veloci.
+325|Stazione Pechino Sud
+326|Treni veloci per Tianjin e Shanghai. Metro: linee 4 e 14.
+327|Stazione Pechino Ovest
+328|Treni veloci per Xi'an e il sud del paese. Metro: linee 7 e 9.
+329|Stazione Qinghe
+330|Treni veloci per la Grande Muraglia di Badaling.
+331|Linea 12345
+332|La linea di assistenza della città, in 8 lingue tra cui inglese e spagnolo. Non per emergenze.
+333|Guida ufficiale per i visitatori
+334|Il sito in inglese del governo di Pechino, con pagamenti, trasporti e pratiche.
+335|Farmacie vicine, sulla mappa.
+336|Trova la mia ambasciata
+337|Cerca le ambasciate sulla mappa.
+338|Minimarket 24 ore
+339|Cibo da strada
+340|3 templi
+341|Templi e luoghi di culto
+342|2 locali di anatra laccata
+343|Palato pechinese
+344|2 locali di cucina pechinese
+345|Cucina pechinese
+346|Esploratore dei vicoli
+347|3 luoghi degli hutong
+348|Sulla Muraglia
+349|Un tratto della Grande Muraglia
+350|Grande Muraglia
+351|Storico
+352|2 musei
+353|Serata all'opera
+354|Uno spettacolo di opera di Pechino
+355|Pechinese onorario
+356|Passaporto con almeno 6 mesi di validità e una copia sul telefono
+357|Controllare se il tuo passaporto entra senza visto o se devi richiederlo
+358|Compilare la carta di arrivo online sul sito dell'immigrazione cinese
+359|Installare Alipay e WeChat e caricare la carta
+360|Installare DiDi, una mappa che funzioni in Cina e un traduttore
+361|Comprare una eSIM da viaggio o attivare il roaming
+362|Prenotare con il passaporto la Città Proibita, piazza Tiananmen e i musei
+363|Scaricare questa guida prima di partire
+364|Passare al banco "Beijing Service" dell'aeroporto se ti serve una SIM o aiuto con i pagamenti
+365|Provare un piccolo pagamento con Alipay o WeChat
+366|Prelevare un po' di contanti in banconote piccole
+367|Controllare la qualità dell'aria del giorno prima di uscire
+368|Classici di Pechino
+369|Palazzi imperiali
+370|Templi
+371|Cibo di Pechino
+372|Hot pot
+373|La Grande Muraglia
+374|Arte contemporanea
+375|Opera e spettacoli
+376|Città Proibita, Qianmen e Wangfujing
+377|Hutong e laghi
+378|Sanlitun e il CBD
+379|Parco Olimpico e 798
+380|L'ovest: templi e panda
+381|Hutong, laghi e Sanlitun
+382|La festa più grande della Cina: fiere nei templi e nei parchi, come Ditan e la Nuvola Bianca, lanterne rosse e fuochi d'artificio. Molti viaggiano e alcuni negozi chiudono.
+383|Festa delle Lanterne
+384|La fine del Capodanno cinese, con lanterne accese e palline di riso dolci (yuanxiao).
+385|Pieno inverno
+386|Pattinaggio sui laghi
+387|I laghi di Shichahai e del Palazzo d'Estate gelano e si pattina, anche su slitte a sedia.
+388|Fiori di primavera
+389|Ciliegi nel parco Yuyuantan, tulipani nel parco Zhongshan e lillà nel Tempio Fayuan.
+390|Primi giorni di maggio
+391|Festa dei lavoratori
+392|Diversi giorni di festa in tutto il paese: le attrazioni si riempiono e i biglietti finiscono.
+393|Festa delle barche drago
+394|Si mangiano gli zongzi, fagottini di riso avvolti in foglie, e ci sono gare di barche su alcuni laghi.
+395|Fiori di loto
+396|Gli stagni dell'Antico Palazzo d'Estate, di Beihai e Shichahai si riempiono di fiori di loto.
+397|Settembre o ottobre
+398|Festa di metà autunno
+399|La festa della luna piena: si regalano e si mangiano le torte della luna.
+400|Dall'1 al 7 ottobre
+401|Settimana d'oro
+402|La festa nazionale più lunga: Tiananmen si decora di fiori e tutto il paese viaggia. Evita quelle date se puoi.
+403|Ottobre e novembre
+404|Foglie d'autunno
+405|Le Colline Profumate diventano rosse e i ginkgo di Ditan e Diaoyutai gialli.
+406|Mangiare in Cina
+407|Menù con foto
+408|Molti ristoranti hanno il menù con foto o un QR code per ordinare dal telefono: indicare va benissimo.
+409|Da condividere
+410|I piatti si ordinano per il centro del tavolo. Uno a testa e un riso bastano.
+411|Piccante
+412|Se non vuoi il piccante, di' "bú yào là" (non piccante).
+413|Niente mancia. Si paga alla cassa o scansionando il codice del tavolo.
+414|Ambulanza: 120. Le linee di emergenza hanno interpreti gratuiti.
+415|Ospedali
+416|I grandi ospedali hanno reparti internazionali con assistenza in inglese. Sono sulla mappa in Info > Aiuto.
+417|Cerca l'insegna 药店 (farmacia). Porta i farmaci che prendi con la ricetta e la scatola originale.
+418|Molto consigliata: negli ospedali per stranieri l'assistenza è cara.
+419|In ogni scheda, il pulsante 'Recensioni, orari e foto' apre il posto su Google Maps con voto, recensioni, orari aggiornati e foto. In Cina funziona con il roaming del tuo paese o una eSIM da viaggio.
+420|Alzabandiera a Tiananmen all'alba: bisogna prenotare prima, con il passaporto
+421|Piazza Tiananmen si decora di fiori per la Festa nazionale, il 1° ottobre
+422|Il palazzo degli imperatori Ming e Qing per quasi 500 anni: cortili immensi, tetti gialli e centinaia di sale. Oggi è il Museo del Palazzo.
+423|Il biglietto si compra prima, online e con il passaporto: finisce, soprattutto durante le vacanze cinesi. Si entra da sud (porta Meridiana) e si esce a nord. Di solito chiude il lunedì.
+424|Una delle piazze più grandi del mondo, con la porta di Tiananmen e il ritratto di Mao, il Monumento agli Eroi del Popolo e la Grande Sala del Popolo.
+425|È gratis, ma bisogna prenotare prima con il passaporto e passare i controlli di sicurezza. Non portare accendini né coltelli.
+426|Il tempio dove l'imperatore pregava per buoni raccolti: la sala rotonda dal tetto blu, l'Altare Circolare e il Muro dell'Eco, dentro un parco enorme.
+427|Vai presto: il parco si riempie di gente che fa tai chi, balla, canta e gioca a carte. Compra il biglietto che include le sale.
+428|Il giardino estivo degli imperatori: il lago Kunming, la Collina della Longevità, il Lungo Corridoio dipinto e la barca di marmo.
+429|Calcola mezza giornata. Attraversa il lago in barca e sali alla Torre dell'Incenso di Buddha per la vista. In inverno si pattina sul lago.
+430|Le due torri che segnavano l'ora della città, alla fine dell'asse centrale. In quella del Tamburo ci sono esibizioni di tamburi più volte al giorno.
+431|Le scale sono molto ripide. La piazzetta tra le due torri è bella per guardare la vita del quartiere.
+432|Lo stadio dei Giochi Olimpici del 2008, con la sua trama d'acciaio che sembra un nido. Ha ospitato anche i Giochi invernali del 2022.
+433|Visitalo al tramonto, quando si illumina insieme al Cubo d'Acqua. Si può entrare con il biglietto.
+434|La grande porta delle mura che chiudeva piazza Tiananmen a sud, con la sua torre delle frecce di fronte. Fa parte dell'Asse Centrale di Pechino, Patrimonio dell'Umanità.
+435|Dall'alto si vede la piazza da una parte e la via Qianmen dall'altra.
+436|La residenza principesca meglio conservata della dinastia Qing, con cortili, un teatro di legno e un giardino con rocce e stagni.
+437|Ingresso con prenotazione. Abbinalo a una passeggiata intorno ai laghi di Houhai.
+438|L'edificio al centro della piazza dove si vede il corpo imbalsamato di Mao Zedong. La fila scorre veloce e in silenzio.
+439|Apre solo la mattina e alcuni giorni: prenota prima con il passaporto. Non si entra con borse né macchine fotografiche; c'è un deposito di fronte.
+440|Il grande tempio del buddhismo tibetano di Pechino, con fumo d'incenso, monaci e un Buddha di 18 metri scolpito in un solo tronco di sandalo.
+441|All'ingresso ti regalano l'incenso. Dentro le sale non si fanno foto.
+442|Il tempio di Confucio e, accanto, l'accademia imperiale, con cipressi secolari e lapidi con i nomi di chi superava gli esami.
+443|È di fronte al Tempio dei Lama: visitali insieme.
+444|Il tempio taoista più importante di Pechino, con cortili colorati, incenso e monaci dai lunghi capelli raccolti.
+445|Cerca le scimmiette scolpite nella pietra: toccarle porta fortuna. Al Capodanno cinese c'è una fiera.
+446|La moschea più antica di Pechino, con più di mille anni e l'aspetto di un tempio cinese, nel quartiere musulmano della città.
+447|Indossa abiti che coprano spalle e ginocchia. All'ora della preghiera possono entrare solo i fedeli.
+448|Un tempio taoista con 76 salette che rappresentano gli uffici dell'aldilà, piene di statue e tavolette rosse con desideri.
+449|È a pochi passi dalla metro Chaoyangmen e quasi mai affollato.
+450|Il tempio buddhista più antico dentro la città, con una scuola di monaci e un cortile di lillà che fioriscono ad aprile.
+451|Un'oasi di pace in un quartiere di hutong poco turistico.
+452|Una chiesa cattolica del 1904 in pieno viale Wangfujing, costruita dove sorgeva una chiesa dei gesuiti del XVII secolo.
+453|La piazza davanti è punto d'incontro e di foto degli sposi.
+454|La pagoda bianca più antica di Pechino, del XIII secolo, opera di un architetto nepalese, nascosta tra le case.
+455|Dal marciapiede di fronte si vede intera; il tempio è piccolo e tranquillo.
+456|Uno dei musei più grandi del mondo, accanto a Tiananmen: bronzi, giade, ceramiche e la storia della Cina dalla preistoria.
+457|È gratis, con prenotazione e passaporto. Chiude il lunedì. Scegli due o tre sale: non si vede in un giorno.
+458|La storia di Pechino in un edificio moderno, con sale di porcellana, bronzi e la vita negli hutong di una volta.
+459|Gratis con prenotazione. Di solito chiude il lunedì.
+460|Il museo d'arte cinese moderna, con pittura a inchiostro, stampe e mostre che cambiano.
+461|Gratis con prenotazione. È vicino agli hutong di Dongsi.
+462|Carri armati, aerei, missili e la storia delle guerre della Cina in un enorme edificio degli anni Cinquanta.
+463|Gratis con prenotazione e passaporto.
+464|Un museo della scienza da toccare, con sale per bambini, un cinema a cupola e la storia delle invenzioni cinesi.
+465|Si prenota prima; nel fine settimana si riempie di famiglie.
+466|Dinosauri, animali e una sala sulle origini della vita, di fronte al Tempio del Cielo.
+467|Gratis con prenotazione. Ideale con i bambini e nei giorni di pioggia.
+468|Il centro d'arte contemporanea più importante della Cina, in una vecchia fabbrica del distretto 798.
+469|Guarda che mostra c'è prima di andare. Il negozio ha design cinese molto bello.
+470|Parco e giardino
+471|La collina dietro la Città Proibita, fatta con la terra del fossato. Dal padiglione in cima si vede tutto il palazzo.
+472|Salici all'uscita dalla Città Proibita, che finisce proprio di fronte. Al tramonto la vista è la migliore.
+473|Uno dei giardini imperiali più antichi della Cina: un lago con barche, un'isola con una pagoda bianca e il Muro dei Nove Draghi.
+474|Noleggia una barchetta a pedali. Dall'uscita nord si arriva a piedi a Houhai.
+475|Il parco dell'Altare del Sole, tranquillo e pieno di alberi, nel quartiere delle ambasciate.
+476|La mattina si vedono gruppi di ballo e gente che gioca a jianzi, un volano che si calcia.
+477|L'antico altare della Terra e delle Messi, accanto alla Città Proibita, con cipressi antichi e, ad aprile, migliaia di tulipani.
+478|Un modo tranquillo per uscire dalla folla di Tiananmen.
+479|Quel che resta di un enorme palazzo con edifici in stile europeo, saccheggiato e incendiato nel 1860. Oggi è un parco di laghi e rovine.
+480|Le rovine di pietra sono nel settore dei palazzi occidentali (Xiyanglou). In estate fioriscono i loti.
+481|Un parco di montagna a ovest della città, famoso per gli alberi rossi in autunno, con sentieri, templi e una seggiovia.
+482|Ottobre e inizio novembre sono il periodo migliore, ma anche il più affollato. Porta scarpe da ginnastica.
+483|autunno
+484|Il parco dell'Altare della Terra, con boschetti di ginkgo che in autunno diventano gialli e una grande fiera al Capodanno cinese.
+485|È a pochi passi dal Tempio dei Lama.
+486|L'hutong più famoso: una stradina di 700 anni piena di negozi, dolci e caffè, con vicoli laterali molto più tranquilli.
+487|Si riempie molto. Infilati nei vicoli laterali, come Mao'er o Ju'er, per vedere vere case a corte.
+488|Un hutong pieno di caffè, piccoli bar con terrazza e negozi di design, dietro l'angolo dal Tempio dei Lama.
+489|Ideale per un caffè dopo il tempio.
+490|Tre laghi uniti (Qianhai, Houhai e Xihai) circondati da salici, hutong e bar, con il ponte Yinding e la stradina delle pipe (Yandai Xiejie).
+491|Passeggia intorno al lago al tramonto. In inverno gela e si pattina.
+492|La vecchia via commerciale a sud di Tiananmen, con negozi di oltre cent'anni: sete, scarpe di stoffa, tè e medicina cinese.
+493|Prosegui verso ovest per Dashilan Xijie e i vicoli intorno, meno turistici.
+494|Una via con archi di legno dipinti e alberi enormi, tra il Tempio di Confucio e gli hutong.
+495|Percorrila senza fretta: è una delle più belle della città.
+496|Una casa a corte trasformata in museo sulla vita negli hutong: foto, plastici e i suoni di una volta.
+497|Gratis. Abbinalo a una passeggiata negli hutong di Dongsi.
+498|Fabbriche degli anni Cinquanta, di progetto tedesco, trasformate in gallerie, caffè e negozi d'arte.
+499|Molte gallerie chiudono il lunedì. Vai con calma per perderti.
+500|La vecchia centrale del gas accanto al 798, con serbatoi giganti, tubature e una locomotiva a vapore trasformati in spazi di design e moda.
+501|Si visita gratis; abbinalo al 798.
+502|Architettura e punti panoramici
+503|La sede della televisione cinese, di Rem Koolhaas: due torri inclinate unite in alto. I pechinesi la chiamano "i pantaloni".
+504|Non si visita all'interno; la foto migliore è dal parco di fronte.
+505|Quattro edifici arrotondati di Zaha Hadid uniti da ponti, come onde bianche.
+506|Si può entrare nel cortile e nei negozi sotto.
+507|Tre torri curve di Zaha Hadid che sembrano montagne d'argento.
+508|È vicino al 798: abbinali.
+509|Il centro di nuoto del 2008, con la facciata a bolle, che nel 2022 è diventato pista di curling: il "Cubo di Ghiaccio".
+510|Di notte cambia colore, di fronte al Nido d'uccello.
+511|Una torre a cinque steli con un belvedere in cima, per vedere tutto il Parco Olimpico e, nei giorni limpidi, le montagne.
+512|Scegli un giorno senza smog.
+513|Uno dei locali di anatra laccata più amati dai pechinesi, con una sede a pochi passi dalla Città Proibita.
+514|C'è sempre la fila: prendi il numero all'arrivo o vai presto. Ordina mezza anatra se siete in due.
+515|L'anatra laccata moderna, con la pelle croccante e poco grasso, in un ristorante elegante.
+516|Prenota. Il menù è enorme e con foto.
+517|La sede originale della casa di anatra laccata più famosa, aperta nel 1864, con i forni a vista.
+518|Più turistico di altri, ma ha storia.
+519|La casa dell'anatra più antica di Pechino, dell'epoca Ming, che la cuoce in forno chiuso, senza fiamma a vista.
+520|Confrontala con quella di Quanjude: lo stile è diverso.
+521|Un ristorante familiare di anatra laccata nascosto in una casa a corte degli hutong di Qianmen.
+522|È piccolo: prenota. Segui i cartelli tra i vicoli.
+523|Un locale di snack tradizionali di Pechino: dolci di piselli, tortine di riso ripiene, panini al vapore e il famoso douzhi, una bevanda acida di fagioli.
+524|Si sceglie guardando la vetrina e si paga alla cassa. Il douzhi è per coraggiosi.
+525|Una trattoria di quartiere famosa per il chaogan, uno stufato denso di fegato, e per i panini al vapore.
+526|Mangia lì, ai tavoli condivisi, come la gente del quartiere.
+527|Una casa centenaria di baodu: trippa bollita pochi secondi e intinta nella salsa di sesamo.
+528|Se non te la senti con la trippa, ordina i panini al sesamo.
+529|Cucina imperiale in una sala dentro il parco Beihai, con ricette della corte Qing e i dolci che mangiava l'imperatrice.
+530|Abbinalo alla passeggiata nel parco. Prenota.
+531|Un cortile dove si sono riunite diverse case di snack tradizionali di Pechino: tofu, fritti, pani e dolci.
+532|Si paga con una tessera che ricarichi all'ingresso.
+533|Il locale di hot pot di agnello più famoso di Pechino, aperto nel 1903: fettine sottili di agnello cotte nel brodo bollente.
+534|Chiedi la salsa di sesamo per intingere.
+535|hot pot
+536|Hot pot di agnello halal nel quartiere musulmano, con una lunga fila di pechinesi alla porta.
+537|Accanto vendono i panini al sesamo da portare via.
+538|Hot pot all'antica, in pentole di rame con il carbone al centro, sulla riva del lago Qianhai.
+539|Ideale in inverno, dopo aver pattinato sul lago.
+540|La catena di hot pot piccante del Sichuan famosa per il servizio: ti portano di tutto mentre aspetti e c'è uno show di noodles tirati a mano.
+541|Ordina il brodo diviso in due: uno piccante e uno delicato.
+542|Noodles e ravioli
+543|Una casetta di jiaozi, i ravioli cinesi bolliti, in un hutong vicino alla Torre del Tamburo, con menù in inglese e ripieni a scelta.
+544|Si ordinano a piatto di diversi pezzi: prova due o tre ripieni.
+545|Una trattoria di jiaozi fatti in casa con tantissimi ripieni, a pochi passi dal Tempio dei Lama.
+546|Prova quelli di maiale e finocchio.
+547|Noodles zhajiangmian, il piatto più pechinese: noodles spessi con salsa di fagioli fermentati e verdure crude.
+548|Mescola tutto bene prima di mangiare.
+549|Un localino di zhajiangmian in un hutong vicino a Nanluoguxiang, con la fila di gente del quartiere all'ora di pranzo.
+550|Ordina il piatto grande da condividere e mescola tutto bene.
+551|Cucine della Cina
+552|Cucina dello Yunnan, nel sud-ovest della Cina: funghi, erbe fresche e piccante leggero, in un edificio storico.
+553|Bello per cenare dopo una passeggiata a Qianmen.
+554|Cucina dello Yunnan con menù fisso, in una casa a corte illuminata da lanterne.
+555|Prenota e lasciati guidare dal menù del giorno.
+556|Il ristorante dell'ufficio del governo del Sichuan a Pechino: cibo piccante sul serio, con il pepe che addormenta la bocca.
+557|Ordina il pollo kung pao e il tofu mapo. Se non ami il piccante, avvisa.
+558|Cucina uigura dello Xinjiang: spiedini di agnello al cumino, pani al forno e noodles tirati a mano.
+559|È halal e non serve maiale.
+560|Alta cucina vegetariana in una casa a corte di fronte al Tempio dei Lama, con stelle Michelin.
+561|Prenota con anticipo. C'è un menù degustazione.
+562|Cucina francese d'autore in una casa a corte restaurata degli hutong, con stelle Michelin.
+563|Prenota. Il cortile è al meglio in primavera e in autunno.
+564|Anatra laccata di lusso con tocchi francesi, in un complesso di vecchie fabbriche di mattoni accanto allo Stadio dei Lavoratori.
+565|Prenota e ordina l'anatra intera da condividere.
+566|Anatra laccata e cucina cantonese nel seminterrato dell'hotel The Opposite House, con un design molto curato.
+567|Buona opzione per gustare l'anatra con più calma.
+568|La via del cibo, con un chilometro di ristoranti illuminati da lanterne rosse, aperti fino a tardissimo. Il piatto forte sono i gamberi di fiume piccanti.
+569|Hu Da è il più famoso; bisogna aspettare.
+570|Un vicolo di bancarelle con snack e spiedini di tutta la Cina, a lato del viale Wangfujing.
+571|È molto turistico: vieni a guardare e assaggia qualcosa di piccolo.
+572|La via del quartiere musulmano, con panetterie, macellerie halal e bancarelle di dolci e snack.
+573|Prova i dolci della casa Baiji e i panini al sesamo.
+574|Una stradina di hutong con locali di snack, teatri e negozi di quartiere, vicino a Houhai.
+575|Abbinala alla casa di Mei Lanfang, il grande attore dell'opera di Pechino.
+576|Caffè e dolci
+577|Un minuscolo caffè specialty in un hutong, uno di quelli che hanno reso famoso il caffè di Pechino.
+578|Ordina un filtro con chicchi dello Yunnan.
+579|Dessert di latte cagliato alla maniera della corte imperiale, freddi e morbidi, nel quartiere di Niujie.
+580|Abbinalo alla moschea e alla via Niujie.
+581|La pasticceria tradizionale di Pechino: dolcetti ripieni, torte della luna e dolci dell'epoca imperiale.
+582|Le scatoline assortite sono il regalo tipico di Pechino.
+583|Un'enorme libreria con caffè e vetrate sulla porta di Qianmen.
+584|Ci sono libri in inglese e bei quaderni cinesi.
+585|Birra artigianale
+586|Il primo birrificio artigianale di Pechino, in un cortile nascosto di un hutong, con birre fatte con tè e pepe del Sichuan.
+587|È difficile da trovare: cerca il numero 6 del vicolo.
+588|Birrificio pechinese con molte spine e cibo, noto per le birre con ingredienti cinesi.
+589|Buoni hamburger per accompagnare.
+590|Birrificio con terrazza sulle rive del fiume Liangma, nella zona delle ambasciate.
+591|In estate, la terrazza sull'acqua.
+592|Un birrificio pechinese con birre leggere e forti, in un locale grande vicino a Nanluoguxiang.
+593|Per chiudere la giornata dopo gli hutong.
+594|Un bar dedicato al baijiu, l'acquavite cinese, con degustazioni guidate in un hutong.
+595|Ordina la degustazione da tre: il baijiu è forte e strano all'inizio.
+596|Un classico cocktail bar di Sanlitun, con bancone di legno e drink d'autore.
+597|Si riempie nel fine settimana: arriva presto.
+598|Un piccolissimo bar di whisky e cocktail in stile giapponese, con un servizio molto curato.
+599|Ideale per poche persone e una chiacchierata tranquilla.
+600|Il bar all'80° piano di un hotel della torre China World, con la città illuminata ai tuoi piedi.
+601|Prenota un tavolo vicino alla finestra e vai al tramonto.
+602|Un bar rock e punk piccolo e sudato, dove suonano le nuove band di Pechino.
+603|Guarda la programmazione sui loro social prima di andare.
+604|Un locale di concerti di culto, in un edificio storico, con band cinesi e straniere.
+605|I biglietti si comprano alla porta o in anticipo, secondo il concerto.
+606|Jazz dal vivo al primo piano con vetrate sul lago Qianhai.
+607|Arriva presto per un tavolo vicino alla finestra.
+608|Una casa da tè tradizionale con spettacoli di opera di Pechino, acrobazie, cambio delle maschere e musica cinese mentre bevi il tè.
+609|Prenota lo spettacolo serale. È turistico ma molto completo.
+610|Zona dei bar
+611|Il quartiere della notte internazionale, con il centro commerciale Taikoo Li, bar, terrazze e discoteche.
+612|Ignora chi per strada ti invita a entrare nei bar.
+613|Bar con musica dal vivo e terrazze in riva al lago, con lanternine e barche.
+614|Guarda i prezzi prima di ordinare: ci sono bar cari per turisti.
+615|Le grandi discoteche di Pechino, intorno al nuovo Stadio dei Lavoratori.
+616|La notte inizia molto tardi.
+617|Il viale che parte dalla Torre del Tamburo, con piccoli bar, negozi di strumenti e birrifici negli hutong intorno.
+618|Più rilassato ed economico di Sanlitun.
+619|Un giro in risciò a pedali tra i vicoli di Shichahai, con soste in una casa di famiglia.
+620|Prenotalo presso agenzie ufficiali e concorda il prezzo totale prima di salire.
+621|Barche che attraversano il lago del Palazzo d'Estate, tra la barca di marmo e il Ponte dei Diciassette Archi.
+622|Risparmia strada: attraversa in barca e torna a piedi lungo il Lungo Corridoio.
+623|La via d'acqua che percorreva l'imperatrice: una barca lungo il fiume Changhe dallo zoo al Palazzo d'Estate.
+624|Funziona nella stagione calda; controlla prima se è attivo.
+625|Le bici condivise si sbloccano con il telefono e sono il modo più pechinese di girare gli hutong.
+626|Si attivano da Alipay o WeChat. Usa il casco se puoi e attenzione agli scooter elettrici silenziosi.
+627|La cerimonia dell'alba, quando i soldati marciano e alzano la bandiera davanti alla porta di Tiananmen.
+628|È all'alba: prenota la piazza e arriva molto prima. Tanta gente.
+629|La mattina presto, il parco del Tempio del Cielo si riempie di gente che fa tai chi, balla e canta. Molti ti invitano a unirti.
+630|Vai appena apre il parco. Guarda e, se ti invitano, prova.
+631|Laboratori per imparare a fare jiaozi, noodles tirati a mano o anatra, con un cuoco e in inglese.
+632|Si prenotano online. Buona idea per un giorno di pioggia.
+633|Nella via del tè di Maliandao, i venditori ti fanno assaggiare tè cinesi con tutto il rituale.
+634|Assaggiare è gratis, ma è educato comprare qualcosa. Controlla bene il prezzo al peso.
+635|Agenzie che ti vengono a prendere in hotel e ti portano su un tratto della Muraglia, con guida e pranzo.
+636|Scegline una che vada a Mutianyu o Jinshanling e non si fermi nei negozi.
+637|Una guida ti porta per gli hutong ad assaggiare snack pechinesi che da solo non oseresti ordinare.
+638|Avvisa se hai allergie.
+639|Passeggiate guidate tra i vicoli di Gulou, Dongsi o Dashilan, con la storia delle case a corte.
+640|Prenota con un'agenzia con buone recensioni.
+641|La linea di quasi 8 chilometri che ordina la città, dalla porta Yongding alla Torre della Campana, Patrimonio dell'Umanità dal 2024.
+642|Si può fare con guida o da soli: Tempio del Cielo, Qianmen, Tiananmen, Città Proibita, Jingshan e le torri.
+643|Il tratto restaurato più bello vicino a Pechino, tra montagne boscose, con seggiovia per salire e slittino per scendere.
+644|Una giornata intera. Ci sono bus diretti da Dongzhimen e agenzie. Meno affollato di Badaling.
+645|Il tratto più visitato e facile da raggiungere, con un treno diretto da Pechino. Si prenota con il passaporto.
+646|Vai in un giorno feriale: nel fine settimana è una marea di gente.
+647|Un tratto in parte restaurato e in parte originale, con torri sulle creste e pochissima gente. Per camminare diverse ore.
+648|Porta acqua e scarpe da ginnastica. È bellissimo all'alba e al tramonto.
+649|La muraglia selvaggia, non restaurata, su picchi ripidissimi: quella delle foto più spettacolari.
+650|È pericolosa: vai solo con una guida e buone scarpe. Non salire con la pioggia.
+651|Un tratto originale che si visita anche di notte, illuminato, accanto al paese di Gubei.
+652|Prenota il biglietto con orario. Abbinalo a una notte a Gubei.
+653|Storia e paesi
+654|La valle dove sono sepolti tredici imperatori Ming, con la Via Sacra delle statue di pietra.
+655|Si abbina a Badaling nello stesso giorno.
+656|Un paese di canali e case antiche ricostruito ai piedi della Muraglia di Simatai, con hotel e lanterne di notte.
+657|Ideale per dormire una notte e vedere la Muraglia illuminata.
+658|Un paese di montagna di case di pietra delle epoche Ming e Qing, in una valle tranquilla.
+659|È lontano e senza buoni trasporti: meglio in auto o con un tour.
+660|Un ponte di pietra del XII secolo con centinaia di leoni scolpiti, tutti diversi, descritto da Marco Polo. Accanto c'è la fortezza di Wanping.
+661|Conta i leoni: dicono che nessuno arrivi allo stesso numero.
+662|Città e templi
+663|La grande città portuale a mezz'ora in treno veloce, con quartieri di case europee, la Via della Cultura Antica e una ruota panoramica su un ponte.
+664|Prendi il treno alla stazione Pechino Sud. Basta un giorno.
+665|L'enorme residenza estiva degli imperatori Qing, con laghi, boschi e templi che copiano quelli del Tibet.
+666|Treno veloce da Pechino Chaoyang. Meglio con una notte.
+667|Un tempio buddhista in montagna più antico della stessa Pechino, con ginkgo millenari.
+668|Abbinalo al Tempio Jietai, che è vicino.
+669|Il tempio dove si ordinavano i monaci, con un grande altare di marmo e famosi pini contorti.
+670|Più tranquillo di Tanzhe.
+671|Un ostello classico su Nanluoguxiang, con camerate e stanze private, e gente di tutto il mondo.
+672|Organizzano escursioni alla Muraglia.
+673|Un ostello con un buon servizio negli hutong di Dongsi, vicino alla metro.
+674|Chiedi aiuto alla reception per prenotare i biglietti.
+675|Un ostello in una casa a corte vicino a Dashilan, a pochi passi da Qianmen.
+676|Ben posizionato per andare a piedi a Tiananmen.
+677|Un ostello in una casa a corte con lanterne rosse, negli hutong dell'ovest.
+678|Atmosfera tranquilla, lontano dalla vita notturna di Houhai.
+679|Hotel in casa a corte
+680|Un boutique hotel in una casa a corte, con terrazza con vista sulla Torre del Tamburo.
+681|Prenota con anticipo: ha poche camere.
+682|Un siheyuan dell'epoca Qing con mobili antichi, vicino a Nanluoguxiang.
+683|Chiedi una camera che dia sul cortile.
+684|Un hotel in una vecchia residenza a corte dell'epoca Qing, con una porta di pietra con leoni, dietro l'angolo da Nanluoguxiang.
+685|Un hotel in una casa a corte con gallerie dipinte e lanterne rosse, negli hutong di Dongsi.
+686|Vicino alla metro Dongsi e a piedi da Wangfujing.
+687|Un comodo hotel di catena a un isolato da Wangfujing.
+688|Buona base per andare a piedi alla Città Proibita.
+689|Un hotel classico vicino a Qianmen che ospita al suo interno il Teatro Liyuan, di opera di Pechino.
+690|Ideale se vuoi vedere l'opera senza uscire dall'hotel.
+691|Un hotel moderno a pochi passi dalla via pedonale di Wangfujing.
+692|Le camere ai piani alti hanno vista sulla città.
+693|Un grande hotel sul viale Chang'an, con una piscina coperta che sembra una giungla.
+694|Sotto ci sono il centro commerciale Oriental Plaza e la metro.
+695|Un hotel di lusso classico a pochi passi da Wangfujing e dalla Città Proibita.
+696|Il servizio è tra i migliori della città.
+697|Padiglioni d'epoca imperiale accanto al Palazzo d'Estate, con un ingresso privato al parco.
+698|Lontano dal centro, ma il Palazzo d'Estate vuoto la mattina non ha prezzo.
+699|Un hotel di lusso moderno di fronte alla torre della CCTV, con buoni ristoranti.
+700|Comodo per muoversi tra CBD e Sanlitun.
+701|Un hotel di design di Kengo Kuma in pieno Taikoo Li, con facciata di vetro verde.
+702|Ideale se vuoi uscire la sera a Sanlitun.
+703|Il grande mercato di antiquariato e cose vecchie: porcellana, giade, libretti di Mao, mobili e migliaia di souvenir.
+704|Il fine settimana di mattina è quando ci sono più bancarelle. Contratta: quasi niente è davvero antico.
+705|Un edificio di diversi piani pieno di bancarelle di vestiti, seta, valigie e souvenir.
+706|Contratta sul serio: il primo prezzo può essere molte volte quello reale.
+707|Perle, giade, elettronica e souvenir, di fronte alla porta est del Tempio del Cielo.
+708|Ai piani superiori ci sono le perle; contratta.
+709|Più di un chilometro di negozi di tè, teiere e tazze, dove comprano gli esperti.
+710|Chiedi di assaggiare prima di comprare.
+711|Vie e centri commerciali
+712|Il viale pedonale dello shopping più famoso, con grandi magazzini, librerie e la Cattedrale di San Giuseppe.
+713|La libreria Foreign Languages Bookstore ha libri in inglese sulla Cina.
+714|Un centro commerciale all'aperto con negozi internazionali, marchi cinesi di design e ristoranti.
+715|La sera si riempie di giovani e di luci.
+716|Uno dei centri commerciali di lusso più grandi del mondo, con un'area ristoro di prima classe.
+717|Con il passaporto, chiedi del rimborso immediato delle tasse.
+718|Il viale pedonale ricostruito a sud di Tiananmen, con un tram d'epoca e negozi di marchi tradizionali.
+719|Molto bella di sera, con le lanterne accese.
+720|Negozi tradizionali
+721|Il negozio di sete del 1893, dove si fanno abiti su misura (qipao).
+722|I foulard di seta sono un buon regalo.
+723|La grande casa d'arte di Liulichang, con più di 300 anni: carta, pennelli, sigilli, dipinti e xilografie.
+724|Guardare è gratis; le piccole stampe sono un buon regalo.
+725|La farmacia di medicina cinese più famosa, del 1669, che riforniva la corte imperiale.
+726|Guardare i cassetti delle erbe vale già la visita. Non comprare medicine senza consultare un medico.
+727|La via della calligrafia e della pittura: pennelli, carta di riso, sigilli, inchiostro e antiquariato.
+728|Possono farti un sigillo con il tuo nome in cinese.
+729|Lo stadio di calcio di Pechino, ricostruito nel 2023, dove gioca il Beijing Guoan, con una tifoseria rumorosissima.
+730|La stagione del campionato cinese va da marzo a novembre. I biglietti si vendono su app cinesi: chiedi aiuto in hotel.
+731|Il palazzetto di Wukesong, dei Giochi del 2008 e del 2022, con basket, hockey su ghiaccio e concerti.
+732|Guarda il calendario: ci sono partite del campionato cinese di basket.
+733|Il "Nastro di Ghiaccio", lo stadio del pattinaggio di velocità del 2022, che apre al pubblico per pattinare.
+734|Controlla prima i giorni aperti al pubblico. Si noleggiano i pattini.
+735|In pieno inverno il lago gela e diventa la pista di pattinaggio più famosa di Pechino, con slitte a sedia.
+736|Solo nei mesi più freddi, quando il ghiaccio è sicuro.
+737|Un parco enorme con un lago e circuiti di corsa da 5 e 10 km, preferiti dai runner di Pechino.
+738|Il circuito ha una pista morbida.
+739|Il parco più grande del centro, con laghi, campi sportivi e giochi per bambini.
+740|Bello per correre presto o fare un picnic.
+741|L'ultimo tratto rimasto delle mura della città, con un parco per camminare ai suoi piedi e la torre di Dongbianmen.
+742|In primavera fioriscono i susini.
+743|Un parco con laghi e il maggior numero di ciliegi di Pechino, che fioriscono ad aprile.
+744|Ad aprile c'è un festival dei ciliegi.
+745|Opera di Pechino tutte le sere, pensata per i turisti, con sottotitoli in inglese e brani brevi.
+746|Arriva prima e guarda come si truccano gli attori.
+747|Un teatro di legno del 1807, uno dei più antichi dell'opera di Pechino, con un piccolo museo.
+748|È l'opera nel suo palcoscenico originale.
+749|Acrobazie cinesi: equilibristi, giocolieri e moto in una sfera d'acciaio.
+750|Piace a tutte le età.
+751|Lo spettacolo di kung fu "La leggenda del kung fu", con monaci che saltano, combattono e rompono oggetti.
+752|L'"uovo" di titanio e vetro accanto a Tiananmen, circondato dall'acqua, con opera, balletto e concerti.
+753|Guarda la programmazione: a volte ci sono biglietti economici.
+754|Lo zoo più antico della Cina, con la casa dei panda giganti.
+755|Vai la mattina, quando i panda sono più attivi.
+756|Un grande acquario con tunnel degli squali e spettacolo dei delfini, accanto allo zoo.
+757|Abbinalo ai panda.
+758|Un planetario con cupola, sale di astronomia e meteoriti.
+759|Di fronte allo zoo.
+760|Il parco di Universal, con aree di Harry Potter, Transformers, Kung Fu Panda e Minions.
+761|Compra i biglietti prima. Si arriva in metro (linee 1 e 7).
+762|Un parco divertimenti con montagne russe e aree tematiche.
+763|Si riempie nel fine settimana; vai in un giorno feriale.
+764|Tutto quello che ti serve per girare la città
+765|Tour ed esperienze
+766|Giorno 1 · mattina
+767|Giorno 1 · mezzogiorno
+768|Giorno 1 · pomeriggio
+769|Giorno 1 · sera
+770|Giorno 2 · sera
+771|Giorno 3 · mattina
+772|Giorno 3 · mezzogiorno
+773|Giorno 3 · pomeriggio
+774|Giorno 3 · sera
+775|Caffè
+776|Una giornata pensata per i bambini.
+777|Circolare
+778|Con la carta bancaria
+779|Ore di punta
+780|Ultimo treno
+781|Stazioni
+782|A piedi e in bici
+783|Bici condivise
+784|Attenzione
+785|Polizia
+786|Ambulanza
+787|Documenti e aiuto
+788|Sportelli bancomat
+789|Si pranza e si cena presto. Molti ristoranti chiudono la cucina prima di quanto ti aspetti.
+790|Autunno
+791|Primavera
+792|Estate
+793|Inverno
+794|Sito ufficiale dell'aeroporto
+795|Linee della metro
+796|Per stare tranquilli
+797|Ciao
+798|Scusi, mi scusi
+799|Parla inglese?
+800|Dove si trova…?
+801|Dov'è il bagno?
+802|Non capisco
+803|Ho bisogno di un medico
+804|Aeroporti e stazioni
+805|Bagno
+806|Pellegrino
+807|Dall'alto
+808|3 belvedere
+809|Belvedere
+810|Gite di un giorno
+811|Gennaio o febbraio
+812|Capodanno cinese
+813|Febbraio o marzo
+814|Maggio o giugno
+815|Luglio e agosto
+816|Emergenze
+817|La guida include solo luoghi con una reputazione solida: riconoscimenti ufficiali, guide autorevoli e buon consenso nelle recensioni pubbliche.
+818|cucina cinese
+819|Vie e mercati
+820|Cocktail bar
+821|Escursioni
+822|Esperienza
+823|Mercati
+824|All'aperto
+825|Ideale con i bambini.
+826|Pechino

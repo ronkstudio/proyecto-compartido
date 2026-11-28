@@ -150,8 +150,6 @@ Object.assign(window.I18N_FULL = window.I18N_FULL || {}, {
 "Canal Saint-Martin y Belleville": "Canal Saint-Martin e Belleville",
 "Louvre, Marais y Saint-Germain": "Louvre, Marais e Saint-Germain",
 "Torre Eiffel y Montmartre": "Torre Eiffel e Montmartre",
-"Enero o febrero": "Janeiro ou fevereiro",
-"Año Nuevo chino": "Ano-Novo chinês",
 "Desfiles con dragones y música en el Barrio Chino (distrito 13) y en Belleville.": "Desfiles com dragões e música na Chinatown (13º distrito) e em Belleville.",
 "Marzo y fines de septiembre": "Março e fim de setembro",
 "Semana de la Moda": "Semana de Moda",

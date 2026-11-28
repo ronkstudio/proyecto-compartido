@@ -76,7 +76,6 @@ Object.assign(window.I18N_FULL = window.I18N_FULL || {}, {
 "Maracanã, Estácio y la zona norte; comparte el tramo entre Estácio y Botafogo con la línea 1": "Maracanã, Estácio und die Nordzone; teilt sich den Abschnitt zwischen Estácio und Botafogo mit Linie 1",
 "General Osório ↔ Jardim Oceânico": "General Osório ↔ Jardim Oceânico",
 "Sigue a la línea 1 hacia Ipanema (Nossa Senhora da Paz), Leblon (Jardim de Alah, Antero de Quental), Gávea y la Barra da Tijuca": "Verlängert Linie 1 nach Ipanema (Nossa Senhora da Paz), Leblon (Jardim de Alah, Antero de Quental), Gávea und Barra da Tijuca",
-"Metro con la tarjeta del banco": "U-Bahn mit der Bankkarte",
 "En los molinetes de todas las estaciones del metro se paga apoyando la tarjeta de crédito sin contacto o el celular. No hace falta comprar nada antes.": "An den Drehkreuzen aller U-Bahn-Stationen zahlt man, indem man die kontaktlose Kreditkarte oder das Handy hinhält. Vorher muss man nichts kaufen.",
 "Colectivos, BRT y VLT: Jaé": "Busse, BRT und VLT: Jaé",
 "En los colectivos municipales, el BRT y el tranvía VLT se usa la tarjeta o la app Jaé, que se carga con plata. En algunas líneas también se acepta la tarjeta del banco: fijate en el lector.": "In Stadtbussen, im BRT und in der Straßenbahn VLT nutzt man die aufladbare Jaé-Karte oder -App. Auf manchen Linien geht auch die Bankkarte: schau aufs Lesegerät.",

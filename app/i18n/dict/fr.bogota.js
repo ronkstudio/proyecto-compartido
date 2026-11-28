@@ -277,7 +277,6 @@ Object.assign(window.I18N_FULL = window.I18N_FULL || {}, {
 "Temporada de cometas": "Saison des cerfs-volants",
 "Los vientos de agosto llenan los parques de barriletes.": "Les vents d'août remplissent les parcs de cerfs-volants.",
 "31 de octubre": "31 octobre",
-"Halloween": "Halloween",
 "Los chicos salen disfrazados a pedir dulces por centros comerciales y barrios.": "Les enfants sortent déguisés demander des bonbons dans les centres commerciaux et les quartiers.",
 "Alumbrados y novenas": "Illuminations et neuvaines",
 "Luces de Navidad en parques y calles, y las novenas, nueve noches de rezos, villancicos y buñuelos antes del 24.": "Illuminations de Noël dans les parcs et les rues, et les neuvaines : neuf soirs de prières, de chants et de buñuelos avant le 24.",

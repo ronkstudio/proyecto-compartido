@@ -277,7 +277,6 @@ Object.assign(window.I18N_FULL = window.I18N_FULL || {}, {
 "Temporada de cometas": "Temporada de pipas",
 "Los vientos de agosto llenan los parques de barriletes.": "Os ventos de agosto enchem os parques de pipas.",
 "31 de octubre": "31 de outubro",
-"Halloween": "Halloween",
 "Los chicos salen disfrazados a pedir dulces por centros comerciales y barrios.": "As crianças saem fantasiadas pedindo doces pelos shoppings e bairros.",
 "Alumbrados y novenas": "Luzes de Natal e novenas",
 "Luces de Navidad en parques y calles, y las novenas, nueve noches de rezos, villancicos y buñuelos antes del 24.": "Luzes de Natal em parques e ruas, e as novenas, nove noites de rezas, canções natalinas e buñuelos antes do dia 24.",

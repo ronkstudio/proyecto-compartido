@@ -1,0 +1,826 @@
+1|Palaces, temples, museums, parks and hutongs
+2|Peking duck, hot pot, noodles and snacks
+3|Breweries, cocktails, live music and opera
+4|Hutongs, boats, tai chi and the Great Wall
+5|The Great Wall, the Ming Tombs, Tianjin and Chengde
+6|Hostels, courtyard-house hotels and luxury
+7|Markets, tea, silk and antiques
+8|Football, ice skating and parks
+9|Peking opera, acrobatics and pandas
+10|Forbidden City and Tiananmen
+11|The center of power
+12|The Forbidden City, Tiananmen Square, the National Museum, the Grand Theatre and, behind the palace, Jingshan hill.
+13|The most central area, but quiet at night and with few hotels.
+14|Qianmen and Temple of Heaven
+15|The old merchant Beijing
+16|Qianmen gate, Dashilan street with its century-old shops, Liulichang, Peking opera and the Temple of Heaven with its park.
+17|Well located, with hostels in courtyard houses.
+18|Lakes and hutongs
+19|The Houhai and Qianhai lakes surrounded by bars, Beihai park, Prince Gong's Mansion and the Drum and Bell Towers.
+20|Lovely, with courtyard-house hotels; at night, with music in the bars.
+21|Gulou and Lama Temple
+22|Lively hutongs
+23|Nanluoguxiang, Wudaoying and the surrounding alleys, the Lama Temple, the Confucius Temple and Gui Jie food street.
+24|The best area to experience the hutongs, with cafés and bars.
+25|Wangfujing and Dongsi
+26|Shopping and alleys
+27|Wangfujing pedestrian avenue, the cathedral, the Art Museum and, to the north, the orderly hutongs of Dongsi.
+28|Very central, with hotels in every category and good metro links.
+29|The international nightlife
+30|Taikoo Li, the embassies, the Workers' Stadium, bars, clubs and restaurants from all over the world.
+31|Ideal for going out; far from the hutongs.
+32|CBD and Ritan
+33|Skyscrapers and markets
+34|The towers of the business district, the CCTV building, Ritan park, Silk Street and Panjiayuan market.
+35|Luxury hotels and good metro connections.
+36|798 and Wangjing
+37|Art in factories
+38|The 798 and 751 art districts in old factories, and the curved towers of Wangjing SOHO.
+39|For a visit; far from the center.
+40|Olympic Park
+41|The 2008 Games
+42|The Bird's Nest, the Water Cube, the Olympic Tower, the Science Museum and the large Olympic Forest Park.
+43|For a visit, especially at night with the lights.
+44|Haidian and Summer Palace
+45|Imperial gardens and universities
+46|The Summer Palace, the ruins of the Old Summer Palace, the Fragrant Hills and Peking and Tsinghua universities.
+47|Far from the center: best for a day trip.
+48|Xidan and the west
+49|Temples and the Muslim quarter
+50|The White Cloud Temple, Niujie street with its mosque, the Capital Museum, the zoo with the pandas and the Xidan malls.
+51|Less touristy and well connected.
+52|Beijing in 1 day
+53|With your booking and passport.
+54|Ticket bought in advance.
+55|The view of the palace from above.
+56|Take a number when you arrive.
+57|Peking duck.
+58|Day 2 · all day
+59|Leave early.
+60|With people doing tai chi.
+61|A day in the hutongs
+62|Temples, alleys, cafés and lakes, all on foot.
+63|Wander into the side alleys.
+64|Free Beijing
+65|The best without paying for tickets (almost all with booking and passport).
+66|Dawn
+67|From outside, with the lights.
+68|The pandas, early.
+69|Acrobatics.
+70|Gucheng – Universal Resort
+71|Tian'anmen East and West (Forbidden City), Wangfujing, Xidan, Guomao, Military Museum and Universal Resort
+72|Qianmen, Dongzhimen (airport train), Yonghegong Lama Temple, Gulou Dajie and Beijing Railway Station
+73|Dongsi Shitiao – Dongbabei
+74|Workers' Stadium (near Sanlitun), Tuanjiehu and Chaoyang Park
+75|Anheqiaobei – Tiangongyuan
+76|Beigongmen (Summer Palace), Yuanmingyuan Park, Beijing Zoo, Xidan, Caishikou and Beijing South station
+77|Tiantongyuan North – Songjiazhuang
+78|Yonghegong Lama Temple, Beixinqiao, Dongsi, Dengshikou, Dongdan and East Gate of Temple of Heaven
+79|Jin'anqiao – Luyang
+80|Beihai North, Nanluogu Xiang, Dongsi, Chaoyangmen and Dongdaqiao
+81|Beijing West Railway – Universal Resort
+82|Beijing West station, Caishikou, Ciqikou, Happy Valley and Universal Resort
+83|Zhuxinzhuang – Yinghai
+84|Olympic Park, Gulou Dajie, Shichahai, Nanluogu Xiang, China Art Museum, Wangfujing, Qianmen and Tianqiao
+85|Guomao (CBD), Panjiayuan, Tuanjiehu and Agricultural Exhibition Center (Sanlitun), Liangmaqiao, Zhichun Lu and Caoqiao (train to Daxing)
+86|Xizhimen – Dongzhimen
+87|Wudaokou (university district) and the loop around the north of the city
+88|Zhangguozhuang – Shan'gezhuang
+89|Jiangtai (near 798), Wangjing, Chaoyang Park and Beijing South station
+90|Qinghua Donglu Xikou – Fengbo
+91|Olympic Park and Wangjing
+92|Beianhe – Wanpingcheng
+93|Wanpingcheng (Marco Polo Bridge), Yuyuantan Park East Gate and western Haidian
+94|Beixinqiao – Terminals 2 and 3
+95|From Capital airport to Sanyuanqiao, Dongzhimen and Beixinqiao, where you change to the metro
+96|Caoqiao – Daxing Airport
+97|From Daxing airport to Caoqiao, where you change to line 10
+98|On every Beijing metro line you go through the turnstile by tapping a contactless Visa, Mastercard, American Express, JCB or UnionPay card. Ticket machines also accept foreign cards.
+99|Alipay and WeChat
+100|Both Chinese payment apps accept foreign cards and work for almost everything: taxis, bikes, food and tickets. Install and test them before you travel.
+101|Single tickets
+102|At the station machines you buy a single-journey ticket: choose the destination station and pay.
+103|Security checks
+104|At every metro station your bag goes through a scanner, like at an airport. Keep it in mind if you're in a hurry.
+105|26 November 2026, with the official website of the Beijing government. If anything differs, the metro signs prevail.
+106|Beijing Metro
+107|A huge network
+108|It has 29 lines, with signs and announcements in Chinese and English. Each line has a number and a color.
+109|Long transfers
+110|In big stations the corridors between lines are long: allow extra time.
+111|Early in the morning and after work the trains are packed, especially on lines 1, 4, 5 and 10.
+112|The metro doesn't run all night. If you stay out late, get back by taxi or with DiDi.
+113|High-speed trains
+114|Beijing South goes to Tianjin and Shanghai; Beijing West, to Xi'an; Beijing Chaoyang, to Chengde; and Qinghe, to the Badaling Great Wall.
+115|Tickets
+116|Bought with your passport, on the official 12306 website and app (in English) or through agencies like Trip.com. On the day of travel you enter by scanning your passport.
+117|Get there early
+118|Stations are huge and there are security and passport checks: arrive with time to spare.
+119|Capital (PEK)
+120|To the northeast. The express train leaves from terminals 3 and 2 and goes to Sanyuanqiao, Dongzhimen and Beixinqiao, where you change to the metro.
+121|Daxing (PKX)
+122|To the south, farther away. The express train goes to Caoqiao, in the south of the city, where you change to the metro.
+123|Help desks
+124|At the international arrivals exit of both airports there are "Beijing Service" desks: they sell SIM cards and help you install the payment apps.
+125|Only take a taxi from the official queue, never from someone offering one inside the airport.
+126|The app to book cars and taxis, in English and with a foreign card. It also works inside Alipay.
+127|They use a meter and are cheap. Almost no taxi driver speaks English: show the Chinese name of the place, which this guide gives in the address of each listing.
+128|Uber
+129|It doesn't work in China.
+130|Avenues are huge and crossings are long: allow more time than the map says. The hutongs are the best place to walk.
+131|There are rental bikes on every corner; you unlock them by scanning the code with Alipay.
+132|Electric scooters are silent and ride on bike lanes and sometimes on the sidewalk: always look before crossing.
+133|Traffic accidents
+134|Beijing city helpline, also in English and Spanish (not for emergencies)
+135|A very safe city
+136|Beijing is very safe to walk around, even at night: there are cameras and police everywhere.
+137|Still, watch your phone and wallet on the metro and in crowded places.
+138|Emergency lines have free interpreters in other languages.
+139|Tourist scams
+140|The most common: friendly young people who want to practice English and invite you to a teahouse or an art gallery. At the end comes a huge bill. Say no, politely.
+141|At airports and stations, only take a taxi from the official queue or book it with DiDi.
+142|In markets the first price can be many times the real one: haggle or move on.
+143|Air and weather
+144|Some winter days are very polluted: check the air quality index (AQI) in your weather app and, if it's high, wear a mask.
+145|In spring, sandstorms can blow in from the north.
+146|Summer is very hot with strong storms: drink lots of water.
+147|Always carry your passport: it's needed to enter Tiananmen Square, museums, trains and hotels.
+148|If you stay in a private home rather than a hotel, you must register at the local police station within 24 hours of arrival. Hotels do it for you.
+149|If your passport is stolen or lost, report it to the police and go to your embassy: they're on the map in Info > Help.
+150|Get travel insurance: hospitals with English-speaking care are expensive.
+151|Entering China
+152|Visa-free, for now
+153|Passports from Argentina, Brazil, Chile, Peru, Uruguay, Spain, Italy, France and other countries can enter visa-free for up to 30 days for tourism. China announced this rule until 31 December 2026: if you travel later, check whether it was extended.
+154|240-hour transit
+155|If you continue to a third country, many nationalities can stay visa-free for up to 10 days in Beijing, Tianjin and Hebei. You apply on arrival, with your onward ticket.
+156|Other countries
+157|If your country isn't on the list, you need a visa: ask at a Chinese embassy or consulate.
+158|Before you fly
+159|Fill in the arrival card online on China's official immigration website: it saves time at the airport.
+160|Yuan or renminbi (CNY). On the street it's called kuai.
+161|You pay with your phone
+162|In China almost everything is paid with Alipay or WeChat Pay. Both accept foreign cards: add your card in the app before you travel.
+163|Shops must accept banknotes, but many have no change: carry small notes.
+164|ATMs of the big banks, such as Bank of China or ICBC, accept foreign cards.
+165|No tipping.
+166|Tax refund
+167|If you spend 200 yuan or more in the same participating shop on the same day, you can get the tax back. Some big stores refund it on the spot, with your passport.
+168|Internet and apps
+169|What doesn't work
+170|On Chinese internet, Google (Maps, Gmail, Translate), WhatsApp, Instagram, Facebook and YouTube don't work.
+171|Your SIM or an eSIM
+172|With your home roaming or a travel eSIM bought abroad, they usually keep working. With a Chinese SIM or hotel wifi, they don't.
+173|Maps
+174|Google Maps works poorly in China: Apple Maps works well on the iPhone, and so do the Chinese apps Amap and Baidu.
+175|Install beforehand
+176|Download Alipay, WeChat, DiDi and a translator before you travel, while everything works.
+177|Beijing hours
+178|Bookings with passport
+179|Almost all museums, palaces and Tiananmen Square require booking in advance, in your name and with your passport number.
+180|Mondays
+181|Many museums close on Mondays, including the Forbidden City and the National Museum.
+182|Chinese holidays
+183|During Chinese New Year and the first week of October the whole country travels: everything fills up and tickets sell out.
+184|September to October is the best time: clear skies, pleasant temperatures and red and yellow trees.
+185|April and May are lovely, with flowers in the parks, though it can be windy and dusty.
+186|Very hot and humid, with strong storms in July and August.
+187|Very cold and dry, below zero. The lakes freeze and people skate; there are fewer tourists.
+188|220 V. The three-pin V-shaped sockets are like those in Argentina and Australia, and many also take two flat or round pins.
+189|Don't drink the tap water: buy water or boil it. Hotels have an electric kettle.
+190|Mandarin Chinese is spoken and few people speak English. Each listing in this guide has the place's name in Chinese, so you can show it.
+191|Toilets
+192|There are free public toilets everywhere. Carry tissues: many have none.
+193|At the table
+194|Dishes are shared in the middle. Don't stick your chopsticks upright in the rice.
+195|Tea and hot water
+196|In restaurants you're served tea or hot water: it's normal.
+197|Queues and pushing
+198|On the metro and in crowded places people push a little: it isn't rude.
+199|Peking duck, jiaozi, zhajiangmian, lamb hot pot, steamed buns, lamb skewers and yogurt in a little ceramic jar.
+200|Outside Beijing
+201|Beijing passport
+202|Mark the places you've visited and earn stamps: palaces, temples, Peking duck, hutongs, the Great Wall…
+203|Late night in Beijing
+204|🏮 Hutongs and nightlife
+205|No metro station nearby: better by taxi or DiDi
+206|What are you looking for? Peking duck, temples, hutongs, Great Wall…
+207|E.g.: Forbidden City, Temple of Heaven, Summer Palace…
+208|E.g.: Wangfujing, Sanlitun, Qianmen…
+209|E.g.: Air China, Iberia, Air France…
+210|Peking duck
+211|Hutongs
+212|Yuan
+213|Amount in yuan
+214|To the center (Tiananmen Square)
+215|From Capital airport
+216|From Daxing airport
+217|Capital airport
+218|China Railway (12306)
+219|Official train tickets, with passport
+220|Cars and taxis by app
+221|From Capital airport, the express train drops you at Dongzhimen or Beixinqiao, where you change to the metro.
+222|From Daxing airport, the express train goes to Caoqiao, in the south of the city.
+223|At both airports, at the international arrivals exit, the "Beijing Service" desk sells SIM cards and helps you with the payment apps.
+224|Only take a taxi from the official queue or book it with DiDi: don't accept offers inside the airport.
+225|China's largest mobile carrier
+226|With a Chinese SIM or hotel wifi, Google, WhatsApp and Instagram don't work.
+227|Your carrier's roaming or a travel eSIM bought before leaving usually keeps all your apps working.
+228|At the airports there are Chinese SIM cards for tourists: you buy them with your passport.
+229|Before you travel, install Alipay and WeChat and add your card: in China almost everything is paid by phone.
+230|Carry some cash in small notes, in case the app fails.
+231|If the ATM or card reader offers to charge you in your own currency, choose to pay in yuan.
+232|Metro with your bank card, DiDi and trains
+233|Transport, on the city's official website
+234|Official train tickets
+235|On the metro you go through the turnstile by tapping your contactless credit or debit card: no need to buy a ticket.
+236|For taxis and shared bikes, use DiDi or Alipay.
+237|Metro, high-speed trains, airports and DiDi
+238|Not worth it: in China the International Driving Permit isn't valid and you need a Chinese permit. To leave the city, better take a train, a tour or a car with driver.
+239|eHi
+240|Car rental (in Chinese)
+241|CAR Inc
+242|China doesn't recognize the International Driving Permit: to drive you need a temporary Chinese permit.
+243|Traffic drives on the right, but it's heavy and electric scooters appear everywhere.
+244|For the Great Wall and other trips, many agencies offer a car with driver for the day.
+245|For paying
+246|The payment app used everywhere. It accepts foreign cards and has DiDi, bikes and tickets built in.
+247|com.eg.android.AlipayGphone
+248|Messages and payments: almost every Chinese person uses it.
+249|To book cars and taxis, in English.
+250|Maps and transit directions that work well in China.
+251|Train tickets, hotels and attraction tickets, in English.
+252|Air quality, to know whether to wear a mask.
+253|Chinese dictionary: translates signs with the camera.
+254|Beijing government: news
+255|Changes to transport and attractions.
+256|Closures, storms and shutdowns in today's news.
+257|⭐ Highlights of the week. For more plans, check the Visit Beijing and National Grand Theatre listings: confirm before you go.
+258|Visit Beijing: events (official tourism website)
+259|National Grand Theatre: programme
+260|Beijing has two international airports: Capital (PEK), to the northeast and closer to the center, and Daxing (PKX), to the south and farther away. Check which one your flight arrives at: it changes how you get to your hotel.
+261|Thank you
+262|I want this (pointing)
+263|How much is it?
+264|It's too expensive
+265|Not spicy, please
+266|🛬 How to get from Capital or Daxing airport to your accommodation
+267|💳 How to pay with Alipay, WeChat or your bank card on the metro
+268|📵 Which apps don't work in China and how to prepare
+269|🛂 When you can enter visa-free
+270|Tourist help
+271|Hospitals with emergency room
+272|Embassies
+273|Beijing Service · Capital Airport, Terminal 3
+274|At the international arrivals exit: SIM cards, help with payment apps and tickets.
+275|Beijing Service · Capital Airport, Terminal 2
+276|Beijing Service · Daxing Airport
+277|Outside the baggage hall for international flights: SIM cards, help with payment apps and tickets.
+278|Tiananmen Police
+279|The police station for the square and Forbidden City area.
+280|Qianmen Police Station
+281|Near Qianmen street and Dashilan.
+282|Temple of Heaven Police Station
+283|North of the Temple of Heaven.
+284|Andingmen Police Station
+285|Near the Drum and Bell Towers and Nanluoguxiang.
+286|Beixinqiao Police Station
+287|Near the Lama Temple and Gui Jie.
+288|Sanlitun Police Station
+289|In the bar and embassy area.
+290|Peking Union Medical College Hospital (PUMCH)
+291|One of China's most renowned hospitals, with an emergency room and a section for foreigners. A short walk from Wangfujing.
+292|Tongren Hospital
+293|Public hospital with an emergency room, known for ophthalmology and ENT.
+294|Chaoyang Hospital
+295|Public hospital with an emergency room, near Sanlitun and the CBD.
+296|Peking University People's Hospital
+297|Public hospital with an emergency room, in the west of the city.
+298|China-Japan Friendship Hospital
+299|Public hospital with an emergency room and an international section.
+300|Beijing United Family Hospital
+301|Private hospital with English-speaking care. It's expensive: keep your travel insurance handy.
+302|Embassy of Argentina
+303|It also handles consular services.
+304|Embassy of Brazil
+305|With a consular section.
+306|Embassy of Chile
+307|Embassy of Colombia
+308|Embassy of Spain
+309|The consular section is a few blocks away, in the same embassy area.
+310|Embassy of Italy
+311|With a consular office.
+312|Embassy of Mexico
+313|Embassy of Peru
+314|Embassy of Uruguay
+315|In the Liangmaqiao diplomatic compound.
+316|Embassy of the United States
+317|With a consular section.
+318|Capital Airport · Terminal 3
+319|The express train leaves for Sanyuanqiao, Dongzhimen and Beixinqiao.
+320|Capital Airport · Terminal 2
+321|The express train stops here too.
+322|The express train goes to Caoqiao, where you change to line 10.
+323|Beijing Railway Station
+324|The historic station, in the center, with regular and some fast trains.
+325|Beijing South Station
+326|High-speed trains to Tianjin and Shanghai. Metro: lines 4 and 14.
+327|Beijing West Station
+328|High-speed trains to Xi'an and the south of the country. Metro: lines 7 and 9.
+329|Qinghe Station
+330|High-speed trains to the Badaling Great Wall.
+331|12345 Hotline
+332|The city's helpline, in 8 languages including English and Spanish. Not for emergencies.
+333|Official visitor guide
+334|The Beijing government's English website, with payments, transport and paperwork.
+335|Pharmacies nearby, on the map.
+336|Find my embassy
+337|Finds embassies on the map.
+338|24-hour convenience store
+339|Street food
+340|3 temples
+341|Temples and places of worship
+342|2 Peking duck restaurants
+343|Beijing palate
+344|2 Beijing food restaurants
+345|Beijing cuisine
+346|Alley walker
+347|3 places in the hutongs
+348|On the Wall
+349|A section of the Great Wall
+350|Great Wall
+351|Historian
+352|2 museums
+353|Opera night
+354|A Peking opera performance
+355|Honorary Beijinger
+356|Passport valid for at least 6 months and a copy on your phone
+357|Check whether your passport can enter visa-free or if you need a visa
+358|Fill in the arrival card online on China's immigration website
+359|Install Alipay and WeChat and add your card
+360|Install DiDi, a map that works in China and a translator
+361|Buy a travel eSIM or activate roaming
+362|Book the Forbidden City, Tiananmen Square and museums with your passport
+363|Download this guide before leaving
+364|Stop by the airport's "Beijing Service" desk if you need a SIM or help with payments
+365|Try a small payment with Alipay or WeChat
+366|Get some cash in small notes
+367|Check the day's air quality before going out
+368|Beijing classics
+369|Imperial palaces
+370|Temples
+371|Beijing food
+372|Hot pot
+373|The Great Wall
+374|Contemporary art
+375|Opera and shows
+376|Forbidden City, Qianmen and Wangfujing
+377|Hutongs and lakes
+378|Sanlitun and the CBD
+379|Olympic Park and 798
+380|The west: temples and pandas
+381|Hutongs, lakes and Sanlitun
+382|China's biggest festival: fairs in temples and parks such as Ditan and the White Cloud Temple, red lanterns and fireworks. Many people travel and some shops close.
+383|Lantern Festival
+384|The end of Chinese New Year, with lit lanterns and sweet rice balls (yuanxiao).
+385|Midwinter
+386|Skating on the lakes
+387|The lakes of Shichahai and the Summer Palace freeze over and people skate, also on chair sleds.
+388|Spring flowers
+389|Cherry blossoms in Yuyuantan park, tulips in Zhongshan park and lilacs at Fayuan Temple.
+390|Early May
+391|Labour Day holiday
+392|Several days off across the country: attractions fill up and tickets sell out.
+393|Dragon Boat Festival
+394|People eat zongzi, rice parcels wrapped in leaves, and there are boat races on some lakes.
+395|Lotus in bloom
+396|The ponds of the Old Summer Palace, Beihai and Shichahai fill with lotus flowers.
+397|September or October
+398|Mid-Autumn Festival
+399|The full-moon festival: people give and eat mooncakes.
+400|1 to 7 October
+401|Golden Week
+402|The longest national holiday: Tiananmen is decorated with flowers and the whole country travels. Avoid those dates if you can.
+403|October and November
+404|Autumn leaves
+405|The Fragrant Hills turn red and the ginkgos of Ditan and Diaoyutai turn yellow.
+406|Eating in China
+407|Menus with photos
+408|Many restaurants have menus with photos or a QR code to order from your phone: pointing is fine.
+409|For sharing
+410|Dishes are ordered for the middle of the table. One per person plus rice is enough.
+411|Spicy food
+412|If you don't want it spicy, say "bú yào là" (not spicy).
+413|No tipping. You pay at the counter or by scanning the table's code.
+414|Ambulance: 120. Emergency lines have free interpreters.
+415|Hospitals
+416|Big hospitals have international sections with English-speaking care. They're on the map in Info > Help.
+417|Look for the 药店 (pharmacy) sign. Bring the medicines you take with the prescription and original box.
+418|Highly recommended: care at hospitals for foreigners is expensive.
+419|In each listing, the 'Reviews, hours and photos' button opens the place in Google Maps with its rating, reviews, up-to-date hours and photos. In China it works with your home roaming or a travel eSIM.
+420|Flag-raising at Tiananmen at sunrise: you must book in advance, with your passport
+421|Tiananmen Square is decorated with flowers for National Day, 1 October
+422|The palace of the Ming and Qing emperors for almost 500 years: immense courtyards, yellow roofs and hundreds of halls. Today it is the Palace Museum.
+423|Tickets are bought in advance, online and with your passport: they sell out, especially during Chinese holidays. You enter from the south (Meridian Gate) and exit to the north. Usually closed on Mondays.
+424|One of the largest squares in the world, with Tiananmen Gate and Mao's portrait, the Monument to the People's Heroes and the Great Hall of the People.
+425|It's free, but you must book in advance with your passport and go through security. Don't bring lighters or knives.
+426|The temple where the emperor prayed for good harvests: the round hall with the blue roof, the Circular Altar and the Echo Wall, inside a huge park.
+427|Go early: the park fills with people doing tai chi, dancing, singing and playing cards. Buy the ticket that includes the halls.
+428|The emperors' summer garden: Kunming Lake, Longevity Hill, the painted Long Corridor and the marble boat.
+429|Allow half a day. Cross the lake by boat and climb the Tower of Buddhist Incense for the view. In winter people skate on the lake.
+430|The two towers that marked the city's time, at the end of the central axis. In the Drum Tower there are drum performances several times a day.
+431|The stairs are very steep. The little square between the two towers is a lovely spot to watch neighborhood life.
+432|The stadium of the 2008 Olympic Games, with its steel lattice that looks like a nest. It also hosted the 2022 Winter Games.
+433|Visit it at sunset, when it lights up together with the Water Cube. You can go inside with a ticket.
+434|The great gate in the wall that closed Tiananmen Square to the south, with its arrow tower opposite. It is part of the Beijing Central Axis, a World Heritage Site.
+435|From the top you see the square on one side and Qianmen street on the other.
+436|The best-preserved prince's residence of the Qing dynasty, with courtyards, a wooden theatre and a garden with rocks and ponds.
+437|Entry by booking. Combine it with a walk around the Houhai lakes.
+438|The building in the middle of the square where you can see Mao Zedong's embalmed body. The line moves quickly and in silence.
+439|Open only in the mornings and on some days: book in advance with your passport. No bags or cameras allowed; there's a cloakroom opposite.
+440|Beijing's great Tibetan Buddhist temple, with incense smoke, monks and an 18-meter Buddha carved from a single sandalwood trunk.
+441|At the entrance they give you incense for free. Inside the halls, no photos.
+442|The Confucius Temple and, next door, the imperial academy, with centuries-old cypresses and steles bearing the names of those who passed the exams.
+443|It's opposite the Lama Temple: visit them together.
+444|Beijing's most important Taoist temple, with colorful courtyards, incense and monks with long hair tied up.
+445|Look for the little carved stone monkeys: touching them brings luck. At Chinese New Year there's a fair.
+446|Beijing's oldest mosque, over a thousand years old and looking like a Chinese temple, in the city's Muslim quarter.
+447|Wear clothes that cover shoulders and knees. During prayer time only worshippers may enter.
+448|A Taoist temple with 76 little halls representing the offices of the afterlife, full of statues and red tablets with wishes.
+449|It's a short walk from Chaoyangmen metro and almost never crowded.
+450|The oldest Buddhist temple within the city, with a monks' school and a courtyard of lilacs that bloom in April.
+451|A quiet haven in a hutong neighborhood with few tourists.
+452|A Catholic church from 1904 right on Wangfujing avenue, built where a 17th-century Jesuit church once stood.
+453|The square in front is a meeting point and a spot for wedding photos.
+454|Beijing's oldest white pagoda, from the 13th century, by a Nepalese architect, hidden among the houses.
+455|From the opposite sidewalk you can see it whole; the temple is small and quiet.
+456|One of the largest museums in the world, next to Tiananmen: bronzes, jades, ceramics and the history of China since prehistoric times.
+457|It's free, with advance booking and your passport. Closed on Mondays. Pick two or three halls: you can't see it all in a day.
+458|Beijing's history in a modern building, with halls of porcelain, bronzes and old hutong life.
+459|Free with booking. Usually closed on Mondays.
+460|The museum of modern Chinese art, with ink painting, prints and changing exhibitions.
+461|Free with booking. It's near the Dongsi hutongs.
+462|Tanks, planes, missiles and the history of China's wars in a huge building from the 1950s.
+463|Free with booking and passport.
+464|A hands-on science museum, with rooms for kids, a dome cinema and the history of Chinese inventions.
+465|Book in advance; at weekends it fills up with families.
+466|Dinosaurs, animals and a hall on the origins of life, opposite the Temple of Heaven.
+467|Free with booking. Ideal with kids and on a rainy day.
+468|China's most important contemporary art center, in an old factory in the 798 district.
+469|Check what's on before you go. The shop has lovely Chinese design.
+470|Park and garden
+471|The hill behind the Forbidden City, made with earth from the moat. From the pavilion at the top you see the whole palace.
+472|Climb it when you leave the Forbidden City, which exits right opposite. The view is best at sunset.
+473|One of China's oldest imperial gardens: a lake with boats, an island with a white pagoda and the Nine-Dragon Wall.
+474|Rent a little pedal boat. From the north exit you can walk to Houhai.
+475|The park of the Altar of the Sun, quiet and full of trees, in the embassy district.
+476|In the morning you see dance groups and people playing jianzi, a shuttlecock kicked with the feet.
+477|The old Altar of Land and Grain, right next to the Forbidden City, with ancient cypresses and, in April, thousands of tulips.
+478|A calm way out of the Tiananmen crowds.
+479|What remains of a huge palace with European-style buildings, looted and burned in 1860. Today it's a park of lakes and ruins.
+480|The stone ruins are in the Western Mansions section (Xiyanglou). In summer the lotus flowers bloom.
+481|A mountain park west of the city, famous for its red trees in autumn, with trails, temples and a chairlift.
+482|October and early November are the best time, but also the busiest. Wear sneakers.
+483|autumn
+484|The park of the Altar of Earth, with ginkgo groves that turn yellow in autumn and a big fair at Chinese New Year.
+485|It's a short walk from the Lama Temple.
+486|The most famous hutong: a 700-year-old lane full of shops, sweets and cafés, with much quieter side alleys.
+487|It gets very crowded. Wander into the side alleys, such as Mao'er or Ju'er, to see real courtyard houses.
+488|A hutong full of cafés, little bars with terraces and design shops, around the corner from the Lama Temple.
+489|Ideal for a coffee after the temple.
+490|Three connected lakes (Qianhai, Houhai and Xihai) surrounded by willows, hutongs and bars, with Yinding bridge and the little pipe-makers' lane (Yandai Xiejie).
+491|Walk around the lake at sunset. In winter it freezes and people skate.
+492|The old shopping street south of Tiananmen, with shops over a hundred years old: silks, cloth shoes, tea and Chinese medicine.
+493|Carry on west along Dashilan Xijie and the alleys around it, less touristy.
+494|A street with painted wooden arches and huge trees, between the Confucius Temple and the hutongs.
+495|Stroll it without hurrying: it's one of the loveliest in the city.
+496|A courtyard house turned into a museum about hutong life: photos, models and the sounds of old times.
+497|Free. Combine it with a walk through the Dongsi hutongs.
+498|1950s factories of German design turned into galleries, cafés and art shops.
+499|Many galleries close on Mondays. Allow time to get lost.
+500|The old gas plant next to 798, with giant tanks, pipes and a steam locomotive turned into design and fashion spaces.
+501|It's free to explore; combine it with 798.
+502|Architecture and viewpoints
+503|China's television headquarters, by Rem Koolhaas: two leaning towers joined at the top. Beijingers call it "the big pants".
+504|It can't be visited inside; the best photo is from the park opposite.
+505|Four rounded buildings by Zaha Hadid linked by bridges, like white waves.
+506|You can go into the courtyard and the shops below.
+507|Three curved towers by Zaha Hadid that look like silver mountains.
+508|It's near 798: combine them.
+509|The 2008 swimming center, with its bubble façade, which in 2022 became a curling rink: the "Ice Cube".
+510|At night it changes color, opposite the Bird's Nest.
+511|A five-stemmed tower with a viewing deck at the top, to see the whole Olympic Park and, on clear days, the mountains.
+512|Choose a day without smog.
+513|One of the Peking duck restaurants most loved by Beijingers, with a branch a short walk from the Forbidden City.
+514|There's always a queue: take a number when you arrive or go early. Order half a duck for two.
+515|Modern Peking duck, with crispy skin and little fat, in an elegant restaurant.
+516|Book ahead. The menu is huge and has photos.
+517|The original branch of the most famous Peking duck house, opened in 1864, with the ovens on view.
+518|More touristy than others, but it has history.
+519|Beijing's oldest duck house, from the Ming era, which roasts it in a closed oven, with no visible flame.
+520|Compare it with Quanjude's: the style is different.
+521|A family-run Peking duck restaurant hidden in a courtyard house in the Qianmen hutongs.
+522|It's small: book ahead. Follow the signs through the alleys.
+523|A shop of traditional Beijing snacks: pea cakes, stuffed rice cakes, steamed breads and the famous douzhi, a sour bean drink.
+524|You choose by looking at the counter and pay at the till. Douzhi is for the brave.
+525|A neighborhood eatery famous for chaogan, a thick liver stew, and for its steamed buns.
+526|Eat right there, at the shared tables, like the neighbors.
+527|A century-old baodu house: tripe boiled for a few seconds and dipped in sesame sauce.
+528|If you don't dare try tripe, order the sesame breads.
+529|Imperial cuisine in a hall inside Beihai park, with recipes from the Qing court and the sweets the empress ate.
+530|Combine it with a walk in the park. Book ahead.
+531|A courtyard where several traditional Beijing snack makers came together: tofu, fried snacks, breads and sweets.
+532|You pay with a card that you top up at the entrance.
+533|Beijing's most famous mutton hot pot house, opened in 1903: thin slices of lamb cooked in boiling broth.
+534|Ask for the sesame sauce for dipping.
+535|hot pot
+536|Halal mutton hot pot in the Muslim quarter, with a long queue of Beijingers at the door.
+537|Next door they sell sesame breads to take away.
+538|Old-style hot pot, in copper pots with charcoal in the middle, on the shore of Qianhai lake.
+539|Ideal in winter, after skating on the lake.
+540|The spicy Sichuan hot pot chain famous for its service: they bring you all sorts while you wait and there's a hand-pulled noodle show.
+541|Order the split broth: one spicy and one mild.
+542|Noodles and dumplings
+543|A little jiaozi house (boiled Chinese dumplings) in a hutong near the Drum Tower, with an English menu and fillings to choose from.
+544|They come by the plate of several pieces: try two or three fillings.
+545|An eatery of homemade jiaozi with loads of fillings, a short walk from the Lama Temple.
+546|Try the pork with fennel.
+547|Zhajiangmian noodles, the most Beijing of dishes: thick noodles with fermented bean sauce and raw vegetables.
+548|Mix everything well before eating.
+549|A tiny zhajiangmian shop in a hutong near Nanluoguxiang, with a queue of neighbors at lunchtime.
+550|Order the big plate to share and mix everything well.
+551|Cuisines of China
+552|Yunnan cuisine, from south-west China: mushrooms, fresh herbs and mild spice, in a historic building.
+553|Nice for dinner after a walk around Qianmen.
+554|Set-menu Yunnan cuisine, in a courtyard house lit with lanterns.
+555|Book ahead and let the day's menu surprise you.
+556|The restaurant of the Sichuan government office in Beijing: truly spicy food, with pepper that numbs your mouth.
+557|Order kung pao chicken and mapo tofu. If you're not into spicy food, say so.
+558|Uyghur food from Xinjiang: cumin lamb skewers, oven-baked breads and hand-pulled noodles.
+559|It's halal and doesn't serve pork.
+560|Vegetarian fine dining in a courtyard house opposite the Lama Temple, with Michelin stars.
+561|Book well ahead. There's a tasting menu.
+562|Creative French cuisine in a restored courtyard house in the hutongs, with Michelin stars.
+563|Book ahead. The courtyard is at its best in spring and autumn.
+564|Luxury Peking duck with French touches, in a complex of old brick factories next to the Workers' Stadium.
+565|Book ahead and order a whole duck to share.
+566|Peking duck and Cantonese cuisine in the basement of The Opposite House hotel, with very refined design.
+567|A good option to enjoy duck at a calmer pace.
+568|The food street, with a kilometer of restaurants lit by red lanterns, open until very late. The star dish is spicy crayfish.
+569|Hu Da is the most famous; expect a wait.
+570|An alley of stalls with snacks and skewers from all over China, just off Wangfujing avenue.
+571|It's very touristy: come to look and try something small.
+572|The street of the Muslim quarter, with bakeries, halal butchers and stalls of sweets and snacks.
+573|Try the sweets from the Baiji shop and the sesame breads.
+574|A little hutong street with snack shops, theaters and neighborhood stores, near Houhai.
+575|Combine it with the house of Mei Lanfang, the great Peking opera actor.
+576|Coffee and sweets
+577|A tiny specialty coffee shop in a hutong, one of the places that put Beijing coffee on the map.
+578|Order a filter coffee with Yunnan beans.
+579|Curd milk desserts in the style of the imperial court, cold and smooth, in the Niujie quarter.
+580|Combine it with the mosque and Niujie street.
+581|Beijing's traditional pastry shop: filled pastries, mooncakes and sweets from imperial times.
+582|The assorted little boxes are the classic gift from Beijing.
+583|A huge bookstore with a café and big windows facing Qianmen gate.
+584|There are books in English and lovely Chinese notebooks.
+585|Craft beer
+586|Beijing's first craft brewery, in a hidden hutong courtyard, with beers brewed with tea and Sichuan pepper.
+587|It's hard to find: look for number 6 in the alley.
+588|A Beijing brewery with lots of taps and food, known for beers with Chinese ingredients.
+589|Good burgers to go with it.
+590|A brewery with a terrace on the banks of the Liangma river, in the embassy area.
+591|In summer, the terrace by the water.
+592|A Beijing brewery with light and strong beers, in a big venue near Nanluoguxiang.
+593|To end the day after the hutongs.
+594|A bar dedicated to baijiu, Chinese liquor, with guided tastings in a hutong.
+595|Order the three-glass tasting: baijiu is strong and strange at first.
+596|A classic Sanlitun cocktail bar, with a wooden bar and signature drinks.
+597|It fills up at weekends: get there early.
+598|A tiny Japanese-style whisky and cocktail bar, with very attentive service.
+599|Ideal for a few people and quiet conversation.
+600|The 80th-floor bar of a hotel in the China World tower, with the city lit up at your feet.
+601|Book a window table and go at sunset.
+602|A small, sweaty rock and punk bar where Beijing's new bands play.
+603|Check the line-up on their social media before you go.
+604|A cult concert venue in a historic building, with Chinese and foreign bands.
+605|Tickets are sold at the door or in advance, depending on the show.
+606|Live jazz on a first floor with big windows over Qianhai lake.
+607|Arrive early for a table by the window.
+608|A traditional teahouse with Peking opera, acrobatics, face-changing and Chinese music while you drink tea.
+609|Book the evening show. It's touristy but very complete.
+610|Bar district
+611|The international nightlife district, with the Taikoo Li mall, bars, terraces and clubs.
+612|Ignore people on the street offering to take you into bars.
+613|Bars with live music and terraces on the lakeshore, with little lanterns and boats.
+614|Check prices before ordering: some bars are pricey for tourists.
+615|Beijing's big clubs, around the new Workers' Stadium.
+616|The night starts very late.
+617|The avenue leading from the Drum Tower, with small bars, musical instrument shops and breweries in the surrounding hutongs.
+618|More relaxed and cheaper than Sanlitun.
+619|A ride in a bicycle rickshaw through the Shichahai alleys, with stops at a family home.
+620|Book it through official agencies and agree on the total price before getting on.
+621|Boats that cross the Summer Palace lake, between the marble boat and the Seventeen-Arch Bridge.
+622|It saves walking: cross by boat and walk back along the Long Corridor.
+623|The waterway the empress used: a boat along the Changhe river from the zoo to the Summer Palace.
+624|It runs in the warm season; check beforehand whether it's operating.
+625|Shared bikes are unlocked with your phone and are the most Beijing way to explore the hutongs.
+626|They're activated from Alipay or WeChat. Wear a helmet if you can and watch out for silent electric scooters.
+627|The dawn ceremony, when soldiers march and raise the flag in front of Tiananmen Gate.
+628|It's at sunrise: book the square and arrive well before. Big crowds.
+629|Early in the morning, the Temple of Heaven park fills with people doing tai chi, dancing and singing. Many will invite you to join.
+630|Go as soon as the park opens. Watch and, if they invite you, give it a try.
+631|Workshops to learn to make jiaozi, hand-pulled noodles or duck, with a chef and in English.
+632|Booked online. A good plan for a rainy day.
+633|On Maliandao tea street, sellers let you taste Chinese teas with the full ritual.
+634|Tasting is free, but it's polite to buy something. Check the price per weight carefully.
+635|Agencies that pick you up at your hotel and take you to a section of the Wall, with a guide and lunch.
+636|Choose one that goes to Mutianyu or Jinshanling and doesn't stop at shops.
+637|A guide takes you through the hutongs tasting Beijing snacks you'd never dare order on your own.
+638|Let them know if you have any allergies.
+639|Guided walks through the alleys of Gulou, Dongsi or Dashilan, with the history of the courtyard houses.
+640|Book with an agency that has good reviews.
+641|The nearly 8-kilometer line that orders the city, from Yongding Gate to the Bell Tower, a World Heritage Site since 2024.
+642|You can do it with a guide or on your own: Temple of Heaven, Qianmen, Tiananmen, Forbidden City, Jingshan and the towers.
+643|The loveliest restored section near Beijing, among forested mountains, with a chairlift up and a toboggan down.
+644|A full day. There are direct buses from Dongzhimen and agencies. Less crowded than Badaling.
+645|The most visited and easiest to reach section, with a direct train from Beijing. Booked with your passport.
+646|Go on a weekday: at weekends it's a sea of people.
+647|A section partly restored and partly original, with towers on the ridges and very few people. For walking several hours.
+648|Bring water and sneakers. It's lovely at sunrise and sunset.
+649|The wild, unrestored wall on very steep peaks: the one in the most spectacular photos.
+650|It's dangerous: go only with a guide and good footwear. Don't climb in the rain.
+651|An original section that can also be visited at night, lit up, next to the village of Gubei.
+652|Book a timed ticket. Combine it with a night in Gubei.
+653|History and villages
+654|The valley where thirteen Ming emperors are buried, with the Sacred Way of stone statues.
+655|It can be combined with Badaling on the same day.
+656|A village of canals and old houses rebuilt at the foot of the Simatai Wall, with hotels and lanterns at night.
+657|Ideal for spending a night and seeing the Wall lit up.
+658|A mountain village of stone houses from the Ming and Qing eras, in a quiet valley.
+659|It's far and without good transport: better by car or on a tour.
+660|A 12th-century stone bridge with hundreds of carved lions, all different, described by Marco Polo. Next to it is the Wanping fortress.
+661|Count the lions: they say nobody gets the same number.
+662|Cities and temples
+663|The big port city half an hour away by high-speed train, with neighborhoods of European houses, Ancient Culture Street and a Ferris wheel on a bridge.
+664|Take the train at Beijing South station. One day is enough.
+665|The huge summer retreat of the Qing emperors, with lakes, forests and temples that copy those of Tibet.
+666|High-speed train from Beijing Chaoyang. Better with an overnight stay.
+667|A Buddhist temple in the mountains older than Beijing itself, with thousand-year-old ginkgo trees.
+668|Combine it with Jietai Temple, which is nearby.
+669|The temple where monks were ordained, with a great marble altar and famous twisted pines.
+670|Quieter than Tanzhe.
+671|A classic hostel on Nanluoguxiang, with dorms and private rooms, and people from all over the world.
+672|They organize trips to the Wall.
+673|A hostel with good service in the Dongsi hutongs, near the metro.
+674|Ask reception for help booking tickets.
+675|A hostel in a courtyard house near Dashilan, a short walk from Qianmen.
+676|Well located for walking to Tiananmen.
+677|A hostel in a courtyard house with red lanterns, in the western hutongs.
+678|A quiet atmosphere, away from the Houhai nightlife.
+679|Courtyard hotel
+680|A boutique hotel in a courtyard house, with a terrace overlooking the Drum Tower.
+681|Book well ahead: it has few rooms.
+682|A Qing-era siheyuan with antique furniture, near Nanluoguxiang.
+683|Ask for a room facing the courtyard.
+684|A hotel in an old Qing-era courtyard residence, with a stone gate guarded by lions, around the corner from Nanluoguxiang.
+685|A hotel in a courtyard house with painted galleries and red lanterns, in the Dongsi hutongs.
+686|Near Dongsi metro and within walking distance of Wangfujing.
+687|A comfortable chain hotel a block from Wangfujing.
+688|A good base for walking to the Forbidden City.
+689|A classic hotel near Qianmen with the Liyuan Theatre, for Peking opera, inside.
+690|Ideal if you want to see opera without leaving the hotel.
+691|A modern hotel a short walk from Wangfujing's pedestrian street.
+692|The upper rooms have city views.
+693|A large hotel on Chang'an avenue, with an indoor pool that looks like a jungle.
+694|Underneath are the Oriental Plaza mall and the metro.
+695|A classic luxury hotel a short walk from Wangfujing and the Forbidden City.
+696|The service is among the best in the city.
+697|Imperial-era pavilions next to the Summer Palace, with a private gate into the park.
+698|Far from the center, but the Summer Palace empty in the morning is priceless.
+699|A modern luxury hotel opposite the CCTV tower, with good restaurants.
+700|Convenient for getting around the CBD and Sanlitun.
+701|A Kengo Kuma design hotel right in Taikoo Li, with a green glass façade.
+702|Ideal if you want to go out at night in Sanlitun.
+703|The big market of antiques and old things: porcelain, jades, Mao books, furniture and thousands of souvenirs.
+704|Weekend mornings are when there are most stalls. Haggle: almost nothing is truly antique.
+705|A building of several floors full of stalls selling clothes, silk, suitcases and souvenirs.
+706|Haggle seriously: the first price can be several times the real one.
+707|Pearls, jades, electronics and souvenirs, opposite the east gate of the Temple of Heaven.
+708|The upper floors have the pearls; haggle.
+709|Over a kilometer of shops selling tea, teapots and cups, where those in the know buy.
+710|Ask to taste before you buy.
+711|Streets and malls
+712|The best-known pedestrian shopping avenue, with department stores, bookshops and St Joseph's Cathedral.
+713|The Foreign Languages Bookstore has English books about China.
+714|An open-air mall with international shops, Chinese design brands and restaurants.
+715|At night it fills with young people and lights.
+716|One of the largest luxury malls in the world, with a top-notch food hall.
+717|With your passport, ask about the on-the-spot tax refund.
+718|The rebuilt pedestrian avenue south of Tiananmen, with an old-style tram and shops of traditional brands.
+719|Very pretty at night, with the lanterns lit.
+720|Traditional shops
+721|The silk shop from 1893, where made-to-measure dresses (qipao) are tailored.
+722|Silk scarves make a good gift.
+723|Liulichang's great art house, over 300 years old: paper, brushes, seals, paintings and woodblock prints.
+724|Browsing is free; small prints make a good gift.
+725|The most famous Chinese medicine pharmacy, from 1669, which supplied the imperial court.
+726|Looking at the herb drawers is worth the visit. Don't buy medicines without consulting a doctor.
+727|The street of calligraphy and painting: brushes, rice paper, seals, ink and antiques.
+728|They can make you a seal with your name in Chinese.
+729|Beijing's football stadium, rebuilt in 2023, home of Beijing Guoan, with very loud fans.
+730|The Chinese league season runs from March to November. Tickets are sold through Chinese apps: ask your hotel for help.
+731|The Wukesong indoor arena, from the 2008 and 2022 Games, with basketball, ice hockey and concerts.
+732|Check the schedule: there are Chinese basketball league games.
+733|The "Ice Ribbon", the 2022 speed skating stadium, which opens to the public for skating.
+734|Check beforehand which days are open to the public. Skates for rent.
+735|In midwinter the lake freezes and becomes Beijing's most famous skating rink, with chair sleds.
+736|Only in the coldest months, when the ice is safe.
+737|A huge park with a lake and 5 and 10 km running loops, favorites of Beijing's runners.
+738|The loop has a soft running track.
+739|The largest park in the center, with lakes, sports courts and playgrounds.
+740|Nice for an early run or a picnic.
+741|The last remaining stretch of the city wall, with a park for walking at its foot and the Dongbianmen watchtower.
+742|In spring the plum trees blossom.
+743|A park with lakes and the most cherry trees in Beijing, which bloom in April.
+744|There's a cherry blossom festival in April.
+745|Peking opera every night, designed for tourists, with English subtitles and short pieces.
+746|Arrive early and watch the actors put on their make-up.
+747|A wooden theater from 1807, one of the oldest of Peking opera, with a small museum.
+748|It's opera on its original stage.
+749|Chinese acrobatics: balancing acts, jugglers and motorbikes in a steel sphere.
+750|Loved by all ages.
+751|The kung fu show "The Legend of Kung Fu", with monks who leap, fight and smash things.
+752|The titanium and glass "egg" next to Tiananmen, surrounded by water, with opera, ballet and concerts.
+753|Check the programme: sometimes there are cheap tickets.
+754|China's oldest zoo, with the giant panda house.
+755|Go in the morning, when the pandas are most active.
+756|A large aquarium with a shark tunnel and a dolphin show, next to the zoo.
+757|Combine it with the pandas.
+758|A planetarium with a dome, astronomy halls and meteorites.
+759|Opposite the zoo.
+760|Universal's park, with Harry Potter, Transformers, Kung Fu Panda and Minions areas.
+761|Buy tickets in advance. You get there by metro (lines 1 and 7).
+762|An amusement park with roller coasters and themed areas.
+763|It gets packed at weekends; go on a weekday.
+764|Everything you need to explore the city
+765|Tours and experiences
+766|Day 1 · morning
+767|Day 1 · midday
+768|Day 1 · afternoon
+769|Day 1 · evening
+770|Day 2 · evening
+771|Day 3 · morning
+772|Day 3 · midday
+773|Day 3 · afternoon
+774|Day 3 · evening
+775|Café
+776|A day designed for kids.
+777|Circular
+778|With your bank card
+779|Rush hour
+780|Last train
+781|Stations
+782|On foot and by bike
+783|Shared bikes
+784|Be careful
+785|Police
+786|Ambulance
+787|Documents and help
+788|ATMs
+789|People have lunch and dinner early. Many restaurants close their kitchen earlier than you'd expect.
+790|Autumn
+791|Spring
+792|Summer
+793|Winter
+794|Official airport website
+795|Metro lines
+796|Peace of mind
+797|Hello
+798|Sorry, excuse me
+799|Do you speak English?
+800|Where is…?
+801|Where is the toilet?
+802|I don't understand
+803|I need a doctor
+804|Airports and stations
+805|Toilet
+806|Pilgrim
+807|From above
+808|3 viewpoints
+809|Viewpoints
+810|Day trips
+811|January or February
+812|Chinese New Year
+813|February or March
+814|May or June
+815|July and August
+816|Emergencies
+817|The guide only includes places with a lasting reputation: official distinctions, recognised guides and good consensus in public reviews.
+818|chinese food
+819|Streets and markets
+820|Cocktail bar
+821|Outings
+822|Experience
+823|Markets
+824|Outdoors
+825|Ideal with kids.
+826|Beijing

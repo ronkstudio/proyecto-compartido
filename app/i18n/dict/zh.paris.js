@@ -150,8 +150,6 @@ Object.assign(window.I18N_FULL = window.I18N_FULL || {}, {
 "Canal Saint-Martin y Belleville": "圣马丁运河与美丽城",
 "Louvre, Marais y Saint-Germain": "卢浮宫、玛黑区和圣日耳曼",
 "Torre Eiffel y Montmartre": "埃菲尔铁塔与蒙马特",
-"Enero o febrero": "1月或2月",
-"Año Nuevo chino": "春节",
 "Desfiles con dragones y música en el Barrio Chino (distrito 13) y en Belleville.": "在中国城（13区）和美丽城有舞龙游行和音乐表演。",
 "Marzo y fines de septiembre": "3月和9月底",
 "Semana de la Moda": "时装周",
