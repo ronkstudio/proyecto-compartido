@@ -230,3 +230,4 @@ Hasta el 13/11 estuvo en `ronkstudio/menu-3d-publico/guia-buenos-aires/`. Ese re
 - 20/11 · #221 · Control de datos de las 11 ciudades (`zz-revisar.html`, no se publica); lo que encontró está en la tarjeta #221.
 - 20/11 · #224 · Sin horarios exactos en ninguna ciudad (21 textos, en los 8 idiomas); los datos de dieta tienen fuente o se sacaron.
 - 20/11 · #223 · Consulados que faltaban: Colombia, México, Perú y Estados Unidos en Lisboa, Perú y Uruguay en Buenos Aires, Perú en Bogotá.
+- 20/11 · #225 · Ubicaciones: Andrés Carne de Res (Bogotá) en el mapa; en Río, Bar Lagoa y Cobal do Leblon reemplazan a dos lugares que no están en OpenStreetMap.

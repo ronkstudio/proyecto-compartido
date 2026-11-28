@@ -9,6 +9,7 @@ Los que consultan internet (OpenStreetMap, Wikimedia Commons, Wikidata) se prese
 | Script | Para qué |
 |---|---|
 | `geociudad.pl` | Primera pasada de ubicaciones: busca cada lugar por nombre y por dirección en OpenStreetMap (Nominatim). |
+| `geopekin.pl` | Para ciudades con nombres en otro alfabeto (Pekín): busca cada lugar en OpenStreetMap por el nombre local que va al final de la dirección (después de " · ") y confirma que caiga en su distrito. |
 | `coordsciudad.pl` | Arma `data/<ciudad>-coords.js` con la ubicación de cada lugar (una primera pasada automática más correcciones a mano, que ganan). |
 | `textos.pl` | Lista los textos de una ciudad que todavía no tienen traducción. |
 | `textos-todos.pl` | Lista todos los textos que usa una ciudad (traducidos o no). |

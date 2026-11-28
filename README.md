@@ -6,7 +6,7 @@ Cada uno trabaja con su propio Claude. Las reglas están en [CLAUDE.md](CLAUDE.m
 
 ## Qué estamos construyendo
 
-Una app de turismo que te dice todo lo que necesitás para tu viaje: qué hacer, dónde comer, cómo moverte, qué evitar y dónde pedir ayuda. Arrancó con la Ciudad de Buenos Aires y hoy tiene 11 ciudades (la lista está en `app/data/ciudades.js`).
+Una app de turismo que te dice todo lo que necesitás para tu viaje: qué hacer, dónde comer, cómo moverte, qué evitar y dónde pedir ayuda. Arrancó con la Ciudad de Buenos Aires y hoy tiene 12 ciudades (la lista está en `app/data/ciudades.js`).
 
 **Ya hay una versión que funciona**, en la carpeta [app/](app/). Para abrirla: doble clic en `app/index.html`. Más detalle en [app/LEEME.md](app/LEEME.md).
 
